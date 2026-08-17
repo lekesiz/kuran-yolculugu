@@ -1,0 +1,208 @@
+{
+ "stationNo": 22,
+ "surahNo": 109,
+ "nuzulOrderOkuyan": 18,
+ "name": "Kâfirûn",
+ "nameArabic": "الكافرون",
+ "nameMeaning": "İnkâr edenler",
+ "verseCount": 6,
+ "periodDiyanet": "Mekke",
+ "periodOkuyan": "Mekke",
+ "revelationTiming": "Mekke dönemi — uzlaşma teklifleri karşısında",
+ "stationTitle": "Sınır çizmek düşmanlık değildir: benim dinim bana, sizin dininiz size.",
+ "introduction": "Kâfirûn suresi, adını birinci ayetteki hitaptan alır. Altı ayetlik sure Mekke döneminde, uzlaşma tekliflerinin gündeme geldiği bir aşamada inmiştir.\n\nSure tekrar üzerine kuruludur: dört ayet boyunca aynı ayrım farklı kiplerle yeniden söylenir. Kapanış ise net bir cümledir: \"Sizin dininiz size, benim dinim bana.\" Bu, hem kesin bir ayrım hem de zorlamanın reddidir.",
+ "occasionOfRevelation": "Nüzul kaynaklarının naklettiğine göre Mekke ileri gelenleri, çatışmayı bitirmek için bir uzlaşma önerisi getirdi: bir süre onların taptıklarına saygı gösterilmesi, karşılığında onların da yeni çağrıya saygı göstermesi. Teklif, inanç meselesini bir ticarî pazarlık konusu gibi ele alıyordu.\n\nSure bu teklife karşılık iner ve pazarlığı kesin biçimde reddeder. Ancak reddin biçimi önemlidir: karşı tarafa saldırı, tehdit ya da lanet içermez. Yalnızca ayrımı netleştirir ve herkesi kendi yoluna bırakır.\n\nBu teklife dair rivayetlerin ayrıntıları kaynaklarda farklılık gösterir. Ancak surenin yapısı — ısrarlı tekrar ve ardından ayrım cümlesi — bir pazarlık girişimine verilen cevap olduğunu destekler.",
+ "occasionSources": "Diyanet İşleri Başkanlığı Kur'an Yolu Tefsiri, Kâfirûn suresi girişi; Vâhidî, Esbâbü'n-Nüzûl; TDV İslâm Ansiklopedisi, \"Kâfirûn Sûresi\" maddesi.",
+ "contemporaryMeaning": "Bu sure iki şeyi aynı anda yapar ve bugün ikisi de kolay değildir. Birincisi, inanç meselesinde pazarlığı reddeder — ilkeler karşılıklı taviz konusu yapılmaz. İkincisi, bu reddi düşmanlığa çevirmez.\n\nKapanış cümlesi bir zorlama reddidir: \"sizin dininiz size.\" Karşı tarafı değiştirmek üzerine bir program kurulmaz. Bu, hem kendi çizgisini korumayı hem ötekinin çizgisini tanımayı içeren bir tutumdur.\n\nBugünün diliyle: net olmak kaba olmayı gerektirmez. Sınır koymak ile düşman ilan etmek farklı şeylerdir. Sure bu ayrımı altı ayette gösterir.",
+ "keyTerms": [
+  {
+   "term": "kâfirûn",
+   "arabic": "الْكَافِرُون",
+   "verseRef": "109:1",
+   "meaning": "İnkâr edenler, örtenler. Kökü bir şeyin üzerini örtmek anlamındadır; hakikati görüp örtme fiiline işaret eder."
+  },
+  {
+   "term": "lâ a'büdü mâ ta'büdûn",
+   "arabic": "لَا أَعْبُدُ مَا تَعْبُدُون",
+   "verseRef": "109:2",
+   "meaning": "Sizin taptıklarınıza tapmam. Ayrımın birinci ifadesi."
+  },
+  {
+   "term": "leküm dînüküm ve liye dîn",
+   "arabic": "لَكُمْ دِينُكُمْ وَلِيَ دِين",
+   "verseRef": "109:6",
+   "meaning": "Sizin dininiz size, benim dinim bana. Hem kesin ayrım hem zorlamanın reddi."
+  }
+ ],
+ "themes": [
+  {
+   "label": "İlkeler pazarlık konusu değildir",
+   "body": "Sure, karşılıklı taviz teklifini reddeder. İnanç meselesi bir alışveriş kalemine dönüştürülemez."
+  },
+  {
+   "label": "Ret, düşmanlık değildir",
+   "body": "Reddin biçiminde tehdit, hakaret ya da lanet yoktur. Yalnızca ayrım netleştirilir."
+  },
+  {
+   "label": "Zorlamanın reddi",
+   "body": "\"Sizin dininiz size.\" Karşı tarafı değiştirmek üzerine bir program kurulmaz; ötekinin çizgisi tanınır."
+  },
+  {
+   "label": "Tekrarın işlevi",
+   "body": "Aynı ayrım dört kez farklı kiplerle söylenir. Israr, teklifin ne kadar kararlı biçimde reddedildiğini gösterir."
+  }
+ ],
+ "questions": [
+  "Net olmakla kaba olmayı karıştırdığım oluyor mu? Sınır koyduğumda karşı tarafı düşman ilan ediyor muyum?",
+  "Vazgeçmemem gereken bir ilkeyi, ilişkiyi bozmamak için pazarlık konusu yaptığım oldu mu?",
+  "Farklı düşünen birini değiştirmeye mi çalışıyorum, yoksa kendi çizgimi koruyup ona alan bırakabiliyor muyum?"
+ ],
+ "verses": [
+  {
+   "verseNo": 1,
+   "textArabic": "بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ قُلْ يَٰٓأَيُّهَا ٱلْكَٰفِرُونَ"
+  },
+  {
+   "verseNo": 2,
+   "textArabic": "لَآ أَعْبُدُ مَا تَعْبُدُونَ"
+  },
+  {
+   "verseNo": 3,
+   "textArabic": "وَلَآ أَنتُمْ عَٰبِدُونَ مَآ أَعْبُدُ"
+  },
+  {
+   "verseNo": 4,
+   "textArabic": "وَلَآ أَنَا۠ عَابِدٌۭ مَّا عَبَدتُّمْ"
+  },
+  {
+   "verseNo": 5,
+   "textArabic": "وَلَآ أَنتُمْ عَٰبِدُونَ مَآ أَعْبُدُ"
+  },
+  {
+   "verseNo": 6,
+   "textArabic": "لَكُمْ دِينُكُمْ وَلِىَ دِينِ"
+  }
+ ],
+ "translations": [
+  {
+   "verseNo": 1,
+   "source": "diyanet",
+   "text": "De ki: “Ey Kâfirler!”"
+  },
+  {
+   "verseNo": 1,
+   "source": "okuyan",
+   "text": "De ki: “Ey kâfirler!"
+  },
+  {
+   "verseNo": 1,
+   "source": "islamoglu",
+   "text": "DE ki: Siz, ey kâfirler!"
+  },
+  {
+   "verseNo": 1,
+   "source": "esed",
+   "text": "DE Kİ: “Siz ey hakikati inkar edenler!"
+  },
+  {
+   "verseNo": 2,
+   "source": "diyanet",
+   "text": "“Ben sizin kulluk ettiklerinize kulluk etmem.”"
+  },
+  {
+   "verseNo": 2,
+   "source": "okuyan",
+   "text": "Ben sizin tapmakta olduklarınıza tapmıyorum."
+  },
+  {
+   "verseNo": 2,
+   "source": "islamoglu",
+   "text": "Asla kul olmam sizin kul olduğunuz şeylere,"
+  },
+  {
+   "verseNo": 2,
+   "source": "esed",
+   "text": "Ben tapmam sizin taptığınıza,"
+  },
+  {
+   "verseNo": 3,
+   "source": "diyanet",
+   "text": "“Siz de benim kulluk ettiğime kulluk edecek değilsiniz.”"
+  },
+  {
+   "verseNo": 3,
+   "source": "okuyan",
+   "text": "Siz de benim tapmakta olduğuma tapmıyorsunuz."
+  },
+  {
+   "verseNo": 3,
+   "source": "islamoglu",
+   "text": "siz de benim kul olduğuma kulluk ediyor değilsiniz!"
+  },
+  {
+   "verseNo": 3,
+   "source": "esed",
+   "text": "siz de tapmazsınız benim taptığıma."
+  },
+  {
+   "verseNo": 4,
+   "source": "diyanet",
+   "text": "“Ben sizin kulluk ettiklerinize kulluk edecek değilim.”"
+  },
+  {
+   "verseNo": 4,
+   "source": "okuyan",
+   "text": "(Zaten) ben sizin tapmış olduklarınıza tapmıyordum."
+  },
+  {
+   "verseNo": 4,
+   "source": "islamoglu",
+   "text": "Ve ben asla kulluk etmeyeceğim sizin kul olduklarınıza,"
+  },
+  {
+   "verseNo": 4,
+   "source": "esed",
+   "text": "Ve ben tapmayacağım [asla] sizin tapıp durduğunuza,"
+  },
+  {
+   "verseNo": 5,
+   "source": "diyanet",
+   "text": "“Siz de benim kulluk ettiğime kulluk edecek değilsiniz.”"
+  },
+  {
+   "verseNo": 5,
+   "source": "okuyan",
+   "text": "Siz de benim taptığıma tapmıyordunuz."
+  },
+  {
+   "verseNo": 5,
+   "source": "islamoglu",
+   "text": "siz de benim kul olduğuma kulluk edecek değilsiniz."
+  },
+  {
+   "verseNo": 5,
+   "source": "esed",
+   "text": "siz de [hiç] tapmayacaksınız benim taptığıma."
+  },
+  {
+   "verseNo": 6,
+   "source": "diyanet",
+   "text": "“Sizin dininiz size, benim dinim de banadır.”"
+  },
+  {
+   "verseNo": 6,
+   "source": "okuyan",
+   "text": "Sizin dininiz size, benim dinim banadır!"
+  },
+  {
+   "verseNo": 6,
+   "source": "islamoglu",
+   "text": "O halde sizin dininiz size, benim dinim bana!"
+  },
+  {
+   "verseNo": 6,
+   "source": "esed",
+   "text": "Sizin dininiz size, benimki bana!”"
+  }
+ ]
+}

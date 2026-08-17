@@ -1,0 +1,544 @@
+{
+ "stationNo": 3,
+ "surahNo": 73,
+ "nuzulOrderOkuyan": 3,
+ "name": "Müzzemmil",
+ "nameArabic": "المزمل",
+ "nameMeaning": "Örtüsüne bürünen",
+ "verseCount": 20,
+ "periodDiyanet": "Mekke",
+ "periodOkuyan": "Mekke",
+ "revelationTiming": "İlk vahyin hemen ardından",
+ "stationTitle": "Sorumluluk almanın ilk şartı, geceyi kendine ayırmaktır.",
+ "introduction": "Müzzemmil suresi, adını ilk ayetteki \"örtüsüne bürünen\" hitabından alır. Yirmi ayetlik sure, ilk vahyin sarsıntısının hemen ardından gelmiştir ve kendisine yüklenen ağır sorumluluğu taşıyacak kişiye bir hazırlık programı sunar.\n\nSurenin ilk bölümü gece ibadetini, ölçülü bir disiplini ve metnin ağır ağır okunmasını (tertîl) emreder. Yirminci ayet, Medine döneminde bu programın hafifletildiğini bildirir; bu yüzden sure hem bir başlangıç metni hem de sonradan tamamlanmış bir metindir.",
+ "occasionOfRevelation": "Nüzul kaynakları, ilk vahyin ardından Hz. Muhammed'in eve dönüp örtüsüne büründüğünü ve bu hâldeyken \"Ey örtüsüne bürünen!\" hitabının geldiğini nakleder. Hitabın kendisi durumu tasvir eder: sarsılmış, örtünmüş, geri çekilmiş bir insan.\n\nSurenin cevabı ilgi çekicidir. Sarsıntıya \"korkma\" denmez; \"kalk\" denir. Ardından somut bir program gelir: gecenin bir bölümünde kalkmak, metni acele etmeden okumak, söylenene karşı sabır göstermek. Klasik tefsirler bu bölümün, henüz açık davet başlamamışken bir iç hazırlık dönemine denk geldiğini belirtir.\n\nSurenin son ayeti Medine'de inmiştir ve gece ibadetinin farz oluşunu hafifletir. Bu, metnin kendi içinde bir tedricîlik — aşama aşama ilerleme — ilkesi taşıdığını gösterir.",
+ "occasionSources": "Diyanet İşleri Başkanlığı Kur'an Yolu Tefsiri, Müzzemmil suresi girişi; TDV İslâm Ansiklopedisi, \"Müzzemmil Sûresi\" maddesi.",
+ "contemporaryMeaning": "Sure, büyük bir işe girişmenin önce kendisiyle yalnız kalmayı gerektirdiğini söyler. Gece, kimsenin görmediği, performans göstermenin anlamsız olduğu zamandır; bu yüzden karakterin gerçekten kurulduğu yerdir.\n\nTertîl kavramı bugün özellikle önemlidir: metni ağır ağır, tane tane okumak. Hız çağında bir metnin üzerinde yavaşlamak başlı başına bir disiplindir. Surenin son ayetinin yükü hafifletmesi ise ayrı bir ders taşır — sürdürülemeyen bir yoğunluk, erdem değil tükenmedir.",
+ "keyTerms": [
+  {
+   "term": "müzzemmil",
+   "arabic": "الْمُزَّمِّل",
+   "verseRef": "73:1",
+   "meaning": "Örtüsüne bürünen, sarınan. Sarsıntı sonrası geri çekilme hâlini tasvir eden bir hitap."
+  },
+  {
+   "term": "tertîl",
+   "arabic": "تَرْتِيلًا",
+   "verseRef": "73:4",
+   "meaning": "Ağır ağır, tane tane, düzenli okumak. Aceleyle geçmemek, her kelimenin üzerinde durmak."
+  },
+  {
+   "term": "kavlen sekîlâ",
+   "arabic": "قَوْلًا ثَقِيلًا",
+   "verseRef": "73:5",
+   "meaning": "Ağır söz. Yüklenen sorumluluğun hafif olmadığının baştan bildirilmesi."
+  }
+ ],
+ "themes": [
+  {
+   "label": "Geri çekilme hâline verilen cevap: kalk",
+   "body": "Sarsılmış ve örtüsüne bürünmüş kişiye teselli değil eylem çağrısı yapılır. Metin, korkunun geçmesini beklemek yerine hareketle başlamayı önerir."
+  },
+  {
+   "label": "Gece, karakterin kurulduğu yer",
+   "body": "Kimsenin görmediği vakitte yapılan şey, gösteri olamaz. Sure sorumluluğa hazırlığı tam olarak buraya, görünmeyen zamana yerleştirir."
+  },
+  {
+   "label": "Ağır ağır okumak (tertîl)",
+   "body": "Metin, kendisinin acele okunmasını istemez. Yavaşlık burada bir yöntem, hatta bir ahlaktır."
+  },
+  {
+   "label": "Sürdürülebilir yük",
+   "body": "Surenin son ayeti gece ibadetinin ağırlığını hafifletir. Taşınamayan bir yoğunluk ısrarla sürdürülmez; metin insanın sınırını tanır."
+  }
+ ],
+ "questions": [
+  "Günümde hiç kimsenin görmediği, hesap vermediğim, tamamen kendime ait bir zaman dilimi var mı? Yoksa bütün vaktim başkalarına görünen işlerle mi dolu?",
+  "Okuduğum şeyleri gerçekten okuyor muyum, yoksa bitirmek için mi geçiyorum? Son ne zaman bir metnin tek bir cümlesinde durup düşündüm?",
+  "Kaldıramadığım bir yükü, bırakmayı başarısızlık sayacağım için taşımaya devam ediyor muyum?"
+ ],
+ "verses": [
+  {
+   "verseNo": 1,
+   "textArabic": "بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ يَٰٓأَيُّهَا ٱلْمُزَّمِّلُ"
+  },
+  {
+   "verseNo": 2,
+   "textArabic": "قُمِ ٱلَّيْلَ إِلَّا قَلِيلًۭا"
+  },
+  {
+   "verseNo": 3,
+   "textArabic": "نِّصْفَهُۥٓ أَوِ ٱنقُصْ مِنْهُ قَلِيلًا"
+  },
+  {
+   "verseNo": 4,
+   "textArabic": "أَوْ زِدْ عَلَيْهِ وَرَتِّلِ ٱلْقُرْءَانَ تَرْتِيلًا"
+  },
+  {
+   "verseNo": 5,
+   "textArabic": "إِنَّا سَنُلْقِى عَلَيْكَ قَوْلًۭا ثَقِيلًا"
+  },
+  {
+   "verseNo": 6,
+   "textArabic": "إِنَّ نَاشِئَةَ ٱلَّيْلِ هِىَ أَشَدُّ وَطْـًۭٔا وَأَقْوَمُ قِيلًا"
+  },
+  {
+   "verseNo": 7,
+   "textArabic": "إِنَّ لَكَ فِى ٱلنَّهَارِ سَبْحًۭا طَوِيلًۭا"
+  },
+  {
+   "verseNo": 8,
+   "textArabic": "وَٱذْكُرِ ٱسْمَ رَبِّكَ وَتَبَتَّلْ إِلَيْهِ تَبْتِيلًۭا"
+  },
+  {
+   "verseNo": 9,
+   "textArabic": "رَّبُّ ٱلْمَشْرِقِ وَٱلْمَغْرِبِ لَآ إِلَٰهَ إِلَّا هُوَ فَٱتَّخِذْهُ وَكِيلًۭا"
+  },
+  {
+   "verseNo": 10,
+   "textArabic": "وَٱصْبِرْ عَلَىٰ مَا يَقُولُونَ وَٱهْجُرْهُمْ هَجْرًۭا جَمِيلًۭا"
+  },
+  {
+   "verseNo": 11,
+   "textArabic": "وَذَرْنِى وَٱلْمُكَذِّبِينَ أُو۟لِى ٱلنَّعْمَةِ وَمَهِّلْهُمْ قَلِيلًا"
+  },
+  {
+   "verseNo": 12,
+   "textArabic": "إِنَّ لَدَيْنَآ أَنكَالًۭا وَجَحِيمًۭا"
+  },
+  {
+   "verseNo": 13,
+   "textArabic": "وَطَعَامًۭا ذَا غُصَّةٍۢ وَعَذَابًا أَلِيمًۭا"
+  },
+  {
+   "verseNo": 14,
+   "textArabic": "يَوْمَ تَرْجُفُ ٱلْأَرْضُ وَٱلْجِبَالُ وَكَانَتِ ٱلْجِبَالُ كَثِيبًۭا مَّهِيلًا"
+  },
+  {
+   "verseNo": 15,
+   "textArabic": "إِنَّآ أَرْسَلْنَآ إِلَيْكُمْ رَسُولًۭا شَٰهِدًا عَلَيْكُمْ كَمَآ أَرْسَلْنَآ إِلَىٰ فِرْعَوْنَ رَسُولًۭا"
+  },
+  {
+   "verseNo": 16,
+   "textArabic": "فَعَصَىٰ فِرْعَوْنُ ٱلرَّسُولَ فَأَخَذْنَٰهُ أَخْذًۭا وَبِيلًۭا"
+  },
+  {
+   "verseNo": 17,
+   "textArabic": "فَكَيْفَ تَتَّقُونَ إِن كَفَرْتُمْ يَوْمًۭا يَجْعَلُ ٱلْوِلْدَٰنَ شِيبًا"
+  },
+  {
+   "verseNo": 18,
+   "textArabic": "ٱلسَّمَآءُ مُنفَطِرٌۢ بِهِۦ ۚ كَانَ وَعْدُهُۥ مَفْعُولًا"
+  },
+  {
+   "verseNo": 19,
+   "textArabic": "إِنَّ هَٰذِهِۦ تَذْكِرَةٌۭ ۖ فَمَن شَآءَ ٱتَّخَذَ إِلَىٰ رَبِّهِۦ سَبِيلًا"
+  },
+  {
+   "verseNo": 20,
+   "textArabic": "۞ إِنَّ رَبَّكَ يَعْلَمُ أَنَّكَ تَقُومُ أَدْنَىٰ مِن ثُلُثَىِ ٱلَّيْلِ وَنِصْفَهُۥ وَثُلُثَهُۥ وَطَآئِفَةٌۭ مِّنَ ٱلَّذِينَ مَعَكَ ۚ وَٱللَّهُ يُقَدِّرُ ٱلَّيْلَ وَٱلنَّهَارَ ۚ عَلِمَ أَن لَّن تُحْصُوهُ فَتَابَ عَلَيْكُمْ ۖ فَٱقْرَءُوا۟ مَا تَيَسَّرَ مِنَ ٱلْقُرْءَانِ ۚ عَلِمَ أَن سَيَكُونُ مِنكُم مَّرْضَىٰ ۙ وَءَاخَرُونَ يَضْرِبُونَ فِى ٱلْأَرْضِ يَبْتَغُونَ مِن فَضْلِ ٱللَّهِ ۙ وَءَاخَرُونَ يُقَٰتِلُونَ فِى سَبِيلِ ٱللَّهِ ۖ فَٱقْرَءُوا۟ مَا تَيَسَّرَ مِنْهُ ۚ وَأَقِيمُوا۟ ٱلصَّلَوٰةَ وَءَاتُوا۟ ٱلزَّكَوٰةَ وَأَقْرِضُوا۟ ٱللَّهَ قَرْضًا حَسَنًۭا ۚ وَمَا تُقَدِّمُوا۟ لِأَنفُسِكُم مِّنْ خَيْرٍۢ تَجِدُوهُ عِندَ ٱللَّهِ هُوَ خَيْرًۭا وَأَعْظَمَ أَجْرًۭا ۚ وَٱسْتَغْفِرُوا۟ ٱللَّهَ ۖ إِنَّ ٱللَّهَ غَفُورٌۭ رَّحِيمٌۢ"
+  }
+ ],
+ "translations": [
+  {
+   "verseNo": 1,
+   "source": "diyanet",
+   "text": "Ey örtünüp bürünen (Peygamber)!"
+  },
+  {
+   "verseNo": 1,
+   "source": "okuyan",
+   "text": "Ey (peygamberlik görevine) bürünen!"
+  },
+  {
+   "verseNo": 1,
+   "source": "islamoglu",
+   "text": "SEN ey ağır yük yüklenen (Nebi)!"
+  },
+  {
+   "verseNo": 1,
+   "source": "esed",
+   "text": "EY örtülere bürünen (insan)!"
+  },
+  {
+   "verseNo": 2,
+   "source": "diyanet",
+   "text": "2,3. Kalk, birazı hariç olmak üzere geceyi; yarısını ibadetle geçir. Yahut bundan biraz eksilt."
+  },
+  {
+   "verseNo": 2,
+   "source": "okuyan",
+   "text": "Birazı (bazı saatleri) hariç, gece kalk!"
+  },
+  {
+   "verseNo": 2,
+   "source": "islamoglu",
+   "text": "Kalk gecenin ilerleyen bir vaktinde!"
+  },
+  {
+   "verseNo": 2,
+   "source": "esed",
+   "text": "Gece biraz ilerleyince [namaz için] kalk;"
+  },
+  {
+   "verseNo": 3,
+   "source": "diyanet",
+   "text": "2,3. Kalk, birazı hariç olmak üzere geceyi; yarısını ibadetle geçir. Yahut bundan biraz eksilt."
+  },
+  {
+   "verseNo": 3,
+   "source": "okuyan",
+   "text": "(Gecenin) yarısında, ondan biraz eksilt(erek daha erken kalk)."
+  },
+  {
+   "verseNo": 3,
+   "source": "islamoglu",
+   "text": "Gece yarısı, ondan biraz eksilt"
+  },
+  {
+   "verseNo": 3,
+   "source": "esed",
+   "text": "gece yarısı -biraz önce"
+  },
+  {
+   "verseNo": 4,
+   "source": "diyanet",
+   "text": "Yahut buna biraz ekle. Kur’an’ı ağır ağır, tane tane oku."
+  },
+  {
+   "verseNo": 4,
+   "source": "okuyan",
+   "text": "Ona ilave ederek (gece yarısından sonra kalk) ve Kur’an’ı ağır ağır oku!"
+  },
+  {
+   "verseNo": 4,
+   "source": "islamoglu",
+   "text": "veya biraz ilave et; ve oku Kur’an’ı sindire sindire!"
+  },
+  {
+   "verseNo": 4,
+   "source": "esed",
+   "text": "ya da sonra- (kalk) ve ağır ağır, duyarak Kur’an oku."
+  },
+  {
+   "verseNo": 5,
+   "source": "diyanet",
+   "text": "Şüphesiz biz sana (sorumluluğu) ağır bir söz vahyedeceğiz."
+  },
+  {
+   "verseNo": 5,
+   "source": "okuyan",
+   "text": "Şüphesiz ki biz sana (sorumluluğu) ağır bir söz bırakacağız ( vahyedeceğiz)."
+  },
+  {
+   "verseNo": 5,
+   "source": "islamoglu",
+   "text": "Çünkü Biz, sana ağır bir söz indireceğiz;"
+  },
+  {
+   "verseNo": 5,
+   "source": "esed",
+   "text": "Biz sana (sorumluluğu) ağır bir mesaj tevdî edeceğiz;"
+  },
+  {
+   "verseNo": 6,
+   "source": "diyanet",
+   "text": "Şüphesiz gece ibadetinin etkisi daha fazla, (bu ibadetteki) sözler (Kur’an ve dua okuyuşlar) ise daha düzgün ve açıktır."
+  },
+  {
+   "verseNo": 6,
+   "source": "okuyan",
+   "text": "Şüphesiz ki gecenin inşası daha kalıcıdır; sözü de daha etkilidir."
+  },
+  {
+   "verseNo": 6,
+   "source": "islamoglu",
+   "text": "elbet (şu) gece dirilişi var ya: işte o pek derin bir iz bırakır ve okuyuş açısından daha bir etkilidir;"
+  },
+  {
+   "verseNo": 6,
+   "source": "esed",
+   "text": "[ve] gerçek şu ki, gece vakti zihin daha zinde ve güçlü olur ve okuma daha da berraklaşır,"
+  },
+  {
+   "verseNo": 7,
+   "source": "diyanet",
+   "text": "Çünkü gündüzün sana uzun bir meşguliyet vardır."
+  },
+  {
+   "verseNo": 7,
+   "source": "okuyan",
+   "text": "Şüphesiz ki gündüz senin için uzun (süreli) meşguliyet(ler) vardır."
+  },
+  {
+   "verseNo": 7,
+   "source": "islamoglu",
+   "text": "kaldı ki gündüzün, seni bekleyen bir yığın görev vardır."
+  },
+  {
+   "verseNo": 7,
+   "source": "esed",
+   "text": "halbuki gündüzleri seni meşgul edecek yığınla iş var,"
+  },
+  {
+   "verseNo": 8,
+   "source": "diyanet",
+   "text": "Rabbinin adını an ve bütün benliğinle O’na yönel."
+  },
+  {
+   "verseNo": 8,
+   "source": "okuyan",
+   "text": "Rabbinin adını an! Bütün varlığınla O’na yönel!"
+  },
+  {
+   "verseNo": 8,
+   "source": "islamoglu",
+   "text": "İmdi, Rabbinin adını an ve bütün varlığını O’na vakfet!"
+  },
+  {
+   "verseNo": 8,
+   "source": "esed",
+   "text": "ama [hem gece hem gündüz] Rabbinin adını an ve bütün varlığınla kendini O’na ada."
+  },
+  {
+   "verseNo": 9,
+   "source": "diyanet",
+   "text": "O, doğunun da batının da Rabbidir. O’ndan başka hiçbir ilâh yoktur. Öyle ise O’nu vekil edin."
+  },
+  {
+   "verseNo": 9,
+   "source": "okuyan",
+   "text": "(Allah) doğunun da batının da Rabbidir. Kendisinden başka ilah yoktur. (Sadece) O’nu [vekil] (güven kaynağı) edin!"
+  },
+  {
+   "verseNo": 9,
+   "source": "islamoglu",
+   "text": "O doğunun da batının da Rabbidir; O’ndan başka ilâh yoktur: Öyleyse kendini yalnızca O’na emanet et!"
+  },
+  {
+   "verseNo": 9,
+   "source": "esed",
+   "text": "[O’dur] doğunun ve batının Rabbi; O’ndan başka tanrı yoktur: öyleyse, kaderini belirleme gücünü yalnız O’na izafe et,"
+  },
+  {
+   "verseNo": 10,
+   "source": "diyanet",
+   "text": "Onların söylediklerine sabret ve onlardan güzellikle ayrıl."
+  },
+  {
+   "verseNo": 10,
+   "source": "okuyan",
+   "text": "O (müşriklerin) söylediklerine karşı sabırlı ol ve onlardan güzellikle uzaklaş!"
+  },
+  {
+   "verseNo": 10,
+   "source": "islamoglu",
+   "text": "Ve onların söyleyebilecekleri her şeye karşı sabırla diren ve güzellikle uzaklaş onlar(ın çirkin tavırların)dan;"
+  },
+  {
+   "verseNo": 10,
+   "source": "esed",
+   "text": "halkın [senin aleyhinde] söyleyebileceği her şeye sabırla katlan ve onlardan uygun şekilde uzaklaş."
+  },
+  {
+   "verseNo": 11,
+   "source": "diyanet",
+   "text": "Nimet içinde yüzen o yalanlayıcıları bana bırak ve onlara biraz mühlet ver."
+  },
+  {
+   "verseNo": 11,
+   "source": "okuyan",
+   "text": "Nimet sahibi (olan) o yalanlayıcıları bana bırak; onlara biraz zaman tanı!"
+  },
+  {
+   "verseNo": 11,
+   "source": "islamoglu",
+   "text": "ve Bana bırak refah içinde yüzdükleri halde yalanlayanları; onlara az bir süre daha tanı!"
+  },
+  {
+   "verseNo": 11,
+   "source": "esed",
+   "text": "Ve nimet içinde oldukları halde [Allah’tan geldiğini umursamadan] hakikati yalanlayanları Bana bırak; onlara bir süre daha dayan:"
+  },
+  {
+   "verseNo": 12,
+   "source": "diyanet",
+   "text": "12,13. Çünkü bizim yanımızda (kâfirler için) bukağılar vardır, cehennem vardır, boğazdan zor geçen yiyecekler vardır ve elem dolu bir azap vardır."
+  },
+  {
+   "verseNo": 12,
+   "source": "okuyan",
+   "text": "12,13. Şüphesiz ki bizim katımızda, (onlar için hazırlanmış) prangalar, yakıcı ateş, boğazdan geçmeyen yiyecek ve elem verici azap vardır."
+  },
+  {
+   "verseNo": 12,
+   "source": "islamoglu",
+   "text": "(Onların hakkından geliriz), çünkü yanımızda prangalar ve gözleri fal taşı gibi açan bir ateş var;"
+  },
+  {
+   "verseNo": 12,
+   "source": "esed",
+   "text": "çünkü, Katımızda ağır prangalar ve yakıcı bir alev [onları beklemektedir],"
+  },
+  {
+   "verseNo": 13,
+   "source": "diyanet",
+   "text": "12,13. Çünkü bizim yanımızda (kâfirler için) bukağılar vardır, cehennem vardır, boğazdan zor geçen yiyecekler vardır ve elem dolu bir azap vardır."
+  },
+  {
+   "verseNo": 13,
+   "source": "okuyan",
+   "text": "12,13. Şüphesiz ki bizim katımızda, (onlar için hazırlanmış) prangalar, yakıcı ateş, boğazdan geçmeyen yiyecek ve elem verici azap vardır."
+  },
+  {
+   "verseNo": 13,
+   "source": "islamoglu",
+   "text": "boğaza düğümlenen berbat bir yiyecek ve elemi tarifsiz bir azap var;"
+  },
+  {
+   "verseNo": 13,
+   "source": "esed",
+   "text": "boğaza takılan yiyecek ve şiddetli bir azap,"
+  },
+  {
+   "verseNo": 14,
+   "source": "diyanet",
+   "text": "Yerin ve dağların sarsılacağı ve dağların akıp giden kum yığını olacağı günü (kıyameti) hatırla."
+  },
+  {
+   "verseNo": 14,
+   "source": "okuyan",
+   "text": "O gün (Son Saat’te) yer ve dağlar sars(ıl)acak; dağlar erimiş kum yığınına dönecektir."
+  },
+  {
+   "verseNo": 14,
+   "source": "islamoglu",
+   "text": "o gün yerler ve dağlar dehşetli sarsılacak; ve sonunda dağlar kum yığınına dönüşerek eriyip akacak."
+  },
+  {
+   "verseNo": 14,
+   "source": "esed",
+   "text": "yeryüzünün ve dağların sarsılacağı ve [parçalanarak] savrulan bir kum yığını haline geleceği o Gün!"
+  },
+  {
+   "verseNo": 15,
+   "source": "diyanet",
+   "text": "(Ey Mekkeliler!) Şüphesiz biz size üzerinize şahitlik edecek bir peygamber gönderdik. Nitekim, Firavun’a da bir peygamber göndermiştik."
+  },
+  {
+   "verseNo": 15,
+   "source": "okuyan",
+   "text": "Şüphesiz ki Firavun’a elçi gönderdiğimiz gibi size de hakkınızda şahitlik edecek bir elçi gönderdik."
+  },
+  {
+   "verseNo": 15,
+   "source": "islamoglu",
+   "text": "İMDİ bakın, tıpkı Firavun’a bir elçi gönderdiğimiz gibi, size de önünüzde hakikate şahitlik eden bir elçi gönderdik;"
+  },
+  {
+   "verseNo": 15,
+   "source": "esed",
+   "text": "BAKIN [ey insanlar!] Firavun’a bir elçi gönderdiğimiz gibi size de karşınızda hakikate tanıklık yapacak bir elçi gönderdik:"
+  },
+  {
+   "verseNo": 16,
+   "source": "diyanet",
+   "text": "Ama Firavun o peygambere isyan etti, biz de onu ağır ve çetin bir şekilde yakalayıverdik."
+  },
+  {
+   "verseNo": 16,
+   "source": "okuyan",
+   "text": "Firavun, o Elçi’ye isyan etmişti. Biz de onu kahredici bir şekilde kıskıvrak yakalamıştık."
+  },
+  {
+   "verseNo": 16,
+   "source": "islamoglu",
+   "text": "fakat Firavun elçiye karşı geldi; bunun üzerine biz de onu fena halde enseledik."
+  },
+  {
+   "verseNo": 16,
+   "source": "esed",
+   "text": "ve Firavun elçiye isyan etti, bunun üzerine Biz de onu kahredici bir tutuşla kıskıvrak yakaladık."
+  },
+  {
+   "verseNo": 17,
+   "source": "diyanet",
+   "text": "Hâl böyle iken inkâr ederseniz, çocukları ak saçlı ihtiyarlara çevirecek olan bir günden (kıyametten) nasıl korunursunuz?"
+  },
+  {
+   "verseNo": 17,
+   "source": "okuyan",
+   "text": "Çocuğu yaşlıya çevirecek o güne karşı kâfir olursanız, (azaptan) nasıl korunabilirsiniz ki!"
+  },
+  {
+   "verseNo": 17,
+   "source": "islamoglu",
+   "text": "Şu halde eğer inkâr ederseniz, yeni doğan bebeleri ak saçlı ihtiyarlara döndüren o gün nasıl korunacaksınız?"
+  },
+  {
+   "verseNo": 17,
+   "source": "esed",
+   "text": "Öyleyse, hakikati kabul etmeye yanaşmazsanız, çocukların saçlarını ağartan o Gün kendinizi nasıl koruyacaksınız,"
+  },
+  {
+   "verseNo": 18,
+   "source": "diyanet",
+   "text": "O günle gök (bile) yarılır, Allah’ın va’di gerçekleşir."
+  },
+  {
+   "verseNo": 18,
+   "source": "okuyan",
+   "text": "Gök, o (gün) nedeniyle yarılacaktır. (Allah’ın) vaadi gerçekleşmiş olacaktır."
+  },
+  {
+   "verseNo": 18,
+   "source": "islamoglu",
+   "text": "Gök, bu sebeple çatlamış bir çekirdek (gibi yeni bir doğuma gebedîr); böylece O’nun vaadi gerçekleşmiş olacaktır."
+  },
+  {
+   "verseNo": 18,
+   "source": "esed",
+   "text": "göklerin paramparça olacağı, [ve] Allah’ın [yeniden diriltme] vaadinin gerçekleşeceği [Gün]?"
+  },
+  {
+   "verseNo": 19,
+   "source": "diyanet",
+   "text": "Şüphesiz bunlar bir öğüttür. Kim dilerse Rabbine ulaştıran bir yol tutar."
+  },
+  {
+   "verseNo": 19,
+   "source": "okuyan",
+   "text": "Şüphesiz ki bu (Kur’an), (gerçeği) hatırla(t)madır. Dileyen, Rabbine (giden) bir yol tutar."
+  },
+  {
+   "verseNo": 19,
+   "source": "islamoglu",
+   "text": "İşte bu, uyarı dolu bir öğüttür: artık isteyen, Rabbine ulaştıran bir yol tutar"
+  },
+  {
+   "verseNo": 19,
+   "source": "esed",
+   "text": "Bu, şüphesiz, bir öğüt ve uyarıdır: öyleyse, dileyen Rabbine ulaştıran yola koyulsun!"
+  },
+  {
+   "verseNo": 20,
+   "source": "diyanet",
+   "text": "(Ey Muhammed!) Şüphesiz Rabbin, senin, gecenin üçte ikisine yakın kısmını, yarısını ve üçte birini ibadetle geçirdiğini biliyor. Beraberinde bulunanlardan bir topluluk da böyle yapıyor. Allah, gece ve gündüzü düzenleyip takdir eder. Sizin buna (gecenin tümünde yahut çoğunda ibadete) gücünüzün yetmeyeceğini bildi de sizi bağışladı (yükünüzü hafifletti.) Artık, Kur’an’dan kolayınıza geleni okuyun. Allah, içinizde hastaların bulunacağını, bir kısmınızın Allah’ın lütfundan rızık aramak üzere yeryüzünde dolaşacağını, diğer bir kısmınızın ise Allah yolunda çarpışacağını bilmektedir. O hâlde, Kur’an'dan kolayınıza geleni okuyun. Namazı dosdoğru kılın, zekâtı verin, Allah’a güzel bir borç verin. Kendiniz için önceden ne iyilik gönderirseniz, onu Allah katında daha üstün bir iyilik ve daha büyük mükâfat olarak bulursunuz. Allah’tan bağışlama dileyin. Şüphesiz Allah çok bağışlayandır, çok merhamet edendir."
+  },
+  {
+   "verseNo": 20,
+   "source": "okuyan",
+   "text": "Şüphesiz ki Rabbin, senin ve beraberinde bulunan bir grubun gecenin üçte ikisinden daha az bir kısmında, yarısında ve üçte birinde kalkmakta olduğunu biliyor. Allah gecenin ve gündüzün ölçüsünü belirler. O, sizin bunu (tamamen) sayamayacağınızı bilmiş ve (bunun için) tevbenizi kabul etmiştir. Kolay olan zamanda Kur’an’dan okuyun! İçinizde hastalar olacağını, (içinizden) bir kısmının Allah’ın lütfundan (rızık) aramak üzere yeryüzünde sefere çıkacağını, diğer bir kısmının da Allah yolunda savaşacağını (Allah) bilmektedir. Kolay olan zamanda ondan (Kur’an’dan) okuyun! Namazı kılın, zekâtı verin ve Allah’a güzel bir borç verin! Kendiniz için (önceden) ne tür bir iyilik sunarsanız, Allah katında onu hem daha hayırlı hem de ödül bakımından daha büyük olarak bulacaksınız. Allah’tan bağışlanma dileyin! Şüphesiz ki Allah çok bağışlayandır, çok merhametlidir."
+  },
+  {
+   "verseNo": 20,
+   "source": "islamoglu",
+   "text": "(EY NEBİ!) Elbet Rabbin, senin ve yanındakilerden bir kısmının gecenin üçte ikisinden daha azını, ve yarısını, ve üçte birini uyanık geçirdiğini bilmektedir. Gecenin ve gündüzün miktarını belirleyen Allah, sizin onun üstesinden gelemeyeceğinizi de bilmiş ve size rahmetiyle yönelmiştir. Artık Kur’an’dan kolayınıza geldiği kadar okuyun! Allah, ileriki zamanlarda içinizden hastalar, Allah’ın verdiği rızkı aramak için yola koyulanlar, Allah yolunda savaşa çıkan daha başkalarının olacağını bilir. Şu halde ondan, kolayınıza geldiği kadar okuyun, namazınızı kılın, arınıp yücelmek için ödenmesi gereken bedeli ödeyin ve Allah’a güzel bir borç verin; zira kendi adınıza ne hayır işlerseniz, Allah katında onu daha hayırlı ve daha büyük bir ödül olarak bulursunuz. İmdi Allah’tan mağfiret dileyin: İyi bilin ki Allah, tarifsiz bir bağışlayıcı, eşsiz bir merhamet kaynağıdır."
+  },
+  {
+   "verseNo": 20,
+   "source": "esed",
+   "text": "[EY PEYGAMBER!] Rabbin, senin ve beraberindekilerin gecenin üçte ikisini, yahut yarısını, yahut üçte birini [namaz için] uyanık geçirdiğini bilir. Gecenin ve gündüzün ölçüsünü koyan Allah, sizin onu küçümsemeyeceğinizi bilir: ve bu sebeple O rahmetiyle size yaklaşır. O halde Kur’an’ın kolayca okuyabileceğiniz kadarını okuyun. Allah, zaman zaman içinizde hastalar, Allah’ın lütfunu aramak için yola koyulanlar ve Allah yolunda savaşa çıkanlar olacağını bilir. Öyleyse ondan [yalnızca] kolayca okuyabileceğiniz kadarını okuyun, namazınızda devamlı ve dikkatli olun ve karşılıksız harcamada bulunun ve [böylece] Allah’a güzel bir borç verin: çünkü kendi adınıza güzel ne iş yaparsanız karşılığını aynen Allah katında görürsünüz; evet, daha iyi ve daha zengin bir ödül olarak. Ve [daima] Allah’ın bağışlayıcılığını arayın: kuşkusuz Allah çok bağışlayıcıdır, rahmet kaynağıdır!"
+  }
+ ]
+}

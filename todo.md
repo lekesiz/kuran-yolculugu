@@ -43,5 +43,8 @@
 - [x] Checkpoint ve teslim
 
 ## Faz 6: Günlük Görev
-- [ ] Her sabah bir sure ekleyen zamanlanmış görev
-- [ ] Kullanım rehberi
+- [x] Okuyan nüzul tertibinin tam listesi (114 sure) referans dosyası
+- [x] Sıradaki durağı bildiren yardımcı script (`cekim/sonraki.py`)
+- [x] Günlük ekleme yordamı belgesi (`cekim/GUNLUK_EKLEME.md`)
+- [x] Her sabah 07:00'de bir sure ekleyen zamanlanmış görev
+- [x] Kullanım rehberi

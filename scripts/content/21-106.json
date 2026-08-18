@@ -59,6 +59,23 @@
   "Sahip olduğum imkânları kendi başarımın sonucu olarak mı görüyorum? Payı olan başka etkenler neler?",
   "Şükrümü söz olarak mı ifade ediyorum, yoksa davranışıma dönüşüyor mu?"
  ],
+ "scholarlyNotes": [
+  {
+   "kind": "nuans",
+   "label": "\"Îlâf\" yalnızca ticaret düzeni değildir",
+   "body": "Diyanet Kur'an Yolu Tefsiri, \"îlâf\" kavramının dış ticaret antlaşmalarının yanı sıra Hz. Muhammed'in dedesi Hâşim'in başlattığı bir sosyal dayanışma uygulamasını da kapsadığını kaydeder: zenginlerle yoksulları kaynaştıran ve yoksulluktan kaynaklanan intiharları (i'tifâd) önlemeyi amaçlayan bir düzen. TDV İslâm Ansiklopedisi'nin \"Îlâf\" maddesine göre Hâşim ve kardeşleri (Muttalib, Abdüşems, Nevfel) Mekke ticaretine uluslararası boyut kazandırdıkları için \"Ashâbü'l-îlâf\" diye anılmıştır."
+  },
+  {
+   "kind": "ihtilaf",
+   "label": "Fîl ve Kureyş tek sure mi?",
+   "body": "Bazı âlimler, anlam bütünlüğü ve \"îlâf\" kelimesinin başındaki lâm harfi sebebiyle Fîl ve Kureyş surelerinin tek sure olduğunu savunmuştur. Mushaf tertibindeki genel kabul ise bunların iki ayrı sure olduğudur; kaynaklar tartışmayı aktarmakla birlikte ayrı sureler görüşünü benimser."
+  },
+  {
+   "kind": "rivayet",
+   "label": "Fazilet rivayetleri zayıftır",
+   "body": "Surenin faziletine dair \"Kureyş sûresini okuyan kimseye on sevap verilir\" türü rivayetler TDV İslâm Ansiklopedisi'nde zayıf kabul edilmiştir."
+  }
+ ],
  "verses": [
   {
    "verseNo": 1,

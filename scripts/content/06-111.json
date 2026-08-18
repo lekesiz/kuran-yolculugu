@@ -53,6 +53,18 @@
   "Hangi aidiyetim (aile, meslek, siyasi taraf) benim için bir ahlaki muafiyet gibi işliyor?",
   "Kendim yapmadığım ama kolaylaştırdığım, sessiz kalarak ortağı olduğum bir haksızlık var mı?"
  ],
+ "scholarlyNotes": [
+  {
+   "kind": "ihtilaf",
+   "label": "\"Odun taşıyan\" ifadesi gerçek mi mecaz mı?",
+   "body": "Dördüncü ayetteki \"hammâlete'l-hatab\" (odun taşıyan) nitelemesi tefsirlerde iki yönde okunur. Taberî gibi müfessirler ve TDV İslâm Ansiklopedisi gerçek anlama ağırlık verir: Peygamber'in geçtiği yollara diken ve çalı dökmek. Diyanet Kur'an Yolu Tefsiri ise mecazi anlamı tercih eder: söz taşımak, dedikodu ve fitne yaymak. İki okuyuş birbirini dışlamaz."
+  },
+  {
+   "kind": "nuans",
+   "label": "Ebû Leheb'in kimliği",
+   "body": "Ebû Leheb'in asıl adı Abdüluzzâ b. Abdülmuttalib'dir; Hz. Muhammed'in öz amcasıdır. Eşi, Ebû Süfyân'ın kız kardeşi olan Ervâ bint Harb'dir ve Ümmü Cemîl künyesiyle bilinir. Kaynaklar Ebû Leheb'in Bedir Savaşı'na bizzat katılmayıp yerine adam gönderdiğini, müşriklerin yenilgisini öğrendikten kısa süre sonra çiçek (adese) hastalığından öldüğünü kaydeder."
+  }
+ ],
  "verses": [
   {
    "verseNo": 1,

@@ -63,6 +63,28 @@
   "Bir ilkeyi savunmanın bana bir bedeli olsa, ödemeye hazır mıyım? Hangi bedele kadar?",
   "Kaybettiğim bir mücadelede, ilkemin kendisinin durduğunu düşünebiliyor muyum?"
  ],
+ "scholarlyNotes": [
+  {
+   "kind": "ihtilaf",
+   "label": "Ashâb-ı Uhdûd hangi olaydır?",
+   "body": "TDV İslâm Ansiklopedisi ve Prof. Dr. Mehmet Okuyan, kıssanın Yemen'de Zû Nüvâs'ın Necran Hristiyanlarına uyguladığı zulme (yaklaşık M.S. 523) işaret ettiğini en kuvvetli ihtimal olarak öne çıkarır. Diyanet Kur'an Yolu Tefsiri ise bu rivayetlerin güvenilirliğine şerh düşerek olayı belirli bir tarihsel şahıs ya da mekâna bağlamak yerine, tarih boyunca tekrarlanan işkenceci zorbalığın sembolü olarak okumayı tercih eder. Kur'an metni yer ve zaman belirtmez."
+  },
+  {
+   "kind": "rivayet",
+   "label": "Zayıf kabul edilen alternatif anlatılar",
+   "body": "Ashâb-ı Uhdûd'un kimliğine dair Bâbil Kralı Buhtunnasr'ın Dânyâl peygamberi fırına atması ya da bir İran hükümdarının âlimleri hendeğe atması şeklindeki anlatılar, TDV İslâm Ansiklopedisi ve Diyanet tefsirinde zayıf yahut güvenilir olmayan menkıbeler olarak değerlendirilmiştir."
+  },
+  {
+   "kind": "nuans",
+   "label": "\"Bürûc\" ve \"uhdûd\"",
+   "body": "\"Uhdûd\" sözlükte uzun ve derin hendek demektir. \"Bürûc\" ise klasik tefsirlerde on iki burç olarak açıklanmakla birlikte, Diyanet tefsiri gibi kaynaklar modern astronomi ışığında kelimeyi yıldız kümeleri ya da galaksiler olarak da yorumlar."
+  },
+  {
+   "kind": "rivayet",
+   "label": "Fazilet rivayeti uydurmadır",
+   "body": "Übey b. Kâ'b'dan nakledilen \"Kim Bürûc sûresini okursa...\" şeklindeki fazilet hadisinin mevzû olduğu TDV İslâm Ansiklopedisi'nde Zerkeşî'ye atıfla belirtilmiştir."
+  }
+ ],
  "verses": [
   {
    "verseNo": 1,

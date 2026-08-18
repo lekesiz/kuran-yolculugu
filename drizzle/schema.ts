@@ -74,6 +74,14 @@ export const surahs = mysqlTable(
     contemporaryMeaning: text("contemporaryMeaning"),
     /** Key Arabic terms with explanations, stored as JSON array. */
     keyTerms: json("keyTerms"),
+    /**
+     * Source-criticism layer, stored as a JSON array of
+     * `{ kind, label, body }`. `kind` is one of `ihtilaf` (sources disagree),
+     * `rivayet` (report-authenticity warning) or `nuans` (a common reading the
+     * commentaries actually qualify). Lets the reader see which claims are
+     * settled and which are contested, instead of presenting everything flat.
+     */
+    scholarlyNotes: json("scholarlyNotes"),
     createdAt: timestamp("createdAt").defaultNow().notNull(),
     updatedAt: timestamp("updatedAt").defaultNow().onUpdateNow().notNull(),
   },
@@ -232,4 +240,3 @@ export const userNotes = mysqlTable(
 
 export type UserNote = typeof userNotes.$inferSelect;
 export type InsertUserNote = typeof userNotes.$inferInsert;
-

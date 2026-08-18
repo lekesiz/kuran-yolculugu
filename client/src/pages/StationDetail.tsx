@@ -8,7 +8,7 @@ import { Skeleton } from "@/components/ui/skeleton";
 import { Textarea } from "@/components/ui/textarea";
 import { startLogin } from "@/const";
 import { trpc } from "@/lib/trpc";
-import type { KeyTerm } from "@shared/kuran";
+import { NOTE_KIND_LABELS, type KeyTerm, type ScholarlyNote } from "@shared/kuran";
 import {
   ArrowLeft,
   ArrowRight,
@@ -19,6 +19,7 @@ import {
   Loader2,
   NotebookPen,
   Save,
+  Scale,
   ScrollText,
   Sparkles,
 } from "lucide-react";
@@ -104,6 +105,7 @@ export default function StationDetail() {
 
   const { surah, verses, translations, themes, questions, adjacent, isRead } = data;
   const keyTerms = (surah.keyTerms ?? []) as KeyTerm[];
+  const scholarlyNotes = (surah.scholarlyNotes ?? []) as ScholarlyNote[];
 
   return (
     <article className="pb-16">
@@ -228,6 +230,37 @@ export default function StationDetail() {
                 <span className="font-medium">Kaynak:</span> {surah.occasionSources}
               </p>
             )}
+          </Section>
+        )}
+
+        {/* Source-criticism layer */}
+        {scholarlyNotes.length > 0 && (
+          <Section
+            icon={Scale}
+            eyebrow="Kaynak notları"
+            title="Bu surede neyi kesin, neyi tartışmalı bilmelisin?">
+            <p className="prose-kuran !text-base !text-muted-foreground">
+              Aşağıdaki notlar, bu durağın içeriği hazırlanırken yapılan çapraz kaynak
+              denetiminin çıktısıdır. Amaç, tartışmalı bir okuyuşu yerleşik bir bilgi gibi
+              sunmamaktır.
+            </p>
+            <div className="mt-5 space-y-3">
+              {scholarlyNotes.map((note, i) => (
+                <div
+                  key={i}
+                  className="rounded-lg border border-border/70 bg-card/40 px-4 py-3.5">
+                  <div className="flex flex-wrap items-baseline gap-x-3 gap-y-1.5">
+                    <Badge
+                      variant="outline"
+                      className="shrink-0 border-accent-foreground/30 bg-accent/30 text-[0.7rem] font-medium tracking-wide text-accent-foreground">
+                      {NOTE_KIND_LABELS[note.kind] ?? note.kind}
+                    </Badge>
+                    <p className="font-serif text-lg font-semibold">{note.label}</p>
+                  </div>
+                  <p className="prose-kuran mt-2 !text-base">{note.body}</p>
+                </div>
+              ))}
+            </div>
           </Section>
         )}
 
@@ -423,4 +456,3 @@ function Section({
     </section>
   );
 }
-

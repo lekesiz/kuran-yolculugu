@@ -63,6 +63,23 @@
   "Son zamanlarda benden bir şey öğrenmek isteyen birini, meşgul olduğum için savdım mı?",
   "Konumu yüksek biriyle konuşurken tavrım, konumu düşük biriyle konuşurken değişiyor mu?"
  ],
+ "scholarlyNotes": [
+  {
+   "kind": "ihtilaf",
+   "label": "\"Yüzünü ekşitti ve döndü\" — kim?",
+   "body": "Bu fiillerin faili konusunda tefsir geleneğinde iki görüş vardır. Müfessirlerin çoğunluğu (Taberî, İbn Kesîr, Kurtubî) ve temel kaynaklar, fiillerin Hz. Muhammed'e ait olduğunu ve surenin onu uyarmak üzere indiğini kabul eder. Bazı âlimler ve çağdaş araştırmacılar ise bu davranışın Peygamber'in ahlâkıyla bağdaşmadığını ve Kur'an'da \"abese\" kelimesinin inkârcılar için kullanıldığını belirterek yüzünü ekşitenin meclisteki bir müşrik (örneğin Velîd b. Muğîre) olduğunu savunur. İkinci görüş daha çok dirâyet (akıl yürütme) temelli olup rivayetle desteklenmez."
+  },
+  {
+   "kind": "nuans",
+   "label": "Nüzul sebebi rivayetinin kaynak durumu",
+   "body": "Olayın İbn Ümmü Mektûm ile ilgili olduğu ve Hz. Peygamber'in uyarıldığı yönündeki rivayetler Mâlik b. Enes ve Tirmizî gibi muhaddisler tarafından nakledilmiş, tefsir geleneğinde genel kabul görmüştür. Ancak Buhârî bu surenin nüzul sebebi hakkında herhangi bir rivayet aktarmamıştır."
+  },
+  {
+   "kind": "nuans",
+   "label": "İbn Ümmü Mektûm kimdir?",
+   "body": "Tam adı Abdullāh (bazı kaynaklarda Amr) b. Kays b. Zâide el-Kureşî el-Âmirî'dir; Hz. Hatice'nin dayısının oğludur. Bilâl-i Habeşî ile birlikte Hz. Peygamber'in müezzinliğini yapmış, Peygamber sefere çıktığında Medine'de kalanlara namaz kıldırmak üzere defalarca vekil bırakılmıştır. Kaynaklar, Hz. Peygamber'in bu olaydan sonra onu her gördüğünde \"Kendisinden dolayı Rabbimin beni azarladığı şahsa merhaba!\" diyerek iltifat ettiğini nakleder."
+  }
+ ],
  "verses": [
   {
    "verseNo": 1,

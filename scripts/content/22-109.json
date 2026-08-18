@@ -57,6 +57,28 @@
   "Vazgeçmemem gereken bir ilkeyi, ilişkiyi bozmamak için pazarlık konusu yaptığım oldu mu?",
   "Farklı düşünen birini değiştirmeye mi çalışıyorum, yoksa kendi çizgimi koruyup ona alan bırakabiliyor muyum?"
  ],
+ "scholarlyNotes": [
+  {
+   "kind": "ihtilaf",
+   "label": "Altıncı ayet neshedildi mi?",
+   "body": "\"Sizin dininiz size, benim dinim bana\" ayetinin Tevbe suresindeki savaş ayetiyle neshedildiğini (hükmünün kaldırıldığını) savunan müfessirler vardır. Şevkânî ve Diyanet Kur'an Yolu Tefsiri ise ayetin bir vakıa tespiti olduğunu belirterek nesih iddiasını reddeder; hükmün geçerli olduğunu savunur."
+  },
+  {
+   "kind": "nuans",
+   "label": "Teklifi yapanlar isimlendirilmez",
+   "body": "İncelenen temel kaynaklarda (TDV İslâm Ansiklopedisi, Diyanet Kur'an Yolu, kuranokuyan.com) uzlaşma teklifini getirenler için belirli isimler zikredilmez; \"Kureyş'in önde gelenlerinden bir grup\" ya da \"Mekkeli müşrikler\" denir. Bazı geç kaynaklarda geçen isim listeleri bu temel kaynaklarca teyit edilmemiştir."
+  },
+  {
+   "kind": "nuans",
+   "label": "Surenin diğer adları",
+   "body": "Sure, Mukaşkışe (şirk ve nifaktan arındıran), Münâbeze, Berâet, İbâdet, Din ve İhlâs adlarıyla da anılır. İhlâs suresiyle birlikte \"İhlâseyn\" (iki İhlâs) olarak adlandırılır."
+  },
+  {
+   "kind": "rivayet",
+   "label": "Fazilet rivayeti sahih değildir",
+   "body": "\"Kim Kâfirûn sûresini okursa Kur'an'ın dörtte birini okumuş sayılır\" anlamındaki hadisin (Zemahşerî, IV, 293) sahih olmadığı TDV İslâm Ansiklopedisi'nde Muhammed et-Trablusî'ye atıfla belirtilmiştir."
+  }
+ ],
  "verses": [
   {
    "verseNo": 1,

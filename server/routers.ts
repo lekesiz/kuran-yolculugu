@@ -25,6 +25,12 @@ const keyTermSchema = z.object({
   verseRef: z.string().optional(),
 });
 
+const scholarlyNoteSchema = z.object({
+  kind: z.enum(["ihtilaf", "rivayet", "nuans"]),
+  label: z.string().min(1),
+  body: z.string().min(1),
+});
+
 const surahInputSchema = z.object({
   stationNo: z.number().int().positive(),
   surahNo: z.number().int().min(1).max(114),
@@ -43,6 +49,7 @@ const surahInputSchema = z.object({
   occasionSources: z.string().nullish(),
   contemporaryMeaning: z.string().nullish(),
   keyTerms: z.array(keyTermSchema).nullish(),
+  scholarlyNotes: z.array(scholarlyNoteSchema).nullish(),
 });
 
 const contentInputSchema = z.object({
@@ -190,8 +197,12 @@ export const appRouter = router({
     createSurah: adminProcedure
       .input(surahInputSchema.extend({ content: contentInputSchema.optional() }))
       .mutation(async ({ input }) => {
-        const { content, keyTerms, ...rest } = input;
-        const id = await db.insertSurah({ ...rest, keyTerms: keyTerms ?? null });
+        const { content, keyTerms, scholarlyNotes, ...rest } = input;
+        const id = await db.insertSurah({
+          ...rest,
+          keyTerms: keyTerms ?? null,
+          scholarlyNotes: scholarlyNotes ?? null,
+        });
         if (content) await applyContent(id, content);
         return { id } as const;
       }),
@@ -209,10 +220,13 @@ export const appRouter = router({
         if (!existing) {
           throw new TRPCError({ code: "NOT_FOUND", message: "Sure bulunamadı." });
         }
-        const { keyTerms, ...rest } = input.values;
+        const { keyTerms, scholarlyNotes, ...rest } = input.values;
         await db.updateSurah(input.id, {
           ...rest,
           ...(keyTerms !== undefined ? { keyTerms: keyTerms ?? null } : {}),
+          ...(scholarlyNotes !== undefined
+            ? { scholarlyNotes: scholarlyNotes ?? null }
+            : {}),
         });
         if (input.content) await applyContent(input.id, input.content);
         return { success: true } as const;
@@ -257,4 +271,3 @@ async function applyContent(
 }
 
 export type AppRouter = typeof appRouter;
-

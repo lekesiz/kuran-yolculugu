@@ -57,6 +57,28 @@
   "Hızlı ilerlediğim ama yönünden emin olmadığım bir alan var mı hayatımda?",
   "\"Bizi\" derken kimi kastediyorum? Kurtuluşumu başkalarından ayrı düşünüyor muyum?"
  ],
+ "scholarlyNotes": [
+  {
+   "kind": "nuans",
+   "label": "Mekkî oluşunun delili",
+   "body": "Surenin Mekke döneminde indiğinin en güçlü dayanağı, Mekkî bir sure olan Hicr suresinin 87. ayetinde geçen \"es-seb'u'l-mesânî\" (tekrarlanan yedi) ifadesidir; bu ifade Fâtiha'ya işaret sayılır. Muteber kaynaklar surenin Mekke'de bir defada bütün olarak indiği konusunda birleşir."
+  },
+  {
+   "kind": "ihtilaf",
+   "label": "Besmele surenin bir ayeti mi?",
+   "body": "Şâfiî mezhebine göre besmele Fâtiha'nın ilk ayetidir; Hanefî mezhebine göre sureye dahil değildir ve ilk ayet \"elhamdülillâh\" ile başlar. Kuranokuyan.com besmeleyi ilk ayet kabul eden görüşü benimser. Bu, ayet numaralandırmasında farklılık doğurur."
+  },
+  {
+   "kind": "rivayet",
+   "label": "Medine'de indiği rivayetleri",
+   "body": "Surenin Medine'de ya da hem Mekke hem Medine'de iki defa nâzil olduğuna dair rivayetler kaynaklarda zikredilir; ancak TDV İslâm Ansiklopedisi bu rivayetlere itibar edilmediğini, zayıf sayıldığını kaydeder."
+  },
+  {
+   "kind": "nuans",
+   "label": "Surenin diğer adları",
+   "body": "Fâtiha, kaynaklarda Ümmü'l-Kur'ân, Ümmü'l-Kitâb, es-Seb'u'l-mesânî, el-Esâs, el-Vâfiye, el-Kâfiye, el-Kenz, eş-Şifâ, eş-Şükr ve es-Salât adlarıyla da anılır. \"Fâtiha\" kelimesi \"açmak, başlamak\" anlamındaki feth kökünden gelir ve \"hâtime\"nin (son bölüm) karşıtıdır."
+  }
+ ],
  "verses": [
   {
    "verseNo": 1,

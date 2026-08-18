@@ -63,6 +63,23 @@
   "Elde ettiğim başarı, gelir ya da unvan bana \"artık bana kimse bir şey öğretemez\" duygusu veriyor mu? Bu duygu hayatımın hangi alanında en güçlü?",
   "Çevremde birinin öğrenmesini, sorgulamasını ya da kendi yolunu bulmasını — belki iyi niyetle — engellediğim oluyor mu?"
  ],
+ "scholarlyNotes": [
+  {
+   "kind": "ihtilaf",
+   "label": "İlk inen sure hangisidir?",
+   "body": "Genel kabul ve tercih edilen görüş, Alak suresinin ilk beş ayetinin ilk nâzil olan bölüm olduğudur. Bununla birlikte TDV İslâm Ansiklopedisi ve Diyanet Kur'an Yolu Tefsiri, bazı Kur'an tarihçilerinin Müddessir ya da Fâtiha suresini ilk sırada gördüğünü kaydeder. Kaynaklar bu görüşü aktarmakla birlikte Alak lehine tercih belirtir."
+  },
+  {
+   "kind": "nuans",
+   "label": "İlk vahyin tarihi",
+   "body": "İlk vahyin geldiği ana dair temel anlatı, Buhârî (\"Bed'ü'l-vahy\", 3) ve Müslim (\"Îmân\", 252) tarafından nakledilen Hz. Âişe rivayetidir; her iki kaynak da rivayeti sahih kabul eder. Bazı kaynaklar tarihi daha da belirginleştirerek Ramazan ayının 27. gecesini verir; bu tarihlendirme rivayete dayanır ve kesinlik iddiası taşımaz."
+  },
+  {
+   "kind": "nuans",
+   "label": "Surenin iki katmanı",
+   "body": "Rivayetlere göre surenin ilk beş ayeti ile kalan on dört ayeti aynı anda inmemiştir; ikinci bölümün çok daha sonra ve namaz kılanlara engel olmaya çalışan bir Mekkeli hakkında geldiği nakledilir. Sureyi tek bir sahne olarak okumak bu ayrımı gözden kaçırır."
+  }
+ ],
  "verses": [
   {
    "verseNo": 1,

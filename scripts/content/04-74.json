@@ -11,7 +11,7 @@
  "revelationTiming": "Açık davetin başlangıcı",
  "stationTitle": "Açık davetin başlangıcı: kalk, uyar ve elbisen temiz olsun.",
  "introduction": "Müddessir suresi, adını ilk ayetteki \"örtüye sarınan\" hitabından alır. Elli altı ayetlik sure, gizli davetin bitip açık tebliğin başladığı eşiği işaretler.\n\nSurenin ilk yedi ayeti bir görev tanımı gibidir: kalk ve uyar, Rabbini yücelt, elbisen temiz olsun, kirden uzaklaş, verdiğini karşılık bekleyerek verme, sabret. Devamı ise gücüne ve servetine güvenerek çağrıyı reddeden bir tipi ayrıntılı biçimde anlatır.",
- "occasionOfRevelation": "Nüzul kaynaklarının naklettiğine göre bu sure, ilk vahyin ardından bir süre kesintinin (fetret) yaşandığı dönemin sonunda gelmiştir ve açık daveti başlatan bölümdür. Artık muhatap yalnızca kişinin kendisi değil, toplumun tamamıdır.\n\nSurenin ortasındaki bölüm (11-25. ayetler), servetine ve evlatlarına güvenen bir Mekkeli ileri gelenin çağrı karşısındaki tutumunu anlatır. Klasik tefsirler bu kişiyi genellikle Velîd b. Mugîre olarak tanımlar; anlatıldığına göre kendisi metni dinledikten sonra etkisini kabul etmiş, ancak itibarını korumak için onu \"öğretilmiş bir büyü\" diye nitelemeyi seçmiştir. Bu isimlendirme rivayete dayanır; ayet isim vermez.\n\nSurenin dikkat çekici bir ayrıntısı, cehennemin bekçilerinin sayısına dair verilen rakamın (74:30) hemen ardından bu rakamın bir imtihan unsuru olduğunun belirtilmesidir (74:31). Metin, sayının kendisiyle uğraşmanın asıl meseleyi kaçırmak olduğunu ima eder.",
+ "occasionOfRevelation": "Nüzul kaynaklarının naklettiğine göre bu sure, ilk vahyin ardından bir süre kesintinin (fetret) yaşandığı dönemin sonunda gelmiştir ve açık daveti başlatan bölümdür. Artık muhatap yalnızca kişinin kendisi değil, toplumun tamamıdır.\n\nSurenin ortasındaki bölüm — TDV İslâm Ansiklopedisi bu kapsamı 11-26. ayetler olarak verir — servetine ve evlatlarına güvenen bir Mekkeli ileri gelenin çağrı karşısındaki tutumunu anlatır. Klasik tefsirler bu kişiyi genellikle Velîd b. Mugîre olarak tanımlar; anlatıldığına göre kendisi metni dinledikten sonra etkisini kabul etmiş, ancak itibarını korumak için onu \"öğretilmiş bir büyü\" diye nitelemeyi seçmiştir. Bu isimlendirme rivayete dayanır; ayet isim vermez.\n\nSurenin dikkat çekici bir ayrıntısı, cehennemin bekçilerinin sayısına dair verilen rakamın (74:30) hemen ardından bu rakamın bir imtihan unsuru olduğunun belirtilmesidir (74:31). Metin, sayının kendisiyle uğraşmanın asıl meseleyi kaçırmak olduğunu ima eder.",
  "occasionSources": "Diyanet İşleri Başkanlığı Kur'an Yolu Tefsiri, Müddessir suresi girişi; Vâhidî, Esbâbü'n-Nüzûl; TDV İslâm Ansiklopedisi, \"Müddessir Sûresi\" maddesi. Velîd b. Mugîre'ye dair isimlendirme rivayete dayanır.",
  "contemporaryMeaning": "Surenin ilk ayetlerindeki emirler sırası dikkat çekicidir: uyarmak, yüceltmek, sonra temizlik. \"Elbisen temiz olsun\" ifadesi klasik tefsirlerde hem fiziksel temizlik hem ahlaki arınma olarak açıklanır. Bir çağrıda bulunan kişinin önce kendi tutarlılığını sağlaması gerektiği söylenir.\n\n\"Verdiğini karşılık bekleyerek verme\" (74:6) ilkesi bugün özellikle keskindir. Yardımın görünürlük, itibar ya da minnet karşılığında yapıldığı bir kültürde bu ayet, iyiliğin muhasebesini bozar.\n\nVelîd anlatısı ise entelektüel dürüstlüğün sınavıdır: bir şeyin doğru olduğunu içinden kabul edip, konumunu kaybetmemek için onu alenen küçümsemek.",
  "keyTerms": [
@@ -62,6 +62,23 @@
   "Yaptığım iyilikleri anlatma ihtiyacı duyuyor muyum? Anlatmadığımda o iyilik bana daha az değerli mi geliyor?",
   "Doğru olduğunu içimden kabul ettiğim ama çevremde savunmaya cesaret edemediğim bir görüş var mı? Beni durduran şey ne?",
   "Başkalarına söylediğim ilkelerle kendi hayatım arasında en büyük açık nerede?"
+ ],
+ "scholarlyNotes": [
+  {
+   "kind": "ihtilaf",
+   "label": "Surenin nüzul sırası",
+   "body": "TDV İslâm Ansiklopedisi, çoğunluğun görüşüne dayanarak surenin Alak suresinin ilk beş ayetinden hemen sonra indiğini belirtir. Prof. Dr. Mehmet Okuyan ise sureyi Fâtiha, Alak ve Müzzemmil'in ardından dördüncü sıraya yerleştirir. Bu uygulamada Okuyan tertibi esas alındığı için sure dördüncü duraktır; ancak farkın kaynağı budur."
+  },
+  {
+   "kind": "ihtilaf",
+   "label": "İlk ayetlerin nüzul sebebi",
+   "body": "İlk yedi ayetin iniş sebebi konusunda farklı rivayetler vardır: vahiy meleğini görmenin verdiği sarsıntı ya da müşriklerin \"sihirbaz\" ithamı. Mâtürîdî bu rivayetlerin bir kısmının sıhhati konusunda tereddüt göstermiştir."
+  },
+  {
+   "kind": "rivayet",
+   "label": "Fazilet rivayeti uydurmadır",
+   "body": "\"Allah Müddessir sûresini okuyan kimseye Mekke'de Muhammed'i tasdik eden ve yalanlayan kimselerin her biri sayısınca on sevap verir\" meâlindeki hadisin sahih olmadığı, TDV İslâm Ansiklopedisi'nde Muhammed et-Trablusî'ye atıfla belirtilmiştir."
+  }
  ],
  "verses": [
   {

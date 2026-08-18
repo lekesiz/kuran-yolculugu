@@ -51,3 +51,14 @@
 
 ## Günlük Eklenen Duraklar
 - [x] 38. durak — Necm Suresi (53), 62 ayet, nüzul sırası 26
+
+## Faz 7: Çapraz Kaynak Doğrulama Katmanı (18 Ağustos 2026)
+- [x] 13 olgusal iddianın TDV İslâm Ansiklopedisi, Diyanet Kur'an Yolu ve kuranokuyan.com üzerinden çapraz doğrulaması
+- [x] Veritabanı şemasına `scholarlyNotes` alanı (JSON: kind / label / body)
+- [x] Durak sayfasına "Kaynak notları" bölümü (ihtilaf / rivayet / nüans etiketli)
+- [x] 43 kaynak notu, 13 durağa yüklendi (17 ihtilaf, 16 nüans, 10 rivayet uyarısı)
+- [x] Fîl düzeltmesi: Ebrehe'nin "Habeş valisi" nitelemesi → Habeş Krallığı adına Yemen valisi
+- [x] Fîl'e eklenen doğrulanmış ayrıntılar: Kulleys kilisesi, "Mahmûd" fili, Âmü'l-fîl
+- [x] Müddessir düzeltmesi: Velîd b. Mugîre bölümü 11-25 → 11-26. ayetler (TDV)
+- [x] Admin panelinin `scholarlyNotes` alanını kabul etmesi (router şeması)
+- [x] Vitest: kaynak notu bütünlüğü, ihtilaf notlarının tek görüş anlatmaması, rivayet uyarılarının hüküm belirtmesi

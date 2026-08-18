@@ -61,6 +61,14 @@ export function validateStation(s, file) {
     if (!t.text || !t.text.trim()) fail(`boş meal metni: ${t.source} ${t.verseNo}`);
   }
 
+  // Scholarly notes must declare their kind, otherwise the UI cannot label them.
+  const NOTE_KINDS = new Set(["ihtilaf", "rivayet", "nuans"]);
+  for (const n of s.scholarlyNotes ?? []) {
+    if (!NOTE_KINDS.has(n.kind)) fail(`geçersiz kaynak notu türü: ${n.kind}`);
+    if (!n.label || !n.label.trim()) fail(`kaynak notu başlığı boş: ${n.kind}`);
+    if (!n.body || !n.body.trim()) fail(`kaynak notu gövdesi boş: ${n.label}`);
+  }
+
   for (const v of s.verses ?? []) {
     if (!Number.isInteger(v.verseNo) || v.verseNo < 1 || v.verseNo > s.verseCount) {
       fail(`Arapça ayet no aralık dışı: ${v.verseNo}`);
@@ -84,13 +92,15 @@ export function validateStation(s, file) {
  */
 export async function upsertStation(conn, s) {
   const keyTerms = s.keyTerms?.length ? JSON.stringify(s.keyTerms) : null;
+  const scholarlyNotes = s.scholarlyNotes?.length ? JSON.stringify(s.scholarlyNotes) : null;
 
   await conn.execute(
     `INSERT INTO surahs
        (stationNo, surahNo, nuzulOrderOkuyan, name, nameArabic, nameMeaning, verseCount,
         periodDiyanet, periodOkuyan, periodDisputeNote, revelationTiming, stationTitle,
-        introduction, occasionOfRevelation, occasionSources, contemporaryMeaning, keyTerms)
-     VALUES (?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?)
+        introduction, occasionOfRevelation, occasionSources, contemporaryMeaning, keyTerms,
+        scholarlyNotes)
+     VALUES (?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?)
      ON DUPLICATE KEY UPDATE
        stationNo=VALUES(stationNo),
        nuzulOrderOkuyan=VALUES(nuzulOrderOkuyan),
@@ -107,7 +117,8 @@ export async function upsertStation(conn, s) {
        occasionOfRevelation=VALUES(occasionOfRevelation),
        occasionSources=VALUES(occasionSources),
        contemporaryMeaning=VALUES(contemporaryMeaning),
-       keyTerms=VALUES(keyTerms)`,
+       keyTerms=VALUES(keyTerms),
+       scholarlyNotes=VALUES(scholarlyNotes)`,
     [
       s.stationNo,
       s.surahNo,
@@ -126,6 +137,7 @@ export async function upsertStation(conn, s) {
       s.occasionSources ?? null,
       s.contemporaryMeaning ?? null,
       keyTerms,
+      scholarlyNotes,
     ],
   );
 

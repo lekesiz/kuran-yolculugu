@@ -57,6 +57,23 @@
   "Kimseye göstermeden, paylaşmadan tüketmek istediğim bir \"bahçem\" var mı? Onu neden gizliyorum?",
   "Çevremdeki güçlü birine, ahlaki olarak yanlış bulduğum halde sırf konumu yüzünden boyun eğdiğim bir durum var mı?"
  ],
+ "scholarlyNotes": [
+  {
+   "kind": "nuans",
+   "label": "\"Huluqun azîm\" kimin için söylenmiştir?",
+   "body": "Dördüncü ayetteki \"yüce ahlâk\" nitelemesi, tefsirlerde genel bir insanlık ölçütü olarak değil, doğrudan Hz. Muhammed'in şahsındaki Kur'ânî ahlâkı övmek için açıklanır. Ayetten \"insanın değeri ahlâkla ölçülür\" ilkesini çıkarmak meşru bir çıkarımdır, ancak bunun ayetin kendi ifadesi değil bir yorum katmanı olduğu unutulmamalıdır."
+  },
+  {
+   "kind": "ihtilaf",
+   "label": "\"Nûn\" harfi ne anlama gelir?",
+   "body": "Surenin başındaki \"nûn\" hakkında tefsirlerde birden çok görüş vardır: hokka ya da mürekkep, balık, yahut \"Rahmân\" isminin son harfi. Kaynaklar bu görüşleri aktarmakla birlikte kesin bir tercih ortaya koymaz."
+  },
+  {
+   "kind": "rivayet",
+   "label": "Fazilet rivayeti uydurmadır",
+   "body": "Bazı tefsirlerde geçen \"Kalem sûresini okuyan kişiye Allah ahlâkını güzelleştirdiği kimselerin sevabını verir\" meâlindeki hadis, TDV İslâm Ansiklopedisi'nde (Muhammed et-Trablusî'ye atıfla) mevzû, yani uydurma olarak tespit edilmiştir. Bu sebeple burada bir fazilet bilgisi olarak aktarılmamıştır."
+  }
+ ],
  "verses": [
   {
    "verseNo": 1,

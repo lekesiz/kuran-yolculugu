@@ -1,0 +1,1 @@
+ALTER TABLE `surahs` ADD `scholarlyNotes` json;

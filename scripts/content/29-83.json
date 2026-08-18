@@ -63,6 +63,28 @@
   "Duyarlılığımın azaldığı bir alan var mı? Eskiden rahatsız olduğum neye şimdi alıştım?",
   "Küçümsediğim biri var mı? Onun yerinde olsam ne hissederdim?"
  ],
+ "scholarlyNotes": [
+  {
+   "kind": "nuans",
+   "label": "\"Râne\" — kalbin paslanması",
+   "body": "On dördüncü ayetteki \"râne alâ kulûbihim\" ifadesi, günahların kalbi bir pas tabakası gibi kaplamasını anlatır. Tefsirler bunu Hz. Peygamber'in \"Kul günah işlediğinde kalbinde siyah bir leke oluşur\" hadisiyle açıklar."
+  },
+  {
+   "kind": "nuans",
+   "label": "Siccîn ve İlliyyîn",
+   "body": "Bu iki kavram yalnızca birer kayıt defteri değildir; bulundukları yerin niteliğini de yansıtır. Siccîn dar, karanlık ve aşağı olanı; İlliyyîn ise yüksek, ferah ve aydınlık olanı imler. Kelime kökleri de bu karşıtlığı taşır."
+  },
+  {
+   "kind": "ihtilaf",
+   "label": "Surenin nüzul yeri",
+   "body": "TDV İslâm Ansiklopedisi, surenin Mekke'de ya da Medine'de, yahut ilk dört ayetinin Medine'de kalanının Mekke'de indiğine dair rivayetler bulunduğunu kaydeder; kendisi Mekke dönemini daha isabetli bulur. Diyanet ve Prof. Dr. Mehmet Okuyan da Mekke dönemini, özellikle hicrete yakın evreyi kabul eder."
+  },
+  {
+   "kind": "rivayet",
+   "label": "Fazilet rivayeti uydurmadır",
+   "body": "\"Allah, Mutaffifîn sûresini okuyan kişiye kıyamet gününde ağzı mühürlenmiş lezzetli bir içecek ikram eder\" meâlindeki hadisin (Zemahşerî, IV, 233) sahih olmadığı TDV İslâm Ansiklopedisi'nde belirtilmiştir (Muhammed et-Trablusî, II, 726)."
+  }
+ ],
  "verses": [
   {
    "verseNo": 1,

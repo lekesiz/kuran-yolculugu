@@ -63,6 +63,28 @@
   "Bana yapılmış bir iyiliği, aynı iyiliği başkasına yaparak karşıladığım oldu mu?",
   "Benden bir şey isteyen birine son ne zaman sert davrandım? Vermeyecek olsam bile nasıl davranmalıydım?"
  ],
+ "scholarlyNotes": [
+  {
+   "kind": "ihtilaf",
+   "label": "Fetret dönemi ne kadar sürdü?",
+   "body": "Vahyin kesildiği sürenin uzunluğu konusunda kaynaklar birbirinden ayrılır. TDV İslâm Ansiklopedisi iki üç günden kırk güne kadar uzanan rivayetler bulunduğunu kaydeder; İmam Ferrâ süreyi on beş gece olarak belirler. Prof. Dr. Mehmet Okuyan, iki-üç yıl gibi uzun sürelerin doğru olamayacağını savunur. Kesin bir süre tespiti yapılmamıştır."
+  },
+  {
+   "kind": "ihtilaf",
+   "label": "Kesinti hangi surenin ardından oldu?",
+   "body": "Diyanet Kur'an Yolu Tefsiri, vahyin hangi bölümden sonra kesildiği konusunda farklı rivayetler bulunduğunu aktarır: Fecr suresinden sonra, Alak ve Müddessir'den sonra ya da Necm suresinden sonra."
+  },
+  {
+   "kind": "nuans",
+   "label": "\"Yol bilmez halde bulup yol göstermedi mi?\"",
+   "body": "Yedinci ayet, çoğunluk müfessirlere göre Hz. Muhammed'in peygamberlikten önceki dönemde toplumundaki inanç ve yaşayışın yanlışlığını görmesini ama kurtuluş yolunu bilmemesini, Allah'ın da Kur'an'ı göndererek ona yol göstermesini anlatır (Diyanet Kur'an Yolu)."
+  },
+  {
+   "kind": "rivayet",
+   "label": "Fazilet rivayeti uydurmadır",
+   "body": "\"Kim Duhâ sûresini okursa Allah onu Muhammed'in şefaatine lâyık gördüğü kulları arasına alır, ona ayrıca yetim ve dilencilerin sayısının on katı sevap yazar\" meâlindeki hadisin mevzû olduğu TDV İslâm Ansiklopedisi'nde (Zerkeşî, I, 432'ye atıfla) belirtilmiştir."
+  }
+ ],
  "verses": [
   {
    "verseNo": 1,

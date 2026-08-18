@@ -48,3 +48,6 @@
 - [x] Günlük ekleme yordamı belgesi (`cekim/GUNLUK_EKLEME.md`)
 - [x] Her sabah 07:00'de bir sure ekleyen zamanlanmış görev
 - [x] Kullanım rehberi
+
+## Günlük Eklenen Duraklar
+- [x] 38. durak — Necm Suresi (53), 62 ayet, nüzul sırası 26

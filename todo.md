@@ -121,6 +121,7 @@ yalnızca %2,5 örtüştüğü için reddedildi; Diyanet Yeni doğrudan resmî p
 - [x] Manus dağıtımının etkilenmediği teyit edildi (114 durak, HTTP 200)
 - [x] Supabase e-posta doğrulaması: kod her iki senaryoyu destekliyor (kapalıysa anında oturum, açıksa bilgi kutusu); panel tercihi kullanıcıya bırakıldı
 - [x] İki ortamın veri kapsamı karşılaştırıldı: Diyanet/Okuyan/Esed 6.236 (114 sure), İslamoğlu 3.288 (61 sure) — birebir aynı
-- [ ] HATA: Supabase Site URL `http://localhost:3000` olduğu için doğrulama e-postası bağlantısı çalışmıyor (otp_expired / ERR_CONNECTION_REFUSED)
-- [ ] Supabase Site URL ve Redirect URL'leri Vercel adresine ayarla
-- [ ] Kayıt → e-posta doğrulama → giriş akışını uçtan uca yeniden doğrula
+- [x] HATA giderildi: doğrulama bağlantısı localhost'a gidiyordu; signUp artık emailRedirectTo ile sitenin kendi adresini geçiyor
+- [x] /giris sayfası doğrulama hatalarını (otp_expired/access_denied) yakalayıp Türkçe yol gösteriyor
+- [x] Kullanıcı hesabı doğrulandı ve yönetici rolü atandı (mikaillekesiz@gmail.com → admin)
+- [x] Yönlendirme davranışı için 6 test eklendi (toplam 56 test geçiyor)

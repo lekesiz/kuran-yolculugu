@@ -51,6 +51,7 @@
 
 ## Günlük Eklenen Duraklar
 - [x] 38. durak — Necm Suresi (53), 62 ayet, nüzul sırası 26
+- [x] 39. durak — Şems Suresi (91), 15 ayet, nüzul sırası 28 (6 kaynak notu)
 
 ## Faz 7: Çapraz Kaynak Doğrulama Katmanı (18 Ağustos 2026)
 - [x] 13 olgusal iddianın TDV İslâm Ansiklopedisi, Diyanet Kur'an Yolu ve kuranokuyan.com üzerinden çapraz doğrulaması

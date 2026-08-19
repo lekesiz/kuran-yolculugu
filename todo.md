@@ -84,6 +84,7 @@ yalnızca %2,5 örtüştüğü için reddedildi; Diyanet Yeni doğrudan resmî p
 - [x] `seed.mjs` çıkışta askıda kalma sorunu giderildi: `conn.end()` sonrası TLS keep-alive handle event loop'u boşaltmıyordu, açık `process.exit(0)` eklendi
 - [x] `cekim/GUNLUK_TUR2.md` — tur yordamı (doğrulama / sadeleştirme / günümüze uyarlama kuralları, vaaz ve klişe yasağı dahil)
 - [x] Zamanlanmış görev yeni yordama çevrildi, her sabah 07:00 (Europe/Paris), 1. duraktan başlıyor
+- [x] `REHBER.md` 114 sure, okuma gezgini, kaynak notları ve 2. tur yordamına göre güncellendi
 - [ ] 114 durağın 2. turdan geçirilmesi (0/114 — günlük ilerleyecek)
 
 ## Faz 7: Çapraz Kaynak Doğrulama Katmanı (18 Ağustos 2026)

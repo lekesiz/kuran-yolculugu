@@ -15,6 +15,10 @@ açıp anlamadan kapatmak. Bunun için her durak, ayet metninin yanında dört
 katman daha sunar — tarihsel bağlam, çeviri farkları, bugüne bakan yüz ve
 okuyucunun kendine yöneltmesi gereken sorular.
 
+**Kapsam:** 114 surenin tamamı yüklüdür — 6.236 ayet Arapça metin, dört mealin
+ayet ayet karşılığı, 114 durakta esbâb-ı nüzûl, anahtar kavramlar, temalar,
+yüzleşme soruları ve kaynak notları.
+
 ## Sayfalar ve akışlar
 
 | Sayfa | Yol | Ne işe yarar |
@@ -46,6 +50,16 @@ ve geçtiği ayet numarasıyla.
 
 **Meal karşılaştırması.** Her ayet için Arapça metin (Uthmani hat) ve dört
 meal. İki görünüm vardır: sekmeli tek meal ya da yan yana karşılaştırma.
+Kırktan fazla ayetli surelerde metnin başında bir **okuma gezgini** belirir:
+ayetler yirmilik bölümlere ayrılır, aralık düğmeleriyle atlanabilir ve bölüm
+sonunda önceki/sonraki geçişi bulunur. Bakara gibi 286 ayetlik bir sure de
+böylece oturarak okunabilir hâle gelir.
+
+**Kaynak notları.** Bir iddianın ne kadar sağlam olduğunu gösteren katman. Üç
+etiketi vardır: *kaynaklar ayrışıyor* (iki görüş de yazılır, taraf tutulmaz),
+*rivayet uyarısı* (yaygın olarak dolaşan ama mevzû ya da zayıf olduğu tespit
+edilen nakiller — bilgi olarak aktarılmaz, yalnızca uyarı olarak kaydedilir) ve
+*kayıt düşülen nokta* (tefsirlerin kayıtla kabul ettiği yaygın okuyuşlar).
 
 **Bugüne bakan yüz.** Surenin çağdaş hayata dokunduğu yer. Bu bölüm yorumdur,
 ayetin kendisi değildir; tipografi de bunu ayırt eder.
@@ -98,6 +112,16 @@ sıradaki durak numarası otomatik önerilir.
 Tek bir meale yaslanmak, çeviri tercihlerini metnin kendisi sanmaya yol açar.
 Dört meal yan yana durur; aralarındaki fark, düşünmeye davettir.
 
+Meallerin nereden alındığı da kayıt altındadır: Diyanet Yeni doğrudan resmî
+portaldan (`kuran.diyanet.gov.tr`), Okuyan `kuranokuyan.com`'dan, Esed
+doğrulanmış bir açık kaynak arşivinden, İslamoğlu `kuranmeali.com`'dan alınır.
+İslamoğlu mealinin çekimi hâlâ sürmektedir; tamamlanmadığı ayetlerde panel o
+sütunu boş bırakmak yerine sessizce atlar.
+
+Bir not: açık kaynak arşivlerde bulunan "Diyanet İşleri" metni, kullandığımız
+"Diyanet Yeni" (2011 revizyonu) ile yalnızca yüzde iki buçuk örtüştüğü için
+kullanılmadı. Kolay olan yol yerine doğru sürüm tercih edildi.
+
 ### Nüzul tertibi
 
 Prof. Dr. Mehmet Okuyan'ın tasnifi esas alınmıştır. Bu tasnif, her sure
@@ -122,35 +146,53 @@ bırakmak.
 
 ## Proje nasıl büyüyor?
 
-Kur'an'ın tamamı tek oturumda işlenemeyecek kadar uzundur. Bu yüzden proje
-günde bir sure ilerler.
+İlk tur kapsamı kurdu: 114 surenin tamamı yüklendi. İkinci tur kaliteyi kuruyor.
 
-**Otomatik akış.** Her sabah 07:00'de (Europe/Paris) zamanlanmış bir görev
-tetiklenir. Görev, nüzul tertibinde henüz eklenmemiş ilk sureyi belirler, dört
-mealini ve Arapça metnini çeker, editoryal katmanları yazar, veritabanına
-yükler, testleri koşturur ve sonucu size bildirir. Görev ilerlemeyi size
-rapor eder; sürecin başlaması için bir şey yapmanız gerekmez.
+Artık her sabah 07:00'de (Europe/Paris) çalışan görev yeni sure eklemez;
+**1. duraktan başlayarak** her gün bir durağı üç açıdan elden geçirir:
 
-**Manuel ekleme.** Gün içinde belirli bir sureyi istediğinizde ("Necm suresini
-ekle" gibi) aynı yordam elle işletilir; sıra beklemez.
+**Doğrulama.** Her olgusal iddia — nüzul dönemi ve yılı, ayet aralıkları, kişi
+ve yer adları, rivayetler — en az iki bağımsız kaynakla denetlenir. Kaynaklar
+çelişirse taraf tutulmaz, ihtilaf notu düşülür. Bir rivayetin uydurma ya da
+zayıf olduğu tespit edilirse içerik olarak aktarılmaz.
+
+**Sadeleştirme.** Ölçüt tek cümleyle konur: dinî terminoloji bilmeyen bir
+okuyucu metni tek okuyuşta anlayabilmeli. Açıklanmadan geçen terim bırakılmaz,
+uzun zincirli cümleler bölünür, ansiklopedik üslup anlatıya çevrilir.
+
+**Günümüze uyarlama.** "Bugüne bakan yüz" ve yüzleşme soruları somutlaştırılır:
+soyut ahlaki dil yerine kredi borcu, ekran süresi, iş yerinde susmak, aile içi
+statü kavgası, algoritmik onay arayışı gibi tanıdık durumlar. Vaaz verilmez,
+emir kipi kullanılmaz; betimlenir ve teşhis edilir.
+
+**Gün içi istek.** Belirli bir sureyi istediğinizde ("Yûsuf suresini gözden
+geçir" gibi) aynı yordam sıra beklemeden o sureye uygulanır.
 
 **Sıradaki durağı görmek için:**
 
 ```bash
-cd /home/ubuntu/cekim && python3 sonraki.py 5
+cd /home/ubuntu/kuran-yolculugu && node scripts/next-review.mjs
 ```
 
-Ayrıntılı içerik ekleme yordamı `/home/ubuntu/cekim/GUNLUK_EKLEME.md`
-dosyasındadır.
+**Bir durağın tüm katmanlarını tek dosyada okumak için:**
+
+```bash
+python3 /home/ubuntu/cekim/durak_dok.py 1
+```
+
+Ayrıntılı yordam `/home/ubuntu/cekim/GUNLUK_TUR2.md` dosyasındadır; ilk turun
+yordamı `GUNLUK_EKLEME.md` içinde tarihsel kayıt olarak durur.
 
 ## Kalite güvencesi
 
 İçerik bütünlüğü otomatik testlerle korunur. Her yükleme sonrası şunlar
-denetlenir: her surenin beyan ettiği kadar ayet kaydı olması, her ayetin dört
-mealinin de bulunması, çeviri kaynaklarının bu dört meal dışına çıkmaması,
-durak numaralarının kesintisiz olması, her surenin editoryal katmanlarının
-dolu olması, dönem ihtilaflarının not edilmiş olması ve metinlere ham markdown
-işareti sızmamış olması.
+denetlenir: her surenin beyan ettiği kadar ayet kaydı olması, tamamlanmış her
+meal kaynağının hiçbir ayeti atlamamış olması, çeviri kaynaklarının izin verilen
+dört meal dışına çıkmaması, durak numaralarının kesintisiz olması, her surenin
+editoryal katmanlarının dolu olması, dönem ihtilaflarının not edilmiş olması,
+ihtilaf notlarının tek görüş anlatmaması, rivayet uyarılarının hüküm belirtmesi,
+okuma gezgininde hiçbir ayetin düşmemesi ya da tekrarlanmaması ve metinlere ham
+markdown işareti sızmamış olması.
 
 Testleri çalıştırmak için:
 

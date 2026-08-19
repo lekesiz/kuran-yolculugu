@@ -7,7 +7,6 @@
 import { Button } from "@/components/ui/button";
 import { Input } from "@/components/ui/input";
 import { Label } from "@/components/ui/label";
-import SiteLayout from "@/components/SiteLayout";
 import { isSupabaseAuth, supabase } from "@/lib/supabase";
 import { trpc } from "@/lib/trpc";
 import { Loader2 } from "lucide-react";
@@ -28,15 +27,13 @@ export default function Login() {
 
   if (!isSupabaseAuth || !client) {
     return (
-      <SiteLayout>
-        <div className="container max-w-lg py-20">
-          <h1 className="font-serif text-2xl">Giriş bu ortamda kullanılmıyor</h1>
-          <p className="mt-3 text-muted-foreground">
-            Bu dağıtımda kimlik doğrulama farklı bir sağlayıcı üzerinden
-            yürütülüyor. Ana sayfadaki giriş düğmesini kullanabilirsiniz.
-          </p>
-        </div>
-      </SiteLayout>
+      <div className="container max-w-lg py-20">
+        <h1 className="font-serif text-2xl">Giriş bu ortamda kullanılmıyor</h1>
+        <p className="mt-3 text-muted-foreground">
+          Bu dağıtımda kimlik doğrulama farklı bir sağlayıcı üzerinden
+          yürütülüyor. Sayfanın üstündeki giriş düğmesini kullanabilirsiniz.
+        </p>
+      </div>
     );
   }
 
@@ -81,66 +78,63 @@ export default function Login() {
   };
 
   return (
-    <SiteLayout>
-      <div className="container max-w-md py-16 md:py-24">
-        <header className="mb-8">
-          <p className="text-[0.7rem] uppercase tracking-[0.22em] text-muted-foreground">
-            Kur'an'ı Anlama Yolculuğu
-          </p>
-          <h1 className="mt-2 font-serif text-3xl leading-tight">
-            {mode === "giris" ? "Giriş yap" : "Hesap oluştur"}
-          </h1>
-          <p className="mt-3 text-sm leading-relaxed text-muted-foreground">
-            Sureleri okumak ve mealleri karşılaştırmak için girişe gerek yok.
-            Giriş yalnızca okuma ilerlemenizi işaretlemek ve kişisel notlarınızı
-            kaydetmek için gereklidir.
-          </p>
-        </header>
-
-        <form onSubmit={submit} className="space-y-5">
-          <div className="space-y-2">
-            <Label htmlFor="email">E-posta</Label>
-            <Input
-              id="email"
-              type="email"
-              autoComplete="email"
-              required
-              value={email}
-              onChange={e => setEmail(e.target.value)}
-              placeholder="ornek@eposta.com"
-            />
-          </div>
-          <div className="space-y-2">
-            <Label htmlFor="password">Şifre</Label>
-            <Input
-              id="password"
-              type="password"
-              autoComplete={mode === "giris" ? "current-password" : "new-password"}
-              required
-              minLength={6}
-              value={password}
-              onChange={e => setPassword(e.target.value)}
-              placeholder="En az 6 karakter"
-            />
-          </div>
-          <Button type="submit" className="w-full" disabled={busy}>
-            {busy && <Loader2 className="mr-2 size-4 animate-spin" />}
-            {mode === "giris" ? "Giriş yap" : "Hesap oluştur"}
-          </Button>
-        </form>
-
-        <p className="mt-6 text-sm text-muted-foreground">
-          {mode === "giris" ? "Hesabınız yok mu? " : "Hesabınız var mı? "}
-          <button
-            type="button"
-            onClick={() => setMode(mode === "giris" ? "kayit" : "giris")}
-            className="font-medium text-foreground underline decoration-border underline-offset-4 transition-colors hover:decoration-foreground"
-          >
-            {mode === "giris" ? "Hesap oluşturun" : "Giriş yapın"}
-          </button>
+    <div className="container max-w-md py-16 md:py-24">
+      <header className="mb-8">
+        <p className="text-[0.7rem] uppercase tracking-[0.22em] text-muted-foreground">
+          Kişisel defter
         </p>
-      </div>
-    </SiteLayout>
+        <h1 className="mt-2 font-serif text-3xl leading-tight">
+          {mode === "giris" ? "Giriş yap" : "Hesap oluştur"}
+        </h1>
+        <p className="mt-3 text-sm leading-relaxed text-muted-foreground">
+          Sureleri okumak ve mealleri karşılaştırmak için girişe gerek yok.
+          Giriş yalnızca okuma ilerlemenizi işaretlemek ve kişisel notlarınızı
+          kaydetmek için gereklidir.
+        </p>
+      </header>
+
+      <form onSubmit={submit} className="space-y-5">
+        <div className="space-y-2">
+          <Label htmlFor="email">E-posta</Label>
+          <Input
+            id="email"
+            type="email"
+            autoComplete="email"
+            required
+            value={email}
+            onChange={e => setEmail(e.target.value)}
+            placeholder="ornek@eposta.com"
+          />
+        </div>
+        <div className="space-y-2">
+          <Label htmlFor="password">Şifre</Label>
+          <Input
+            id="password"
+            type="password"
+            autoComplete={mode === "giris" ? "current-password" : "new-password"}
+            required
+            minLength={6}
+            value={password}
+            onChange={e => setPassword(e.target.value)}
+            placeholder="En az 6 karakter"
+          />
+        </div>
+        <Button type="submit" className="w-full" disabled={busy}>
+          {busy && <Loader2 className="mr-2 size-4 animate-spin" />}
+          {mode === "giris" ? "Giriş yap" : "Hesap oluştur"}
+        </Button>
+      </form>
+
+      <p className="mt-6 text-sm text-muted-foreground">
+        {mode === "giris" ? "Hesabınız yok mu? " : "Hesabınız var mı? "}
+        <button
+          type="button"
+          onClick={() => setMode(mode === "giris" ? "kayit" : "giris")}
+          className="font-medium text-foreground underline decoration-border underline-offset-4 transition-colors hover:decoration-foreground">
+          {mode === "giris" ? "Hesap oluşturun" : "Giriş yapın"}
+        </button>
+      </p>
+    </div>
   );
 }
 

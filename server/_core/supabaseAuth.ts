@@ -102,11 +102,12 @@ export async function authenticateSupabaseRequest(
     (email ? email.split("@")[0] : null);
 
   // Sahip e-postası tanımlıysa o hesap admin olur; böylece içerik yönetimi
-  // paneline Vercel tarafında da erişilebilir.
-  const role =
-    OWNER_EMAIL && email && email.toLowerCase() === OWNER_EMAIL
-      ? ("admin" as const)
-      : undefined;
+  // paneline Vercel tarafında da erişilebilir. Her girişte yeniden uygulanır,
+  // böylece hesap sahip e-postası tanımlanmadan önce oluşturulmuş olsa bile
+  // yetki doğru şekilde yükselir.
+  const isOwner = Boolean(
+    OWNER_EMAIL && email && email.toLowerCase() === OWNER_EMAIL,
+  );
 
   await upsertUser({
     openId,
@@ -114,9 +115,12 @@ export async function authenticateSupabaseRequest(
     name,
     loginMethod: claims.app_metadata?.provider ?? "supabase",
     lastSignedIn: new Date(),
-    ...(role ? { role } : {}),
+    ...(isOwner ? { role: "admin" as const } : {}),
   });
 
+  // `upsertUser` rolü hem ekleme hem güncelleme yolunda yazdığı için, sahip
+  // hesabı daha önce normal kullanıcı olarak oluşturulmuş olsa bile bu girişte
+  // admin'e yükselir.
   const user = await getUserByOpenId(openId);
   return user ?? null;
 }

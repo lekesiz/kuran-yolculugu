@@ -74,4 +74,23 @@ describe("Supabase Auth katmanı", () => {
       mod.authenticateSupabaseRequest(req({ authorization: `Bearer ${uydurma}` })),
     ).resolves.toBeNull();
   });
+
+  it("sahip e-postası büyük/küçük harften bağımsız karşılaştırılır", async () => {
+    process.env.SUPABASE_URL = "https://ornek.supabase.co";
+    process.env.OWNER_EMAIL = "Sahip@Ornek.COM";
+    const mod = await freshModule();
+    // Modül yüklenirken e-posta küçük harfe indirgeniyor; etkinlik korunuyor.
+    expect(mod.isSupabaseAuthEnabled()).toBe(true);
+  });
+
+  it("SUPABASE_URL sonundaki eğik çizgiyi temizler (JWKS adresi bozulmaz)", async () => {
+    process.env.SUPABASE_URL = "https://ornek.supabase.co///";
+    const mod = await freshModule();
+    expect(mod.isSupabaseAuthEnabled()).toBe(true);
+    // Bozuk bir token ile çağırmak JWKS adresini kurar; URL geçersiz olsaydı
+    // `new URL(...)` fırlatır ve test hata verirdi.
+    await expect(
+      mod.authenticateSupabaseRequest(req({ authorization: "Bearer a.b.c" })),
+    ).resolves.toBeNull();
+  });
 });

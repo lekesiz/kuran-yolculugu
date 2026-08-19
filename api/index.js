@@ -80540,14 +80540,16 @@ async function authenticateSupabaseRequest(req) {
   if (!openId) return null;
   const email3 = claims.email ?? null;
   const name = claims.user_metadata?.name ?? claims.user_metadata?.full_name ?? (email3 ? email3.split("@")[0] : null);
-  const role = OWNER_EMAIL && email3 && email3.toLowerCase() === OWNER_EMAIL ? "admin" : void 0;
+  const isOwner = Boolean(
+    OWNER_EMAIL && email3 && email3.toLowerCase() === OWNER_EMAIL
+  );
   await upsertUser({
     openId,
     email: email3,
     name,
     loginMethod: claims.app_metadata?.provider ?? "supabase",
     lastSignedIn: /* @__PURE__ */ new Date(),
-    ...role ? { role } : {}
+    ...isOwner ? { role: "admin" } : {}
   });
   const user = await getUserByOpenId(openId);
   return user ?? null;

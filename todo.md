@@ -125,3 +125,7 @@ yalnızca %2,5 örtüştüğü için reddedildi; Diyanet Yeni doğrudan resmî p
 - [x] /giris sayfası doğrulama hatalarını (otp_expired/access_denied) yakalayıp Türkçe yol gösteriyor
 - [x] Kullanıcı hesabı doğrulandı ve yönetici rolü atandı (mikaillekesiz@gmail.com → admin)
 - [x] Yönlendirme davranışı için 6 test eklendi (toplam 56 test geçiyor)
+- [x] Supabase Site URL → https://kuran-yolculugu.vercel.app ve izinli yönlendirme adresleri tanımlandı (panelde uygulandı)
+- [x] Yönlendirme davranışı canlı doğrulandı: izinli adres kabul, izinsiz adres reddedilip ana sayfaya düşürülüyor
+- [x] Düzeltme sonrası canlı oturum turu: giriş, not kaydetme/okuma, ilerleme kaydı, 401/403 korumaları
+- [x] Test hesaplarının bıraktığı not/ilerleme kayıtları temizlendi

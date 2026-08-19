@@ -97,3 +97,21 @@ yalnızca %2,5 örtüştüğü için reddedildi; Diyanet Yeni doğrudan resmî p
 - [x] Müddessir düzeltmesi: Velîd b. Mugîre bölümü 11-25 → 11-26. ayetler (TDV)
 - [x] Admin panelinin `scholarlyNotes` alanını kabul etmesi (router şeması)
 - [x] Vitest: kaynak notu bütünlüğü, ihtilaf notlarının tek görüş anlatmaması, rivayet uyarılarının hüküm belirtmesi
+
+## Faz 10: Vercel Dağıtımı + Supabase Göçü (19 Ağustos 2026)
+- [x] Vercel dağıtım sorunu teşhis edildi: framework `vite` sanıldığı için statik kök `dist` kabul ediliyordu; `index.html` orada olmadığı için sunucu bundle'ı (`dist/index.js`) düz metin sunuluyordu
+- [x] Express uygulaması ortak fabrikaya çıkarıldı (`server/_core/app.ts`) — yerel sunucu ve serverless aynı kodu paylaşıyor
+- [x] Vercel serverless giriş noktası (`api/index.ts`, `listen()` çağırmıyor)
+- [x] `vercel.json`: statik kök `dist/public`, `/api/*` ve `/manus-storage/*` fonksiyona, SPA fallback
+- [x] Supabase projesi ve Postgres şeması (`vsxasvdmhkxloptnwrru`, eu-central-1)
+- [x] 114 durağın verisi Supabase'e aktarıldı (6.236 ayet, 21.996 meal, 404 tema, 294 soru)
+- [x] Drizzle Postgres şeması (`drizzle/schema.pg.ts`) ve tablo soyutlaması (`drizzle/tables.ts`)
+- [x] Veritabanı katmanı çift sürücü destekli (Manus: MySQL/TiDB, Vercel: Supabase Postgres)
+- [x] Postgres katmanı canlı doğrulandı: 114 durak, arama, dönem filtresi, JSON alanları, navigasyon
+- [x] Manus OAuth yerine Supabase Auth (JWKS/ES256 doğrulaması, `server/_core/supabaseAuth.ts`)
+- [x] tRPC context'te ortama göre auth sağlayıcısı seçimi
+- [x] `/giris` sayfası, başlıktaki giriş düğmesi ve çıkış akışı iki ortamda çalışıyor
+- [x] Vercel ortam değişkenleri ayarlandı (7 değişken, üç hedef için)
+- [x] Vitest: Supabase Auth katmanı davranış testleri (6 test)
+- [ ] GitHub'a gönderildi ve Vercel dağıtımı başarılı
+- [ ] Canlı site uçtan uca doğrulandı: durak listesi, meal karşılaştırma, arama/filtre, giriş, not alma

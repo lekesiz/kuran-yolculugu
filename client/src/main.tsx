@@ -6,6 +6,7 @@ import { createRoot } from "react-dom/client";
 import superjson from "superjson";
 import App from "./App";
 import { startLogin } from "./const";
+import { isSupabaseAuth, supabase } from "./lib/supabase";
 import "./index.css";
 
 const queryClient = new QueryClient();
@@ -13,11 +14,16 @@ const queryClient = new QueryClient();
 const redirectToLoginIfUnauthorized = (error: unknown) => {
   if (!(error instanceof TRPCClientError)) return;
   if (typeof window === "undefined") return;
-
   const isUnauthorized = error.message === UNAUTHED_ERR_MSG;
-
   if (!isUnauthorized) return;
-
+  // Supabase Auth kullanılan dağıtımda kendi giriş sayfamıza yönlendiririz;
+  // Manus dağıtımında OAuth portalı açılır.
+  if (isSupabaseAuth) {
+    if (window.location.pathname !== "/giris") {
+      window.location.href = "/giris";
+    }
+    return;
+  }
   startLogin();
 };
 
@@ -42,7 +48,18 @@ const trpcClient = trpc.createClient({
     httpBatchLink({
       url: "/api/trpc",
       transformer: superjson,
-      headers() {
+      async headers() {
+        // Supabase Auth: oturum token'ını Bearer olarak ilet.
+        if (isSupabaseAuth && supabase) {
+          try {
+            const { data } = await supabase.auth.getSession();
+            const token = data.session?.access_token;
+            if (token) return { Authorization: `Bearer ${token}` };
+          } catch {
+            // oturum okunamadı; anonim devam
+          }
+          return {};
+        }
         // Preview auto-login fallback: when the browser blocks iframe cookies
         // (Safari ITP / private browsing / WebView), the runtime mirrors the
         // session into sessionStorage so we can forward it as a Bearer token.

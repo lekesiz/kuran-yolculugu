@@ -1,5 +1,7 @@
 import { and, asc, desc, eq, inArray, like, or, sql } from "drizzle-orm";
 import { drizzle } from "drizzle-orm/mysql2";
+import { drizzle as drizzlePg } from "drizzle-orm/postgres-js";
+import postgres from "postgres";
 import {
   InsertQuestion,
   InsertSurah,
@@ -15,22 +17,55 @@ import {
   userProgress,
   users,
   verses,
-} from "../drizzle/schema";
+  IS_POSTGRES,
+} from "../drizzle/tables";
 import { ENV } from "./_core/env";
-
-let _db: ReturnType<typeof drizzle> | null = null;
-
+/**
+ * Aktif sürücü Postgres (Supabase/Vercel) veya MySQL (Manus/TiDB) olabilir.
+ * `IS_POSTGRES` DB_DRIVER ortam değişkeninden gelir; tablo nesneleri de aynı
+ * bayrağa göre `drizzle/tables.ts` içinde seçilir, dolayısıyla aşağıdaki tüm
+ * sorgular iki sürücüde de değişmeden çalışır.
+ */
+type AnyDb = ReturnType<typeof drizzle> | ReturnType<typeof drizzlePg>;
+let _db: AnyDb | null = null;
 // Lazily create the drizzle instance so local tooling can run without a DB.
 export async function getDb() {
   if (!_db && process.env.DATABASE_URL) {
     try {
-      _db = drizzle(process.env.DATABASE_URL);
+      if (IS_POSTGRES) {
+        // `prepare: false` — Supabase'in transaction-mode pooler'ı (port 6543)
+        // prepared statement'ları desteklemez. Serverless'ta bağlantı sayısını
+        // düşük tutmak için havuz 1'de tutulur.
+        const client = postgres(process.env.DATABASE_URL, {
+          prepare: false,
+          max: 1,
+          idle_timeout: 20,
+          connect_timeout: 15,
+        });
+        _db = drizzlePg(client);
+      } else {
+        _db = drizzle(process.env.DATABASE_URL);
+      }
     } catch (error) {
       console.warn("[Database] Failed to connect:", error);
       _db = null;
     }
   }
-  return _db;
+  return _db as ReturnType<typeof drizzle> | null;
+}
+
+/**
+ * Tek satırlık "ekle ya da güncelle" işlemini iki sürücüde de yürütür.
+ * MySQL `ON DUPLICATE KEY UPDATE`, Postgres `ON CONFLICT (...) DO UPDATE`
+ * söz dizimi kullanır; çağıran taraf farkı görmez.
+ */
+// eslint-disable-next-line @typescript-eslint/no-explicit-any
+async function upsert(builder: any, target: any, set: Record<string, unknown>) {
+  if (IS_POSTGRES) {
+    await builder.onConflictDoUpdate({ target, set });
+    return;
+  }
+  await builder.onDuplicateKeyUpdate({ set });
 }
 
 /** Throws when the database is unavailable, so procedures fail loudly instead of returning empty data. */
@@ -92,7 +127,7 @@ export async function upsertUser(user: InsertUser): Promise<void> {
       updateSet.lastSignedIn = new Date();
     }
 
-    await db.insert(users).values(values).onDuplicateKeyUpdate({ set: updateSet });
+    await upsert(db.insert(users).values(values), users.openId, updateSet);
   } catch (error) {
     console.error("[Database] Failed to upsert user:", error);
     throw error;
@@ -360,10 +395,11 @@ export async function getProgressForUser(userId: number) {
 export async function setProgress(userId: number, surahId: number, isRead: boolean) {
   const db = await requireDb();
   const readAt = isRead ? new Date() : null;
-  await db
-    .insert(userProgress)
-    .values({ userId, surahId, isRead, readAt })
-    .onDuplicateKeyUpdate({ set: { isRead, readAt } });
+  await upsert(
+    db.insert(userProgress).values({ userId, surahId, isRead, readAt }),
+    [userProgress.userId, userProgress.surahId],
+    { isRead, readAt },
+  );
 }
 
 export async function getNote(userId: number, surahId: number) {
@@ -384,10 +420,11 @@ export async function saveNote(userId: number, surahId: number, body: string) {
       .where(and(eq(userNotes.userId, userId), eq(userNotes.surahId, surahId)));
     return;
   }
-  await db
-    .insert(userNotes)
-    .values({ userId, surahId, body })
-    .onDuplicateKeyUpdate({ set: { body } });
+  await upsert(
+    db.insert(userNotes).values({ userId, surahId, body }),
+    [userNotes.userId, userNotes.surahId],
+    { body },
+  );
 }
 
 export async function listNotesForUser(userId: number) {

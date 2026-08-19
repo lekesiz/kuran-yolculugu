@@ -3,6 +3,7 @@ import { TooltipProvider } from "@/components/ui/tooltip";
 import Admin from "@/pages/Admin";
 import About from "@/pages/About";
 import Home from "@/pages/Home";
+import Login from "@/pages/Login";
 import Notes from "@/pages/Notes";
 import NotFound from "@/pages/NotFound";
 import StationDetail from "@/pages/StationDetail";
@@ -21,6 +22,7 @@ function Router() {
         <Route path="/duraklar/:stationNo" component={StationDetail} />
         <Route path="/notlarim" component={Notes} />
         <Route path="/hakkinda" component={About} />
+        <Route path="/giris" component={Login} />
         <Route path="/yonetim" component={Admin} />
         <Route path="/404" component={NotFound} />
         <Route component={NotFound} />

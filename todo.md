@@ -119,4 +119,5 @@ yalnızca %2,5 örtüştüğü için reddedildi; Diyanet Yeni doğrudan resmî p
 - [x] Giriş sayfasındaki çift başlık/altbilgi kusuru düzeltildi
 - [x] Canlı site uçtan uca doğrulandı: durak listesi, sure detayı, meal karşılaştırma, arama/filtre, giriş, not ve ilerleme kaydı
 - [x] Manus dağıtımının etkilenmediği teyit edildi (114 durak, HTTP 200)
-- [ ] Supabase e-posta doğrulaması: panelden kapatma ya da SMTP kurulumu kararı (kullanıcı tercihi)
+- [x] Supabase e-posta doğrulaması: kod her iki senaryoyu destekliyor (kapalıysa anında oturum, açıksa bilgi kutusu); panel tercihi kullanıcıya bırakıldı
+- [x] İki ortamın veri kapsamı karşılaştırıldı: Diyanet/Okuyan/Esed 6.236 (114 sure), İslamoğlu 3.288 (61 sure) — birebir aynı

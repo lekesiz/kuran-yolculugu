@@ -65,3 +65,7 @@ if (problems.length) {
   process.exit(1);
 }
 
+// After `conn.end()` the TLS socket's keep-alive handle can stay registered, so
+// node never drains its event loop and the script hangs after printing the
+// summary — visually identical to a stalled seed. Exit explicitly instead.
+process.exit(0);

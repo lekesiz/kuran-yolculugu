@@ -67,13 +67,24 @@
 - [x] 114 durağın editoryal katmanları ve üç tam mealin veritabanına yüklenmesi (hata yok, 20.849 meal kaydı)
 - [ ] Dördüncü meal (İslamoğlu) tamamlanınca yeniden yükle → 24.944 meal kaydı hedefi
 - [x] Uzun sure performansı ölçüldü: Bakara (286 ayet, 738 KB) 0,13 s — teknik sayfalama gerekmiyor
-- [ ] Uzun sureler için okuma gezgini (bölüm/ayet aralığı atlama) — performans değil, okunabilirlik gereksinimi
+- [x] Uzun sureler için okuma gezgini: 40+ ayetli surelerde 20'lik bloklar, aralık düğmeleri ve önceki/sonraki bölüm gezinmesi
+- [x] Vitest: okuma gezgini bölüm kapsamı (hiçbir ayet düşmez/tekrarlanmaz, kısa sureler bölünmez)
 - [x] Meal kapsamı testinin dürüstleştirilmesi: tamamlanan kaynaklar eksiksiz olmalı, dördüncüsü tamamlanınca otomatik zorunlu olur
-- [ ] Günlük görevi 1. duraktan yeniden başlatacak şekilde yeniden kur (doğrulama + sadeleştirme + günümüze uyarlama turu)
+- [x] Günlük görevi 1. duraktan yeniden başlatacak şekilde yeniden kur (doğrulama + sadeleştirme + günümüze uyarlama turu)
 
 ### Kaynak politikası notu
 CDN'deki "Diyanet İşleri" sürümü, kullandığımız "Diyanet Yeni" (2011 revizyonu) ile
 yalnızca %2,5 örtüştüğü için reddedildi; Diyanet Yeni doğrudan resmî portaldan alındı.
+
+## Faz 9: Gözden Geçirme Turu Altyapısı (19 Ağustos 2026)
+- [x] Şema: `surahs.revisionPass` (int, default 1) ve `surahs.revisionNote` (text)
+- [x] `seed-lib.mjs` iki yeni alanı taşıyor
+- [x] `scripts/next-review.mjs` — `revisionPass < 2` olan sıradaki durakları ve ilerlemeyi bildirir
+- [x] `scripts/dump-station.mjs` + `cekim/durak_dok.py` — durağın tüm katmanlarını tek markdown dosyasına döker
+- [x] `seed.mjs` çıkışta askıda kalma sorunu giderildi: `conn.end()` sonrası TLS keep-alive handle event loop'u boşaltmıyordu, açık `process.exit(0)` eklendi
+- [x] `cekim/GUNLUK_TUR2.md` — tur yordamı (doğrulama / sadeleştirme / günümüze uyarlama kuralları, vaaz ve klişe yasağı dahil)
+- [x] Zamanlanmış görev yeni yordama çevrildi, her sabah 07:00 (Europe/Paris), 1. duraktan başlıyor
+- [ ] 114 durağın 2. turdan geçirilmesi (0/114 — günlük ilerleyecek)
 
 ## Faz 7: Çapraz Kaynak Doğrulama Katmanı (18 Ağustos 2026)
 - [x] 13 olgusal iddianın TDV İslâm Ansiklopedisi, Diyanet Kur'an Yolu ve kuranokuyan.com üzerinden çapraz doğrulaması

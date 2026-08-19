@@ -12,7 +12,7 @@ import {
   type TranslationSource,
 } from "@shared/kuran";
 import { Columns2, Info, Rows3 } from "lucide-react";
-import { useMemo, useState } from "react";
+import { useEffect, useMemo, useState } from "react";
 
 type TranslationRow = {
   id: number;
@@ -28,6 +28,14 @@ type VerseRow = { id: number; verseNo: number; textArabic: string };
 function verseLabel(verseNo: number, verseNoEnd: number | null) {
   return verseNoEnd && verseNoEnd !== verseNo ? `${verseNo}-${verseNoEnd}` : `${verseNo}`;
 }
+
+/**
+ * Above this many verse rows a surah stops being readable as one scroll — Bakara
+ * alone is 286 verses. Long surahs get split into fixed blocks the reader can
+ * jump between; short ones stay untouched so nothing changes for most stations.
+ */
+const CHUNK_THRESHOLD = 40;
+const CHUNK_SIZE = 20;
 
 export default function TranslationPanel({
   translations,
@@ -94,6 +102,25 @@ export default function TranslationPanel({
 
   const activeOrdered = availableSources.filter(s => active.includes(s));
   const coverage = rows.length;
+
+  const chunked = rows.length > CHUNK_THRESHOLD;
+  const chunks = useMemo(() => {
+    if (!chunked) return [rows];
+    const out: typeof rows[] = [];
+    for (let i = 0; i < rows.length; i += CHUNK_SIZE) {
+      out.push(rows.slice(i, i + CHUNK_SIZE));
+    }
+    return out;
+  }, [rows, chunked]);
+
+  const [chunkIndex, setChunkIndex] = useState(0);
+  // Switching surah remounts with new rows; clamp so a stale index cannot
+  // leave the reader staring at an empty panel.
+  useEffect(() => {
+    setChunkIndex(i => (i < chunks.length ? i : 0));
+  }, [chunks.length]);
+
+  const visibleRows = chunked ? (chunks[chunkIndex] ?? chunks[0] ?? []) : rows;
 
   return (
     <div className="space-y-4">
@@ -178,9 +205,48 @@ export default function TranslationPanel({
         </p>
       )}
 
+      {/* Reading navigator — only for surahs long enough to need it */}
+      {chunked && (
+        <div className="flex flex-col gap-2.5 rounded-lg border border-border/70 bg-secondary/25 p-3">
+          <div className="flex items-center justify-between gap-3">
+            <p className="eyebrow">Okuma bölümü</p>
+            <p className="tnum text-xs text-muted-foreground">
+              {visibleRows.length ? verseLabel(visibleRows[0].verseNo, null) : "—"}
+              {visibleRows.length > 1 &&
+                `–${verseLabel(visibleRows[visibleRows.length - 1].verseNo, null)}`}
+              {" / "}
+              {verseCount} ayet
+            </p>
+          </div>
+          <div className="flex flex-wrap gap-1.5">
+            {chunks.map((chunk, i) => {
+              const first = chunk[0]?.verseNo ?? 0;
+              const last = chunk[chunk.length - 1]?.verseNo ?? first;
+              const isActive = i === chunkIndex;
+              return (
+                <button
+                  key={i}
+                  type="button"
+                  onClick={() => setChunkIndex(i)}
+                  aria-pressed={isActive}
+                  className={cn(
+                    "tnum rounded-md border px-2 py-1 text-xs transition-all duration-200 active:scale-[0.97]",
+                    isActive
+                      ? "border-accent-foreground/40 bg-accent/50 text-accent-foreground"
+                      : "border-border/70 text-muted-foreground hover:border-border hover:text-foreground",
+                  )}
+                  style={{ transitionTimingFunction: "var(--ease-out)" }}>
+                  {first}–{last}
+                </button>
+              );
+            })}
+          </div>
+        </div>
+      )}
+
       {/* Verse rows */}
       <div className="space-y-3">
-        {rows.map(row => (
+        {visibleRows.map(row => (
           <Card key={row.verseNo} className="gap-0 overflow-hidden border-border/70 py-0 shadow-none">
             <div className="flex items-center gap-2 border-b border-border/60 bg-secondary/35 px-4 py-2">
               <span className="tnum font-serif text-sm font-semibold">
@@ -228,6 +294,30 @@ export default function TranslationPanel({
           </Card>
         ))}
       </div>
+
+      {chunked && (
+        <div className="flex items-center justify-between gap-3 border-t border-border/60 pt-3">
+          <Button
+            variant="outline"
+            size="sm"
+            disabled={chunkIndex === 0}
+            onClick={() => setChunkIndex(i => Math.max(0, i - 1))}
+            className="bg-background">
+            Önceki bölüm
+          </Button>
+          <span className="tnum text-xs text-muted-foreground">
+            {chunkIndex + 1} / {chunks.length}
+          </span>
+          <Button
+            variant="outline"
+            size="sm"
+            disabled={chunkIndex >= chunks.length - 1}
+            onClick={() => setChunkIndex(i => Math.min(chunks.length - 1, i + 1))}
+            className="bg-background">
+            Sonraki bölüm
+          </Button>
+        </div>
+      )}
     </div>
   );
 }

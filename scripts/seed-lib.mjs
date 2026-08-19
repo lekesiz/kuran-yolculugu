@@ -99,8 +99,8 @@ export async function upsertStation(conn, s) {
        (stationNo, surahNo, nuzulOrderOkuyan, name, nameArabic, nameMeaning, verseCount,
         periodDiyanet, periodOkuyan, periodDisputeNote, revelationTiming, stationTitle,
         introduction, occasionOfRevelation, occasionSources, contemporaryMeaning, keyTerms,
-        scholarlyNotes)
-     VALUES (?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?)
+        scholarlyNotes, revisionPass, revisionNote)
+     VALUES (?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?)
      ON DUPLICATE KEY UPDATE
        stationNo=VALUES(stationNo),
        nuzulOrderOkuyan=VALUES(nuzulOrderOkuyan),
@@ -118,7 +118,9 @@ export async function upsertStation(conn, s) {
        occasionSources=VALUES(occasionSources),
        contemporaryMeaning=VALUES(contemporaryMeaning),
        keyTerms=VALUES(keyTerms),
-       scholarlyNotes=VALUES(scholarlyNotes)`,
+       scholarlyNotes=VALUES(scholarlyNotes),
+       revisionPass=VALUES(revisionPass),
+       revisionNote=VALUES(revisionNote)`,
     [
       s.stationNo,
       s.surahNo,
@@ -138,6 +140,8 @@ export async function upsertStation(conn, s) {
       s.contemporaryMeaning ?? null,
       keyTerms,
       scholarlyNotes,
+      s.revisionPass ?? 1,
+      s.revisionNote ?? null,
     ],
   );
 

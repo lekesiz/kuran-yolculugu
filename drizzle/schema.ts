@@ -82,6 +82,14 @@ export const surahs = mysqlTable(
      * settled and which are contested, instead of presenting everything flat.
      */
     scholarlyNotes: json("scholarlyNotes"),
+    /**
+     * Which quality pass this station has been through. 1 = initial load,
+     * 2 = verification + simplification + contemporary rewrite. The daily job
+     * picks the lowest-numbered station still sitting at pass 1.
+     */
+    revisionPass: int("revisionPass").default(1).notNull(),
+    /** One sentence on what the latest pass actually changed. */
+    revisionNote: text("revisionNote"),
     createdAt: timestamp("createdAt").defaultNow().notNull(),
     updatedAt: timestamp("updatedAt").defaultNow().onUpdateNow().notNull(),
   },

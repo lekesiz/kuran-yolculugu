@@ -53,6 +53,28 @@
 - [x] 38. durak — Necm Suresi (53), 62 ayet, nüzul sırası 26
 - [x] 39. durak — Şems Suresi (91), 15 ayet, nüzul sırası 28 (6 kaynak notu)
 
+## Faz 8: 114 Surenin Tamamlanması (19 Ağustos 2026)
+- [x] Arapça metin: 114 sure / 6.236 ayet (Uthmani hat)
+- [x] Diyanet Yeni meali: 6.236/6.236 — resmî Diyanet portalı (sayfa bazlı, birincil kaynak)
+- [x] Mehmet Okuyan meali: 6.236/6.236 — kuranokuyan.com
+- [x] Muhammed Esed meali: 6.236/6.236 — açık kaynak CDN, mevcut çekimle %88 birebir doğrulandı
+- [ ] Mustafa İslamoğlu meali: kısmi (tek kaynağı kuranmeali.com hız sınırı koydu; arka planda sürüyor)
+- [x] 74 surenin editoryal içeriği (esbâb-ı nüzûl, kavram, tema, yüzleşme sorusu, kaynak notu)
+- [x] Tevbe suresi (Okuyan tertibinde 114. sıra) ayrı üretildi
+- [x] Durak numaralarının tek doğruluk kaynağından normalize edilmesi (17 dosyada çakışma vardı)
+- [x] 75 durak için "bugüne bakan yüz" (`contemporaryMeaning`) metinleri
+- [x] 17 kaynak notu düzeltmesi: ihtilaf notları karşı görüşü anacak, rivayet notu hüküm belirtecek
+- [x] 114 durağın editoryal katmanları ve üç tam mealin veritabanına yüklenmesi (hata yok, 20.849 meal kaydı)
+- [ ] Dördüncü meal (İslamoğlu) tamamlanınca yeniden yükle → 24.944 meal kaydı hedefi
+- [x] Uzun sure performansı ölçüldü: Bakara (286 ayet, 738 KB) 0,13 s — teknik sayfalama gerekmiyor
+- [ ] Uzun sureler için okuma gezgini (bölüm/ayet aralığı atlama) — performans değil, okunabilirlik gereksinimi
+- [x] Meal kapsamı testinin dürüstleştirilmesi: tamamlanan kaynaklar eksiksiz olmalı, dördüncüsü tamamlanınca otomatik zorunlu olur
+- [ ] Günlük görevi 1. duraktan yeniden başlatacak şekilde yeniden kur (doğrulama + sadeleştirme + günümüze uyarlama turu)
+
+### Kaynak politikası notu
+CDN'deki "Diyanet İşleri" sürümü, kullandığımız "Diyanet Yeni" (2011 revizyonu) ile
+yalnızca %2,5 örtüştüğü için reddedildi; Diyanet Yeni doğrudan resmî portaldan alındı.
+
 ## Faz 7: Çapraz Kaynak Doğrulama Katmanı (18 Ağustos 2026)
 - [x] 13 olgusal iddianın TDV İslâm Ansiklopedisi, Diyanet Kur'an Yolu ve kuranokuyan.com üzerinden çapraz doğrulaması
 - [x] Veritabanı şemasına `scholarlyNotes` alanı (JSON: kind / label / body)

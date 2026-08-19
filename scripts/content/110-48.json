@@ -1,0 +1,628 @@
+{
+ "stationNo": 110,
+ "surahNo": 48,
+ "name": "Fetih",
+ "nameArabic": "",
+ "nameMeaning": "",
+ "verseCount": 29,
+ "nuzulOrderOkuyan": 110,
+ "periodDiyanet": "Medine",
+ "periodOkuyan": "Medine",
+ "revelationTiming": "Nüzul yılı konusunda kaynaklarda hicrî 6. yıl (Hudeybiye dönüşü) genel kabul görmekle birlikte, bazı kaynaklarda 7. yıl olarak da geçmektedir.",
+ "stationTitle": "Görünürdeki Yenilginin İçindeki Gerçek Zafer",
+ "introduction": "Fetih suresi, adını ilk ayetinde geçen ve 'açmak, zafer vermek' anlamına gelen 'feth' kelimesinden alır. 29 ayetten oluşan bu sure, Kur'an'ın 48. suresidir ve iniş sırasına göre 110. sırada yer alır. Surenin ana ekseni, görünüşte Müslümanların aleyhine gibi duran bir antlaşmanın aslında nasıl büyük bir zaferin kapısını araladığını anlatmasıdır.\n\nSure, Hudeybiye Antlaşması'nın ardından yaşanan psikolojik kırılmayı onarır. İlk ayetlerinde Hz. Peygamber'e verilen apaçık bir fetihten, onun geçmiş ve gelecek günahlarının bağışlanmasından ve müminlerin kalplerine indirilen huzurdan (sekine) bahseder. Ardından, bu zorlu süreçte Peygamber'e sadakatle bağlı kalanların ödüllendirileceği, geride kalan münafıkların ve bedevilerin ise cezalandırılacağı vurgulanır.\n\nSurenin son bölümünde ise, ağaç altında biat eden müminlerden Allah'ın razı olduğu müjdelenir. Mescid-i Haram'a güven içinde girileceği rüyasının hak olduğu belirtilir ve Hz. Peygamber ile beraberindeki müminlerin Tevrat ve İncil'deki vasıfları anlatılarak, onların kendi aralarında merhametli, inkârcılara karşı ise tavizsiz duruşları övülür.",
+ "occasionOfRevelation": "Fetih suresi, Medine döneminde, hicretin 6. yılında (bazı kaynaklara göre 7. yılında) Hudeybiye Antlaşması dönüşünde inmiştir. Hz. Peygamber, gördüğü bir rüya üzerine ashabıyla birlikte umre yapmak için Mekke'ye doğru yola çıkmış, ancak Mekkeli müşrikler onların şehre girmesine izin vermemiştir. Bunun üzerine Hudeybiye denilen yerde, görünüşte Müslümanların aleyhine ağır şartlar içeren bir barış antlaşması imzalanmıştır.\n\nBu antlaşma, başta Hz. Ömer olmak üzere birçok sahabede büyük bir hayal kırıklığı ve üzüntü yaratmıştır. Zira Kabe'yi tavaf edemeden geri dönmek zorunda kalmışlar ve antlaşma maddeleri onlara onur kırıcı gelmiştir. İşte tam bu psikolojik çöküntü anında, Medine'ye dönüş yolunda Fetih suresi nazil olmuştur.\n\nSure, bu antlaşmanın aslında 'apaçık bir fetih' (feth-i mübîn) olduğunu müjdelemiştir. Nitekim bu barış ortamı sayesinde İslam hızla yayılmış, iki yıl sonra Mekke kan dökülmeden fethedilmiş ve Hudeybiye'nin gerçekten de en büyük fethin kapısını aralayan stratejik bir zafer olduğu ortaya çıkmıştır.",
+ "occasionSources": "TDV İslâm Ansiklopedisi, \"Fetih Sûresi\" maddesi; Diyanet İşleri Başkanlığı Kur'an Yolu Tefsiri, Fetih 1-3 ayet tefsiri; kuranokuyan.com, Fetih suresi girişi (Prof. Dr. Mehmet Okuyan).",
+ "keyTerms": [
+  {
+   "term": "feth-i mübîn",
+   "arabic": "فَتْحًا مُبِينًا",
+   "verseRef": "48:1",
+   "meaning": "Apaçık fetih, zafer. Sadece toprak kazanmak değil, kalplerin İslam'a açılması ve engellerin kalkması anlamındadır."
+  },
+  {
+   "term": "sekîne",
+   "arabic": "السَّكِينَةَ",
+   "verseRef": "48:4",
+   "meaning": "Huzur, güven, iç rahatlığı. Kriz anında müminlerin kalbine indirilen ilahi dinginliktir."
+  },
+  {
+   "term": "bey'atü'r-rıdvân",
+   "arabic": "يُبَايِعُونَكَ",
+   "verseRef": "48:18",
+   "meaning": "Allah'ın razı olduğu biat. Hudeybiye'de ağaç altında ölmek pahasına Peygamber'e verilen sadakat sözüdür."
+  },
+  {
+   "term": "sîmâ",
+   "arabic": "سِيمَاهُمْ",
+   "verseRef": "48:29",
+   "meaning": "Nişan, belirti, iz. Secde izinden kaynaklanan ve müminlerin yüzüne yansıyan aydınlık ve karakterdir."
+  }
+ ],
+ "themes": [
+  {
+   "label": "Görünüşe Aldanmamak",
+   "body": "Hayatta bazen en büyük yenilgilerimiz veya tavizlerimiz, aslında en büyük zaferlerimizin hazırlayıcısı olabilir. Hudeybiye'deki ağır şartlar, barışın ve yayılmanın kapısını açmıştır."
+  },
+  {
+   "label": "Kriz Anında Sadakat",
+   "body": "İşler ters gittiğinde, beklentiler boşa çıktığında lidere ve ilkelere bağlı kalabilmek gerçek imanın göstergesidir. Ağaç altındaki biat, bu sarsılmaz duruşun sembolüdür."
+  },
+  {
+   "label": "İçsel Huzur (Sekine)",
+   "body": "Dış dünyadaki fırtınalar ne kadar şiddetli olursa olsun, inanan insanın kalbinde ilahi bir dinginlik noktası bulunmalıdır. Gerçek güç, bu içsel huzurdan beslenir."
+  }
+ ],
+ "questions": [
+  "Hayatımda 'kesin bir kayıp' veya 'haksızlık' olarak gördüğüm, ancak sonradan bana yepyeni kapılar açan hangi olaylar oldu? O anki isyanımla şimdi nasıl yüzleşiyorum?",
+  "İnandığım değerler uğruna, egomu bir kenara bırakıp 'görünüşte aleyhime olan' bir uzlaşmaya varabilecek kadar olgun muyum?"
+ ],
+ "contemporaryMeaning": "Bu sure, insanın kısa vadeli beklentileri ile uzun vadeli kazanımları arasındaki gerilimi ele alır. Metnin merkezinde, haklı olunduğu halde geri adım atabilme iradesi ve kışkırtıcı dış etkenlere karşı korunan içsel dinginlik yer alır. İnsanın en zorlandığı an, gücü yettiği halde öfkesini yutması ve görünürde taviz gibi duran durumlara rıza gösterebilmesidir. Sure, zaferi dışsal bir başarıdan ziyade, kriz anında zihinsel berraklığı koruyabilmek olarak tanımlar.\n\nBugünün diliyle: kariyer basamaklarında uğranılan haksızlıklar veya sosyal ilişkilerdeki çatışmalar karşısında verilen anlık tepkiler, insanın kendi yolunu tıkamasına neden olur. Haklılığını ispat etme hırsı, dijital platformlarda tartışma kazanma arzusu veya statü kaybı korkusu, kişiyi fevri kararlara sürükler. Sure tam bu noktada, \"kaybetmiş gibi görünmeyi\" göze alabilen bir zihniyetin altını çizer. Haksız bir eleştiri karşısında sessiz kalmak, dışarıdan zayıflık gibi algılansa da, aslında kişinin enerjisini daha büyük bir amaca saklamasıdır.\n\nSürekli reaksiyon döngüsünde yaşayan insan için, dışarıdaki gürültüye rağmen içsel bir sükunet noktası bulabilmek temel ihtiyaçtır. Algoritmaların kışkırttığı öfke dalgalarına kapılmadan durabilmek, metnin işaret ettiği o derin dinginlik halinin güncel karşılığıdır. Gerçek açılım, dışarıdaki engellerin yıkılmasından önce, içerideki dengenin kurulmasıyla başlar.",
+ "scholarlyNotes": [
+  {
+   "kind": "ihtilaf",
+   "body": "Nüzul yılı konusunda kaynaklar farklı tarihler verir. Diyanet Kur'an Yolu tefsiri ve genel İslam tarihi kaynakları surenin hicrî 6. yılda Hudeybiye dönüşü indiğini belirtir; buna karşılık Prof. Dr. Mehmet Okuyan hicrî 7. yılda indirilmiş olmasının muhtemel olduğunu ifade eder. İki tarih arasındaki fark korunmuş, tercih yapılmamıştır.",
+   "label": "Nüzul Yılı İhtilafı"
+  },
+  {
+   "kind": "nuans",
+   "body": "Tefsirlerde 'apaçık fetih' ifadesinin Mekke'nin fethi mi yoksa Hudeybiye Antlaşması mı olduğu tartışılmış, ancak surenin iniş zamanı ve bağlamı dikkate alınarak bunun Hudeybiye Antlaşması (ve onun açtığı kalplerin fethi) olduğu görüşü ağırlık kazanmıştır.",
+   "label": "Fethin Mahiyeti"
+  }
+ ],
+ "verses": [
+  {
+   "verseNo": 1,
+   "textArabic": "بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ إِنَّا فَتَحْنَا لَكَ فَتْحًۭا مُّبِينًۭا"
+  },
+  {
+   "verseNo": 2,
+   "textArabic": "لِّيَغْفِرَ لَكَ ٱللَّهُ مَا تَقَدَّمَ مِن ذَنۢبِكَ وَمَا تَأَخَّرَ وَيُتِمَّ نِعْمَتَهُۥ عَلَيْكَ وَيَهْدِيَكَ صِرَٰطًۭا مُّسْتَقِيمًۭا"
+  },
+  {
+   "verseNo": 3,
+   "textArabic": "وَيَنصُرَكَ ٱللَّهُ نَصْرًا عَزِيزًا"
+  },
+  {
+   "verseNo": 4,
+   "textArabic": "هُوَ ٱلَّذِىٓ أَنزَلَ ٱلسَّكِينَةَ فِى قُلُوبِ ٱلْمُؤْمِنِينَ لِيَزْدَادُوٓا۟ إِيمَٰنًۭا مَّعَ إِيمَٰنِهِمْ ۗ وَلِلَّهِ جُنُودُ ٱلسَّمَٰوَٰتِ وَٱلْأَرْضِ ۚ وَكَانَ ٱللَّهُ عَلِيمًا حَكِيمًۭا"
+  },
+  {
+   "verseNo": 5,
+   "textArabic": "لِّيُدْخِلَ ٱلْمُؤْمِنِينَ وَٱلْمُؤْمِنَٰتِ جَنَّٰتٍۢ تَجْرِى مِن تَحْتِهَا ٱلْأَنْهَٰرُ خَٰلِدِينَ فِيهَا وَيُكَفِّرَ عَنْهُمْ سَيِّـَٔاتِهِمْ ۚ وَكَانَ ذَٰلِكَ عِندَ ٱللَّهِ فَوْزًا عَظِيمًۭا"
+  },
+  {
+   "verseNo": 6,
+   "textArabic": "وَيُعَذِّبَ ٱلْمُنَٰفِقِينَ وَٱلْمُنَٰفِقَٰتِ وَٱلْمُشْرِكِينَ وَٱلْمُشْرِكَٰتِ ٱلظَّآنِّينَ بِٱللَّهِ ظَنَّ ٱلسَّوْءِ ۚ عَلَيْهِمْ دَآئِرَةُ ٱلسَّوْءِ ۖ وَغَضِبَ ٱللَّهُ عَلَيْهِمْ وَلَعَنَهُمْ وَأَعَدَّ لَهُمْ جَهَنَّمَ ۖ وَسَآءَتْ مَصِيرًۭا"
+  },
+  {
+   "verseNo": 7,
+   "textArabic": "وَلِلَّهِ جُنُودُ ٱلسَّمَٰوَٰتِ وَٱلْأَرْضِ ۚ وَكَانَ ٱللَّهُ عَزِيزًا حَكِيمًا"
+  },
+  {
+   "verseNo": 8,
+   "textArabic": "إِنَّآ أَرْسَلْنَٰكَ شَٰهِدًۭا وَمُبَشِّرًۭا وَنَذِيرًۭا"
+  },
+  {
+   "verseNo": 9,
+   "textArabic": "لِّتُؤْمِنُوا۟ بِٱللَّهِ وَرَسُولِهِۦ وَتُعَزِّرُوهُ وَتُوَقِّرُوهُ وَتُسَبِّحُوهُ بُكْرَةًۭ وَأَصِيلًا"
+  },
+  {
+   "verseNo": 10,
+   "textArabic": "إِنَّ ٱلَّذِينَ يُبَايِعُونَكَ إِنَّمَا يُبَايِعُونَ ٱللَّهَ يَدُ ٱللَّهِ فَوْقَ أَيْدِيهِمْ ۚ فَمَن نَّكَثَ فَإِنَّمَا يَنكُثُ عَلَىٰ نَفْسِهِۦ ۖ وَمَنْ أَوْفَىٰ بِمَا عَٰهَدَ عَلَيْهُ ٱللَّهَ فَسَيُؤْتِيهِ أَجْرًا عَظِيمًۭا"
+  },
+  {
+   "verseNo": 11,
+   "textArabic": "سَيَقُولُ لَكَ ٱلْمُخَلَّفُونَ مِنَ ٱلْأَعْرَابِ شَغَلَتْنَآ أَمْوَٰلُنَا وَأَهْلُونَا فَٱسْتَغْفِرْ لَنَا ۚ يَقُولُونَ بِأَلْسِنَتِهِم مَّا لَيْسَ فِى قُلُوبِهِمْ ۚ قُلْ فَمَن يَمْلِكُ لَكُم مِّنَ ٱللَّهِ شَيْـًٔا إِنْ أَرَادَ بِكُمْ ضَرًّا أَوْ أَرَادَ بِكُمْ نَفْعًۢا ۚ بَلْ كَانَ ٱللَّهُ بِمَا تَعْمَلُونَ خَبِيرًۢا"
+  },
+  {
+   "verseNo": 12,
+   "textArabic": "بَلْ ظَنَنتُمْ أَن لَّن يَنقَلِبَ ٱلرَّسُولُ وَٱلْمُؤْمِنُونَ إِلَىٰٓ أَهْلِيهِمْ أَبَدًۭا وَزُيِّنَ ذَٰلِكَ فِى قُلُوبِكُمْ وَظَنَنتُمْ ظَنَّ ٱلسَّوْءِ وَكُنتُمْ قَوْمًۢا بُورًۭا"
+  },
+  {
+   "verseNo": 13,
+   "textArabic": "وَمَن لَّمْ يُؤْمِنۢ بِٱللَّهِ وَرَسُولِهِۦ فَإِنَّآ أَعْتَدْنَا لِلْكَٰفِرِينَ سَعِيرًۭا"
+  },
+  {
+   "verseNo": 14,
+   "textArabic": "وَلِلَّهِ مُلْكُ ٱلسَّمَٰوَٰتِ وَٱلْأَرْضِ ۚ يَغْفِرُ لِمَن يَشَآءُ وَيُعَذِّبُ مَن يَشَآءُ ۚ وَكَانَ ٱللَّهُ غَفُورًۭا رَّحِيمًۭا"
+  },
+  {
+   "verseNo": 15,
+   "textArabic": "سَيَقُولُ ٱلْمُخَلَّفُونَ إِذَا ٱنطَلَقْتُمْ إِلَىٰ مَغَانِمَ لِتَأْخُذُوهَا ذَرُونَا نَتَّبِعْكُمْ ۖ يُرِيدُونَ أَن يُبَدِّلُوا۟ كَلَٰمَ ٱللَّهِ ۚ قُل لَّن تَتَّبِعُونَا كَذَٰلِكُمْ قَالَ ٱللَّهُ مِن قَبْلُ ۖ فَسَيَقُولُونَ بَلْ تَحْسُدُونَنَا ۚ بَلْ كَانُوا۟ لَا يَفْقَهُونَ إِلَّا قَلِيلًۭا"
+  },
+  {
+   "verseNo": 16,
+   "textArabic": "قُل لِّلْمُخَلَّفِينَ مِنَ ٱلْأَعْرَابِ سَتُدْعَوْنَ إِلَىٰ قَوْمٍ أُو۟لِى بَأْسٍۢ شَدِيدٍۢ تُقَٰتِلُونَهُمْ أَوْ يُسْلِمُونَ ۖ فَإِن تُطِيعُوا۟ يُؤْتِكُمُ ٱللَّهُ أَجْرًا حَسَنًۭا ۖ وَإِن تَتَوَلَّوْا۟ كَمَا تَوَلَّيْتُم مِّن قَبْلُ يُعَذِّبْكُمْ عَذَابًا أَلِيمًۭا"
+  },
+  {
+   "verseNo": 17,
+   "textArabic": "لَّيْسَ عَلَى ٱلْأَعْمَىٰ حَرَجٌۭ وَلَا عَلَى ٱلْأَعْرَجِ حَرَجٌۭ وَلَا عَلَى ٱلْمَرِيضِ حَرَجٌۭ ۗ وَمَن يُطِعِ ٱللَّهَ وَرَسُولَهُۥ يُدْخِلْهُ جَنَّٰتٍۢ تَجْرِى مِن تَحْتِهَا ٱلْأَنْهَٰرُ ۖ وَمَن يَتَوَلَّ يُعَذِّبْهُ عَذَابًا أَلِيمًۭا"
+  },
+  {
+   "verseNo": 18,
+   "textArabic": "۞ لَّقَدْ رَضِىَ ٱللَّهُ عَنِ ٱلْمُؤْمِنِينَ إِذْ يُبَايِعُونَكَ تَحْتَ ٱلشَّجَرَةِ فَعَلِمَ مَا فِى قُلُوبِهِمْ فَأَنزَلَ ٱلسَّكِينَةَ عَلَيْهِمْ وَأَثَٰبَهُمْ فَتْحًۭا قَرِيبًۭا"
+  },
+  {
+   "verseNo": 19,
+   "textArabic": "وَمَغَانِمَ كَثِيرَةًۭ يَأْخُذُونَهَا ۗ وَكَانَ ٱللَّهُ عَزِيزًا حَكِيمًۭا"
+  },
+  {
+   "verseNo": 20,
+   "textArabic": "وَعَدَكُمُ ٱللَّهُ مَغَانِمَ كَثِيرَةًۭ تَأْخُذُونَهَا فَعَجَّلَ لَكُمْ هَٰذِهِۦ وَكَفَّ أَيْدِىَ ٱلنَّاسِ عَنكُمْ وَلِتَكُونَ ءَايَةًۭ لِّلْمُؤْمِنِينَ وَيَهْدِيَكُمْ صِرَٰطًۭا مُّسْتَقِيمًۭا"
+  },
+  {
+   "verseNo": 21,
+   "textArabic": "وَأُخْرَىٰ لَمْ تَقْدِرُوا۟ عَلَيْهَا قَدْ أَحَاطَ ٱللَّهُ بِهَا ۚ وَكَانَ ٱللَّهُ عَلَىٰ كُلِّ شَىْءٍۢ قَدِيرًۭا"
+  },
+  {
+   "verseNo": 22,
+   "textArabic": "وَلَوْ قَٰتَلَكُمُ ٱلَّذِينَ كَفَرُوا۟ لَوَلَّوُا۟ ٱلْأَدْبَٰرَ ثُمَّ لَا يَجِدُونَ وَلِيًّۭا وَلَا نَصِيرًۭا"
+  },
+  {
+   "verseNo": 23,
+   "textArabic": "سُنَّةَ ٱللَّهِ ٱلَّتِى قَدْ خَلَتْ مِن قَبْلُ ۖ وَلَن تَجِدَ لِسُنَّةِ ٱللَّهِ تَبْدِيلًۭا"
+  },
+  {
+   "verseNo": 24,
+   "textArabic": "وَهُوَ ٱلَّذِى كَفَّ أَيْدِيَهُمْ عَنكُمْ وَأَيْدِيَكُمْ عَنْهُم بِبَطْنِ مَكَّةَ مِنۢ بَعْدِ أَنْ أَظْفَرَكُمْ عَلَيْهِمْ ۚ وَكَانَ ٱللَّهُ بِمَا تَعْمَلُونَ بَصِيرًا"
+  },
+  {
+   "verseNo": 25,
+   "textArabic": "هُمُ ٱلَّذِينَ كَفَرُوا۟ وَصَدُّوكُمْ عَنِ ٱلْمَسْجِدِ ٱلْحَرَامِ وَٱلْهَدْىَ مَعْكُوفًا أَن يَبْلُغَ مَحِلَّهُۥ ۚ وَلَوْلَا رِجَالٌۭ مُّؤْمِنُونَ وَنِسَآءٌۭ مُّؤْمِنَٰتٌۭ لَّمْ تَعْلَمُوهُمْ أَن تَطَـُٔوهُمْ فَتُصِيبَكُم مِّنْهُم مَّعَرَّةٌۢ بِغَيْرِ عِلْمٍۢ ۖ لِّيُدْخِلَ ٱللَّهُ فِى رَحْمَتِهِۦ مَن يَشَآءُ ۚ لَوْ تَزَيَّلُوا۟ لَعَذَّبْنَا ٱلَّذِينَ كَفَرُوا۟ مِنْهُمْ عَذَابًا أَلِيمًا"
+  },
+  {
+   "verseNo": 26,
+   "textArabic": "إِذْ جَعَلَ ٱلَّذِينَ كَفَرُوا۟ فِى قُلُوبِهِمُ ٱلْحَمِيَّةَ حَمِيَّةَ ٱلْجَٰهِلِيَّةِ فَأَنزَلَ ٱللَّهُ سَكِينَتَهُۥ عَلَىٰ رَسُولِهِۦ وَعَلَى ٱلْمُؤْمِنِينَ وَأَلْزَمَهُمْ كَلِمَةَ ٱلتَّقْوَىٰ وَكَانُوٓا۟ أَحَقَّ بِهَا وَأَهْلَهَا ۚ وَكَانَ ٱللَّهُ بِكُلِّ شَىْءٍ عَلِيمًۭا"
+  },
+  {
+   "verseNo": 27,
+   "textArabic": "لَّقَدْ صَدَقَ ٱللَّهُ رَسُولَهُ ٱلرُّءْيَا بِٱلْحَقِّ ۖ لَتَدْخُلُنَّ ٱلْمَسْجِدَ ٱلْحَرَامَ إِن شَآءَ ٱللَّهُ ءَامِنِينَ مُحَلِّقِينَ رُءُوسَكُمْ وَمُقَصِّرِينَ لَا تَخَافُونَ ۖ فَعَلِمَ مَا لَمْ تَعْلَمُوا۟ فَجَعَلَ مِن دُونِ ذَٰلِكَ فَتْحًۭا قَرِيبًا"
+  },
+  {
+   "verseNo": 28,
+   "textArabic": "هُوَ ٱلَّذِىٓ أَرْسَلَ رَسُولَهُۥ بِٱلْهُدَىٰ وَدِينِ ٱلْحَقِّ لِيُظْهِرَهُۥ عَلَى ٱلدِّينِ كُلِّهِۦ ۚ وَكَفَىٰ بِٱللَّهِ شَهِيدًۭا"
+  },
+  {
+   "verseNo": 29,
+   "textArabic": "مُّحَمَّدٌۭ رَّسُولُ ٱللَّهِ ۚ وَٱلَّذِينَ مَعَهُۥٓ أَشِدَّآءُ عَلَى ٱلْكُفَّارِ رُحَمَآءُ بَيْنَهُمْ ۖ تَرَىٰهُمْ رُكَّعًۭا سُجَّدًۭا يَبْتَغُونَ فَضْلًۭا مِّنَ ٱللَّهِ وَرِضْوَٰنًۭا ۖ سِيمَاهُمْ فِى وُجُوهِهِم مِّنْ أَثَرِ ٱلسُّجُودِ ۚ ذَٰلِكَ مَثَلُهُمْ فِى ٱلتَّوْرَىٰةِ ۚ وَمَثَلُهُمْ فِى ٱلْإِنجِيلِ كَزَرْعٍ أَخْرَجَ شَطْـَٔهُۥ فَـَٔازَرَهُۥ فَٱسْتَغْلَظَ فَٱسْتَوَىٰ عَلَىٰ سُوقِهِۦ يُعْجِبُ ٱلزُّرَّاعَ لِيَغِيظَ بِهِمُ ٱلْكُفَّارَ ۗ وَعَدَ ٱللَّهُ ٱلَّذِينَ ءَامَنُوا۟ وَعَمِلُوا۟ ٱلصَّٰلِحَٰتِ مِنْهُم مَّغْفِرَةًۭ وَأَجْرًا عَظِيمًۢا"
+  }
+ ],
+ "translations": [
+  {
+   "verseNo": 1,
+   "source": "diyanet",
+   "text": "Şüphesiz biz sana apaçık bir fetih verdik."
+  },
+  {
+   "verseNo": 1,
+   "source": "okuyan",
+   "text": "Şüphesiz ki biz sana (Hudeybiye’de) apaçık bir zafer verdik."
+  },
+  {
+   "verseNo": 1,
+   "source": "esed",
+   "text": "Gerçek şu ki (ey Muhammed,) Biz senin için apaçık bir zaferin önünü açtık"
+  },
+  {
+   "verseNo": 2,
+   "source": "diyanet",
+   "text": "Ta ki Allah, senin geçmiş ve gelecek günahlarını bağışlasın, sana olan nimetini tamamlasın, seni doğru yola iletsin ve Allah sana, şanlı bir zaferle yardım etsin."
+  },
+  {
+   "verseNo": 2,
+   "source": "okuyan",
+   "text": "Böylece Allah senin geçmiş ve gelecek günahını bağışlayacak, sana olan nimetini tamamlayacak ve seni doğru yola ulaştıracaktır."
+  },
+  {
+   "verseNo": 2,
+   "source": "esed",
+   "text": "böylece Allah, senin hem geçmişte hem de gelecekteki bütün hatalarına karşı bağışlayıcılığını gösterecek; ve (böylece) bütün nimetlerini sana verecek ve seni dosdoğru bir yola sevk edecektir"
+  },
+  {
+   "verseNo": 3,
+   "source": "diyanet",
+   "text": "Ta ki Allah, senin geçmiş ve gelecek günahlarını bağışlasın, sana olan nimetini tamamlasın, seni doğru yola iletsin ve Allah sana, şanlı bir zaferle yardım etsin."
+  },
+  {
+   "verseNo": 3,
+   "source": "okuyan",
+   "text": "Sana güçlü bir şekilde yardım edecektir."
+  },
+  {
+   "verseNo": 3,
+   "source": "esed",
+   "text": "ve Allah sana güçlü yardım elini uzatacaktır"
+  },
+  {
+   "verseNo": 4,
+   "source": "diyanet",
+   "text": "O, inananların imanlarını kat kat artırmaları için kalplerine huzur ve güven indirendir. Göklerin ve yerin orduları Allah'ındır. Allah hakkıyla bilendir, hüküm ve hikmet sahibidir."
+  },
+  {
+   "verseNo": 4,
+   "source": "okuyan",
+   "text": "İmanlarını imanla artırsınlar diye müminlerin kalplerine güven indiren O’dur.Göklerin ve yerin orduları yalnızca Allah’a aittir.Allah bilendir, doğru hüküm verendir."
+  },
+  {
+   "verseNo": 4,
+   "source": "esed",
+   "text": "Müminlerin kalplerine sükunet bağışlayan O´dur, ki göklerin ve yerin bütün güçlerinin Allah´a ait bulunduğunu ve Allah´ın her şeyi bilen ve gerçek hikmet Sahibi olduğunu görerek, imanlarını daha da sağlamlaştırabilsinler"
+  },
+  {
+   "verseNo": 5,
+   "source": "diyanet",
+   "text": "Bütün bunlar Allah'ın; inanan erkek ve kadınları, içlerinden ırmaklar akan, içinde temelli kalacakları cennetlere koyması, onların kötülüklerini örtmesi içindir. İşte bu, Allah katında büyük bir başarıdır."
+  },
+  {
+   "verseNo": 5,
+   "source": "okuyan",
+   "text": "Sonuçta (Allah) mümin erkeklerle mümin kadınları, içlerinde ebedî kalacakları, altlarından ırmaklar akan cennetlere yerleştirecek ve onların günahlarını örtecektir. İşte bu, Allah katında büyük bir kurtuluştur."
+  },
+  {
+   "verseNo": 5,
+   "source": "esed",
+   "text": "ve Allah, mümin erkek ve kadınları, mesken olarak, içinden ırmakların geçtiği bahçelere kabul etsin ve (geçmişte işledikleri kötü) fiilleri silsin; bu, Allah katında gerçekten büyük bir kurtuluştur"
+  },
+  {
+   "verseNo": 6,
+   "source": "diyanet",
+   "text": "Bir de, Allah'ın, hakkında kötü zanda bulunan münafık erkeklere ve münafık kadınlara, Allah'a ortak koşan erkeklere ve Allah'a ortak koşan kadınlara azap etmesi içindir. Kötülük girdabı onların başına olsun! Allah onlara gazap etmiş, onları lanetlemiş ve kendilerine cehennemi hazırlamıştır. Orası ne kötü bir varış yeridir!"
+  },
+  {
+   "verseNo": 6,
+   "source": "okuyan",
+   "text": "Allah hakkında kötü zanda bulunan münafık erkeklere ve münafık kadınlara, müşrik erkeklere ve müşrik kadınlara da azap edecektir. (Müslümanlar için bekledikleri) kötülük çemberi, onlara (inkârcıların ve münafıkların başlarına) gelsin! Allah onlara gazap etmiş, kendilerini lanetlemiş ve cehennemi kendilerine hazırlamış (olacak)tır; ne kötü varış yeridir (orası)!"
+  },
+  {
+   "verseNo": 6,
+   "source": "esed",
+   "text": "Ve (Allah) ikiyüzlü erkek ve kadınları ve Allah´tan başkasına ilahlık yakıştıran erkek ve kadınları (öteki dünyada) azaba uğrat(mayı dile)miştir. Bunların tümü Allah hakkında kötü, uygunsuz düşünceler taşırlar. Kötülük onları her taraftan kuşatır ve Allah´ın gazabına uğrarlar. O, (rahmetinden) onları dışlamış ve onlar için cehennemi hazırlamıştır. Ne kötü bir varış yeridir orası"
+  },
+  {
+   "verseNo": 7,
+   "source": "diyanet",
+   "text": "Göklerin ve yerin orduları Allah'ındır. Allah mutlak güç sahibidir, hüküm ve hikmet sahibidir."
+  },
+  {
+   "verseNo": 7,
+   "source": "okuyan",
+   "text": "Göklerin ve yerin orduları yalnızca Allah’a aittir. Allah güçlüdür, doğru hüküm verendir."
+  },
+  {
+   "verseNo": 7,
+   "source": "esed",
+   "text": "Göklerin ve yerin bütün güçleri Allah´a aittir ve Allah kudret sahibidir, hikmet sahibidir"
+  },
+  {
+   "verseNo": 8,
+   "source": "diyanet",
+   "text": "(Ey Muhammed!) Şüphesiz biz seni bir şâhit, bir müjdeci ve bir uyarıcı olarak gönderdik."
+  },
+  {
+   "verseNo": 8,
+   "source": "okuyan",
+   "text": "8-9 . Allah’a ve Elçisine iman edesiniz, O’na (Allah’a) saygı gösteresiniz, O’nu yüceltesiniz ve sabah akşam O’nu tesbih edesiniz (yüceltesiniz) diye şüphesiz ki biz seni bir şahit, bir müjdeleyici ve bir uyarıcı olarak gönderdik."
+  },
+  {
+   "verseNo": 8,
+   "source": "esed",
+   "text": "Gerçek şu ki (ey Muhammed,) Biz seni (hakikatin) bir şahidi, bir müjdeci ve bir uyarıcı olarak gönderdik"
+  },
+  {
+   "verseNo": 9,
+   "source": "diyanet",
+   "text": "Ey insanlar! Allah'a ve Peygamberine inanasınız, ona yardım edesiniz, ona saygı gösteresiniz ve sabah akşam Allah'ı tespih edesiniz diye (Peygamber'i gönderdik.)"
+  },
+  {
+   "verseNo": 9,
+   "source": "okuyan",
+   "text": "8-9 . Allah’a ve Elçisine iman edesiniz, O’na (Allah’a) saygı gösteresiniz, O’nu yüceltesiniz ve sabah akşam O’nu tesbih edesiniz (yüceltesiniz) diye şüphesiz ki biz seni bir şahit, bir müjdeleyici ve bir uyarıcı olarak gönderdik."
+  },
+  {
+   "verseNo": 9,
+   "source": "esed",
+   "text": "ki siz (ey insanlar,) Allah´a ve Elçisi´ne inanasınız, O´nun izzetini takdir edesiniz, O´na saygı gösteresiniz ve sabahtan akşama O´nun şanını yüceltesiniz"
+  },
+  {
+   "verseNo": 10,
+   "source": "diyanet",
+   "text": "Sana bîat edenler ancak Allah'a bîat etmiş olurlar. Allah'ın eli onların ellerinin üzerindedir. Verdiği sözden dönen kendi aleyhine dönmüş olur. Allah'a verdiği sözü yerine getirene, Allah büyük bir mükâfat verecektir."
+  },
+  {
+   "verseNo": 10,
+   "source": "okuyan",
+   "text": "Şüphesiz ki sana biat edenler, elbette Allah’a biat etmektedir. Allah’ın eli, onların ellerinin üzerindedir. Kim (sözünden) dönerse ancak kendi aleyhine dönmüş olur. Kim de Allah’a olan sözüne vefa gösterirse, (Allah) ona ileride büyük bir ödül verecektir."
+  },
+  {
+   "verseNo": 10,
+   "source": "esed",
+   "text": "Sana bağlılıklarını bildirenler, Allah´a bağlılıklarını göstermiş olurlar. Allah´ın eli onların elleri üzerindedir. O halde, kim ahdini bozarsa yalnızca kendi aleyhine bozmuş olur ve kim Allah´a karşı taahhüdüne uyarsa (Allah) ona büyük bir ödül ihsan edecektir"
+  },
+  {
+   "verseNo": 11,
+   "source": "diyanet",
+   "text": "Bedevîlerin (savaştan) geri bırakılanları sana, \"Bizi mallarımız ve ailelerimiz alıkoydu; Allah'tan bizim için af dile\" diyecekler. Onlar kalplerinde olmayanı dilleriyle söylerler. De ki: \"Allah sizin bir zarara uğramanızı dilerse, yahut bir yarar elde etmenizi dilerse, ona karşı kimin bir şeye gücü yeter? Hayır, Allah yaptıklarınızdan haberdardır.\""
+  },
+  {
+   "verseNo": 11,
+   "source": "okuyan",
+   "text": "Göçebelerden geride kalmış olanlar sana şöyle diyecekler: “Mallarımız ve ailelerimiz bizi meşgul etti. Bizim için bağışlanma dile!” Onlar, kalplerinde olmayanı dilleriyle söylerler. De ki: “(Allah) size bir zarar (vermeyi) dilerse veya bir yarar elde etmenizi isterse sizin için Allah’a karşı kimin bir şeye gücü yetebilir ki!” Gerçek şu ki Allah yaptıklarınızdan haberdardır."
+  },
+  {
+   "verseNo": 11,
+   "source": "esed",
+   "text": "Geride kalan bedeviler sana: \"Mallarımız ve ailelerimiz(e bakma mecburiyeti) bizi (gelmekten) alıkoydu; öyleyse (ey Muhammed,) Allah´tan bizim için mağfiret dile!\" diyecekler. (Böylece) onlar kalplerinde olmayan bir şeyi dile getiriyorlar. De ki: \"Allah size bir zarar vermek veya yarar sağlamak isterse, kim Allah´ın istediği bir şeyi geri çevirebilir? Hayır, (kimse çeviremez) ama Allah yaptıklarınızdan tamamiyle haberdardır"
+  },
+  {
+   "verseNo": 12,
+   "source": "diyanet",
+   "text": "(Ey münafıklar!) Siz aslında, Peygamberin ve inananların bir daha ailelerine geri dönmeyeceklerini sanmıştınız. Bu, sizin gönüllerinize güzel gösterildi de kötü zanda bulundunuz ve helaki hak eden bir kavim oldunuz."
+  },
+  {
+   "verseNo": 12,
+   "source": "okuyan",
+   "text": "Aslında siz Elçinin ve müminlerin ailelerine asla dönemeyeceğini sanmıştınız. Bu, sizin kalplerinize güzel görünmüştü; kötü zanda bulunmuş ve helaki (cezalandırılmayı) hak etmiş bir topluluk olmuştunuz."
+  },
+  {
+   "verseNo": 12,
+   "source": "esed",
+   "text": "Siz zannettiniz ki Elçi ve müminler bir daha ailelerine ve akrabalarına dönemeyecekler ve bu, kalplerinize güzel göründü. Siz (bu tür) haince düşüncelere kapıldınız, çünkü her zaman güzelliklerden yoksun bir topluluk oldunuz"
+  },
+  {
+   "verseNo": 13,
+   "source": "diyanet",
+   "text": "Kim Allah'a ve Peygambere inanmazsa bilsin ki, şüphesiz biz, inkarcılar için alevli bir ateş hazırladık."
+  },
+  {
+   "verseNo": 13,
+   "source": "okuyan",
+   "text": "Kim Allah’a ve Elçisine iman etmezse (bilsin ki) biz, kâfirler için çılgın bir ateş hazırlamış (olacağ)ız."
+  },
+  {
+   "verseNo": 13,
+   "source": "esed",
+   "text": "Allah´a ve Elçisi´ne inanmayanlara gelince, Biz bu tür bütün hakikat inkarcıları için yakıcı bir ateş hazırlamışızdır"
+  },
+  {
+   "verseNo": 14,
+   "source": "diyanet",
+   "text": "Göklerin ve yerin hükümranlığı Allah'ındır. O, dilediğini bağışlar, dilediğine ceza verir. Allah çok bağışlayandır, çok merhamet edendir."
+  },
+  {
+   "verseNo": 14,
+   "source": "okuyan",
+   "text": "Göklerin ve yerin otoritesi yalnızca Allah’a aittir. (Allah) dileyeni (layık gördüğünü) bağışlar, dileyene (layık gördüğüne) de azap eder. Allah çok bağışlayandır, çok merhametlidir."
+  },
+  {
+   "verseNo": 14,
+   "source": "esed",
+   "text": "Göklerin ve yerin hakimiyeti Allah´ındır. O, dilediğini bağışlar, dilediğini azaba uğratır ve O, gerçekten çok bağışlayıcıdır, bir rahmet kaynağıdır"
+  },
+  {
+   "verseNo": 15,
+   "source": "diyanet",
+   "text": "Savaştan geri bırakılanlar, siz ganimetleri almaya giderken, \"Bırakın biz de sizinle gelelim\" diyeceklerdir. Onlar Allah'ın sözünü değiştirmek isterler. De ki: \"Siz bizimle asla gelmeyeceksiniz. Allah önceden böyle buyurmuştur.\" Onlar, \"Bizi kıskanıyorsunuz\" diyeceklerdir. Hayır, onlar pek az anlarlar."
+  },
+  {
+   "verseNo": 15,
+   "source": "okuyan",
+   "text": "Ganimetleri almak için gittiğinizde (Hudeybiye’den) geride kalanlar, Allah’ın sözünü değiştirmek isteyerek “Bırakın, biz de sizi takip edelim!” diyeceklerdir. De ki: “Siz asla bizi takip etmeyeceksiniz! Allah işte sizin için daha önce böyle buyurmuştur.” Onlar size “Hayır, bizi kıskanıyorsunuz!” diyeceklerdir. Aksine onlar az anlayanlardır."
+  },
+  {
+   "verseNo": 15,
+   "source": "esed",
+   "text": "Siz (ey müminler,) ganimet vaad eden bir savaşa katılmak için yola çıktığınız zaman (daha önce) geride kalmış olanlar: \"Bırakın sizinle gelelim!\" diyecekler; Allah´ın Sözünü değiştirmek iste(diklerini böylece gösterecek)ler. De ki: \"Bizimle hiçbir zaman gelemeyeceksiniz. Allah daha önce (ganimetleri kimin kazanacağını) bildirmiştir\". Bunun üzerine onlar: \"Hayır, aslında bizi(m ganimetten alacağımız payı) kıskanıyorsunuz!\" diye (kendilerinden emin bir şekilde) cevap verecekler. Hayır, (tersine) onlar hakikati çok az kavrayabilirler"
+  },
+  {
+   "verseNo": 16,
+   "source": "diyanet",
+   "text": "Bedevîlerin (savaştan) geri bırakılanlarına de ki: \"Siz, güçlü kuvvetli bir kavme karşı teslim oluncaya kadar savaşmaya çağrılacaksınız. Eğer itaat ederseniz Allah size güzel bir mükâfat verir. Ama önceden döndüğünüz gibi yine dönerseniz, Allah sizi elem dolu bir azaba uğratır.\""
+  },
+  {
+   "verseNo": 16,
+   "source": "okuyan",
+   "text": "Göçebelerden (Hudeybiye’den) geride kalmış olanlara de ki: “Siz ileride çok güçlü bir kavme karşı (savaşmaya) çağrılacaksınız. Onlarla ya savaşacaksınız ya da teslim olacaklar. İtaat ederseniz, Allah size güzel bir ödül verecektir. Önceden döndüğünüz gibi yine dönecek olursanız size elem verici bir şekilde azap eder.\""
+  },
+  {
+   "verseNo": 16,
+   "source": "esed",
+   "text": "Arkada kalan bu bedevilere de ki: \"Yakında çok güçlü bir topluma karşı (savaşmaya) çağrılacaksınız, onlarla (siz ölünceye) yahut onlar teslim oluncaya kadar savaşacaksınız. Ve sonra, (bu çağrıya) uyarsanız Allah size güzel bir mükafat ihsan edecek ama şimdi olduğu gibi (yine) vazgeçerseniz sizi şiddetli bir cezaya çarptıracaktır"
+  },
+  {
+   "verseNo": 17,
+   "source": "diyanet",
+   "text": "Köre güçlük yoktur, topala güçlük yoktur, hastaya güçlük yoktur. (Bunlar savaşa katılmak zorunda değillerdir.) Kim Allah'a ve Peygamberine itaat ederse, Allah onu, içlerinden ırmaklar akan cennetlere koyar. Kim de yüz çevirirse, onu elem dolu bir azaba uğratır."
+  },
+  {
+   "verseNo": 17,
+   "source": "okuyan",
+   "text": "Görme engelliye zorluk yoktur; topala zorluk yoktur; hastaya da zorluk yoktur. Kim Allah’a ve Elçisine gönülden itaat ederse (Allah) onu, altlarından ırmaklar akan cennetlere yerleştirir. Kim de yüz çevirirse ona elem verici bir şekilde azap eder."
+  },
+  {
+   "verseNo": 17,
+   "source": "esed",
+   "text": "Körün, topalın ve hastanın (Allah yolunda savaşmaktan uzak kalmalarından dolayı) bir sorumlulukları yoktur; ama her kim (fiilen veya kalben) Allah´ın ve Elçisi(nin çağrısı)na uyarsa Allah onu içinden ırmakların geçtiği cennetlere sokacaktır; kim de yüz çevirirse onu büyük bir azaba çarptıracaktır"
+  },
+  {
+   "verseNo": 18,
+   "source": "diyanet",
+   "text": "Şüphesiz Allah, ağaç altında sana bîat ederlerken inananlardan hoşnut olmuştur. Gönüllerinde olanı bilmiş, onlara huzur, güven duygusu vermiş ve onlara yakın bir fetih ve elde edecekleri birçok ganimetler nasip etmiştir. Allah mutlak güç sahibidir, hüküm ve hikmet sahibidir."
+  },
+  {
+   "verseNo": 18,
+   "source": "okuyan",
+   "text": "O ağacın altında sana biat ederlerken, Allah o müminlerden şüphesiz ki razı olmuştur. Kalplerinde olanı bilmiş, onlara güven duygusu indirmiş ve onları yakın bir zaferle ödüllendirmiş (olacak)tır."
+  },
+  {
+   "verseNo": 18,
+   "source": "esed",
+   "text": "(Ey Muhammmed!) O ağacın altında sana bağlılıklarını bildiren müminlerden Allah razı olmuştu, çünkü onların kalplerinden geçeni biliyordu; böylece Allah, onlara bir iç huzuru bağışladı ve yakında gerçekleşecek bir zafer(in müjdesi) ile onları ödüllendirdi"
+  },
+  {
+   "verseNo": 19,
+   "source": "diyanet",
+   "text": "Şüphesiz Allah, ağaç altında sana bîat ederlerken inananlardan hoşnut olmuştur. Gönüllerinde olanı bilmiş, onlara huzur, güven duygusu vermiş ve onlara yakın bir fetih ve elde edecekleri birçok ganimetler nasip etmiştir. Allah mutlak güç sahibidir, hüküm ve hikmet sahibidir."
+  },
+  {
+   "verseNo": 19,
+   "source": "okuyan",
+   "text": "Elde edecekleri pek çok ganimetlerle de (onları ödüllendirecektir). Allah güçlüdür, doğru hüküm verendir."
+  },
+  {
+   "verseNo": 19,
+   "source": "esed",
+   "text": "ve elde edecekleri birçok savaş ganimeti (ile); çünkü Allah gerçekten kudret ve hikmet Sahibidir"
+  },
+  {
+   "verseNo": 20,
+   "source": "diyanet",
+   "text": "Allah size, elde edeceğiniz birçok ganimetler vaad etmiştir. Şimdilik bunu size hemen vermiş ve insanların ellerini sizden çekmiştir. (Allah böyle yaptı) ki, bunlar mü'minler için bir delil olsun, sizi de doğru bir yola iletsin."
+  },
+  {
+   "verseNo": 20,
+   "source": "okuyan",
+   "text": "Allah size, elde ede(bil)eceğiniz birçok ganimet vadetmiştir. (Şimdilik) bunları hemen vermiş ve insanların ellerini sizden çekmiştir ki bu (imkânlar), müminlere bir delil olsun ve sizi doğru yola ulaştırsın."
+  },
+  {
+   "verseNo": 20,
+   "source": "esed",
+   "text": "(Ey müminler!) Allah size daha birçok savaş ganimeti vaad etti. O, bu (dünyevi kazanç)ları önceden size ihsan etmiş ve (düşman) toplumun ellerini üzerinizden çektirmiştir ki (sizden sonra gelenlere) bu (iç huzurunuz) bir örnek olsun ve Allah hepinizi dosdoğru yola iletsin"
+  },
+  {
+   "verseNo": 21,
+   "source": "diyanet",
+   "text": "Henüz elde edemediğiniz, fakat Allah'ın, ilmiyle kuşattığı başka (kazançlar) da vardır. Allah her şeye hakkıyla gücü yetendir."
+  },
+  {
+   "verseNo": 21,
+   "source": "okuyan",
+   "text": "Allah’ın elbette elinde bulunan, henüz elde edemediğiniz nice lütuflar/imkanlar da vardır. Allah her şeye gücü yetendir."
+  },
+  {
+   "verseNo": 21,
+   "source": "esed",
+   "text": "Hala kavrayışınız dışında bulunan (ama) Allah´ın şimdiden (sizin için) hazırladığı daha başka (kazançlar da) var çünkü Allah dilediğini yapma gücüne sahiptir"
+  },
+  {
+   "verseNo": 22,
+   "source": "diyanet",
+   "text": "İnkar edenler sizinle savaşsalardı, arkalarını dönüp kaçarlar, sonra da ne bir dost, ne de bir yardımcı bulabilirlerdi."
+  },
+  {
+   "verseNo": 22,
+   "source": "okuyan",
+   "text": "Kâfir olanlar sizinle savaşsalardı, elbette arkalarına dönüp (kaçar)lardı. Sonra hiçbir dost ve hiçbir yardımcı da bulamazlardı."
+  },
+  {
+   "verseNo": 22,
+   "source": "esed",
+   "text": "Ve (şimdi,) eğer hakikati inkara şartlanmış olanlar, size karşı savaşa girerlerse muhakkak arkalarını döner(ek kaçar)lar ve ne kendilerini koruyacak ne de yardım edecek kimse bulamazlar"
+  },
+  {
+   "verseNo": 23,
+   "source": "diyanet",
+   "text": "Allah'ın ötedenberi işleyip duran kanunu (budur). Allah'ın kanununda asla bir değişiklik bulamazsın."
+  },
+  {
+   "verseNo": 23,
+   "source": "okuyan",
+   "text": "Allah’ın, daha önce geçen (süregelen) kanunu (budur). Allah’ın kanununda asla bir değişiklik bulamazsın."
+  },
+  {
+   "verseNo": 23,
+   "source": "esed",
+   "text": "Allah´ın yöntemi öteden beri hep böyledir ve siz Allah´ın yönteminde hiçbir değişme bulamazsınız"
+  },
+  {
+   "verseNo": 24,
+   "source": "diyanet",
+   "text": "O, Mekke'nin göbeğinde, sizi onlara karşı üstün kıldıktan sonra, onların ellerini sizden, sizin ellerinizi onlardan çekendir. Allah, yaptıklarınızı hakkıyla görmektedir."
+  },
+  {
+   "verseNo": 24,
+   "source": "okuyan",
+   "text": "Sizi onlara üstün (galip) kıldıktan sonra, Mekke vadisinde onların ellerini sizden, sizin ellerinizi de onlardan çeken O’dur. Allah yaptıklarınızı görendir."
+  },
+  {
+   "verseNo": 24,
+   "source": "esed",
+   "text": "Sizi onlara muzaffer kıldıktan sonra Mekke vadisinde onların ellerini sizin üzerinizden, sizin ellerinizi de onların üzerinden çeken O´dur; ve Allah yapmış olduğunuz her şeyi görmektedir"
+  },
+  {
+   "verseNo": 25,
+   "source": "diyanet",
+   "text": "Onlar, inkar edenler ve sizi Mescid-i Haram'ı ziyaretten ve (ibadet amacıyla) bekletilen kurbanlıkları yerlerine ulaşmaktan alıkoyanlardır. Eğer, oradaki henüz tanımadığınız inanmış erkeklerle, inanmış kadınları bilmeyerek ezmeniz ve böylece size bir eziyet gelecek olmasaydı, (Allah Mekke'ye girmenize izin verirdi). Allah, dilediğini rahmetine koymak için böyle yapmıştır. Eğer, inananlarla inkarcılar birbirinden ayrılmış olsalardı, onlardan inkar edenleri elem dolu bir azaba uğratırdık."
+  },
+  {
+   "verseNo": 25,
+   "source": "okuyan",
+   "text": "Onlar, kâfir olan ve sizin Mescid-i Haram’ı ziyaretinizi ve bekletilen kurbanların yerlerine ulaşmasını engelleyenlerdir. (Mekke’de) kendilerini henüz tanımadığınız mümin erkeklerle mümin kadınları bilmeyerek ezmeniz sebebiyle üzüntüye kapılma ihtimaliniz olmasaydı (Allah savaşı önlemezdi). Allah dilediğini (layık olanı) rahmetine koymak için böyle yapmıştır. Birbirinden ayrılmış olsalardı, elbette onlardan kâfir olanlara elem verici bir şekilde azap ederdik."
+  },
+  {
+   "verseNo": 25,
+   "source": "esed",
+   "text": "(Düşmanlarınızı sizin elinizden almam, onların hatırı için değildir, çünkü) onlar, hakikati inkara şartlanmış olan, sizi Mescid-i Haram´dan alıkoyan ve kurbanlarınızın yerine ulaşmasına engel olanlardır. İstemeden çiğneyip geçebileceğiniz ve bilmeden, kendileri yüzünden büyük bir hata işleyebileceğiniz (Mekke´deki) mümin erkekler ve kadınlar olmasaydı (evet, eğer bunlar olmasaydı şehre savaşarak girmenize izin verilirdi ama savaşmanız yasaklandı) ki Allah (zamanı geldiğinde) dilediğine rahmetini ihsan edebilsin. Eğer onlar, (Bizim rahmetimizi hak edenler ile gazabımıza uğrayanlar, sizin tarafınızdan) ayırt edilebilselerdi içlerinden hakikati inkar edenleri (sizin elinizle) acıklı bir azaba çarptırırdık"
+  },
+  {
+   "verseNo": 26,
+   "source": "diyanet",
+   "text": "Hani inkar edenler kalplerine taassubu, cahiliye taassubunu yerleştirmişlerdi. Allah ise, Peygamberine ve inananlara huzur ve güvenini indirmiş ve onların takva (Allah'a karşı gelmekten sakınma) sözünü tutmalarını sağlamıştı. Zâten onlar buna lâyık ve ehil idiler. Allah her şeyi hakkıyla bilmektedir."
+  },
+  {
+   "verseNo": 26,
+   "source": "okuyan",
+   "text": "O zaman inkâr edenler, kalplerine katılığı (tutuculuğu), cahiliye katılığını (tutuculuğunu) yerleştirmişlerdi. Allah da Elçisine ve müminlere güven duygusu indirmiş, onların takvâ (duyarlılık) sözünü tutmalarını sağlamıştı. (Zaten) onlar, buna en layık ve en ehil kişilerdi. Allah her şeyi bilendir."
+  },
+  {
+   "verseNo": 26,
+   "source": "esed",
+   "text": "Hakikati inkara şartlanmış olanlar kalplerinde küstahça bir büyüklük duygusu -cahiliyye ürünü bir duygu- taşırken Allah (da) Elçisi´ne ve müminlere iç huzuru (nimetini) ihsan etmiş ve onlara Allah´a karşı sorumluluk duygusu aşılamıştır; çünkü onlar bu (ilahi armağana) en çok layık olanlardı ve onu pekala hak etmişlerdi. Ve Allah her şeyi tam bilendir"
+  },
+  {
+   "verseNo": 27,
+   "source": "diyanet",
+   "text": "Andolsun, Allah, Peygamberinin rüyasını doğru çıkardı. Allah dilerse, siz güven içinde başlarınızı kazıtmış veya saçlarınızı kısaltmış olarak, korkmadan Mescid-i Haram'a gireceksiniz. Allah, sizin bilmediğinizi bildi ve size bundan başka yakın bir fetih daha verdi."
+  },
+  {
+   "verseNo": 27,
+   "source": "okuyan",
+   "text": "Şüphesiz ki Allah, Elçisinin rüyasını bir amaç uğruna doğru çıkarmıştır. İnşallah şüphesiz ki siz güven içinde (kiminiz) başlarınızı tıraş etmiş, (kiminiz saçlarını) kısaltmış olarak, korkmadan Mescid-i Haram’a gireceksiniz. Allah sizin bilmediğinizi bilir. İşte bunun dışında size yakın bir zafer vermiş (olacak)tır."
+  },
+  {
+   "verseNo": 27,
+   "source": "esed",
+   "text": "Allah, Elçisi´nin sadık rüyasını gerçekleştirmiştir. Allah dilerse, Mescid-i Haram´a güven içinde, başlarınız traşlı yahut saçlarınız kısa kesilmiş olarak ve hiçbir korkuya kapılmadan mutlaka girersiniz çünkü O, sizin bilmediğinizi (her zaman) bilmektedir ve (sizin için,) bunun yanısıra, yakında gerçekleşecek bir zafer takdir etmiştir"
+  },
+  {
+   "verseNo": 28,
+   "source": "diyanet",
+   "text": "O, Peygamberini hidayet ve hak din ile gönderendir. (Allah) o hak dini bütün dinlere üstün kılmak için (böyle yaptı). Şahit olarak Allah yeter."
+  },
+  {
+   "verseNo": 28,
+   "source": "okuyan",
+   "text": "(Dinini) bütün din(ler)e üstün kılmak için Elçisini bir rehber ve gerçek din ile gönderen O’dur. Şahit olarak Allah yeter."
+  },
+  {
+   "verseNo": 28,
+   "source": "esed",
+   "text": "O, Elçisini rehberliği ve hak dini (yayma görevi) ile göndermişti ki, bu (dini) öteki bütün (batıl) dinlere üstün kılsın; ve hiç kimse Allah kadar (hakikate) şahitlik yapamaz"
+  },
+  {
+   "verseNo": 29,
+   "source": "diyanet",
+   "text": "Muhammed, Allah'ın Resülüdür. Onunla beraber olanlar, inkârcılara karşı çetin, birbirlerine karşı da merhametlidirler. Onların, rükû ve secde halinde, Allah'tan lütuf ve hoşnutluk istediklerini görürsün. Onların secde eseri olan alametleri yüzlerindedir. İşte bu, onların Tevrat'ta ve İncil'de anlatılan durumlarıdır: Onlar filizini çıkarmış, onu kuvvetlendirmiş, kalınlaşmış, gövdesi üzerine dikilmiş, ziraatçıların hoşuna giden bir ekin gibidirler. Allah kendileri sebebiyle inkarcıları öfkelendirmek için onları böyle sağlam ve dirençli kılar. Allah, içlerinden iman edip salih amel işleyenlere bir bağışlama ve büyük bir mükafat vaad etmiştir."
+  },
+  {
+   "verseNo": 29,
+   "source": "okuyan",
+   "text": "Muhammed, Allah’ın Elçisidir. Beraberinde bulunanlar da kâfirlere karşı şiddetli, kendi aralarında merhametlidir. Allah’tan lütuf ve rıza isteyerek onları rükû halinde, secde halinde görürsün. Onların nişanları, yüzlerindeki secde izidir. Bu, onların Tevrat’taki örneğidir. İncil’deki örneği ise şöyledir: (Onlar) filizini yarıp çıkarmış, onu güçlendirerek kalınlaşmış, gövdesi üzerine dikilmiş bir ekin gibidir. (Bu,) çiftçilerin hoşuna gider. Böylece (Allah) onlar (güçlenen müminler) sebebiyle kâfirleri öfkelendirir. Allah onlardan iman edip iyi işler yapanlara bağışlanma ve büyük ödül vadetmiştir."
+  },
+  {
+   "verseNo": 29,
+   "source": "esed",
+   "text": "Muhammed Allah´ın Elçisi´dir ve (sadakatle) o´nun yanında olanlar, bütün hakikat inkarcılarına karşı kararlı ve tavizsiz, (ama) birbirlerine karşı merhamet doludurlar. Onların (namazda) eğilerek (ve) yere kapanarak Allah´ın lütuf ve rızasını aradıklarını görürsün. Onların işaretleri, yüzlerindeki secde izleridir. Şu, onların hem Tevrat´taki ve hem de İncil´deki temsilleridir: (Onlar) filiz veren bir tohum gibi(dirler), sonra Allah o (filizi) güçlendirir ki sağlam şekilde büyüsün ve (sonunda) kökü üzerinde dimdik dursun ve üreticileri sevindirsin... (Allah böylece müminleri sağlam ve dayanıklı/dirençli kılar) ki onlar aracılığıyla hakikat inkarcılarını şaşırtsın. (Ama) onlardan inanıp doğru ve yararlı işler yapanlara Allah mağfiret ve büyük bir mükafat vaad etmiştir"
+  }
+ ]
+}

@@ -1,0 +1,356 @@
+{
+ "stationNo": 12,
+ "surahNo": 93,
+ "nuzulOrderOkuyan": 5,
+ "name": "Duhâ",
+ "nameArabic": "الضحى",
+ "nameMeaning": "Kuşluk vakti",
+ "verseCount": 11,
+ "periodDiyanet": "Mekke",
+ "periodOkuyan": "Mekke",
+ "revelationTiming": "Vahyin bir süre kesilmesinin (fetret) ardından",
+ "stationTitle": "Sessizlik terk edilmek değildir. Yardım gördüğünü hatırlayan, yardım eder.",
+ "introduction": "Duhâ suresi, adını birinci ayetteki kuşluk vaktine edilen yeminden alır. On bir ayetlik sure, vahyin bir süre kesildiği dönemin (fetret) ardından inmiştir.\n\nSure üç hareket içerir. İlk üç ayet terk edilmediğine dair güvence verir. Ortadaki bölüm geçmişteki üç somut korunmayı hatırlatır: yetimken barındırılma, şaşkınken yol gösterilme, yoksulken zenginleştirilme. Kapanış ise bu hatırlatmayı bir ahlaki sonuca bağlar: sen de yetimi ezme, isteyeni kovma, nimeti anlat.",
+ "occasionOfRevelation": "Nüzul kaynaklarının naklettiğine göre ilk vahiylerin ardından bir süre yeni bölüm gelmedi. Bu kesinti dönemine \"fetret\" denir. Anlatıldığına göre Mekkeliler bu sessizliği alay konusu yaptı ve \"Rabbi onu terk etti\" dedi; Hz. Muhammed de derin bir üzüntüye kapıldı.\n\nSure bu bağlamda inmiştir ve doğrudan güvence verir: \"Rabbin seni terk etmedi ve sana darılmadı\" (93:3). Ardından üç somut hatırlatma gelir. Bunlar soyut teselli değil, yaşanmış biyografik gerçeklerdir: babası doğmadan önce, annesi küçükken vefat etmiş bir yetim olarak korunması; yol bulamazken yol gösterilmesi; yoksulken geçim imkânına kavuşması.\n\nFetret döneminin süresi konusunda kaynaklar farklı rakamlar verir; bu bilgi rivayete dayanır ve kesin bir süre tespiti yapılmamıştır.",
+ "occasionSources": "Diyanet İşleri Başkanlığı Kur'an Yolu Tefsiri, Duhâ suresi girişi; Vâhidî, Esbâbü'n-Nüzûl; TDV İslâm Ansiklopedisi, \"Duhâ Sûresi\" ve \"Fetret\" maddeleri.",
+ "contemporaryMeaning": "Bu sure, sessizliğin yorumlanması üzerinedir. Bir süre cevap gelmediğinde insan hemen en kötü sonuca varır: terk edildim. Sure bu çıkarımı reddeder ve yöntem önerir — geriye bak, daha önce nasıl korunduğunu hatırla.\n\nİkinci ve daha keskin nokta kapanıştadır. Sure teselliyle bitmez; teselliyi bir yükümlülüğe çevirir. \"Sen yetimken barındırıldın\" cümlesinin devamı \"öyleyse yetimi ezme\"dir. Yardım görmüş olmanın karşılığı şükür sözü değil, aynı yardımı üretmektir.\n\nBu, minnet duygusunun ahlaki bir çeviri gerektirdiğini söyler: alınan iyilik, verilen iyiliğe dönüşmezse eksik kalır.",
+ "keyTerms": [
+  {
+   "term": "duhâ",
+   "arabic": "الضُّحَىٰ",
+   "verseRef": "93:1",
+   "meaning": "Kuşluk vakti; güneşin yükselip ışığının yayıldığı zaman. Aydınlığın tamamlandığı an."
+  },
+  {
+   "term": "mâ veddeake ve mâ kalâ",
+   "arabic": "مَا وَدَّعَكَ وَمَا قَلَىٰ",
+   "verseRef": "93:3",
+   "meaning": "\"Seni terk etmedi ve sana darılmadı.\" Sessizliğin terk anlamına gelmediğinin açık beyanı."
+  },
+  {
+   "term": "fe lâ takher",
+   "arabic": "فَلَا تَقْهَرْ",
+   "verseRef": "93:9",
+   "meaning": "Ezme, baskı kurma, hor görme. Yetime yönelik yasak; korunmuş olmanın ahlaki karşılığı."
+  },
+  {
+   "term": "fe lâ tenher",
+   "arabic": "فَلَا تَنْهَرْ",
+   "verseRef": "93:10",
+   "meaning": "Azarlama, kovma, tersleme. İsteyene karşı yasak; yardım isteyene sert davranmama."
+  }
+ ],
+ "themes": [
+  {
+   "label": "Sessizlik, terk edilmek değildir",
+   "body": "Cevap gelmeyen dönemde insan hemen en kötü yorumu yapar. Sure bu çıkarımı açıkça reddeder ve güvence verir."
+  },
+  {
+   "label": "Geriye bakma yöntemi",
+   "body": "Sure soyut teselli yerine üç somut hatırlatma sunar: yetimken barındırıldın, şaşkınken yol buldun, yoksulken geçindin. Hafıza, umudun kaynağı olur."
+  },
+  {
+   "label": "Minnetin ahlaki çevirisi",
+   "body": "\"Korundun, öyleyse yetimi ezme.\" Alınan iyilik teşekkürle değil, aynı iyiliği üretmekle karşılanır."
+  },
+  {
+   "label": "İsteyene sert davranmama",
+   "body": "Yardım isteyeni azarlamak, kovmak yasaklanır. Vermemek bir seçenek olabilir; aşağılamak değildir."
+  }
+ ],
+ "questions": [
+  "Cevap alamadığım bir bekleyişte hemen \"terk edildim\" sonucuna mı varıyorum? Daha önce nasıl yolumu bulduğumu hatırlıyor muyum?",
+  "Bana yapılmış bir iyiliği, aynı iyiliği başkasına yaparak karşıladığım oldu mu?",
+  "Benden bir şey isteyen birine son ne zaman sert davrandım? Vermeyecek olsam bile nasıl davranmalıydım?"
+ ],
+ "scholarlyNotes": [
+  {
+   "kind": "ihtilaf",
+   "label": "Fetret dönemi ne kadar sürdü?",
+   "body": "Vahyin kesildiği sürenin uzunluğu konusunda kaynaklar birbirinden ayrılır. TDV İslâm Ansiklopedisi iki üç günden kırk güne kadar uzanan rivayetler bulunduğunu kaydeder; İmam Ferrâ süreyi on beş gece olarak belirler. Prof. Dr. Mehmet Okuyan, iki-üç yıl gibi uzun sürelerin doğru olamayacağını savunur. Kesin bir süre tespiti yapılmamıştır."
+  },
+  {
+   "kind": "ihtilaf",
+   "label": "Kesinti hangi surenin ardından oldu?",
+   "body": "Diyanet Kur'an Yolu Tefsiri, vahyin hangi bölümden sonra kesildiği konusunda farklı rivayetler bulunduğunu aktarır: Fecr suresinden sonra, Alak ve Müddessir'den sonra ya da Necm suresinden sonra."
+  },
+  {
+   "kind": "nuans",
+   "label": "\"Yol bilmez halde bulup yol göstermedi mi?\"",
+   "body": "Yedinci ayet, çoğunluk müfessirlere göre Hz. Muhammed'in peygamberlikten önceki dönemde toplumundaki inanç ve yaşayışın yanlışlığını görmesini ama kurtuluş yolunu bilmemesini, Allah'ın da Kur'an'ı göndererek ona yol göstermesini anlatır (Diyanet Kur'an Yolu)."
+  },
+  {
+   "kind": "rivayet",
+   "label": "Fazilet rivayeti uydurmadır",
+   "body": "\"Kim Duhâ sûresini okursa Allah onu Muhammed'in şefaatine lâyık gördüğü kulları arasına alır, ona ayrıca yetim ve dilencilerin sayısının on katı sevap yazar\" meâlindeki hadisin mevzû olduğu TDV İslâm Ansiklopedisi'nde (Zerkeşî, I, 432'ye atıfla) belirtilmiştir."
+  }
+ ],
+ "verses": [
+  {
+   "verseNo": 1,
+   "textArabic": "بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ وَٱلضُّحَىٰ"
+  },
+  {
+   "verseNo": 2,
+   "textArabic": "وَٱلَّيْلِ إِذَا سَجَىٰ"
+  },
+  {
+   "verseNo": 3,
+   "textArabic": "مَا وَدَّعَكَ رَبُّكَ وَمَا قَلَىٰ"
+  },
+  {
+   "verseNo": 4,
+   "textArabic": "وَلَلْءَاخِرَةُ خَيْرٌۭ لَّكَ مِنَ ٱلْأُولَىٰ"
+  },
+  {
+   "verseNo": 5,
+   "textArabic": "وَلَسَوْفَ يُعْطِيكَ رَبُّكَ فَتَرْضَىٰٓ"
+  },
+  {
+   "verseNo": 6,
+   "textArabic": "أَلَمْ يَجِدْكَ يَتِيمًۭا فَـَٔاوَىٰ"
+  },
+  {
+   "verseNo": 7,
+   "textArabic": "وَوَجَدَكَ ضَآلًّۭا فَهَدَىٰ"
+  },
+  {
+   "verseNo": 8,
+   "textArabic": "وَوَجَدَكَ عَآئِلًۭا فَأَغْنَىٰ"
+  },
+  {
+   "verseNo": 9,
+   "textArabic": "فَأَمَّا ٱلْيَتِيمَ فَلَا تَقْهَرْ"
+  },
+  {
+   "verseNo": 10,
+   "textArabic": "وَأَمَّا ٱلسَّآئِلَ فَلَا تَنْهَرْ"
+  },
+  {
+   "verseNo": 11,
+   "textArabic": "وَأَمَّا بِنِعْمَةِ رَبِّكَ فَحَدِّثْ"
+  }
+ ],
+ "translations": [
+  {
+   "verseNo": 1,
+   "source": "diyanet",
+   "text": "(Ortalığı) bürüdüğü zaman geceye andolsun,"
+  },
+  {
+   "verseNo": 1,
+   "source": "esed",
+   "text": "Aydınlık sabahı düşün"
+  },
+  {
+   "verseNo": 1,
+   "source": "okuyan",
+   "text": "Yemin olsun: Kuşluk vaktine,"
+  },
+  {
+   "verseNo": 1,
+   "source": "islamoglu",
+   "text": "SABAHIN berrak aydınlığını temsil eden kuşluk vakti şahit olsun,"
+  },
+  {
+   "verseNo": 2,
+   "source": "diyanet",
+   "text": "Açılıp aydınlandığı zaman gündüze andolsun,"
+  },
+  {
+   "verseNo": 2,
+   "source": "esed",
+   "text": "ve durgun, karanlık geceyi"
+  },
+  {
+   "verseNo": 2,
+   "source": "okuyan",
+   "text": "(Karanlığı) çöken geceye ki"
+  },
+  {
+   "verseNo": 2,
+   "source": "islamoglu",
+   "text": "karanlığın dibini bulup sakinleşen gece şahit olsun"
+  },
+  {
+   "verseNo": 3,
+   "source": "diyanet",
+   "text": "Erkeği ve dişiyi yaratana andolsun ki,"
+  },
+  {
+   "verseNo": 3,
+   "source": "esed",
+   "text": "Rabbin seni ne unuttu ne de darıldı"
+  },
+  {
+   "verseNo": 3,
+   "source": "okuyan",
+   "text": "Rabbin, seni terk etmedi ve (sana) darılmadı."
+  },
+  {
+   "verseNo": 3,
+   "source": "islamoglu",
+   "text": "ki; Rabbin seni ne terk etti, ne de darıldı."
+  },
+  {
+   "verseNo": 4,
+   "source": "diyanet",
+   "text": "Şüphesiz sizin çabalarınız elbette çeşit çeşittir."
+  },
+  {
+   "verseNo": 4,
+   "source": "esed",
+   "text": "öteki dünya senin için (hayatının) bu ilk bölümünden mutlaka daha iyi olacak"
+  },
+  {
+   "verseNo": 4,
+   "source": "okuyan",
+   "text": "Şüphesiz ki (peygamberliğinin) son (dönemi) ilk (dönem)inden daha iyi olacaktır."
+  },
+  {
+   "verseNo": 4,
+   "source": "islamoglu",
+   "text": "Kaldı ki, işin sonu senin için önünden daha hayırlı olacaktır;"
+  },
+  {
+   "verseNo": 5,
+   "source": "diyanet",
+   "text": "Onun için kim (elinde bulunandan) verir, Allah'a karşı gelmekten sakınır ve en güzel sözü (kelime-i tevhidi) tasdik ederse, biz onu en kolay olana kolayca iletiriz."
+  },
+  {
+   "verseNo": 5,
+   "source": "esed",
+   "text": "Ve zamanı geldiğinde Rabbin sana (kalbinden geçeni) bağışlayacak ve seni hoşnut kılacak"
+  },
+  {
+   "verseNo": 5,
+   "source": "okuyan",
+   "text": "Rabbin, yakında sana (nimetler) verecek ve sen memnun olacaksın."
+  },
+  {
+   "verseNo": 5,
+   "source": "islamoglu",
+   "text": "ve zamanı gelince Rabbin sana bahşedecek, sen de (bundan) hoşnut ve memnun olacaksın."
+  },
+  {
+   "verseNo": 6,
+   "source": "diyanet",
+   "text": "Onun için kim (elinde bulunandan) verir, Allah'a karşı gelmekten sakınır ve en güzel sözü (kelime-i tevhidi) tasdik ederse, biz onu en kolay olana kolayca iletiriz."
+  },
+  {
+   "verseNo": 6,
+   "source": "esed",
+   "text": "O seni yetim olarak bulup bir sığınak vermedi mi"
+  },
+  {
+   "verseNo": 6,
+   "source": "okuyan",
+   "text": "Yetimken seni bulup barındırmadı mı?"
+  },
+  {
+   "verseNo": 6,
+   "source": "islamoglu",
+   "text": "O seni bir yetim olarak bulup sığınak olmadı mı?"
+  },
+  {
+   "verseNo": 7,
+   "source": "diyanet",
+   "text": "Onun için kim (elinde bulunandan) verir, Allah'a karşı gelmekten sakınır ve en güzel sözü (kelime-i tevhidi) tasdik ederse, biz onu en kolay olana kolayca iletiriz."
+  },
+  {
+   "verseNo": 7,
+   "source": "esed",
+   "text": "Ve yolunu kaybetmiş görüp seni doğru yola ulaştırmadı mı"
+  },
+  {
+   "verseNo": 7,
+   "source": "okuyan",
+   "text": "Şaşkınken seni bulup doğru yola ulaştırmıştı."
+  },
+  {
+   "verseNo": 7,
+   "source": "islamoglu",
+   "text": "Yine O seni yolunu kaybetmiş bulup doğru yola yöneltmişti."
+  },
+  {
+   "verseNo": 8,
+   "source": "diyanet",
+   "text": "Fakat, kim cimrilik eder, kendini Allah'a muhtaç görmez ve en güzel sözü (kelime-i tevhidi) yalanlarsa biz de onu en zor olana kolayca iletiriz."
+  },
+  {
+   "verseNo": 8,
+   "source": "esed",
+   "text": "İhtiyaç içinde bulup seni tatmin etmedi mi"
+  },
+  {
+   "verseNo": 8,
+   "source": "okuyan",
+   "text": "Yalnızken seni bulup zengin etmişti."
+  },
+  {
+   "verseNo": 8,
+   "source": "islamoglu",
+   "text": "Seni birilerine yük olmuş olarak bulup, muhannete muhtaç olmaktan ve mala tamahtan müstağni kılmıştı."
+  },
+  {
+   "verseNo": 9,
+   "source": "diyanet",
+   "text": "Fakat, kim cimrilik eder, kendini Allah'a muhtaç görmez ve en güzel sözü (kelime-i tevhidi) yalanlarsa biz de onu en zor olana kolayca iletiriz."
+  },
+  {
+   "verseNo": 9,
+   "source": "esed",
+   "text": "Öyleyse yetime haksızlık yapma"
+  },
+  {
+   "verseNo": 9,
+   "source": "okuyan",
+   "text": "Yetimi sakın ezme!"
+  },
+  {
+   "verseNo": 9,
+   "source": "islamoglu",
+   "text": "Dolayısıyla, asla yetimi ezme!"
+  },
+  {
+   "verseNo": 10,
+   "source": "diyanet",
+   "text": "Fakat, kim cimrilik eder, kendini Allah'a muhtaç görmez ve en güzel sözü (kelime-i tevhidi) yalanlarsa biz de onu en zor olana kolayca iletiriz."
+  },
+  {
+   "verseNo": 10,
+   "source": "esed",
+   "text": "yardım isteyeni asla geri çevirme"
+  },
+  {
+   "verseNo": 10,
+   "source": "okuyan",
+   "text": "Sorup (yardım) isteyeni sakın azarlama!"
+  },
+  {
+   "verseNo": 10,
+   "source": "islamoglu",
+   "text": "Her durumda yardım isteyeni azarlama!"
+  },
+  {
+   "verseNo": 11,
+   "source": "diyanet",
+   "text": "Cehenneme yuvarlandığı zaman, malı ona fayda vermez."
+  },
+  {
+   "verseNo": 11,
+   "source": "esed",
+   "text": "ve (her zaman) Rabbini(n) nimetlerini an"
+  },
+  {
+   "verseNo": 11,
+   "source": "okuyan",
+   "text": "Sadece Rabbinin nimetini anlat!"
+  },
+  {
+   "verseNo": 11,
+   "source": "islamoglu",
+   "text": "ve her zaman Rabbinin (sonsuz) nimetini dilinden düşürme!"
+  }
+ ]
+}

@@ -1,0 +1,850 @@
+{
+ "stationNo": 52,
+ "surahNo": 78,
+ "name": "Nebe",
+ "nameArabic": "",
+ "nameMeaning": "",
+ "verseCount": 40,
+ "nuzulOrderOkuyan": 47,
+ "periodDiyanet": "Mekke",
+ "periodOkuyan": "Mekke",
+ "revelationTiming": "",
+ "stationTitle": "Büyük Haber: Kıyamet ve Diriliş Gerçeği",
+ "introduction": "Nebe' Suresi, Mekke döneminin sonlarında inmiş olup adını ikinci ayetinde geçen 'nebe' (büyük haber) kelimesinden alır. Sure, Mekkeli müşriklerin kendi aralarında tartışıp durdukları ve bir türlü inanamadıkları öldükten sonra dirilme ve kıyamet gerçeğini çarpıcı bir üslupla ele alır.\n\nSurenin ilk bölümünde, Allah'ın yeryüzünde kurduğu muazzam kozmolojik düzen, dağların işlevi, gece ve gündüzün yaratılışı, yağmurun bereketi gibi somut deliller sunularak, bu eşsiz düzeni kuran kudretin insanları yeniden diriltmeye de kadir olduğu vurgulanır.\n\nİlerleyen ayetlerde ise 'yevmü'l-fasl' (hüküm ve ayırma günü) olarak nitelendirilen kıyamet gününün dehşeti, inkârcıların karşılaşacağı acı akıbet ve buna karşılık sorumluluk bilinciyle yaşayan müttakilerin elde edeceği eşsiz ödüller tasvir edilir. Sure, insanın dünyadaki amelleriyle yüzleşeceği o günde, inkârcıların 'Keşke toprak olsaydım!' şeklindeki pişmanlık feryadıyla son bulur.",
+ "occasionOfRevelation": "Mekke döneminin ilk yıllarında, Hz. Peygamber (s.a.v.) insanlara tevhid inancını ve ahiret gerçeğini tebliğ etmeye başladığında, Mekkeli müşrikler özellikle öldükten sonra dirilme fikrini şiddetle reddettiler. Kendi aralarında toplanıp bu 'büyük haber' hakkında alaycı bir tavırla tartışıyor, şüphelerini dile getiriyorlardı.\n\nMüşriklerin bu inkârcı ve alaycı tutumları üzerine Nebe' Suresi nazil olmuştur. Sure, onların bu tartışmalarına doğrudan bir cevap niteliği taşır ve ahiret gerçeğinin tartışılmaz bir hakikat olduğunu, zamanı geldiğinde herkesin bu gerçeği bizzat yaşayarak öğreneceğini kesin bir dille ifade eder.\n\nSurenin nüzul sebebi, temelde insanın ölüm ötesi hayata dair taşıdığı şüpheleri gidermek ve ilahi adaletin tecelli edeceği hesap gününe karşı derin bir sorumluluk bilinci oluşturmaktır.",
+ "occasionSources": "İbn Kesîr, Tefsîrü'l-Kur'âni'l-Azîm, VII, 195; Âlûsî, Rûhu'l-meânî, XXX, 281; TDV İslâm Ansiklopedisi, 'Nebe Suresi' maddesi.",
+ "keyTerms": [
+  {
+   "term": "nebe'",
+   "arabic": "النَّبَإِ",
+   "verseRef": "78:2",
+   "meaning": "Büyük ve önemli haber. Ayette, müşriklerin hakkında tartıştıkları kıyamet ve diriliş gerçeğini ifade eder."
+  },
+  {
+   "term": "mihâd",
+   "arabic": "مِهَادًا",
+   "verseRef": "78:6",
+   "meaning": "Döşek, beşik, yaşanmaya elverişli yer. Yeryüzünün insan yaşamı için nasıl özenle hazırlandığını belirtir."
+  },
+  {
+   "term": "evtâd",
+   "arabic": "أَوْتَادًا",
+   "verseRef": "78:7",
+   "meaning": "Kazıklar. Dağların yeryüzünün dengesini sağlayan jeolojik işlevine dikkat çeker."
+  },
+  {
+   "term": "subât",
+   "arabic": "سُبَاتًا",
+   "verseRef": "78:9",
+   "meaning": "Dinlenme, kesinti. Uykunun insan bedeni ve zihni için bir yenilenme ve istirahat vesilesi olduğunu ifade eder."
+  },
+  {
+   "term": "yevme'l-fasl",
+   "arabic": "يَوْمَ الْفَصْلِ",
+   "verseRef": "78:17",
+   "meaning": "Hüküm ve ayırma günü. Hak ile batılın, iyiler ile kötülerin kesin olarak birbirinden ayrılacağı kıyamet günüdür."
+  },
+  {
+   "term": "mirsâd",
+   "arabic": "مِرْصَادًا",
+   "verseRef": "78:21",
+   "meaning": "Gözetleme yeri, pusu. Cehennemin, azgınları bekleyen ve kaçışı olmayan bir son durak olduğunu vurgular."
+  }
+ ],
+ "themes": [
+  {
+   "label": "Kozmik Düzen ve Yaratıcının Kudreti",
+   "body": "Yeryüzünün yaşanabilir kılınması, dağların dengesi, gece ve gündüzün döngüsü gibi doğa olayları, Allah'ın sonsuz kudretinin ve yeniden diriltme gücünün somut delilleri olarak sunulur."
+  },
+  {
+   "label": "İnsanın Sorumluluğu ve Hesap Günü",
+   "body": "İnsanın dünyadaki eylemlerinin başıboş bırakılmadığı, her şeyin kaydedildiği ve 'yevmü'l-fasl'da mutlak adaletin tecelli edeceği vurgulanarak derin bir sorumluluk bilinci aşılanır."
+  },
+  {
+   "label": "İnkârın Getirdiği Pişmanlık",
+   "body": "Ahiret gerçeğini yalanlayanların, hesap gününde karşılaşacakları dehşet karşısında 'Keşke toprak olsaydım!' diyerek yaşayacakları derin ve faydasız pişmanlık tablosu çizilir."
+  }
+ ],
+ "questions": [
+  "Hayatın koşuşturmacası içinde, bir gün tüm eylemlerimle yüzleşeceğim 'büyük haber' (kıyamet) gerçeğine ne kadar hazırlıklıyım?",
+  "Çevremdeki muazzam kozmik düzene bakarken, bu düzeni kuran kudretin beni de yeniden dirilteceği gerçeğini ne sıklıkla tefekkür ediyorum?",
+  "Hesap gününde 'Keşke toprak olsaydım!' dememek için bugün hayatımda neleri değiştirmem gerekiyor?"
+ ],
+ "contemporaryMeaning": "Bu sure, insanın kurduğu düzenin kalıcılığına duyduğu kör inancı ve yüzleşmeden kaçışını sarsıcı bir şekilde ele alır. Yeryüzündeki kusursuz işleyişi, dağları, geceyi ve gündüzü kendi konforunun doğal bir uzantısı sanan zihnin, her şeyin bir sonu ve hesabı olduğu gerçeğiyle aniden çarpışması metnin merkezinde yer alır. İnsanın en büyük yanılgısı, mevcut akışın sonsuza dek kesintisiz devam edeceğini varsaymasıdır.\n\nBugünün diliyle: bitmek bilmeyen toplantılar, kredi taksitleri, kariyer planları ve algoritmalara göre şekillenen günlük rutinler içinde insan, kendi kurduğu bu yapay ekosistemi mutlak gerçeklik zanneder. Hayatın sadece üretim, tüketim ve statü inşasından ibaret olduğu yanılsaması, kişiyi asıl büyük sarsıntıya karşı uyuşturur. Hiçbir eylemin boşlukta kaybolmadığı bir evrende, insanın kendi eylemlerinin sonuçlarıyla yüzleşmesi kaçınılmazdır.\n\nSurenin sonundaki \"keşke toprak olsaydım\" çığlığı, tam da bu yüzleşme anının ağırlığını yansıtır. Tüm unvanların, banka hesaplarının ve sosyal onay mekanizmalarının anlamını yitirdiği o mutlak şeffaflık anında, insanın kendi gerçeğinden kaçacak hiçbir sığınağı kalmaz. Metin, geçici olanı kalıcı sanma körlüğünü teşhis ederken, eylemlerin nihai ağırlığını fark etmeye odaklanır.",
+ "scholarlyNotes": [
+  {
+   "kind": "rivayet",
+   "body": "“Amme yetesâelûn sûresini okuyan kimseye Cenâb-ı Hak kıyamet gününde soğuk içecekler lutfedecektir” şeklindeki rivayet mevzûdur (uydurmadır).",
+   "label": "Nebe Suresinin Fazileti Hakkında"
+  },
+  {
+   "kind": "ihtilaf",
+   "body": "Müfessirlerin çoğunluğu 'büyük haber'in kıyamet ve öldükten sonra dirilme olduğunu belirtirken, bazı müfessirler bunun Kur'an-ı Kerim veya Hz. Muhammed'in peygamberliği olabileceğini de ifade etmişlerdir. Ancak surenin bütünü dikkate alındığında kıyamet vurgusu daha ağır basmaktadır.",
+   "label": "Büyük Haber (Nebe'ul-Azîm) Nedir?"
+  }
+ ],
+ "verses": [
+  {
+   "verseNo": 1,
+   "textArabic": "بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ عَمَّ يَتَسَآءَلُونَ"
+  },
+  {
+   "verseNo": 2,
+   "textArabic": "عَنِ ٱلنَّبَإِ ٱلْعَظِيمِ"
+  },
+  {
+   "verseNo": 3,
+   "textArabic": "ٱلَّذِى هُمْ فِيهِ مُخْتَلِفُونَ"
+  },
+  {
+   "verseNo": 4,
+   "textArabic": "كَلَّا سَيَعْلَمُونَ"
+  },
+  {
+   "verseNo": 5,
+   "textArabic": "ثُمَّ كَلَّا سَيَعْلَمُونَ"
+  },
+  {
+   "verseNo": 6,
+   "textArabic": "أَلَمْ نَجْعَلِ ٱلْأَرْضَ مِهَٰدًۭا"
+  },
+  {
+   "verseNo": 7,
+   "textArabic": "وَٱلْجِبَالَ أَوْتَادًۭا"
+  },
+  {
+   "verseNo": 8,
+   "textArabic": "وَخَلَقْنَٰكُمْ أَزْوَٰجًۭا"
+  },
+  {
+   "verseNo": 9,
+   "textArabic": "وَجَعَلْنَا نَوْمَكُمْ سُبَاتًۭا"
+  },
+  {
+   "verseNo": 10,
+   "textArabic": "وَجَعَلْنَا ٱلَّيْلَ لِبَاسًۭا"
+  },
+  {
+   "verseNo": 11,
+   "textArabic": "وَجَعَلْنَا ٱلنَّهَارَ مَعَاشًۭا"
+  },
+  {
+   "verseNo": 12,
+   "textArabic": "وَبَنَيْنَا فَوْقَكُمْ سَبْعًۭا شِدَادًۭا"
+  },
+  {
+   "verseNo": 13,
+   "textArabic": "وَجَعَلْنَا سِرَاجًۭا وَهَّاجًۭا"
+  },
+  {
+   "verseNo": 14,
+   "textArabic": "وَأَنزَلْنَا مِنَ ٱلْمُعْصِرَٰتِ مَآءًۭ ثَجَّاجًۭا"
+  },
+  {
+   "verseNo": 15,
+   "textArabic": "لِّنُخْرِجَ بِهِۦ حَبًّۭا وَنَبَاتًۭا"
+  },
+  {
+   "verseNo": 16,
+   "textArabic": "وَجَنَّٰتٍ أَلْفَافًا"
+  },
+  {
+   "verseNo": 17,
+   "textArabic": "إِنَّ يَوْمَ ٱلْفَصْلِ كَانَ مِيقَٰتًۭا"
+  },
+  {
+   "verseNo": 18,
+   "textArabic": "يَوْمَ يُنفَخُ فِى ٱلصُّورِ فَتَأْتُونَ أَفْوَاجًۭا"
+  },
+  {
+   "verseNo": 19,
+   "textArabic": "وَفُتِحَتِ ٱلسَّمَآءُ فَكَانَتْ أَبْوَٰبًۭا"
+  },
+  {
+   "verseNo": 20,
+   "textArabic": "وَسُيِّرَتِ ٱلْجِبَالُ فَكَانَتْ سَرَابًا"
+  },
+  {
+   "verseNo": 21,
+   "textArabic": "إِنَّ جَهَنَّمَ كَانَتْ مِرْصَادًۭا"
+  },
+  {
+   "verseNo": 22,
+   "textArabic": "لِّلطَّٰغِينَ مَـَٔابًۭا"
+  },
+  {
+   "verseNo": 23,
+   "textArabic": "لَّٰبِثِينَ فِيهَآ أَحْقَابًۭا"
+  },
+  {
+   "verseNo": 24,
+   "textArabic": "لَّا يَذُوقُونَ فِيهَا بَرْدًۭا وَلَا شَرَابًا"
+  },
+  {
+   "verseNo": 25,
+   "textArabic": "إِلَّا حَمِيمًۭا وَغَسَّاقًۭا"
+  },
+  {
+   "verseNo": 26,
+   "textArabic": "جَزَآءًۭ وِفَاقًا"
+  },
+  {
+   "verseNo": 27,
+   "textArabic": "إِنَّهُمْ كَانُوا۟ لَا يَرْجُونَ حِسَابًۭا"
+  },
+  {
+   "verseNo": 28,
+   "textArabic": "وَكَذَّبُوا۟ بِـَٔايَٰتِنَا كِذَّابًۭا"
+  },
+  {
+   "verseNo": 29,
+   "textArabic": "وَكُلَّ شَىْءٍ أَحْصَيْنَٰهُ كِتَٰبًۭا"
+  },
+  {
+   "verseNo": 30,
+   "textArabic": "فَذُوقُوا۟ فَلَن نَّزِيدَكُمْ إِلَّا عَذَابًا"
+  },
+  {
+   "verseNo": 31,
+   "textArabic": "إِنَّ لِلْمُتَّقِينَ مَفَازًا"
+  },
+  {
+   "verseNo": 32,
+   "textArabic": "حَدَآئِقَ وَأَعْنَٰبًۭا"
+  },
+  {
+   "verseNo": 33,
+   "textArabic": "وَكَوَاعِبَ أَتْرَابًۭا"
+  },
+  {
+   "verseNo": 34,
+   "textArabic": "وَكَأْسًۭا دِهَاقًۭا"
+  },
+  {
+   "verseNo": 35,
+   "textArabic": "لَّا يَسْمَعُونَ فِيهَا لَغْوًۭا وَلَا كِذَّٰبًۭا"
+  },
+  {
+   "verseNo": 36,
+   "textArabic": "جَزَآءًۭ مِّن رَّبِّكَ عَطَآءً حِسَابًۭا"
+  },
+  {
+   "verseNo": 37,
+   "textArabic": "رَّبِّ ٱلسَّمَٰوَٰتِ وَٱلْأَرْضِ وَمَا بَيْنَهُمَا ٱلرَّحْمَٰنِ ۖ لَا يَمْلِكُونَ مِنْهُ خِطَابًۭا"
+  },
+  {
+   "verseNo": 38,
+   "textArabic": "يَوْمَ يَقُومُ ٱلرُّوحُ وَٱلْمَلَٰٓئِكَةُ صَفًّۭا ۖ لَّا يَتَكَلَّمُونَ إِلَّا مَنْ أَذِنَ لَهُ ٱلرَّحْمَٰنُ وَقَالَ صَوَابًۭا"
+  },
+  {
+   "verseNo": 39,
+   "textArabic": "ذَٰلِكَ ٱلْيَوْمُ ٱلْحَقُّ ۖ فَمَن شَآءَ ٱتَّخَذَ إِلَىٰ رَبِّهِۦ مَـَٔابًا"
+  },
+  {
+   "verseNo": 40,
+   "textArabic": "إِنَّآ أَنذَرْنَٰكُمْ عَذَابًۭا قَرِيبًۭا يَوْمَ يَنظُرُ ٱلْمَرْءُ مَا قَدَّمَتْ يَدَاهُ وَيَقُولُ ٱلْكَافِرُ يَٰلَيْتَنِى كُنتُ تُرَٰبًۢا"
+  }
+ ],
+ "translations": [
+  {
+   "verseNo": 1,
+   "source": "diyanet",
+   "text": "Birbirlerine neyi soruyorlar?"
+  },
+  {
+   "verseNo": 1,
+   "source": "okuyan",
+   "text": "Birbirlerine neyi soruyorlar?"
+  },
+  {
+   "verseNo": 1,
+   "source": "esed",
+   "text": "Birbirlerine (bu kadar sık) neyi soruyorlar"
+  },
+  {
+   "verseNo": 2,
+   "source": "diyanet",
+   "text": "Üzerinde anlaşmazlığa düştükleri büyük haberi (mi)?"
+  },
+  {
+   "verseNo": 2,
+   "source": "okuyan",
+   "text": "2-3 . Anlaşmazlığa düştükleri o büyük haberi."
+  },
+  {
+   "verseNo": 2,
+   "source": "esed",
+   "text": "O müthiş (yeniden dirilme) haberini (mi)"
+  },
+  {
+   "verseNo": 3,
+   "source": "diyanet",
+   "text": "Üzerinde anlaşmazlığa düştükleri büyük haberi (mi)?"
+  },
+  {
+   "verseNo": 3,
+   "source": "okuyan",
+   "text": "2-3 . Anlaşmazlığa düştükleri o büyük haberi."
+  },
+  {
+   "verseNo": 3,
+   "source": "esed",
+   "text": "üzerinde (hiçbir şekilde) anlaşamadıkları"
+  },
+  {
+   "verseNo": 4,
+   "source": "diyanet",
+   "text": "Hayır, ileride bilecekler."
+  },
+  {
+   "verseNo": 4,
+   "source": "okuyan",
+   "text": "Hayır! İleride (gerçeği) bilecekler!"
+  },
+  {
+   "verseNo": 4,
+   "source": "esed",
+   "text": "Elbette, zamanı geldiğinde (onu) anlayacaklar"
+  },
+  {
+   "verseNo": 5,
+   "source": "diyanet",
+   "text": "Yine hayır; ileride bilecekler."
+  },
+  {
+   "verseNo": 5,
+   "source": "okuyan",
+   "text": "Sonra, şüphesiz ki ileride (gerçeği) bilecekler!"
+  },
+  {
+   "verseNo": 5,
+   "source": "esed",
+   "text": "Ve bir kez daha: Elbette, zamanı geldiğinde anlayacaklar"
+  },
+  {
+   "verseNo": 6,
+   "source": "diyanet",
+   "text": "Biz, yeryüzünü bir döşek, dağları da birer kazık yapmadık mı?"
+  },
+  {
+   "verseNo": 6,
+   "source": "okuyan",
+   "text": "6-7 . Biz yeri bir beşik, dağları da birer kazık yapmadık mı?"
+  },
+  {
+   "verseNo": 6,
+   "source": "esed",
+   "text": "Yeryüzünü (sizin için) bir dinlenme yeri yapmadık mı"
+  },
+  {
+   "verseNo": 7,
+   "source": "diyanet",
+   "text": "Biz, yeryüzünü bir döşek, dağları da birer kazık yapmadık mı?"
+  },
+  {
+   "verseNo": 7,
+   "source": "okuyan",
+   "text": "6-7 . Biz yeri bir beşik, dağları da birer kazık yapmadık mı?"
+  },
+  {
+   "verseNo": 7,
+   "source": "esed",
+   "text": "ve dağları da (onun) sütunları"
+  },
+  {
+   "verseNo": 8,
+   "source": "diyanet",
+   "text": "Sizleri (erkekli-dişili) eşler halinde yarattık."
+  },
+  {
+   "verseNo": 8,
+   "source": "okuyan",
+   "text": "Sizi eşler (çiftler) hâlinde yarattık."
+  },
+  {
+   "verseNo": 8,
+   "source": "esed",
+   "text": "Sizi çiftler halinde yarattık"
+  },
+  {
+   "verseNo": 9,
+   "source": "diyanet",
+   "text": "Uykunuzu bir dinlenme (sebebi) kıldık."
+  },
+  {
+   "verseNo": 9,
+   "source": "okuyan",
+   "text": "Uykunuzu bir dinlenme (aracı) kıldık."
+  },
+  {
+   "verseNo": 9,
+   "source": "esed",
+   "text": "uykunuzu ölüm(ün bir sembolü) kıldık"
+  },
+  {
+   "verseNo": 10,
+   "source": "diyanet",
+   "text": "Geceyi (sizi örten) bir elbise yaptık."
+  },
+  {
+   "verseNo": 10,
+   "source": "okuyan",
+   "text": "10-11 . Geceyi bir örtü, gündüzü de çalışıp kazanma zamanı yaptık."
+  },
+  {
+   "verseNo": 10,
+   "source": "esed",
+   "text": "ve geceyi (onun) örtüsü yaptık"
+  },
+  {
+   "verseNo": 11,
+   "source": "diyanet",
+   "text": "Gündüzü de geçimi temin zamanı kıldık."
+  },
+  {
+   "verseNo": 11,
+   "source": "okuyan",
+   "text": "10-11 . Geceyi bir örtü, gündüzü de çalışıp kazanma zamanı yaptık."
+  },
+  {
+   "verseNo": 11,
+   "source": "esed",
+   "text": "gündüzü de hayat(ın sembolü)"
+  },
+  {
+   "verseNo": 12,
+   "source": "diyanet",
+   "text": "Üstünüze yedi sağlam gök bina ettik."
+  },
+  {
+   "verseNo": 12,
+   "source": "okuyan",
+   "text": "Üstünüzde sağlam yedi (kat göğü) bina ettik."
+  },
+  {
+   "verseNo": 12,
+   "source": "esed",
+   "text": "Üstünüze yedi gök kubbe bina ettik"
+  },
+  {
+   "verseNo": 13,
+   "source": "diyanet",
+   "text": "Alev alev yanan aydınlatıcı ve ısıtıcı bir kandil yarattık."
+  },
+  {
+   "verseNo": 13,
+   "source": "okuyan",
+   "text": "(Orada) aydınlatan bir kandil (güneş) yarattık."
+  },
+  {
+   "verseNo": 13,
+   "source": "esed",
+   "text": "ve (oraya güneşi,) parıldayan ışık yüklü lambayı yerleştirdik"
+  },
+  {
+   "verseNo": 14,
+   "source": "diyanet",
+   "text": "Taneler, bitkiler, sarmaş dolaş bahçeler çıkaralım diye yağmur yüklü yoğun bulutlardan şarıl şarıl yağmur yağdırdık."
+  },
+  {
+   "verseNo": 14,
+   "source": "okuyan",
+   "text": "14-16 . Tohumlar, bitkiler (ve ağaçları) sarmaş dolaş olmuş bahçeler yetiştirmeniz için sıkışan bulutlardan şarıl şarıl akan sular indirdik."
+  },
+  {
+   "verseNo": 14,
+   "source": "esed",
+   "text": "Ve rüzgarın sürüklediği bulutlardan şarıldayan sular indirdik"
+  },
+  {
+   "verseNo": 15,
+   "source": "diyanet",
+   "text": "Taneler, bitkiler, sarmaş dolaş bahçeler çıkaralım diye yağmur yüklü yoğun bulutlardan şarıl şarıl yağmur yağdırdık."
+  },
+  {
+   "verseNo": 15,
+   "source": "okuyan",
+   "text": "14-16 . Tohumlar, bitkiler (ve ağaçları) sarmaş dolaş olmuş bahçeler yetiştirmeniz için sıkışan bulutlardan şarıl şarıl akan sular indirdik."
+  },
+  {
+   "verseNo": 15,
+   "source": "esed",
+   "text": "(indirdik) ki onunla taneler ve bitkiler yetiştirelim"
+  },
+  {
+   "verseNo": 16,
+   "source": "diyanet",
+   "text": "Taneler, bitkiler, sarmaş dolaş bahçeler çıkaralım diye yağmur yüklü yoğun bulutlardan şarıl şarıl yağmur yağdırdık."
+  },
+  {
+   "verseNo": 16,
+   "source": "okuyan",
+   "text": "14-16 . Tohumlar, bitkiler (ve ağaçları) sarmaş dolaş olmuş bahçeler yetiştirmeniz için sıkışan bulutlardan şarıl şarıl akan sular indirdik."
+  },
+  {
+   "verseNo": 16,
+   "source": "esed",
+   "text": "ve ağaçlarla kaplı bahçeler"
+  },
+  {
+   "verseNo": 17,
+   "source": "diyanet",
+   "text": "Şüphesiz hüküm ve ayırma günü belirlenmiş bir vakittir."
+  },
+  {
+   "verseNo": 17,
+   "source": "okuyan",
+   "text": "Şüphesiz ki ayrılma günü belirlenmiş bir vakittir."
+  },
+  {
+   "verseNo": 17,
+   "source": "esed",
+   "text": "Gerçek şu ki, (doğru ile yanlış arasında) Ayrım Günü´nün belirlenmiş bir vakti vardır"
+  },
+  {
+   "verseNo": 18,
+   "source": "diyanet",
+   "text": "Bu, sûra üfürüleceği gün gerçekleşir ve siz bölük bölük gelirsiniz."
+  },
+  {
+   "verseNo": 18,
+   "source": "okuyan",
+   "text": "Sûr’a üfleneceği gün, bölük bölük (Allah’ın huzuruna) geleceksiniz."
+  },
+  {
+   "verseNo": 18,
+   "source": "esed",
+   "text": "(yeniden dirilme) surun(un) üflendiği ve hepinizin kalabalıklar halinde ortaya çıkacağınız Gün"
+  },
+  {
+   "verseNo": 19,
+   "source": "diyanet",
+   "text": "Gök açılır ve kapı kapı olur."
+  },
+  {
+   "verseNo": 19,
+   "source": "okuyan",
+   "text": "(O gün) gök açılacak ve kapı kapı olacaktır."
+  },
+  {
+   "verseNo": 19,
+   "source": "esed",
+   "text": "göklerin açıldığı ve (kanatları açık) kapılar haline geldiği (gün)"
+  },
+  {
+   "verseNo": 20,
+   "source": "diyanet",
+   "text": "Dağlar yürütülür, serap haline gelir."
+  },
+  {
+   "verseNo": 20,
+   "source": "okuyan",
+   "text": "Dağlar da yürütülüp serap hâline getirilecektir."
+  },
+  {
+   "verseNo": 20,
+   "source": "esed",
+   "text": "ve dağların bir serapmış gibi kaybolup gittiği (gün)"
+  },
+  {
+   "verseNo": 21,
+   "source": "diyanet",
+   "text": "Şüphesiz cehennem, bir gözetleme yeridir; azgınlar için, içinde çağlar boyu kalacakları bir dönüş yeridir."
+  },
+  {
+   "verseNo": 21,
+   "source": "okuyan",
+   "text": "21-22 . Şüphesiz ki cehennem, azgınların durağı olarak (cehennemlikleri) gözetlemektedir."
+  },
+  {
+   "verseNo": 21,
+   "source": "esed",
+   "text": "(O Gün,) cehennem, (hakikati inkar edenleri) kuşatmak için bekleyecek"
+  },
+  {
+   "verseNo": 22,
+   "source": "diyanet",
+   "text": "Şüphesiz cehennem, bir gözetleme yeridir; azgınlar için, içinde çağlar boyu kalacakları bir dönüş yeridir."
+  },
+  {
+   "verseNo": 22,
+   "source": "okuyan",
+   "text": "21-22 . Şüphesiz ki cehennem, azgınların durağı olarak (cehennemlikleri) gözetlemektedir."
+  },
+  {
+   "verseNo": 22,
+   "source": "esed",
+   "text": "hak ve adalet sınırlarını ihlal etmiş olanların durağı"
+  },
+  {
+   "verseNo": 23,
+   "source": "diyanet",
+   "text": "Şüphesiz cehennem, bir gözetleme yeridir; azgınlar için, içinde çağlar boyu kalacakları bir dönüş yeridir."
+  },
+  {
+   "verseNo": 23,
+   "source": "okuyan",
+   "text": "(Azgınlar) orada çağlar boyu kalacaklardır."
+  },
+  {
+   "verseNo": 23,
+   "source": "esed",
+   "text": "Onlar orada uzun süre kalacaklar"
+  },
+  {
+   "verseNo": 24,
+   "source": "diyanet",
+   "text": "Orada ne bir serinlik ve ne de içecek bir şey tadacaklar!"
+  },
+  {
+   "verseNo": 24,
+   "source": "okuyan",
+   "text": "24-26 . (Dünyadaki inkârlarına) uygun bir karşılık olarak kaynar su ve irinden başka orada hiçbir serinlik veya (susuzluk gideren) hiçbir içecek tadamayacaklardır."
+  },
+  {
+   "verseNo": 24,
+   "source": "esed",
+   "text": "Orada ne bir serinlik tadacaklar, ne de (susuzluk giderici) bir içecek"
+  },
+  {
+   "verseNo": 25,
+   "source": "diyanet",
+   "text": "Ancak, uygun bir ceza olarak kaynar su ve irin içecekler."
+  },
+  {
+   "verseNo": 25,
+   "source": "okuyan",
+   "text": "24-26 . (Dünyadaki inkârlarına) uygun bir karşılık olarak kaynar su ve irinden başka orada hiçbir serinlik veya (susuzluk gideren) hiçbir içecek tadamayacaklardır."
+  },
+  {
+   "verseNo": 25,
+   "source": "esed",
+   "text": "yalnız yakıcı bir ümitsizlik ve buz gibi bir karanlık"
+  },
+  {
+   "verseNo": 26,
+   "source": "diyanet",
+   "text": "Ancak, uygun bir ceza olarak kaynar su ve irin içecekler."
+  },
+  {
+   "verseNo": 26,
+   "source": "okuyan",
+   "text": "24-26 . (Dünyadaki inkârlarına) uygun bir karşılık olarak kaynar su ve irinden başka orada hiçbir serinlik veya (susuzluk gideren) hiçbir içecek tadamayacaklardır."
+  },
+  {
+   "verseNo": 26,
+   "source": "esed",
+   "text": "(günahlarına) uygun bir karşılık"
+  },
+  {
+   "verseNo": 27,
+   "source": "diyanet",
+   "text": "Çünkü onlar hesaba çekilmeyi ummuyorlardı."
+  },
+  {
+   "verseNo": 27,
+   "source": "okuyan",
+   "text": "Şüphesiz ki onlar hesabı ummazlardı."
+  },
+  {
+   "verseNo": 27,
+   "source": "esed",
+   "text": "Doğrusu onlar hesaba çekileceklerini beklemiyorlardı"
+  },
+  {
+   "verseNo": 28,
+   "source": "diyanet",
+   "text": "Âyetlerimizi de alabildiğine yalanlamışlardı."
+  },
+  {
+   "verseNo": 28,
+   "source": "okuyan",
+   "text": "Ayetlerimizi de yalanladıkça yalanlamışlardı."
+  },
+  {
+   "verseNo": 28,
+   "source": "esed",
+   "text": "mesajlarımızı tek tek ve tümüyle yalanladıkları halde"
+  },
+  {
+   "verseNo": 29,
+   "source": "diyanet",
+   "text": "Biz ise, her şeyi bir kitapta (Levh-i Mahfûz'da) tamamiyle sayıp tespit ettik."
+  },
+  {
+   "verseNo": 29,
+   "source": "okuyan",
+   "text": "Biz ise her şeyi bir kitapta sayıp kaydetmişizdir."
+  },
+  {
+   "verseNo": 29,
+   "source": "esed",
+   "text": "ama Biz, (yaptıkları) her şeyi bir kayda almışızdır"
+  },
+  {
+   "verseNo": 30,
+   "source": "diyanet",
+   "text": "Kafirlere şöyle denilir: \"Şimdi tadın. Artık bundan sonra yalnızca azabınızı artıracağız.\""
+  },
+  {
+   "verseNo": 30,
+   "source": "okuyan",
+   "text": "Tadın (azabı)! Bundan sonra yalnızca azabınızı artıracağız."
+  },
+  {
+   "verseNo": 30,
+   "source": "esed",
+   "text": "(Ve onlara şöyle diyeceğiz:) \"O halde, (yaptığınız kötülüklerin meyvelerini) tadın, artık size şiddetli azaptan başka bir şey vermeyeceğiz"
+  },
+  {
+   "verseNo": 31,
+   "source": "diyanet",
+   "text": "Şüphesiz Allah'a karşı gelmekten sakınanlara bir kurtuluş, bahçeler, üzümler, kendileriyle bir yaşta, göğüsleri çıkmış genç kızlar ve dolu dolu kadehler vardır."
+  },
+  {
+   "verseNo": 31,
+   "source": "okuyan",
+   "text": "Şüphesiz ki muttakîler (duyarlı olanlar) için ödül(ler) vardır:"
+  },
+  {
+   "verseNo": 31,
+   "source": "esed",
+   "text": "(Ama,) Allah´a karşı sorumluluk bilinci taşıyanlar için büyük bir tatmin vardır"
+  },
+  {
+   "verseNo": 32,
+   "source": "diyanet",
+   "text": "Şüphesiz Allah'a karşı gelmekten sakınanlara bir kurtuluş, bahçeler, üzümler, kendileriyle bir yaşta, göğüsleri çıkmış genç kızlar ve dolu dolu kadehler vardır."
+  },
+  {
+   "verseNo": 32,
+   "source": "okuyan",
+   "text": "Bahçeler ve üzüm bağları,"
+  },
+  {
+   "verseNo": 32,
+   "source": "esed",
+   "text": "muhteşem bahçeler ve bağlar"
+  },
+  {
+   "verseNo": 33,
+   "source": "diyanet",
+   "text": "Şüphesiz Allah'a karşı gelmekten sakınanlara bir kurtuluş, bahçeler, üzümler, kendileriyle bir yaşta, göğüsleri çıkmış genç kızlar ve dolu dolu kadehler vardır."
+  },
+  {
+   "verseNo": 33,
+   "source": "okuyan",
+   "text": "Birbiriyle uyumlu, tomurcuk görünümlüler (üzüm salkımları, toprak ürünleri),"
+  },
+  {
+   "verseNo": 33,
+   "source": "esed",
+   "text": "müthiş uyumlu harika eşler"
+  },
+  {
+   "verseNo": 34,
+   "source": "diyanet",
+   "text": "Şüphesiz Allah'a karşı gelmekten sakınanlara bir kurtuluş, bahçeler, üzümler, kendileriyle bir yaşta, göğüsleri çıkmış genç kızlar ve dolu dolu kadehler vardır."
+  },
+  {
+   "verseNo": 34,
+   "source": "okuyan",
+   "text": "Dolu kadeh(ler)."
+  },
+  {
+   "verseNo": 34,
+   "source": "esed",
+   "text": "ve dolup taşan (mutluluk) kadehleri"
+  },
+  {
+   "verseNo": 35,
+   "source": "diyanet",
+   "text": "Orada ne bir boş söz işitirler, ne de bir yalan."
+  },
+  {
+   "verseNo": 35,
+   "source": "okuyan",
+   "text": "Onlar orada boş bir söz de yalan da duymayacaklar."
+  },
+  {
+   "verseNo": 35,
+   "source": "esed",
+   "text": "Orada, (cennette,) ne boş sözler ne de yalanlar duyacaklar"
+  },
+  {
+   "verseNo": 36,
+   "source": "diyanet",
+   "text": "Bunlar kendilerine; Rabbinden, göklerin ve yerin ve ikisi arasındakilerin Rabbinden, Rahmân'dan bir mükafat, yeterli bir ihsan olarak verilmiştir. Onlar, Ruh'un (Cebrail'in) ve meleklerin saf duracakları gün Allah'a hitap edemeyeceklerdir. Sadece Rahmân'ın izin vereceği ve doğru söyleyecek olan kimseler konuşabilecektir."
+  },
+  {
+   "verseNo": 36,
+   "source": "okuyan",
+   "text": "36-37 . Bunlar senin Rabbinden, yani göklerin, yerin ve ikisi arasında bulunanların Rahmân olan Rabbinden hesapsız bir bağış ve ödül olarak (verilecektir). O’nun huzurunda konuşmaya güç yetiremezler."
+  },
+  {
+   "verseNo": 36,
+   "source": "esed",
+   "text": "(Bütün bunlar,) Rabbinden bir ödül, (Kendi) hesabına göre bir armağandır"
+  },
+  {
+   "verseNo": 37,
+   "source": "diyanet",
+   "text": "Bunlar kendilerine; Rabbinden, göklerin ve yerin ve ikisi arasındakilerin Rabbinden, Rahmân'dan bir mükafat, yeterli bir ihsan olarak verilmiştir. Onlar, Ruh'un (Cebrail'in) ve meleklerin saf duracakları gün Allah'a hitap edemeyeceklerdir. Sadece Rahmân'ın izin vereceği ve doğru söyleyecek olan kimseler konuşabilecektir."
+  },
+  {
+   "verseNo": 37,
+   "source": "okuyan",
+   "text": "36-37 . Bunlar senin Rabbinden, yani göklerin, yerin ve ikisi arasında bulunanların Rahmân olan Rabbinden hesapsız bir bağış ve ödül olarak (verilecektir). O’nun huzurunda konuşmaya güç yetiremezler."
+  },
+  {
+   "verseNo": 37,
+   "source": "esed",
+   "text": "göklerin ve yerin ve ikisi arasındaki her şeyin Rabbi(nden), Rahman(dan bir ödül)! (Ve) hiç kimse O´na karşı sesini yükseltme gücüne sahip değildir"
+  },
+  {
+   "verseNo": 38,
+   "source": "diyanet",
+   "text": "Bunlar kendilerine; Rabbinden, göklerin ve yerin ve ikisi arasındakilerin Rabbinden, Rahmân'dan bir mükafat, yeterli bir ihsan olarak verilmiştir. Onlar, Ruh'un (Cebrail'in) ve meleklerin saf duracakları gün Allah'a hitap edemeyeceklerdir. Sadece Rahmân'ın izin vereceği ve doğru söyleyecek olan kimseler konuşabilecektir."
+  },
+  {
+   "verseNo": 38,
+   "source": "okuyan",
+   "text": "Ruh(lar)ın ve meleklerin sıra sıra duracakları o gün, Rahmân’ın izin verdiklerinden başkası konuşamayacaktır; (konuşan da) doğruyu söyleyecektir."
+  },
+  {
+   "verseNo": 38,
+   "source": "esed",
+   "text": "bütün (insan) ruhların(ın) ve bütün meleklerin saf saf sıralandıkları Gün: Rahman´ın izin verdikleri dışında hiç kimse konuşmayacak ve (herkes, yalnız) doğruyu söyleyecek"
+  },
+  {
+   "verseNo": 39,
+   "source": "diyanet",
+   "text": "İşte bu, hak olan gündür. Artık dileyen kimse Rabbine ulaştıran bir yol tutar."
+  },
+  {
+   "verseNo": 39,
+   "source": "okuyan",
+   "text": "İşte o gün gerçektir. Dileyen, Rabbine bir dönüş (yolu) tutar."
+  },
+  {
+   "verseNo": 39,
+   "source": "esed",
+   "text": "Bu, Nihai Hakikat Günü olacaktır. O halde, dileyen Rabbine giden yolu tutsun"
+  },
+  {
+   "verseNo": 40,
+   "source": "diyanet",
+   "text": "Şüphesiz biz sizi, kişinin önceden elleriyle yaptıklarına bakacağı ve inkarcının, \"Keşke toprak olaydım!\" diyeceği günde gerçekleşecek olan yakın bir azaba karşı uyardık."
+  },
+  {
+   "verseNo": 40,
+   "source": "okuyan",
+   "text": "Şüphesiz ki biz sizi yakın bir azap ile uyardık. O gün kişi ellerinin önceden yaptıklarına bakacak ve kâfir (olanlar) “Ah, keşke toprak olsaydım!” diyecektir."
+  },
+  {
+   "verseNo": 40,
+   "source": "esed",
+   "text": "Gerçek şu ki, Biz sizi yakındaki bir azaba karşı uyarmaktayız; insanın ilerisi için yapıp ettiklerini (açıkça) göreceği ve hakikati inkar edenin: \"Eyvah, keşke toprak olsaydım..!\" diyeceği Gün(ün azabına)"
+  }
+ ]
+}

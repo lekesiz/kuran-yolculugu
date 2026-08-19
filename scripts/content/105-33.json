@@ -1,0 +1,1470 @@
+{
+ "stationNo": 105,
+ "surahNo": 33,
+ "name": "Ahzâb",
+ "nameArabic": "",
+ "nameMeaning": "",
+ "verseCount": 73,
+ "nuzulOrderOkuyan": 105,
+ "periodDiyanet": "Medine",
+ "periodOkuyan": "Medine",
+ "revelationTiming": "Nüzul yılı konusunda kaynaklar arasında küçük bir ihtilaf vardır. TDV İslâm Ansiklopedisi surenin tamamlanmasının hicretin 9. senesine kadar sürdüğünü belirtirken, Prof. Dr. Mehmet Okuyan surenin hicrî 6. yılda indirilmiş olmasının muhtemel olduğunu ifade etmektedir.",
+ "stationTitle": "Kuşatma Altında: Dışarıdaki Düşman, İçerideki Şüphe",
+ "introduction": "Ahzâb Suresi, adını 20. ve 22. ayetlerinde geçen ve 'gruplar, hizipler, müttefikler' anlamına gelen 'el-Ahzâb' kelimesinden alır. 73 ayetten oluşan bu sure, Medine döneminde inmiştir ve Kur'an'ın 33. suresidir.\n\nSurenin ana ekseni, Müslümanların hem dışarıdan gelen askeri tehditlerle hem de içerideki münafıkların psikolojik savaş ve dedikodularıyla nasıl başa çıkmaları gerektiğidir. Mekke dönemindeki sureler genellikle inanç temellerini atarken, Ahzâb Suresi, oluşmakta olan İslam toplumunun sosyal, hukuki ve ahlaki temellerini sağlamlaştırmayı hedefler.\n\nSure, Hz. Peygamber'in örnekliğini, müminlerin zorluklar karşısındaki duruşunu, aile hayatına dair düzenlemeleri ve toplumun iç huzurunu bozmaya çalışanlara karşı alınması gereken tavırları ele alır. Ayrıca, evlatlık kurumu ve zıhâr gibi Cahiliye dönemi adetlerini kaldırarak yeni bir toplumsal düzen inşa eder.",
+ "occasionOfRevelation": "Ahzâb Suresi'nin büyük bir kısmı, Medine döneminde, hicretin 5. veya 6. yılında gerçekleşen Hendek (Ahzâb) Savaşı bağlamında inmiştir. Mekkeli müşrikler, Yahudi kabileleri ve diğer Arap kabilelerinden oluşan müttefik bir ordu, Medine'yi kuşatmış ve Müslümanları tamamen yok etmeyi hedeflemiştir.\n\nBu zorlu kuşatma sırasında, Müslümanlar sadece dışarıdaki güçlü düşman ordusuyla değil, aynı zamanda Medine içindeki münafıkların yaydığı korku, şüphe ve bozgunculukla da mücadele etmek zorunda kalmışlardır. Sure, bu kriz anında müminlerin ve münafıkların sergilediği farklı tutumları gözler önüne serer.\n\nAyrıca sure, Hz. Peygamber'in Zeyneb bint Cahş ile evliliği, evlatlık kurumuyla ilgili Cahiliye adetlerinin kaldırılması ve Peygamber'in eşlerinin (Ümmehâtü'l-Mü'minîn) toplumsal statüleri gibi özel olaylar üzerine inen ayetleri de içerir. Bu olaylar, yeni İslam toplumunun sosyal normlarının belirlenmesinde kritik bir rol oynamıştır.",
+ "occasionSources": "TDV İslâm Ansiklopedisi, \"Ahzâb Sûresi\" maddesi; Diyanet İşleri Başkanlığı Kur'an Yolu Tefsiri, Ahzâb 1-3 ayet tefsiri; kuranokuyan.com, Ahzâb suresi girişi (Prof. Dr. Mehmet Okuyan).",
+ "keyTerms": [
+  {
+   "term": "ahzâb",
+   "arabic": "الْأَحْزَاب",
+   "verseRef": "33:20",
+   "meaning": "Gruplar, hizipler, müttefikler. Ayette, Müslümanlara karşı birleşen düşman ordularını ifade eder."
+  },
+  {
+   "term": "üsve-i hasene",
+   "arabic": "أُسْوَةٌ حَسَنَةٌ",
+   "verseRef": "33:21",
+   "meaning": "En güzel örnek. Hz. Peygamber'in müminler için her alanda, özellikle de zorluklar karşısında izlenmesi gereken model olduğunu belirtir."
+  },
+  {
+   "term": "münâfık",
+   "arabic": "الْمُنَافِقِينَ",
+   "verseRef": "33:1",
+   "meaning": "İkiyüzlüler. İnanmadıkları halde inanmış gibi görünen ve kriz anlarında toplumu içeriden çökertmeye çalışan kesim."
+  },
+  {
+   "term": "tevekkül",
+   "arabic": "وَتَوَكَّلْ",
+   "verseRef": "33:3",
+   "meaning": "Allah'a güvenip dayanmak. Elinden geleni yaptıktan sonra sonucu Allah'a bırakma bilinci."
+  },
+  {
+   "term": "hâtemü'n-nebiyyîn",
+   "arabic": "خَاتَمَ النَّبِيِّينَ",
+   "verseRef": "33:40",
+   "meaning": "Peygamberlerin sonuncusu. Hz. Muhammed'in peygamberlik zincirinin son halkası olduğunu ifade eder."
+  }
+ ],
+ "themes": [
+  {
+   "label": "Kriz Anlarında Karakter Testi",
+   "body": "Zorluklar ve kuşatmalar, insanın gerçek yüzünü ortaya çıkarır. Kriz anlarında korkuya kapılıp bahaneler mi üretiyoruz, yoksa inancımıza ve değerlerimize sımsıkı mı sarılıyoruz?"
+  },
+  {
+   "label": "İçerideki Düşman: Şüphe ve Dedikodu",
+   "body": "Toplumları ve ilişkileri yıkan şey her zaman dışarıdan gelen saldırılar değildir. İçeriden yayılan şüphe, dedikodu ve güvensizlik, çoğu zaman dış düşmandan daha tehlikelidir."
+  },
+  {
+   "label": "Rol Modellerin Önemi",
+   "body": "Hayatımızı kimin adımlarına göre şekillendiriyoruz? Kriz anlarında, belirsizliklerde kime bakarak yönümüzü buluyoruz? Gerçek bir 'güzel örnek' (üsve-i hasene) bulmak, insanın yolunu aydınlatır."
+  }
+ ],
+ "questions": [
+  "Hayatımda zorluklarla karşılaştığımda, inandığım değerlerden taviz vermek için kendime hangi bahaneleri üretiyorum?",
+  "İçinde bulunduğum toplulukta veya ilişkilerimde, sorunları çözmek yerine dedikodu ve şüphe yayarak 'içerideki bozgunculardan' biri olduğum anlar var mı?"
+ ],
+ "contemporaryMeaning": "Bu sure, insanın kriz anlarında yaşadığı sadakat ve güven yarılmasına odaklanır. Dışarıdan gelen devasa bir baskı ile içeriden çürüyen psikolojik dayanıklılık arasındaki gerilimi resmeder. Asıl meselenin görünen tehditler değil, belirsizlik anlarında ortaya çıkan içsel çözülme ve söylentilerin yıkıcı gücü olduğunu gösterir. Korku büyüdüğünde, insanın kendi çıkarları uğruna nasıl kolayca saf değiştirebildiği ve toplumsal bağların nasıl hızla koptuğu, metnin işaret ettiği temel çöküş halidir.\n\nBugünün diliyle: ekonomik daralmaların veya ani işten çıkarmaların yaşandığı bir ofis ortamında, bireylerin kendi pozisyonlarını korumak için çalışma arkadaşlarını feda etmesi bu çözülmenin somut bir yansımasıdır. Sosyal medyada yayılan bir linç dalgası veya doğruluğu teyit edilmemiş bir söylenti karşısında kitlelerin nasıl hızla manipüle edildiği, surenin anlattığı o kuşatma psikolojisinin dijital versiyonudur.\n\nAlgoritmaların sürekli panik ürettiği, bilgi kirliliğinin zihinleri işgal ettiği bir düzende, insanın savrulmamak için sarsılmaz bir referans noktasına duyduğu ihtiyaç daha da belirginleşir. Kutuplaşmanın ve güvensizliğin her ilişkiyi zehirlediği anlarda, rüzgara göre yön değiştirmeyen, bedel ödemeyi göze alan şeffaf bir duruş sergilemek, surenin inşa etmeye çalıştığı o sağlam karakterin ta kendisidir.",
+ "scholarlyNotes": [
+  {
+   "kind": "ihtilaf",
+   "body": "TDV İslâm Ansiklopedisi, surenin bütünüyle tamamlanmasının hicretin 9. senesine kadar sürdüğünü belirtmektedir. Buna karşılık Prof. Dr. Mehmet Okuyan, surenin hicrî 6. yılda indirilmiş olmasının muhtemel olduğunu ifade etmektedir.",
+   "label": "Nüzul Yılı İhtilafı"
+  },
+  {
+   "kind": "rivayet",
+   "body": "Prof. Dr. Mehmet Okuyan'ın tefsirinde belirtildiği üzere, Ahzâb Suresi'nin aslında Bakara Suresi kadar uzun olduğu ve sonradan 73 ayete düştüğü şeklindeki rivayetler asılsızdır ve uydurmadır. Kur'an'ın korunmuşluğu ilkesine aykırıdır.",
+   "label": "Surenin Uzunluğu Hakkındaki Rivayetler"
+  }
+ ],
+ "verses": [
+  {
+   "verseNo": 1,
+   "textArabic": "بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ يَٰٓأَيُّهَا ٱلنَّبِىُّ ٱتَّقِ ٱللَّهَ وَلَا تُطِعِ ٱلْكَٰفِرِينَ وَٱلْمُنَٰفِقِينَ ۗ إِنَّ ٱللَّهَ كَانَ عَلِيمًا حَكِيمًۭا"
+  },
+  {
+   "verseNo": 2,
+   "textArabic": "وَٱتَّبِعْ مَا يُوحَىٰٓ إِلَيْكَ مِن رَّبِّكَ ۚ إِنَّ ٱللَّهَ كَانَ بِمَا تَعْمَلُونَ خَبِيرًۭا"
+  },
+  {
+   "verseNo": 3,
+   "textArabic": "وَتَوَكَّلْ عَلَى ٱللَّهِ ۚ وَكَفَىٰ بِٱللَّهِ وَكِيلًۭا"
+  },
+  {
+   "verseNo": 4,
+   "textArabic": "مَّا جَعَلَ ٱللَّهُ لِرَجُلٍۢ مِّن قَلْبَيْنِ فِى جَوْفِهِۦ ۚ وَمَا جَعَلَ أَزْوَٰجَكُمُ ٱلَّٰٓـِٔى تُظَٰهِرُونَ مِنْهُنَّ أُمَّهَٰتِكُمْ ۚ وَمَا جَعَلَ أَدْعِيَآءَكُمْ أَبْنَآءَكُمْ ۚ ذَٰلِكُمْ قَوْلُكُم بِأَفْوَٰهِكُمْ ۖ وَٱللَّهُ يَقُولُ ٱلْحَقَّ وَهُوَ يَهْدِى ٱلسَّبِيلَ"
+  },
+  {
+   "verseNo": 5,
+   "textArabic": "ٱدْعُوهُمْ لِءَابَآئِهِمْ هُوَ أَقْسَطُ عِندَ ٱللَّهِ ۚ فَإِن لَّمْ تَعْلَمُوٓا۟ ءَابَآءَهُمْ فَإِخْوَٰنُكُمْ فِى ٱلدِّينِ وَمَوَٰلِيكُمْ ۚ وَلَيْسَ عَلَيْكُمْ جُنَاحٌۭ فِيمَآ أَخْطَأْتُم بِهِۦ وَلَٰكِن مَّا تَعَمَّدَتْ قُلُوبُكُمْ ۚ وَكَانَ ٱللَّهُ غَفُورًۭا رَّحِيمًا"
+  },
+  {
+   "verseNo": 6,
+   "textArabic": "ٱلنَّبِىُّ أَوْلَىٰ بِٱلْمُؤْمِنِينَ مِنْ أَنفُسِهِمْ ۖ وَأَزْوَٰجُهُۥٓ أُمَّهَٰتُهُمْ ۗ وَأُو۟لُوا۟ ٱلْأَرْحَامِ بَعْضُهُمْ أَوْلَىٰ بِبَعْضٍۢ فِى كِتَٰبِ ٱللَّهِ مِنَ ٱلْمُؤْمِنِينَ وَٱلْمُهَٰجِرِينَ إِلَّآ أَن تَفْعَلُوٓا۟ إِلَىٰٓ أَوْلِيَآئِكُم مَّعْرُوفًۭا ۚ كَانَ ذَٰلِكَ فِى ٱلْكِتَٰبِ مَسْطُورًۭا"
+  },
+  {
+   "verseNo": 7,
+   "textArabic": "وَإِذْ أَخَذْنَا مِنَ ٱلنَّبِيِّۦنَ مِيثَٰقَهُمْ وَمِنكَ وَمِن نُّوحٍۢ وَإِبْرَٰهِيمَ وَمُوسَىٰ وَعِيسَى ٱبْنِ مَرْيَمَ ۖ وَأَخَذْنَا مِنْهُم مِّيثَٰقًا غَلِيظًۭا"
+  },
+  {
+   "verseNo": 8,
+   "textArabic": "لِّيَسْـَٔلَ ٱلصَّٰدِقِينَ عَن صِدْقِهِمْ ۚ وَأَعَدَّ لِلْكَٰفِرِينَ عَذَابًا أَلِيمًۭا"
+  },
+  {
+   "verseNo": 9,
+   "textArabic": "يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ ٱذْكُرُوا۟ نِعْمَةَ ٱللَّهِ عَلَيْكُمْ إِذْ جَآءَتْكُمْ جُنُودٌۭ فَأَرْسَلْنَا عَلَيْهِمْ رِيحًۭا وَجُنُودًۭا لَّمْ تَرَوْهَا ۚ وَكَانَ ٱللَّهُ بِمَا تَعْمَلُونَ بَصِيرًا"
+  },
+  {
+   "verseNo": 10,
+   "textArabic": "إِذْ جَآءُوكُم مِّن فَوْقِكُمْ وَمِنْ أَسْفَلَ مِنكُمْ وَإِذْ زَاغَتِ ٱلْأَبْصَٰرُ وَبَلَغَتِ ٱلْقُلُوبُ ٱلْحَنَاجِرَ وَتَظُنُّونَ بِٱللَّهِ ٱلظُّنُونَا۠"
+  },
+  {
+   "verseNo": 11,
+   "textArabic": "هُنَالِكَ ٱبْتُلِىَ ٱلْمُؤْمِنُونَ وَزُلْزِلُوا۟ زِلْزَالًۭا شَدِيدًۭا"
+  },
+  {
+   "verseNo": 12,
+   "textArabic": "وَإِذْ يَقُولُ ٱلْمُنَٰفِقُونَ وَٱلَّذِينَ فِى قُلُوبِهِم مَّرَضٌۭ مَّا وَعَدَنَا ٱللَّهُ وَرَسُولُهُۥٓ إِلَّا غُرُورًۭا"
+  },
+  {
+   "verseNo": 13,
+   "textArabic": "وَإِذْ قَالَت طَّآئِفَةٌۭ مِّنْهُمْ يَٰٓأَهْلَ يَثْرِبَ لَا مُقَامَ لَكُمْ فَٱرْجِعُوا۟ ۚ وَيَسْتَـْٔذِنُ فَرِيقٌۭ مِّنْهُمُ ٱلنَّبِىَّ يَقُولُونَ إِنَّ بُيُوتَنَا عَوْرَةٌۭ وَمَا هِىَ بِعَوْرَةٍ ۖ إِن يُرِيدُونَ إِلَّا فِرَارًۭا"
+  },
+  {
+   "verseNo": 14,
+   "textArabic": "وَلَوْ دُخِلَتْ عَلَيْهِم مِّنْ أَقْطَارِهَا ثُمَّ سُئِلُوا۟ ٱلْفِتْنَةَ لَءَاتَوْهَا وَمَا تَلَبَّثُوا۟ بِهَآ إِلَّا يَسِيرًۭا"
+  },
+  {
+   "verseNo": 15,
+   "textArabic": "وَلَقَدْ كَانُوا۟ عَٰهَدُوا۟ ٱللَّهَ مِن قَبْلُ لَا يُوَلُّونَ ٱلْأَدْبَٰرَ ۚ وَكَانَ عَهْدُ ٱللَّهِ مَسْـُٔولًۭا"
+  },
+  {
+   "verseNo": 16,
+   "textArabic": "قُل لَّن يَنفَعَكُمُ ٱلْفِرَارُ إِن فَرَرْتُم مِّنَ ٱلْمَوْتِ أَوِ ٱلْقَتْلِ وَإِذًۭا لَّا تُمَتَّعُونَ إِلَّا قَلِيلًۭا"
+  },
+  {
+   "verseNo": 17,
+   "textArabic": "قُلْ مَن ذَا ٱلَّذِى يَعْصِمُكُم مِّنَ ٱللَّهِ إِنْ أَرَادَ بِكُمْ سُوٓءًا أَوْ أَرَادَ بِكُمْ رَحْمَةًۭ ۚ وَلَا يَجِدُونَ لَهُم مِّن دُونِ ٱللَّهِ وَلِيًّۭا وَلَا نَصِيرًۭا"
+  },
+  {
+   "verseNo": 18,
+   "textArabic": "۞ قَدْ يَعْلَمُ ٱللَّهُ ٱلْمُعَوِّقِينَ مِنكُمْ وَٱلْقَآئِلِينَ لِإِخْوَٰنِهِمْ هَلُمَّ إِلَيْنَا ۖ وَلَا يَأْتُونَ ٱلْبَأْسَ إِلَّا قَلِيلًا"
+  },
+  {
+   "verseNo": 19,
+   "textArabic": "أَشِحَّةً عَلَيْكُمْ ۖ فَإِذَا جَآءَ ٱلْخَوْفُ رَأَيْتَهُمْ يَنظُرُونَ إِلَيْكَ تَدُورُ أَعْيُنُهُمْ كَٱلَّذِى يُغْشَىٰ عَلَيْهِ مِنَ ٱلْمَوْتِ ۖ فَإِذَا ذَهَبَ ٱلْخَوْفُ سَلَقُوكُم بِأَلْسِنَةٍ حِدَادٍ أَشِحَّةً عَلَى ٱلْخَيْرِ ۚ أُو۟لَٰٓئِكَ لَمْ يُؤْمِنُوا۟ فَأَحْبَطَ ٱللَّهُ أَعْمَٰلَهُمْ ۚ وَكَانَ ذَٰلِكَ عَلَى ٱللَّهِ يَسِيرًۭا"
+  },
+  {
+   "verseNo": 20,
+   "textArabic": "يَحْسَبُونَ ٱلْأَحْزَابَ لَمْ يَذْهَبُوا۟ ۖ وَإِن يَأْتِ ٱلْأَحْزَابُ يَوَدُّوا۟ لَوْ أَنَّهُم بَادُونَ فِى ٱلْأَعْرَابِ يَسْـَٔلُونَ عَنْ أَنۢبَآئِكُمْ ۖ وَلَوْ كَانُوا۟ فِيكُم مَّا قَٰتَلُوٓا۟ إِلَّا قَلِيلًۭا"
+  },
+  {
+   "verseNo": 21,
+   "textArabic": "لَّقَدْ كَانَ لَكُمْ فِى رَسُولِ ٱللَّهِ أُسْوَةٌ حَسَنَةٌۭ لِّمَن كَانَ يَرْجُوا۟ ٱللَّهَ وَٱلْيَوْمَ ٱلْءَاخِرَ وَذَكَرَ ٱللَّهَ كَثِيرًۭا"
+  },
+  {
+   "verseNo": 22,
+   "textArabic": "وَلَمَّا رَءَا ٱلْمُؤْمِنُونَ ٱلْأَحْزَابَ قَالُوا۟ هَٰذَا مَا وَعَدَنَا ٱللَّهُ وَرَسُولُهُۥ وَصَدَقَ ٱللَّهُ وَرَسُولُهُۥ ۚ وَمَا زَادَهُمْ إِلَّآ إِيمَٰنًۭا وَتَسْلِيمًۭا"
+  },
+  {
+   "verseNo": 23,
+   "textArabic": "مِّنَ ٱلْمُؤْمِنِينَ رِجَالٌۭ صَدَقُوا۟ مَا عَٰهَدُوا۟ ٱللَّهَ عَلَيْهِ ۖ فَمِنْهُم مَّن قَضَىٰ نَحْبَهُۥ وَمِنْهُم مَّن يَنتَظِرُ ۖ وَمَا بَدَّلُوا۟ تَبْدِيلًۭا"
+  },
+  {
+   "verseNo": 24,
+   "textArabic": "لِّيَجْزِىَ ٱللَّهُ ٱلصَّٰدِقِينَ بِصِدْقِهِمْ وَيُعَذِّبَ ٱلْمُنَٰفِقِينَ إِن شَآءَ أَوْ يَتُوبَ عَلَيْهِمْ ۚ إِنَّ ٱللَّهَ كَانَ غَفُورًۭا رَّحِيمًۭا"
+  },
+  {
+   "verseNo": 25,
+   "textArabic": "وَرَدَّ ٱللَّهُ ٱلَّذِينَ كَفَرُوا۟ بِغَيْظِهِمْ لَمْ يَنَالُوا۟ خَيْرًۭا ۚ وَكَفَى ٱللَّهُ ٱلْمُؤْمِنِينَ ٱلْقِتَالَ ۚ وَكَانَ ٱللَّهُ قَوِيًّا عَزِيزًۭا"
+  },
+  {
+   "verseNo": 26,
+   "textArabic": "وَأَنزَلَ ٱلَّذِينَ ظَٰهَرُوهُم مِّنْ أَهْلِ ٱلْكِتَٰبِ مِن صَيَاصِيهِمْ وَقَذَفَ فِى قُلُوبِهِمُ ٱلرُّعْبَ فَرِيقًۭا تَقْتُلُونَ وَتَأْسِرُونَ فَرِيقًۭا"
+  },
+  {
+   "verseNo": 27,
+   "textArabic": "وَأَوْرَثَكُمْ أَرْضَهُمْ وَدِيَٰرَهُمْ وَأَمْوَٰلَهُمْ وَأَرْضًۭا لَّمْ تَطَـُٔوهَا ۚ وَكَانَ ٱللَّهُ عَلَىٰ كُلِّ شَىْءٍۢ قَدِيرًۭا"
+  },
+  {
+   "verseNo": 28,
+   "textArabic": "يَٰٓأَيُّهَا ٱلنَّبِىُّ قُل لِّأَزْوَٰجِكَ إِن كُنتُنَّ تُرِدْنَ ٱلْحَيَوٰةَ ٱلدُّنْيَا وَزِينَتَهَا فَتَعَالَيْنَ أُمَتِّعْكُنَّ وَأُسَرِّحْكُنَّ سَرَاحًۭا جَمِيلًۭا"
+  },
+  {
+   "verseNo": 29,
+   "textArabic": "وَإِن كُنتُنَّ تُرِدْنَ ٱللَّهَ وَرَسُولَهُۥ وَٱلدَّارَ ٱلْءَاخِرَةَ فَإِنَّ ٱللَّهَ أَعَدَّ لِلْمُحْسِنَٰتِ مِنكُنَّ أَجْرًا عَظِيمًۭا"
+  },
+  {
+   "verseNo": 30,
+   "textArabic": "يَٰنِسَآءَ ٱلنَّبِىِّ مَن يَأْتِ مِنكُنَّ بِفَٰحِشَةٍۢ مُّبَيِّنَةٍۢ يُضَٰعَفْ لَهَا ٱلْعَذَابُ ضِعْفَيْنِ ۚ وَكَانَ ذَٰلِكَ عَلَى ٱللَّهِ يَسِيرًۭا"
+  },
+  {
+   "verseNo": 31,
+   "textArabic": "۞ وَمَن يَقْنُتْ مِنكُنَّ لِلَّهِ وَرَسُولِهِۦ وَتَعْمَلْ صَٰلِحًۭا نُّؤْتِهَآ أَجْرَهَا مَرَّتَيْنِ وَأَعْتَدْنَا لَهَا رِزْقًۭا كَرِيمًۭا"
+  },
+  {
+   "verseNo": 32,
+   "textArabic": "يَٰنِسَآءَ ٱلنَّبِىِّ لَسْتُنَّ كَأَحَدٍۢ مِّنَ ٱلنِّسَآءِ ۚ إِنِ ٱتَّقَيْتُنَّ فَلَا تَخْضَعْنَ بِٱلْقَوْلِ فَيَطْمَعَ ٱلَّذِى فِى قَلْبِهِۦ مَرَضٌۭ وَقُلْنَ قَوْلًۭا مَّعْرُوفًۭا"
+  },
+  {
+   "verseNo": 33,
+   "textArabic": "وَقَرْنَ فِى بُيُوتِكُنَّ وَلَا تَبَرَّجْنَ تَبَرُّجَ ٱلْجَٰهِلِيَّةِ ٱلْأُولَىٰ ۖ وَأَقِمْنَ ٱلصَّلَوٰةَ وَءَاتِينَ ٱلزَّكَوٰةَ وَأَطِعْنَ ٱللَّهَ وَرَسُولَهُۥٓ ۚ إِنَّمَا يُرِيدُ ٱللَّهُ لِيُذْهِبَ عَنكُمُ ٱلرِّجْسَ أَهْلَ ٱلْبَيْتِ وَيُطَهِّرَكُمْ تَطْهِيرًۭا"
+  },
+  {
+   "verseNo": 34,
+   "textArabic": "وَٱذْكُرْنَ مَا يُتْلَىٰ فِى بُيُوتِكُنَّ مِنْ ءَايَٰتِ ٱللَّهِ وَٱلْحِكْمَةِ ۚ إِنَّ ٱللَّهَ كَانَ لَطِيفًا خَبِيرًا"
+  },
+  {
+   "verseNo": 35,
+   "textArabic": "إِنَّ ٱلْمُسْلِمِينَ وَٱلْمُسْلِمَٰتِ وَٱلْمُؤْمِنِينَ وَٱلْمُؤْمِنَٰتِ وَٱلْقَٰنِتِينَ وَٱلْقَٰنِتَٰتِ وَٱلصَّٰدِقِينَ وَٱلصَّٰدِقَٰتِ وَٱلصَّٰبِرِينَ وَٱلصَّٰبِرَٰتِ وَٱلْخَٰشِعِينَ وَٱلْخَٰشِعَٰتِ وَٱلْمُتَصَدِّقِينَ وَٱلْمُتَصَدِّقَٰتِ وَٱلصَّٰٓئِمِينَ وَٱلصَّٰٓئِمَٰتِ وَٱلْحَٰفِظِينَ فُرُوجَهُمْ وَٱلْحَٰفِظَٰتِ وَٱلذَّٰكِرِينَ ٱللَّهَ كَثِيرًۭا وَٱلذَّٰكِرَٰتِ أَعَدَّ ٱللَّهُ لَهُم مَّغْفِرَةًۭ وَأَجْرًا عَظِيمًۭا"
+  },
+  {
+   "verseNo": 36,
+   "textArabic": "وَمَا كَانَ لِمُؤْمِنٍۢ وَلَا مُؤْمِنَةٍ إِذَا قَضَى ٱللَّهُ وَرَسُولُهُۥٓ أَمْرًا أَن يَكُونَ لَهُمُ ٱلْخِيَرَةُ مِنْ أَمْرِهِمْ ۗ وَمَن يَعْصِ ٱللَّهَ وَرَسُولَهُۥ فَقَدْ ضَلَّ ضَلَٰلًۭا مُّبِينًۭا"
+  },
+  {
+   "verseNo": 37,
+   "textArabic": "وَإِذْ تَقُولُ لِلَّذِىٓ أَنْعَمَ ٱللَّهُ عَلَيْهِ وَأَنْعَمْتَ عَلَيْهِ أَمْسِكْ عَلَيْكَ زَوْجَكَ وَٱتَّقِ ٱللَّهَ وَتُخْفِى فِى نَفْسِكَ مَا ٱللَّهُ مُبْدِيهِ وَتَخْشَى ٱلنَّاسَ وَٱللَّهُ أَحَقُّ أَن تَخْشَىٰهُ ۖ فَلَمَّا قَضَىٰ زَيْدٌۭ مِّنْهَا وَطَرًۭا زَوَّجْنَٰكَهَا لِكَىْ لَا يَكُونَ عَلَى ٱلْمُؤْمِنِينَ حَرَجٌۭ فِىٓ أَزْوَٰجِ أَدْعِيَآئِهِمْ إِذَا قَضَوْا۟ مِنْهُنَّ وَطَرًۭا ۚ وَكَانَ أَمْرُ ٱللَّهِ مَفْعُولًۭا"
+  },
+  {
+   "verseNo": 38,
+   "textArabic": "مَّا كَانَ عَلَى ٱلنَّبِىِّ مِنْ حَرَجٍۢ فِيمَا فَرَضَ ٱللَّهُ لَهُۥ ۖ سُنَّةَ ٱللَّهِ فِى ٱلَّذِينَ خَلَوْا۟ مِن قَبْلُ ۚ وَكَانَ أَمْرُ ٱللَّهِ قَدَرًۭا مَّقْدُورًا"
+  },
+  {
+   "verseNo": 39,
+   "textArabic": "ٱلَّذِينَ يُبَلِّغُونَ رِسَٰلَٰتِ ٱللَّهِ وَيَخْشَوْنَهُۥ وَلَا يَخْشَوْنَ أَحَدًا إِلَّا ٱللَّهَ ۗ وَكَفَىٰ بِٱللَّهِ حَسِيبًۭا"
+  },
+  {
+   "verseNo": 40,
+   "textArabic": "مَّا كَانَ مُحَمَّدٌ أَبَآ أَحَدٍۢ مِّن رِّجَالِكُمْ وَلَٰكِن رَّسُولَ ٱللَّهِ وَخَاتَمَ ٱلنَّبِيِّۦنَ ۗ وَكَانَ ٱللَّهُ بِكُلِّ شَىْءٍ عَلِيمًۭا"
+  },
+  {
+   "verseNo": 41,
+   "textArabic": "يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ ٱذْكُرُوا۟ ٱللَّهَ ذِكْرًۭا كَثِيرًۭا"
+  },
+  {
+   "verseNo": 42,
+   "textArabic": "وَسَبِّحُوهُ بُكْرَةًۭ وَأَصِيلًا"
+  },
+  {
+   "verseNo": 43,
+   "textArabic": "هُوَ ٱلَّذِى يُصَلِّى عَلَيْكُمْ وَمَلَٰٓئِكَتُهُۥ لِيُخْرِجَكُم مِّنَ ٱلظُّلُمَٰتِ إِلَى ٱلنُّورِ ۚ وَكَانَ بِٱلْمُؤْمِنِينَ رَحِيمًۭا"
+  },
+  {
+   "verseNo": 44,
+   "textArabic": "تَحِيَّتُهُمْ يَوْمَ يَلْقَوْنَهُۥ سَلَٰمٌۭ ۚ وَأَعَدَّ لَهُمْ أَجْرًۭا كَرِيمًۭا"
+  },
+  {
+   "verseNo": 45,
+   "textArabic": "يَٰٓأَيُّهَا ٱلنَّبِىُّ إِنَّآ أَرْسَلْنَٰكَ شَٰهِدًۭا وَمُبَشِّرًۭا وَنَذِيرًۭا"
+  },
+  {
+   "verseNo": 46,
+   "textArabic": "وَدَاعِيًا إِلَى ٱللَّهِ بِإِذْنِهِۦ وَسِرَاجًۭا مُّنِيرًۭا"
+  },
+  {
+   "verseNo": 47,
+   "textArabic": "وَبَشِّرِ ٱلْمُؤْمِنِينَ بِأَنَّ لَهُم مِّنَ ٱللَّهِ فَضْلًۭا كَبِيرًۭا"
+  },
+  {
+   "verseNo": 48,
+   "textArabic": "وَلَا تُطِعِ ٱلْكَٰفِرِينَ وَٱلْمُنَٰفِقِينَ وَدَعْ أَذَىٰهُمْ وَتَوَكَّلْ عَلَى ٱللَّهِ ۚ وَكَفَىٰ بِٱللَّهِ وَكِيلًۭا"
+  },
+  {
+   "verseNo": 49,
+   "textArabic": "يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوٓا۟ إِذَا نَكَحْتُمُ ٱلْمُؤْمِنَٰتِ ثُمَّ طَلَّقْتُمُوهُنَّ مِن قَبْلِ أَن تَمَسُّوهُنَّ فَمَا لَكُمْ عَلَيْهِنَّ مِنْ عِدَّةٍۢ تَعْتَدُّونَهَا ۖ فَمَتِّعُوهُنَّ وَسَرِّحُوهُنَّ سَرَاحًۭا جَمِيلًۭا"
+  },
+  {
+   "verseNo": 50,
+   "textArabic": "يَٰٓأَيُّهَا ٱلنَّبِىُّ إِنَّآ أَحْلَلْنَا لَكَ أَزْوَٰجَكَ ٱلَّٰتِىٓ ءَاتَيْتَ أُجُورَهُنَّ وَمَا مَلَكَتْ يَمِينُكَ مِمَّآ أَفَآءَ ٱللَّهُ عَلَيْكَ وَبَنَاتِ عَمِّكَ وَبَنَاتِ عَمَّٰتِكَ وَبَنَاتِ خَالِكَ وَبَنَاتِ خَٰلَٰتِكَ ٱلَّٰتِى هَاجَرْنَ مَعَكَ وَٱمْرَأَةًۭ مُّؤْمِنَةً إِن وَهَبَتْ نَفْسَهَا لِلنَّبِىِّ إِنْ أَرَادَ ٱلنَّبِىُّ أَن يَسْتَنكِحَهَا خَالِصَةًۭ لَّكَ مِن دُونِ ٱلْمُؤْمِنِينَ ۗ قَدْ عَلِمْنَا مَا فَرَضْنَا عَلَيْهِمْ فِىٓ أَزْوَٰجِهِمْ وَمَا مَلَكَتْ أَيْمَٰنُهُمْ لِكَيْلَا يَكُونَ عَلَيْكَ حَرَجٌۭ ۗ وَكَانَ ٱللَّهُ غَفُورًۭا رَّحِيمًۭا"
+  },
+  {
+   "verseNo": 51,
+   "textArabic": "۞ تُرْجِى مَن تَشَآءُ مِنْهُنَّ وَتُـْٔوِىٓ إِلَيْكَ مَن تَشَآءُ ۖ وَمَنِ ٱبْتَغَيْتَ مِمَّنْ عَزَلْتَ فَلَا جُنَاحَ عَلَيْكَ ۚ ذَٰلِكَ أَدْنَىٰٓ أَن تَقَرَّ أَعْيُنُهُنَّ وَلَا يَحْزَنَّ وَيَرْضَيْنَ بِمَآ ءَاتَيْتَهُنَّ كُلُّهُنَّ ۚ وَٱللَّهُ يَعْلَمُ مَا فِى قُلُوبِكُمْ ۚ وَكَانَ ٱللَّهُ عَلِيمًا حَلِيمًۭا"
+  },
+  {
+   "verseNo": 52,
+   "textArabic": "لَّا يَحِلُّ لَكَ ٱلنِّسَآءُ مِنۢ بَعْدُ وَلَآ أَن تَبَدَّلَ بِهِنَّ مِنْ أَزْوَٰجٍۢ وَلَوْ أَعْجَبَكَ حُسْنُهُنَّ إِلَّا مَا مَلَكَتْ يَمِينُكَ ۗ وَكَانَ ٱللَّهُ عَلَىٰ كُلِّ شَىْءٍۢ رَّقِيبًۭا"
+  },
+  {
+   "verseNo": 53,
+   "textArabic": "يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ لَا تَدْخُلُوا۟ بُيُوتَ ٱلنَّبِىِّ إِلَّآ أَن يُؤْذَنَ لَكُمْ إِلَىٰ طَعَامٍ غَيْرَ نَٰظِرِينَ إِنَىٰهُ وَلَٰكِنْ إِذَا دُعِيتُمْ فَٱدْخُلُوا۟ فَإِذَا طَعِمْتُمْ فَٱنتَشِرُوا۟ وَلَا مُسْتَـْٔنِسِينَ لِحَدِيثٍ ۚ إِنَّ ذَٰلِكُمْ كَانَ يُؤْذِى ٱلنَّبِىَّ فَيَسْتَحْىِۦ مِنكُمْ ۖ وَٱللَّهُ لَا يَسْتَحْىِۦ مِنَ ٱلْحَقِّ ۚ وَإِذَا سَأَلْتُمُوهُنَّ مَتَٰعًۭا فَسْـَٔلُوهُنَّ مِن وَرَآءِ حِجَابٍۢ ۚ ذَٰلِكُمْ أَطْهَرُ لِقُلُوبِكُمْ وَقُلُوبِهِنَّ ۚ وَمَا كَانَ لَكُمْ أَن تُؤْذُوا۟ رَسُولَ ٱللَّهِ وَلَآ أَن تَنكِحُوٓا۟ أَزْوَٰجَهُۥ مِنۢ بَعْدِهِۦٓ أَبَدًا ۚ إِنَّ ذَٰلِكُمْ كَانَ عِندَ ٱللَّهِ عَظِيمًا"
+  },
+  {
+   "verseNo": 54,
+   "textArabic": "إِن تُبْدُوا۟ شَيْـًٔا أَوْ تُخْفُوهُ فَإِنَّ ٱللَّهَ كَانَ بِكُلِّ شَىْءٍ عَلِيمًۭا"
+  },
+  {
+   "verseNo": 55,
+   "textArabic": "لَّا جُنَاحَ عَلَيْهِنَّ فِىٓ ءَابَآئِهِنَّ وَلَآ أَبْنَآئِهِنَّ وَلَآ إِخْوَٰنِهِنَّ وَلَآ أَبْنَآءِ إِخْوَٰنِهِنَّ وَلَآ أَبْنَآءِ أَخَوَٰتِهِنَّ وَلَا نِسَآئِهِنَّ وَلَا مَا مَلَكَتْ أَيْمَٰنُهُنَّ ۗ وَٱتَّقِينَ ٱللَّهَ ۚ إِنَّ ٱللَّهَ كَانَ عَلَىٰ كُلِّ شَىْءٍۢ شَهِيدًا"
+  },
+  {
+   "verseNo": 56,
+   "textArabic": "إِنَّ ٱللَّهَ وَمَلَٰٓئِكَتَهُۥ يُصَلُّونَ عَلَى ٱلنَّبِىِّ ۚ يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ صَلُّوا۟ عَلَيْهِ وَسَلِّمُوا۟ تَسْلِيمًا"
+  },
+  {
+   "verseNo": 57,
+   "textArabic": "إِنَّ ٱلَّذِينَ يُؤْذُونَ ٱللَّهَ وَرَسُولَهُۥ لَعَنَهُمُ ٱللَّهُ فِى ٱلدُّنْيَا وَٱلْءَاخِرَةِ وَأَعَدَّ لَهُمْ عَذَابًۭا مُّهِينًۭا"
+  },
+  {
+   "verseNo": 58,
+   "textArabic": "وَٱلَّذِينَ يُؤْذُونَ ٱلْمُؤْمِنِينَ وَٱلْمُؤْمِنَٰتِ بِغَيْرِ مَا ٱكْتَسَبُوا۟ فَقَدِ ٱحْتَمَلُوا۟ بُهْتَٰنًۭا وَإِثْمًۭا مُّبِينًۭا"
+  },
+  {
+   "verseNo": 59,
+   "textArabic": "يَٰٓأَيُّهَا ٱلنَّبِىُّ قُل لِّأَزْوَٰجِكَ وَبَنَاتِكَ وَنِسَآءِ ٱلْمُؤْمِنِينَ يُدْنِينَ عَلَيْهِنَّ مِن جَلَٰبِيبِهِنَّ ۚ ذَٰلِكَ أَدْنَىٰٓ أَن يُعْرَفْنَ فَلَا يُؤْذَيْنَ ۗ وَكَانَ ٱللَّهُ غَفُورًۭا رَّحِيمًۭا"
+  },
+  {
+   "verseNo": 60,
+   "textArabic": "۞ لَّئِن لَّمْ يَنتَهِ ٱلْمُنَٰفِقُونَ وَٱلَّذِينَ فِى قُلُوبِهِم مَّرَضٌۭ وَٱلْمُرْجِفُونَ فِى ٱلْمَدِينَةِ لَنُغْرِيَنَّكَ بِهِمْ ثُمَّ لَا يُجَاوِرُونَكَ فِيهَآ إِلَّا قَلِيلًۭا"
+  },
+  {
+   "verseNo": 61,
+   "textArabic": "مَّلْعُونِينَ ۖ أَيْنَمَا ثُقِفُوٓا۟ أُخِذُوا۟ وَقُتِّلُوا۟ تَقْتِيلًۭا"
+  },
+  {
+   "verseNo": 62,
+   "textArabic": "سُنَّةَ ٱللَّهِ فِى ٱلَّذِينَ خَلَوْا۟ مِن قَبْلُ ۖ وَلَن تَجِدَ لِسُنَّةِ ٱللَّهِ تَبْدِيلًۭا"
+  },
+  {
+   "verseNo": 63,
+   "textArabic": "يَسْـَٔلُكَ ٱلنَّاسُ عَنِ ٱلسَّاعَةِ ۖ قُلْ إِنَّمَا عِلْمُهَا عِندَ ٱللَّهِ ۚ وَمَا يُدْرِيكَ لَعَلَّ ٱلسَّاعَةَ تَكُونُ قَرِيبًا"
+  },
+  {
+   "verseNo": 64,
+   "textArabic": "إِنَّ ٱللَّهَ لَعَنَ ٱلْكَٰفِرِينَ وَأَعَدَّ لَهُمْ سَعِيرًا"
+  },
+  {
+   "verseNo": 65,
+   "textArabic": "خَٰلِدِينَ فِيهَآ أَبَدًۭا ۖ لَّا يَجِدُونَ وَلِيًّۭا وَلَا نَصِيرًۭا"
+  },
+  {
+   "verseNo": 66,
+   "textArabic": "يَوْمَ تُقَلَّبُ وُجُوهُهُمْ فِى ٱلنَّارِ يَقُولُونَ يَٰلَيْتَنَآ أَطَعْنَا ٱللَّهَ وَأَطَعْنَا ٱلرَّسُولَا۠"
+  },
+  {
+   "verseNo": 67,
+   "textArabic": "وَقَالُوا۟ رَبَّنَآ إِنَّآ أَطَعْنَا سَادَتَنَا وَكُبَرَآءَنَا فَأَضَلُّونَا ٱلسَّبِيلَا۠"
+  },
+  {
+   "verseNo": 68,
+   "textArabic": "رَبَّنَآ ءَاتِهِمْ ضِعْفَيْنِ مِنَ ٱلْعَذَابِ وَٱلْعَنْهُمْ لَعْنًۭا كَبِيرًۭا"
+  },
+  {
+   "verseNo": 69,
+   "textArabic": "يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ لَا تَكُونُوا۟ كَٱلَّذِينَ ءَاذَوْا۟ مُوسَىٰ فَبَرَّأَهُ ٱللَّهُ مِمَّا قَالُوا۟ ۚ وَكَانَ عِندَ ٱللَّهِ وَجِيهًۭا"
+  },
+  {
+   "verseNo": 70,
+   "textArabic": "يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ ٱتَّقُوا۟ ٱللَّهَ وَقُولُوا۟ قَوْلًۭا سَدِيدًۭا"
+  },
+  {
+   "verseNo": 71,
+   "textArabic": "يُصْلِحْ لَكُمْ أَعْمَٰلَكُمْ وَيَغْفِرْ لَكُمْ ذُنُوبَكُمْ ۗ وَمَن يُطِعِ ٱللَّهَ وَرَسُولَهُۥ فَقَدْ فَازَ فَوْزًا عَظِيمًا"
+  },
+  {
+   "verseNo": 72,
+   "textArabic": "إِنَّا عَرَضْنَا ٱلْأَمَانَةَ عَلَى ٱلسَّمَٰوَٰتِ وَٱلْأَرْضِ وَٱلْجِبَالِ فَأَبَيْنَ أَن يَحْمِلْنَهَا وَأَشْفَقْنَ مِنْهَا وَحَمَلَهَا ٱلْإِنسَٰنُ ۖ إِنَّهُۥ كَانَ ظَلُومًۭا جَهُولًۭا"
+  },
+  {
+   "verseNo": 73,
+   "textArabic": "لِّيُعَذِّبَ ٱللَّهُ ٱلْمُنَٰفِقِينَ وَٱلْمُنَٰفِقَٰتِ وَٱلْمُشْرِكِينَ وَٱلْمُشْرِكَٰتِ وَيَتُوبَ ٱللَّهُ عَلَى ٱلْمُؤْمِنِينَ وَٱلْمُؤْمِنَٰتِ ۗ وَكَانَ ٱللَّهُ غَفُورًۭا رَّحِيمًۢا"
+  }
+ ],
+ "translations": [
+  {
+   "verseNo": 1,
+   "source": "diyanet",
+   "text": "Ey Peygamber! Allah'a karşı gelmekten sakın. Kâfirlere ve münafıklara itaat etme. Şüphesiz Allah hakkıyla bilendir, hüküm ve hikmet sahibidir."
+  },
+  {
+   "verseNo": 1,
+   "source": "okuyan",
+   "text": "Ey Peygamber! Allah’a karşı takvâlı (duyarlı) ol; kâfirlere ve münafıklara itaat etme! Şüphesiz ki Allah bilendir, doğru hüküm verendir."
+  },
+  {
+   "verseNo": 1,
+   "source": "esed",
+   "text": "Ey Peygamber! Allah´a karşı sorumluluğunun bilincinde ol; hakikati inkar edenlerin ve ikiyüzlülerin söylediklerine uyma! Şüphesiz Allah her şeyi tam bilendir, hikmet sahibidir"
+  },
+  {
+   "verseNo": 2,
+   "source": "diyanet",
+   "text": "Rabbinden sana vahyolunana uy. Şüphesiz Allah yaptıklarınızdan hakkıyla haberdardır."
+  },
+  {
+   "verseNo": 2,
+   "source": "okuyan",
+   "text": "Rabbinden sana vahyedilene uy! Şüphesiz ki Allah yaptıklarınızdan haberdardır."
+  },
+  {
+   "verseNo": 2,
+   "source": "esed",
+   "text": "(Yalnız) Rabbinden sana vahiy yoluyla gelene uy, çünkü (ey insanlar,) Allah yaptığınız her şeyden tam haberdardır"
+  },
+  {
+   "verseNo": 3,
+   "source": "diyanet",
+   "text": "Allah'a tevekkül et, vekil olarak Allah yeter."
+  },
+  {
+   "verseNo": 3,
+   "source": "okuyan",
+   "text": "Allah’a güven! Vekil (güven kaynağı) olarak Allah yeter."
+  },
+  {
+   "verseNo": 3,
+   "source": "esed",
+   "text": "(Sadece) Allah´a güvenin, hiç kimse Allah kadar güvene layık olamaz"
+  },
+  {
+   "verseNo": 4,
+   "source": "diyanet",
+   "text": "Allah, hiçbir adamın içine iki kalp koymamıştır. Kendilerine zıhâr yaptığınız eşlerinizi de anneleriniz yapmamıştır. Yine evlatlıklarınızı da öz çocuklarınız (gibi) kılmamıştır. Bu sizin ağızlarınızla söylediğiniz (fakat gerçekliği olmayan) sözünüzdür. Allah ise gerçeği söyler ve doğru yola iletir."
+  },
+  {
+   "verseNo": 4,
+   "source": "okuyan",
+   "text": "Allah hiçbir erkeğin (insanın) göğsünde iki kalp yaratmamıştır. Zıharyaptığınız eşlerinizi anneleriniz kılmamış ve evlatlıklarınızı (bakımını üstlendiğiniz çocukları) da öz çocuklarınız yapmamıştır. Bunlar sizin ağızlarınızdaki (boş) sözlerden ibarettir. Allah ise gerçeği söyler ve (doğru) yola O ulaştırır."
+  },
+  {
+   "verseNo": 4,
+   "source": "esed",
+   "text": "Allah hiç kimseye tek bedende iki kalp vermemiştir ve (aynı şekilde,) \"kendiniz için annelerinizin bedeni kadar haram\" saydığınız eşlerinizi hiçbir zaman sizin (gerçek) anneleriniz kılmamış ve evlatlıklarınızı da (gerçek) çocuklarınız saymamıştır, bunlar ağzınıza doladığınız boş laflar(ın işaretlerin)den başka bir şey değildir; halbuki Allah (mutlak) doğruyu söyler ve (size) doğru yolu ancak O gösterir"
+  },
+  {
+   "verseNo": 5,
+   "source": "diyanet",
+   "text": "Onları babalarına nispet ederek çağırın. Bu Allah katında daha (doğru ve) adaletlidir. Eğer babalarını bilmiyorsanız, onlar sizin din kardeşleriniz ve dostlarınızdır. Hata ile yaptığınız bir işte size hiçbir günah yoktur. Fakat kasten yaptığınız şeylerde size günah vardır. Allah çok bağışlayandır, çok merhamet edendir."
+  },
+  {
+   "verseNo": 5,
+   "source": "okuyan",
+   "text": "Onları (evlatlıkları/bakımını üstlendiğiniz çocukları kendi) babaları(nın adıyla) çağırın! Allah katında en doğrusu budur. Babalarını bilmiyorsanız, (bu takdirde) onlar, sizin din kardeşlerinizdir ve sizin dostlarınızdır. Yanlışlıkla yaptıklarınızda size vebal yoktur fakat kalplerinizin kast ettiği(nde vebal vardır). Allah çok bağışlayandır, çok merhametlidir."
+  },
+  {
+   "verseNo": 5,
+   "source": "esed",
+   "text": "(Evlatlık aldığınız çocuklara gelince,) onları (gerçek) babalarının isimleri ile çağırın! Bu, Allah nezdinde daha adaletli (bir davranış)tır; eğer babalarının kim olduğunu bilmiyorsanız, onları din kardeşleriniz ve arkadaşlarınız (olarak görün). Ama bu konuda yanılırsanız bir günah işlemiş olmazsınız, (asıl önemli olan) kalplerinizden geçendir, çünkü Allah gerçekten çok bağışlayıcıdır, rahmet kaynağıdır"
+  },
+  {
+   "verseNo": 6,
+   "source": "diyanet",
+   "text": "Peygamber, mü'minlere kendi canlarından daha önce gelir. Onun eşleri de mü'minlerin analarıdır. Aralarında akrabalık bağı olanlar, Allah'ın Kitabına göre, (miras konusunda) birbirleri için (diğer) mü'minlerden ve muhacirlerden daha önceliklidirler. Ancak dostlarınıza bir iyilik yapmanız başka. Bu (hüküm) Kitap'ta yazılıdır."
+  },
+  {
+   "verseNo": 6,
+   "source": "okuyan",
+   "text": "Peygamber, müminlere kendi canlarından daha yakındır; eşleri de onların (ümmetin) anneleridir. Allah’ın kitabına göre yakınlık sahibi olanlar, (vârislik bakımından) birbirlerine (diğer) müminlerden ve muhacirlerden daha uygundurlar. Ancak, dostlarınıza uygun bir (vasiyet) yapmanız hariçtir. Bu (uygulamamız), Kitapta yazılı bir (hükmümüz)dür."
+  },
+  {
+   "verseNo": 6,
+   "source": "esed",
+   "text": "Peygamber, müminler üzerinde, onlar(ın kendileri üzerinde sahip olduğun)dan daha büyük hak sahibidir ve (onu bir baba gibi gördüklerinden) Peygamber´in eşleri onların anneleridir, (bu şekilde) yakın olanlar, Allah´ın buyruğu gereğince, birbirleri üzerinde (Yesrib´deki) müminlerden ve (Allah rızası için oraya) göç etmiş olanlardan daha fazla hak sahibidirler. Ancak (öteki) yakın dostlarınıza karşı da en güzel şekilde davranmalısınız, bu (da) Allah´ın buyruğu gereğidir"
+  },
+  {
+   "verseNo": 7,
+   "source": "diyanet",
+   "text": "Hani biz peygamberlerden sağlam söz almıştık. Senden, Nûh'tan, İbrahim, Mûsâ ve Meryem oğlu İsa'dan da. Evet biz onlardan sapa sağlam bir söz almıştık."
+  },
+  {
+   "verseNo": 7,
+   "source": "okuyan",
+   "text": "Hani biz, peygamberlerden söz almıştık; senden de, Nuh’tan, İbrahim’den, Musa’dan ve Meryem oğlu İsa’dan da. Onlar(ın hepsin)den sağlam bir söz almıştık."
+  },
+  {
+   "verseNo": 7,
+   "source": "esed",
+   "text": "Ve bir zaman Biz bütün peygamberlerden sağlam taahhütler almıştık. Senden, (ey Muhammed,) ve Nuh´dan, İbrahim´den, Musa´dan ve Meryem oğlu İsa´dan. Onların (hepsinden) güçlü, sağlam bir taahhüt aldık"
+  },
+  {
+   "verseNo": 8,
+   "source": "diyanet",
+   "text": "(Allah bunu,) doğru kimseleri doğruluklarından hesaba çekmek için (yapmıştır.) Kâfirlere de elem dolu bir azap hazırlamıştır."
+  },
+  {
+   "verseNo": 8,
+   "source": "okuyan",
+   "text": "(Allah bu sözü), doğru kişilerin doğruluklarını sorgulasın diye (almıştı). Kâfirler için de elem verici bir azap hazırlamıştır."
+  },
+  {
+   "verseNo": 8,
+   "source": "esed",
+   "text": "ki, (zamanın bitiminde) O, bu hak davanın temsilcilerine hakikate sadık kalmalarını(n yeryüzünde nasıl bir karşılık gördüğünü) sorabilsin. Ve O, hakikati inkar edenlerin tümü için acı bir azap hazırlamıştır"
+  },
+  {
+   "verseNo": 9,
+   "source": "diyanet",
+   "text": "Ey iman edenler! Allah'ın size olan nimetini hatırlayın. Hani (düşman) ordular üzerinize gelmişti de biz onların üzerine bir rüzgar ve göremediğiniz ordular göndermiştik. Allah yaptıklarınızı hakkıyla görmektedir."
+  },
+  {
+   "verseNo": 9,
+   "source": "okuyan",
+   "text": "Ey iman edenler! Allah’ın size olan (şu) nimetini hatırlayın: Hani size ordular gelmişti de biz onlara (düşmanlarınıza) karşı bir rüzgâr ve sizin görmediğiniz ordular göndermiştik. Allah yaptıklarınızı görendir."
+  },
+  {
+   "verseNo": 9,
+   "source": "esed",
+   "text": "Siz ey imana ermiş olanlar! (Düşman) orduları üzerinize geldiğinde Allah´ın size bahşettiği nimetleri hatırlayın, ki o zaman üzerlerine bir kasırga ve göremediğiniz (semavi) ordular göndermiştik ama Allah yaptığınız her şeyi görmekteydi"
+  },
+  {
+   "verseNo": 10,
+   "source": "diyanet",
+   "text": "Hani onlar size hem üst tarafınızdan hem alt tarafınızdan gelmişlerdi. Hani gözler kaymış ve yürekler ağızlara gelmişti. Siz de Allah'a karşı çeşitli zanlarda bulunuyordunuz."
+  },
+  {
+   "verseNo": 10,
+   "source": "okuyan",
+   "text": "Onlar hem yukarınızdan hem aşağı tarafınızdan üzerinize geldikleri zaman, gözler kaydığı (yıldığı), yürekler boğazlara geldiği ve siz Allah hakkında türlü türlü şeyler düşündüğünüz zaman,"
+  },
+  {
+   "verseNo": 10,
+   "source": "esed",
+   "text": "Onlar yukarıdan ve aşağıdan üzerinize geldiklerinde ve gözler(inizin) feri kaybolup yürekler(iniz) ağzınıza geldiğinde ve Allah hakkında en çelişik düşünceler aklınızdan (bir bir) geçtiğinde (neler hissettiğinizi hatırlayın)"
+  },
+  {
+   "verseNo": 11,
+   "source": "diyanet",
+   "text": "İşte orada mü'minler denendiler ve şiddetli bir şekilde sarsıldılar."
+  },
+  {
+   "verseNo": 11,
+   "source": "okuyan",
+   "text": "İşte orada müminler imtihan edilmiş ve şiddetli bir sarsıntıya uğratılmışlardı."
+  },
+  {
+   "verseNo": 11,
+   "source": "esed",
+   "text": "(İşte) orada ve o anda müminler sınandı ve şiddetli bir şok ile sarsıldılar"
+  },
+  {
+   "verseNo": 12,
+   "source": "diyanet",
+   "text": "Hani münafıklar ve kalplerinde hastalık olanlar, \"Allah ve Resülü bize, ancak aldatmak için vaadde bulunmuşlar\" diyorlardı."
+  },
+  {
+   "verseNo": 12,
+   "source": "okuyan",
+   "text": "Hani münafıklar ile kalplerinde hastalık bulunanlar “(Meğer) Allah ve Elçisi bize aldatmadan başka bir vaatte bulunmamışlar!” diyorlardı."
+  },
+  {
+   "verseNo": 12,
+   "source": "esed",
+   "text": "Ve ikiyüzlüler ile kalpleri hastalıklı olanların (birbirlerine), \"Allah ve Elçisi bize sadece boş vaadlerde bulunmaktalar\" dedikleri zaman(ki durumu hatırla)"
+  },
+  {
+   "verseNo": 13,
+   "source": "diyanet",
+   "text": "Hani onlardan bir grup, \"Ey Yesrib (Medine) halkı! Sizin burada durmak imkanınız yok. Haydi geri dönün\" demişti. Onlardan bir başka grup da, \"Evlerimiz açık (korumasız)\" diyerek Peygamberden izin istiyorlardı. Oysa evleri açık (korumasız) değildi. Onlar sadece kaçmak istiyorlardı."
+  },
+  {
+   "verseNo": 13,
+   "source": "okuyan",
+   "text": "Onlardan bir grup da şöyle demişti: “Ey Yesribliler (Medineliler)! Sizin için durmanın sırası değil, dönün!” İçlerinden bir grup ise evleri savunmasız olmadığı halde “Şüphesiz ki evlerimiz savunmasızdır!” diyerek Peygamber’den izin istiyordu; (savaştan) kaçmaktan başka bir şey istemiyorlardı."
+  },
+  {
+   "verseNo": 13,
+   "source": "esed",
+   "text": "Ve (hatırla) içlerinden bazısı şöyle demişti: \"Ey Yesrib halkı! Burada (düşmana) karşı koyamazsınız, (evlerinize) geri dönün!\" O arada içlerinden bir grup da, \"Evlerimiz (saldırılara) açık durumda!\" diyerek Peygamber´den izin istemişti halbuki evleri (aslında saldırıya) açık değildi: tek amaçları kaytarmaktı"
+  },
+  {
+   "verseNo": 14,
+   "source": "diyanet",
+   "text": "Eğer Medine'nin her tarafından üzerlerine gelinse ve orada karışıklık çıkarmaları istenseydi, onu mutlaka yaparlardı; o konuda fazla gecikmezlerdi."
+  },
+  {
+   "verseNo": 14,
+   "source": "okuyan",
+   "text": "(Medine’nin) her yanından (kendi) üzerlerine saldırılsaydı da kendilerinden fitne (savaş) istenseydi, şüphesiz ki hemen bunu yaparlardı; onunla ilgili gecikmezlerdi."
+  },
+  {
+   "verseNo": 14,
+   "source": "esed",
+   "text": "Eğer şehirleri saldırıya uğrasaydı ve (düşman tarafından) fitne çıkarmaları istenseydi, (ikiyüzlüler) hiç tereddüt etmeden bunu hemen yaparlardı"
+  },
+  {
+   "verseNo": 15,
+   "source": "diyanet",
+   "text": "Andolsun ki, onlar, daha önce geri dönüp kaçmayacaklarına dair Allah'a söz vermişlerdi. Allah'a verilen söz ise sorumluluğu gerektirir."
+  },
+  {
+   "verseNo": 15,
+   "source": "okuyan",
+   "text": "Yemin olsun ki daha önce onlar, arkalarını dönmeyeceklerine (kaçmayacaklarına) dair Allah’a söz vermişlerdi. Allah’a verilen söz sorumluluk gerektirmektedir."
+  },
+  {
+   "verseNo": 15,
+   "source": "esed",
+   "text": "halbuki daha önce (mesajına) sırt çevirmeyeceklerine dair Allah´ın huzurunda söz vermişlerdi. Allah´a verilen söz(ün hesabı) mutlaka sorulacaktır"
+  },
+  {
+   "verseNo": 16,
+   "source": "diyanet",
+   "text": "De ki: \"Eğer siz ölümden ya da öldürülmekten kaçıyorsanız, kaçmak size asla fayda vermeyecektir. O takdirde bile (hayatın zevklerinden) pek az yararlandırılırsınız.\""
+  },
+  {
+   "verseNo": 16,
+   "source": "okuyan",
+   "text": "(İzin isteyenlere) de ki: “Ölümden veya savaştan kaçıyorsanız, kaçmanın size asla yararı olamaz! (Kaçsanız) bile zaten az yaşatılacaksınız.\""
+  },
+  {
+   "verseNo": 16,
+   "source": "esed",
+   "text": "De ki: \"(Tabii bir ölümle) ölmekten yahut (savaşta) öldürülmekten kaçıyorsanız, kaçmak size bir fayda vermez; çünkü başarsanız bile hayatın zevkini ancak çok kısa bir süre tadarsınız"
+  },
+  {
+   "verseNo": 17,
+   "source": "diyanet",
+   "text": "De ki: \"Eğer Allah size bir kötülük dilese, sizi Allah'tan koruyacak kimdir? Yahut size bir rahmet dilese buna engel olacak kimdir?\" Onlar kendilerine Allah'tan başka hiçbir dost ve hiçbir yardımcı bulamazlar."
+  },
+  {
+   "verseNo": 17,
+   "source": "okuyan",
+   "text": "De ki: “Allah size herhangi bir kötülük dilerse, sizi O’na karşı kim koruyabilir veya size herhangi bir merhamet dilerse (size kim zarar verebilir ki)!” Onlar kendileri için Allah’a rağmen hiçbir dost da yardımcı da bulamayacaklardır."
+  },
+  {
+   "verseNo": 17,
+   "source": "esed",
+   "text": "De ki: \"Allah size bir zarar vermek istese, sizi O´ndan kim koruyabilir? Yahut rahmetini bağışlamak istese (kim mani olabilir?)\" Allah´tan başka bir yardımcı ve koruyucu bulamayacaklar(ını bilmezler mi)"
+  },
+  {
+   "verseNo": 18,
+   "source": "diyanet",
+   "text": "Şüphesiz Allah içinizden, savaştan alıkoyanları ve kardeşlerine, \"Bize gelin\" diyenleri biliyor. Size katkıda cimri davranarak savaşa pek az gelirler. Korku geldiğinde ise, üzerine ölüm baygınlığı çökmüş kimse gibi gözleri dönerek sana baktıklarını görürsün. Korku gidince de ganimete karşı aşırı düşkünlük göstererek sizi keskin dillerle incitirler. İşte onlar iman etmediler. Allah da onların amellerini boşa çıkardı. Bu Allah'a kolaydır."
+  },
+  {
+   "verseNo": 18,
+   "source": "okuyan",
+   "text": "Allah içinizden (savaştan) alıkoyanları ve yandaşlarına “Bize gelip (katılın)!” diyenleri elbette bilmektedir. Zaten bunlar savaşa çok az gelir."
+  },
+  {
+   "verseNo": 18,
+   "source": "esed",
+   "text": "Allah, içinizden başkalarını (O´nun yolunda savaşmaktan) alıkoyanları da; kendileri savaşa pek az katıldıkları halde kardeşlerine, \"Bizimle gelin (ve düşmana karşı koyun)!\" diyenleri de iyi bilir"
+  },
+  {
+   "verseNo": 19,
+   "source": "diyanet",
+   "text": "Şüphesiz Allah içinizden, savaştan alıkoyanları ve kardeşlerine, \"Bize gelin\" diyenleri biliyor. Size katkıda cimri davranarak savaşa pek az gelirler. Korku geldiğinde ise, üzerine ölüm baygınlığı çökmüş kimse gibi gözleri dönerek sana baktıklarını görürsün. Korku gidince de ganimete karşı aşırı düşkünlük göstererek sizi keskin dillerle incitirler. İşte onlar iman etmediler. Allah da onların amellerini boşa çıkardı. Bu Allah'a kolaydır."
+  },
+  {
+   "verseNo": 19,
+   "source": "okuyan",
+   "text": "(Gelseler de) size karşı cimri olarak (gelirler). Korku geldiğinde, üzer(ler)ine ölüm baygınlığı çökmüş gibi gözleri dönerek sana bakmakta olduklarını görürsün. Korku gidince, iyiliği kıskanarak sizi sivri dilleriyle incitirler. Onlar iman etmiş değillerdir; (bu yüzden) Allah onların yaptıklarını boşa çıkarmıştır. Bu, Allah’a çok kolaydır."
+  },
+  {
+   "verseNo": 19,
+   "source": "esed",
+   "text": "ve (böyleleri) size yapılan yardımı kıskanırlar. Ama sonra bir tehlike ile karşılaşınca da, ölümün gölgesinde yaşayan biri gibi, (korkuyla) gözleri dönmüş bir şekilde, (ey peygamber, yardım dilemek için) sana baktıklarını görürsün: tehlike geçince de iyiliğinizi çekemeyip siz (müminleri) sivri dilleri ile incitirler! Bu (gibi) insanlar, iman etmiş değillerdir, bu yüzden Allah onların yaptıklarını boşa çıkarır, bu Allah için kolaydır"
+  },
+  {
+   "verseNo": 20,
+   "source": "diyanet",
+   "text": "Düşman birliklerinin gitmediğini sanıyorlar. Düşman birlikleri (bir daha) gelecek olsa, isterler ki, (çölde) bedevilerin arasında bulunsunlar da size dair haberleri (gidip gelenlerden) sorsunlar. İçinizde bulunsalardı da pek az savaşırlardı."
+  },
+  {
+   "verseNo": 20,
+   "source": "okuyan",
+   "text": "(Münafıklar, düşman) birliklerinin gitmediğini sanıyorlardı. O birlikler (tekrar) gelse, sizin haberlerinizi (uzaktan) soracak şekilde göçebe Arapların arasında çölde olmak isterler. Zaten içinizde bulunsalardı bile pek savaşacak değillerdi."
+  },
+  {
+   "verseNo": 20,
+   "source": "esed",
+   "text": "Onlar Müttefiklerin (gerçekten) çekilmediklerini zannediyorlardı; ve Müttefikler geri dönecek olsalar, bunlar, (bu iki yüzlüler,) çölde bedeviler arasında kalıp sizin hakkınızda (ey müminler, uzaktan) haber almayı tercih ederlerdi; aranızda bulunsalar bile, (sizin yanınızda) savaşır görünmekten başka bir şey yapmazlardı"
+  },
+  {
+   "verseNo": 21,
+   "source": "diyanet",
+   "text": "Andolsun, Allah'ın Resülünde sizin için; Allah'a ve ahiret gününe kavuşmayı uman, Allah'ı çok zikreden kimseler için güzel bir örnek vardır."
+  },
+  {
+   "verseNo": 21,
+   "source": "okuyan",
+   "text": "Şüphesiz ki Allah’ın Elçisinde sizin için, (yani) Allah’ı ve ahiret gününü umanlar ve Allah’ı çok hatırlayanlar için güzel bir örnek vardır."
+  },
+  {
+   "verseNo": 21,
+   "source": "esed",
+   "text": "Gerçek şu ki, Allah´ı ve Ahiret Günü´nü (korku ve umutla bekleyen) ve O´nu her daim anan kimseler için Allah´ın Elçisi güzel bir örnek teşkil eder"
+  },
+  {
+   "verseNo": 22,
+   "source": "diyanet",
+   "text": "Mü'minler düşman birliklerini görünce, \"İşte bu Allah'ın ve Resülünün bize vaad ettiği şeydir. Allah ve Resülü doğru söylemişlerdir\" dediler. Bu onların ancak imanlarını ve teslimiyetlerini artırmıştır."
+  },
+  {
+   "verseNo": 22,
+   "source": "okuyan",
+   "text": "Müminler (düşman) birliklerini gördüklerinde “İşte bu, Allah ve Elçisinin bize vadettiğidir! Allah ve Elçisi doğru söylemiştir.” demişlerdi. Bu (orduların gelişi), onların ancak imanlarını ve Allah’a bağlılıklarını artırmıştı."
+  },
+  {
+   "verseNo": 22,
+   "source": "esed",
+   "text": "(İşte böyle,) Müttefikleri(n kendilerine doğru ilerlediklerini) görünce, müminler \"Bu, Allah´ın ve Rasulü´nün bize vaad ettiğidir!\" ve \"(Demek ki) Allah ve Rasulü doğru söylemiş!\" dediler ve bu, onların sadece imanlarını ve Allah´a teslimiyetlerini arttırdı"
+  },
+  {
+   "verseNo": 23,
+   "source": "diyanet",
+   "text": "Mü'minlerden öyle adamlar vardır ki, Allah'a verdikleri söze sâdık kaldılar. İçlerinden bir kısmı verdikleri sözü yerine getirmiştir (şehit olmuştur). Bir kısmı da (şehit olmayı) beklemektedir. Verdikleri sözü asla değiştirmemişlerdir."
+  },
+  {
+   "verseNo": 23,
+   "source": "okuyan",
+   "text": "Müminlerden, Allah’a verdikleri sözde duran nice adamlar (yiğitler) vardır. Onlardan kimi, adağını (Allah’a sözünü) yerine getirmiştir; kimi de (yerine getirmeyi) beklemektedir. Onlar (sözlerini) asla değiştirmemişlerdir."
+  },
+  {
+   "verseNo": 23,
+   "source": "esed",
+   "text": "Müminler arasında öylesi var ki Allah´ın huzurunda verdiği sözü (her zaman) yerine getirir; kimi (ölüme gitmek suretiyle) ahitlerini yerine getirmiştir, kimi de (kararlarından) vazgeçmeden (ahitlerini yerine getirmeyi) beklemektedir"
+  },
+  {
+   "verseNo": 24,
+   "source": "diyanet",
+   "text": "Bunun böyle olması Allah'ın, doğruları, doğrulukları sebebiyle mükafatlandırması, dilerse münafıklara azap etmesi yahut onların tövbesini kabul etmesi içindir. Şüphesiz Allah çok bağışlayandır, çok merhamet edendir."
+  },
+  {
+   "verseNo": 24,
+   "source": "okuyan",
+   "text": "Sonunda Allah doğru olanlara, doğruluklarına karşılık (ödül) verecektir; münafıklara dilerse azap edecek veya (tevbe ederlerse bu) tevbelerini kabul edecektir. Şüphesiz ki Allah çok bağışlayandır, çok merhametlidir."
+  },
+  {
+   "verseNo": 24,
+   "source": "esed",
+   "text": "(İnsan bu tür sınamalara tabi tutulmaktadır ki) Allah, sadakat gösterenleri sözlerini tutmalarından dolayı ödüllendirsin, iki yüzlüleri de -dilerse- azaba çarptırsın yahut (pişmanlık duyarlarsa) tevbelerini kabul etsin; Şüphesiz Allah, çok bağışlayandır, rahmet sahibidir"
+  },
+  {
+   "verseNo": 25,
+   "source": "diyanet",
+   "text": "Allah inkar edenleri, hiçbir hayra ulaşmaksızın kin ve öfkeleriyle geri çevirdi. Allah, savaşta mü'minlere kâfi geldi. Allah kuvvetlidir, mutlak güç sahibidir."
+  },
+  {
+   "verseNo": 25,
+   "source": "okuyan",
+   "text": "Allah o kâfirleri (onlar) hiçbir menfaate ulaşamadan öfkeleri ile geri çevirmişti. Savaş (konusun)da Allah(ın yardımı), müminlere yeter. Allah kuvvetlidir, güçlüdür."
+  },
+  {
+   "verseNo": 25,
+   "source": "esed",
+   "text": "Allah, böylece, hakikati inkara şartlanmış olanları bütün öfke ve hiddetleri içinde yüzüstü bıraktı; onlar hiçbir fayda elde edemediler, çünkü savaşta müminler(i korumay)a Allah´ın yardımı yetti, gördüler ki Allah güçlüdür ve kudret sahibidir"
+  },
+  {
+   "verseNo": 26,
+   "source": "diyanet",
+   "text": "Allah kitap ehlinden olup müşriklere yardım edenleri kalelerinden indirdi ve kalplerine büyük bir korku saldı. Siz onların bir kısmını öldürüyor, bir kısmını da esir ediyordunuz."
+  },
+  {
+   "verseNo": 26,
+   "source": "okuyan",
+   "text": "Allah kitap ehlinden (olup) onlara (müşrik ordularına) yardım edenleri kalelerinden indirmiş ve kalplerine korku düşürmüştü. (Siz direnenlerin) bir kısmını öldürüyor, bir kısmını da esir alıyordunuz."
+  },
+  {
+   "verseNo": 26,
+   "source": "esed",
+   "text": "(ve gördüler ki) saldırganlara yardım eden geçmiş vahiylerin mensuplarını kalelerinden çekip çıkardı ve kalplerine korku saldı; böylece bir kısmını öldürdünüz, bir kısmını da esir aldınız"
+  },
+  {
+   "verseNo": 27,
+   "source": "diyanet",
+   "text": "Allah sizi onların topraklarına, yurtlarına, mallarına ve henüz ayak basmadığınız topraklara varis kıldı. Allah her şeye hakkıyla gücü yetendir."
+  },
+  {
+   "verseNo": 27,
+   "source": "okuyan",
+   "text": "(Allah) onların yer(ler)ine, yurtlarına, mallarına ve ayak basmadığınız topraklar(ın)a sizi mirasçı yaptı. Allah her şeye gücü yetendir."
+  },
+  {
+   "verseNo": 27,
+   "source": "esed",
+   "text": "O, sizi onların topraklarına, evlerine ve mallarına mirasçı yaptı; ve henüz ayak basmadığınız topraklarını (size vaad etti). Allah her şeye kadirdir"
+  },
+  {
+   "verseNo": 28,
+   "source": "diyanet",
+   "text": "Ey Peygamber! Hanımlarına de ki, \"Eğer dünya hayatını ve onun süsünü istiyorsanız, gelin size mut'a vereyim ve sizi güzelce bırakayım.\""
+  },
+  {
+   "verseNo": 28,
+   "source": "okuyan",
+   "text": "Ey Peygamber! Eşlerine de ki: “Dünya hayatını ve süsünü (refahını) istiyorsanız, gelin sizi yararlandırayım (mehrinizi vereyim) ve sizi güzellikle bırakayım (boşanalım).”"
+  },
+  {
+   "verseNo": 28,
+   "source": "esed",
+   "text": "Ey Peygamber! Eşlerine söyle: \"Eğer siz (yalnız) bu dünya hayatını ve onun cazibesini istiyorsanız, gelin size istediğinizi vereyim ve (sonra da) sizi uygun bir şekilde salayım"
+  },
+  {
+   "verseNo": 29,
+   "source": "diyanet",
+   "text": "\"Eğer Allah'ı, Resülünü ve ahiret yurdunu istiyorsanız, bilin ki Allah içinizden iyilik yapanlara büyük bir mükafat hazırlamıştır.\""
+  },
+  {
+   "verseNo": 29,
+   "source": "okuyan",
+   "text": "\"Allah’ı, Elçisini ve ahiret yurdunu istiyorsanız, (bilin ki) şüphesiz ki Allah içinizden güzel davrananlar için büyük bir ödül hazırlamıştır.\""
+  },
+  {
+   "verseNo": 29,
+   "source": "esed",
+   "text": "Yok eğer Allah´ı, Elçisi´ni ve ahiret hayatının (güzelliklerini) istiyorsanız, (bilin ki) Allah, içinizden güzel işler yapanlar için büyük bir ödül hazırlamıştır"
+  },
+  {
+   "verseNo": 30,
+   "source": "diyanet",
+   "text": "Ey Peygamber'in hanımları! İçinizden kim apaçık bir çirkinlik yaparsa onun cezası iki kat verilir. Bu Allah'a göre kolaydır."
+  },
+  {
+   "verseNo": 30,
+   "source": "okuyan",
+   "text": "Ey Peygamber’in kadınları (hanımları)! Sizden kim açık bir çirkinlik yaparsa, ona iki kat azap uygulanır. Bu, Allah’a çok kolaydır."
+  },
+  {
+   "verseNo": 30,
+   "source": "esed",
+   "text": "Ey Peygamber eşleri! Sizden kim açık bir hayasızlıkta bulunmuş olursa, onun (öteki dünyadaki) azabı, (başka günahkarların azabının) iki katı olur, bu Allah için kolaydır"
+  },
+  {
+   "verseNo": 31,
+   "source": "diyanet",
+   "text": "İçinizden kim Allah'a ve Resülüne itaat eder ve salih bir amel işlerse, ona mükafatını iki kat veririz. Biz ona bereketli bir rızık hazırlamışızdır."
+  },
+  {
+   "verseNo": 31,
+   "source": "okuyan",
+   "text": "Sizden kim de Allah’a ve Elçisine gönülden itaat eder ve iyi bir iş yaparsa ona da ödülünü iki kat veririz. Ona (cennette) bol rızık hazırlamış (olacağız)."
+  },
+  {
+   "verseNo": 31,
+   "source": "esed",
+   "text": "Öte yandan, hanginiz Allah´a ve Elçisi´ne samimiyetle itaat eder ve doğru, yararlı işler yaparsa onu iki kat ödüllendiririz, onun için (öteki dünyada) en muhteşem rızıkları hazırlayacağız"
+  },
+  {
+   "verseNo": 32,
+   "source": "diyanet",
+   "text": "Ey Peygamber'in hanımları! Siz, kadınlardan herhangi biri gibi değilsiniz. Eğer Allah'a karşı gelmekten sakınıyorsanız (erkeklerle konuşurken) sözü yumuşak bir eda ile söylemeyin ki kalbinde hastalık (kötü niyet) olan kimse ümide kapılmasın. Güzel (ve doğru) söz söyleyin."
+  },
+  {
+   "verseNo": 32,
+   "source": "okuyan",
+   "text": "Ey Peygamber’in kadınları (hanımları)! Siz, kadınlardan herhangi biri gibi değilsiniz. (Allah’a karşı) takvâlı (duyarlı)ysanız, (yabancı erkeklere karşı) çekici bir üslupla konuşmayın; sonra kalbinde hastalık bulunan kimse ümide kapılır. Uygun söz söyleyin!"
+  },
+  {
+   "verseNo": 32,
+   "source": "esed",
+   "text": "Ey Peygamber eşleri! Siz (öteki) kadınlar gibi değilsiniz, eğer Allah´a karşı sorumluluğunuzun bilincine (hakkıyla) sahip olursanız. O halde, edalı bir şekilde konuşmayın ki kalplerinde maraz olanlar (size karşı) bir arzuya kapılmasın, daima yerinde ve uygun şekilde konuşun"
+  },
+  {
+   "verseNo": 33,
+   "source": "diyanet",
+   "text": "Evlerinizde oturun. Önceki cahiliye dönemi kadınlarının açılıp saçıldığı gibi siz de açılıp saçılmayın. Namazı kılın, zekatı verin. Allah'a ve Resülüne itaat edin. Ey Peygamberin ev halkı! Allah sizden ancak günah kirini gidermek ve sizi tertemiz yapmak istiyor."
+  },
+  {
+   "verseNo": 33,
+   "source": "okuyan",
+   "text": "Evlerinizde oturun; eski Cahiliye (âdetinde olduğu) gibi açılıp saçılmayın! Namazı kılın, zekâtı verin; Allah’a ve Elçisine gönülden itaat edin! Ey (Peygamber’in) evinin halkı! Allah sizden, günahı gidermek ve sizi tertemiz yapmak istiyor."
+  },
+  {
+   "verseNo": 33,
+   "source": "esed",
+   "text": "Evlerinizde sessizce oturun, eski cahiliye günlerindeki gibi cazibenizi sergilemeyin; namazlarınızda dikkatli ve devamlı olun, arındırıcı yükümlülüklerinizi ifa edin, Allah´a ve Elçisi´ne itaat edin. Ey (Peygamber´in) ev halkı, Allah sizden yalnızca çirkinlikleri gidermek ve sizi tertemiz yapmak istiyor"
+  },
+  {
+   "verseNo": 34,
+   "source": "diyanet",
+   "text": "Siz evlerinizde okunan Allah'ın âyetlerini ve hikmeti hatırlayın. Şüphesiz Allah en gizli şeyi bilendir, hakkıyla haberdardır."
+  },
+  {
+   "verseNo": 34,
+   "source": "okuyan",
+   "text": "Evlerinizde tilavet edilmekte (okunup aktarılmakta) olan Allah’ın ayetlerini ve hikmeti (doğru hükümleri) hatırlayın! Şüphesiz ki Allah en ince işleri görüp bilendir, haberdardır."
+  },
+  {
+   "verseNo": 34,
+   "source": "esed",
+   "text": "Evlerinizde okunan Allah´ın mesajlarını ve (O´nun) hikmetini hatırlayın: şüphesiz Allah (hikmetinde) akıl sır ermez bir derinlik sahibidir, her şeyden haberdardır"
+  },
+  {
+   "verseNo": 35,
+   "source": "diyanet",
+   "text": "Şüphesiz müslüman erkeklerle müslüman kadınlar, mü'min erkeklerle mü'min kadınlar, itaatkar erkeklerle itaatkar kadınlar, doğru erkeklerle doğru kadınlar, sabreden erkeklerle sabreden kadınlar, Allah'a derinden saygı duyan erkekler, Allah'a derinden saygı duyan kadınlar, sadaka veren erkeklerle sadaka veren kadınlar, oruç tutan erkeklerle oruç tutan kadınlar, namuslarını koruyan erkeklerle namuslarını koruyan kadınlar, Allah'ı çokça anan erkeklerle çokça anan kadınlar var ya, işte onlar için Allah bağışlanma ve büyük bir mükafat hazırlamıştır."
+  },
+  {
+   "verseNo": 35,
+   "source": "okuyan",
+   "text": "Müslüman erkekler ve müslüman kadınlar, mümin erkekler ve mümin kadınlar, (Allah’a) itaatkâr erkekler ve (Allah’a) itaatkâr kadınlar, doğru olan erkekler ve doğru olan kadınlar, sabreden erkekler ve sabreden kadınlar, (Allah’a saygı gösteren) mütevazı erkekler ve (Allah’a saygı gösteren) mütevazı kadınlar, sadaka veren erkekler ve sadaka veren kadınlar, oruç tutan erkekler ve oruç tutan kadınlar, namuslarını koruyan erkekler ve (namuslarını) koruyan kadınlar, Allah’ı çok hatırlayan erkekler ve (Allah’ı çok) hatırlayan kadınlar var ya, işte Allah bunlar için bir bağışlanma ve büyük bir ödül hazırlamış (olacak)tır."
+  },
+  {
+   "verseNo": 35,
+   "source": "esed",
+   "text": "Gerçek şu ki, Allah´a teslim olmuş bütün erkekler ve kadınlar, inanan bütün erkekler ve kadınlar, kendilerini adamış bütün erkekler ve kadınlar, sözlerine sadık bütün erkekler ve kadınlar, sıkıntılara göğüs geren bütün erkekler ve kadınlar, (Allah´ın karşısında) güçsüzlüğünü anlayan bütün erkekler ve kadınlar, karşılıksız yardımda bulunan bütün erkekler ve kadınlar, nefislerini kontrol eden bütün erkekler ve kadınlar, iffetleri üzerine titreyen bütün erkekler ve kadınlar ve Allah´ı durmaksızın anan bütün erkekler ve kadınlar için, (evet,) bunlar(ın tümü) için Allah, mağfiret ve büyük bir mükafat hazırlamıştır"
+  },
+  {
+   "verseNo": 36,
+   "source": "diyanet",
+   "text": "Allah ve Resûlü bir iş hakkında hüküm verdikleri zaman, hiçbir mü'min erkek ve hiçbir mü'min kadın için kendi işleri konusunda tercih kullanma hakları yoktur. Kim Allah'a ve Resülüne karşı gelirse şüphesiz ki o apaçık bir şekilde sapmıştır."
+  },
+  {
+   "verseNo": 36,
+   "source": "okuyan",
+   "text": "Allah ve Elçisi bir işe hükmettiği zaman, mümin erkek ve kadına işleri konusunda tercih hakkı yoktur. Kim Allah’a ve Elçisine isyan ederse elbette apaçık bir sapkınlığa düşmüş olur."
+  },
+  {
+   "verseNo": 36,
+   "source": "esed",
+   "text": "Allah ve Elçisi bir konuda hüküm verdikten sonra artık inanmış bir erkek ve kadının kendileriyle ilgili konularda tercih serbestisi yoktur; (bu, hakkı kendinde görerek) Allah´a ve Elçisi´ne isyan eden kimse, apaçık bir sapkınlığa düşmüş olur"
+  },
+  {
+   "verseNo": 37,
+   "source": "diyanet",
+   "text": "Hani sen Allah'ın kendisine nimet verdiği, senin de (azat etmek suretiyle) iyilikte bulunduğun kimseye, \"Eşini nikahında tut (onu boşama) ve Allah'tan sakın\" diyordun. İçinde, Allah'ın ortaya çıkaracağı bir şeyi gizliyor ve insanlardan çekiniyordun. Oysa kendisinden çekinmene Allah daha layıktı. Zeyd eşinden yana isteğini yerine getirince (eşini boşayınca), onu seninle evlendirdik ki, eşlerinden yana isteklerini yerine getirdiklerinde (onları boşadıklarında), evlatlıklarının eşleriyle evlenmeleri konusunda mü'minlere bir zorluk olmasın. Allah'ın emri mutlaka yerine getirilmiştir."
+  },
+  {
+   "verseNo": 37,
+   "source": "okuyan",
+   "text": "Hani Allah’ın nimet verdiği, senin de nimet verdiğine (Zeyd’e) “Eşini yanında (nikâhında) tut; Allah’a karşı takvâlı ol!” diyordun. Allah’ın açığa vuracağı şeyi insanlardan korkarak içinde gizliyordun. Oysa kendisinden korkmana layık olan Allah’tır. Zeyd, ondan (eşi Zeynep’ten) ilişiğini tamamen kesince, biz seni onunla (Zeynep’le) eşleştirdik (nikâhladık) ki evlatlıklarınız (bakımını üstlendiğiniz çocuklar) eşlerinden tamamen ayrıldıklarında (ayrılan o kadınlarla evlenmek isterlerse) müminlere herhangi bir zorluk olmasın! Allah’ın emri yerine getirilmiştir."
+  },
+  {
+   "verseNo": 37,
+   "source": "esed",
+   "text": "Ve bir zaman, (ey Muhammed,) Allah´ın lütufta bulunduğu ve senin de iyilik ettiğin kişiye, \"Eşini terk etme ve Allah´a karşı sorumluluğunun bilincinde ol!\" demiştin. Ve (böylece) Allah´ın yakında aydınlığa çıkaracağı şeyi içinde gizlemiştin; çünkü insanlar(ın ne düşüneceklerin)den çekiniyordun, oysa çekinmen gereken yalnız Allah olmalıydı! (Fakat) sonra Zeyd o kadınla beraberliğini sona erdirdiğinde onu seninle evlendirdik ki (gelecekte) evlatlıkları eşleriyle ilgilerini kestiklerinde onlar(la evlendikleri) için müminler suçlanmasın. Ve Allah´ın buyruğu (böylece) yerine getirilmiş oldu"
+  },
+  {
+   "verseNo": 38,
+   "source": "diyanet",
+   "text": "Allah'ın, kendisine farz kıldığı şeyleri yerine getirmesi konusunda peygambere bir darlık yoktur. Daha önce gelip geçen peygamberler hakkında da Allah'ın kanunu böyledir. Allah'ın emri kesinleşmiş bir hükümdür."
+  },
+  {
+   "verseNo": 38,
+   "source": "okuyan",
+   "text": "Allah’ın, kendisine farz kıldığı (bu) şeyde Peygamber’e herhangi bir vebal yoktur. Daha önce geçenler arasında da Allah’ın kanunu (buydu). Allah’ın emri belirlenmiş bir ölçüdür."
+  },
+  {
+   "verseNo": 38,
+   "source": "esed",
+   "text": "(O halde,) Allah´ın kendisi için takdir ettiği şeyi (yapmasından dolayı) Peygamber´e hiçbir suç isnad edilemez. (Gerçekte, bu) sizden önce gelip geçenler için de Allah´ın bir uygulamasıydı; ve (şunu unutma ki) Allah´ın iradesi mutlaka tecelli eder"
+  },
+  {
+   "verseNo": 39,
+   "source": "diyanet",
+   "text": "Daha önce gelip geçen o peygamberler, Allah'ın vahiylerini tebliğ eden, Allah'tan korkan, başka hiç kimseden korkmayan kimselerdir. Allah hesap görücü olarak yeter."
+  },
+  {
+   "verseNo": 39,
+   "source": "okuyan",
+   "text": "O (peygamberler ki) Allah’ın mesajlarını tebliğ ederler; Allah’a saygı duyarlar. Allah’tan başka kimseden korkmazlar. Hesap görücü olarak Allah (herkese) yeter."
+  },
+  {
+   "verseNo": 39,
+   "source": "esed",
+   "text": "(Ve bu,) Allah´ın mesajlarını (dünyaya) tebliğ edenler, O´ndan korkanlar ve O´ndan başka kimseden korku duymayanlar (için de geçerli olan Allah´ın adetidir), hiç kimse Allah kadar, (insanların yaptıkları için) hesap sorucu değildir"
+  },
+  {
+   "verseNo": 40,
+   "source": "diyanet",
+   "text": "Muhammed, sizin erkeklerinizden hiçbirinin babası değildir. Fakat o, Allah'ın Resülü ve nebilerin sonuncusudur. Allah her şeyi hakkıyla bilendir."
+  },
+  {
+   "verseNo": 40,
+   "source": "okuyan",
+   "text": "Muhammed, sizin (yetişkin) erkeklerinizden hiçbirinin babası değildir. Fakat o, Allah’ın elçisidir ve peygamberlerin sonuncusudur. Allah her şeyi bilendir."
+  },
+  {
+   "verseNo": 40,
+   "source": "esed",
+   "text": "(Ve bilin ki, ey müminler,) Muhammed sizin erkeklerinizden hiçbirinin babası değildir, fakat o, Allah´ın Elçisi ve bütün peygamberler´in sonuncusu´dur. Ve Allah her şeyi hakkıyla bilendir"
+  },
+  {
+   "verseNo": 41,
+   "source": "diyanet",
+   "text": "Ey iman edenler! Allah'ı çokça zikredin."
+  },
+  {
+   "verseNo": 41,
+   "source": "okuyan",
+   "text": "Ey iman edenler! Allah’ı çok hatırlayın!"
+  },
+  {
+   "verseNo": 41,
+   "source": "esed",
+   "text": "Siz ey imana ermiş olanlar! Allah´ı çokça anın"
+  },
+  {
+   "verseNo": 42,
+   "source": "diyanet",
+   "text": "Onu sabah akşam tespih edin."
+  },
+  {
+   "verseNo": 42,
+   "source": "okuyan",
+   "text": "O’nu sabah akşam tesbih edin (yüceltin)!"
+  },
+  {
+   "verseNo": 42,
+   "source": "esed",
+   "text": "ve sabah akşam O´nun şanını yüceltin"
+  },
+  {
+   "verseNo": 43,
+   "source": "diyanet",
+   "text": "O, sizi karanlıklardan aydınlığa çıkarmak için size merhamet eden; melekleri de sizin için bağışlanma dileyendir. Allah mü'minlere çok merhamet edendir."
+  },
+  {
+   "verseNo": 43,
+   "source": "okuyan",
+   "text": "O ve melekleri sizi karanlıklardan aydınlığa çıkarmak için size salât ediyor (destek veriyor). (Allah) müminlere karşı çok merhametli olandır."
+  },
+  {
+   "verseNo": 43,
+   "source": "esed",
+   "text": "O, size (kendi mesajlarını taşıyan) melekleriyle nimetlerini bahşeder ki sizi karanlıklardan aydınlığa çıkarsın. Ve O, müminler için rahmet kaynağıdır"
+  },
+  {
+   "verseNo": 44,
+   "source": "diyanet",
+   "text": "Allah'a kavuşacakları gün mü'minlere yönelik esenlik dileği \"Selam\" dır. Allah onlara bol bir mükafat hazırlamıştır."
+  },
+  {
+   "verseNo": 44,
+   "source": "okuyan",
+   "text": "Kendisine kavuşacakları gün, (Allah’ın) onlara (müminlere) esenliği ‘selam’dır.(Allah) onlara çok değerli bir ödül hazırlamış (olacak)tır."
+  },
+  {
+   "verseNo": 44,
+   "source": "esed",
+   "text": "O´na kavuşacakları Gün \"Selam\" hitabıyla karşılanacaklardır ve Allah, onlar için en güzel ödülü hazırlamıştır"
+  },
+  {
+   "verseNo": 45,
+   "source": "diyanet",
+   "text": "Ey Peygamber! Biz seni bir şahit, bir müjdeleyici, bir uyarıcı; Allah'ın izniyle kendi yoluna çağıran bir davetçi ve aydınlatıcı bir kandil olarak gönderdik."
+  },
+  {
+   "verseNo": 45,
+   "source": "okuyan",
+   "text": "45-46 . Ey Peygamber! Şüphesiz ki biz seni şahit, müjdeleyici, uyarıcı, O’nun izniyle Allah’a davet eden ve münîr (ışık saçan) bir kandil olarak gönderdik."
+  },
+  {
+   "verseNo": 45,
+   "source": "esed",
+   "text": "(Sana gelince,) ey Peygamber, unutma ki Biz seni (hakikatin) bir şahidi, bir müjdeci ve bir uyarıcı olarak gönderdik"
+  },
+  {
+   "verseNo": 46,
+   "source": "diyanet",
+   "text": "Ey Peygamber! Biz seni bir şahit, bir müjdeleyici, bir uyarıcı; Allah'ın izniyle kendi yoluna çağıran bir davetçi ve aydınlatıcı bir kandil olarak gönderdik."
+  },
+  {
+   "verseNo": 46,
+   "source": "okuyan",
+   "text": "45-46 . Ey Peygamber! Şüphesiz ki biz seni şahit, müjdeleyici, uyarıcı, O’nun izniyle Allah’a davet eden ve münîr (ışık saçan) bir kandil olarak gönderdik."
+  },
+  {
+   "verseNo": 46,
+   "source": "esed",
+   "text": "(herkesi) O´nun izniyle Allah´a çağıran ve ışık saçan bir kandil olarak"
+  },
+  {
+   "verseNo": 47,
+   "source": "diyanet",
+   "text": "Mü'minlere kendileri için Allah'tan büyük bir lütuf olduğunu müjdele."
+  },
+  {
+   "verseNo": 47,
+   "source": "okuyan",
+   "text": "Allah’tan (gelecek) büyük bir lütfa ereceklerini müminlere müjdele!"
+  },
+  {
+   "verseNo": 47,
+   "source": "esed",
+   "text": "(O halde,) müminlere kendilerini Allah´tan büyük bir lütuf beklediğini müjdele"
+  },
+  {
+   "verseNo": 48,
+   "source": "diyanet",
+   "text": "Kâfirlere ve münafıklara itaat etme! Onların eziyetlerine aldırma ve Allah'a tevekkül et. Vekil olarak Allah yeter."
+  },
+  {
+   "verseNo": 48,
+   "source": "okuyan",
+   "text": "Kâfirlere ve münafıklara itaat etme! Onların eziyetlerine aldırma! Allah’a güven! Vekil olarak Allah yeter."
+  },
+  {
+   "verseNo": 48,
+   "source": "esed",
+   "text": "hakikati inkar edenler ve ikiyüzlüler(in değerlerin)e uyma ve onların incitici sözlerine aldırma! (Yalnız) Allah´a güven! Hiç kimse Allah kadar güven verici olamaz"
+  },
+  {
+   "verseNo": 49,
+   "source": "diyanet",
+   "text": "Ey iman edenler! Mü'min kadınları nikahlayıp, sonra onlara dokunmadan (cinsel ilişkide bulunmadan) kendilerini boşadığınızda, onlar üzerinde sizin sayacağınız bir iddet hakkınız yoktur. Bu durumda onlara mut'a verin ve kendilerini güzel bir şekilde bırakın."
+  },
+  {
+   "verseNo": 49,
+   "source": "okuyan",
+   "text": "Ey iman edenler! Mümin kadınları nikâhlayıp da onlara (cinsel olarak) dokunmadan onları boşarsanız, onların aleyhine sizin lehinize sayacağınız hiçbir (bekleme) süresi yoktur. Onlara, geçimlik (mehrin yarısını) verin ve onları güzel bir şekilde bırakın (boşanın)."
+  },
+  {
+   "verseNo": 49,
+   "source": "esed",
+   "text": "Siz ey imana ermiş olanlar! Mümin kadınlarla evlenir ve fakat onlara dokunmadan boşarsanız, onlar adına bir iddet dönemi hesaplamaya ve (onlardan bunu) beklemeye hakkınız yoktur; o halde (hemen) ihtiyaçlarını karşılayın ve en güzel şekilde bırakın"
+  },
+  {
+   "verseNo": 50,
+   "source": "diyanet",
+   "text": "Ey Peygamber! Biz sana mehirlerini verdiğin eşlerini, Allah'ın sana ganimet olarak verdiklerinden elinin altında bulunan kadınları; seninle beraber hicret eden, amcanın kızlarını, halalarının kızlarını, dayının kızlarını ve teyzelerinin kızlarını sana helal kıldık. Ayrıca, diğer mü'minlere değil de, sana has olmak üzere, mehirsiz olarak kendini Peygamber'e bağışlayan, Peygamber'in de kendisini nikahlamak istediği herhangi bir mü'min kadını da (sana helal kıldık.) Mü'minlere eşleri ve sahip oldukları cariyeleri hakkında farz kıldığımız şeyleri elbette bilmekteyiz. Bütün bunlar, sana herhangi bir zorluk olmaması içindir. Allah çok bağışlayıcıdır, çok merhamet edicidir."
+  },
+  {
+   "verseNo": 50,
+   "source": "okuyan",
+   "text": "Ey Peygamber! Mehirlerini verdiğin eşlerini, Allah’ın sana ganimet olarak verdiklerinden elinin altında bulunanları, amcanın, halanın, dayının ve teyzenin seninle birlikte hicret eden kızlarını sana helal kıldık. (Bir de) kendisini (mehirsiz bir şekilde) Peygamber’e hibe eden, Peygamber’in de nikâhlamak istediği mümin bir hanımı diğer müminlere değil, sadece sana özel olmak üzere (helal kıldık). Biz sana bir zorluk olmasın diye eşleri ve ellerinin altında bulunanlar hakkında onlara (müminlere) neyi farz kıldığımızı elbette biliriz. Allah çok bağışlayandır, çok merhametlidir."
+  },
+  {
+   "verseNo": 50,
+   "source": "esed",
+   "text": "Ey Peygamber! Mehirlerini verdiğin eşlerini ve Allah´ın sana bahşettiği savaş esirleri arasından sağ elinin altında bulunanları sana helal kıldık. Ve seninle birlikte (Yesrib´e) göç etmiş olan amcalarının ve halalarının kızlarını, dayılarının ve teyzelerinin kızlarını; ve kendilerini Peygamber´e özgür iradeleriyle teklif eden, Peygamber´in de almak istediği mümin kadınları (da sana helal kıldık): (bu sonuncusu) yalnız sana özgü bir imtiyazdır, öteki müminler için değil, (zaten) onlara eşleri ve sağ ellerinin altında bulunanlar konusunda yapmaları gerekeni bildirdik. (Ve) artık sen (gereksiz) bir endişeye kapılmamalısın, şüphesiz Allah çok bağışlayıcıdır, rahmet kaynağıdır"
+  },
+  {
+   "verseNo": 51,
+   "source": "diyanet",
+   "text": "Ey Muhammed! Bunlardan (hanımlarından) dilediğini geri bırakırsın, dilediğini yanına alırsın. Uzak durduklarından dilediklerini yanına almanda da sana bir günah yoktur. Bu onların gözlerinin aydın olması, üzülmemeleri ve hepsinin de kendilerine verdiğine razı olmaları için daha uygundur. Allah kalplerinizdekini bilir. Allah hakkıyla bilendir, halimdir. (Hemen cezalandırmaz, mühlet verir.)"
+  },
+  {
+   "verseNo": 51,
+   "source": "okuyan",
+   "text": "Onlardan dilediğini geriye bırakır, dilediğini de yanına alırsın. (Bir süre) ayrı kaldığın (hanımlar)ından (yolculuğa çıkarken gelmelerini) istemende sana herhangi bir vebal yoktur. Böyle (yapman), onların mutlu olmalarına, üzülmemelerine ve hepsinin senin verdiklerine razı olmalarına daha uygundur. Allah kalplerinizde olanı bilmektedir. Allah bilendir, hoşgörülüdür."
+  },
+  {
+   "verseNo": 51,
+   "source": "esed",
+   "text": "(Şunu bil ki,) onlardan dilediğini bir süre yanından uzaklaştırabilirsin ve dilediğini de yanına alabilirsin; ve (bir süre) uzaklaştırdıklarından birini yeniden istemende bir vebal yoktur: bu, (seni her gördüklerinde) gözlerinin parlamasını ve (gözden çıkarıldıkları zaman) üzülmemelerini ve onlara vermek zorunda olduğun her şeyden hoşnutluk duymalarını sağlar: çünkü (yalnız) Allah kalplerinizden geçeni bilir; ve Allah her şeyi bilendir, halimdir"
+  },
+  {
+   "verseNo": 52,
+   "source": "diyanet",
+   "text": "Bundan sonra, güzellikleri hoşuna gitse bile, başka kadınlarla evlenmek, eşlerini boşayıp başka eşler almak sana helal değildir. Ancak sahip olduğun cariyeler başka. Şüphesiz Allah her şeyi gözetleyendir."
+  },
+  {
+   "verseNo": 52,
+   "source": "okuyan",
+   "text": "Bundan sonra artık başka kadınlarla evlenmen de sağ elinin sahip oldukları (mevcut eşlerin) hariç, güzellikleri senin hoşuna gitse bile bunların yerine başka eşler alman da sana helal değildir. Allah her şeyi gözetleyicidir."
+  },
+  {
+   "verseNo": 52,
+   "source": "esed",
+   "text": "Bundan sonra (başka) hiçbir kadın sana helal değildir -onları(n hiçbirini) başka kadınlarla, güzellikleri seni fazlasıyla cezbetse de, değiştirme(ne izin verilmemiştir)- (halen) sahip oldukların dışında (hiç biri sana helal değildir). Allah her şeyi görüp gözetendir"
+  },
+  {
+   "verseNo": 53,
+   "source": "diyanet",
+   "text": "Ey iman edenler! Yemek için çağrılmaksızın ve yemeğin pişmesini beklemeksizin (vakitli vakitsiz) Peygamber'in evlerine girmeyin, çağrıldığınız zaman girin. Yemeği yiyince de hemen dağılın. Sohbet için beklemeyin. Çünkü bu davranışınız Peygamber'i rahatsız etmekte, fakat o sizden de çekinmektedir. Allah ise gerçeği söylemekten çekinmez. Peygamberin hanımlarından bir şey istediğiniz zaman perde arkasından isteyin. Böyle davranmanız hem sizin kalpleriniz ,hem de onların kalpleri için daha temizdir. Allah'ın Resûlüne rahatsızlık vermeniz ve kendisinden sonra hanımlarını nikahlamanız ebediyyen söz konusu olamaz. Çünkü bu Allah katında büyük bir günahtır."
+  },
+  {
+   "verseNo": 53,
+   "source": "okuyan",
+   "text": "Ey iman edenler! Siz (yemeğin hazırlanma) zamanını gözetmeksizin -bir yemek için size izin verilmesi hariç- Peygamber’in evlerine girmeyin; sadece davet edildiğiniz zaman girin! Yemeği yediğinizde başka bir konuya girmeyerek hemen dağılın! (Çünkü) şüphesiz ki bu durum Peygamber’i üzmekte fakat o (size bunu söylemeye) utanmaktadır. (Ancak) Allah gerçeği söylemekten çekinmez. Onlardan (Peygamber’in hanımlarından) herhangi bir şey istediğiniz zaman perde arkasından isteyin! Bu (durum) hem sizin kalpleriniz hem de onların kalpleri için temiz (doğru) olan davranıştır. Allah’ın Elçisini üzmeniz ve kendisinden sonra onun eşlerini nikâhlamanız sizin için asla söz konusu olamaz. Şüphesiz ki bu durum, Allah katında büyük (bir günah)tır."
+  },
+  {
+   "verseNo": 53,
+   "source": "esed",
+   "text": "Siz ey imana ermiş olanlar! İzin verilmedikçe Peygamber´in evlerine girmeyin ve yemek için (davet edildiğiniz zaman erkenden) gidip hazırlanmasını beklemeye kalkışmayın, çağrıldığınızda (en uygun zamanda) girin, yemeği yiyince hemen ayrılın, lafa dalmayın. Bu durum Peygamberi üzebilir, ama sizden (gitmenizi istemeye de) çekinebilir fakat Allah doğru(yu size öğretmek)ten çekinmez. (Peygamber´in eşlerine gelince,) onlardan bir şey isteyeceğiniz vakit perde arkasından isteyin! Bu hem sizin kalplerinizin, hem de onlarınkinin temizliğini pekiştirir. Ayrıca sizin Allah´ın Elçisi´ni üzmeniz ve onun vefatından sonra eşlerini nikahlamanız caiz değildir, doğrusu bu, Allah nazarında büyük bir günahtır"
+  },
+  {
+   "verseNo": 54,
+   "source": "diyanet",
+   "text": "Siz bir şeyi açığa vursanız da gizleseniz de, biliniz ki Allah her şeyi hakkıyla bilendir."
+  },
+  {
+   "verseNo": 54,
+   "source": "okuyan",
+   "text": "Bir şeyi açığa vursanız da gizleseniz de şüphesiz ki Allah her şeyi bilendir."
+  },
+  {
+   "verseNo": 54,
+   "source": "esed",
+   "text": "Bir şeyi açıktan da, gizli de yapsanız, (unutmayın ki,) Allah her şeyi hakkıyla bilir"
+  },
+  {
+   "verseNo": 55,
+   "source": "diyanet",
+   "text": "Peygamberin hanımlarına, babalarından, oğullarından, erkek kardeşlerinden, erkek kardeşlerinin oğullarından, kız kardeşlerinin oğullarından, mümin kadınlardan ve sahip oldukları cariyelerden ötürü bir günah yoktur. Ey Peygamber hanımları! Allah'a karşı gelmekten sakının. Şüphesiz Allah her şeye hakkıyla şahittir."
+  },
+  {
+   "verseNo": 55,
+   "source": "okuyan",
+   "text": "Onlara (Peygamber’in hanımlarına) babaları, oğulları, kardeşleri, erkek kardeşlerinin oğulları, kız kardeşlerinin oğulları, (tanıdık) kadınları ve sağ ellerinin sahip olduklarından dolayı herhangi bir vebal yoktur. Allah’a karşı takvâlı (duyarlı) olun! Şüphesiz ki Allah her şeye şahittir."
+  },
+  {
+   "verseNo": 55,
+   "source": "esed",
+   "text": "(Fakat) onların babalarına, oğullarına, kardeşlerine, erkek kardeşlerinin veya kız kardeşlerinin oğullarına, kadın hizmetçilerine yahut sağ ellerinin sahip olduğu (kadın köleleri)ne (serbestçe görünmelerinde) bir mahzur yoktur. Ama (ey Peygamber eşleri, her zaman) Allah´a karşı sorumluluğunuzun bilincinde olun; şüphesiz Allah, her şeye şahittir"
+  },
+  {
+   "verseNo": 56,
+   "source": "diyanet",
+   "text": "Şüphesiz Allah ve melekleri Peygamber'e salât ediyorlar. Ey iman edenler! Siz de ona salât edin, selam edin."
+  },
+  {
+   "verseNo": 56,
+   "source": "okuyan",
+   "text": "Allah ve melekleri, Peygamber’e salât ediyorlar (destek veriyorlar). Ey iman edenler! Siz de ona salât edin (destek verin) ve tam teslimiyet gösterin!"
+  },
+  {
+   "verseNo": 56,
+   "source": "esed",
+   "text": "Allah ve melekleri, şüphesiz, Peygamberi kutsarlar: (o halde) ey iman etmiş olanlar, siz de o´nu kutsayın ve kendinizi (o´nun rehberliğine) tam bir teslimiyetle terk edin"
+  },
+  {
+   "verseNo": 57,
+   "source": "diyanet",
+   "text": "Şüphesiz Allah ve Resülünü incitenlere, Allah dünya ve ahirette lanet etmiş ve onlara aşağılayıcı bir azap hazırlamıştır."
+  },
+  {
+   "verseNo": 57,
+   "source": "okuyan",
+   "text": "Allah’ı ve Elçisini incitenlere Allah dünyada da ahirette de lanet etmiş ve onlar için küçük düşürücü bir azap hazırlamış (olacak)tır."
+  },
+  {
+   "verseNo": 57,
+   "source": "esed",
+   "text": "Allah´ı ve Rasulü´nü (bilerek) incitenlere gelince; Allah onları bu dünyada ve ahirette (rahmetinden) yoksun bırakacak ve onlar için alçaltıcı bir azap hazırlayacaktır"
+  },
+  {
+   "verseNo": 58,
+   "source": "diyanet",
+   "text": "Mümin erkekleri ve mümin kadınları işlemedikleri şeyler yüzünden incitenler, bir iftira ve apaçık bir günah yüklenmişlerdir."
+  },
+  {
+   "verseNo": 58,
+   "source": "okuyan",
+   "text": "Mümin erkeklere ve mümin kadınlara, yapmadıkları bir şeyden dolayı eziyet edenler, elbette bir iftira ve apaçık bir günah yüklenmişlerdir."
+  },
+  {
+   "verseNo": 58,
+   "source": "esed",
+   "text": "Mümin erkekleri ve mümin kadınları yapmadıkları bir fiilden dolayı suçlayanlara gelince, onlar iftira atma suçu işlemiş ve böylece açık bir günaha girmiş olurlar"
+  },
+  {
+   "verseNo": 59,
+   "source": "diyanet",
+   "text": "Ey Peygamber! Hanımlarına, kızlarına ve müminlerin kadınlarına söyle, bedenlerini örtecek elbiselerini giysinler. Bu onların tanınıp incitilmemelerine de daha uygundur. Şüphesiz Allah çok bağışlayıcıdır, çok merhamet edicidir."
+  },
+  {
+   "verseNo": 59,
+   "source": "okuyan",
+   "text": "Ey Peygamber! Eşlerine, kızlarına ve müminlerin kadınlarına (dışarı çıktıklarında) dış örtülerini üzerlerine salmalarını söyle! Bu, onların tanınmaları ve incitilmemeleri için en uygunudur. Allah çok bağışlayandır, çok merhametlidir."
+  },
+  {
+   "verseNo": 59,
+   "source": "esed",
+   "text": "Ey Peygamber! Eşlerine, kızlarına ve (öteki) bütün mümin kadınlara (toplum içine çıktıklarında) dış kıyafetlerini üzerlerine almalarını söyle! Bu, onların (temiz kadınlar olarak) tanınmalarını ve rahatsız edilmemelerini temin eder. Ama (unutma ki) Allah, çok bağışlayıcıdır, rahmet kaynağıdır"
+  },
+  {
+   "verseNo": 60,
+   "source": "diyanet",
+   "text": "Andolsun, eğer münafıklar, kalplerinde bir hastalık bulunanlar ve Medine'de kötü haberler yayıp ortalığı karıştıranlar (tuttukları yoldan) vazgeçmezlerse, elbette seni onların üzerine gitmeye teşvik edeceğiz. Onlar da (bundan sonra) orada lanete uğramış kimseler olarak seninle pek az süre komşu kalacaklardır. Nerede bulunurlarsa, yakalanırlar ve yaman bir şekilde öldürülürler."
+  },
+  {
+   "verseNo": 60,
+   "source": "okuyan",
+   "text": "60-61 . Şüphesiz ki münafıklar, kalplerinde hastalık bulunanlar ve şehirde çirkin haber yayanlar vazgeçmezlerse, seni onların üzerine salarız; sonra lanetlenmiş olarak, orada senin yanında ancak az bir zaman kalabilirler. Nerede ele geçirilirlerse yakalanır ve (şiddetli bir) ölümle öldürülürler."
+  },
+  {
+   "verseNo": 60,
+   "source": "esed",
+   "text": "İşte böyle, eğer ikiyüzlüler, kalplerinde hastalık olanlar ve yalan haberler yayarak (Peygamber´in) kent(in)de huzursuzluk çıkaranlar (düşmanca hareketlerinden) vazgeçmezlerse (ey Muhammed,) onlar üzerinde üstünlük kurmanı sağlarız, o zaman bu (kentte) sana çok az bir süre komşu kalacaklardır"
+  },
+  {
+   "verseNo": 61,
+   "source": "diyanet",
+   "text": "Andolsun, eğer münafıklar, kalplerinde bir hastalık bulunanlar ve Medine'de kötü haberler yayıp ortalığı karıştıranlar (tuttukları yoldan) vazgeçmezlerse, elbette seni onların üzerine gitmeye teşvik edeceğiz. Onlar da (bundan sonra) orada lanete uğramış kimseler olarak seninle pek az süre komşu kalacaklardır. Nerede bulunurlarsa, yakalanırlar ve yaman bir şekilde öldürülürler."
+  },
+  {
+   "verseNo": 61,
+   "source": "okuyan",
+   "text": "60-61 . Şüphesiz ki münafıklar, kalplerinde hastalık bulunanlar ve şehirde çirkin haber yayanlar vazgeçmezlerse, seni onların üzerine salarız; sonra lanetlenmiş olarak, orada senin yanında ancak az bir zaman kalabilirler. Nerede ele geçirilirlerse yakalanır ve (şiddetli bir) ölümle öldürülürler."
+  },
+  {
+   "verseNo": 61,
+   "source": "esed",
+   "text": "ve onlar, Allah´ın rahmetinden yoksun olduklarından görüldükleri yerde yakalanacaklar ve teker teker ortadan kaldırılacaklardır"
+  },
+  {
+   "verseNo": 62,
+   "source": "diyanet",
+   "text": "Daha önce gelip geçenler hakkında da Allah'ın kanunu böyledir. Allah'ın kanununda asla değişme bulamazsın."
+  },
+  {
+   "verseNo": 62,
+   "source": "okuyan",
+   "text": "Daha önce geçenler arasında da Allah’ın kanunu (buydu). Allah’ın kanununda asla bir değişiklik bulamazsın."
+  },
+  {
+   "verseNo": 62,
+   "source": "esed",
+   "text": "Daha önce gelip geçen (bu tür günahkar)lar için Allah´ın tatbik ettiği yol budur; ve sen Allah´ın tatbikatında bir değişiklik göremezsin"
+  },
+  {
+   "verseNo": 63,
+   "source": "diyanet",
+   "text": "İnsanlar sana kıyametin vaktini soruyorlar. De ki: \"Onun ilmi ancak Allah katındadır.\" Ne bilirsin, belki de kıyamet yakında gerçekleşir."
+  },
+  {
+   "verseNo": 63,
+   "source": "okuyan",
+   "text": "İnsanlar sana o (Son) Saat’ten soruyorlar. De ki: “Onun bilgisi yalnızca Allah katındadır.” Sana bildirecek olan ne olabilir ki belki de o (Son) Saat yakın olacak."
+  },
+  {
+   "verseNo": 63,
+   "source": "esed",
+   "text": "İnsanlar sana Son Saat hakkında soracaklar. De ki: \"Onun bilgisi Allah katındadır; senin bütün bildiğin ise, Son Saat´in yakın olduğudur"
+  },
+  {
+   "verseNo": 64,
+   "source": "diyanet",
+   "text": "Şüphesiz Allah kâfirlere lanet etmiş ve onlara alevli bir ateş hazırlamıştır."
+  },
+  {
+   "verseNo": 64,
+   "source": "okuyan",
+   "text": "Şüphesiz ki Allah kâfirlere lanet etmiştir ve onlar için çılgın bir ateş hazırlamış (olacak)tır."
+  },
+  {
+   "verseNo": 64,
+   "source": "esed",
+   "text": "Gerçek şu ki, Allah hakikati inkar edenleri rahmetinden kovmuş ve onlar için yakıcı bir ateş hazırlamıştır"
+  },
+  {
+   "verseNo": 65,
+   "source": "diyanet",
+   "text": "Onlar, orada ebedi olarak kalacaklardır. Hiçbir dost, hiçbir yardımcı bulamayacaklardır."
+  },
+  {
+   "verseNo": 65,
+   "source": "okuyan",
+   "text": "(Onlar) orada ebedî kalacaklar, (kendilerini azaptan koruyacak) herhangi bir dost da yardımcı da bulamayacaklardır."
+  },
+  {
+   "verseNo": 65,
+   "source": "esed",
+   "text": "Onlar orada sonsuza kadar kalacaklar, ne bir dost, ne de bir yardımcı bulamayacaklardır"
+  },
+  {
+   "verseNo": 66,
+   "source": "diyanet",
+   "text": "Yüzlerinin ateşte bir yandan bir yana döndürüleceği gün, \"Keşke Allah'a ve Resül'e itaat edeydik\" diyecekler."
+  },
+  {
+   "verseNo": 66,
+   "source": "okuyan",
+   "text": "Yüzleri ateşte evrilip çevrildiği gün “Ah (eyvah), yazık bize! Keşke Allah’a itaat etseydik, Elçi'ye de itaat etseydik!” diyecekler."
+  },
+  {
+   "verseNo": 66,
+   "source": "esed",
+   "text": "Yüzlerinin ateşte darmadağın olduğu o Gün, \"Eyvah\" diye feryad ederler, \"keşke Allah´a itaat etseydik, keşke Elçi´ye uysaydık"
+  },
+  {
+   "verseNo": 67,
+   "source": "diyanet",
+   "text": "Yine şöyle diyecekler: \"Ey Rabbimiz! Biz önderlerimize ve büyüklerimize itaat ettik de bizi yoldan saptırdılar.\""
+  },
+  {
+   "verseNo": 67,
+   "source": "okuyan",
+   "text": "(İnkârcılar) “Rabbimiz! Biz, liderlerimize ve büyüklerimize itaat ettik (ama) onlar bizi yoldan saptırdılar.' demiş (olacak)lardır."
+  },
+  {
+   "verseNo": 67,
+   "source": "esed",
+   "text": "Ve \"Ey Rabbimiz!\" diyecekler, \"Biz liderlerimize ve ileri gelenlere uyduk, bizi doğru yoldan uzaklaştıranlar onlardır"
+  },
+  {
+   "verseNo": 68,
+   "source": "diyanet",
+   "text": "\"Ey Rabbimiz! Onlara iki kat azap ver ve onları büyük bir lanete uğrat.\""
+  },
+  {
+   "verseNo": 68,
+   "source": "okuyan",
+   "text": "\"Rabbimiz! Onlara iki kat azap ver ve onlara büyük (bir şekilde) lanet et!” (demiş olacaklardır.)"
+  },
+  {
+   "verseNo": 68,
+   "source": "esed",
+   "text": "Ey Rabbimiz! Onlara iki misli azap çektir ve rahmetinden tamamen mahrum bırak"
+  },
+  {
+   "verseNo": 69,
+   "source": "diyanet",
+   "text": "Ey iman edenler! Siz Mûsâ'ya eziyet eden kimseler gibi olmayın. Nihayet Allah onu onların dediklerinden temize çıkarmıştı. Mûsâ Allah katında itibarlı bir kimse idi."
+  },
+  {
+   "verseNo": 69,
+   "source": "okuyan",
+   "text": "Ey iman edenler! Siz de Musa’ya eziyet edenler gibi olmayın! (Sonunda) Allah onu, dedikleri şeyden temize çıkarmıştı. O, Allah katında itibarlıydı."
+  },
+  {
+   "verseNo": 69,
+   "source": "esed",
+   "text": "Siz ey imana ermiş olanlar! Musa´ya eziyet eden (İsrailoğulları) gibi olmayın; (unutmayın ki) Allah, (onu kendisine karşı veya kendisi hakkında) ileri sürdükleri iddialardan temize çıkardı çünkü o, Allah katında büyük şeref ve itibar sahibiydi"
+  },
+  {
+   "verseNo": 70,
+   "source": "diyanet",
+   "text": "Ey iman edenler! Allah'a karşı gelmekten sakının ve doğru söz söyleyin ki Allah sizin işlerinizi düzeltsin ve günahlarınızı bağışlasın. Kim Allah'a ve Resülüne itaat ederse, muhakkak büyük bir başarıya ulaşmıştır."
+  },
+  {
+   "verseNo": 70,
+   "source": "okuyan",
+   "text": "Ey iman edenler! Allah’a karşı takvâlı (duyarlı) olun ve doğru söz söyleyin!"
+  },
+  {
+   "verseNo": 70,
+   "source": "esed",
+   "text": "Siz ey iman etmiş olanlar! Allah´a karşı sorumluluğunuzun bilincinde olun ve (her zaman) hakkı ve doğruyu konuşun"
+  },
+  {
+   "verseNo": 71,
+   "source": "diyanet",
+   "text": "Ey iman edenler! Allah'a karşı gelmekten sakının ve doğru söz söyleyin ki Allah sizin işlerinizi düzeltsin ve günahlarınızı bağışlasın. Kim Allah'a ve Resülüne itaat ederse, muhakkak büyük bir başarıya ulaşmıştır."
+  },
+  {
+   "verseNo": 71,
+   "source": "okuyan",
+   "text": "(Böyle davranırsanız) Allah sizin için işlerinizi düzeltir ve sizin için günahlarınızı bağışlar. Kim Allah’a ve Elçisine gönülden itaat ederse elbette büyük bir kurtuluşa ulaşmış olur."
+  },
+  {
+   "verseNo": 71,
+   "source": "esed",
+   "text": "(o zaman,) Allah işlerinizi değerli kılar ve günahlarınızı affeder. Ve (bilin ki) kim Allah´a ve Rasulü´ne itaat ederse büyük bir zafere erişmiş olur"
+  },
+  {
+   "verseNo": 72,
+   "source": "diyanet",
+   "text": "Şüphesiz biz emaneti göklere, yere ve dağlara teklif ettik de onlar onu yüklenmek istemediler, ondan çekindiler. Onu insan yüklendi. Çünkü o çok zalimdir, çok cahildir."
+  },
+  {
+   "verseNo": 72,
+   "source": "okuyan",
+   "text": "Biz emaneti (sorumluluğu) göklere, yere ve dağlara sunmuştuk da onlar bunu yüklenmekten çekinmişler, (sorumluluğundan) korkmuşlardı. Onu insan yüklenmişti. Şüphesiz ki o (insan), çok zalimdir, çok cahildir."
+  },
+  {
+   "verseNo": 72,
+   "source": "esed",
+   "text": "Gerçek şu ki, Biz (akıl ve irade) emaneti(ni) göklere, yere ve dağlara sunmuştuk; ama (sorumluluğundan) korktukları için onu yüklenmeyi reddettiler. O (emanet)i insan üstlendi; zaten o, daima haksızlığa ve akılsızlığa son derece meyyal biridir"
+  },
+  {
+   "verseNo": 73,
+   "source": "diyanet",
+   "text": "Allah, münafık erkeklere ve münafık kadınlara, Allah'a ortak koşan erkeklere ve Allah'a ortak koşan kadınlara azap etmek; mümin erkeklerin ve mümin kadınların da tövbelerini kabul etmek için insana emaneti yüklemiştir. Allah çok bağışlayandır, çok merhamet edendir."
+  },
+  {
+   "verseNo": 73,
+   "source": "okuyan",
+   "text": "Sonuçta Allah münafık erkeklere ve münafık kadınlara, müşrik erkeklere ve müşrik kadınlara azap edecek; iman eden erkeklerin ve iman eden kadınların da tevbesini kabul edecektir. Allah çok bağışlayandır, çok merhametlidir."
+  },
+  {
+   "verseNo": 73,
+   "source": "esed",
+   "text": "(İşte böylece) Allah, ikiyüzlü erkek ve kadınlara ve kendisine eş koşan erkek ve kadınlara azab edecektir. Ve mümin erkeklere ve mümin kadınlara rahmetiyle yönelecek olan (da) Allah´tır. Allah gerçekten çok bağışlayıcıdır, bir rahmet kaynağıdır"
+  }
+ ]
+}

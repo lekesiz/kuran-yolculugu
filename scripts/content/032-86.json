@@ -1,0 +1,488 @@
+{
+ "stationNo": 32,
+ "surahNo": 86,
+ "nuzulOrderOkuyan": 38,
+ "name": "Târık",
+ "nameArabic": "الطارق",
+ "nameMeaning": "Geceleyin çıkagelen, vuran",
+ "verseCount": 17,
+ "periodDiyanet": "Mekke",
+ "periodOkuyan": "Mekke",
+ "revelationTiming": "Mekke dönemi",
+ "stationTitle": "Fışkıran bir sudan geldin. Gizlediklerin yoklanacak.",
+ "introduction": "Târık suresi, adını birinci ayetteki \"târık\" kelimesinden alır; şiddetle çarpan, vuran, gece gelen şey anlamındadır. On yedi ayetlik sure Mekke döneminde inmiştir.\n\nSure göğe ve târıka yemin ederek başlar, ardından bu kelimeyi kendisi tanımlar: karanlığı delip geçen yıldız. Sonra insanın üzerinde bir koruyucu bulunduğu, kırılgan bir başlangıçtan geldiği ve sırların yoklanacağı bildirilir. Kapanış üç ayette gelir: tuzak, karşı düzen ve sabır telkini.",
+ "occasionOfRevelation": "Sure Mekke'nin erken yıllarında inmiştir. Güce ve statüye güvenerek kendilerini denetimden uzak sanan Mekke toplumuna, insanın kırılgan yapısını hatırlatır.\n\nDiyanet'in kaydettiği üzere \"târık\" kelimesi, kökündeki vuruş imgesiyle birlikte \"şiddetle çarpan, gece gelen\" anlamı taşır. Sure bu kelimeyi belirsiz bırakmaz, üçüncü ayette kendisi tanımlar: karanlığı delip geçen yıldız.\n\nBeşinci ayetten itibaren insanın yaratılışına dönülür ve kaynak açıkça belirtilir: fışkıran bir su (86:6). Bu, güç ve statü iddiasının karşısına konan bir köken hatırlatmasıdır. Dokuzuncu ayetteki \"serâir\" (sırlar) kavramı ise gizli niyetlerin yoklanacağını bildirir.",
+ "occasionSources": "Diyanet İşleri Başkanlığı Kur'an Yolu Tefsiri, Târık suresi girişi; TDV İslâm Ansiklopedisi, \"Târık Sûresi\" maddesi.",
+ "contemporaryMeaning": "Surenin merkezinde iki kavram vardır: kökenin kırılganlığı ve gizlinin açığa çıkması.\n\nBirincisi kibri hedef alır. Metin insanın kaynağını en yalın biçimde anar: fışkıran bir su. Böyle bir başlangıçtan gelen varlığın mutlak büyüklük iddiası, surenin işaret ettiği çelişkidir.\n\nİkincisi daha rahatsız edicidir: \"bütün sırların yoklanacağı gün\" (86:9). Bugün insanların büyük bölümü iki hayat yaşıyor — görünen ve saklanan. Sure, ikisi arasındaki farkın bir gün kapanacağını söyler.\n\nKapanıştaki sabır telkini ise yöntem önerir: tuzağa öfkeyle değil temkinle karşılık vermek. \"Onlara biraz mühlet ver\" (86:17), aceleci tepkiyi reddeden bir cümledir.",
+ "keyTerms": [
+  {
+   "term": "et-târık",
+   "arabic": "الطَّارِق",
+   "verseRef": "86:1",
+   "meaning": "Şiddetle çarpan, vuran, gece gelen. Sure kelimeyi üçüncü ayette kendisi tanımlar: karanlığı delip geçen yıldız."
+  },
+  {
+   "term": "hâfız",
+   "arabic": "حَافِظ",
+   "verseRef": "86:4",
+   "meaning": "Koruyucu, gözetleyici. Hiç kimsenin başıboş olmadığının bildirilmesi."
+  },
+  {
+   "term": "mâin dâfik",
+   "arabic": "مَاءٍ دَافِق",
+   "verseRef": "86:6",
+   "meaning": "Fışkıran su. İnsanın kökeninin en yalın biçimde anılması; kibre karşı hatırlatma."
+  },
+  {
+   "term": "es-serâir",
+   "arabic": "السَّرَائِر",
+   "verseRef": "86:9",
+   "meaning": "Sırlar, gizlenenler. Gizli niyetlerin yoklanacağı bildirilir."
+  },
+  {
+   "term": "kavlün fasl",
+   "arabic": "قَوْلٌ فَصْل",
+   "verseRef": "86:13",
+   "meaning": "Ayırıcı, kesin söz. Hak ile bâtılı birbirinden ayıran beyan; ardından \"boş bir söz değildir\" denir."
+  }
+ ],
+ "themes": [
+  {
+   "label": "Karanlığı yaran ışık",
+   "body": "Târık, gecenin karanlığını delip geçen yıldızdır. Cehalet ve gafletin ortasında zihni uyandıran hakikat imgesi."
+  },
+  {
+   "label": "Kimse başıboş değil",
+   "body": "\"Hiçbir kimse yoktur ki üzerinde bir koruyucu bulunmasın.\" İnsan özgürdür ama sahipsiz ve hesapsız değildir."
+  },
+  {
+   "label": "Kökenin hatırlatılması",
+   "body": "İnsanın fışkıran bir sudan geldiği anılır. Böyle bir başlangıçtan gelenin mutlak büyüklük iddiası bir çelişkidir."
+  },
+  {
+   "label": "Gizlinin açığa çıkması",
+   "body": "\"Bütün sırların yoklanacağı gün.\" Görünen hayat ile saklanan hayat arasındaki fark kapanacaktır."
+  },
+  {
+   "label": "Tuzağa karşı temkin",
+   "body": "Kapanış aceleci öfkeyi değil sabrı önerir: \"onlara biraz mühlet ver.\" Direniş, sükûnetle yürütülür."
+  }
+ ],
+ "questions": [
+  "Konumuma ya da imkânlarıma güvenip nereden geldiğimi unuttuğum oluyor mu?",
+  "Görünen hayatım ile içimde sakladıklarım arasında en büyük fark nerede? Açığa çıksa yüzleşmeye hazır mıyım?",
+  "Bana kurulan bir tuzağa öfkeyle mi karşılık veriyorum, yoksa bekleyebiliyor muyum?"
+ ],
+ "verses": [
+  {
+   "verseNo": 1,
+   "textArabic": "بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ وَٱلسَّمَآءِ وَٱلطَّارِقِ"
+  },
+  {
+   "verseNo": 2,
+   "textArabic": "وَمَآ أَدْرَىٰكَ مَا ٱلطَّارِقُ"
+  },
+  {
+   "verseNo": 3,
+   "textArabic": "ٱلنَّجْمُ ٱلثَّاقِبُ"
+  },
+  {
+   "verseNo": 4,
+   "textArabic": "إِن كُلُّ نَفْسٍۢ لَّمَّا عَلَيْهَا حَافِظٌۭ"
+  },
+  {
+   "verseNo": 5,
+   "textArabic": "فَلْيَنظُرِ ٱلْإِنسَٰنُ مِمَّ خُلِقَ"
+  },
+  {
+   "verseNo": 6,
+   "textArabic": "خُلِقَ مِن مَّآءٍۢ دَافِقٍۢ"
+  },
+  {
+   "verseNo": 7,
+   "textArabic": "يَخْرُجُ مِنۢ بَيْنِ ٱلصُّلْبِ وَٱلتَّرَآئِبِ"
+  },
+  {
+   "verseNo": 8,
+   "textArabic": "إِنَّهُۥ عَلَىٰ رَجْعِهِۦ لَقَادِرٌۭ"
+  },
+  {
+   "verseNo": 9,
+   "textArabic": "يَوْمَ تُبْلَى ٱلسَّرَآئِرُ"
+  },
+  {
+   "verseNo": 10,
+   "textArabic": "فَمَا لَهُۥ مِن قُوَّةٍۢ وَلَا نَاصِرٍۢ"
+  },
+  {
+   "verseNo": 11,
+   "textArabic": "وَٱلسَّمَآءِ ذَاتِ ٱلرَّجْعِ"
+  },
+  {
+   "verseNo": 12,
+   "textArabic": "وَٱلْأَرْضِ ذَاتِ ٱلصَّدْعِ"
+  },
+  {
+   "verseNo": 13,
+   "textArabic": "إِنَّهُۥ لَقَوْلٌۭ فَصْلٌۭ"
+  },
+  {
+   "verseNo": 14,
+   "textArabic": "وَمَا هُوَ بِٱلْهَزْلِ"
+  },
+  {
+   "verseNo": 15,
+   "textArabic": "إِنَّهُمْ يَكِيدُونَ كَيْدًۭا"
+  },
+  {
+   "verseNo": 16,
+   "textArabic": "وَأَكِيدُ كَيْدًۭا"
+  },
+  {
+   "verseNo": 17,
+   "textArabic": "فَمَهِّلِ ٱلْكَٰفِرِينَ أَمْهِلْهُمْ رُوَيْدًۢا"
+  }
+ ],
+ "translations": [
+  {
+   "verseNo": 1,
+   "source": "diyanet",
+   "text": "Göğe ve târıka andolsun."
+  },
+  {
+   "verseNo": 1,
+   "source": "esed",
+   "text": "Düşün gökleri ve gece vakti geleni"
+  },
+  {
+   "verseNo": 1,
+   "source": "okuyan",
+   "text": "Göğe ve [Târık]’a yemin olsun!"
+  },
+  {
+   "verseNo": 1,
+   "source": "islamoglu",
+   "text": "SEMA ve gece gelen konuk şahit olsun!"
+  },
+  {
+   "verseNo": 2,
+   "source": "diyanet",
+   "text": "Târıkın ne olduğunu sen ne bileceksin?"
+  },
+  {
+   "verseNo": 2,
+   "source": "esed",
+   "text": "Bilir misin nedir gece vakti gelen"
+  },
+  {
+   "verseNo": 2,
+   "source": "okuyan",
+   "text": "[Târık]’ın ne olduğunu sana bildiren ne olabilir ki!"
+  },
+  {
+   "verseNo": 2,
+   "source": "islamoglu",
+   "text": "Sahi, gecenin konuğu nedir, bilir misin sen?"
+  },
+  {
+   "verseNo": 3,
+   "source": "diyanet",
+   "text": "O, (ışığıyla karanlığı) delen yıldızdır."
+  },
+  {
+   "verseNo": 3,
+   "source": "esed",
+   "text": "O, yıldızdır (inanmadan yaşanan hayatın) karanlığını delip geçen"
+  },
+  {
+   "verseNo": 3,
+   "source": "okuyan",
+   "text": "(O, karanlığı) delen yıldızdır."
+  },
+  {
+   "verseNo": 3,
+   "source": "islamoglu",
+   "text": "O (inkârcı aklın) zifiri karanlığını delen bir yıldızdır."
+  },
+  {
+   "verseNo": 4,
+   "source": "diyanet",
+   "text": "Hiçbir kimse yoktur ki, üzerinde koruyucu bulunmasın."
+  },
+  {
+   "verseNo": 4,
+   "source": "esed",
+   "text": "(zaten) hiçbir insan korunmasız bırakılmamıştır"
+  },
+  {
+   "verseNo": 4,
+   "source": "okuyan",
+   "text": "Üzerinde bir gözetleyici (melek) olmayan hiçbir can yoktur."
+  },
+  {
+   "verseNo": 4,
+   "source": "islamoglu",
+   "text": "Zaten hiçbir insan yoktur ki (ilâhî) gözetim ve koruma altında olmasın."
+  },
+  {
+   "verseNo": 5,
+   "source": "diyanet",
+   "text": "Öyleyse insan neden yaratıldığına bir baksın."
+  },
+  {
+   "verseNo": 5,
+   "source": "esed",
+   "text": "İnsan, neden yaratıldığına bir baksın"
+  },
+  {
+   "verseNo": 5,
+   "source": "okuyan",
+   "text": "İnsan, neyden yaratıldığına bir baksın!"
+  },
+  {
+   "verseNo": 5,
+   "source": "islamoglu",
+   "text": "İNSANOĞLU neden yaratıldığına bir baksın:"
+  },
+  {
+   "verseNo": 6,
+   "source": "diyanet",
+   "text": "Fışkırıp çıkan bir sudan yaratıldı."
+  },
+  {
+   "verseNo": 6,
+   "source": "esed",
+   "text": "o spermalı bir sıvıdan yaratılmıştır"
+  },
+  {
+   "verseNo": 6,
+   "source": "okuyan",
+   "text": "6,7. Omurga ile kaburga kemikleri arasından çıkan (akan) bir sudan (sıvıdan) yaratıldı."
+  },
+  {
+   "verseNo": 6,
+   "source": "islamoglu",
+   "text": "o, (üreme organlarından) fışkıran hayat tohumları içeren basit bir sıvıdan yaratıldı;"
+  },
+  {
+   "verseNo": 7,
+   "source": "diyanet",
+   "text": "Bu su, bel ile kaburga kemikleri arasından çıkar."
+  },
+  {
+   "verseNo": 7,
+   "source": "esed",
+   "text": "(erkeğin) beli ile (kadının) leğen kemiği arasından çıkan"
+  },
+  {
+   "verseNo": 7,
+   "source": "okuyan",
+   "text": "6,7. Omurga ile kaburga kemikleri arasından çıkan (akan) bir sudan (sıvıdan) yaratıldı."
+  },
+  {
+   "verseNo": 7,
+   "source": "islamoglu",
+   "text": "omurga ile kaburga kemikleri arasında (ki bölgede)n çıkan…"
+  },
+  {
+   "verseNo": 8,
+   "source": "diyanet",
+   "text": "Şüphesiz Allah'ın onu, öldükten sonra tekrar diriltmeye de gücü yeter."
+  },
+  {
+   "verseNo": 8,
+   "source": "esed",
+   "text": "Elbette O, (insanı yoktan var eden) onu yeniden (hayata) döndürmeye de kadirdir"
+  },
+  {
+   "verseNo": 8,
+   "source": "okuyan",
+   "text": "Şüphesiz ki O (Allah) onu geri döndürmeye (tekrar yaratmaya) gücü yetendir."
+  },
+  {
+   "verseNo": 8,
+   "source": "islamoglu",
+   "text": "Elbet (insanı yoktan var eden) Allah, onu tekrar hayata döndürmeğe kadirdir."
+  },
+  {
+   "verseNo": 9,
+   "source": "diyanet",
+   "text": "Bütün sırların yoklanacağı günü hatırla!"
+  },
+  {
+   "verseNo": 9,
+   "source": "esed",
+   "text": "bütün sırların ortaya serileceği Gün"
+  },
+  {
+   "verseNo": 9,
+   "source": "okuyan",
+   "text": "9,10. Sırların ortaya döküleceği o gün, onun (insanın) hiçbir gücü ve yardımcısı yoktur."
+  },
+  {
+   "verseNo": 9,
+   "source": "islamoglu",
+   "text": "O gün, sırlar (bile) sınanır;"
+  },
+  {
+   "verseNo": 10,
+   "source": "diyanet",
+   "text": "(O gün) artık insan için ne bir kuvvet vardır, ne de bir yardımcı."
+  },
+  {
+   "verseNo": 10,
+   "source": "esed",
+   "text": "ve (insanın) ne bir kuvvet ne de yardımcı bulacağı (Gün)"
+  },
+  {
+   "verseNo": 10,
+   "source": "okuyan",
+   "text": "9,10. Sırların ortaya döküleceği o gün, onun (insanın) hiçbir gücü ve yardımcısı yoktur."
+  },
+  {
+   "verseNo": 10,
+   "source": "islamoglu",
+   "text": "dahası kişi ne (içerden) bir güç ne de (dışardan) bir yardım alabilir."
+  },
+  {
+   "verseNo": 11,
+   "source": "diyanet",
+   "text": "Yağmurlu göğe andolsun,"
+  },
+  {
+   "verseNo": 11,
+   "source": "esed",
+   "text": "Düşün dönüp duran gökleri"
+  },
+  {
+   "verseNo": 11,
+   "source": "okuyan",
+   "text": "Yemin olsun: Dönüş sahibi olan göğe,"
+  },
+  {
+   "verseNo": 11,
+   "source": "islamoglu",
+   "text": "(HAYAT) çevrimine sahne olan gök şahit olsun;"
+  },
+  {
+   "verseNo": 12,
+   "source": "diyanet",
+   "text": "Yarık yarık çatlamış yere andolsun."
+  },
+  {
+   "verseNo": 12,
+   "source": "esed",
+   "text": "ve bitkilerle patlayıp yarılan yeri"
+  },
+  {
+   "verseNo": 12,
+   "source": "okuyan",
+   "text": "Yarılan yere ki"
+  },
+  {
+   "verseNo": 12,
+   "source": "islamoglu",
+   "text": "ve (bitkilerle) yarılan yer şahit olsun:"
+  },
+  {
+   "verseNo": 13,
+   "source": "diyanet",
+   "text": "Şüphesiz o Kur'an, hak ile bâtılı ayırd eden bir sözdür."
+  },
+  {
+   "verseNo": 13,
+   "source": "esed",
+   "text": "Bakın, bu (ilahi kelam) doğruyu yanlıştan ayıran bir sözdür"
+  },
+  {
+   "verseNo": 13,
+   "source": "okuyan",
+   "text": "Şüphesiz ki o (Kur’an, doğru ile yanlışı) ayırt eden bir sözdür."
+  },
+  {
+   "verseNo": 13,
+   "source": "islamoglu",
+   "text": "elbet bu (vahiy) hakkı bâtıldan ayıran bir sözdür,"
+  },
+  {
+   "verseNo": 14,
+   "source": "diyanet",
+   "text": "O, boş bir söz değildir."
+  },
+  {
+   "verseNo": 14,
+   "source": "esed",
+   "text": "boş bir lakırdı değil"
+  },
+  {
+   "verseNo": 14,
+   "source": "okuyan",
+   "text": "O asla bir şaka değildir."
+  },
+  {
+   "verseNo": 14,
+   "source": "islamoglu",
+   "text": "o asla anlamsız bir lakırdı değildir."
+  },
+  {
+   "verseNo": 15,
+   "source": "diyanet",
+   "text": "Şüphesiz onlar bir tuzak kurarlar,"
+  },
+  {
+   "verseNo": 15,
+   "source": "esed",
+   "text": "Elbette on(u kabule yanaşmayan)lar, birçok düzmece kanıt ararlar (ilahi kelamı çürütmek için)"
+  },
+  {
+   "verseNo": 15,
+   "source": "okuyan",
+   "text": "Şüphesiz ki onlar bir tuzak kuruyor."
+  },
+  {
+   "verseNo": 15,
+   "source": "islamoglu",
+   "text": "Ne var ki onlar tuzak üstüne tuzak kuruyorlar;"
+  },
+  {
+   "verseNo": 16,
+   "source": "diyanet",
+   "text": "Ben de bir tuzak kurarım."
+  },
+  {
+   "verseNo": 16,
+   "source": "esed",
+   "text": "ama Ben onların bütün planlarını boşa çıkaracağım"
+  },
+  {
+   "verseNo": 16,
+   "source": "okuyan",
+   "text": "Ben de bir tuzak kuruyorum."
+  },
+  {
+   "verseNo": 16,
+   "source": "islamoglu",
+   "text": "ve Ben de onların tuzaklarını bozuyorum."
+  },
+  {
+   "verseNo": 17,
+   "source": "diyanet",
+   "text": "Artık sen inkârcılara mühlet ver; onlara biraz zaman tanı!"
+  },
+  {
+   "verseNo": 17,
+   "source": "esed",
+   "text": "Öyleyse bırak, hakikati inkar edenler dilediklerini yapsınlar, yapsınlar kısa bir süre"
+  },
+  {
+   "verseNo": 17,
+   "source": "okuyan",
+   "text": "Kâfirlere mühlet ver, onlara biraz zaman tanı."
+  },
+  {
+   "verseNo": 17,
+   "source": "islamoglu",
+   "text": "Şu halde kâfirlere süre ver, sadece kısa bir süre…"
+  }
+ ]
+}

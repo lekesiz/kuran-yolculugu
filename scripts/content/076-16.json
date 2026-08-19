@@ -1,0 +1,3156 @@
+{
+ "stationNo": 76,
+ "surahNo": 16,
+ "name": "Nahl",
+ "nameArabic": "",
+ "nameMeaning": "",
+ "verseCount": 128,
+ "nuzulOrderOkuyan": 74,
+ "periodDiyanet": "Mekke",
+ "periodOkuyan": "Mekke",
+ "revelationTiming": "Genel olarak Mekke döneminde inmiştir. Ancak son üç âyetinin (126-128) veya bazı başka âyetlerin Medine'de indiğine dair rivayetler de bulunmaktadır. TDV İslâm Ansiklopedisi ve Prof. Dr. Mehmet Okuyan bu ihtilafa dikkat çekmektedir.",
+ "stationTitle": "Nimetlerin farkındalığı ve şirkin anlamsızlığı.",
+ "introduction": "Nahl sûresi, adını 68. ve 69. âyetlerde geçen 'nahl' (bal arısı) kelimesinden alır. 128 âyetten oluşan bu sûre, içerdiği yoğun nimet vurgularından dolayı 'Niam' (nimetler) sûresi olarak da bilinir. Sûrenin temel ekseni, kâinattaki muazzam düzeni ve insana sunulan sayısız nimeti hatırlatarak, yaratıcının tekliğini (tevhid) ispatlamak ve şirkin temelsizliğini ortaya koymaktır.\n\nSûrenin ilk bölümlerinde, gökten inen su, bitkiler, hayvanlar, gece ile gündüz, denizler ve dağlar gibi tabiat olayları üzerinden Allah'ın varlığı ve birliği anlatılır. İnsanın yaratılışına ve ona verilen nimetlere dikkat çekilerek, bütün bu nimetleri verenin yalnızca Allah olduğu, dolayısıyla sadece O'na kulluk edilmesi gerektiği vurgulanır.\n\nİlerleyen bölümlerde, şirkin eleştirisi derinleşir. İnsanların sıkıntı anında Allah'a sığınıp, rahata erdiklerinde O'na ortak koşmaları kınanır. Ayrıca, adaleti, iyiliği ve akrabaya yardımı emreden, kötülüğü ve azgınlığı yasaklayan meşhur 90. âyet bu sûrede yer alır. Sûre, Hz. İbrahim'in tevhid mücadelesine atıfla ve Hz. Peygamber'e sabır ve hikmetle davet etme tavsiyesiyle son bulur.",
+ "occasionOfRevelation": "Nahl sûresi, genel kabul gören görüşe göre Mekke döneminin sonlarında, hicretten kısa bir süre önce nâzil olmuştur. Mekke müşriklerinin Hz. Peygamber'e ve müslümanlara yönelik baskı ve zulümlerinin iyice arttığı, Habeşistan'a ve ardından Medine'ye hicretin gündemde olduğu çetin bir süreçte inmiştir.\n\nSûrenin son üç âyetinin, Uhud Savaşı'nda Hz. Hamza'nın şehit edilmesi ve müşrikler tarafından cesedine eziyet edilmesi (müsle) üzerine Medine'de indiğine dair rivayetler bulunmaktadır. Ancak, sûrenin genel üslûbu ve muhtevası, bu âyetlerin de Mekke'de inmiş olabileceği görüşünü destekleyen âlimler tarafından dile getirilmektedir.\n\nSûrenin ilk âyetinde geçen 'Allah'ın emri gelmiştir, onu acele istemeyin' ifadesi, müşriklerin alaycı bir tavırla azabın ne zaman geleceğini sormaları üzerine nâzil olmuştur. Bu durum, Mekke'deki gerilimli ortamı ve müşriklerin inkârcı tutumunu yansıtmaktadır.",
+ "occasionSources": "TDV İslâm Ansiklopedisi, \"Nahl Sûresi\" maddesi; Diyanet İşleri Başkanlığı Kur'an Yolu Tefsiri, Nahl Suresi girişi; kuranokuyan.com, Nahl suresi girişi (Prof. Dr. Mehmet Okuyan).",
+ "keyTerms": [
+  {
+   "term": "nahl",
+   "arabic": "نَحْل",
+   "verseRef": "16:68",
+   "meaning": "Bal arısı. Sûreye adını veren bu kelime, Allah'ın küçücük bir canlıya vahyederek (içgüdü vererek) ondan insanlara şifa olan balı üretmesini sağlamasındaki mucizevi yaratılışı simgeler."
+  },
+  {
+   "term": "niam",
+   "arabic": "نِعَم",
+   "verseRef": "16:18",
+   "meaning": "Nimetler. Sûrede Allah'ın insanlara bahşettiği sayısız lütuf ve imkânları ifade eder; bu nimetlerin sayılamayacak kadar çok olduğu vurgulanır."
+  },
+  {
+   "term": "adl",
+   "arabic": "عَدْل",
+   "verseRef": "16:90",
+   "meaning": "Adalet, denge, doğruluk. Bireysel ve toplumsal hayatta her şeyi yerli yerine koymayı, hakkaniyetle davranmayı emreden temel ahlâkî ilkedir."
+  },
+  {
+   "term": "ihsân",
+   "arabic": "إِحْسَان",
+   "verseRef": "16:90",
+   "meaning": "İyilik yapmak, işini en güzel şekilde yapmak. Adaletin ötesine geçerek, fazlasıyla iyilikte bulunmayı ve Allah'ı görüyormuşçasına yaşamayı ifade eder."
+  },
+  {
+   "term": "şirk",
+   "arabic": "شِرْك",
+   "verseRef": "16:1",
+   "meaning": "Ortak koşmak. Allah'ın zatında, sıfatlarında veya fiillerinde O'na eş veya ortaklar isnat etmek; sûrenin en temel eleştiri konusudur."
+  }
+ ],
+ "themes": [
+  {
+   "label": "Nimetlerin Farkındalığı ve Şükür",
+   "body": "Sûre, etrafımızı saran ve kanıksadığımız sayısız nimeti (su, gıda, hayvanlar, tabiat düzeni) hatırlatarak, bizi derin bir farkındalığa ve bu nimetlerin asıl sahibine şükretmeye davet eder."
+  },
+  {
+   "label": "Şirkin Mantıksızlığı",
+   "body": "Yaratma gücü olmayan, kendilerine bile faydası dokunmayan varlıkları, her şeyi yaratan ve yaşatan Allah'a eş tutmanın ne kadar akıl dışı ve nankörce bir tutum olduğu vurgulanır."
+  },
+  {
+   "label": "Adalet ve İyilik Üzerine Kurulan Toplum",
+   "body": "Sûre, sadece inanç esaslarını değil, aynı zamanda adalet, ihsan ve yardımlaşma gibi toplumsal barışı ve huzuru sağlayan temel ahlâkî ilkeleri de inşa eder."
+  }
+ ],
+ "questions": [
+  "Hayatımda sahip olduğum ve kanıksadığım nimetlerin (sağlık, imkânlar, doğa) ne kadarının farkındayım ve bunlar için gerçekten minnettar mıyım?",
+  "Zor zamanlarda sığındığım değerler ile rahat zamanlarda peşinden koştuğum hedefler arasında bir çelişki var mı?",
+  "İlişkilerimde ve kararlarımda 'adalet' ve 'ihsan' (iyilik) ilkelerini ne kadar gözetiyorum; yoksa sadece kendi çıkarımı mı merkeze alıyorum?"
+ ],
+ "contemporaryMeaning": "Bu sure, insanın çevresini saran olağanüstü düzeni ve imkânları sıradanlaştırarak görünmez kılmasına karşı bir uyarıdır. Temel mesele, varlığın kökenini ve işleyişini unutarak, sahip olunan her şeyi kendi başarısı veya doğanın kör tesadüfü sayan nankörlüktür. İnsanın, en muhtaç olduğu anlarda sığındığı kudreti, işler yoluna girdiğinde kendi kurduğu sahte güç merkezleriyle değiştirmesi, metnin işaret ettiği en derin çelişkidir.\n\nBugünün diliyle: Musluktan akan temiz suyun, market raflarındaki gıdanın, bedenin tıkır tıkır işleyen sisteminin veya internet altyapısının bir anlık kesintisinde yaşanan paniğin ardından, her şey normale döndüğünde hissedilen o sahte bağımsızlık duygusu. İnsan, kendi ürettiği algoritmaların, kurduğu şirketlerin veya biriktirdiği sermayenin ona mutlak bir güvenlik sağladığına inanır. Oysa en küçük bir krizde, bir virüs salgınında veya ekonomik dalgalanmada bu yapay güven duvarları çöker. Sure, insanın kendi elleriyle inşa ettiği kariyer, statü veya teknolojik konfor alanlarını birer dokunulmaz güç merkezine dönüştürmesini, asıl kaynağı unutturan bir körlük olarak tanımlar.\n\nAynı zamanda, toplumsal ilişkilerde adaletin ve karşılıksız iyiliğin (ihsan) kaybolduğu bir düzenin sürdürülemezliğini vurgular. Çıkar odaklı ağların, performans ölçümlerinin ve sürekli rekabetin insanı tükettiği bir çağda, metin; sözleşmelere sadakati, zayıfı gözetmeyi ve sadece kendi faydasını merkeze almayan bir ahlaki duruşu, toplumsal çöküşü engelleyecek yegâne zemin olarak sunar.",
+ "scholarlyNotes": [
+  {
+   "kind": "ihtilaf",
+   "body": "Sûrenin tamamının Mekke'de indiği görüşü yaygın olmakla birlikte, özellikle son üç âyetinin (126-128) Uhud Savaşı sonrasında Medine'de indiğine dair güçlü rivayetler vardır. Bazı âlimler ise üslup bütünlüğünden dolayı tamamının Mekkî olduğunu savunur.",
+   "label": "Nüzul Dönemi İhtilafı"
+  },
+  {
+   "kind": "rivayet",
+   "body": "TDV İslâm Ansiklopedisi'nde belirtildiğine göre, 'Allah Nahl sûresini okuyan kimseyi dünyada kendisine verdiği nimetler sebebiyle hesaba çekmez...' şeklindeki hadis, muhaddisler tarafından tenkit edilmiş ve zayıf/asılsız kabul edilmiştir.",
+   "label": "Sûrenin Fazileti Hakkında Zayıf Rivayet"
+  }
+ ],
+ "verses": [
+  {
+   "verseNo": 1,
+   "textArabic": "بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ أَتَىٰٓ أَمْرُ ٱللَّهِ فَلَا تَسْتَعْجِلُوهُ ۚ سُبْحَٰنَهُۥ وَتَعَٰلَىٰ عَمَّا يُشْرِكُونَ"
+  },
+  {
+   "verseNo": 2,
+   "textArabic": "يُنَزِّلُ ٱلْمَلَٰٓئِكَةَ بِٱلرُّوحِ مِنْ أَمْرِهِۦ عَلَىٰ مَن يَشَآءُ مِنْ عِبَادِهِۦٓ أَنْ أَنذِرُوٓا۟ أَنَّهُۥ لَآ إِلَٰهَ إِلَّآ أَنَا۠ فَٱتَّقُونِ"
+  },
+  {
+   "verseNo": 3,
+   "textArabic": "خَلَقَ ٱلسَّمَٰوَٰتِ وَٱلْأَرْضَ بِٱلْحَقِّ ۚ تَعَٰلَىٰ عَمَّا يُشْرِكُونَ"
+  },
+  {
+   "verseNo": 4,
+   "textArabic": "خَلَقَ ٱلْإِنسَٰنَ مِن نُّطْفَةٍۢ فَإِذَا هُوَ خَصِيمٌۭ مُّبِينٌۭ"
+  },
+  {
+   "verseNo": 5,
+   "textArabic": "وَٱلْأَنْعَٰمَ خَلَقَهَا ۗ لَكُمْ فِيهَا دِفْءٌۭ وَمَنَٰفِعُ وَمِنْهَا تَأْكُلُونَ"
+  },
+  {
+   "verseNo": 6,
+   "textArabic": "وَلَكُمْ فِيهَا جَمَالٌ حِينَ تُرِيحُونَ وَحِينَ تَسْرَحُونَ"
+  },
+  {
+   "verseNo": 7,
+   "textArabic": "وَتَحْمِلُ أَثْقَالَكُمْ إِلَىٰ بَلَدٍۢ لَّمْ تَكُونُوا۟ بَٰلِغِيهِ إِلَّا بِشِقِّ ٱلْأَنفُسِ ۚ إِنَّ رَبَّكُمْ لَرَءُوفٌۭ رَّحِيمٌۭ"
+  },
+  {
+   "verseNo": 8,
+   "textArabic": "وَٱلْخَيْلَ وَٱلْبِغَالَ وَٱلْحَمِيرَ لِتَرْكَبُوهَا وَزِينَةًۭ ۚ وَيَخْلُقُ مَا لَا تَعْلَمُونَ"
+  },
+  {
+   "verseNo": 9,
+   "textArabic": "وَعَلَى ٱللَّهِ قَصْدُ ٱلسَّبِيلِ وَمِنْهَا جَآئِرٌۭ ۚ وَلَوْ شَآءَ لَهَدَىٰكُمْ أَجْمَعِينَ"
+  },
+  {
+   "verseNo": 10,
+   "textArabic": "هُوَ ٱلَّذِىٓ أَنزَلَ مِنَ ٱلسَّمَآءِ مَآءًۭ ۖ لَّكُم مِّنْهُ شَرَابٌۭ وَمِنْهُ شَجَرٌۭ فِيهِ تُسِيمُونَ"
+  },
+  {
+   "verseNo": 11,
+   "textArabic": "يُنۢبِتُ لَكُم بِهِ ٱلزَّرْعَ وَٱلزَّيْتُونَ وَٱلنَّخِيلَ وَٱلْأَعْنَٰبَ وَمِن كُلِّ ٱلثَّمَرَٰتِ ۗ إِنَّ فِى ذَٰلِكَ لَءَايَةًۭ لِّقَوْمٍۢ يَتَفَكَّرُونَ"
+  },
+  {
+   "verseNo": 12,
+   "textArabic": "وَسَخَّرَ لَكُمُ ٱلَّيْلَ وَٱلنَّهَارَ وَٱلشَّمْسَ وَٱلْقَمَرَ ۖ وَٱلنُّجُومُ مُسَخَّرَٰتٌۢ بِأَمْرِهِۦٓ ۗ إِنَّ فِى ذَٰلِكَ لَءَايَٰتٍۢ لِّقَوْمٍۢ يَعْقِلُونَ"
+  },
+  {
+   "verseNo": 13,
+   "textArabic": "وَمَا ذَرَأَ لَكُمْ فِى ٱلْأَرْضِ مُخْتَلِفًا أَلْوَٰنُهُۥٓ ۗ إِنَّ فِى ذَٰلِكَ لَءَايَةًۭ لِّقَوْمٍۢ يَذَّكَّرُونَ"
+  },
+  {
+   "verseNo": 14,
+   "textArabic": "وَهُوَ ٱلَّذِى سَخَّرَ ٱلْبَحْرَ لِتَأْكُلُوا۟ مِنْهُ لَحْمًۭا طَرِيًّۭا وَتَسْتَخْرِجُوا۟ مِنْهُ حِلْيَةًۭ تَلْبَسُونَهَا وَتَرَى ٱلْفُلْكَ مَوَاخِرَ فِيهِ وَلِتَبْتَغُوا۟ مِن فَضْلِهِۦ وَلَعَلَّكُمْ تَشْكُرُونَ"
+  },
+  {
+   "verseNo": 15,
+   "textArabic": "وَأَلْقَىٰ فِى ٱلْأَرْضِ رَوَٰسِىَ أَن تَمِيدَ بِكُمْ وَأَنْهَٰرًۭا وَسُبُلًۭا لَّعَلَّكُمْ تَهْتَدُونَ"
+  },
+  {
+   "verseNo": 16,
+   "textArabic": "وَعَلَٰمَٰتٍۢ ۚ وَبِٱلنَّجْمِ هُمْ يَهْتَدُونَ"
+  },
+  {
+   "verseNo": 17,
+   "textArabic": "أَفَمَن يَخْلُقُ كَمَن لَّا يَخْلُقُ ۗ أَفَلَا تَذَكَّرُونَ"
+  },
+  {
+   "verseNo": 18,
+   "textArabic": "وَإِن تَعُدُّوا۟ نِعْمَةَ ٱللَّهِ لَا تُحْصُوهَآ ۗ إِنَّ ٱللَّهَ لَغَفُورٌۭ رَّحِيمٌۭ"
+  },
+  {
+   "verseNo": 19,
+   "textArabic": "وَٱللَّهُ يَعْلَمُ مَا تُسِرُّونَ وَمَا تُعْلِنُونَ"
+  },
+  {
+   "verseNo": 20,
+   "textArabic": "وَٱلَّذِينَ يَدْعُونَ مِن دُونِ ٱللَّهِ لَا يَخْلُقُونَ شَيْـًۭٔا وَهُمْ يُخْلَقُونَ"
+  },
+  {
+   "verseNo": 21,
+   "textArabic": "أَمْوَٰتٌ غَيْرُ أَحْيَآءٍۢ ۖ وَمَا يَشْعُرُونَ أَيَّانَ يُبْعَثُونَ"
+  },
+  {
+   "verseNo": 22,
+   "textArabic": "إِلَٰهُكُمْ إِلَٰهٌۭ وَٰحِدٌۭ ۚ فَٱلَّذِينَ لَا يُؤْمِنُونَ بِٱلْءَاخِرَةِ قُلُوبُهُم مُّنكِرَةٌۭ وَهُم مُّسْتَكْبِرُونَ"
+  },
+  {
+   "verseNo": 23,
+   "textArabic": "لَا جَرَمَ أَنَّ ٱللَّهَ يَعْلَمُ مَا يُسِرُّونَ وَمَا يُعْلِنُونَ ۚ إِنَّهُۥ لَا يُحِبُّ ٱلْمُسْتَكْبِرِينَ"
+  },
+  {
+   "verseNo": 24,
+   "textArabic": "وَإِذَا قِيلَ لَهُم مَّاذَآ أَنزَلَ رَبُّكُمْ ۙ قَالُوٓا۟ أَسَٰطِيرُ ٱلْأَوَّلِينَ"
+  },
+  {
+   "verseNo": 25,
+   "textArabic": "لِيَحْمِلُوٓا۟ أَوْزَارَهُمْ كَامِلَةًۭ يَوْمَ ٱلْقِيَٰمَةِ ۙ وَمِنْ أَوْزَارِ ٱلَّذِينَ يُضِلُّونَهُم بِغَيْرِ عِلْمٍ ۗ أَلَا سَآءَ مَا يَزِرُونَ"
+  },
+  {
+   "verseNo": 26,
+   "textArabic": "قَدْ مَكَرَ ٱلَّذِينَ مِن قَبْلِهِمْ فَأَتَى ٱللَّهُ بُنْيَٰنَهُم مِّنَ ٱلْقَوَاعِدِ فَخَرَّ عَلَيْهِمُ ٱلسَّقْفُ مِن فَوْقِهِمْ وَأَتَىٰهُمُ ٱلْعَذَابُ مِنْ حَيْثُ لَا يَشْعُرُونَ"
+  },
+  {
+   "verseNo": 27,
+   "textArabic": "ثُمَّ يَوْمَ ٱلْقِيَٰمَةِ يُخْزِيهِمْ وَيَقُولُ أَيْنَ شُرَكَآءِىَ ٱلَّذِينَ كُنتُمْ تُشَٰٓقُّونَ فِيهِمْ ۚ قَالَ ٱلَّذِينَ أُوتُوا۟ ٱلْعِلْمَ إِنَّ ٱلْخِزْىَ ٱلْيَوْمَ وَٱلسُّوٓءَ عَلَى ٱلْكَٰفِرِينَ"
+  },
+  {
+   "verseNo": 28,
+   "textArabic": "ٱلَّذِينَ تَتَوَفَّىٰهُمُ ٱلْمَلَٰٓئِكَةُ ظَالِمِىٓ أَنفُسِهِمْ ۖ فَأَلْقَوُا۟ ٱلسَّلَمَ مَا كُنَّا نَعْمَلُ مِن سُوٓءٍۭ ۚ بَلَىٰٓ إِنَّ ٱللَّهَ عَلِيمٌۢ بِمَا كُنتُمْ تَعْمَلُونَ"
+  },
+  {
+   "verseNo": 29,
+   "textArabic": "فَٱدْخُلُوٓا۟ أَبْوَٰبَ جَهَنَّمَ خَٰلِدِينَ فِيهَا ۖ فَلَبِئْسَ مَثْوَى ٱلْمُتَكَبِّرِينَ"
+  },
+  {
+   "verseNo": 30,
+   "textArabic": "۞ وَقِيلَ لِلَّذِينَ ٱتَّقَوْا۟ مَاذَآ أَنزَلَ رَبُّكُمْ ۚ قَالُوا۟ خَيْرًۭا ۗ لِّلَّذِينَ أَحْسَنُوا۟ فِى هَٰذِهِ ٱلدُّنْيَا حَسَنَةٌۭ ۚ وَلَدَارُ ٱلْءَاخِرَةِ خَيْرٌۭ ۚ وَلَنِعْمَ دَارُ ٱلْمُتَّقِينَ"
+  },
+  {
+   "verseNo": 31,
+   "textArabic": "جَنَّٰتُ عَدْنٍۢ يَدْخُلُونَهَا تَجْرِى مِن تَحْتِهَا ٱلْأَنْهَٰرُ ۖ لَهُمْ فِيهَا مَا يَشَآءُونَ ۚ كَذَٰلِكَ يَجْزِى ٱللَّهُ ٱلْمُتَّقِينَ"
+  },
+  {
+   "verseNo": 32,
+   "textArabic": "ٱلَّذِينَ تَتَوَفَّىٰهُمُ ٱلْمَلَٰٓئِكَةُ طَيِّبِينَ ۙ يَقُولُونَ سَلَٰمٌ عَلَيْكُمُ ٱدْخُلُوا۟ ٱلْجَنَّةَ بِمَا كُنتُمْ تَعْمَلُونَ"
+  },
+  {
+   "verseNo": 33,
+   "textArabic": "هَلْ يَنظُرُونَ إِلَّآ أَن تَأْتِيَهُمُ ٱلْمَلَٰٓئِكَةُ أَوْ يَأْتِىَ أَمْرُ رَبِّكَ ۚ كَذَٰلِكَ فَعَلَ ٱلَّذِينَ مِن قَبْلِهِمْ ۚ وَمَا ظَلَمَهُمُ ٱللَّهُ وَلَٰكِن كَانُوٓا۟ أَنفُسَهُمْ يَظْلِمُونَ"
+  },
+  {
+   "verseNo": 34,
+   "textArabic": "فَأَصَابَهُمْ سَيِّـَٔاتُ مَا عَمِلُوا۟ وَحَاقَ بِهِم مَّا كَانُوا۟ بِهِۦ يَسْتَهْزِءُونَ"
+  },
+  {
+   "verseNo": 35,
+   "textArabic": "وَقَالَ ٱلَّذِينَ أَشْرَكُوا۟ لَوْ شَآءَ ٱللَّهُ مَا عَبَدْنَا مِن دُونِهِۦ مِن شَىْءٍۢ نَّحْنُ وَلَآ ءَابَآؤُنَا وَلَا حَرَّمْنَا مِن دُونِهِۦ مِن شَىْءٍۢ ۚ كَذَٰلِكَ فَعَلَ ٱلَّذِينَ مِن قَبْلِهِمْ ۚ فَهَلْ عَلَى ٱلرُّسُلِ إِلَّا ٱلْبَلَٰغُ ٱلْمُبِينُ"
+  },
+  {
+   "verseNo": 36,
+   "textArabic": "وَلَقَدْ بَعَثْنَا فِى كُلِّ أُمَّةٍۢ رَّسُولًا أَنِ ٱعْبُدُوا۟ ٱللَّهَ وَٱجْتَنِبُوا۟ ٱلطَّٰغُوتَ ۖ فَمِنْهُم مَّنْ هَدَى ٱللَّهُ وَمِنْهُم مَّنْ حَقَّتْ عَلَيْهِ ٱلضَّلَٰلَةُ ۚ فَسِيرُوا۟ فِى ٱلْأَرْضِ فَٱنظُرُوا۟ كَيْفَ كَانَ عَٰقِبَةُ ٱلْمُكَذِّبِينَ"
+  },
+  {
+   "verseNo": 37,
+   "textArabic": "إِن تَحْرِصْ عَلَىٰ هُدَىٰهُمْ فَإِنَّ ٱللَّهَ لَا يَهْدِى مَن يُضِلُّ ۖ وَمَا لَهُم مِّن نَّٰصِرِينَ"
+  },
+  {
+   "verseNo": 38,
+   "textArabic": "وَأَقْسَمُوا۟ بِٱللَّهِ جَهْدَ أَيْمَٰنِهِمْ ۙ لَا يَبْعَثُ ٱللَّهُ مَن يَمُوتُ ۚ بَلَىٰ وَعْدًا عَلَيْهِ حَقًّۭا وَلَٰكِنَّ أَكْثَرَ ٱلنَّاسِ لَا يَعْلَمُونَ"
+  },
+  {
+   "verseNo": 39,
+   "textArabic": "لِيُبَيِّنَ لَهُمُ ٱلَّذِى يَخْتَلِفُونَ فِيهِ وَلِيَعْلَمَ ٱلَّذِينَ كَفَرُوٓا۟ أَنَّهُمْ كَانُوا۟ كَٰذِبِينَ"
+  },
+  {
+   "verseNo": 40,
+   "textArabic": "إِنَّمَا قَوْلُنَا لِشَىْءٍ إِذَآ أَرَدْنَٰهُ أَن نَّقُولَ لَهُۥ كُن فَيَكُونُ"
+  },
+  {
+   "verseNo": 41,
+   "textArabic": "وَٱلَّذِينَ هَاجَرُوا۟ فِى ٱللَّهِ مِنۢ بَعْدِ مَا ظُلِمُوا۟ لَنُبَوِّئَنَّهُمْ فِى ٱلدُّنْيَا حَسَنَةًۭ ۖ وَلَأَجْرُ ٱلْءَاخِرَةِ أَكْبَرُ ۚ لَوْ كَانُوا۟ يَعْلَمُونَ"
+  },
+  {
+   "verseNo": 42,
+   "textArabic": "ٱلَّذِينَ صَبَرُوا۟ وَعَلَىٰ رَبِّهِمْ يَتَوَكَّلُونَ"
+  },
+  {
+   "verseNo": 43,
+   "textArabic": "وَمَآ أَرْسَلْنَا مِن قَبْلِكَ إِلَّا رِجَالًۭا نُّوحِىٓ إِلَيْهِمْ ۚ فَسْـَٔلُوٓا۟ أَهْلَ ٱلذِّكْرِ إِن كُنتُمْ لَا تَعْلَمُونَ"
+  },
+  {
+   "verseNo": 44,
+   "textArabic": "بِٱلْبَيِّنَٰتِ وَٱلزُّبُرِ ۗ وَأَنزَلْنَآ إِلَيْكَ ٱلذِّكْرَ لِتُبَيِّنَ لِلنَّاسِ مَا نُزِّلَ إِلَيْهِمْ وَلَعَلَّهُمْ يَتَفَكَّرُونَ"
+  },
+  {
+   "verseNo": 45,
+   "textArabic": "أَفَأَمِنَ ٱلَّذِينَ مَكَرُوا۟ ٱلسَّيِّـَٔاتِ أَن يَخْسِفَ ٱللَّهُ بِهِمُ ٱلْأَرْضَ أَوْ يَأْتِيَهُمُ ٱلْعَذَابُ مِنْ حَيْثُ لَا يَشْعُرُونَ"
+  },
+  {
+   "verseNo": 46,
+   "textArabic": "أَوْ يَأْخُذَهُمْ فِى تَقَلُّبِهِمْ فَمَا هُم بِمُعْجِزِينَ"
+  },
+  {
+   "verseNo": 47,
+   "textArabic": "أَوْ يَأْخُذَهُمْ عَلَىٰ تَخَوُّفٍۢ فَإِنَّ رَبَّكُمْ لَرَءُوفٌۭ رَّحِيمٌ"
+  },
+  {
+   "verseNo": 48,
+   "textArabic": "أَوَلَمْ يَرَوْا۟ إِلَىٰ مَا خَلَقَ ٱللَّهُ مِن شَىْءٍۢ يَتَفَيَّؤُا۟ ظِلَٰلُهُۥ عَنِ ٱلْيَمِينِ وَٱلشَّمَآئِلِ سُجَّدًۭا لِّلَّهِ وَهُمْ دَٰخِرُونَ"
+  },
+  {
+   "verseNo": 49,
+   "textArabic": "وَلِلَّهِ يَسْجُدُ مَا فِى ٱلسَّمَٰوَٰتِ وَمَا فِى ٱلْأَرْضِ مِن دَآبَّةٍۢ وَٱلْمَلَٰٓئِكَةُ وَهُمْ لَا يَسْتَكْبِرُونَ"
+  },
+  {
+   "verseNo": 50,
+   "textArabic": "يَخَافُونَ رَبَّهُم مِّن فَوْقِهِمْ وَيَفْعَلُونَ مَا يُؤْمَرُونَ ۩"
+  },
+  {
+   "verseNo": 51,
+   "textArabic": "۞ وَقَالَ ٱللَّهُ لَا تَتَّخِذُوٓا۟ إِلَٰهَيْنِ ٱثْنَيْنِ ۖ إِنَّمَا هُوَ إِلَٰهٌۭ وَٰحِدٌۭ ۖ فَإِيَّٰىَ فَٱرْهَبُونِ"
+  },
+  {
+   "verseNo": 52,
+   "textArabic": "وَلَهُۥ مَا فِى ٱلسَّمَٰوَٰتِ وَٱلْأَرْضِ وَلَهُ ٱلدِّينُ وَاصِبًا ۚ أَفَغَيْرَ ٱللَّهِ تَتَّقُونَ"
+  },
+  {
+   "verseNo": 53,
+   "textArabic": "وَمَا بِكُم مِّن نِّعْمَةٍۢ فَمِنَ ٱللَّهِ ۖ ثُمَّ إِذَا مَسَّكُمُ ٱلضُّرُّ فَإِلَيْهِ تَجْـَٔرُونَ"
+  },
+  {
+   "verseNo": 54,
+   "textArabic": "ثُمَّ إِذَا كَشَفَ ٱلضُّرَّ عَنكُمْ إِذَا فَرِيقٌۭ مِّنكُم بِرَبِّهِمْ يُشْرِكُونَ"
+  },
+  {
+   "verseNo": 55,
+   "textArabic": "لِيَكْفُرُوا۟ بِمَآ ءَاتَيْنَٰهُمْ ۚ فَتَمَتَّعُوا۟ ۖ فَسَوْفَ تَعْلَمُونَ"
+  },
+  {
+   "verseNo": 56,
+   "textArabic": "وَيَجْعَلُونَ لِمَا لَا يَعْلَمُونَ نَصِيبًۭا مِّمَّا رَزَقْنَٰهُمْ ۗ تَٱللَّهِ لَتُسْـَٔلُنَّ عَمَّا كُنتُمْ تَفْتَرُونَ"
+  },
+  {
+   "verseNo": 57,
+   "textArabic": "وَيَجْعَلُونَ لِلَّهِ ٱلْبَنَٰتِ سُبْحَٰنَهُۥ ۙ وَلَهُم مَّا يَشْتَهُونَ"
+  },
+  {
+   "verseNo": 58,
+   "textArabic": "وَإِذَا بُشِّرَ أَحَدُهُم بِٱلْأُنثَىٰ ظَلَّ وَجْهُهُۥ مُسْوَدًّۭا وَهُوَ كَظِيمٌۭ"
+  },
+  {
+   "verseNo": 59,
+   "textArabic": "يَتَوَٰرَىٰ مِنَ ٱلْقَوْمِ مِن سُوٓءِ مَا بُشِّرَ بِهِۦٓ ۚ أَيُمْسِكُهُۥ عَلَىٰ هُونٍ أَمْ يَدُسُّهُۥ فِى ٱلتُّرَابِ ۗ أَلَا سَآءَ مَا يَحْكُمُونَ"
+  },
+  {
+   "verseNo": 60,
+   "textArabic": "لِلَّذِينَ لَا يُؤْمِنُونَ بِٱلْءَاخِرَةِ مَثَلُ ٱلسَّوْءِ ۖ وَلِلَّهِ ٱلْمَثَلُ ٱلْأَعْلَىٰ ۚ وَهُوَ ٱلْعَزِيزُ ٱلْحَكِيمُ"
+  },
+  {
+   "verseNo": 61,
+   "textArabic": "وَلَوْ يُؤَاخِذُ ٱللَّهُ ٱلنَّاسَ بِظُلْمِهِم مَّا تَرَكَ عَلَيْهَا مِن دَآبَّةٍۢ وَلَٰكِن يُؤَخِّرُهُمْ إِلَىٰٓ أَجَلٍۢ مُّسَمًّۭى ۖ فَإِذَا جَآءَ أَجَلُهُمْ لَا يَسْتَـْٔخِرُونَ سَاعَةًۭ ۖ وَلَا يَسْتَقْدِمُونَ"
+  },
+  {
+   "verseNo": 62,
+   "textArabic": "وَيَجْعَلُونَ لِلَّهِ مَا يَكْرَهُونَ وَتَصِفُ أَلْسِنَتُهُمُ ٱلْكَذِبَ أَنَّ لَهُمُ ٱلْحُسْنَىٰ ۖ لَا جَرَمَ أَنَّ لَهُمُ ٱلنَّارَ وَأَنَّهُم مُّفْرَطُونَ"
+  },
+  {
+   "verseNo": 63,
+   "textArabic": "تَٱللَّهِ لَقَدْ أَرْسَلْنَآ إِلَىٰٓ أُمَمٍۢ مِّن قَبْلِكَ فَزَيَّنَ لَهُمُ ٱلشَّيْطَٰنُ أَعْمَٰلَهُمْ فَهُوَ وَلِيُّهُمُ ٱلْيَوْمَ وَلَهُمْ عَذَابٌ أَلِيمٌۭ"
+  },
+  {
+   "verseNo": 64,
+   "textArabic": "وَمَآ أَنزَلْنَا عَلَيْكَ ٱلْكِتَٰبَ إِلَّا لِتُبَيِّنَ لَهُمُ ٱلَّذِى ٱخْتَلَفُوا۟ فِيهِ ۙ وَهُدًۭى وَرَحْمَةًۭ لِّقَوْمٍۢ يُؤْمِنُونَ"
+  },
+  {
+   "verseNo": 65,
+   "textArabic": "وَٱللَّهُ أَنزَلَ مِنَ ٱلسَّمَآءِ مَآءًۭ فَأَحْيَا بِهِ ٱلْأَرْضَ بَعْدَ مَوْتِهَآ ۚ إِنَّ فِى ذَٰلِكَ لَءَايَةًۭ لِّقَوْمٍۢ يَسْمَعُونَ"
+  },
+  {
+   "verseNo": 66,
+   "textArabic": "وَإِنَّ لَكُمْ فِى ٱلْأَنْعَٰمِ لَعِبْرَةًۭ ۖ نُّسْقِيكُم مِّمَّا فِى بُطُونِهِۦ مِنۢ بَيْنِ فَرْثٍۢ وَدَمٍۢ لَّبَنًا خَالِصًۭا سَآئِغًۭا لِّلشَّٰرِبِينَ"
+  },
+  {
+   "verseNo": 67,
+   "textArabic": "وَمِن ثَمَرَٰتِ ٱلنَّخِيلِ وَٱلْأَعْنَٰبِ تَتَّخِذُونَ مِنْهُ سَكَرًۭا وَرِزْقًا حَسَنًا ۗ إِنَّ فِى ذَٰلِكَ لَءَايَةًۭ لِّقَوْمٍۢ يَعْقِلُونَ"
+  },
+  {
+   "verseNo": 68,
+   "textArabic": "وَأَوْحَىٰ رَبُّكَ إِلَى ٱلنَّحْلِ أَنِ ٱتَّخِذِى مِنَ ٱلْجِبَالِ بُيُوتًۭا وَمِنَ ٱلشَّجَرِ وَمِمَّا يَعْرِشُونَ"
+  },
+  {
+   "verseNo": 69,
+   "textArabic": "ثُمَّ كُلِى مِن كُلِّ ٱلثَّمَرَٰتِ فَٱسْلُكِى سُبُلَ رَبِّكِ ذُلُلًۭا ۚ يَخْرُجُ مِنۢ بُطُونِهَا شَرَابٌۭ مُّخْتَلِفٌ أَلْوَٰنُهُۥ فِيهِ شِفَآءٌۭ لِّلنَّاسِ ۗ إِنَّ فِى ذَٰلِكَ لَءَايَةًۭ لِّقَوْمٍۢ يَتَفَكَّرُونَ"
+  },
+  {
+   "verseNo": 70,
+   "textArabic": "وَٱللَّهُ خَلَقَكُمْ ثُمَّ يَتَوَفَّىٰكُمْ ۚ وَمِنكُم مَّن يُرَدُّ إِلَىٰٓ أَرْذَلِ ٱلْعُمُرِ لِكَىْ لَا يَعْلَمَ بَعْدَ عِلْمٍۢ شَيْـًٔا ۚ إِنَّ ٱللَّهَ عَلِيمٌۭ قَدِيرٌۭ"
+  },
+  {
+   "verseNo": 71,
+   "textArabic": "وَٱللَّهُ فَضَّلَ بَعْضَكُمْ عَلَىٰ بَعْضٍۢ فِى ٱلرِّزْقِ ۚ فَمَا ٱلَّذِينَ فُضِّلُوا۟ بِرَآدِّى رِزْقِهِمْ عَلَىٰ مَا مَلَكَتْ أَيْمَٰنُهُمْ فَهُمْ فِيهِ سَوَآءٌ ۚ أَفَبِنِعْمَةِ ٱللَّهِ يَجْحَدُونَ"
+  },
+  {
+   "verseNo": 72,
+   "textArabic": "وَٱللَّهُ جَعَلَ لَكُم مِّنْ أَنفُسِكُمْ أَزْوَٰجًۭا وَجَعَلَ لَكُم مِّنْ أَزْوَٰجِكُم بَنِينَ وَحَفَدَةًۭ وَرَزَقَكُم مِّنَ ٱلطَّيِّبَٰتِ ۚ أَفَبِٱلْبَٰطِلِ يُؤْمِنُونَ وَبِنِعْمَتِ ٱللَّهِ هُمْ يَكْفُرُونَ"
+  },
+  {
+   "verseNo": 73,
+   "textArabic": "وَيَعْبُدُونَ مِن دُونِ ٱللَّهِ مَا لَا يَمْلِكُ لَهُمْ رِزْقًۭا مِّنَ ٱلسَّمَٰوَٰتِ وَٱلْأَرْضِ شَيْـًۭٔا وَلَا يَسْتَطِيعُونَ"
+  },
+  {
+   "verseNo": 74,
+   "textArabic": "فَلَا تَضْرِبُوا۟ لِلَّهِ ٱلْأَمْثَالَ ۚ إِنَّ ٱللَّهَ يَعْلَمُ وَأَنتُمْ لَا تَعْلَمُونَ"
+  },
+  {
+   "verseNo": 75,
+   "textArabic": "۞ ضَرَبَ ٱللَّهُ مَثَلًا عَبْدًۭا مَّمْلُوكًۭا لَّا يَقْدِرُ عَلَىٰ شَىْءٍۢ وَمَن رَّزَقْنَٰهُ مِنَّا رِزْقًا حَسَنًۭا فَهُوَ يُنفِقُ مِنْهُ سِرًّۭا وَجَهْرًا ۖ هَلْ يَسْتَوُۥنَ ۚ ٱلْحَمْدُ لِلَّهِ ۚ بَلْ أَكْثَرُهُمْ لَا يَعْلَمُونَ"
+  },
+  {
+   "verseNo": 76,
+   "textArabic": "وَضَرَبَ ٱللَّهُ مَثَلًۭا رَّجُلَيْنِ أَحَدُهُمَآ أَبْكَمُ لَا يَقْدِرُ عَلَىٰ شَىْءٍۢ وَهُوَ كَلٌّ عَلَىٰ مَوْلَىٰهُ أَيْنَمَا يُوَجِّههُّ لَا يَأْتِ بِخَيْرٍ ۖ هَلْ يَسْتَوِى هُوَ وَمَن يَأْمُرُ بِٱلْعَدْلِ ۙ وَهُوَ عَلَىٰ صِرَٰطٍۢ مُّسْتَقِيمٍۢ"
+  },
+  {
+   "verseNo": 77,
+   "textArabic": "وَلِلَّهِ غَيْبُ ٱلسَّمَٰوَٰتِ وَٱلْأَرْضِ ۚ وَمَآ أَمْرُ ٱلسَّاعَةِ إِلَّا كَلَمْحِ ٱلْبَصَرِ أَوْ هُوَ أَقْرَبُ ۚ إِنَّ ٱللَّهَ عَلَىٰ كُلِّ شَىْءٍۢ قَدِيرٌۭ"
+  },
+  {
+   "verseNo": 78,
+   "textArabic": "وَٱللَّهُ أَخْرَجَكُم مِّنۢ بُطُونِ أُمَّهَٰتِكُمْ لَا تَعْلَمُونَ شَيْـًۭٔا وَجَعَلَ لَكُمُ ٱلسَّمْعَ وَٱلْأَبْصَٰرَ وَٱلْأَفْـِٔدَةَ ۙ لَعَلَّكُمْ تَشْكُرُونَ"
+  },
+  {
+   "verseNo": 79,
+   "textArabic": "أَلَمْ يَرَوْا۟ إِلَى ٱلطَّيْرِ مُسَخَّرَٰتٍۢ فِى جَوِّ ٱلسَّمَآءِ مَا يُمْسِكُهُنَّ إِلَّا ٱللَّهُ ۗ إِنَّ فِى ذَٰلِكَ لَءَايَٰتٍۢ لِّقَوْمٍۢ يُؤْمِنُونَ"
+  },
+  {
+   "verseNo": 80,
+   "textArabic": "وَٱللَّهُ جَعَلَ لَكُم مِّنۢ بُيُوتِكُمْ سَكَنًۭا وَجَعَلَ لَكُم مِّن جُلُودِ ٱلْأَنْعَٰمِ بُيُوتًۭا تَسْتَخِفُّونَهَا يَوْمَ ظَعْنِكُمْ وَيَوْمَ إِقَامَتِكُمْ ۙ وَمِنْ أَصْوَافِهَا وَأَوْبَارِهَا وَأَشْعَارِهَآ أَثَٰثًۭا وَمَتَٰعًا إِلَىٰ حِينٍۢ"
+  },
+  {
+   "verseNo": 81,
+   "textArabic": "وَٱللَّهُ جَعَلَ لَكُم مِّمَّا خَلَقَ ظِلَٰلًۭا وَجَعَلَ لَكُم مِّنَ ٱلْجِبَالِ أَكْنَٰنًۭا وَجَعَلَ لَكُمْ سَرَٰبِيلَ تَقِيكُمُ ٱلْحَرَّ وَسَرَٰبِيلَ تَقِيكُم بَأْسَكُمْ ۚ كَذَٰلِكَ يُتِمُّ نِعْمَتَهُۥ عَلَيْكُمْ لَعَلَّكُمْ تُسْلِمُونَ"
+  },
+  {
+   "verseNo": 82,
+   "textArabic": "فَإِن تَوَلَّوْا۟ فَإِنَّمَا عَلَيْكَ ٱلْبَلَٰغُ ٱلْمُبِينُ"
+  },
+  {
+   "verseNo": 83,
+   "textArabic": "يَعْرِفُونَ نِعْمَتَ ٱللَّهِ ثُمَّ يُنكِرُونَهَا وَأَكْثَرُهُمُ ٱلْكَٰفِرُونَ"
+  },
+  {
+   "verseNo": 84,
+   "textArabic": "وَيَوْمَ نَبْعَثُ مِن كُلِّ أُمَّةٍۢ شَهِيدًۭا ثُمَّ لَا يُؤْذَنُ لِلَّذِينَ كَفَرُوا۟ وَلَا هُمْ يُسْتَعْتَبُونَ"
+  },
+  {
+   "verseNo": 85,
+   "textArabic": "وَإِذَا رَءَا ٱلَّذِينَ ظَلَمُوا۟ ٱلْعَذَابَ فَلَا يُخَفَّفُ عَنْهُمْ وَلَا هُمْ يُنظَرُونَ"
+  },
+  {
+   "verseNo": 86,
+   "textArabic": "وَإِذَا رَءَا ٱلَّذِينَ أَشْرَكُوا۟ شُرَكَآءَهُمْ قَالُوا۟ رَبَّنَا هَٰٓؤُلَآءِ شُرَكَآؤُنَا ٱلَّذِينَ كُنَّا نَدْعُوا۟ مِن دُونِكَ ۖ فَأَلْقَوْا۟ إِلَيْهِمُ ٱلْقَوْلَ إِنَّكُمْ لَكَٰذِبُونَ"
+  },
+  {
+   "verseNo": 87,
+   "textArabic": "وَأَلْقَوْا۟ إِلَى ٱللَّهِ يَوْمَئِذٍ ٱلسَّلَمَ ۖ وَضَلَّ عَنْهُم مَّا كَانُوا۟ يَفْتَرُونَ"
+  },
+  {
+   "verseNo": 88,
+   "textArabic": "ٱلَّذِينَ كَفَرُوا۟ وَصَدُّوا۟ عَن سَبِيلِ ٱللَّهِ زِدْنَٰهُمْ عَذَابًۭا فَوْقَ ٱلْعَذَابِ بِمَا كَانُوا۟ يُفْسِدُونَ"
+  },
+  {
+   "verseNo": 89,
+   "textArabic": "وَيَوْمَ نَبْعَثُ فِى كُلِّ أُمَّةٍۢ شَهِيدًا عَلَيْهِم مِّنْ أَنفُسِهِمْ ۖ وَجِئْنَا بِكَ شَهِيدًا عَلَىٰ هَٰٓؤُلَآءِ ۚ وَنَزَّلْنَا عَلَيْكَ ٱلْكِتَٰبَ تِبْيَٰنًۭا لِّكُلِّ شَىْءٍۢ وَهُدًۭى وَرَحْمَةًۭ وَبُشْرَىٰ لِلْمُسْلِمِينَ"
+  },
+  {
+   "verseNo": 90,
+   "textArabic": "۞ إِنَّ ٱللَّهَ يَأْمُرُ بِٱلْعَدْلِ وَٱلْإِحْسَٰنِ وَإِيتَآئِ ذِى ٱلْقُرْبَىٰ وَيَنْهَىٰ عَنِ ٱلْفَحْشَآءِ وَٱلْمُنكَرِ وَٱلْبَغْىِ ۚ يَعِظُكُمْ لَعَلَّكُمْ تَذَكَّرُونَ"
+  },
+  {
+   "verseNo": 91,
+   "textArabic": "وَأَوْفُوا۟ بِعَهْدِ ٱللَّهِ إِذَا عَٰهَدتُّمْ وَلَا تَنقُضُوا۟ ٱلْأَيْمَٰنَ بَعْدَ تَوْكِيدِهَا وَقَدْ جَعَلْتُمُ ٱللَّهَ عَلَيْكُمْ كَفِيلًا ۚ إِنَّ ٱللَّهَ يَعْلَمُ مَا تَفْعَلُونَ"
+  },
+  {
+   "verseNo": 92,
+   "textArabic": "وَلَا تَكُونُوا۟ كَٱلَّتِى نَقَضَتْ غَزْلَهَا مِنۢ بَعْدِ قُوَّةٍ أَنكَٰثًۭا تَتَّخِذُونَ أَيْمَٰنَكُمْ دَخَلًۢا بَيْنَكُمْ أَن تَكُونَ أُمَّةٌ هِىَ أَرْبَىٰ مِنْ أُمَّةٍ ۚ إِنَّمَا يَبْلُوكُمُ ٱللَّهُ بِهِۦ ۚ وَلَيُبَيِّنَنَّ لَكُمْ يَوْمَ ٱلْقِيَٰمَةِ مَا كُنتُمْ فِيهِ تَخْتَلِفُونَ"
+  },
+  {
+   "verseNo": 93,
+   "textArabic": "وَلَوْ شَآءَ ٱللَّهُ لَجَعَلَكُمْ أُمَّةًۭ وَٰحِدَةًۭ وَلَٰكِن يُضِلُّ مَن يَشَآءُ وَيَهْدِى مَن يَشَآءُ ۚ وَلَتُسْـَٔلُنَّ عَمَّا كُنتُمْ تَعْمَلُونَ"
+  },
+  {
+   "verseNo": 94,
+   "textArabic": "وَلَا تَتَّخِذُوٓا۟ أَيْمَٰنَكُمْ دَخَلًۢا بَيْنَكُمْ فَتَزِلَّ قَدَمٌۢ بَعْدَ ثُبُوتِهَا وَتَذُوقُوا۟ ٱلسُّوٓءَ بِمَا صَدَدتُّمْ عَن سَبِيلِ ٱللَّهِ ۖ وَلَكُمْ عَذَابٌ عَظِيمٌۭ"
+  },
+  {
+   "verseNo": 95,
+   "textArabic": "وَلَا تَشْتَرُوا۟ بِعَهْدِ ٱللَّهِ ثَمَنًۭا قَلِيلًا ۚ إِنَّمَا عِندَ ٱللَّهِ هُوَ خَيْرٌۭ لَّكُمْ إِن كُنتُمْ تَعْلَمُونَ"
+  },
+  {
+   "verseNo": 96,
+   "textArabic": "مَا عِندَكُمْ يَنفَدُ ۖ وَمَا عِندَ ٱللَّهِ بَاقٍۢ ۗ وَلَنَجْزِيَنَّ ٱلَّذِينَ صَبَرُوٓا۟ أَجْرَهُم بِأَحْسَنِ مَا كَانُوا۟ يَعْمَلُونَ"
+  },
+  {
+   "verseNo": 97,
+   "textArabic": "مَنْ عَمِلَ صَٰلِحًۭا مِّن ذَكَرٍ أَوْ أُنثَىٰ وَهُوَ مُؤْمِنٌۭ فَلَنُحْيِيَنَّهُۥ حَيَوٰةًۭ طَيِّبَةًۭ ۖ وَلَنَجْزِيَنَّهُمْ أَجْرَهُم بِأَحْسَنِ مَا كَانُوا۟ يَعْمَلُونَ"
+  },
+  {
+   "verseNo": 98,
+   "textArabic": "فَإِذَا قَرَأْتَ ٱلْقُرْءَانَ فَٱسْتَعِذْ بِٱللَّهِ مِنَ ٱلشَّيْطَٰنِ ٱلرَّجِيمِ"
+  },
+  {
+   "verseNo": 99,
+   "textArabic": "إِنَّهُۥ لَيْسَ لَهُۥ سُلْطَٰنٌ عَلَى ٱلَّذِينَ ءَامَنُوا۟ وَعَلَىٰ رَبِّهِمْ يَتَوَكَّلُونَ"
+  },
+  {
+   "verseNo": 100,
+   "textArabic": "إِنَّمَا سُلْطَٰنُهُۥ عَلَى ٱلَّذِينَ يَتَوَلَّوْنَهُۥ وَٱلَّذِينَ هُم بِهِۦ مُشْرِكُونَ"
+  },
+  {
+   "verseNo": 101,
+   "textArabic": "وَإِذَا بَدَّلْنَآ ءَايَةًۭ مَّكَانَ ءَايَةٍۢ ۙ وَٱللَّهُ أَعْلَمُ بِمَا يُنَزِّلُ قَالُوٓا۟ إِنَّمَآ أَنتَ مُفْتَرٍۭ ۚ بَلْ أَكْثَرُهُمْ لَا يَعْلَمُونَ"
+  },
+  {
+   "verseNo": 102,
+   "textArabic": "قُلْ نَزَّلَهُۥ رُوحُ ٱلْقُدُسِ مِن رَّبِّكَ بِٱلْحَقِّ لِيُثَبِّتَ ٱلَّذِينَ ءَامَنُوا۟ وَهُدًۭى وَبُشْرَىٰ لِلْمُسْلِمِينَ"
+  },
+  {
+   "verseNo": 103,
+   "textArabic": "وَلَقَدْ نَعْلَمُ أَنَّهُمْ يَقُولُونَ إِنَّمَا يُعَلِّمُهُۥ بَشَرٌۭ ۗ لِّسَانُ ٱلَّذِى يُلْحِدُونَ إِلَيْهِ أَعْجَمِىٌّۭ وَهَٰذَا لِسَانٌ عَرَبِىٌّۭ مُّبِينٌ"
+  },
+  {
+   "verseNo": 104,
+   "textArabic": "إِنَّ ٱلَّذِينَ لَا يُؤْمِنُونَ بِـَٔايَٰتِ ٱللَّهِ لَا يَهْدِيهِمُ ٱللَّهُ وَلَهُمْ عَذَابٌ أَلِيمٌ"
+  },
+  {
+   "verseNo": 105,
+   "textArabic": "إِنَّمَا يَفْتَرِى ٱلْكَذِبَ ٱلَّذِينَ لَا يُؤْمِنُونَ بِـَٔايَٰتِ ٱللَّهِ ۖ وَأُو۟لَٰٓئِكَ هُمُ ٱلْكَٰذِبُونَ"
+  },
+  {
+   "verseNo": 106,
+   "textArabic": "مَن كَفَرَ بِٱللَّهِ مِنۢ بَعْدِ إِيمَٰنِهِۦٓ إِلَّا مَنْ أُكْرِهَ وَقَلْبُهُۥ مُطْمَئِنٌّۢ بِٱلْإِيمَٰنِ وَلَٰكِن مَّن شَرَحَ بِٱلْكُفْرِ صَدْرًۭا فَعَلَيْهِمْ غَضَبٌۭ مِّنَ ٱللَّهِ وَلَهُمْ عَذَابٌ عَظِيمٌۭ"
+  },
+  {
+   "verseNo": 107,
+   "textArabic": "ذَٰلِكَ بِأَنَّهُمُ ٱسْتَحَبُّوا۟ ٱلْحَيَوٰةَ ٱلدُّنْيَا عَلَى ٱلْءَاخِرَةِ وَأَنَّ ٱللَّهَ لَا يَهْدِى ٱلْقَوْمَ ٱلْكَٰفِرِينَ"
+  },
+  {
+   "verseNo": 108,
+   "textArabic": "أُو۟لَٰٓئِكَ ٱلَّذِينَ طَبَعَ ٱللَّهُ عَلَىٰ قُلُوبِهِمْ وَسَمْعِهِمْ وَأَبْصَٰرِهِمْ ۖ وَأُو۟لَٰٓئِكَ هُمُ ٱلْغَٰفِلُونَ"
+  },
+  {
+   "verseNo": 109,
+   "textArabic": "لَا جَرَمَ أَنَّهُمْ فِى ٱلْءَاخِرَةِ هُمُ ٱلْخَٰسِرُونَ"
+  },
+  {
+   "verseNo": 110,
+   "textArabic": "ثُمَّ إِنَّ رَبَّكَ لِلَّذِينَ هَاجَرُوا۟ مِنۢ بَعْدِ مَا فُتِنُوا۟ ثُمَّ جَٰهَدُوا۟ وَصَبَرُوٓا۟ إِنَّ رَبَّكَ مِنۢ بَعْدِهَا لَغَفُورٌۭ رَّحِيمٌۭ"
+  },
+  {
+   "verseNo": 111,
+   "textArabic": "۞ يَوْمَ تَأْتِى كُلُّ نَفْسٍۢ تُجَٰدِلُ عَن نَّفْسِهَا وَتُوَفَّىٰ كُلُّ نَفْسٍۢ مَّا عَمِلَتْ وَهُمْ لَا يُظْلَمُونَ"
+  },
+  {
+   "verseNo": 112,
+   "textArabic": "وَضَرَبَ ٱللَّهُ مَثَلًۭا قَرْيَةًۭ كَانَتْ ءَامِنَةًۭ مُّطْمَئِنَّةًۭ يَأْتِيهَا رِزْقُهَا رَغَدًۭا مِّن كُلِّ مَكَانٍۢ فَكَفَرَتْ بِأَنْعُمِ ٱللَّهِ فَأَذَٰقَهَا ٱللَّهُ لِبَاسَ ٱلْجُوعِ وَٱلْخَوْفِ بِمَا كَانُوا۟ يَصْنَعُونَ"
+  },
+  {
+   "verseNo": 113,
+   "textArabic": "وَلَقَدْ جَآءَهُمْ رَسُولٌۭ مِّنْهُمْ فَكَذَّبُوهُ فَأَخَذَهُمُ ٱلْعَذَابُ وَهُمْ ظَٰلِمُونَ"
+  },
+  {
+   "verseNo": 114,
+   "textArabic": "فَكُلُوا۟ مِمَّا رَزَقَكُمُ ٱللَّهُ حَلَٰلًۭا طَيِّبًۭا وَٱشْكُرُوا۟ نِعْمَتَ ٱللَّهِ إِن كُنتُمْ إِيَّاهُ تَعْبُدُونَ"
+  },
+  {
+   "verseNo": 115,
+   "textArabic": "إِنَّمَا حَرَّمَ عَلَيْكُمُ ٱلْمَيْتَةَ وَٱلدَّمَ وَلَحْمَ ٱلْخِنزِيرِ وَمَآ أُهِلَّ لِغَيْرِ ٱللَّهِ بِهِۦ ۖ فَمَنِ ٱضْطُرَّ غَيْرَ بَاغٍۢ وَلَا عَادٍۢ فَإِنَّ ٱللَّهَ غَفُورٌۭ رَّحِيمٌۭ"
+  },
+  {
+   "verseNo": 116,
+   "textArabic": "وَلَا تَقُولُوا۟ لِمَا تَصِفُ أَلْسِنَتُكُمُ ٱلْكَذِبَ هَٰذَا حَلَٰلٌۭ وَهَٰذَا حَرَامٌۭ لِّتَفْتَرُوا۟ عَلَى ٱللَّهِ ٱلْكَذِبَ ۚ إِنَّ ٱلَّذِينَ يَفْتَرُونَ عَلَى ٱللَّهِ ٱلْكَذِبَ لَا يُفْلِحُونَ"
+  },
+  {
+   "verseNo": 117,
+   "textArabic": "مَتَٰعٌۭ قَلِيلٌۭ وَلَهُمْ عَذَابٌ أَلِيمٌۭ"
+  },
+  {
+   "verseNo": 118,
+   "textArabic": "وَعَلَى ٱلَّذِينَ هَادُوا۟ حَرَّمْنَا مَا قَصَصْنَا عَلَيْكَ مِن قَبْلُ ۖ وَمَا ظَلَمْنَٰهُمْ وَلَٰكِن كَانُوٓا۟ أَنفُسَهُمْ يَظْلِمُونَ"
+  },
+  {
+   "verseNo": 119,
+   "textArabic": "ثُمَّ إِنَّ رَبَّكَ لِلَّذِينَ عَمِلُوا۟ ٱلسُّوٓءَ بِجَهَٰلَةٍۢ ثُمَّ تَابُوا۟ مِنۢ بَعْدِ ذَٰلِكَ وَأَصْلَحُوٓا۟ إِنَّ رَبَّكَ مِنۢ بَعْدِهَا لَغَفُورٌۭ رَّحِيمٌ"
+  },
+  {
+   "verseNo": 120,
+   "textArabic": "إِنَّ إِبْرَٰهِيمَ كَانَ أُمَّةًۭ قَانِتًۭا لِّلَّهِ حَنِيفًۭا وَلَمْ يَكُ مِنَ ٱلْمُشْرِكِينَ"
+  },
+  {
+   "verseNo": 121,
+   "textArabic": "شَاكِرًۭا لِّأَنْعُمِهِ ۚ ٱجْتَبَىٰهُ وَهَدَىٰهُ إِلَىٰ صِرَٰطٍۢ مُّسْتَقِيمٍۢ"
+  },
+  {
+   "verseNo": 122,
+   "textArabic": "وَءَاتَيْنَٰهُ فِى ٱلدُّنْيَا حَسَنَةًۭ ۖ وَإِنَّهُۥ فِى ٱلْءَاخِرَةِ لَمِنَ ٱلصَّٰلِحِينَ"
+  },
+  {
+   "verseNo": 123,
+   "textArabic": "ثُمَّ أَوْحَيْنَآ إِلَيْكَ أَنِ ٱتَّبِعْ مِلَّةَ إِبْرَٰهِيمَ حَنِيفًۭا ۖ وَمَا كَانَ مِنَ ٱلْمُشْرِكِينَ"
+  },
+  {
+   "verseNo": 124,
+   "textArabic": "إِنَّمَا جُعِلَ ٱلسَّبْتُ عَلَى ٱلَّذِينَ ٱخْتَلَفُوا۟ فِيهِ ۚ وَإِنَّ رَبَّكَ لَيَحْكُمُ بَيْنَهُمْ يَوْمَ ٱلْقِيَٰمَةِ فِيمَا كَانُوا۟ فِيهِ يَخْتَلِفُونَ"
+  },
+  {
+   "verseNo": 125,
+   "textArabic": "ٱدْعُ إِلَىٰ سَبِيلِ رَبِّكَ بِٱلْحِكْمَةِ وَٱلْمَوْعِظَةِ ٱلْحَسَنَةِ ۖ وَجَٰدِلْهُم بِٱلَّتِى هِىَ أَحْسَنُ ۚ إِنَّ رَبَّكَ هُوَ أَعْلَمُ بِمَن ضَلَّ عَن سَبِيلِهِۦ ۖ وَهُوَ أَعْلَمُ بِٱلْمُهْتَدِينَ"
+  },
+  {
+   "verseNo": 126,
+   "textArabic": "وَإِنْ عَاقَبْتُمْ فَعَاقِبُوا۟ بِمِثْلِ مَا عُوقِبْتُم بِهِۦ ۖ وَلَئِن صَبَرْتُمْ لَهُوَ خَيْرٌۭ لِّلصَّٰبِرِينَ"
+  },
+  {
+   "verseNo": 127,
+   "textArabic": "وَٱصْبِرْ وَمَا صَبْرُكَ إِلَّا بِٱللَّهِ ۚ وَلَا تَحْزَنْ عَلَيْهِمْ وَلَا تَكُ فِى ضَيْقٍۢ مِّمَّا يَمْكُرُونَ"
+  },
+  {
+   "verseNo": 128,
+   "textArabic": "إِنَّ ٱللَّهَ مَعَ ٱلَّذِينَ ٱتَّقَوا۟ وَّٱلَّذِينَ هُم مُّحْسِنُونَ"
+  }
+ ],
+ "translations": [
+  {
+   "verseNo": 1,
+   "source": "diyanet",
+   "text": "Allah'ın emri gelecektir. Artık onun acele gelmesini istemeyin. Allah, onların ortak koştukları şeylerden uzaktır, yücedir."
+  },
+  {
+   "verseNo": 1,
+   "source": "okuyan",
+   "text": "Allah’ın emri gelmiştir. Onu istemekte acele etmeyin! (Allah) onların ortak koştuklarından yücedir ve uzaktır."
+  },
+  {
+   "verseNo": 1,
+   "source": "islamoglu",
+   "text": "Allah’ın emri geldi (bilin); onun çabuk gelmesini istemenize gerek yok ki! Yüceler yücesi olan O, onların şirk koştukları her şeyin ötesinde aşkın ve eşsizdir."
+  },
+  {
+   "verseNo": 1,
+   "source": "esed",
+   "text": "Allah´ın buyruğu (mutlaka) yerine gelecektir: öyleyse artık onun tez gelmesini istemeyin! O, sınırsız kudret ve kemaliyle, insanların tanrısal nitelikler yakıştırarak kendisine ortak koştukları her şeyden, herkesten üstündür, yücedir"
+  },
+  {
+   "verseNo": 2,
+   "source": "diyanet",
+   "text": "Allah, \"Benden başka ilah yoktur. Öyle ise bana karşı gelmekten sakının\" diye (insanları) uyarmaları için emrini içeren vahiy ile melekleri kullarından dilediğine indirir."
+  },
+  {
+   "verseNo": 2,
+   "source": "okuyan",
+   "text": "(Allah) kendi emri gereği “Benden başka ilah olmadığına dair (kullarımı) uyarın ve bana karşı muttakî (duyarlı) olun!” diye melekleri kullarından dilediği (layık olan) kimseye rûh (vahiy) ile gönderir."
+  },
+  {
+   "verseNo": 2,
+   "source": "islamoglu",
+   "text": "O, kullarından tercih ettiğine “(İnsanları) uyarın! Şunu iyi bilin ki Benden başka ilâh yok! O hâlde artık, Benden (başkalarına ilâhlık yakıştırmaktan) sakının!” buyruğunu iletmeleri için, melekleri (ölü canlara) hayat veren vahiyle indirir.”"
+  },
+  {
+   "verseNo": 2,
+   "source": "esed",
+   "text": "O (ki,) kullarından dilediğine: \"(bütün insanları) uyarın ki, Benden başka tanrı yok, öyleyse Bana karşı kendinizi uyanık bir bilinç ve duyarlık içinde tutun!\" buyruğunu ulaştırmaları için melekleri vahiyle indirir"
+  },
+  {
+   "verseNo": 3,
+   "source": "diyanet",
+   "text": "Allah, gökleri ve yeri hak ve hikmete uygun olarak yarattı. O, müşriklerin ortak koştukları şeylerden yücedir."
+  },
+  {
+   "verseNo": 3,
+   "source": "okuyan",
+   "text": "(Allah) gökleri ve yeri bir amaç ile yaratmıştır. O, (müşriklerin) ortak koştuklarından yücedir."
+  },
+  {
+   "verseNo": 3,
+   "source": "islamoglu",
+   "text": "O, gökleri ve yeri mutlak hakikate (bir atıf olsun diye) amaçlı olarak yarattı; eşyaya ilâhlık yakıştıranların tasavvur ettiklerinin çok ötesinde, aşkındır O!"
+  },
+  {
+   "verseNo": 3,
+   "source": "esed",
+   "text": "O (ki,) gökleri ve yeri (içsel) bir gerçeklik, (şaşmaz bir düzen) üzere yaratmıştır; insanların tanrısal nitelikler yakıştırarak kendisine ortak koştukları her şeyin, herkesin üstünde, ötesindedir O"
+  },
+  {
+   "verseNo": 4,
+   "source": "diyanet",
+   "text": "İnsanı nutfeden (bir damla sudan) yarattı. Böyle iken bakarsın ki o, Rabbine açık bir hasım kesilmiştir"
+  },
+  {
+   "verseNo": 4,
+   "source": "okuyan",
+   "text": "O, insanı nutfeden (zigottan) yaratmıştır. Bir de bakarsın ki o apaçık bir tartışmacı olmuş."
+  },
+  {
+   "verseNo": 4,
+   "source": "islamoglu",
+   "text": "O insanı bir damlacık atık sudan yaratmıştır. Fakat o da ne! O sonunda bilinçli bir (biçimde Allah’a karşı) kendini savunan biri olup çıkar."
+  },
+  {
+   "verseNo": 4,
+   "source": "esed",
+   "text": "O, insanı (sadece) bir sperm damlasından yarattı; ama yeri gelince, bu aynı yaratık, düşünme ve karşı çıkma gücüyle donatılmış olduğunu hemen ortaya koyuyor"
+  },
+  {
+   "verseNo": 5,
+   "source": "diyanet",
+   "text": "Hayvanları da yarattı. Onlarda sizin için bir ısınma ve birçok faydalar vardır. Hem de onlardan yersiniz."
+  },
+  {
+   "verseNo": 5,
+   "source": "okuyan",
+   "text": "Hayvanları da O yaratmıştır. Onlarda sizin için ısıtıcı (şeyler) ve birçok yarar vardır. Onların bir kısmından da yersiniz."
+  },
+  {
+   "verseNo": 5,
+   "source": "islamoglu",
+   "text": "Ve evcil hayvanları da O yarattı: sizi ısıtan giysileri onlardan temin ediyorsunuz. Daha başka yararlarının yanında onlardan elde ettiğiniz besinleri de yiyorsunuz."
+  },
+  {
+   "verseNo": 5,
+   "source": "esed",
+   "text": "Ve evcil hayvanları da yarattı O: o hayvanlar ki, kendilerinden, pek çok yararları yanında, sizi ısıtan giysiler, besleyen yiyecekler elde ediyorsunuz"
+  },
+  {
+   "verseNo": 6,
+   "source": "diyanet",
+   "text": "Onları akşamleyin getirirken, sabahleyin salıverirken de sizin için bir güzellik (ve zevk) vardır."
+  },
+  {
+   "verseNo": 6,
+   "source": "okuyan",
+   "text": "(Ayrıca) onlarda sizin için akşam getirirken, sabah salıverirken bir (başka) güzellik vardır."
+  },
+  {
+   "verseNo": 6,
+   "source": "islamoglu",
+   "text": "Yine onlarda, akşam getirirken ve sabah salarken sizin güzellik duygunuzu tatmin eden bir boyut vardır."
+  },
+  {
+   "verseNo": 6,
+   "source": "esed",
+   "text": "akşam eve getirirken, sabah otlağa çıkarırken onlarda bir güzellik bulursunuz"
+  },
+  {
+   "verseNo": 7,
+   "source": "diyanet",
+   "text": "Onlar ağırlıklarınızı, sizin ancak zorlukla varabileceğiniz beldelere taşırlar. Şüphesiz Rabbiniz çok esirgeyicidir, çok merhametlidir."
+  },
+  {
+   "verseNo": 7,
+   "source": "okuyan",
+   "text": "(O hayvanlar) yüklerinizi, (büyük) güçlüklere katlanmadan ulaşamayacağınız şehir(ler)e taşırlar. Şüphesiz ki Rabbiniz elbette çok şefkatlidir, çok merhametlidir."
+  },
+  {
+   "verseNo": 7,
+   "source": "islamoglu",
+   "text": "Kendinizi sıkıntıya sokmadan ulaşamayacağınız nice mekânlara yüklerinizi onlar taşır. İyi bilin ki Rabbiniz gerçekten çok şefkatli, pek merhametlidir."
+  },
+  {
+   "verseNo": 7,
+   "source": "esed",
+   "text": "Kendinizi büyük sıkıntılara sokmadan varamayacağınız nice yerlere yükünüzü onlar taşır. Rabbiniz gerçekten çok şefkatli, çok merhametlidir"
+  },
+  {
+   "verseNo": 8,
+   "source": "diyanet",
+   "text": "Hem binesiniz diye, hem de süs olarak atları, katırları ve merkepleri de yarattı. Bilemeyeceğiniz daha nice şeyleri de yaratır."
+  },
+  {
+   "verseNo": 8,
+   "source": "okuyan",
+   "text": "Kendilerine binmeniz ve güzel görüntü olsun diye atı, katırı ve eşeği de (yaratmıştır). (Allah) henüz bilemediğiniz (daha nice şeyler) yaratmaktadır."
+  },
+  {
+   "verseNo": 8,
+   "source": "islamoglu",
+   "text": "O, atları, katırları ve merkepleri hem kendilerine binesiniz, hem de (hayata) güzellik katmak için yarattı; ve daha sizin bilmediğiniz nice şeyleri de yaratacak."
+  },
+  {
+   "verseNo": 8,
+   "source": "esed",
+   "text": "Ve binmeniz için atları, katırları, merkepleri, (hayatı süsleyen) nakışlar, bezekler olarak O yarattı; O, bilmediğiniz daha neler neler yaratmaktadır"
+  },
+  {
+   "verseNo": 9,
+   "source": "diyanet",
+   "text": "Doğru yolu göstermek Allah'a aittir. Yolun eğrisi de vardır. Allah dileseydi hepinizi doğru yola iletirdi."
+  },
+  {
+   "verseNo": 9,
+   "source": "okuyan",
+   "text": "Yolun doğrusu(nu göstermek) yalnızca Allah’a aittir. (Yolun) eğrisi de vardır.(Allah) dileseydi hepinizi doğru yola ulaştırırdı."
+  },
+  {
+   "verseNo": 9,
+   "source": "islamoglu",
+   "text": "İşte (O tek yaratıcı olduğu için), yolun istikamet tayini de O’na düşer; zira bazı yollar saptırıcıdır. Eğer Allah tercih etseydi, hepinizi doğru yola yöneltirdi."
+  },
+  {
+   "verseNo": 9,
+   "source": "esed",
+   "text": "Ve (sizin yaratıcınız O olduğu için) size yolun doğrusunu göstermek de Allah´a düşer; çünkü o yoldan sapıp da yolunu kaybeden (çok insan) var. Oysa, Allah dileseydi sizin hepinizi doğru yola çıkarırdı"
+  },
+  {
+   "verseNo": 10,
+   "source": "diyanet",
+   "text": "O, göklerden sizin için su indirendir. İçilecek su ondandır. Hayvanlarınızı otlattığınız bitkiler de onunla meydana gelir."
+  },
+  {
+   "verseNo": 10,
+   "source": "okuyan",
+   "text": "Gökten sizin için suyu indiren O’dur. Ondan hem (size) içecek vardır hem de hayvanlarınızı otlatacağınız bitkiler vardır."
+  },
+  {
+   "verseNo": 10,
+   "source": "islamoglu",
+   "text": "O’dur gökten suyu indiren; ondan hem siz içersiniz, hem de hayvanlarınızı otlattığınız bitkiler;"
+  },
+  {
+   "verseNo": 10,
+   "source": "esed",
+   "text": "O´dur gökten suyu indiren; öyle ki, hem siz içersiniz o sudan, hem de, hayvanlarınızı otlattığınız çayır çimen"
+  },
+  {
+   "verseNo": 11,
+   "source": "diyanet",
+   "text": "Allah o su ile size; ekin, zeytin, hurma ağaçları, üzümler ve her türlü meyvelerden bitirir. Elbette bunda düşünen bir kavim için bir ibret vardır."
+  },
+  {
+   "verseNo": 11,
+   "source": "okuyan",
+   "text": "(Allah) o (su) sayesinde sizin için ekin, zeytin, hurma, üzümler ve diğer meyvelerin hepsinden yetiştirmektedir. Şüphesiz ki bunda düşünen bir toplum için bir delil vardır."
+  },
+  {
+   "verseNo": 11,
+   "source": "islamoglu",
+   "text": "onunla sizin için ekin(ler), zeytin ve hurma ağaçları, üzümler ve daha nice ürünler bitirir O. Unutmayın ki bütün bunlarda, düşünen bir toplum için mutlaka alınacak bir ders vardır."
+  },
+  {
+   "verseNo": 11,
+   "source": "esed",
+   "text": "onunla Allah sizin için ekin(ler), zeytin ve hurma ağaçları, üzümler ve her türden (daha) nice ürünler bitirmektedir: dikkat edin, bütün bunlarda, düşünen insanlar için mutlaka bir ders vardır"
+  },
+  {
+   "verseNo": 12,
+   "source": "diyanet",
+   "text": "O, geceyi, gündüzü, güneşi ve ayı sizin hizmetinize verdi. Bütün yıldızlar da O'nun emri ile sizin hizmetinize verilmiştir. Şüphesiz bunlarda aklını kullanan bir millet için ibretler vardır."
+  },
+  {
+   "verseNo": 12,
+   "source": "okuyan",
+   "text": "O, geceyi, gündüzü, Güneş'i ve Ay'ı sizin için emre boyun eğdirmiştir. Yıldızlar da (Allah’ın) emri ile boyun eğdirilmiştir. Şüphesiz ki bunda aklını kullanan bir toplum için deliller vardır."
+  },
+  {
+   "verseNo": 12,
+   "source": "islamoglu",
+   "text": "Ve O’dur sizin yararlanmanız için geceyi ve gündüzü, güneşi ve Ay’ı (yasalarına) boyun eğdiren; zaten bütün yıldızlar O’nun emrine teslim olmuşlardır. İyi bilin ki bütün bunlarda aklını kullanan bir toplum için mutlaka çıkarılacak bir ders vardır."
+  },
+  {
+   "verseNo": 12,
+   "source": "esed",
+   "text": "Ve geceyi gündüzü sizin (yararlanmanız) için (koyduğu yasalara) boyun eğdirmiştir O; güneş ve ay ve bütün yıldızlar, hepsi O´nun buyruğuna boyun eğmişlerdir: dikkat edin, bütün bunlarda, şüphesiz, aklını kullanan kimseler için çıkarılacak dersler vardır"
+  },
+  {
+   "verseNo": 13,
+   "source": "diyanet",
+   "text": "Sizin için yeryüzünde çeşitli renk ve biçimlerle yarattığı şeyleri de sizin hizmetinize verdi. Öğüt alan bir toplum için bunda ibretler vardır."
+  },
+  {
+   "verseNo": 13,
+   "source": "okuyan",
+   "text": "Yerde/yeryüzünde sizin için rengârenk yarattıklarını (yaydıklarını) da (hizmetinize sunmuştur). Şüphesiz ki bunda, (gerçeği) hatırlayan bir toplum için bir delil vardır."
+  },
+  {
+   "verseNo": 13,
+   "source": "islamoglu",
+   "text": "Ve sizin için yeryüzüne serpiştirdiği her biri farklı tonlarda rengârenk (güzellikler)… Kuşkusuz bütün bunlarda (da), hafızası olup hatırda tutan bir toplum için mutlaka alınacak bir mesaj vardır."
+  },
+  {
+   "verseNo": 13,
+   "source": "esed",
+   "text": "Ve sizin için yeryüzünde yarattığı bütün o rengarenk (güzel) şeyler: işte bunlarda da anıp da hatırda tutmasını bilen kimseler için elbette çıkarılacak bir ders/bir mesaj vardır"
+  },
+  {
+   "verseNo": 14,
+   "source": "diyanet",
+   "text": "O, taze et yemeniz ve takınacağınız süs eşyası çıkarmanız için denizi sizin hizmetinize verendir. Gemilerin orada suyu yara yara gittiğini görürsün. (Bütün bunlar) onun lütfundan nasip aramanız ve şükretmeniz içindir."
+  },
+  {
+   "verseNo": 14,
+   "source": "okuyan",
+   "text": "Kendisinden taze et (balık) yemeniz ve içinden giyeceğiniz (takacağınız) bir süs (eşyası) çıkarmanız için denizi emrinize veren de O’dur. Orada gemilerin denizi yara yara gittiklerini görürsün. (Bu durum, Allah’ın) nimetlerinden aramanız ve şükretmeniz içindir."
+  },
+  {
+   "verseNo": 14,
+   "source": "islamoglu",
+   "text": "Yemeniz için taze et türleri ve takınıp kuşanmanız için mücevherat çıkarasınız diye denizi ve onun içinde suları yararak akıp gittiğini gördüğün(üz) gemileri, O’nun ihsanından payınıza düşeni arayacağınızı ve (bulunca da) şükredeceğinizi umarak (bir yasaya) tâbi kılan da yine O’dur."
+  },
+  {
+   "verseNo": 14,
+   "source": "esed",
+   "text": "Ve yemek için taze et, takınmak için değerli taşlar çıkarasınız diye denizi; ve denizin üstünde suları yararak yol aldığını gördüğünüz gemileri, O´nun cömertliğinden belki bir pay ararsınız ve şükredersiniz diye (koyduğu tabii yasalara) bağlı kılan O´dur"
+  },
+  {
+   "verseNo": 15,
+   "source": "diyanet",
+   "text": "Sizi sarsmamasi için yeryüzünde saglam daglar; yolunuzu bulmaniz için de nehirler, yollar ve nice isaretler meydana getirdi. Insanlar yildizlarla da yollarini bulurlar."
+  },
+  {
+   "verseNo": 15,
+   "source": "okuyan",
+   "text": "15-16 . Sizi sarsması konusunda yer içinde ağır baskılar, (ayrıca gideceğiniz yerlere) ulaşmanız için ırmaklar, yollar ve işaretler yerleştirmiştir. Onlar, yıldız(lar)la da yollarını (yönlerini) bulurlar."
+  },
+  {
+   "verseNo": 15,
+   "source": "islamoglu",
+   "text": "Bir yanda sizi sarsar diye yeryüzüne yerleştirdiği sağlam ve sarsılmaz dağlar, öte yanda yolunuzu bulabilmeniz için nehirler ve yollar,"
+  },
+  {
+   "verseNo": 15,
+   "source": "esed",
+   "text": "Ve sizi sarsmasın diye arza yerinden oynatılmaz dağlar; ve yolunuzu bulasınız diye nehirler, yollar yerleştirdi"
+  },
+  {
+   "verseNo": 16,
+   "source": "diyanet",
+   "text": "Sizi sarsmamasi için yeryüzünde saglam daglar; yolunuzu bulmaniz için de nehirler, yollar ve nice isaretler meydana getirdi. Insanlar yildizlarla da yollarini bulurlar."
+  },
+  {
+   "verseNo": 16,
+   "source": "okuyan",
+   "text": "15-16 . Sizi sarsması konusunda yer içinde ağır baskılar, (ayrıca gideceğiniz yerlere) ulaşmanız için ırmaklar, yollar ve işaretler yerleştirmiştir. Onlar, yıldız(lar)la da yollarını (yönlerini) bulurlar."
+  },
+  {
+   "verseNo": 16,
+   "source": "islamoglu",
+   "text": "ve daha bir nice işaretler var… Mesela onlar, yıldızlarla yollarını buluyorlar."
+  },
+  {
+   "verseNo": 16,
+   "source": "esed",
+   "text": "ve daha (nice) işaretler: (söz gelimi) yıldızlar (ki, onlar)la da insanlar yollarını bulmaktadırlar"
+  },
+  {
+   "verseNo": 17,
+   "source": "diyanet",
+   "text": "Şu halde yaratan, yaratamayan gibi olur mu? Artık siz düşünmez misiniz?"
+  },
+  {
+   "verseNo": 17,
+   "source": "okuyan",
+   "text": "Yaratan, yaratamayan gibi olur mu (hiç)! (Hâlâ gerçekleri) hatırlamıyor musunuz?"
+  },
+  {
+   "verseNo": 17,
+   "source": "islamoglu",
+   "text": "BU DURUMDA, hiç yaratan yaratamayan gibi (olur) mu? Hâlâ (bu ezeli gerçeği) hatırlamayacak mısınız?"
+  },
+  {
+   "verseNo": 17,
+   "source": "esed",
+   "text": "O halde, (düşünün, bütün bunları) yaratan (Allah), hiçbir şey yaratamayan herhangi bir (varlıkla) kıyaslanabilir mi? Hala aklınızı başınıza toplamayacak mısınız"
+  },
+  {
+   "verseNo": 18,
+   "source": "diyanet",
+   "text": "Halbuki Allah'ın nimetini saymaya kalksanız onu sayamazsınız. Şüphesiz Allah; çok bağışlayandır, çok merhamet edendir."
+  },
+  {
+   "verseNo": 18,
+   "source": "okuyan",
+   "text": "Allah’ın nimet(ler)ini saymaya kalksanız onu sayamazsınız. Şüphesiz ki Allah elbette çok bağışlayandır, çok merhametlidir."
+  },
+  {
+   "verseNo": 18,
+   "source": "islamoglu",
+   "text": "Ve eğer Allah’ın nimetlerini saymaya kalksanız asla baş edemezsiniz. İyi bilin ki, tarifsiz bir bağışlayıcı, eşsiz bir rahmet kaynağı elbet yalnızca Allah’tır."
+  },
+  {
+   "verseNo": 18,
+   "source": "esed",
+   "text": "Allah´ın nimetlerini saymaya kalksanız, asla böyle bir işin altından kalkamazsınız! Gerçek şu ki, çok acıyan çok esirgeyen gerçek bağışlayıcı elbette Allah´tır"
+  },
+  {
+   "verseNo": 19,
+   "source": "diyanet",
+   "text": "Allah gizlediğinizi de, açığa vurduğunuzu da bilir."
+  },
+  {
+   "verseNo": 19,
+   "source": "okuyan",
+   "text": "Allah gizlediğinizi de açıkladığınızı da bilir."
+  },
+  {
+   "verseNo": 19,
+   "source": "islamoglu",
+   "text": "Zira Allah, içinizde tuttuğunuz ve açığa vurduğunuz her şeyi bilir."
+  },
+  {
+   "verseNo": 19,
+   "source": "esed",
+   "text": "Çünkü neyi ki gizliyor ve neyi ki açığa vuruyorsanız, hepsini bilen Allah´tır"
+  },
+  {
+   "verseNo": 20,
+   "source": "diyanet",
+   "text": "Allah'ı bırakıp da taptıkları şeyler, yaratılmış olduklarına göre hiçbir şey yaratamazlar."
+  },
+  {
+   "verseNo": 20,
+   "source": "okuyan",
+   "text": "Allah’ın peşi sıra yalvardıkları (putlar) hiçbir şey yaratamazlar. (Çünkü) onlar kendileri yaratılmaktadır."
+  },
+  {
+   "verseNo": 20,
+   "source": "islamoglu",
+   "text": "Allah’tan başka kendilerine yalvarıp yakardığınız varlıklar hiçbir şey yaratamazlar; zira onların kendileri yaratılmışlardır."
+  },
+  {
+   "verseNo": 20,
+   "source": "esed",
+   "text": "Allah´tan başka o yalvarıp yakardıklarınıza gelince -bunların kendileri yaratılmış varlıklar olduklarına göre- hiçbir şey yaratamazlar"
+  },
+  {
+   "verseNo": 21,
+   "source": "diyanet",
+   "text": "Onlar diri olmayan cansız varlıklardır! Ne zaman dirileceklerinin de şuuruna varamazlar."
+  },
+  {
+   "verseNo": 21,
+   "source": "okuyan",
+   "text": "(Onlar) ölüdürler; diri değillerdir. Ne zaman diriltileceklerini de bilmezler."
+  },
+  {
+   "verseNo": 21,
+   "source": "islamoglu",
+   "text": "Onlar ölüdürler, diri değildirler; (kendilerine tapanların) ne zaman diriltileceklerini dahi bilemezler."
+  },
+  {
+   "verseNo": 21,
+   "source": "esed",
+   "text": "hayatı hiç tatmamış ölülerdir onlar; ne zaman diriltileceklerini de bilmezler"
+  },
+  {
+   "verseNo": 22,
+   "source": "diyanet",
+   "text": "Sizin ilahınız tek bir ilahtır. Ahirete inanmayanların kalpleri bunu inkâr etmekte, kendileri de büyüklük taslamaktadırlar."
+  },
+  {
+   "verseNo": 22,
+   "source": "okuyan",
+   "text": "İlahınız tek bir ilahtır. (Fakat) ahirete inanmayanlar var ya, onların kalpleri inkârcıdır; kendileri de kibirlenen kişilerdir."
+  },
+  {
+   "verseNo": 22,
+   "source": "islamoglu",
+   "text": "Sizin ilâhınız bir tek ilâhtır; fakat âhirete inanmayan kimselerin yürekleri, büyüklük taslamaları yüzünden (bu hakikati) inkâra meyletmiştir."
+  },
+  {
+   "verseNo": 22,
+   "source": "esed",
+   "text": "Sizin tanrınız Tek Tanrıdır; ne var ki, ahirete inanmayanların kalpleri bu (gerçeği), boş bir kibir yüzünden, kabule yanaşmıyor"
+  },
+  {
+   "verseNo": 23,
+   "source": "diyanet",
+   "text": "Şüphe yok ki Allah, onların gizlediklerini de, açığa vurduklarını da bilir. O, büyüklük taslayanları hiç sevmez."
+  },
+  {
+   "verseNo": 23,
+   "source": "okuyan",
+   "text": "Hiç şüphe yok ki Allah onların gizlediklerini de açıkladıklarını da bilir. O, kibirlenenleri sevmez."
+  },
+  {
+   "verseNo": 23,
+   "source": "islamoglu",
+   "text": "Ziyanı yok, nasıl olsa Allah onların gizlediklerini de açığa vurduklarını da bilmektedir. Şu bir gerçek ki O, büyüklük taslayanları sevmez."
+  },
+  {
+   "verseNo": 23,
+   "source": "esed",
+   "text": "Hiç kuşkusuz, onların gizlediklerini de, açığa vurduklarını da Allah tastamam bilmektedir: kesin olan şu ki O, kendini büyüklük duygusuna kaptıranları asla sevmez"
+  },
+  {
+   "verseNo": 24,
+   "source": "diyanet",
+   "text": "Onlara \"Rabbiniz ne indirdi?\" denildiği zaman, \"Öncekilerin masalları\" dediler."
+  },
+  {
+   "verseNo": 24,
+   "source": "okuyan",
+   "text": "Onlara “Rabbiniz ne indirdi?” dendiği zaman, “Öncekilerin masallarını!” derler."
+  },
+  {
+   "verseNo": 24,
+   "source": "islamoglu",
+   "text": "Ve kendilerine “Rabbiniz size ne indirdi?” diye sorulduğunda, “Eskilerin masallarını…” derler;"
+  },
+  {
+   "verseNo": 24,
+   "source": "esed",
+   "text": "Böylelerine: \"Rabbiniz ne indirdi!\" diye sorulsa, \"Eskilerin masallarını/efsanelerini!\" derler"
+  },
+  {
+   "verseNo": 25,
+   "source": "diyanet",
+   "text": "Böylece kıyamet gününde kendi günahlarını tam olarak, bilgisizce saptırdıkları kimselerin günahlarının da bir kısmını yüklenirler. Dikkat et, yüklendikleri ne kötüdür."
+  },
+  {
+   "verseNo": 25,
+   "source": "okuyan",
+   "text": "Böylece kıyamet gününde kendi günahlarını tam olarak taşıyacak ve bilgisizce saptırmakta oldukları kişilerin günahlarından bir kısmını da yükleneceklerdir.Dikkat edin! Yüklenecekleri şey ne kötüdür!"
+  },
+  {
+   "verseNo": 25,
+   "source": "islamoglu",
+   "text": "böylece Kıyamet Günü kendi günahlarının yükünü tamamen, bilgisizlikleri sebebiyle saptırdıklarının vebalini ise kısmen yüklenmiş olurlar. Hele bir bakın şunlara, ne berbat bir yük yükleniyorlar!"
+  },
+  {
+   "verseNo": 25,
+   "source": "esed",
+   "text": "Böyle yapmakla, Kıyamet Günü´nde kendi günahlarının yükünü bütünüyle, yoldan çıkardıkları bilgisiz kimselerin yükünü de kısmen üzerlerine almış olurlar. Bir bilseniz, bu yüklendikleri ne kötü bir yüktür"
+  },
+  {
+   "verseNo": 26,
+   "source": "diyanet",
+   "text": "Onlardan öncekiler de tuzak kurmuşlardı. Allah'ın azabı binalarını, temelinden gelip yıktı da tavanları başlarına çöküverdi ve azap kendilerine fark edemedikleri yerden geldi."
+  },
+  {
+   "verseNo": 26,
+   "source": "okuyan",
+   "text": "Elbette onlardan öncekiler de (peygamberlere) tuzak kurmuşlardı. Sonunda Allah da onların temellerinden binalarına gelmiş, üstlerinden tavan da tepelerine çökmüştü. Bu azap, onlara fark edemedikleri bir yerden gelmişti."
+  },
+  {
+   "verseNo": 26,
+   "source": "islamoglu",
+   "text": "Doğrusu, onlardan öncekiler de zaafı ustaca gizlenmiş düzenler kurmuşlardı; fakat Allah onların kurdukları yapıları temellerinden sarstı ve sonunda üstlerindeki tavan başlarına çöktü: zira daha nereden geldiğini anlayamadan azap onlara ulaşıvermişti."
+  },
+  {
+   "verseNo": 26,
+   "source": "esed",
+   "text": "Onlardan önce gelip geçenler de birtakım zındıkça düzenler kurmuşlardı; ama işte, Allah onların kurduğu yapıları temellerinden çökertti; öyle ki, tavanları başlarına yıkıldı ve nereden geldiğini daha anlamadan azap apansız yakalayıverdi onları"
+  },
+  {
+   "verseNo": 27,
+   "source": "diyanet",
+   "text": "Sonra kıyamet günü Allah onları rezil edecek ve diyecek ki: \"Uğrunda mücadele ettiğiniz ortaklarım nerede?!\" kendilerine ilim verilenler ise şöyle derler: \"Şüphesiz bugün rezillik, aşağılık ve kötülük kafirlerin üzerinedir.\""
+  },
+  {
+   "verseNo": 27,
+   "source": "okuyan",
+   "text": "Sonra (Allah) kıyamet gününde onları rezil edecek ve şöyle diyecektir: “Kendileri hakkında (müminlere) düşman olduğunuz ortaklarım(!) nerede?” Kendilerine ilim verilmiş olanlar da “Şüphesiz ki bugün rezillik ve kötülük kâfirleredir.” demiş (olacaklar)dır."
+  },
+  {
+   "verseNo": 27,
+   "source": "islamoglu",
+   "text": "Sonunda Kıyamet Günü O, onları rezil edecek ve “Neredeymiş bakalım o uğruna mücadele verdiğiniz ‘ortaklarım’(!)?” diye soracak. İlim verilmiş olanlar, “Bugün” diyecekler, “alçaklığın her türü ve kötülüğün daniskası kâfirler içindir!"
+  },
+  {
+   "verseNo": 27,
+   "source": "esed",
+   "text": "Sonra Kıyamet Günü´nde (Allah), \"Hani nerede, o uğruna (doğru yoldan) ayrı düştüğünüz düzmece tanrılarınız!\" diyerek onları(n hepsini) rüsvay edecektir. Kendilerine (dünya hayatında) bilgi verilmiş olanlar: \"Bugün\" diyecekler, \"rüsvaylık da, bedbahtlık da hakkı inkar edenler içindir"
+  },
+  {
+   "verseNo": 28,
+   "source": "diyanet",
+   "text": "O kafirler, nefislerine zulmederlerken melekler onların canlarını alır da onlar teslim olup, \"Biz hiçbir kötülük yapmıyorduk\" derler. (Melekler de şöyle diyecekler:) \"Hayır! Allah sizin yapmakta olduklarınızı hakkıyla bilmektedir.\""
+  },
+  {
+   "verseNo": 28,
+   "source": "okuyan",
+   "text": "Melekler canlarını alırken kendilerine yazık eden kişiler, “Biz hiçbir kötülük yapmıyorduk ki!” diyerek teslim olurlar. (Melekler şöyle diyeceklerdir) “Hayır! Allah sizin yaptıklarınızı elbette çok iyi bilendir."
+  },
+  {
+   "verseNo": 28,
+   "source": "islamoglu",
+   "text": "O kimseler ki, kendi kendilerine kötülük etmeyi sürdürürken melekler onların canlarını almışlardı. İşte (Hesap Günü) bunlar teslim bayrağını çekerek “Biz hiçbir şeyi kötülük (olsun diye) işlemedik” (diyecekler). “Yoo!” (denilecek kendilerine), “Unutuyorsunuz ama, Allah yapmış olduğunuz her şeyi eksiksiz bilendir."
+  },
+  {
+   "verseNo": 28,
+   "source": "esed",
+   "text": "onlar ki, kendi kendilerine zulüm hali içindeyken melekler canlarını almıştı!\" Böyleleri nihayet (hesap vermeye çağırıldıklarında): \"Kötü bir şey yapma(k isteme)miştik biz!\" (diyerek) boyun eğme tavrı takınacaklar. (Fakat onlara;) \"Hayır!\" (diye karşılık verilecek,) \"Muhakkak ki, yapıp ettiğiniz her şeyi Allah eksiksiz biliyor"
+  },
+  {
+   "verseNo": 29,
+   "source": "diyanet",
+   "text": "\"Haydi, içinde ebedî kalacağınız cehennemin kapılarından girin. Büyüklük taslayanların yeri ne kötüdür!\""
+  },
+  {
+   "verseNo": 29,
+   "source": "okuyan",
+   "text": "İçinde ebedî kalıcılar olarak cehennemin kapılarına girin!” Kibirlenenlerin yeri ne kötüdür!"
+  },
+  {
+   "verseNo": 29,
+   "source": "islamoglu",
+   "text": "Haydi o hâlde, içerisinde yerleşip kalmak üzere cehennemin kapılarından buyurun!” İşte, büyüklük taslamayı kişiliğinin bir parçası haline getirenlerin düştüğü berbat konum."
+  },
+  {
+   "verseNo": 29,
+   "source": "esed",
+   "text": "Haydi, girin kapılarından bakalım, içinde kalıp duracağınız cehennemin! Gerçekten de, ne kötü olacak (o gün), kendilerini boş yere büyüklük duygusuna kaptırmış olanların düştüğü durum"
+  },
+  {
+   "verseNo": 30,
+   "source": "diyanet",
+   "text": "Allah'a karşı gelmekten sakınan kimselere, \"Rabbiniz ne indirdi?\" denildiğinde, \"Hayır indirdi\" derler. Bu dünyada iyilik yapanlara bir iyilik vardır. Ahiret yurdu ise daha hayırlıdır. Allah'a karşı gelmekten sakınanların yurdu ne güzeldir."
+  },
+  {
+   "verseNo": 30,
+   "source": "okuyan",
+   "text": "Takvâlı (duyarlı) olanlara “Rabbiniz ne indirdi?” dendiği (zaman) “İyilik (indirdi)” derler. Bu dünyada güzel davrananlara güzel (karşılık) vardır. Ahiret yurdu ise daha hayırlıdır. Doğrusu muttakîlerin (duyarlı olanların) yurdu ne güzeldir!"
+  },
+  {
+   "verseNo": 30,
+   "source": "islamoglu",
+   "text": "Bir de sorumluluk bilincine sahip olanlara sorulacak: “Rabbiniz size ne indirdi?” Onlar “Tarifsiz bir hayır, sayıya gelmez iyilik-güzellik!” diyecekler. İyilikte sebat gösterenler bu dünyada iyilik bulacaklar; ama âhiret yurdu ondan çok daha hayırlı olacak: ve elbet pek güzeldir muttakilerin yurdu!"
+  },
+  {
+   "verseNo": 30,
+   "source": "esed",
+   "text": "Ama Allah´a karşı sorumluluk bilinci taşıyanlara: \"Rabbiniz ne indirdi?\" diye sorulduğunda, onlar: \"Katıksız iyiliği!\" diye cevap verirler. İyilikte devamlı olanlar bu dünyada iyilik bulacaklardır; böylelerinin öte dünyada tutacakları yurt çok daha hayırlı olacaktır. Ne güzel bir yurt, Allah´a karşı sorumluluk bilinci taşıyanların yurdu"
+  },
+  {
+   "verseNo": 31,
+   "source": "diyanet",
+   "text": "İçinden nehirler akan Adn cennetlerine gireceklerdir. Kendileri için orada diledikleri her şey vardır. Allah kendine karşı gelmekten sakınanları böyle mükafatlandırır."
+  },
+  {
+   "verseNo": 31,
+   "source": "okuyan",
+   "text": "(O güzel yurt), girecekleri, altlarından ırmaklar akan durmaya değer cennetlerdir. Onlar için orada diledikleri her şey vardır. Allah muttakîlere (duyarlı olanlara) işte böyle karşılık verecektir."
+  },
+  {
+   "verseNo": 31,
+   "source": "islamoglu",
+   "text": "Zemininden ırmakların aktığı kalıcı mutluluğun merkezi olan cennetlere girecekler; orada istedikleri her şeyi bulacaklar. Allah, sorumluluk bilincine sahip olanları işte böyle ödüllendirecek."
+  },
+  {
+   "verseNo": 31,
+   "source": "esed",
+   "text": "İçlerinde derelerin, ırmakların çağıldadığı ebedi mutluluk, esenlik bahçelerine girecekler ve orada gönüllerinin çektiği her şeyi bulabilecekler. Allah, Kendisine sorumluluk bilinciyle bağlananları işte böyle ödüllendirecektir"
+  },
+  {
+   "verseNo": 32,
+   "source": "diyanet",
+   "text": "Melekler onların canlarını iyi kimseler olarak alırken, \"Selâm size! Yapmış olduğunuz iyi işlere karşılık girin cennete\" derler."
+  },
+  {
+   "verseNo": 32,
+   "source": "okuyan",
+   "text": "(Muttakîler), meleklerin “Size selam olsun! Yapmış olduğunuz (iyi) işlere karşılık cennete girin!” diyerek tertemiz olarak canlarını aldığı kişilerdir."
+  },
+  {
+   "verseNo": 32,
+   "source": "islamoglu",
+   "text": "Bunlar, meleklerin “Selam sizlere!.. Yapmış olduklarınızdan dolayı girin cennete!..” diyerek canlarını tertemizken aldığı kimseler olacak."
+  },
+  {
+   "verseNo": 32,
+   "source": "esed",
+   "text": "Onlar ki, bir arınmışlık hali içindeyken melekler, \"Size selam olsun, (hayattayken) yaptıklarınızdan ötürü girin cennete!\" diyerek canlarını alırlar"
+  },
+  {
+   "verseNo": 33,
+   "source": "diyanet",
+   "text": "(O kafirler) kendilerine ancak meleklerin veya senin Rabbinin helâk emrinin gelmesini bekliyorlar. Onlardan öncekiler de böyle yapmıştı. Allah onlara zulmetmedi, fakat onlar kendilerine zulmediyorlardı."
+  },
+  {
+   "verseNo": 33,
+   "source": "okuyan",
+   "text": "(Kâfirler) kendilerine meleklerin gelmesinden (karşılarına çıkmasından) veya Rabbinin (azap) emrinin gelmesinden başka bir şey mi bekliyorlar! Onlardan öncekiler de böyle yapmışlardı. Allah onlara haksızlık etmedi fakat onlar kendilerine yazık ediyorlardı."
+  },
+  {
+   "verseNo": 33,
+   "source": "islamoglu",
+   "text": "ŞU BERİKİLER başka değil, sadece meleklerin ya da Rablerinin (helâk) emrinin kendilerine gelmesini bekliyorlar, öyle mi? Onlardan öncekiler de böyle yapmıştı. Onlara zulmeden Allah değildi; aksine onlar kendi kendilerine zulmetmiş oldular."
+  },
+  {
+   "verseNo": 33,
+   "source": "esed",
+   "text": "(Hakkı inkar edenler) yalnızca meleklerin kendilerine görünmesini ya da Allah´ın nihai yargısının gerçekleşmesini mi bekliyorlar? Onlardan önce gelip geçen (günahkar) toplumlar da böyle yaptı; ve (helak edildikleri zaman) onlara zulmeden Allah değildi; tersine onlar kendi kendilerine zulmettiler"
+  },
+  {
+   "verseNo": 34,
+   "source": "diyanet",
+   "text": "Bu sebeple işledikleri kötülüklerin cezası onlara ulaştı ve alay ettikleri şey kendilerini kuşattı."
+  },
+  {
+   "verseNo": 34,
+   "source": "okuyan",
+   "text": "Sonunda yaptıklarının kötülükleri onlara ulaşmış ve alay etmiş oldukları şey onları çepeçevre kuşatmış (olacak)tır."
+  },
+  {
+   "verseNo": 34,
+   "source": "islamoglu",
+   "text": "En sonunda yaptıkları kötülüklerin hedefi hâline geldiler: alay edip durdukları şey tarafından çepeçevre kuşatıldılar."
+  },
+  {
+   "verseNo": 34,
+   "source": "esed",
+   "text": "Öyle ki, işledikleri kötülükler kendi başlarına yıkılmış, alay edip durdukları şey onları çepeçevre kuşatmıştı"
+  },
+  {
+   "verseNo": 35,
+   "source": "diyanet",
+   "text": "Allah'a ortak koşanlar dediler ki: \"Allah dileseydi ne biz, ne de atalarımız O'ndan başka hiçbir şeye tapmazdık, O'nun emri olmadan hiçbir şeyi de haram kılmazdık.\" Kendilerinden öncekiler de böyle yapmıştı. Peygamberlere düşen sadece apaçık bir tebliğdir."
+  },
+  {
+   "verseNo": 35,
+   "source": "okuyan",
+   "text": "Ortak koşanlar şöyle demişlerdi: “Allah dileseydi biz de babalarımız da O’nun peşi sıra başka şeylere tapmazdık. O’nun peşi sıra (O’na rağmen) hiçbir şeyi de haram kılmazdık.” Onlardan öncekiler de böyle yapmışlardı. Elçilere apaçık tebliğden başka ne düşer ki!"
+  },
+  {
+   "verseNo": 35,
+   "source": "islamoglu",
+   "text": "Bir de, Allah’tan başkasına ilâhlık yakıştırmakta direnenler dediler ki: “Eğer Allah isteseydi, ne biz ne de atalarımız, hem O’ndan başka hiçbir şeye kulluk etmez hem de O’ndan başkasının (sözüyle) hiçbir şeyi haram kılmazdık.” Onlardan öncekiler de böyle yapmışlardı; peki, bu durumda elçilere (mesajı) açık seçik bildirmek dışında başka ne düşer?"
+  },
+  {
+   "verseNo": 35,
+   "source": "esed",
+   "text": "Allah´tan başkalarına tanrısal nitelikler yakıştıran kimseler: \"Eğer Allah dileseydi,\" diyorlar, \"ne biz, ne de atalarımız O´ndan başka hiçbir şeye kulluk etmez, O´nun buyruğu hilafına hiçbir şeyi yasaklamazdık.\" Onlardan önce gelip geçen (inkarcılar) da tıpkı böyle demişlerdi; peki, bu durumda elçilere, (kendilerine indirilen mesajı) açık açık bildirmekten başka ne düşer"
+  },
+  {
+   "verseNo": 36,
+   "source": "diyanet",
+   "text": "Andolsun biz, her ümmete, \"Allah'a kulluk edin, tâğûttan kaçının\" diye peygamber gönderdik. Allah onlardan kimini doğru yola iletti, onlardan kimine de (kendi iradeleri sebebiyle) sapıklık hak oldu. Şimdi yeryüzünde dolaşın da peygamberleri yalanlayanların sonunun ne olduğunu görün."
+  },
+  {
+   "verseNo": 36,
+   "source": "okuyan",
+   "text": "Yemin olsun ki biz “Allah’a kulluk edin ve Tağut’tan (azgınlık edenden) kaçının!” diye (emretmeleri için) her ümmete bir elçi göndermiştik. Allah onlardan bir kısmını doğru yola ulaştırmıştır; bir kısmı da sapkınlığı hak etmişlerdi. Yeryüzünde dolaşın; sonra yalanlayanların sonunun nasıl olduğuna bakın!"
+  },
+  {
+   "verseNo": 36,
+   "source": "islamoglu",
+   "text": "Doğrusu Biz, (geçmiş) her uygarlığın içinden “Allah’a kulluk edin, putlaştırılmış azgınlardan uzak durun!” diyen bir elçi çıkarmışızdır. Bunun ardından onlardan kimileri Allah’ın gösterdiği doğru yola uydu, kimileri de (ısrarlı tercihleri sonucu) sapıklığa mahkûm olmayı hak etti. İsterseniz yeryüzünde dolaşın ve yalanlayanların sonu nasıl olurmuş görün!"
+  },
+  {
+   "verseNo": 36,
+   "source": "esed",
+   "text": "Gerçek şu ki, Biz her toplumun içinden, \"Allah´a kulluk edin, şer güçlerden kaçının!\" (mesajıyla gönderdiğimiz) bir elçi çıkardık. O (geçmiş nesil)lerden bir kısmını Allah hidayetiyle doğru yola yöneltti; bir kısmı da sapıklık içinde bırakılmaya müstehak oldular: O halde, şimdi, yeryüzünde dolaşın ve hakkı yalanlayanların sonunun nasıl olduğunu görün"
+  },
+  {
+   "verseNo": 37,
+   "source": "diyanet",
+   "text": "Sen onların doğru yola erişmelerine aşırı istek göstersen de şüphesiz Allah saptırdığı kimseyi doğru yola iletmez. Onların yardımcıları da yoktur."
+  },
+  {
+   "verseNo": 37,
+   "source": "okuyan",
+   "text": "Sen onların doğru yola ulaşmalarına çok düşkünlük göstersen de bil ki Allah saptırdığı (sapkınlığını onayladığı) kimseyi (kişi dilemediği sürece) doğru yola ulaştırmaz. Onların hiçbir yardımcısı da yoktur."
+  },
+  {
+   "verseNo": 37,
+   "source": "islamoglu",
+   "text": "Sen onların doğru yolu bulmasını ne kadar istersen iste, ama unutma ki Allah’ın sapıklığa mahkûm ettiğini kimse doğru yola yöneltemez; onlara yardım eden de bulunmaz!"
+  },
+  {
+   "verseNo": 37,
+   "source": "esed",
+   "text": "İmdi, sen (o hakkı inkarda ısrarlı olanların) doğru yola erişmelerini tutkuyla istesen de, (bil ki,) Allah, sapıklık içinde kalmalarına hükmettiği kimseleri doğru yola eriştirmez; ve böyleleri (Kıyamet Günü´nde) kendilerine yardımcı da bulamayacaklardır"
+  },
+  {
+   "verseNo": 38,
+   "source": "diyanet",
+   "text": "Onlar, \"Allah ölen bir kimseyi diriltmez.\" diye var güçleriyle Allah'a yemin ettiler. Hayır diriltecek! Bu, yerine getirilmesini Allah'ın üzerine aldığı bir vaaddir. Fakat insanların çoğu bilmezler."
+  },
+  {
+   "verseNo": 38,
+   "source": "okuyan",
+   "text": "Onlar, Allah’ın ölen kişiyi dirilt(e)meyeceğine dair güçlü bir şekilde Allah’a yemin etmişlerdi. Aksine bu (diriltme), O’nun bizzat kendisine ait kesin bir vaadidir. Fakat insanların çoğu bilmezler."
+  },
+  {
+   "verseNo": 38,
+   "source": "islamoglu",
+   "text": "Dahası, bunlar var güçleriyle Allah adına yeminler ediyorlar: “Allah ölen kimseyi diriltmez!” Ne münasebet! Bu O’nun gerçekleştirmeyi üstlendiği bir sözdür; ve fakat insanların çoğu bunu bilmez."
+  },
+  {
+   "verseNo": 38,
+   "source": "esed",
+   "text": "Üstelik, bunlar en ciddi yeminlerle, Allah´ın ismini anarak, \"Allah ölüyü asla diriltmeyecektir!\" diye and içiyorlar. Hayır, gerçekten bu O´nun, gerçekleşmesini kendi üzerine aldığı bir vaaddir; ne var ki, insanların çoğu bunu bilmez"
+  },
+  {
+   "verseNo": 39,
+   "source": "diyanet",
+   "text": "(Diriltecek ki) ayrılığa düştükleri şeyi onlara anlatsın ve kâfir olanlar da kendilerinin yalancı olduklarını bilsinler!"
+  },
+  {
+   "verseNo": 39,
+   "source": "okuyan",
+   "text": "Hakkında anlaşmazlığa düştükleri şeyi onlara açıklaması ve kâfir olanların da kendilerinin yalancılar olduklarını bilmeleri için (Allah onları diriltecektir)."
+  },
+  {
+   "verseNo": 39,
+   "source": "islamoglu",
+   "text": "(Oysa ki), hakkında görüş ayrılığına düştükleri hakikati onlara ayan açık göstersin; (onu) inkârda ısrar edenler ise, kendilerinin yalancı olduklarını anlasınlar diye (Allah ölüleri diriltecektir)."
+  },
+  {
+   "verseNo": 39,
+   "source": "esed",
+   "text": "(Oysa, Allah ölüleri diriltecektir) ki, üzerinde ayrılığa düştükleri gerçeği onlara bütün açıklığıyla göstersin ve o hakkı inkara kalkışanlar da kendilerinin yalancı olduklarını görüp de anlayabilsinler"
+  },
+  {
+   "verseNo": 40,
+   "source": "diyanet",
+   "text": "Biz bir şeyin olmasını istediğimiz zaman sözümüz sadece, ona, \"ol\" dememizdir. O da hemen oluverir."
+  },
+  {
+   "verseNo": 40,
+   "source": "okuyan",
+   "text": "Biz bir şeyin olmasını istediğimiz zaman, ona (söyleyecek) sözümüz sadece “Ol!” dememizdir; hemen olmaya başlar."
+  },
+  {
+   "verseNo": 40,
+   "source": "islamoglu",
+   "text": "Gerçek şu ki, bir şeyin olmasını istediğimizde ona “Ol!” dememiz yeterlidir; o da hemen oluş sürecine girecektir."
+  },
+  {
+   "verseNo": 40,
+   "source": "esed",
+   "text": "Biz, ne zaman bir şeyin olmasını istesek, ona sadece \"Ol!\" deriz ve o (şey hemen) oluverir"
+  },
+  {
+   "verseNo": 41,
+   "source": "diyanet",
+   "text": "Zulme uğradıktan sonra Allah yolunda hicret edenlere gelince, elbette onları dünyada güzel bir şekilde yerleştiririz. Ahiret mükafatı ise daha büyüktür. Keşke bilselerdi..."
+  },
+  {
+   "verseNo": 41,
+   "source": "okuyan",
+   "text": "Haksızlığa uğratıldıktan sonra Allah yolunda hicret edenlere gelince, onları dünyada güzel bir şekilde yerleştireceğiz. Ahiretin ödülü elbette daha büyüktür. Keşke bilselerdi!"
+  },
+  {
+   "verseNo": 41,
+   "source": "islamoglu",
+   "text": "BERİ YANDAN, uğradıkları zulmün ardından Allah yolunda hicret edenlere gelince: kesinlikle onları dünyada güzel bir konuma yerleştireceğiz, fakat öte dünyadaki karşılıkları çok daha büyük olacaktır. (İnkârcılar) keşke kavrayabilselerdi"
+  },
+  {
+   "verseNo": 41,
+   "source": "esed",
+   "text": "İmdi, (benimsediği dinden ötürü) zulme uğradıktan sonra Allah yolunda zulüm diyarını terk edenlere gelince; Biz onları, şüphesiz, bu dünyada güzel bir yere yerleştireceğiz; ama onların ahirette hak ettikleri ödül daha da büyük olacaktır. (Hakkı inkar edenler böylece) bir anlayabilselerdi"
+  },
+  {
+   "verseNo": 42,
+   "source": "diyanet",
+   "text": "Onlar, sabreden ve yalnız Rablerine tevekkül eden kimselerdir."
+  },
+  {
+   "verseNo": 42,
+   "source": "okuyan",
+   "text": "(Ödülü hak edenler) sadece Rablerine güvenerek sabredenlerdir."
+  },
+  {
+   "verseNo": 42,
+   "source": "islamoglu",
+   "text": "eza ve cefaya karşı direnen ve sadece Rablerine dayanan kimseleri (bekleyen bu güzellikleri)…"
+  },
+  {
+   "verseNo": 42,
+   "source": "esed",
+   "text": "güçlüklere göğüs gerip, yalnızca Rablerine güven bağlayan kimseleri (bekleyen bu bahtiyarlığı)"
+  },
+  {
+   "verseNo": 43,
+   "source": "diyanet",
+   "text": "Senden önce de ancak, kendilerine vahyettiğimiz birtakım erkekleri peygamber olarak gönderdik. Eğer bilmiyorsanız ilim sahiplerine sorun."
+  },
+  {
+   "verseNo": 43,
+   "source": "okuyan",
+   "text": "43-44 . Senden önce de kendilerine vahyettiğimiz erkeklerden başkasını (peygamber olarak) göndermedik. Apaçık delilleri ve (ilahî) kitapları bilmiyorsanız, zikr (vahiy) ehline sorun!Kendilerine indirileni insanlara açıklaman (ilan etmen) için ve düşünsünler diye sana da zikri (Kur’an’ı) indirdik."
+  },
+  {
+   "verseNo": 43,
+   "source": "islamoglu",
+   "text": "(EY RASUL!) Senden önce gönderdiklerimiz de kendilerine vahyettiğimiz (Âdemoğullarına mensup) adamlardan başkası değildi -eğer bilmiyorsanız (önceki) vahiylerin mensuplarına sorabilirsiniz-:"
+  },
+  {
+   "verseNo": 43,
+   "source": "esed",
+   "text": "(Ey Muhammed,) Biz senden önceki çağlarda da, kendilerine vahyettiğimiz (ölümlü) adamlardan başka kimseyi (elçi olarak) göndermedik; bu konuda yeterli bilgiye sahip değilseniz, vahyedilmiş önceki kitaplara bağlı kimselere sorun"
+  },
+  {
+   "verseNo": 44,
+   "source": "diyanet",
+   "text": "(O peygamberleri) apaçık belgeler ve kitaplarla gönderdik. İnsanlara, kendilerine indirileni açıklaman ve onların da (üzerinde) düşünmeleri için sana bu Kur'an'ı indirdik."
+  },
+  {
+   "verseNo": 44,
+   "source": "okuyan",
+   "text": "43-44 . Senden önce de kendilerine vahyettiğimiz erkeklerden başkasını (peygamber olarak) göndermedik. Apaçık delilleri ve (ilahî) kitapları bilmiyorsanız, zikr (vahiy) ehline sorun!Kendilerine indirileni insanlara açıklaman (ilan etmen) için ve düşünsünler diye sana da zikri (Kur’an’ı) indirdik."
+  },
+  {
+   "verseNo": 44,
+   "source": "islamoglu",
+   "text": "(Biz onları) hakikatin açık belgeleri ve hikmet yüklü sayfalarla (göndermiştik). İşte sana da bu uyarıcı vahyi indirdik ki, kendilerine indirileni insanlara açıklayasın ve belki onlar da bu sayede düşünürler."
+  },
+  {
+   "verseNo": 44,
+   "source": "esed",
+   "text": "(Onlar size, kendilerini) apaçık delillerle ve hikmet dolu ilahi kitaplarla (desteklediğimiz peygamberlerin ölümlü adamlardan başka kimseler olmadığını söyleyeceklerdir). Ve biz sana da bu uyarıcı kitabı indirdik ki, insanlara, başından beri indirilegelen mesajın aslını olanca açıklığıyla ulaştırasın ve onlar da böylece belki düşünürler"
+  },
+  {
+   "verseNo": 45,
+   "source": "diyanet",
+   "text": "Kötü işler yapmak için tuzak kuranlar, Allah'ın kendilerini yere geçirmesinden veya (ansızın) bilemeyecekleri bir yerden kendilerine azap gelmesinden emin mi oldular?"
+  },
+  {
+   "verseNo": 45,
+   "source": "okuyan",
+   "text": "Kötülük tuzakları kuranlar, Allah’ın kendilerini yer(in dibin)e geçirmesinden veya kendilerine bilemeyecekleri bir yerden azabın gelmesinden güvende midirler?"
+  },
+  {
+   "verseNo": 45,
+   "source": "islamoglu",
+   "text": "Yani şimdi, entrikaya dayalı düzenler kuran kimseler Allah’ın kendilerini yerin dibine geçirmeyeceğinden, ya da azabın hiç farkında olmadıkları bir noktadan gelip kendilerini bulmayacağından eminler, öyle mi?"
+  },
+  {
+   "verseNo": 45,
+   "source": "esed",
+   "text": "Peki öyleyse, (şu) şer düzenleri geliştiren kimseler, Allah´ın kendilerini yerin dibine geçirmeyeceğine yahut azabın, nereden geldiğini bilemeyecekleri bir tarzda başlarında kopmayacağına dair tamamen güvenlik içinde mi görüyorlar kendilerini"
+  },
+  {
+   "verseNo": 46,
+   "source": "diyanet",
+   "text": "Yahut onlar dönüp dolaşırken Allah'ın kendilerini yakalayıvermesinden emin mi oldular? Onlar Allah'ı aciz bırakacak değillerdir."
+  },
+  {
+   "verseNo": 46,
+   "source": "okuyan",
+   "text": "Veya onlar dönüp dolaşırlarken (Allah’ın) kendilerini yakalamasından (güvende midirler)? Onlar (Allah’ı) asla aciz bırakıcı değillerdir."
+  },
+  {
+   "verseNo": 46,
+   "source": "islamoglu",
+   "text": "Veya (gündelik telaşeyle) dolaşıp dururken, kendilerini asla savuşturamayacakları bir (belanın) yakalamayacağından?"
+  },
+  {
+   "verseNo": 46,
+   "source": "esed",
+   "text": "Yahut dönüp dururken hiçbir şekilde engel olamayacakları (bir azapla O´nun) kendilerini (apansız) yakalamayacağına"
+  },
+  {
+   "verseNo": 47,
+   "source": "diyanet",
+   "text": "Yahut da, onları korku üzere iken yakalamayacağından güven içinde midirler? Şüphesiz Rabbiniz çok esirgeyicidir, çok merhametlidir."
+  },
+  {
+   "verseNo": 47,
+   "source": "okuyan",
+   "text": "Veya (Allah’ın) kendilerini bir korkuyla yakalamasından (güvende midirler?) Şüphesiz ki Rabbin elbette çok şefkatlidir, çok merhametlidir."
+  },
+  {
+   "verseNo": 47,
+   "source": "islamoglu",
+   "text": "Yahut da, bir süreç içerisinde içten içe çözülmeye mahkûm edip ortadan kaldırmayacağından... Demek ki Rabbiniz, kesinlikle sınırsız bir şefkat, sonsuz bir merhamet sahibidir."
+  },
+  {
+   "verseNo": 47,
+   "source": "esed",
+   "text": "ya da onları içten içe çürütüp (sonunda) tepelemeyeceğine dair?... Ama bilin ki, Rabbiniz gerçekten de çok şefkatli, çok merhametlidir"
+  },
+  {
+   "verseNo": 48,
+   "source": "diyanet",
+   "text": "Allah'ın yarattığı şeyleri görmüyorlar mı? Onların gölgeleri Allah'a secde ederek ve tevazu ile boyun eğerek sağa ve sola dönmektedir."
+  },
+  {
+   "verseNo": 48,
+   "source": "okuyan",
+   "text": "Allah’ın yarattığı herhangi bir şeyi görmediler mi? On(lar)ın gölgeleri, boyun eğerek Allah için secde eder durumda sağ(lar)dan ve sollardan döner."
+  },
+  {
+   "verseNo": 48,
+   "source": "islamoglu",
+   "text": "İMDİ onlar, Allah’ın yarattığı çevrelerindeki şeylere hiç mi bakmıyorlar? Onların gölgeleri sağ ve sollarından süzülüp dönerken, Allah’a teslim olup (koyduğu yasaya) derin bir tevazu ile boyun eğmekteler."
+  },
+  {
+   "verseNo": 48,
+   "source": "esed",
+   "text": "Öyleyse, (hakkı inkar edenler) Allah´ın yarattığı nesneleri görmüyorlar mı? Onların gölgeleri, (Allah´ın iradesine) bütünüyle boyun eğerek bir sağa bir sola dönüp Allah için saygı ve tazimle (nasıl) yere kapanmaktadırlar"
+  },
+  {
+   "verseNo": 49,
+   "source": "diyanet",
+   "text": "Göklerde ve yerde bulunan canlılar ve melekler büyüklük taslamadan Allah'a boyun eğerler."
+  },
+  {
+   "verseNo": 49,
+   "source": "okuyan",
+   "text": "Göklerdeki, yerdeki canlılar ve melekler kibirlenmeyerek Allah için secde ederler."
+  },
+  {
+   "verseNo": 49,
+   "source": "islamoglu",
+   "text": "Yine, (görünen) varlıkların en (yakın) tabakasından (görünmeyen varlıkların ufku olan) meleklere varıncaya dek, göklerde ve yerde olan her şey Allah’ın (yasasına) boyun eğip teslim olmuşlardır; onların hiçbiri büyüklük taslamazlar."
+  },
+  {
+   "verseNo": 49,
+   "source": "esed",
+   "text": "Ayrıca göklerde ve yerde olan herşey -bütün canlılar/hayvanlar ve melekler- kendilerini büyüklük duygusuna kaptırmadan Allah için saygı ve tazimle yere kapanmaktadırlar"
+  },
+  {
+   "verseNo": 50,
+   "source": "diyanet",
+   "text": "Üzerlerinde hakim ve üstün olan Rablerinden korkarlar ve emrolundukları şeyleri yaparlar."
+  },
+  {
+   "verseNo": 50,
+   "source": "okuyan",
+   "text": "(Melekler), üstlerindeki Rablerinden korkarlar ve kendilerine ne emrolunursa onu yaparlar."
+  },
+  {
+   "verseNo": 50,
+   "source": "islamoglu",
+   "text": "Üzerlerinde (egemen) olan Rablerinden korkarlar ve verilen komutları uygularlar."
+  },
+  {
+   "verseNo": 50,
+   "source": "esed",
+   "text": "Üstlerinde (egemen) bulunan Rablerinden korkuyor ve kendilerine ne buyurmuşsa onu yapıyorlar"
+  },
+  {
+   "verseNo": 51,
+   "source": "diyanet",
+   "text": "Allah şöyle dedi: \"İki ilah edinmeyin. O, ancak tek ilahtır. O halde yalnız benden korkun.\""
+  },
+  {
+   "verseNo": 51,
+   "source": "okuyan",
+   "text": "Allah şöyle demiştir: “İki ilah edinmeyin! O, yalnızca tek bir ilahtır. Yalnız benden (azabımdan) korkun!”"
+  },
+  {
+   "verseNo": 51,
+   "source": "islamoglu",
+   "text": "Hani Allah şöyle buyurmuştu: “İki ilâh edinmeyin; çünkü yalnızca O’dur biricik ilâh! Artık kaygınızın merkezinde Ben, sadece Ben olayım!”"
+  },
+  {
+   "verseNo": 51,
+   "source": "esed",
+   "text": "Ve hani, Allah: \"İki (ya da daha fazla) tanrı edinmeyin!\" demişti, \"Çünkü O´dur tek ve biricik Tanrı; bunun içindir ki, benden, yalnızca benden korkun"
+  },
+  {
+   "verseNo": 52,
+   "source": "diyanet",
+   "text": "Göklerdeki her şey, yerdeki her şey O'nundur. İtaat de daima O'na olmalıdır. Öyle iken siz Allah'tan başkasından mı korkuyorsunuz?"
+  },
+  {
+   "verseNo": 52,
+   "source": "okuyan",
+   "text": "Göklerde ve yerde ne varsa yalnızca O’na aittir; din (boyun eğme) de devamlı olarak yalnız O’nun içindir. Allah’tan başkasına karşı mı takvâlı (duyarlı) oluyorsunuz?"
+  },
+  {
+   "verseNo": 52,
+   "source": "islamoglu",
+   "text": "Zira göklerde ve yerde olanların hepsi ona aittir; (varlıkların) O’na olan borçluluk sorumluluğunun bittiği bir nokta yoktur. Şimdi siz kalkıp Allah’tan başkasını kaygı edineceksiniz, öyle mi?"
+  },
+  {
+   "verseNo": 52,
+   "source": "esed",
+   "text": "Göklerde ve yerde ne varsa, hepsi O´nundur; (o halde,) kulluk ve itaat de daima O´na olmalıdır: hal böyleyken, tutup yine de, Allah´tan başkasına mı saygı ve duyarlık göstereceksiniz"
+  },
+  {
+   "verseNo": 53,
+   "source": "diyanet",
+   "text": "Size ulaşan her nimet Allah'tandır. Sonra size bir sıkıntı ve zarar dokunduğu zaman yalnız ona yalvarır yakarırsınız."
+  },
+  {
+   "verseNo": 53,
+   "source": "okuyan",
+   "text": "Nimet olarak size (ulaşan) ne varsa (hepsi) Allah’tandır. Sonra size bir zarar (sıkıntı) dokunduğu zaman da yalnız O’na yalvarırsınız."
+  },
+  {
+   "verseNo": 53,
+   "source": "islamoglu",
+   "text": "Fakat, nimetten payınıza her ne düşerse bilin ki o Allah’tandır. Dahası başınıza ne zaman iş gelse, hemen O’ndan imdat dilersiniz."
+  },
+  {
+   "verseNo": 53,
+   "source": "esed",
+   "text": "Hem, payınıza düşen her nimet Allah´tandır; (nitekim) ne zaman başınıza darlık çökse, hemen O´na yakarırsınız"
+  },
+  {
+   "verseNo": 54,
+   "source": "diyanet",
+   "text": "Sonra sizden o sıkıntıyı giderince, bir de bakarsınız, içinizden bir kısmı Rablerine ortak koşar."
+  },
+  {
+   "verseNo": 54,
+   "source": "okuyan",
+   "text": "Sonra da sizden o zararı giderdiğinde içinizden bir grup hemen Rablerine ortak koşarlar!"
+  },
+  {
+   "verseNo": 54,
+   "source": "islamoglu",
+   "text": "O daha sonra üzerinizden darlığı çekip alacak olsa, o zaman da içinizden bir gurup hemen Rablerine şirk koşmaya başlar;"
+  },
+  {
+   "verseNo": 54,
+   "source": "esed",
+   "text": "sonra, üzerinizden darlığı giderir gidermez, içinizden bazıları hemen Rablerinin uluhiyetinden başka güçlere de bir pay yakıştırır"
+  },
+  {
+   "verseNo": 55,
+   "source": "diyanet",
+   "text": "Kendilerine verdiğimiz nimetlere karşı nankörlük etmek için böyle yaparlar. Bir süre daha faydalanın bakalım! Yakında bileceksiniz!"
+  },
+  {
+   "verseNo": 55,
+   "source": "okuyan",
+   "text": "Kendilerine verdiklerimize karşılık nankörlük etmeleri için (öyle yaparlar). Bir süre (daha) yararlanın! İleride bileceksiniz!"
+  },
+  {
+   "verseNo": 55,
+   "source": "islamoglu",
+   "text": "adeta kendilerine verdiğimiz nimetlere nankörlük edercesine… Haydi, tadımlık lezzetlerle oyalanın bakalım: gün gelecek nasıl olsa (gerçeği) öğreneceksiniz."
+  },
+  {
+   "verseNo": 55,
+   "source": "esed",
+   "text": "(adeta) kendilerine bahşettiğimiz nimetler için nankörlüklerini gösterircesine! (Bu geçici) dünya hayatıyla böylece avunun bakalım: nasıl olsa (gerçeği) er geç öğreneceksiniz"
+  },
+  {
+   "verseNo": 56,
+   "source": "diyanet",
+   "text": "Bir de kendilerine rızık olarak verdiklerimizden (mahiyetini) bilmedikleri şeylere (putlara) pay ayırıyorlar. Allah'a andolsun ki, uydurmakta olduğunuz şeylerden mutlaka sorguya çekileceksiniz."
+  },
+  {
+   "verseNo": 56,
+   "source": "okuyan",
+   "text": "Kendilerine rızık olarak verdiklerimizin bir kısmından, (mahiyetini) bilmedikleri şeylere (putlara) pay ayırıyorlar. Allah’a yemin olsun: İftira etmekte olduğunuz şeylerden mutlaka sorguya çekileceksiniz!"
+  },
+  {
+   "verseNo": 56,
+   "source": "islamoglu",
+   "text": "Bir de kendilerini rızıklandırdığımız (hayvanlar ve ekinlerden), hakkında bir şey bilmedikleri (putvari) şeyler için bir pay ayırırlar. Allah şahittir ki, iftira edegeldikleri şeylerden dolayı, kesinlikle sorguya çekilecekler."
+  },
+  {
+   "verseNo": 56,
+   "source": "esed",
+   "text": "Üstelik bir de, kendilerine verdiğimiz rızıktan, hakkında hiçbir şey bilmedikleri şeylere de bir pay ayırırlar. Allah tanıktır ki, bütün o uydurup durduğunuz şeylerden ötürü mutlaka sorguya çekileceksiniz"
+  },
+  {
+   "verseNo": 57,
+   "source": "diyanet",
+   "text": "Onlar, kızları Allah'a nispet ediyorlar -ki O bundan uzaktır- kendilerine ise, canlarının istediğini."
+  },
+  {
+   "verseNo": 57,
+   "source": "okuyan",
+   "text": "Onlar, kızları Allah’a yakıştırıyorlar. (Haşa)! O yücedir. Beğendikleri de (erkek çocukları da) kendilerinin (sanıyorlar)."
+  },
+  {
+   "verseNo": 57,
+   "source": "islamoglu",
+   "text": "Üstelik kızları Allah’a isnat ederken, -hâşâ, beşerî niteliklerden uzak aşkın bir varlıktır O- beğendiklerini ise kendilerine ayırıyorlar."
+  },
+  {
+   "verseNo": 57,
+   "source": "esed",
+   "text": "Ayrıca, kızları Allah´a yakıştırırken -oysa O tüm beşeri bağlardan uzaktır, yücedir- kendileri için (sanki buna güçleri yetermiş gibi) hoşlarına gideni (seçmek isterler)"
+  },
+  {
+   "verseNo": 58,
+   "source": "diyanet",
+   "text": "Onlardan biri, kız ile müjdelendiği zaman içi öfke ile dolarak yüzü simsiyah kesilir!"
+  },
+  {
+   "verseNo": 58,
+   "source": "okuyan",
+   "text": "Onlardan birine kız çocuğu müjdelendiği zaman öfkelenmiş olarak yüzü kapkara kesilir."
+  },
+  {
+   "verseNo": 58,
+   "source": "islamoglu",
+   "text": "Ne var ki onlardan birine (bir) kız çocuğu olduğu müjdelense suratı kapkara kesilir. İçini öfkeyle karışık bir hüzün kaplar;"
+  },
+  {
+   "verseNo": 58,
+   "source": "esed",
+   "text": "(O kadar ki,) ne zaman birine bir kız çocuğu olduğu müjdesi verilse hemen yüzü kararır, içi öfkeyle dolar"
+  },
+  {
+   "verseNo": 59,
+   "source": "diyanet",
+   "text": "Kendisine verilen kötü müjde (!) yüzünden halktan gizlenir. Şimdi onu, aşağılanmış olarak yanında tutacak mı, yoksa toprağa mı gömecek? Bak, ne kötü hüküm veriyorlar!"
+  },
+  {
+   "verseNo": 59,
+   "source": "okuyan",
+   "text": "Kendisine verilen müjdenin kötülüğünden dolayı toplumdan gizlenir. Onu, aşağılık duygusu içinde yanında mı tutsun yoksa onu toprağa mı gömsün! Dikkat edin! Verdikleri hüküm ne kadar kötüdür!"
+  },
+  {
+   "verseNo": 59,
+   "source": "islamoglu",
+   "text": "Kendisine müjdelenen şeyin onda oluşturduğu kötümser duygulardan dolayı, toplumdan kaçıp köşe bucak saklanacak delik arar: şimdi onu zillete katlanma pahasına tutsun mu, ya yoksa toprağa mı gömsün? Görüyorsunuz değil mi; ne berbat akıl yürütüyorlar."
+  },
+  {
+   "verseNo": 59,
+   "source": "esed",
+   "text": "kendisine verilen bu kötü müjdeden ötürü -bu zillete/bu küçük düşmeye rağmen, şimdi onu acaba tutsun mu, yoksa toprağa mı gömsün (diye düşünerek)- kıyı bucak insanlardan kaçar. Yazıklar olsun, izledikleri düşünce tarzı ne kadar kötü"
+  },
+  {
+   "verseNo": 60,
+   "source": "diyanet",
+   "text": "Kötü sıfatlar ahirete inanmayanlara aittir. En yüce sıfatlar ise Allah'ındır. O, mutlak güç sahibidir, hüküm ve hikmet sahibidir."
+  },
+  {
+   "verseNo": 60,
+   "source": "okuyan",
+   "text": "Kötü örnek(ler) ahirete inanmayanlar içindir. En yüce örnek(ler) ise yalnızca Allah’a aittir. O güçlüdür, doğru hüküm verendir."
+  },
+  {
+   "verseNo": 60,
+   "source": "islamoglu",
+   "text": "Çirkin niteleme(ler)e âhirete inanmayanlar lâyıktır; Allah’a lâyık olan ise en yüce, en güzel niteleme(ler)dir: zira O her işinde mükemmel olandır, her hükmünde tam isabet sahibidir."
+  },
+  {
+   "verseNo": 60,
+   "source": "esed",
+   "text": "(Bunun içindir ki,) kötü niteleme(ler) ahirete inanmayanlara yakışır; en yüce niteleme(ler) ise Allah´a. Çünkü, doğru hüküm ve hikmetle edip eyleyen en yüce iktidar sahibi O´dur"
+  },
+  {
+   "verseNo": 61,
+   "source": "diyanet",
+   "text": "Eğer Allah, insanları zulümleri yüzünden hemen cezalandırsaydı, yeryüzünde hiçbir canlı bırakmazdı. Fakat onları belirli bir süreye kadar erteler. Ecelleri geldiği zaman ise ne bir an geri kalabilirler, ne de öne geçebilirler."
+  },
+  {
+   "verseNo": 61,
+   "source": "okuyan",
+   "text": "Allah insanları haksızlıkları yüzünden (hemen) hesaba çekseydi, onun üzerinde (yeryüzünde) hiçbir canlı (insan) bırakmazdı. Ancak, onları belirlenmiş bir süreye kadar erteliyor. Ecelleri geldiği (süreleri dolduğu) zaman artık ne bir saat (bir an) geri kalır ne de ileri giderler."
+  },
+  {
+   "verseNo": 61,
+   "source": "islamoglu",
+   "text": "Nitekim, eğer Allah insanları zulümleri nedeniyle hemen cezalandıracak olsaydı, yeryüzünde bir tek canlı bırakmazdı; fakat onları belirli bir süreye kadar ertelemektedir. Ama vâdeleri dolduğu vakit, akıbetlerini ne bir an geciktirebilirler ne de çabuklaştırabilirler."
+  },
+  {
+   "verseNo": 61,
+   "source": "esed",
+   "text": "İmdi, eğer Allah, (bu dünyada) yaptıkları kötülüklerden ötürü, insanları (hemen) tepeleyecek olsaydı, yeryüzünde tek bir canlı bırakmazdı. Ne var ki, onları, belirlenmiş bir sürenin sonuna kadar erteliyor. Süreleri dolduğu zaman, sonlarını bir an olsun ne geciktirebilirler, ne de öne alabilirler"
+  },
+  {
+   "verseNo": 62,
+   "source": "diyanet",
+   "text": "Hoşlarına gitmeyen şeyleri Allah'a isnad ederler. En güzel sonuç kendilerininmiş diye dilleri de yalan uyduruyor. Hiç şüphe yok ki onlara cehennem vardır ve onlar oraya en önde sokulacaklardır."
+  },
+  {
+   "verseNo": 62,
+   "source": "okuyan",
+   "text": "Kendilerinin hoşlarına gitmeyen şeyleri Allah’a yakıştırıyorlar; dilleri de (mahşerde) en güzel (ödülün) kendilerinin olduğu yalanını yakıştırıyor. Şüphesiz ki onlar için sadece ateş vardır ve onlar şüphesiz ki (ateşe) terk edileceklerdir."
+  },
+  {
+   "verseNo": 62,
+   "source": "islamoglu",
+   "text": "Hem kendilerinin hoşlanmadığı şeyi Allah’a lâyık görürler, hem de en güzel akıbete kendileri lâyıkmış gibi yalan beyanda bulunan dilleriyle kendilerini aldatırlar. Hiç kimsenin kuşkusu olmasın ki, ellerine geçen sadece ateş olacaktır; üstelik de onlar önden buyur edilecekler."
+  },
+  {
+   "verseNo": 62,
+   "source": "esed",
+   "text": "Ve bir de, hoşlanmadıkları şeyi (önce) Allah´a yakıştırırlar; sonra da kalkıp bunu dile getirirken, sanki en güzel, en erdemli olan neyse onu hak etmişler gibi, gerçek dışı, yalan açıklamalarda bulunurlar. Aslında, onlar sadece ateşi hak etmektedirler ve şüphesiz kendileri (Allah´ın rahmetinden) uzak tutulacaklar"
+  },
+  {
+   "verseNo": 63,
+   "source": "diyanet",
+   "text": "Allah'a andolsun, senden önceki ümmetlere peygamberler gönderdik. Fakat şeytan onlara işlerini güzel gösterdi. O, bugün de onların dostudur ve onlar için elem dolu bir azap vardır."
+  },
+  {
+   "verseNo": 63,
+   "source": "okuyan",
+   "text": "Allah’a yemin olsun: Senden önceki ümmetlere de (elçi) göndermişizdir. (Fakat) şeytan onlara işlerini süslü göstermişti. İşte o (şeytan), bugün onların dostudur; onlar için elem verici bir azap vardır."
+  },
+  {
+   "verseNo": 63,
+   "source": "islamoglu",
+   "text": "Allah şahittir ki, senden önceki toplumlara da nice elçiler göndermişizdir: fakat şeytan onlara eylemlerini güzel göstermiştir. Bakın işte o bugün onların kılavuzudur, fakat (yarın) onlar elem verici bir cezaya müstehak olacaklar."
+  },
+  {
+   "verseNo": 63,
+   "source": "esed",
+   "text": "Allah tanıktır ki, (ey Peygamber,) senden önceki çağlarda da (muhtelif) toplumlara elçiler gönderdik: fakat Şeytan onlara (da) yapıp ettiklerini güzel gösterdi(ği için hakkı inkara şartlanmış olanlar mesajlarımızı dinlemeyi hep reddettiler); Şeytan (geçmişte olduğu gibi) bugün de onlarla sıkı fıkı; bu yüzden de onları zorlu bir azap bekliyor"
+  },
+  {
+   "verseNo": 64,
+   "source": "diyanet",
+   "text": "Sana kitabı, ancak ayrılığa düştükleri şeyleri onlara açıklaman için ve iman eden bir topluma doğru yolu gösterici ve rahmet olarak indirdik."
+  },
+  {
+   "verseNo": 64,
+   "source": "okuyan",
+   "text": "Biz bu Kitabı sana ancak hakkında anlaşmazlığa düştükleri şeyi insanlara açıklayasın (duyurasın) ve inanan bir toplum için bir rehber ve rahmet olsun diye indirdik."
+  },
+  {
+   "verseNo": 64,
+   "source": "islamoglu",
+   "text": "Biz sana ilâhî mesajı, sadece üzerinde anlaşmazlığa düştükleri (inançla ilgili) meselelerin çözümlerini kendilerine sunasın, inanıp güvenecek bir topluluk için de bir yol haritası ve bir rahmet olsun diye indirdik."
+  },
+  {
+   "verseNo": 64,
+   "source": "esed",
+   "text": "Sana bu ilahi kelamı yalnızca, üzerinde çekişip durdukları (dini) sorunları onlara açıklayasın ve inanmaya eğilimli olan kimselere de onu doğru yol bilgisi ve rahmet olarak (ulaştırasın) diye indirdik"
+  },
+  {
+   "verseNo": 65,
+   "source": "diyanet",
+   "text": "Allah gökten su indirdi de onunla yeryüzünü ölümünden sonra diriltti. Şüphesiz bunda dinleyecek bir toplum için bir ibret vardır."
+  },
+  {
+   "verseNo": 65,
+   "source": "okuyan",
+   "text": "Allah gökten su indirmiş ve onunla yeri ölümünden sonra diriltmiştir. Şüphesiz ki bunda dinleyen bir toplum için bir delil vardır."
+  },
+  {
+   "verseNo": 65,
+   "source": "islamoglu",
+   "text": "VE (BAKIN) Allah, gökten yağmuru indirip ölümünün ardından onunla toprağa can vermekte... Şüphesiz bunda da işiten bir toplum için mutlaka alınacak bir mesaj vardır."
+  },
+  {
+   "verseNo": 65,
+   "source": "esed",
+   "text": "Gökten su indirip onunla, kuruyup katılaştıktan sonra toprağa yeniden hayat veren Allah´tır. Şüphesiz bu olguda dinlemeye niyetli olanlar için bir ders vardır"
+  },
+  {
+   "verseNo": 66,
+   "source": "diyanet",
+   "text": "Şüphesiz (sağmal) hayvanlarda da sizin için bir ibret vardır. Onların karınlarındaki fışkı ile kan arasından (süzülen) içenlere halis ve içimi kolay süt içiriyoruz."
+  },
+  {
+   "verseNo": 66,
+   "source": "okuyan",
+   "text": "Şüphesiz ki hayvanlarda da sizin için ibret vardır. Size, onların karınlarındaki atık (gübre) ile kan arasından (gelen), içenlerin boğazından kolayca geçen saf bir süt içiriyoruz."
+  },
+  {
+   "verseNo": 66,
+   "source": "islamoglu",
+   "text": "Yine sizin için sağmal hayvanlarda da alınacak bir öğüt vardır: size hayvanın karnında sindirilen şeylerden oluşan, atıklarından ve kanından ayrışarak süzülüp gelen saf ve lezzetli, sindirimi kolay bir süt içiriyoruz."
+  },
+  {
+   "verseNo": 66,
+   "source": "esed",
+   "text": "Ve muhakkak ki, sizin için (sağmal) hayvanlarda da (çıkarılacak) bir ders vardır: hayvanın karnında, (bedeninden) atılacak artıklarla kan arasından (salgılanan) ve içenlere lezzet ve ferahlık veren katıksız süt içiriyoruz size"
+  },
+  {
+   "verseNo": 67,
+   "source": "diyanet",
+   "text": "Hurma ağaçlarının meyvelerinden ve üzümlerden hem içki, hem de güzel bir rızık edinirsiniz. Elbette bunda aklını kullanan bir toplum için bir ibret vardır."
+  },
+  {
+   "verseNo": 67,
+   "source": "okuyan",
+   "text": "Hurma ve üzümlerin ürünlerinden hem sarhoş edici şeyler hem de güzel gıdalar ediniyorsunuz. Şüphesiz ki bunda aklını kullanan bir toplum için bir delil vardır."
+  },
+  {
+   "verseNo": 67,
+   "source": "islamoglu",
+   "text": "Yine, hurma ağaçlarının ve asmaların ürünlerinden, hem sarhoşluk veren (zararlı) şeyler, hem de yararlı, güzel bir rızık elde ediyorsunuz: elbet bunda aklını kullanan bir topluluk için mutlaka alınacak bir mesaj vardır."
+  },
+  {
+   "verseNo": 67,
+   "source": "esed",
+   "text": "Ve hurma ağaçlarının ve asmaların ürününden hem sarhoş edici içkiler, hem de güzel, temiz rızıklar elde edersiniz: işte bunda da, aklını kullanan kimseler için bir ders vardır"
+  },
+  {
+   "verseNo": 68,
+   "source": "diyanet",
+   "text": "Rabbin bal arısına şöyle ilham etti: \"Dağlardan, ağaçlardan ve insanların yaptıkları çardaklardan (kovanlardan) kendine evler edin.\""
+  },
+  {
+   "verseNo": 68,
+   "source": "okuyan",
+   "text": "Rabbin bal arısına şöyle vahyetmişti (bildirmişti): “Dağlardan, ağaçlardan ve (insanların) yaptıkları çardaklardan kendine yuvalar edin!\""
+  },
+  {
+   "verseNo": 68,
+   "source": "islamoglu",
+   "text": "Yine Rabbin arıya vahyetti (de, sanki fıtratı arıya şöyle seslendi): “Dağlardan, ağaçlardan ve imal edilmiş kovanlardan kendine yuva edin!"
+  },
+  {
+   "verseNo": 68,
+   "source": "esed",
+   "text": "Ve bir de, Rabbinin arıya: \"Dağlarda, ağaçlarda ve (insanların) hazırladıkları kovanlarda kendine yuva edin\" diye vahyetti(ğini)"
+  },
+  {
+   "verseNo": 69,
+   "source": "diyanet",
+   "text": "\"Sonra meyvelerin hepsinden ye de Rabbinin sana kolaylaştırdığı (yaylım) yollarına gir.\" Onların karınlarından çeşitli renklerde bal çıkar. Onda insanlar için şifa vardır. Şüphesiz bunda düşünen bir (toplum) için bir ibret vardır."
+  },
+  {
+   "verseNo": 69,
+   "source": "okuyan",
+   "text": "\"Sonra bütün ürünlerden ye ve Rabbinin sana kolaylaştırdığı yollarına gir!” Karınlarından renkleri çeşitli bir içecek (bal) çıkar ki onda insanlar için şifa vardır. Şüphesiz ki bunda düşünen bir toplum için bir delil vardır."
+  },
+  {
+   "verseNo": 69,
+   "source": "islamoglu",
+   "text": "Sonra her türlü üründen ye ve ardından Rabbinin sana âmâde kıldığı yollarına koyul!” (Bütün bunların sonunda) onların karınlarından, içerisinde insanlar için şifa barındıran farklı renkler/tatlardan oluşan bir sıvı çıkar. Hiç şüphesiz, bütün bunlarda da düşünen bir toplum için mutlaka alınacak bir mesaj vardır."
+  },
+  {
+   "verseNo": 69,
+   "source": "esed",
+   "text": "ve (ona) \"sonra her türlü üründen ye; ve Rabbinin senin için öngördüğü yolları mutlak bir boyun eğmişlikle izle\" (diye buyurduğunu düşünün!) (İşte bunun içindir ki,) onların karınlarından, içinde insan sağlığına yarayışlı unsurlar bulunan değişik renklerde/tadlarda bir sıvı çıkar. Şüphesiz bunda da, düşünen kimseler için mutlaka bir ders vardır"
+  },
+  {
+   "verseNo": 70,
+   "source": "diyanet",
+   "text": "Allah sizi yarattı. Sonra sizi öldürecek. İçinizden kimileri de, bilgili olduktan sonra hiçbir şeyi bilmesin diye ömrünün en düşkün çağına ulaştırılır. Şüphesiz Allah hakkıyla bilendir, (her şeye) hakkıyla gücü yetendir."
+  },
+  {
+   "verseNo": 70,
+   "source": "okuyan",
+   "text": "Sizi Allah yaratmıştır; sonra sizi vefat ettirecektir. Bilgiliyken hiçbir şeyi bilmez hâle gelsin diye sizden bazı kişiler ömrün en sıkıntılı çağına kadar yaşatılacaktır. Şüphesiz ki Allah bilendir, gücü yetendir."
+  },
+  {
+   "verseNo": 70,
+   "source": "islamoglu",
+   "text": "Sizi de Allah yarattı, sonra canınızı alacak. İçinizden kimileri ömrün en düşkün çağına kadar ulaştırılır. Hatta öyle ki, bilirken hiçbir şey bilmez olur: (ama) unutmayın ki Allah her şeyi bilir, sınırsız kudret sahibidir."
+  },
+  {
+   "verseNo": 70,
+   "source": "esed",
+   "text": "Ve sizi Allah yarattı, günü gelince de öldürecek; ve içinizden kimileri, ömrün o en düşkün çağına, (insanın) bildiği şeyi de bilmez olduğu yaşa kadar alıkonulurlar. Gerçek şu ki Allah, her zaman kudretli olan yegane ilim sahibidir"
+  },
+  {
+   "verseNo": 71,
+   "source": "diyanet",
+   "text": "Allah rızık konusunda kiminizi kiminizden üstün kıldı. Üstün kılınanlar rızıklarını ellerinin altındakilere vermezler ki rızıkta hep eşit olsunlar. Şimdi Allah'ın nimetini mi inkar ediyorlar?"
+  },
+  {
+   "verseNo": 71,
+   "source": "okuyan",
+   "text": "Allah rızık bakımından kiminizi kiminize üstün (farklı) kılmıştır. Farklı (bol rızık) verilenler, rızıklarını ellerinin altındakilere verip de bu konuda kendilerini onlara eşit kılmazlar. Allah’ın nimet(ler)ini inkâr mı ediyorlar!"
+  },
+  {
+   "verseNo": 71,
+   "source": "islamoglu",
+   "text": "ALLAH rızkı kiminize diğerinden daha fazla vermiştir. Peki, kendisine fazla verilenler emirleri altında çalışan kesimleri servetlerine ortak etseler de, onlar da bu konuda (kendileriyle) eşit hâle gelseler ya! Buna (dahi razı olmayacaklarına) göre, hâlâ (ortak koşmakla), Allah’ın nimetlerini bile bile inkâra yeltenmiş olmuyorlar mı?"
+  },
+  {
+   "verseNo": 71,
+   "source": "esed",
+   "text": "Rızık konusunda, kiminize kiminizden fazla veren Allah´tır: hal böyleyken, kendisine fazla verilmiş olanlar, rızıklarını -bu bakımdan aralarında eşitlik olsun diye- sağ ellerinin malik olduğu kimselerle paylaşmakta isteksiz davranıyorlar. Peki, (böyle yapmakla) Allah´ın nimetini (bile bile) inkara mı kalkışıyorlar"
+  },
+  {
+   "verseNo": 72,
+   "source": "diyanet",
+   "text": "Allah size kendi cinsinizden eşler var etti. Eşlerinizden de oğullar ve torunlar verdi ve sizi temiz şeylerden rızıklandırdı. Öyleyken onlar batıla inanıyorlar da Allah'ın nimetini inkâr mı ediyorlar?"
+  },
+  {
+   "verseNo": 72,
+   "source": "okuyan",
+   "text": "Allah size kendi nefislerinizden eşler yaratmış, eşlerinizden de sizin için çocuklar ve torunlar var etmiş, (ayrıca) sizi temiz gıdalardan rızıklandırmıştır. Onlar, Allah’ın nimet(ler)ine nankörlük edip batıla mı inanıyorlar!"
+  },
+  {
+   "verseNo": 72,
+   "source": "islamoglu",
+   "text": "Yine Allah size sizin cinsinizden eşler var etti; ve eşlerinizden sizin için çocuklar ve torunlar takdir etti; ve sizi temiz ve güzel şeylerle rızıklandırdı. Bütün bunlara rağmen bir yandan asılsız şeylere inanıp öte yandan Allah’ın nimetini inkâr edecekler, öyle mi?"
+  },
+  {
+   "verseNo": 72,
+   "source": "esed",
+   "text": "Size kendi cinsinizden eşler takdir eden; eşlerinizden de size çocuklar, torunlar veren; ve sizi(n hepinizi) temiz ve hoş şeylerle rızıklandıran Allah´tır. Hal böyleyken, insanlar kalkıp yine de asılsız, boş şeylere inanıp, Allah´ın nimetine karşı nankörlük mü yapacaklar"
+  },
+  {
+   "verseNo": 73,
+   "source": "diyanet",
+   "text": "Allah'ı bırakıp da, kendilerine göklerden ve yerden hiçbir rızık sağlayamayan ve buna gücü de yetmeyen şeylere tapıyorlar."
+  },
+  {
+   "verseNo": 73,
+   "source": "okuyan",
+   "text": "(Müşrikler) Allah’ın peşi sıra kendilerine göklerden ve yerden hiçbir rızık veremeyen ve (hiçbir şeye) güçleri yetmeyen şeylere tapıyorlar."
+  },
+  {
+   "verseNo": 73,
+   "source": "islamoglu",
+   "text": "Üstelik Allah’ın (güya) astı olarak, kendileri için göklerden ve yerden hiçbir rızık sağlayamayan ve buna gücü de yetmeyen şeylere kulluk edecekler!?"
+  },
+  {
+   "verseNo": 73,
+   "source": "esed",
+   "text": "Allah´ı bırakıp, onlar için göklerden veya yerden herhangi bir rızık sağlayamayan ve zaten buna gücü de olmayan şeylere mi tapınıp duracaklar"
+  },
+  {
+   "verseNo": 74,
+   "source": "diyanet",
+   "text": "Artık Allah'a (şanına uymayan) benzetmeler yapmaya kalkmayın. Çünkü Allah bilir siz bilmezsiniz."
+  },
+  {
+   "verseNo": 74,
+   "source": "okuyan",
+   "text": "Allah’a örnekler vermeyin! Şüphesiz ki Allah bilir; siz bilemezsiniz."
+  },
+  {
+   "verseNo": 74,
+   "source": "islamoglu",
+   "text": "Artık Allah ile (başka şeyler arasında) benzetme yoluyla misal vermeye kalkmayın! (Allah misaller veriyor;) çünkü Allah (her şeyi) biliyor, fakat siz bilmiyorsunuz."
+  },
+  {
+   "verseNo": 74,
+   "source": "esed",
+   "text": "Öyleyse, sakın Allah´la (başkaları arasında) herhangi bir benzerlik kurmaya kalkmayın! Çünkü, Allah (her şeyin aslını) biliyor, ama siz bilmiyorsunuz"
+  },
+  {
+   "verseNo": 75,
+   "source": "diyanet",
+   "text": "Allah, hiçbir şeye gücü yetmeyen ve başkasının malı olan bir köle ile, kendisine verdiğimiz güzel rızıktan gizli ve açık olarak Allah yolunda harcayan kimseyi misal verir. Bunlar hiç eşit olur mu? Hamd Allah'a mahsustur, fakat onların çoğu bilmezler."
+  },
+  {
+   "verseNo": 75,
+   "source": "okuyan",
+   "text": "Allah hiçbir şeye gücü yetmeyen, başkasına ait bir köle ile katımızdan kendisine verdiğimiz güzel rızıktan gizli ve açık olarak harcayan (hür) bir kimseyi örnek vermektedir. Bunlar hiç eşit olurlar mı! Hamd (övgü) Allah içindir. Fakat onların çoğu (bunu) bilmezler."
+  },
+  {
+   "verseNo": 75,
+   "source": "islamoglu",
+   "text": "(İşte, örnek olarak) Allah size şu misali verir: Başkasının boyunduruğu altındaki köle sınıfına mensup birini (düşünün; bir de) kendisine tarafımızdan güzel bir rızık verdiğimiz ve ondan açık ve gizli hayırda bulunan (hür) birini… Şimdi bunlar bir tutulabilir mi? Övgülerin en mükemmeline yalnız (iradeyi yaratan) Allah lâyıktır: fakat onların çoğu (bunun dahi) farkında değiller!"
+  },
+  {
+   "verseNo": 75,
+   "source": "esed",
+   "text": "Allah (işte size iki insan) örneği veriyor: (biri) hiçbir şeye gücü yetmeyen, başkasına bağımlı bir köle; (diğeri de) kendisine katımızdan (bir armağan olarak) güzel bir rızık bahşettiğimiz (özgür) bir insan ki, o rızıktan gizli açık (gönlünce, doğru yolda) harcamalar yapıyor. İmdi, (düşünün), bu iki insan hiç bir tutulabilir mi? Bütün övgüler Allah´a yakışır: ama onların çoğu bunu bilmezler"
+  },
+  {
+   "verseNo": 76,
+   "source": "diyanet",
+   "text": "Allah (şöyle) iki adamı da misal verdi: Onlardan biri dilsizdir, hiçbir şeye gücü yetmez, efendisine sadece bir yüktür. Nereye gönderse olumlu bir sonuç alamaz. Bu, adaletle emreden ve doğru yol üzere olan kimse ile eşit olur mu?"
+  },
+  {
+   "verseNo": 76,
+   "source": "okuyan",
+   "text": "Allah şu iki adamı da örnek vermektedir: Onlardan biri dilsizdir, hiçbir şey beceremez ve efendisine bir yüktür. Onu her nereye gönderse hiçbir hayır (yarar) da getiremez. Bu kişi ile doğru yolda olarak adaleti emreden (diğer) kişi eşit olur mu hiç!"
+  },
+  {
+   "verseNo": 76,
+   "source": "islamoglu",
+   "text": "Yine Allah şu iki adamı da misal verir: Onlardan biri elinden hiçbir iş gelmeyen, iki lafı bir araya getiremeyen bir ahmak. Üstüne üstlük bir de efendisinin sırtında yük. Onu nereye gönderse başarılı bir sonuçla dönemez. Şimdi böyle biri, adâleti emreden ve kendisi de dosdoğru yolda olan kimseyle denk tutulabilir mi?"
+  },
+  {
+   "verseNo": 76,
+   "source": "esed",
+   "text": "Ve yine Allah (size başka) iki insan örneği veriyor: Onlardan biri, hiçbir iş elinden gelmeyen bir dilsiz ki, efendisinin sırtında gerçek bir yük; öyle ki, beriki onu hangi işe koşsa olumlu bir sonuç alamıyor. Peki, işte böyle biri, doğru ve hakça olanın yapılmasını emreden ve kendisi de dosdoğru bir yolda yürüyen (bilge bir) kimseyle hiç bir tutulabilir mi"
+  },
+  {
+   "verseNo": 77,
+   "source": "diyanet",
+   "text": "Göklerin ve yerin gaybı Allah'a aittir. Kıyamet'in kopması bir göz kırpması gibi veya daha az bir zamandır. Şüphesiz Allah her şeye hakkıyla gücü yetendir."
+  },
+  {
+   "verseNo": 77,
+   "source": "okuyan",
+   "text": "Göklerin ve yerin gaybı (bilinemeyeni) yalnızca Allah’a aittir. O (Son) Saat’in (gerçekleşme) işi, göz açıp kapama gibi hatta çok daha yakın bir (zamanda gerçekleşecek olaydan) başka bir şey değildir. Şüphesiz ki Allah her şeye gücü yetendir."
+  },
+  {
+   "verseNo": 77,
+   "source": "islamoglu",
+   "text": "İmdi, göklerin ve yerin gaybını (bilmek) yalnızca Allah’a mahsustur: Nitekim Son Saat’in gelip çatması, sadece bir göz açıp kapamak gibi veya daha da kısa bir zamanda vuku bulacak. Unutmayın ki Allah her şeye kadirdir."
+  },
+  {
+   "verseNo": 77,
+   "source": "esed",
+   "text": "Ve (bilin ki) göklerin ve yerin bilinmeyen gerçekleri (yalnızca) Allah´a aittir. Ve o Son Saat´in gelip çatması ancak bir göz kırpması kadar yahut bundan da kısa (bir an içinde) olup bitecektir. Çünkü, şüphe yok, Allah´ın her şeye gücü yeter"
+  },
+  {
+   "verseNo": 78,
+   "source": "diyanet",
+   "text": "Allah sizi, analarınızın karnından siz hiçbir şey bilmez durumda iken çıkardı. Şükredesiniz diye size kulaklar, gözler ve kalpler verdi."
+  },
+  {
+   "verseNo": 78,
+   "source": "okuyan",
+   "text": "Allah siz hiçbir şey bilmezken sizi analarınızın karınlarından çıkarmış, şükredesiniz diye size işitme (duyusu), gözler ve kalpler vermiştir."
+  },
+  {
+   "verseNo": 78,
+   "source": "islamoglu",
+   "text": "Sizi analarınızın karınlarından hiçbir şey bilmez bir hâlde çıkaran, belki şükrederler diye sizin için işitme, görme ve duyma-düşünme kabiliyeti takdir eden de yine Allah’tır."
+  },
+  {
+   "verseNo": 78,
+   "source": "esed",
+   "text": "Ve sizi analarınızın karnından, hiçbir şey bilmez bir halde çıkarıp size, şükredesiniz diye işitme duyusu, görme duyusu, duyma, düşünme yetisi bahşeden Allah´tır"
+  },
+  {
+   "verseNo": 79,
+   "source": "diyanet",
+   "text": "Gökyüzünde Allah'ın emrine boyun eğerek uçan kuşları görmüyorlar mı? Onları gökte ancak Allah tutar. Şüphesiz bunda inanan bir toplum için ibretler vardır."
+  },
+  {
+   "verseNo": 79,
+   "source": "okuyan",
+   "text": "Göğün boşluğunda emre boyun eğdirilmiş olarak uçuşan (kuş)ları görmezler mi? Onları (orada) Allah’tan başkası tutamaz. Şüphesiz ki bunda inanan bir toplum için dersler vardır."
+  },
+  {
+   "verseNo": 79,
+   "source": "islamoglu",
+   "text": "Peki, kuşlar üzerinde hiç mi gözlem yapmazlar? Onlar göğün boşluğunda (uçarken, ilâhî yasalara) boyun eğmişlerdir. Onları orada tutan (yasayı) Allah’tan başka kimse (koyamaz). Hiç şüphesiz, inanıp güvenen bir toplum için bunda da mutlaka alınacak dersler vardır."
+  },
+  {
+   "verseNo": 79,
+   "source": "esed",
+   "text": "Peki, (hakkı inkar edenler), göğün ortasında, boşlukta, (Allah´ın yarattığı yasalara uyarak) uçup duran kuşlara bakıp düşünmüyorlar mı hiç? Elbette, Allah´tan başka kimse yok, onları yukarıda tutan. Şüphesiz bunda inanmaya eğilim duyanlar için çıkarılacak dersler var"
+  },
+  {
+   "verseNo": 80,
+   "source": "diyanet",
+   "text": "Allah, size evlerinizi huzur ve dinlenme yeri yaptı. Hayvanların derilerinden gerek göç gününüzde, gerek ikamet gününüzde kolayca taşıyacağınız evler; onların yünlerinden, yapağılarından ve kıllarından bir süreye kadar yararlanacağınız ev eşyası ve geçimlikler meydana getirdi."
+  },
+  {
+   "verseNo": 80,
+   "source": "okuyan",
+   "text": "Allah size huzur yeri olarak evlerinizi (yapma imkânı) vermiştir. Sizin için hayvan derilerinden gerek yolculuğunuzda, gerekse konaklama gününüzde kolayca taşıyabileceğiniz evler (çadırlar); yünlerinden, yapağılarından ve kıllarından bir süreye kadar (yararlanacağınız) ev eşyası ve ticaret malı yaratmıştır."
+  },
+  {
+   "verseNo": 80,
+   "source": "islamoglu",
+   "text": "Allah size içinde huzur ve sükûn duyacağınız sabit meskenler (inşâ etme yeteneğini) veren; yine size hayvanların derilerinden konup göçerken kolayca taşıyacağınız seyyar mekânlar (yapma yeteneğini) kazandıran; onların yünlerinden, kürklerinden, kıllarından hem dayanıklı temel eşyalar hem de sınırlı süre kullanılan dayanıksız tâli eşyalar (üretme yeteneği) vermiştir."
+  },
+  {
+   "verseNo": 80,
+   "source": "esed",
+   "text": "Ve size, dinlenme yeri olarak kendinize ev (yapma imkan ve yeteneğini) veren; size, hayvanların derilerinden, konup göçerken kolayca taşıyabileceğiniz barınaklar; (kaba) yünlerinden, ince yumuşak yünlerinden ve kıllarından dayanıklı ev eşyası ve daha kısa süreli kullanımlar için başka eşyalar (yapma imkan ve becerisini) bahşeden de Allah´tır"
+  },
+  {
+   "verseNo": 81,
+   "source": "diyanet",
+   "text": "Allah, yarattıklarından sizin için gölgeler yaptı ve dağlarda da sizin için barınaklar var etti. Sizi sıcaktan koruyacak elbiseler ve savaşta sizi koruyacak zırhlar verdi. Böylece Allah, müslüman olasınız diye üzerinizde olan nimetini tamamlıyor."
+  },
+  {
+   "verseNo": 81,
+   "source": "okuyan",
+   "text": "Allah yarattığı şeylerden sizin için gölgeler var etmiştir. Dağlardan da sizin için barınaklar yaratmıştır. Sizi sıcaktan (ve soğuktan) koruyacak elbiseler ve (yine) savaşta sizi koruyacak elbiseler (zırhlar) yaratmıştır. İşte böylece (Allah) teslimiyet göstermeniz için üzerinize nimetini tamamlıyor."
+  },
+  {
+   "verseNo": 81,
+   "source": "islamoglu",
+   "text": "Yarattığı şeylerden kimilerini size gölgelik kılan; ve dağlardan size sığınaklar-korunaklar temin eden; yine size hem sıcağa (ve soğuğa) karşı korunacak giysiler, hem de savaşlarınızın darbelerinden korunacak elbiseler (imal etme yeteneği) veren de Allah’tır. Size olan nimetlerini işte böyle tamamladı; belki (O’na) teslimiyetiniz (de tam) olur."
+  },
+  {
+   "verseNo": 81,
+   "source": "esed",
+   "text": "Ve yarattığı bütün öteki şeyler arasında, size (çeşit çeşit) gölgelikler, sığınaklar ayıran; dağlarda gizlenme, saklanma yerleri bahşeden ve sizi sıcağa (ve soğuğa) karşı koruyacak elbiseler; (karşılıklı) saldırılarınıza karşı koruyacak (savaş) giysileri (yapma imkan ve becerisini) veren (de) Allah´tır. O size bahşettiği nimeti işte böyle her yönden tam tutmaktadır ki belki O´na boyun eğer de kurtulursunuz"
+  },
+  {
+   "verseNo": 82,
+   "source": "diyanet",
+   "text": "Ey Muhammed! Eğer yüz çevirirlerse, artık sana düşen açık bir tebliğden ibarettir."
+  },
+  {
+   "verseNo": 82,
+   "source": "okuyan",
+   "text": "Yine de yüz çevirirlerse, artık sana düşen (görev) ancak apaçık tebliğdir."
+  },
+  {
+   "verseNo": 82,
+   "source": "islamoglu",
+   "text": "BUNA rağmen yüz çevirirlerse unutma ki sana düşen açık ve net olarak (mesajı) tebliğ etmektir."
+  },
+  {
+   "verseNo": 82,
+   "source": "esed",
+   "text": "Fakat, (ey Peygamber, eğer senden) yüz çevirirlerse, unutma ki, senin görevin sadece, (sana vahyolunan) mesajı açıkça duyurmaktan ibarettir"
+  },
+  {
+   "verseNo": 83,
+   "source": "diyanet",
+   "text": "Onlar, Allah'ın nimetini bilirler, sonra da inkâr ederler. Onların çoğu kâfirlerdir."
+  },
+  {
+   "verseNo": 83,
+   "source": "okuyan",
+   "text": "Onlar, Allah’ın nimet(ler)ini bilirler; sonra da onu inkâr ederler. Onların çoğu kâfirdir."
+  },
+  {
+   "verseNo": 83,
+   "source": "islamoglu",
+   "text": "Allah’ın nimetlerini pekâlâ tanıyıp biliyorlar, fakat yine de nankörlük ediyorlar; zira onların çoğu küfre sapmıştır."
+  },
+  {
+   "verseNo": 83,
+   "source": "esed",
+   "text": "Aslında Allah´ın nimetinin pekala farkındalar ama, yine de onu tanıyıp doğrulamaya yanaşmıyorlar; çünkü onların çoğu onmaz biçimde küfre batmış bulunuyor"
+  },
+  {
+   "verseNo": 84,
+   "source": "diyanet",
+   "text": "Kıyamet günü her ümmetten bir şahit göndereceğiz; sonra inkar edenlere ne (özür dilemeleri için) izin verilecek, ne de Allah'ın rızasını kazandıracak amelleri işleme istekleri kabul edilecek."
+  },
+  {
+   "verseNo": 84,
+   "source": "okuyan",
+   "text": "Her ümmetten bir şahit göndereceğimiz (getireceğimiz) gün, artık (özür dilemeleri için) kâfir olanlara izin verilmez; onların özür dilemeleri de istenmez."
+  },
+  {
+   "verseNo": 84,
+   "source": "islamoglu",
+   "text": "Fakat bir gün gelecek Biz, her ümmetten bir şahit çıkaracağız. Sonra inkârda ısrar edenlere ne mazeret beyan etme izni verilecek, ne de suçlarını itiraf ile af dileme imkânı."
+  },
+  {
+   "verseNo": 84,
+   "source": "esed",
+   "text": "Ama Biz gün gelecek her ümmetten bir tanık çıkaracağız: o Gün, hakkı inkara şartlanmış olanlardan (bilgisizlik gibi) bir mazeret kabul edilmeyecek, af dilemeleri de asla kale alınmayacaktır"
+  },
+  {
+   "verseNo": 85,
+   "source": "diyanet",
+   "text": "O zalimler, azabı gördükleri zaman artık onlardan azap hafifletilmez ve kendilerine mühlet de verilmez."
+  },
+  {
+   "verseNo": 85,
+   "source": "okuyan",
+   "text": "Haksızlık edenler azabı gördüklerinde, artık onlardan azap hafifletilmez, onlara bakılmaz da."
+  },
+  {
+   "verseNo": 85,
+   "source": "islamoglu",
+   "text": "Ve o zulmedenler azabı görünce, artık onun kendilerine hafifletilmeyeceğini de, fırsat tanınmayacağını da anlayacaklar."
+  },
+  {
+   "verseNo": 85,
+   "source": "esed",
+   "text": "Ve kötülüğe, haksızlığa şartlanmış olanlar (o gün kendilerini bekleyen) azabı karşılarında bulduklarında, o azabın kendileri için (hiçbir mazeretle) hafifletilmeye(ceğini) ve kendilerine artık zaman da verilmeyeceğini (hemen anlayacaklar)"
+  },
+  {
+   "verseNo": 86,
+   "source": "diyanet",
+   "text": "Allah'a ortak koşanlar ortaklarını gördüklerinde diyecekler ki: \"Rabbimiz! Bunlar, seni bırakıp kendilerine tapmış olduğumuz ortaklarımızdır.\" Koştukları ortaklar da onlara: \"Siz elbette yalancılarsınız\" diye laf atacaklar."
+  },
+  {
+   "verseNo": 86,
+   "source": "okuyan",
+   "text": "(Allah’a) ortak koşanlar, ortak koştuklarını (mahşerde) gördükleri zaman şöyle diyecekler: “Rabbimiz! İşte bunlar, senin peşin sıra yalvardığımız ortaklarımızdır.” Onlar (ortaklar) da diğerlerine “Siz mutlaka yalancılarsınız!” diye laf atmış (olacak)lardır."
+  },
+  {
+   "verseNo": 86,
+   "source": "islamoglu",
+   "text": "Allah’a ait nitelikleri başkalarına yakıştıranlar ise, (Allah’a) yakıştırdıkları ortakları karşılarında görünce; “Rabbimiz! İşte sana ortak koştuklarımız; Seni bırakıp da kendilerine yalvarıp durduğumuz kimseler bunlardı!” der demez, hemen berikiler onların sözlerini ağızlarına tıkayacaklar: “Sizi gidi yalancılar sizi!..”"
+  },
+  {
+   "verseNo": 86,
+   "source": "esed",
+   "text": "Ve Allah´tan başkalarına tanrılık yakıştıranlar, (Hesap Günü) bu tanrı yerine koydukları (düzmece) varlıkları karşılarında bulduklarında, \"Ey Rabbimiz!\" diyecekler, \"(Evet) bunlar bizim sana ortak tanrılar olarak gördüğümüz ve seni bırakıp kendilerine yalvarıp yakardığımız varlıklardır!\" Bunun üzerine (o varlıklar, onların hak ettikleri) sözü yüzlerine çarparlar: \"Sizler (bu konuda birbirine) düpedüz yalan söyleyen kimselerdiniz"
+  },
+  {
+   "verseNo": 87,
+   "source": "diyanet",
+   "text": "Onlar o gün Allah'a teslim olurlar ve uydurdukları şeyler de onları yüzüstü bırakıp kaybolur."
+  },
+  {
+   "verseNo": 87,
+   "source": "okuyan",
+   "text": "(Kâfirler) o gün Allah’a teslim olacaklar ve uydurmakta oldukları şeyler (putlar) onlardan kaybolup gidecektir."
+  },
+  {
+   "verseNo": 87,
+   "source": "islamoglu",
+   "text": "İşte o gün onlar, (iş işten geçtikten sonra) Allah’a kayıtsız şartsız teslimiyetlerini sunarlar; uydurdukları kuruntu (aracılar) kendilerini yüzüstü bırakırlar."
+  },
+  {
+   "verseNo": 87,
+   "source": "esed",
+   "text": "Ve (işte bu günahı işlemiş olan kimseler) o Gün (iş işten geçtikten sonra) Allah´a teslimiyetlerini bildirirler; ve uydurdukları (düzmece tanrılar) da yüzüstü bırakır onları"
+  },
+  {
+   "verseNo": 88,
+   "source": "diyanet",
+   "text": "İnkâr eden ve insanları Allah'ın yolundan alıkoyanların, yapmakta oldukları bozgunculuklarına karşılık azaplarının üstüne azap ekleriz."
+  },
+  {
+   "verseNo": 88,
+   "source": "okuyan",
+   "text": "Kâfir olup (insanları) Allah yolundan alıkoyanlar var ya, işte bozgunculuk yapmaları sebebiyle onların azaplarını artırdıkça artıracağız."
+  },
+  {
+   "verseNo": 88,
+   "source": "islamoglu",
+   "text": "İnkârda direnmekle kalmayıp (başkalarını da) Allah’ın yolundan çeviren kimselerin üzerine, sebep oldukları toplumsal çürüme ve yozlaşmadan dolayı azab üstüne azap yığacağız;"
+  },
+  {
+   "verseNo": 88,
+   "source": "esed",
+   "text": "Hakkı inkara kalkışan ve başkalarını Allah´ın yolundan çeviren kimselerin üzerine, çıkardıkları bozgunculuktan ötürü, azap üstüne azap yığacağız"
+  },
+  {
+   "verseNo": 89,
+   "source": "diyanet",
+   "text": "(Ey Muhammed!) Her ümmetin kendi içinden üzerlerine bir şahit göndereceğimiz, seni de onların üzerine bir şahit olarak getireceğimiz günü düşün. Sana bu kitabı; her şey için bir açıklama, doğru yolu gösteren bir rehber, bir rahmet ve müslümanlar için bir müjde olarak indirdik."
+  },
+  {
+   "verseNo": 89,
+   "source": "okuyan",
+   "text": "O gün kendilerinden her ümmete bir şahit göndereceğiz (getireceğiz). Seni de bunların üzerine şahit olarak getirmiş olacağız. Bu Kitabı sana, her şey için bir açıklama, müslümanlar için de bir rehber, rahmet ve müjde olarak indirdik."
+  },
+  {
+   "verseNo": 89,
+   "source": "islamoglu",
+   "text": "ve günü gelince onların aleyhine (de) her bir ümmetin kendi içerisinden bir şahit çıkaracağız. Seni de (ey Muhammed), işte şu (mesajın muhatabı olan) insanlara bir şahit olarak getirdik; ve sana her şeyi ana kaynağından indirerek vurgulu bir biçimde açıklayan ve bir yol haritası, bir rahmet ve Allah’a teslim olanlar için bir müjde olan bu ilâhî mesajı indirdik."
+  },
+  {
+   "verseNo": 89,
+   "source": "esed",
+   "text": "Ve gün gelecek her toplum içinden kendi aleyhlerine bir şahit çıkaracağız. Ve seni de (ey Peygamber, mesajının ulaşabileceği) kimseler üzerinde şahit kıldık; nitekim sana adım adım her şeyi olduğu gibi açıklayan, bir doğru yol bilgisi, bir rahmet ve Allah´a yürekten boyun eğenlere müjde olarak bu ilahi kelamı indirdik"
+  },
+  {
+   "verseNo": 90,
+   "source": "diyanet",
+   "text": "Şüphesiz Allah, adaleti, iyilik yapmayı, yakınlara yardım etmeyi emreder; hayasızlığı, fenalık ve azgınlığı da yasaklar. O, düşünüp tutasınız diye size öğüt veriyor."
+  },
+  {
+   "verseNo": 90,
+   "source": "okuyan",
+   "text": "Şüphesiz ki Allah adaleti, iyiliği, akrabaya yardım etmeyi emreder; çirkinliği, fenalığı ve azgınlığı da yasaklar. (O, gerçekleri) hatırlayasınız diye size öğüt vermektedir."
+  },
+  {
+   "verseNo": 90,
+   "source": "islamoglu",
+   "text": "HİÇ şüphe yok ki Allah âdil davranmayı, iyilik yapmayı ve yakınlara karşı cömert olmayı emreder; ve her türlü utanç verici hayasızlığı, selim akla ve sağduyuya aykırı çirkinliği ve sınırları hiçe sayan taşkınlık ve azgınlığı yasaklar: size (bu) öğütleri verir ki, sorumluluklarınızı hatırlayabilesiniz."
+  },
+  {
+   "verseNo": 90,
+   "source": "esed",
+   "text": "Gerçek şu ki, Allah adaleti ve iyilik yapmayı, yakınlara karşı cömert olmayı emredip utanç verici ve arsızca olanı, akıl ve sağduyuya aykırı olanı ve azgınlığı, taşkınlığı yasaklıyor; ve size (böyle tekrar tekrar) öğüt veriyor ki, böylece (bütün bunları) belki aklınızda tutarsınız"
+  },
+  {
+   "verseNo": 91,
+   "source": "diyanet",
+   "text": "Antlaşma yaptığınız zaman, Allah'a karşı verdiğiniz sözü yerine getirin. Allah'ı kendinize kefil kılarak pekiştirdikten sonra yeminlerinizi bozmayın. Şüphesiz Allah yaptıklarınızı bilir."
+  },
+  {
+   "verseNo": 91,
+   "source": "okuyan",
+   "text": "Antlaşma yaptığınız zaman, Allah’ın sözünü yerine getirin ve Allah’ı üzerinize şahit tutarak, pekiştirdikten sonra yeminleri bozmayın! Şüphesiz ki Allah yapmakta olduğunuz şeyleri bilir."
+  },
+  {
+   "verseNo": 91,
+   "source": "islamoglu",
+   "text": "Yine Allah ile sözleşme yaptığınızda, sözünüze sadâkat gösteriniz; bir de yeminlerinizi iyice kesinleştirdikten sonra bozmaya kalkmayınız! Unutmayınız ki Allah’ı kendinize kefil kılmıştınız: zira Allah yaptığınız her şeyi biliyor."
+  },
+  {
+   "verseNo": 91,
+   "source": "esed",
+   "text": "Bir de, bir sözleşme yaparak bağlanma içine girdiğinizde Allah´la olan sözleşmenize sadakat gösterin; ve yeminlerinizi, iyi niyetinize Allah´ı tanık tutarak iyice pekiştirdikten sonra bozmayın; unutmayın ki, yaptığınız her şeyi Allah mutlaka biliyor"
+  },
+  {
+   "verseNo": 92,
+   "source": "diyanet",
+   "text": "Bir topluluk diğer bir topluluktan daha (güçlü ve) çoktur diye yeminlerinizi aranızda bir hile ve fesat sebebi yaparak, ipliğini iyice eğirip büktükten sonra (tekrar) çözüp bozan kadın gibi olmayın. Allah bununla sizi ancak imtihan eder. Hakkında ayrılığa düştüğünüz şeyleri kıyamet günü size elbette açıklayacaktır."
+  },
+  {
+   "verseNo": 92,
+   "source": "okuyan",
+   "text": "Bir toplum diğer bir toplumdan daha kabarık (çok, güçlü) olduğu için, yeminlerinizi aranızda bir bozgunculuk aracı edinerek ipliğini sağlamca büktükten sonra, çözüp bozan (kişiler) gibi olmayın! Allah bununla (bu eyleminizle) sizi imtihan etmektedir. Hakkında anlaşmazlığa düşmekte olduğunuz şeyi kıyamet gününde mutlaka size açıklayacaktır."
+  },
+  {
+   "verseNo": 92,
+   "source": "islamoglu",
+   "text": "Ve asla bir topluluk (diğerinden) daha kârlı gerekçesiyle, yeminlerinizi kendi aranızda bir kandırmacaya dönüştürerek, “ipliğini iyice eğirdikten sonra onu tersine çevirip çözen o kadın”ın durumuna düşmeyin! Şüphesiz Allah sizi bununla sınamaktadır; ve elbette Kıyamet Günü üzerinde sürekli tartışıp farklı sonuçlara ulaştığınız şeyleri açık seçik önünüze serecektir."
+  },
+  {
+   "verseNo": 92,
+   "source": "esed",
+   "text": "Ve sakın yeminlerinizi, sırf içinizden bir grubun diğerinden daha güçlü olmasına dayanarak aranızda bir aldatma aracı olarak ele alıp da ipliğini iyice büküp berkittikten sonra onu çözüp koparan kadın gibi olmayın. Allah bütün bunlarla sizi sadece sınavdan geçiriyor ki, üzerinde çekişip durduğunuz her şeyi Kıyamet Günü´nde bütün açıklığıyla karşınıza koysun"
+  },
+  {
+   "verseNo": 93,
+   "source": "diyanet",
+   "text": "Allah dileseydi, sizi tek bir ümmet yapardı. Fakat O, dilediğini saptırır, dilediğini de doğru yola iletir. Yapmakta olduğunuz şeylerden mutlaka sorguya çekileceksiniz."
+  },
+  {
+   "verseNo": 93,
+   "source": "okuyan",
+   "text": "Allah dileseydi sizi tek bir ümmet yapardı fakat (Allah) dileyeni (layık gördüğünü) saptırır (sapkınlığını onaylar), dileyeni (layık gördüğünü) de doğru yola ulaştırır.Yaptıklarınızdan mutlaka sorumlu tutulacaksınız."
+  },
+  {
+   "verseNo": 93,
+   "source": "islamoglu",
+   "text": "Zaten eğer Allah isteseydi sizi tek bir ümmet yapardı; fakat O tercih edeni/tercih ettiğini saptırıyor, tercih edeni/tercih ettiğini ise doğru yola yöneltiyor: ne ki (tercihiniz sonucu) yaptığınız her şeyden mutlaka hesap vereceksiniz."
+  },
+  {
+   "verseNo": 93,
+   "source": "esed",
+   "text": "Çünkü, Allah dileseydi şüphesiz hepinizi bir tek ümmet yapardı; ama (sapmak) isteyeni saptırıp, (doğru yola ulaşmak) isteyeni de doğru yola yöneltiyor; Ve şüphesiz, yaptığınız her şeyden ötürü sorguya çekileceksiniz"
+  },
+  {
+   "verseNo": 94,
+   "source": "diyanet",
+   "text": "Yeminlerinizi aranızda hile ve fesat sebebi yapmayın. Sonra sağlamca bastıktan sonra ayak(larınız) kayar da Allah yolundan sapmanız sebebiyle kötü azabı tadarsınız. (Ahirette de) sizin için büyük bir azap vardır."
+  },
+  {
+   "verseNo": 94,
+   "source": "okuyan",
+   "text": "Yeminlerinizi aranızda aldatma sebebi edinmeyin! (Aksi hâlde) sağlam bastıktan sonra ayaklar(ınız) kayar da (insanları) Allah yolundan alıkoymanız sebebiyle kötülüğü tadarsınız. Sizin için (ahirette de) büyük bir azap vardır."
+  },
+  {
+   "verseNo": 94,
+   "source": "islamoglu",
+   "text": "Bir de yeminlerinizi, bir kandırma aracına dönüştürmeyin; yoksa ayağınızı sağlam basmışken (zemin alttan) kayıp gider ve Allah yolundan uzaklaşmanızın kötü sonuçlarını (yudum yudum) tadarsınız; üstelik (ötede) sizin hakkınız daha korkunç bir azaba duçar olmaktır."
+  },
+  {
+   "verseNo": 94,
+   "source": "esed",
+   "text": "(Bunun içindir ki,) yeminlerinizi aranızda bir aldatma aracı olarak kullanmayın; yoksa ayağ(ınız), sağlamca basmış olduğunuz halde, kayar ve böylece Allah yolundan dönüp uzaklaşmanızın kötü (sonuçlarını) tatmak zorunda kalırsınız; ayrıca bu takdirde sizi (öte dünyada da) çok büyük bir azap bekliyecektir"
+  },
+  {
+   "verseNo": 95,
+   "source": "diyanet",
+   "text": "Allah'a verdiğiniz sözü az bir karşılığa değişmeyin. Eğer bilirseniz, şüphesiz Allah katında olan sizin için daha hayırlıdır."
+  },
+  {
+   "verseNo": 95,
+   "source": "okuyan",
+   "text": "Allah’ın sözünü az bir değere satmayın! (Gerçeği) biliyorsanız şüphesiz ki Allah katında olan (sevap) sizin için hayırlı olandır."
+  },
+  {
+   "verseNo": 95,
+   "source": "islamoglu",
+   "text": "Ve Allah ile yaptığınız sözleşmeyi az bir bedel karşılığında satmayın! Bakın, (onun) Allah katındaki karşılığı var ya; işte o eğer bilirseniz sizin için çok daha hayırlıdır:"
+  },
+  {
+   "verseNo": 95,
+   "source": "esed",
+   "text": "Öyleyse, Allah´la yaptığınız sözleşmeyi az bir pahayla değişmeyin! Bir bilseniz, Allah katında (bulacağınız paha) sizin için elbette en iyisidir"
+  },
+  {
+   "verseNo": 96,
+   "source": "diyanet",
+   "text": "Sizin yanınızdaki tükenir, Allah katında olan ise kalıcıdır. Elbette sabredenlere, yapmakta olduklarının en güzeliyle mükafatlarını vereceğiz."
+  },
+  {
+   "verseNo": 96,
+   "source": "okuyan",
+   "text": "Sizin yanınızdaki (dünya malı) tükenir; Allah katındakiler ise kalıcıdır. Sabredenlere elbette yapmış olduklarının en güzeliyle ödüllerini vereceğiz."
+  },
+  {
+   "verseNo": 96,
+   "source": "islamoglu",
+   "text": "(zira) sizin yanınızdaki tükenir, fakat Allah katındakiler bâkîdir. İmdi herkes emin olsun ki, zorluklara karşı göğüs gerenleri işlediklerinin en iyisiyle ödüllendireceğiz:"
+  },
+  {
+   "verseNo": 96,
+   "source": "esed",
+   "text": "(Çünkü) sizin katınızdaki tükenir gider, ama Allah katındaki kalıcıdır. Ve kesin olan şu ki: güçlüklere göğüs gerenleri yaptıkları en iyi şey neyse ona göre ödüllendireceğiz"
+  },
+  {
+   "verseNo": 97,
+   "source": "diyanet",
+   "text": "Erkek veya kadın, kim mü'min olarak iyi iş işlerse, elbette ona hoş bir hayat yaşatacağız ve onların mükafatlarını yapmakta olduklarının en güzeli ile vereceğiz."
+  },
+  {
+   "verseNo": 97,
+   "source": "okuyan",
+   "text": "Erkek veya kadın kim mümin olarak iyi iş(ler) yaparsa, onu mutlaka güzel bir hayat ile yaşatacağız.Ödüllerini de elbette yapmakta olduklarının en güzeli ile vereceğiz."
+  },
+  {
+   "verseNo": 97,
+   "source": "islamoglu",
+   "text": "kim imanlı olarak bir iyilik ortaya koymuşsa; -erkek ya da kadın (fark etmez)- kesinlikle ona güzel bir hayat yaşatacağız; dahası elbet onları işlediklerinin en iyisiyle ödüllendireceğiz."
+  },
+  {
+   "verseNo": 97,
+   "source": "esed",
+   "text": "Erkek ya da kadın, inanmış olması yanında bir de dürüst ve erdemli davranan kimseye hiç şüphesiz arı duru, hoş bir hayat tattıracağız; ve yine şüphesiz böylelerini, yapageldikleri en güzel şey neyse ona göre ödüllendireceğiz"
+  },
+  {
+   "verseNo": 98,
+   "source": "diyanet",
+   "text": "Kur'an okuduğun zaman, kovulmuş şeytandan Allah'a sığın."
+  },
+  {
+   "verseNo": 98,
+   "source": "okuyan",
+   "text": "Kur’an’ı okuduğun zaman kovulmuş şeytandan Allah’a sığın!"
+  },
+  {
+   "verseNo": 98,
+   "source": "islamoglu",
+   "text": "BUNDAN böyle Kur’an okuduğun her zaman, ara vermeksizin kovulmuş şeytandan Allah’a sığın!"
+  },
+  {
+   "verseNo": 98,
+   "source": "esed",
+   "text": "İmdi, Kuran okuyacağın zaman, hemen o kovulmuş şeytana karşı Allah´a sığın"
+  },
+  {
+   "verseNo": 99,
+   "source": "diyanet",
+   "text": "Gerçek şu ki; şeytanın, inanan ve yalnız Rablerine tevekkül eden kimseler üzerinde bir hakimiyeti yoktur."
+  },
+  {
+   "verseNo": 99,
+   "source": "okuyan",
+   "text": "Gerçek şu ki iman edip yalnız Rablerine güvenenler üzerinde onun (şeytanın) hiçbir hâkimiyeti yoktur."
+  },
+  {
+   "verseNo": 99,
+   "source": "islamoglu",
+   "text": "Fakat şunu da unutma ki, (şeytanın) imanda sebat gösterenlerin ve Rablerine güvenip dayananların üzerinde yaptırım gücü yoktur;"
+  },
+  {
+   "verseNo": 99,
+   "source": "esed",
+   "text": "Gerçekte, onun, imana erişenlerin ve Rablerine güven bağlamış olanların üzerinde bir nüfuzu/etkisi yoktur"
+  },
+  {
+   "verseNo": 100,
+   "source": "diyanet",
+   "text": "Şeytanın hakimiyeti, sadece onu dost edinenler ve Allah'a ortak koşanlar üzerindedir."
+  },
+  {
+   "verseNo": 100,
+   "source": "okuyan",
+   "text": "Onun hakimiyeti kendisini dost edinenler ve O’na (Allah’a) ortak koşanlar üzerindedir."
+  },
+  {
+   "verseNo": 100,
+   "source": "islamoglu",
+   "text": "ne var ki o ikna gücünü, yalnızca kendisini kılavuz edinip ısrarla izleyenlerin ve kendisine ilâhlık yakıştıranların üzerinde sergileyebilir."
+  },
+  {
+   "verseNo": 100,
+   "source": "esed",
+   "text": "Onun yalnızca kendisini izlemeye istekli olanlar üzerinde ve bir de ona tanrısal nitelikler yakıştıranlar üzerinde etkisi vardır"
+  },
+  {
+   "verseNo": 101,
+   "source": "diyanet",
+   "text": "Biz bir âyeti değiştirip yerine başka bir âyet getirdiğimiz zaman -ki Allah neyi indireceğini gayet iyi bilir- onlar Peygamber'e, \"Sen ancak uyduruyorsun\" derler. Hayır, onların çoğu bilmezler."
+  },
+  {
+   "verseNo": 101,
+   "source": "okuyan",
+   "text": "Biz bir ayetin yerine başka bir ayeti değiştirdiğimiz zaman –ki Allah neyi indireceğini çok iyi bilendir– “Sen ancak bir iftiracısın!” dediler. Hayır; onların çoğu (gerçeği) bilmezler."
+  },
+  {
+   "verseNo": 101,
+   "source": "islamoglu",
+   "text": "Ve Biz bir mesajı diğeriyle değiştirdiğimizde, -ki Allah neyi ne zaman indireceğini pekâla bilir- “Sen sadece ve sadece uydurduklarını söyleyen birisin!” derler; aksine onların çoğu, (ilahi tekamül yasasını) bilmeyen kimselerdir."
+  },
+  {
+   "verseNo": 101,
+   "source": "esed",
+   "text": "Biz bir ayetin yerine bir başka ayeti getirdiğimizde -ki Allah adım adım ne indirdiğini bütünüyle bilmektedir- (hakkı inkar edenler), \"Sen sadece uyduruyorsun!\" derler. Oysa onların çoğu bilmeyen, anlamayan kimselerdir"
+  },
+  {
+   "verseNo": 102,
+   "source": "diyanet",
+   "text": "Ey Muhammed! De ki: \"Kur'an'ı, Ruhu'l-Kudüs (Cebrail) inananların inançlarını sağlamlaştırmak, müslümanlara doğru yolu göstermek ve onlara bir müjde olmak üzere hak olarak indirdi.\""
+  },
+  {
+   "verseNo": 102,
+   "source": "okuyan",
+   "text": "De ki: “Kutsal Ruh (Cebrail) onu (Kur’an’ı) iman edenlere güç vermek için, müslümanlara rehber ve müjde olarak Rabbinin katından bir amaç ile indirmiştir.”"
+  },
+  {
+   "verseNo": 102,
+   "source": "islamoglu",
+   "text": "De ki: “Onu Kutsal Ruh, mutlak hakikate bir atıf olsun ve hem imanda sebat edenleri desteklesin, hem de Allah’a teslim olan kimseler için bir yol haritası ve bir müjde olsun diye, Rabbin katındaki ana kaynaktan indirmektedir!”"
+  },
+  {
+   "verseNo": 102,
+   "source": "esed",
+   "text": "Onun, apaçık bir gerçeklik ve sarsılmayan bir doğruluk keyfiyeti içinde, imana erişenleri(n durumunu) güçlendirmek ve Allah´a yürekten bağlanıp boyun eğenlere bir doğru yol bilgisi, bir müjde olmak üzre Rabbinden safha safha Kutsal İlham yoluyla indirildiğini söyle"
+  },
+  {
+   "verseNo": 103,
+   "source": "diyanet",
+   "text": "Andolsunki biz onların, \"Kur'an'ı ona bir insan öğretiyor\" dediklerini biliyoruz. İma ettikleri kimsenin dili yabancıdır. Bu Kur'an ise gayet açık bir Arapça'dır."
+  },
+  {
+   "verseNo": 103,
+   "source": "okuyan",
+   "text": "Yemin olsun ki biz onların “Onu (Kur’an’ı ona) ancak bir insan öğretiyor!” dediklerini biliyoruz. İtham ettikleri şahsın dili yabancıdır. (Oysa) bu (Kur’an), apaçık bir Arapça’dır."
+  },
+  {
+   "verseNo": 103,
+   "source": "islamoglu",
+   "text": "Doğrusu Biz onların; “Ona bu (vahyi) öğreten bir insandan başkası değil” dediklerini çok iyi biliyoruz. Oysa, gerçeği saptırmak için kendisini îmâ ettikleri kişinin dili yabancı bir dil olduğu hâlde, bu (vahyin) dili hem özünde açık hem de hakikati açıklayan bir Arapça’dır."
+  },
+  {
+   "verseNo": 103,
+   "source": "esed",
+   "text": "Hiç kuşkusuz onların, \"Ona (bütün) bunları mutlaka bir insan öğretiyor!\" dediklerini pekala biliyoruz. Oysa, onların karalamak amacıyla ima ettikleri kimsenin dili bütünüyle yabancı bir dil olduğu halde, bu mesaj (hem kendisi) açık olan, (hem de gerçeğin özünü) apaçık gösteren Arapça bir söylemdir"
+  },
+  {
+   "verseNo": 104,
+   "source": "diyanet",
+   "text": "Allah'ın âyetlerine inanmayanları Allah elbette doğru yola iletmez. Onlar için elem dolu bir azap vardır."
+  },
+  {
+   "verseNo": 104,
+   "source": "okuyan",
+   "text": "Allah’ın ayetlerine inanmayanlar (var ya) Allah onları doğru yola ulaştırmaz;onlar için elem verici bir azap vardır."
+  },
+  {
+   "verseNo": 104,
+   "source": "islamoglu",
+   "text": "Elbet Allah’ın âyetlerine inanmayan kimseleri Allah doğru yola yöneltmeyecektir; dahası (ötede) onların payına elem verici bir azap düşecektir."
+  },
+  {
+   "verseNo": 104,
+   "source": "esed",
+   "text": "Gerçek şu ki, Allah´ın mesajlarına inanmayanları Allah doğru yola yöneltmez; ve onların (öte dünyadaki) payları da zorlu bir azap olacaktır"
+  },
+  {
+   "verseNo": 105,
+   "source": "diyanet",
+   "text": "Yalanı, ancak Allah'ın âyetlerine inanmayanlar uydurur. İşte onlar, yalancıların ta kendileridir."
+  },
+  {
+   "verseNo": 105,
+   "source": "okuyan",
+   "text": "Gerçekte sadece yalan uyduranlar Allah’ın ayetlerine inanmayanlardır. İşte onlar yalancıların ta kendileridir."
+  },
+  {
+   "verseNo": 105,
+   "source": "islamoglu",
+   "text": "Zaten yalan uydurup (birilerine) atma işini, ancak Allah’ın mesajlarına inanmayanlar yapar: yalanı meslek edinenler onlardır."
+  },
+  {
+   "verseNo": 105,
+   "source": "esed",
+   "text": "Yalnızca, Allah´ın ayetlerine inanmayacak olanlar bu yalanı uydurmaktadırlar; işte asıl böyleleridir yalan söyleyen"
+  },
+  {
+   "verseNo": 106,
+   "source": "diyanet",
+   "text": "Kalbi imanla dolu olduğu halde zorlanan kimse hariç, inandıktan sonra Allah'ı inkâr eden ve böylece göğsünü küfre açanlara Allah'tan gazap iner ve onlar için büyük bir azap vardır."
+  },
+  {
+   "verseNo": 106,
+   "source": "okuyan",
+   "text": "Kalbi iman ile dolu olduğu hâlde (inkâra) zorlanan kişi(ler) hariç, kim iman ettikten sonra Allah’ı inkâr ederse ve kalbini inkara açarsa, işte Allah’ın öfkesi bunlaradır; onlar için büyük bir azap vardır."
+  },
+  {
+   "verseNo": 106,
+   "source": "islamoglu",
+   "text": "İman ettikten sonra Allah’ı inkâr eden kimseye gelince: -(ki) bu kalbi imanla tatmin bulmuş olduğu hâlde baskı altında görünüşte inkâr eden kimse değil, ve fakat kalbini küfre bile isteye açan kimsedir- işte böyleleri Allah’ın rahmetinden dışlanacaklar, dahası (âhirette) onların hakkı korkunç bir azaptır."
+  },
+  {
+   "verseNo": 106,
+   "source": "esed",
+   "text": "İmana eriştikten sonra Allah´ı inkar eden kimseye gelince -ki, bundan kasıt, kalbi imanla dolu olduğu halde baskı altında inkar etmiş görünen kimse değil, fakat kalbini bile isteye hakkın inkarına açan kimsedir- işte böylelerinin üzerine Allah katından bir hışım çökecek ve onların payına çok büyük bir azap düşecektir"
+  },
+  {
+   "verseNo": 107,
+   "source": "diyanet",
+   "text": "Bu, onların dünya hayatını sevip ahirete tercih etmelerinden ve Allah'ın kâfirler topluluğunu asla doğru yola iletmeyeceğindendir."
+  },
+  {
+   "verseNo": 107,
+   "source": "okuyan",
+   "text": "Bu (azap), onların dünya hayatını ahirete tercih etmeleri ve Allah’ın, kâfirler topluluğunu doğru yola ulaştırmaması nedeniyledir."
+  },
+  {
+   "verseNo": 107,
+   "source": "islamoglu",
+   "text": "İşte bu, hem onların dünya hayatını âhiret hayatına tercih etmelerinin, hem de Allah’ın inkârcı kimseleri doğru yola yöneltmemesinin neticesidir."
+  },
+  {
+   "verseNo": 107,
+   "source": "esed",
+   "text": "bütün bunlar, onların dünya hayatını ahirete yeğlemelerinden ve Allah´ın da hakkı inkar eden kimseleri doğru yola yöneltmemesinden ötürüdür"
+  },
+  {
+   "verseNo": 108,
+   "source": "diyanet",
+   "text": "İşte onlar, Allah'ın; kalplerini, kulaklarını ve gözlerini mühürlediği kimselerdir. İşte onlar gafillerin ta kendileridir."
+  },
+  {
+   "verseNo": 108,
+   "source": "okuyan",
+   "text": "İşte onlar kalplerini, işitmesini (kulaklarını) ve gözlerini Allah’ın mühürlediği kişilerdir.Onlar habersizmiş gibi davrananların ta kendileridir."
+  },
+  {
+   "verseNo": 108,
+   "source": "islamoglu",
+   "text": "İşte onlar kalplerinin (akletme), işitme ve görme yetilerini Allah’ın mühürlediği kimselerdir. İşte onlar, gaflete gömülüp gidenlerin ta kendileridir."
+  },
+  {
+   "verseNo": 108,
+   "source": "esed",
+   "text": "İşte, Allah´ın kalplerini, işitme ve görme duyularını mühürlediği kimseler bunlardır; işte, umursamazlık içinde dalıp giden kimseler bunlardır"
+  },
+  {
+   "verseNo": 109,
+   "source": "diyanet",
+   "text": "Hiç şüphesiz onlar, ahirette ziyana uğrayanların da ta kendileridir."
+  },
+  {
+   "verseNo": 109,
+   "source": "okuyan",
+   "text": "Şüphesiz ki onlar ahirette kaybedenlerin de ta kendileridir."
+  },
+  {
+   "verseNo": 109,
+   "source": "islamoglu",
+   "text": "Kimsenin en ufak kuşkusu olmasın ki, âhirette de hepten kaybedecek olanlar işte bunlardır."
+  },
+  {
+   "verseNo": 109,
+   "source": "esed",
+   "text": "Hiç şüphe yok, ahirette kaybedecek olanlar da bunlardır"
+  },
+  {
+   "verseNo": 110,
+   "source": "diyanet",
+   "text": "Sonra şüphesiz ki Rabbin, eziyete uğratıldıktan sonra hicret eden, sonra Allah yolunda cihad edip sabreden kimselerin yanındadır. Şüphesiz Rabbin bundan sonra da çok bağışlayandır, çok merhamet edendir."
+  },
+  {
+   "verseNo": 110,
+   "source": "okuyan",
+   "text": "Sonra şüphesiz ki Rabbin, eziyete uğratıldıktan sonra hicret edip ardından da sabrederek cihad edenlerin (fedakârlık yapanların yardımcısıdır). Bun(lar)dan sonra Rabbin elbette çok bağışlayandır, çok merhametlidir."
+  },
+  {
+   "verseNo": 110,
+   "source": "islamoglu",
+   "text": "Sonra yine unutma ki Rabbin, ağır işkence altında (kendilerine dayatılanı kabul ederek) fitneye düşürülmelerinin ardından hicret edenleri, (Allah yolunda) tüm çabasını harcayan ve direnenleri gözetecektir; evet, çünkü senin Rabbin, o (ağır acının) ardından elbette tarifsiz bağışıyla, eşsiz rahmetiyle muamele edecektir."
+  },
+  {
+   "verseNo": 110,
+   "source": "esed",
+   "text": "Ve yine bil ki, Rabbin, kötülüğün ayartısını gördükten sonra onun hüküm sürdüğü bölgeyi terk edenlerin ve o günden bu yana (Allah yolunda) üstün çabalar gösterip güçlüklere göğüs gerenlerin yanındadır; işte böyle bir dönüşümden sonra çok acıyıp esirgeyen gerçek bağışlayıcı elbette senin Rabbindir"
+  },
+  {
+   "verseNo": 111,
+   "source": "diyanet",
+   "text": "Herkesin nefsi için mücadele ederek geleceği, kendilerine zulmedilmeksizin herkese yaptığının karşılığının eksiksiz ödeneceği günü düşün."
+  },
+  {
+   "verseNo": 111,
+   "source": "okuyan",
+   "text": "O gün herkes kendi canını savunmak (azaptan kurtarmak) için uğraşmak üzere (huzura) gelecektir. Herkese yaptığının tam karşılığı ödenecektir; onlara haksızlık edilmeyecektir."
+  },
+  {
+   "verseNo": 111,
+   "source": "islamoglu",
+   "text": "Gün gelecek, her can kendi derdine düşecek; ve herkes yapıp ettiklerinin karşılığını tastamam bulacak: zira (orada) hiç kimse zulme uğramayacaktır."
+  },
+  {
+   "verseNo": 111,
+   "source": "esed",
+   "text": "(Öyleyse, haberiniz olsun,) o Gün herkes kendi başının çaresini aramaya çabalayacak ve herkese yapıp ettiğinin karşılığı tam olarak ödenecek; kimseye haksızlık yapılmayacaktır"
+  },
+  {
+   "verseNo": 112,
+   "source": "diyanet",
+   "text": "Allah şöyle bir memleketi misal verdi: Orası güven ve huzur içinde idi. Oraya her taraftan bolca rızık gelirdi. Fakat Allah'ın nimetlerine nankörlük ettiler; bu yüzden yaptıklarına karşılık Allah onlara şiddetli açlık ve korku ızdırabını tattırdı."
+  },
+  {
+   "verseNo": 112,
+   "source": "okuyan",
+   "text": "Allah güvenli, huzurlu olan, rızkı her yerden bol bol gelen bir şehir (halkını) örnek vermektedir. (Sonra) onlar, Allah’ın nimetlerine karşı nankörlük etmişler, Allah da onlara, yaptıkları yüzünden açlık ve korku sıkıntısını tattırmıştı."
+  },
+  {
+   "verseNo": 112,
+   "source": "islamoglu",
+   "text": "ALLAH (size) bir örnek daha verir: Güvenli ve (sakinlerini) her açıdan tatmin eden bir belde (düşünün ki), oranın ihtiyaç duyduğu rızık her yerden oraya akıyor. Buna karşın o (belde) Allah’ın nimetlerine nankörlük etti. Derken, yaptıkları sebebiyle Allah o beldeye açlık ve korku elbisesi giymenin (acısını) tattırdı."
+  },
+  {
+   "verseNo": 112,
+   "source": "esed",
+   "text": "İşte, Allah (size) bir örnek veriyor: güvenlik ve refah içinde bir şehir (düşünün ki) oraya (ahalisinin) rızkı her yandan bolca akıp duruyordu; ama ahalisi tutup Allah´ın nimetine karşı yakışmaz bir biçimde nankörlük etti ve bunun üzerine Allah da onlara, inatla yapageldikleri (kötülüklerden) ötürü kuşatıcı bir açlık ve korku felaketi tattırdı"
+  },
+  {
+   "verseNo": 113,
+   "source": "diyanet",
+   "text": "Andolsun, onlara içlerinden bir peygamber geldi de onu yalanladılar. Böylece zulmederlerken azap onları yakalayıverdi."
+  },
+  {
+   "verseNo": 113,
+   "source": "okuyan",
+   "text": "Yemin olsun ki kendi içlerinden onlara elçi gelmişti de onu yalanlamışlardı. Onlar haksızlık ederlerken azap onları yakalamıştı."
+  },
+  {
+   "verseNo": 113,
+   "source": "islamoglu",
+   "text": "Ve doğrusu onlara kendilerinden bir elçi gelmişti; fakat onu yalanladılar. Ne var ki onlar zulümlerini sürdürürken azap onları yakalayıverdi."
+  },
+  {
+   "verseNo": 113,
+   "source": "esed",
+   "text": "Kaldı ki, onlara aralarından bir elçi de gelmişti; ama onlar o´nu yalanladılar. Ve onlar böylece zulüm ve haksızlıklarına devam edip giderken azap kendilerini kıskıvrak yakaladı"
+  },
+  {
+   "verseNo": 114,
+   "source": "diyanet",
+   "text": "Artık Allah'ın size helâl ve temiz olarak verdiği rızıklardan yiyin. Eğer yalnız ona ibadet ediyorsanız, Allah'ın nimetine şükredin."
+  },
+  {
+   "verseNo": 114,
+   "source": "okuyan",
+   "text": "Allah’ın size verdiği rızıktan temiz, helal olarak yiyin! (Gerçekten) yalnız O’na ibadet ediyorsanız Allah’ın nimet(ler)ine şükredin!"
+  },
+  {
+   "verseNo": 114,
+   "source": "islamoglu",
+   "text": "Haydi, siz hem Allah’ın size verdiği rızıkların helâl ve temiz olanlarından yiyin, hem de onun nimetlerine şükredin! Tabii ki, gerçekten yalnızca O’na kulluk etmek (istiyorsanız)…"
+  },
+  {
+   "verseNo": 114,
+   "source": "esed",
+   "text": "Bunun içindir ki, Allah´ın size rızık olarak bahşettiği temiz ve meşru şeylerden payınızı alın ve eğer yalnızca O´na kulluk ediyorsanız, o zaman nimetinden ötürü Allah´a şükrünüzü gösterin"
+  },
+  {
+   "verseNo": 115,
+   "source": "diyanet",
+   "text": "Allah size ancak leş, kan, domuz eti ve Allah'tan başkası adına kesileni haram kıldı. Ama kim mecbur olur da istismar etmeksizin ve zaruret ölçüsünü aşmaksızın yemek zorunda kalırsa şüphesiz ki Allah çok bağışlayandır, çok merhamet edendir."
+  },
+  {
+   "verseNo": 115,
+   "source": "okuyan",
+   "text": "(Allah) size, özellikle leşi, kanı, domuz etini ve Allah’tan başkası adına kesilen (hayvanlar)ı haram kılmıştır. (Ancak) azgınlık yapmayacak ve sınırı aşmayacak şekilde kim (bunlardan yemek) zorunda kalırsa, (bilsin ki) Allah çok bağışlayandır, çok merhametlidir."
+  },
+  {
+   "verseNo": 115,
+   "source": "islamoglu",
+   "text": "(Ki) O size yalnızca leşi, kanı, domuz etini ve Allah’tan başkası adına kesilen (hayvanı) haram kılmıştır! Fakat mecbur kalan kişi, haddi aşıp zorunlu miktarı geçmeden (yemişse), bilsin ki Allah tarifsiz bir bağışlayıcı, eşsiz bir merhamet kaynağıdır."
+  },
+  {
+   "verseNo": 115,
+   "source": "esed",
+   "text": "Allah size sadece leşi, kanı, domuz etini ve Allah´tan başkasının adı anıla(rak boğazlanan hayva)nı yasaklamıştır; fakat zorunluluk durumuna düşen kimse, aşırı gidip ihtiyacının ötesine geçmemek şartıyla bu yasaklamanın dışındadır; çünkü Allah, şüphesiz çok acıyan, esirgeyen gerçek bağışlayıcıdır"
+  },
+  {
+   "verseNo": 116,
+   "source": "diyanet",
+   "text": "Dilleriniz yalana alışageldiğinden dolayı, Allah'a karşı yalan uydurmak için, \"Şu helâldir\", \"Şu haramdır\" demeyin. Şüphesiz, Allah'a karşı yalan uyduranlar, kurtuluşa eremezler."
+  },
+  {
+   "verseNo": 116,
+   "source": "okuyan",
+   "text": "Dillerinizin uydurduğu yalana dayanarak “Şu helaldir, şu da haramdır!” demeyin; sonunda Allah’a yalan uydurmuş olursunuz. Allah’a yalan uyduranlar kurtulamazlar."
+  },
+  {
+   "verseNo": 116,
+   "source": "islamoglu",
+   "text": "Artık, dillerinizle yalan beyanda bulunup, üstelik uydurduğunuz yalanı (da) Allah’a isnat ederek “Bu helâldir, bu da haramdır!” demeyin! Çünkü uydurdukları yalanı Allah’a isnat edenler asla kurtuluşa eremezler."
+  },
+  {
+   "verseNo": 116,
+   "source": "esed",
+   "text": "Buna göre, artık, kendi yalanınızı (adeta) Allah´a isnad ederek öyle dilinize geldiği gibi yalan yanlış \"bu helaldir, şu haramdır\" demeyin; çünkü, haberiniz olsun, Allah´a yalan isnad edenler asla kurtuluşa erişemezler"
+  },
+  {
+   "verseNo": 117,
+   "source": "diyanet",
+   "text": "(Dünyada elde ettikleri) az bir yararlanmadır. Halbuki (ahirette) onlara acıklı bir azap vardır."
+  },
+  {
+   "verseNo": 117,
+   "source": "okuyan",
+   "text": "(Kazandıkları) az bir menfaattir. Onlar için elem verici bir azap vardır."
+  },
+  {
+   "verseNo": 117,
+   "source": "islamoglu",
+   "text": "(Bu dünyada) oyalayıcı kısa bir haz (duysalar da), (âhirette) onların hakkı elem verici bir cezadır."
+  },
+  {
+   "verseNo": 117,
+   "source": "esed",
+   "text": "(Onlarınki bu dünyada) kısa bir avuntudan ibarettir; (öte dünyada ise) kendilerini can yakıcı bir azap beklemektedir"
+  },
+  {
+   "verseNo": 118,
+   "source": "diyanet",
+   "text": "Daha önce sana anlattıklarımızı yahudi olanlara da haram kılmıştık. Biz (bununla) onlara zulmetmedik, fakat onlar kendilerine zulmediyorlardı."
+  },
+  {
+   "verseNo": 118,
+   "source": "okuyan",
+   "text": "Sana daha önce anlattıklarımızı yahudi olanlara da haram kılmıştık. Biz onlara haksızlık etmedik fakat onlar kendilerine yazık ediyorlardı."
+  },
+  {
+   "verseNo": 118,
+   "source": "islamoglu",
+   "text": "Ve yalnızca Yahudileşen kimselere sana daha önce aktardığımız şeyleri yasaklamıştık; ama onlara zulmeden biz değildik, ne var ki onlar asıl kendi kendilerine zulmettiler."
+  },
+  {
+   "verseNo": 118,
+   "source": "esed",
+   "text": "Ve (yalnız) Yahudi inancına bağlı olanlara sana daha önce sözünü ettiğimiz şeyleri yasakladık; çünkü onlara Biz haksızlık yapmadık; tam tersine, onlar kendi kendilerine haksızlık yaptılar"
+  },
+  {
+   "verseNo": 119,
+   "source": "diyanet",
+   "text": "Sonra, şüphesiz ki Rabbin; cahillik sebebiyle kötülük yapan, sonra bunun ardından tövbe eden ve durumunu düzeltenlerden yanadır. Şüphesiz Rabbin bundan sonra da elbette çok bağışlayandır, çok merhamet edendir."
+  },
+  {
+   "verseNo": 119,
+   "source": "okuyan",
+   "text": "Sonra şüphesiz ki Rabbin, cahillik sebebiyle kötülük yapan, sonra da bunun ardından tevbe edip kendilerini düzeltenleri (bağışlayacaktır). Şüphesiz ki ondan (tevbe ettikten) sonra Rabbin elbette çok bağışlayandır, çok merhametlidir."
+  },
+  {
+   "verseNo": 119,
+   "source": "islamoglu",
+   "text": "Sonuç olarak şunu aklından çıkarma ki, Rabbin, bir cahillik ederek kötülük işleyen ama bunun ardından tevbe edip Allah’a yönelerek kendisini düzeltenden yana tavır koyar. Çünkü senin Rabbin, öylesi bir (tevbenin) ardından tarifsiz bir bağışlayıcı, eşsiz bir rahmet kaynağı olduğunu mutlaka (gösterecektir)."
+  },
+  {
+   "verseNo": 119,
+   "source": "esed",
+   "text": "Bir kez daha (belirtelim), muhakkak ki senin Rabbin, bilmezlik yüzünden kötülük işleyen sonra da tevbe eden ve artık düzgün yaşayan kimselerden yanadır; işte böyle (bir tevbeden) sonra çok acıyıp esirgeyen gerçek bağışlayıcı elbette senin Rabbindir"
+  },
+  {
+   "verseNo": 120,
+   "source": "diyanet",
+   "text": "Şüphesiz İbrahim, Allah'a itaat eden, hakka yönelen bir önder idi. Allah'a ortak koşanlardan değildi."
+  },
+  {
+   "verseNo": 120,
+   "source": "okuyan",
+   "text": "Şüphesiz ki İbrahim hanîf (Allah’ı birleyen), Allah’a itaat eden, (tek başına) bir ümmetti; ortak koşanlardan değildi."
+  },
+  {
+   "verseNo": 120,
+   "source": "islamoglu",
+   "text": "HİÇ şüphe yok ki İbrahim tüm güzellikleri kendinde toplamış başlı başına örnek bir önder, her türlü kötülükten yüz çevirip bütün varlığıyla Allah’a adanmış biriydi; ve o, asla başkalarına ilâhlık yakıştıran bir müşrik olmadı."
+  },
+  {
+   "verseNo": 120,
+   "source": "esed",
+   "text": "Gerçek şu ki, İbrahim insana yakışan bütün erdemleri kendinde toplamasını bilen, yalan ve sahtelik taşıyan her şeyden yüz çevirerek Allah´ın iradesine yürekten bağlanıp boyun eğen biriydi; Allah´tan başkalarına tanrılık yakıştıran kimselerden değildi"
+  },
+  {
+   "verseNo": 121,
+   "source": "diyanet",
+   "text": "Onun nimetlerine şükreden bir önderdi. Allah onu seçmiş ve doğru yola iletmişti."
+  },
+  {
+   "verseNo": 121,
+   "source": "okuyan",
+   "text": "Allah’ın nimetlerine şükrediciydi. (Allah) onu seçmiş ve doğru yola ulaştırmıştı."
+  },
+  {
+   "verseNo": 121,
+   "source": "islamoglu",
+   "text": "Daima O’nun nimetlerine minnettar idi. Çünkü onu O derleyip toparlamış; ve onu dosdoğru bir yola yöneltmişti."
+  },
+  {
+   "verseNo": 121,
+   "source": "esed",
+   "text": "(Çünkü) o, kendisini seçip doğru yola yönelmesini sağlayan (Allah´a), nimetlerinden ötürü her zaman şükranla doluydu"
+  },
+  {
+   "verseNo": 122,
+   "source": "diyanet",
+   "text": "Ona dünyada iyilik verdik. Şüphesiz o, ahirette de salihlerdendir."
+  },
+  {
+   "verseNo": 122,
+   "source": "okuyan",
+   "text": "Ona dünyada güzellik vermiştik. Şüphesiz ki o, ahirette de elbette iyilerden (olacak)tır."
+  },
+  {
+   "verseNo": 122,
+   "source": "islamoglu",
+   "text": "Biz de bu dünyada ona iyi bir (makam) bahşettik; şu kesin ki o, âhirette de dürüst ve erdemliler arasında yer alacaktır."
+  },
+  {
+   "verseNo": 122,
+   "source": "esed",
+   "text": "Biz de bunun için o´na bu dünyada iyilik bahşettik; şüphesiz ahirette de o kendini dürüst ve erdemli kimselerin arasında bulacaktır"
+  },
+  {
+   "verseNo": 123,
+   "source": "diyanet",
+   "text": "Sonra da sana, \"Hakka yönelen İbrahim'in dinine uy. O, Allah'a ortak koşanlardan değildi\" diye vahyettik."
+  },
+  {
+   "verseNo": 123,
+   "source": "okuyan",
+   "text": "Sonra da sana “hanîf (Allah’ı birleyen) olarak İbrahim’in milletine (dinine) uy! O müşriklerden değildi!” diye vahyetmiştik."
+  },
+  {
+   "verseNo": 123,
+   "source": "islamoglu",
+   "text": "Sonuçta (ey Nebî), sana da şöyle vahyettik: “Her türlü şirkten yüz çeviren İbrahim Milleti’ne uy; zira o Allah’tan başkalarına ilâhlık yakıştıranlardan değildi!”"
+  },
+  {
+   "verseNo": 123,
+   "source": "esed",
+   "text": "Ve sonuç olarak sana, \"Yalan ve sahtelik taşıyan her şeyden sakınan ve hiçbir şekilde Allah´tan başkalarına tanrılık yakıştırmayan İbrahim´in dinine uy!\" diye vahyettik"
+  },
+  {
+   "verseNo": 124,
+   "source": "diyanet",
+   "text": "Cumartesi gününe saygı, ancak onda görüş ayrılığına düşenlere farz kılındı. Şüphesiz Rabbin, ayrılığa düşmekte oldukları şeyler konusunda kıyamet günü aralarında hüküm verecektir."
+  },
+  {
+   "verseNo": 124,
+   "source": "okuyan",
+   "text": "Cumartesi (yasağı) ancak onda anlaşmazlığa düşenlere (gerekli) kılınmıştı. Şüphesiz ki Rabbin, çelişkiye düştükleri şey hakkında kıyamet günü aralarında elbette hükmedecektir."
+  },
+  {
+   "verseNo": 124,
+   "source": "islamoglu",
+   "text": "Cumartesi yasağı sadece, bu konuda (İbrahim’in inanç sisteminden) farklılaşıp kopmuş olan kimselerin aleyhine oluşturulmuş bir durumdu. Ama şu kesin ki, Rabbin Kıyamet Günü üzerinde sürekli çekişip durdukları bu konuda onlar arasında hüküm verecektir."
+  },
+  {
+   "verseNo": 124,
+   "source": "esed",
+   "text": "Sebt gününün gözetilmesi sadece, onun hakkında uyuşmaz görüşler ileri sürüp çekişenlere emredilmişti; şüphe yok ki, bu çekişip durdukları konuda, Kıyamet Günü onların aralarında elbette senin Rabbin hükmedecektir"
+  },
+  {
+   "verseNo": 125,
+   "source": "diyanet",
+   "text": "(Ey Muhammed!) Rabbinin yoluna, hikmetle, güzel öğütle çağır ve onlarla en güzel şekilde mücadele et. Şüphesiz senin Rabbin kendi yolundan sapanları en iyi bilendir. O, doğru yolda olanları da en iyi bilendir."
+  },
+  {
+   "verseNo": 125,
+   "source": "okuyan",
+   "text": "Sen Rabbinin yoluna hikmetle (doğru hükümlerle), güzel öğütle davet et ve onlarla en güzel şekilde mücadele et! Şüphesiz ki Rabbin -evet yalnızca O- kendi yolundan kimin saptığını iyi bilendir ve O kimlerin doğru yola ulaştırıldığını da iyi bilendir."
+  },
+  {
+   "verseNo": 125,
+   "source": "islamoglu",
+   "text": "RABBİNİN yoluna hikmetle ve güzel öğütle davet et; ve onlara (karşı) öyle bir mücadele yöntemi ortaya koy ki, o en güzeli, en etkilisi olsun! Çünkü senin Rabbin var ya: işte O kendi yolundan sapan kimseyi de, doğru yola yöneleni de en iyi bilendir."
+  },
+  {
+   "verseNo": 125,
+   "source": "esed",
+   "text": "(Bütün insanlığı) hikmetle ve güzel öğütle Rabbinin yoluna çağır; ve onlarla en güzel, en inandırıcı yöntemlerle tartış; şüphesiz, O´nun yolundan kimin saptığını en iyi bilen senin Rabbindir; ve yine doğru yola erişenleri de en iyi bilen O´dur"
+  },
+  {
+   "verseNo": 126,
+   "source": "diyanet",
+   "text": "Eğer ceza verecekseniz size yapılanın misliyle cezalandırın. Eğer sabrederseniz, elbette bu, sabredenler için daha hayırlıdır."
+  },
+  {
+   "verseNo": 126,
+   "source": "okuyan",
+   "text": "Ceza verecekseniz, (en fazla) size yapılanın misliyle (benzeriyle) ceza verin! Sabrederseniz, elbette bu (durum) sabredenler için daha hayırlıdır."
+  },
+  {
+   "verseNo": 126,
+   "source": "islamoglu",
+   "text": "İmdi siz, cezalandırdığınızda mutlaka sizin maruz kaldığınız miktarı aşmadan cezalandırınız; yok eğer sabrederseniz, bu, sabredenler için daha hayırlıdır."
+  },
+  {
+   "verseNo": 126,
+   "source": "esed",
+   "text": "Bunun içindir ki, (tartışmada) zora başvurmanız gerekirse, ancak onların sizi zora koştukları kadar zora başvurun. Fakat eğer kendinizi tutarsanız, bilin ki, güçlüklere göğüs germesini bilen kimseler için bu daha iyi, daha hayırlıdır"
+  },
+  {
+   "verseNo": 127,
+   "source": "diyanet",
+   "text": "Sabret! Senin sabrın ancak Allah'ın yardımı iledir. Onlardan yana üzülme. Tuzak kurmalarından dolayı da sıkıntıya düşme."
+  },
+  {
+   "verseNo": 127,
+   "source": "okuyan",
+   "text": "Sabret! Senin sabrın da ancak Allah’ın yardımı iledir. Onlardan dolayı üzülme! Kurmakta oldukları tuzaklar yüzünden sıkıntı içinde olma!"
+  },
+  {
+   "verseNo": 127,
+   "source": "islamoglu",
+   "text": "Ve sen de sabret ve (unutma ki) senin sabretmen yalnızca Allah sayesinde mümkündür! Ve onlardan yana üzülme! Hele onların çevirdikleri entrikalardan dolayı için hiç daralmasın!"
+  },
+  {
+   "verseNo": 127,
+   "source": "esed",
+   "text": "Öyleyse, (hakkı inkar edenlerin söylediklerine karşı) sabır göster ve daima hatırla ki, sana güçlüklere göğüs germe gücünü veren yalnızca Allah´tır; ve onlardan yana üzülme; hele onların o asılsız iddiaları seni hiç sıkmasın"
+  },
+  {
+   "verseNo": 128,
+   "source": "diyanet",
+   "text": "Şüphesiz Allah, kendisine karşı gelmekten sakınanlar ve iyilik yapanlarla beraberdir."
+  },
+  {
+   "verseNo": 128,
+   "source": "okuyan",
+   "text": "Şüphesiz ki Allah takvâ (duyarlılık) sahibi olanlarla ve işini güzel yapanlarla beraberdir."
+  },
+  {
+   "verseNo": 128,
+   "source": "islamoglu",
+   "text": "Çünkü Allah sorumluluk bilincine sahip olanlar ve iyilik ve erdemi hayat tarzı hâline getirenlerle beraberdir."
+  },
+  {
+   "verseNo": 128,
+   "source": "esed",
+   "text": "Çünkü, Allah elbette, Kendisine karşı sorumluluk bilinci taşıyanlarla beraberdir, yani iyi olan ve iyilikte devamlı olanlarla"
+  }
+ ]
+}

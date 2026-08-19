@@ -1,0 +1,935 @@
+{
+ "stationNo": 51,
+ "surahNo": 70,
+ "name": "Me'âric",
+ "nameArabic": "",
+ "nameMeaning": "",
+ "verseCount": 44,
+ "nuzulOrderOkuyan": 46,
+ "periodDiyanet": "Mekke",
+ "periodOkuyan": "Mekke",
+ "revelationTiming": "",
+ "stationTitle": "Engellenemez Gerçek: İnsanın Yükseliş ve Düşüşü",
+ "introduction": "Me'âric suresi, insanın varoluşsal zaaflarını ve bu zaafları aşma yollarını çarpıcı bir şekilde ortaya koyan Mekkî bir suredir. Adını, Allah'ın yüceliğini ve O'na ulaşma yollarını ifade eden 'me'âric' (yükseliş mertebeleri) kelimesinden alır.\n\nSure, kıyamet ve ahiret gerçeğini inkâr edenlerin alaycı tutumlarına karşı, ilâhî adaletin ve azabın kaçınılmazlığını vurgular. İnsanın doğasındaki bencil, tahammülsüz ve hırslı yapıyı deşifre ederken, bu karanlık tablodan çıkışın ancak sağlam bir inanç ve ahlâkî duruşla mümkün olabileceğini gösterir.\n\nİnsanın kendi zaaflarıyla yüzleşmesini sağlayan sure, aynı zamanda 'musallîn' (namaz kılanlar) kavramı üzerinden ideal mümin profilini çizer. Bu profil, sadece ibadet eden değil, aynı zamanda sosyal adaleti gözeten, emanete riayet eden ve ahlâkî erdemleri kuşanan bir şahsiyeti temsil eder.",
+ "occasionOfRevelation": "Surenin ilk ayetlerinin nüzul sebebi hakkında tefsir kaynaklarında genellikle iki ana görüş öne çıkar. Birinci görüşe göre, Mekke müşriklerinden Nadr b. Hâris'in, 'Ey Allah, eğer bu senin tarafından gelmiş bir hak kitap ise hemen üzerimize gökten taşlar yağdır veya bize daha acı bir azap ver' (el-Enfâl 8/32) şeklindeki meydan okuması üzerine inmiştir.\n\nİkinci bir rivayete göre ise, Hz. Peygamber müşrikleri Allah'ın azabıyla uyardığında onların alaycı bir tavırla, 'Muhammed'e sorun, bu azap kime isabet edecekmiş?' diye sormaları üzerine bu ayetler nazil olmuştur.\n\nSurenin 38. ayetinin ise, müşriklerin Hz. Peygamber'i dinlerken alay ederek, 'Eğer şunlar cennete girecekse muhakkak ki biz onlardan önce gireriz' demeleri üzerine indiği belirtilmektedir.",
+ "occasionSources": "Vâhidî, Esbâbü'n-nüzûl, s. 250; İbnü'l-Cevzî, Zâdü'l-mesîr, VIII, 357; Fahreddin er-Râzî, Mefâtîhu'l-gayb, XXX, 122.",
+ "keyTerms": [
+  {
+   "term": "me'âric",
+   "arabic": "الْمَعَارِجِ",
+   "verseRef": "70:3",
+   "meaning": "Yükseliş mertebeleri, dereceler. Allah'ın yüceliğini ve O'na ulaşma yollarını ifade eder."
+  },
+  {
+   "term": "helû'â",
+   "arabic": "هَلُوعًا",
+   "verseRef": "70:19",
+   "meaning": "Hırslı, tahammülsüz, bencil. İnsanın doymak bilmeyen ve zorluklar karşısında çabuk pes eden tabiatını tanımlar."
+  },
+  {
+   "term": "cezü'â",
+   "arabic": "جَزُوعًا",
+   "verseRef": "70:20",
+   "meaning": "Sızlanan, feryat eden. İnsanın başına bir kötülük geldiğinde gösterdiği tahammülsüzlük halidir."
+  },
+  {
+   "term": "menû'â",
+   "arabic": "مَنُوعًا",
+   "verseRef": "70:21",
+   "meaning": "Engelleyen, cimri. İnsanın bir nimete kavuştuğunda onu başkalarıyla paylaşmaktan kaçınma eğilimidir."
+  },
+  {
+   "term": "musallîn",
+   "arabic": "الْمُصَلِّينَ",
+   "verseRef": "70:22",
+   "meaning": "Namaz kılanlar, yönelenler. İnsanın bencil doğasını aşarak Allah'a yönelen ve ahlâkî erdemleri kuşanan ideal müminleri ifade eder."
+  },
+  {
+   "term": "mehl",
+   "arabic": "الْمُهْلِ",
+   "verseRef": "70:8",
+   "meaning": "Erimiş maden, tortu. Kıyamet gününde göğün alacağı dehşet verici hali tasvir eder."
+  }
+ ],
+ "themes": [
+  {
+   "label": "İnsanın Bencil Doğası",
+   "body": "İnsan, doğası gereği hırslı, zorluklar karşısında tahammülsüz ve nimetler karşısında cimridir. Bu bencil yapı, ancak sağlam bir inanç ve ahlâkî disiplinle aşılabilir."
+  },
+  {
+   "label": "Sosyal Adalet ve Paylaşım",
+   "body": "İdeal mümin, malında yoksullar ve ihtiyaç sahipleri için belirli bir hak olduğunu kabul eden ve bunu paylaşan kişidir. Zenginlik, bir imtihan aracıdır."
+  },
+  {
+   "label": "Kıyametin Dehşeti ve Yalnızlık",
+   "body": "Kıyamet günü, göklerin erimiş madene, dağların atılmış yüne döneceği bir dehşet anıdır. O gün hiçbir dost, dostunun halini soramayacak, herkes kendi derdine düşecektir."
+  },
+  {
+   "label": "Ahlâkî Erdemlerin Kurtarıcılığı",
+   "body": "Emanete riayet etmek, sözünde durmak, şahitliği dürüstçe yapmak ve iffeti korumak, insanı cennete taşıyacak temel ahlâkî erdemlerdir."
+  }
+ ],
+ "questions": [
+  "Zorluklar karşısında hemen sızlanıp, nimetlere kavuştuğunda bencilce davranan 'helû' karakterinden ne kadar uzağım?",
+  "Sahip olduğum imkânlarda, ihtiyaç sahiplerinin hakkı olduğunu gerçekten hissediyor ve bunu eyleme döküyor muyum?",
+  "Kıyamet gününde en yakın dostların bile birbirini tanımayacağı o dehşetli an için bugünden ne hazırlıyorum?"
+ ],
+ "contemporaryMeaning": "Bu sure, insanın varoluşsal kaygısı ile sahip olma dürtüsü arasındaki yıkıcı ilişkiyi deşifre eder. Metin, insanın en zayıf noktasını kaybetme korkusuyla paniğe kapılan, elde ettiğinde ise onu paylaşmaktan şiddetle kaçınan bencil ve tahammülsüz bir ruh hali olarak tanımlar. Surenin temel meselesi, bu doyumsuzluğun ve güvence arayışının insanı nasıl yalnızlaştırdığı ve kendi içine hapsettiğidir.\n\nBugünün diliyle: Sürekli güncellenen borsa verileri, bitmek bilmeyen kredi borçları ve kariyer basamaklarındaki amansız rekabet karşısında yaşanan kronik anksiyete, metnin işaret ettiği o panik halinin tam karşılığıdır. Kişi, elde ettiği statüyü veya biriktirdiği serveti kaybetme korkusuyla sürekli bir savunma hattı kurar. Kazandıkça etrafına duvarlar ören, sahip olduklarını başkalarıyla paylaşmayı bir eksilme olarak gören bu zihin yapısı, aslında kendi inşa ettiği bir hapishanede yaşamaktadır.\n\nSure, bu sarmaldan çıkışın yolunu mülkiyetle kurulan hastalıklı bağı kesmekte bulur. Kazancın içinde, o kazanca hiçbir katkısı olmayan yoksulun hakkını tanımak, sadece bir yardım eylemi değil, insanın eşyaya köle olmasını engelleyen bir özgürleşme pratiğidir. Aksi takdirde, kimsenin kimseyi tanımayacağı o büyük çözülme anında, insanın sığındığı tüm o sahte güvenlik alanları birer birer çökecektir.",
+ "scholarlyNotes": [
+  {
+   "kind": "ihtilaf",
+   "body": "İlk ayetlerin nüzul sebebi konusunda farklı görüşler vardır. Çoğunluk, Nadr b. Hâris'in meydan okuması üzerine indiğini kabul ederken, bazıları Hz. Peygamber'in uyarısına müşriklerin alaycı sorusu üzerine indiğini belirtir.",
+   "label": "Surenin Nüzul Sebebi"
+  },
+  {
+   "kind": "nuans",
+   "body": "24-25. ayetlerde geçen 'hak' kelimesiyle zekâtın kastedildiğini ileri sürenler olsa da, Mücâhid gibi bazı âlimler, surenin indiği dönemde henüz zekâtın farz kılınmadığını dikkate alarak zekât dışındaki malî yardımların kastedildiğini söylemişlerdir.",
+   "label": "Zekât ve Hak Kavramı"
+  },
+  {
+   "kind": "rivayet",
+   "body": "'Allah Seele sâilün sûresini okuyan kimseye emanetlerini ve ahidlerini gözeten kimselerin sevabını verir' şeklindeki rivayet zayıftır/asılsızdır (Muhammed et-Trablusî, II, 724).",
+   "label": "Surenin Fazileti"
+  }
+ ],
+ "verses": [
+  {
+   "verseNo": 1,
+   "textArabic": "بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ سَأَلَ سَآئِلٌۢ بِعَذَابٍۢ وَاقِعٍۢ"
+  },
+  {
+   "verseNo": 2,
+   "textArabic": "لِّلْكَٰفِرِينَ لَيْسَ لَهُۥ دَافِعٌۭ"
+  },
+  {
+   "verseNo": 3,
+   "textArabic": "مِّنَ ٱللَّهِ ذِى ٱلْمَعَارِجِ"
+  },
+  {
+   "verseNo": 4,
+   "textArabic": "تَعْرُجُ ٱلْمَلَٰٓئِكَةُ وَٱلرُّوحُ إِلَيْهِ فِى يَوْمٍۢ كَانَ مِقْدَارُهُۥ خَمْسِينَ أَلْفَ سَنَةٍۢ"
+  },
+  {
+   "verseNo": 5,
+   "textArabic": "فَٱصْبِرْ صَبْرًۭا جَمِيلًا"
+  },
+  {
+   "verseNo": 6,
+   "textArabic": "إِنَّهُمْ يَرَوْنَهُۥ بَعِيدًۭا"
+  },
+  {
+   "verseNo": 7,
+   "textArabic": "وَنَرَىٰهُ قَرِيبًۭا"
+  },
+  {
+   "verseNo": 8,
+   "textArabic": "يَوْمَ تَكُونُ ٱلسَّمَآءُ كَٱلْمُهْلِ"
+  },
+  {
+   "verseNo": 9,
+   "textArabic": "وَتَكُونُ ٱلْجِبَالُ كَٱلْعِهْنِ"
+  },
+  {
+   "verseNo": 10,
+   "textArabic": "وَلَا يَسْـَٔلُ حَمِيمٌ حَمِيمًۭا"
+  },
+  {
+   "verseNo": 11,
+   "textArabic": "يُبَصَّرُونَهُمْ ۚ يَوَدُّ ٱلْمُجْرِمُ لَوْ يَفْتَدِى مِنْ عَذَابِ يَوْمِئِذٍۭ بِبَنِيهِ"
+  },
+  {
+   "verseNo": 12,
+   "textArabic": "وَصَٰحِبَتِهِۦ وَأَخِيهِ"
+  },
+  {
+   "verseNo": 13,
+   "textArabic": "وَفَصِيلَتِهِ ٱلَّتِى تُـْٔوِيهِ"
+  },
+  {
+   "verseNo": 14,
+   "textArabic": "وَمَن فِى ٱلْأَرْضِ جَمِيعًۭا ثُمَّ يُنجِيهِ"
+  },
+  {
+   "verseNo": 15,
+   "textArabic": "كَلَّآ ۖ إِنَّهَا لَظَىٰ"
+  },
+  {
+   "verseNo": 16,
+   "textArabic": "نَزَّاعَةًۭ لِّلشَّوَىٰ"
+  },
+  {
+   "verseNo": 17,
+   "textArabic": "تَدْعُوا۟ مَنْ أَدْبَرَ وَتَوَلَّىٰ"
+  },
+  {
+   "verseNo": 18,
+   "textArabic": "وَجَمَعَ فَأَوْعَىٰٓ"
+  },
+  {
+   "verseNo": 19,
+   "textArabic": "۞ إِنَّ ٱلْإِنسَٰنَ خُلِقَ هَلُوعًا"
+  },
+  {
+   "verseNo": 20,
+   "textArabic": "إِذَا مَسَّهُ ٱلشَّرُّ جَزُوعًۭا"
+  },
+  {
+   "verseNo": 21,
+   "textArabic": "وَإِذَا مَسَّهُ ٱلْخَيْرُ مَنُوعًا"
+  },
+  {
+   "verseNo": 22,
+   "textArabic": "إِلَّا ٱلْمُصَلِّينَ"
+  },
+  {
+   "verseNo": 23,
+   "textArabic": "ٱلَّذِينَ هُمْ عَلَىٰ صَلَاتِهِمْ دَآئِمُونَ"
+  },
+  {
+   "verseNo": 24,
+   "textArabic": "وَٱلَّذِينَ فِىٓ أَمْوَٰلِهِمْ حَقٌّۭ مَّعْلُومٌۭ"
+  },
+  {
+   "verseNo": 25,
+   "textArabic": "لِّلسَّآئِلِ وَٱلْمَحْرُومِ"
+  },
+  {
+   "verseNo": 26,
+   "textArabic": "وَٱلَّذِينَ يُصَدِّقُونَ بِيَوْمِ ٱلدِّينِ"
+  },
+  {
+   "verseNo": 27,
+   "textArabic": "وَٱلَّذِينَ هُم مِّنْ عَذَابِ رَبِّهِم مُّشْفِقُونَ"
+  },
+  {
+   "verseNo": 28,
+   "textArabic": "إِنَّ عَذَابَ رَبِّهِمْ غَيْرُ مَأْمُونٍۢ"
+  },
+  {
+   "verseNo": 29,
+   "textArabic": "وَٱلَّذِينَ هُمْ لِفُرُوجِهِمْ حَٰفِظُونَ"
+  },
+  {
+   "verseNo": 30,
+   "textArabic": "إِلَّا عَلَىٰٓ أَزْوَٰجِهِمْ أَوْ مَا مَلَكَتْ أَيْمَٰنُهُمْ فَإِنَّهُمْ غَيْرُ مَلُومِينَ"
+  },
+  {
+   "verseNo": 31,
+   "textArabic": "فَمَنِ ٱبْتَغَىٰ وَرَآءَ ذَٰلِكَ فَأُو۟لَٰٓئِكَ هُمُ ٱلْعَادُونَ"
+  },
+  {
+   "verseNo": 32,
+   "textArabic": "وَٱلَّذِينَ هُمْ لِأَمَٰنَٰتِهِمْ وَعَهْدِهِمْ رَٰعُونَ"
+  },
+  {
+   "verseNo": 33,
+   "textArabic": "وَٱلَّذِينَ هُم بِشَهَٰدَٰتِهِمْ قَآئِمُونَ"
+  },
+  {
+   "verseNo": 34,
+   "textArabic": "وَٱلَّذِينَ هُمْ عَلَىٰ صَلَاتِهِمْ يُحَافِظُونَ"
+  },
+  {
+   "verseNo": 35,
+   "textArabic": "أُو۟لَٰٓئِكَ فِى جَنَّٰتٍۢ مُّكْرَمُونَ"
+  },
+  {
+   "verseNo": 36,
+   "textArabic": "فَمَالِ ٱلَّذِينَ كَفَرُوا۟ قِبَلَكَ مُهْطِعِينَ"
+  },
+  {
+   "verseNo": 37,
+   "textArabic": "عَنِ ٱلْيَمِينِ وَعَنِ ٱلشِّمَالِ عِزِينَ"
+  },
+  {
+   "verseNo": 38,
+   "textArabic": "أَيَطْمَعُ كُلُّ ٱمْرِئٍۢ مِّنْهُمْ أَن يُدْخَلَ جَنَّةَ نَعِيمٍۢ"
+  },
+  {
+   "verseNo": 39,
+   "textArabic": "كَلَّآ ۖ إِنَّا خَلَقْنَٰهُم مِّمَّا يَعْلَمُونَ"
+  },
+  {
+   "verseNo": 40,
+   "textArabic": "فَلَآ أُقْسِمُ بِرَبِّ ٱلْمَشَٰرِقِ وَٱلْمَغَٰرِبِ إِنَّا لَقَٰدِرُونَ"
+  },
+  {
+   "verseNo": 41,
+   "textArabic": "عَلَىٰٓ أَن نُّبَدِّلَ خَيْرًۭا مِّنْهُمْ وَمَا نَحْنُ بِمَسْبُوقِينَ"
+  },
+  {
+   "verseNo": 42,
+   "textArabic": "فَذَرْهُمْ يَخُوضُوا۟ وَيَلْعَبُوا۟ حَتَّىٰ يُلَٰقُوا۟ يَوْمَهُمُ ٱلَّذِى يُوعَدُونَ"
+  },
+  {
+   "verseNo": 43,
+   "textArabic": "يَوْمَ يَخْرُجُونَ مِنَ ٱلْأَجْدَاثِ سِرَاعًۭا كَأَنَّهُمْ إِلَىٰ نُصُبٍۢ يُوفِضُونَ"
+  },
+  {
+   "verseNo": 44,
+   "textArabic": "خَٰشِعَةً أَبْصَٰرُهُمْ تَرْهَقُهُمْ ذِلَّةٌۭ ۚ ذَٰلِكَ ٱلْيَوْمُ ٱلَّذِى كَانُوا۟ يُوعَدُونَ"
+  }
+ ],
+ "translations": [
+  {
+   "verseNo": 1,
+   "source": "diyanet",
+   "text": "Soran birisi, yükselme yollarının sahibi Allah tarafından kâfirlere kesinlikle inecek olan ve hiç kimsenin uzaklaştıramayacağı azabı sordu."
+  },
+  {
+   "verseNo": 1,
+   "source": "okuyan",
+   "text": "Soran biri gerçekleşecek azabı sordu."
+  },
+  {
+   "verseNo": 1,
+   "source": "esed",
+   "text": "Sorup araştırmak isteyen biri, (öteki dünyada) başa gelecek azabı sorabilir"
+  },
+  {
+   "verseNo": 2,
+   "source": "diyanet",
+   "text": "Soran birisi, yükselme yollarının sahibi Allah tarafından kâfirlere kesinlikle inecek olan ve hiç kimsenin uzaklaştıramayacağı azabı sordu."
+  },
+  {
+   "verseNo": 2,
+   "source": "okuyan",
+   "text": "Kâfirler için, o azabı savacak (kimse) yoktur."
+  },
+  {
+   "verseNo": 2,
+   "source": "esed",
+   "text": "hakikati inkar edenlerin (başına). (Öyleyse, bil ki) hiçbir şey ona mani olamaz"
+  },
+  {
+   "verseNo": 3,
+   "source": "diyanet",
+   "text": "Soran birisi, yükselme yollarının sahibi Allah tarafından kâfirlere kesinlikle inecek olan ve hiç kimsenin uzaklaştıramayacağı azabı sordu."
+  },
+  {
+   "verseNo": 3,
+   "source": "okuyan",
+   "text": "O (azap), yüksek makamların sahibi Allah’tandır."
+  },
+  {
+   "verseNo": 3,
+   "source": "esed",
+   "text": "(çünkü o,) Allah´tan (gelir,) katına yükselmenin birçok yolu olan (Allah´tan)"
+  },
+  {
+   "verseNo": 4,
+   "source": "diyanet",
+   "text": "Melekler ve Ruh (Cebrail) ona süresi elli bin yıl olan bir günde yükselir."
+  },
+  {
+   "verseNo": 4,
+   "source": "okuyan",
+   "text": "Melekler ve ruh(lar), miktarı elli bin sene olan bir günde O’na yükselir."
+  },
+  {
+   "verseNo": 4,
+   "source": "esed",
+   "text": "bütün melekler ve (insana bahşedilmiş olan) ilham O´na (bir günde) yükselir, uzunluğu elli bin yıl (gibi) süren bir günde"
+  },
+  {
+   "verseNo": 5,
+   "source": "diyanet",
+   "text": "(Ey Muhammed!) Sen güzel bir şekilde sabret."
+  },
+  {
+   "verseNo": 5,
+   "source": "okuyan",
+   "text": "Sen güzelce sabret!"
+  },
+  {
+   "verseNo": 5,
+   "source": "esed",
+   "text": "Bu nedenle, (sen ey iman eden), bütün sıkıntılara sabırla katlan"
+  },
+  {
+   "verseNo": 6,
+   "source": "diyanet",
+   "text": "Şüphesiz onlar o azabı uzak görüyorlar."
+  },
+  {
+   "verseNo": 6,
+   "source": "okuyan",
+   "text": "Şüphesiz ki onlar, o (hesabı) uzak (ihtimal) görüyorlar."
+  },
+  {
+   "verseNo": 6,
+   "source": "esed",
+   "text": "Bak, insanlar o (hesaba) uzak bir şey olarak bakıyorlar"
+  },
+  {
+   "verseNo": 7,
+   "source": "diyanet",
+   "text": "Biz ise onu yakın görüyoruz."
+  },
+  {
+   "verseNo": 7,
+   "source": "okuyan",
+   "text": "Biz ise onu yakın görmekteyiz."
+  },
+  {
+   "verseNo": 7,
+   "source": "esed",
+   "text": "ama Biz onu yakın görüyoruz"
+  },
+  {
+   "verseNo": 8,
+   "source": "diyanet",
+   "text": "Göğün, erimiş maden gibi ve dağların atılmış renkli yün gibi olacağı günü hatırla."
+  },
+  {
+   "verseNo": 8,
+   "source": "okuyan",
+   "text": "O gün gök, erimiş maden gibi olur."
+  },
+  {
+   "verseNo": 8,
+   "source": "esed",
+   "text": "(Bu hesap,) göğün erimiş madene benzeyeceği Gün (vuku bulacak)"
+  },
+  {
+   "verseNo": 9,
+   "source": "diyanet",
+   "text": "Göğün, erimiş maden gibi ve dağların atılmış renkli yün gibi olacağı günü hatırla."
+  },
+  {
+   "verseNo": 9,
+   "source": "okuyan",
+   "text": "Dağlar, (yayılmış) yün gibi bir hâl alır."
+  },
+  {
+   "verseNo": 9,
+   "source": "esed",
+   "text": "ve dağların yün topakları gibi olacağı"
+  },
+  {
+   "verseNo": 10,
+   "source": "diyanet",
+   "text": "(O gün) hiçbir samimi dost, dostunu sormaz."
+  },
+  {
+   "verseNo": 10,
+   "source": "okuyan",
+   "text": "Hiçbir dost da dostu(nu) soramaz."
+  },
+  {
+   "verseNo": 10,
+   "source": "esed",
+   "text": "ve hiç kimsenin arkadaşını(n durumunu) sormayacağı"
+  },
+  {
+   "verseNo": 11,
+   "source": "diyanet",
+   "text": "Birbirlerine gösterilirler. Günahkâr kimse ister ki, o günün azabından kurtulmak için oğullarını, karısını, kardeşini, kendisini koruyup barındıran tüm ailesini ve yeryüzünde bulunanların hepsini fidye olarak versin de, kendisini kurtarsın."
+  },
+  {
+   "verseNo": 11,
+   "source": "okuyan",
+   "text": "11-14 . Birbirlerine gösterileceklerdir. O suçlu kişi, o günün azabından (kurtulmak için) oğlunu (çocuğunu), hanımını (eşini), kardeşini, kendisini koruyup barındıran yakınlarını ve yeryüzünde kim varsa hepsini kendisini (azaptan) kurtarması için fidye vermek isteyecektir."
+  },
+  {
+   "verseNo": 11,
+   "source": "esed",
+   "text": "ama onların birbirlerinin gözü önünde olacaklar(ı gün): (çünkü,) her suçlu, o Gün çocuklarını feda ederek kendisini kurtarmak ister"
+  },
+  {
+   "verseNo": 12,
+   "source": "diyanet",
+   "text": "Birbirlerine gösterilirler. Günahkâr kimse ister ki, o günün azabından kurtulmak için oğullarını, karısını, kardeşini, kendisini koruyup barındıran tüm ailesini ve yeryüzünde bulunanların hepsini fidye olarak versin de, kendisini kurtarsın."
+  },
+  {
+   "verseNo": 12,
+   "source": "okuyan",
+   "text": "11-14 . Birbirlerine gösterileceklerdir. O suçlu kişi, o günün azabından (kurtulmak için) oğlunu (çocuğunu), hanımını (eşini), kardeşini, kendisini koruyup barındıran yakınlarını ve yeryüzünde kim varsa hepsini kendisini (azaptan) kurtarması için fidye vermek isteyecektir."
+  },
+  {
+   "verseNo": 12,
+   "source": "esed",
+   "text": "ve eşini ve kardeşini"
+  },
+  {
+   "verseNo": 13,
+   "source": "diyanet",
+   "text": "Birbirlerine gösterilirler. Günahkâr kimse ister ki, o günün azabından kurtulmak için oğullarını, karısını, kardeşini, kendisini koruyup barındıran tüm ailesini ve yeryüzünde bulunanların hepsini fidye olarak versin de, kendisini kurtarsın."
+  },
+  {
+   "verseNo": 13,
+   "source": "okuyan",
+   "text": "11-14 . Birbirlerine gösterileceklerdir. O suçlu kişi, o günün azabından (kurtulmak için) oğlunu (çocuğunu), hanımını (eşini), kardeşini, kendisini koruyup barındıran yakınlarını ve yeryüzünde kim varsa hepsini kendisini (azaptan) kurtarması için fidye vermek isteyecektir."
+  },
+  {
+   "verseNo": 13,
+   "source": "esed",
+   "text": "ve kendisini himaye etmiş bütün akrabalarını"
+  },
+  {
+   "verseNo": 14,
+   "source": "diyanet",
+   "text": "Birbirlerine gösterilirler. Günahkâr kimse ister ki, o günün azabından kurtulmak için oğullarını, karısını, kardeşini, kendisini koruyup barındıran tüm ailesini ve yeryüzünde bulunanların hepsini fidye olarak versin de, kendisini kurtarsın."
+  },
+  {
+   "verseNo": 14,
+   "source": "okuyan",
+   "text": "11-14 . Birbirlerine gösterileceklerdir. O suçlu kişi, o günün azabından (kurtulmak için) oğlunu (çocuğunu), hanımını (eşini), kardeşini, kendisini koruyup barındıran yakınlarını ve yeryüzünde kim varsa hepsini kendisini (azaptan) kurtarması için fidye vermek isteyecektir."
+  },
+  {
+   "verseNo": 14,
+   "source": "esed",
+   "text": "ve yeryüzünde yaşayan (başka) herkesi, onların tümünü; böylece yalnız kendini kurtarabilsin diye"
+  },
+  {
+   "verseNo": 15,
+   "source": "diyanet",
+   "text": "Hayır (ne mümkün)! Şüphesiz, cehennem derileri kavurup çıkaran alevli ateştir."
+  },
+  {
+   "verseNo": 15,
+   "source": "okuyan",
+   "text": "15-16 . Hayır! Şüphesiz ki o (cehennem), derileri kavurup soyan alevli bir ateştir."
+  },
+  {
+   "verseNo": 15,
+   "source": "esed",
+   "text": "Ama hayır! (Onu bekleyen) tek şey alev saçan bir ateştir"
+  },
+  {
+   "verseNo": 16,
+   "source": "diyanet",
+   "text": "Hayır (ne mümkün)! Şüphesiz, cehennem derileri kavurup çıkaran alevli ateştir."
+  },
+  {
+   "verseNo": 16,
+   "source": "okuyan",
+   "text": "15-16 . Hayır! Şüphesiz ki o (cehennem), derileri kavurup soyan alevli bir ateştir."
+  },
+  {
+   "verseNo": 16,
+   "source": "esed",
+   "text": "derisini kavuran (bir ateş)"
+  },
+  {
+   "verseNo": 17,
+   "source": "diyanet",
+   "text": "O, (hakka) arka döneni ve (imandan) yüz çevireni; servet toplayıp yığanı kendine çağırır."
+  },
+  {
+   "verseNo": 17,
+   "source": "okuyan",
+   "text": "17-18 . Arkasını dönüp yüz çevireni ve (mal) toplayıp yığan kimseyi (kendine) çağıracaktır."
+  },
+  {
+   "verseNo": 17,
+   "source": "esed",
+   "text": "O, (iyiye ve doğruya) sırtını dönenleri ve (hakikatten) uzaklaşanları kendine çeker"
+  },
+  {
+   "verseNo": 18,
+   "source": "diyanet",
+   "text": "O, (hakka) arka döneni ve (imandan) yüz çevireni; servet toplayıp yığanı kendine çağırır."
+  },
+  {
+   "verseNo": 18,
+   "source": "okuyan",
+   "text": "17-18 . Arkasını dönüp yüz çevireni ve (mal) toplayıp yığan kimseyi (kendine) çağıracaktır."
+  },
+  {
+   "verseNo": 18,
+   "source": "esed",
+   "text": "ve (servet) biriktirip, (onu öteki insanların elinden) alanları"
+  },
+  {
+   "verseNo": 19,
+   "source": "diyanet",
+   "text": "Şüphesiz insan çok hırslı ve sabırsız olarak yaratılmıştır."
+  },
+  {
+   "verseNo": 19,
+   "source": "okuyan",
+   "text": "Şüphesiz ki insan çok hırslı yaratılmıştır."
+  },
+  {
+   "verseNo": 19,
+   "source": "esed",
+   "text": "Gerçek şu ki, insan tatminsiz bir tabiata sahiptir"
+  },
+  {
+   "verseNo": 20,
+   "source": "diyanet",
+   "text": "Kendisine kötülük dokunduğu zaman sızlanır."
+  },
+  {
+   "verseNo": 20,
+   "source": "okuyan",
+   "text": "Başına bir kötülük geldiğinde çok sızlanır."
+  },
+  {
+   "verseNo": 20,
+   "source": "esed",
+   "text": "(Kural olarak,) başına bir kötülük geldiği zaman sızlanmaya başlar"
+  },
+  {
+   "verseNo": 21,
+   "source": "diyanet",
+   "text": "Ona bir hayır dokunduğunda da eli sıkıdır."
+  },
+  {
+   "verseNo": 21,
+   "source": "okuyan",
+   "text": "Bir hayra (zenginliğe) ulaşınca da çok cimri kesilir."
+  },
+  {
+   "verseNo": 21,
+   "source": "esed",
+   "text": "bir iyilik ile karşılaşınca da onu bencilce (sahiplenip başka insanlardan) uzak tutar"
+  },
+  {
+   "verseNo": 22,
+   "source": "diyanet",
+   "text": "Ancak, namaz kılanlar başka."
+  },
+  {
+   "verseNo": 22,
+   "source": "okuyan",
+   "text": "Ancak salât edenler (Allah'a destek olanlar) hariç!"
+  },
+  {
+   "verseNo": 22,
+   "source": "esed",
+   "text": "Ancak namazda bilinçli olarak Allah´a yönelenler böyle değildir"
+  },
+  {
+   "verseNo": 23,
+   "source": "diyanet",
+   "text": "Onlar, namazlarına devam eden kimselerdir."
+  },
+  {
+   "verseNo": 23,
+   "source": "okuyan",
+   "text": "Onlar salâtında (Allah'a desteklerinde) devamlı olanlardır."
+  },
+  {
+   "verseNo": 23,
+   "source": "esed",
+   "text": "(ve) namazlarında devamlı ve kararlı olanlar"
+  },
+  {
+   "verseNo": 24,
+   "source": "diyanet",
+   "text": "Onlar, mallarında; isteyenler ve (isteyemeyip) mahrum kalanlar için belli bir hak bulunan kimselerdir."
+  },
+  {
+   "verseNo": 24,
+   "source": "okuyan",
+   "text": "24-25 . Onlar mallarında açıktan isteyen ve açıktan isteyemeyen(ler) için bilinen bir hak bulunanlardır."
+  },
+  {
+   "verseNo": 24,
+   "source": "esed",
+   "text": "ve şunlar: malları üzerinde (başkasının) hak sahibi olduğunu kabul edenler"
+  },
+  {
+   "verseNo": 25,
+   "source": "diyanet",
+   "text": "Onlar, mallarında; isteyenler ve (isteyemeyip) mahrum kalanlar için belli bir hak bulunan kimselerdir."
+  },
+  {
+   "verseNo": 25,
+   "source": "okuyan",
+   "text": "24-25 . Onlar mallarında açıktan isteyen ve açıktan isteyemeyen(ler) için bilinen bir hak bulunanlardır."
+  },
+  {
+   "verseNo": 25,
+   "source": "esed",
+   "text": "(yardım) isteyenlerin ve (hayatın güzel şeylerinden) yoksun bulunanların"
+  },
+  {
+   "verseNo": 26,
+   "source": "diyanet",
+   "text": "Onlar ceza gününü tasdik eden kimselerdir."
+  },
+  {
+   "verseNo": 26,
+   "source": "okuyan",
+   "text": "Onlar hesap gününe inananlardır."
+  },
+  {
+   "verseNo": 26,
+   "source": "esed",
+   "text": "ve Hesap Günü´nü(n geleceğini) tasdik edenler"
+  },
+  {
+   "verseNo": 27,
+   "source": "diyanet",
+   "text": "Onlar, Rablerinin azabından korkan kimselerdir."
+  },
+  {
+   "verseNo": 27,
+   "source": "okuyan",
+   "text": "Onlar Rablerinin azabından korkanlardır."
+  },
+  {
+   "verseNo": 27,
+   "source": "esed",
+   "text": "ve Rablerinin azabına karşı korku ve saygı içinde bulunanlar"
+  },
+  {
+   "verseNo": 28,
+   "source": "diyanet",
+   "text": "Çünkü, Rablerinin azabından emin olunamaz."
+  },
+  {
+   "verseNo": 28,
+   "source": "okuyan",
+   "text": "Şüphesiz ki Rablerinin azabı(na karşı) güvende olunamaz."
+  },
+  {
+   "verseNo": 28,
+   "source": "esed",
+   "text": "zaten Rabbinin azabına karşı hiç kimse kendini (tam) bir güven içinde hissedemez"
+  },
+  {
+   "verseNo": 29,
+   "source": "diyanet",
+   "text": "Onlar, mahrem yerlerini koruyan kimselerdir."
+  },
+  {
+   "verseNo": 29,
+   "source": "okuyan",
+   "text": "Onlar namuslarını koruyanlardır."
+  },
+  {
+   "verseNo": 29,
+   "source": "esed",
+   "text": "Ve iffetlerine karşı duyarlı olanlar"
+  },
+  {
+   "verseNo": 30,
+   "source": "diyanet",
+   "text": "Ancak eşleri, yahut sahip oldukları cariyeleri başka. Çünkü onlar (eşleri ve cariyeleri ile olan ilişkileri konusunda) kınanmazlar."
+  },
+  {
+   "verseNo": 30,
+   "source": "okuyan",
+   "text": "Ancak eşleri yani (evlilik yoluyla) meşru olarak sahip oldukları kişiler hariç.Şüphesiz ki onlar, (eşleriyle ilişkilerinde) kınanmazlar."
+  },
+  {
+   "verseNo": 30,
+   "source": "esed",
+   "text": "eşleri; yani (nikah yoluyla) meşru şekilde sahip oldukları dışında (isteklerini frenleyenler,) çünkü ancak o zaman hiçbir kınamaya uğramazlar"
+  },
+  {
+   "verseNo": 31,
+   "source": "diyanet",
+   "text": "Kim bunun ötesini isterse, işte onlar sınırı aşan kimselerdir."
+  },
+  {
+   "verseNo": 31,
+   "source": "okuyan",
+   "text": "Bundan öteye (geçmek) isteyenler ise haddini aşanların ta kendileridir."
+  },
+  {
+   "verseNo": 31,
+   "source": "esed",
+   "text": "ama o (sınır)ın ötesine geçmek isteyenler, gerçek haddi aşanlardır"
+  },
+  {
+   "verseNo": 32,
+   "source": "diyanet",
+   "text": "Onlar, emanetlerini ve verdikleri sözü gözeten kimselerdir."
+  },
+  {
+   "verseNo": 32,
+   "source": "okuyan",
+   "text": "Onlar emanetlerine ve sözlerine uyanlardır."
+  },
+  {
+   "verseNo": 32,
+   "source": "esed",
+   "text": "emanetlere ve ahidlerine riayet edenler"
+  },
+  {
+   "verseNo": 33,
+   "source": "diyanet",
+   "text": "Onlar, şahitliklerini dosdoğru yapan kimselerdir."
+  },
+  {
+   "verseNo": 33,
+   "source": "okuyan",
+   "text": "Onlar şahitliklerini yerine getirenlerdir."
+  },
+  {
+   "verseNo": 33,
+   "source": "esed",
+   "text": "ve şahitlik yaptıkları zaman kararlı duranlar"
+  },
+  {
+   "verseNo": 34,
+   "source": "diyanet",
+   "text": "Onlar namazlarını titizlikle koruyan kimselerdir."
+  },
+  {
+   "verseNo": 34,
+   "source": "okuyan",
+   "text": "Onlar salâtını (Allah'a desteklerini) koruyanlardır."
+  },
+  {
+   "verseNo": 34,
+   "source": "esed",
+   "text": "ve namazlarını (bütün dünyevi endişelerden) uzak tutanlar"
+  },
+  {
+   "verseNo": 35,
+   "source": "diyanet",
+   "text": "İşte onlar cennetlerde ikram göreceklerdir."
+  },
+  {
+   "verseNo": 35,
+   "source": "okuyan",
+   "text": "İşte onlar cennetlerde ağırlanacaklardır."
+  },
+  {
+   "verseNo": 35,
+   "source": "esed",
+   "text": "İşte bunlardır (cennet) bahçeler(in)de ağırlanacak olanlar"
+  },
+  {
+   "verseNo": 36,
+   "source": "diyanet",
+   "text": "Şimdi, inkar edenlere ne oluyor ki, boyunlarını uzatarak (alay etmek için) sağdan soldan gruplar halinde sana doğru koşuyorlar?"
+  },
+  {
+   "verseNo": 36,
+   "source": "okuyan",
+   "text": "36-37 . Kâfir olanlara ne oluyor ki sağdan ve soldan bölük bölük sana doğru boyunlarını uzatıyorlar!"
+  },
+  {
+   "verseNo": 36,
+   "source": "esed",
+   "text": "O halde bu hakikati inkara şartlanmış olanlara ne oluyor ki senin önünde şaşkın vaziyette oraya buraya koşturuyorlar"
+  },
+  {
+   "verseNo": 37,
+   "source": "diyanet",
+   "text": "Şimdi, inkar edenlere ne oluyor ki, boyunlarını uzatarak (alay etmek için) sağdan soldan gruplar halinde sana doğru koşuyorlar?"
+  },
+  {
+   "verseNo": 37,
+   "source": "okuyan",
+   "text": "36-37 . Kâfir olanlara ne oluyor ki sağdan ve soldan bölük bölük sana doğru boyunlarını uzatıyorlar!"
+  },
+  {
+   "verseNo": 37,
+   "source": "esed",
+   "text": "sağdan ve soldan kalabalıklar halinde (sana gelerek)"
+  },
+  {
+   "verseNo": 38,
+   "source": "diyanet",
+   "text": "Onlardan her biri Naîm Cennetine sokulacağını mı umuyor?"
+  },
+  {
+   "verseNo": 38,
+   "source": "okuyan",
+   "text": "Onlardan her bir kişi nimet cennetine konulacağını mı umuyor!"
+  },
+  {
+   "verseNo": 38,
+   "source": "esed",
+   "text": "Onların her biri (bu şekilde) bir esenlik bahçesine gireceğini mi sanıyor"
+  },
+  {
+   "verseNo": 39,
+   "source": "diyanet",
+   "text": "Hayır (ne mümkün)! Şüphesiz biz onları kendilerinin de bildikleri şeyden (meniden) yarattık."
+  },
+  {
+   "verseNo": 39,
+   "source": "okuyan",
+   "text": "Hayır! Şüphesiz ki biz onları bildikleri şeyden yarattık."
+  },
+  {
+   "verseNo": 39,
+   "source": "esed",
+   "text": "Asla! Çünkü, Biz onları (çok iyi) bildikleri bir şeyden yarattık"
+  },
+  {
+   "verseNo": 40,
+   "source": "diyanet",
+   "text": "Doğuların ve Batıların Rabbine yemin ederim ki, şüphesiz onların yerine daha iyilerini getirmeye bizim gücümüz yeter. Bizim önümüze geçilemez."
+  },
+  {
+   "verseNo": 40,
+   "source": "okuyan",
+   "text": "40-41 . Hayır! Doğuların ve batıların Rabbine yemin ederim ki onların yerine daha iyilerini getirmeye bizim gücümüz yeter ve biz asla geçilebilenler değiliz (bize kimse engel olamaz)."
+  },
+  {
+   "verseNo": 40,
+   "source": "esed",
+   "text": "Evet! Bütün gündoğumu ve günbatımı noktalarının Rabbini (Bizim varlığımıza) tanıklık etmeye çağırırım; şüphesiz Biz muktediriz"
+  },
+  {
+   "verseNo": 41,
+   "source": "diyanet",
+   "text": "Doğuların ve Batıların Rabbine yemin ederim ki, şüphesiz onların yerine daha iyilerini getirmeye bizim gücümüz yeter. Bizim önümüze geçilemez."
+  },
+  {
+   "verseNo": 41,
+   "source": "okuyan",
+   "text": "40-41 . Hayır! Doğuların ve batıların Rabbine yemin ederim ki onların yerine daha iyilerini getirmeye bizim gücümüz yeter ve biz asla geçilebilenler değiliz (bize kimse engel olamaz)."
+  },
+  {
+   "verseNo": 41,
+   "source": "esed",
+   "text": "onları kendilerinden daha hayırlı (bir toplum) ile değiştirmeye. Çünkü Bizi (istediğimizi yapmaktan) alıkoyan hiçbir şey yoktur"
+  },
+  {
+   "verseNo": 42,
+   "source": "diyanet",
+   "text": "Sen onları bırak, uyarıldıkları günlerine kavuşuncaya kadar batıl inançlarına dalsınlar ve oynasınlar."
+  },
+  {
+   "verseNo": 42,
+   "source": "okuyan",
+   "text": "Sen onları (şimdilik) bırak da kendilerine vadedilen günlerine kavuşuncaya kadar (boş işlere) dalsınlar, oynasınlar!"
+  },
+  {
+   "verseNo": 42,
+   "source": "esed",
+   "text": "O halde, bırak onları, kendilerine vaad edilen (Hesap) Günü ile karşılaşıncaya kadar boş konuşmalarla oyalansınlar ve (kelimelerle) oynayıp dursunlar"
+  },
+  {
+   "verseNo": 43,
+   "source": "diyanet",
+   "text": "Dikili putlara akın akın gidercesine, gözleri inmiş, kendilerini zillet kaplamış bir halde mezarlarından süratle çıkacakları o günü hatırla! İşte o, uyarıldıkları gündür."
+  },
+  {
+   "verseNo": 43,
+   "source": "okuyan",
+   "text": "43-44 . O gün onlar sanki dikili bir şeye koşuyorlar gibi kendilerini aşağılanma kaplamış olarak gözleri (perişanlıktan) yıkılmış bir hâlde mezarlar(ın)dan hızla çıkacaklar. İşte bu kendilerine vadedilmiş gündür!"
+  },
+  {
+   "verseNo": 43,
+   "source": "esed",
+   "text": "ki o Gün bir hedefe doğru yarışıyorlarmış gibi mezarlarından aceleyle fırlarlar"
+  },
+  {
+   "verseNo": 44,
+   "source": "diyanet",
+   "text": "Dikili putlara akın akın gidercesine, gözleri inmiş, kendilerini zillet kaplamış bir halde mezarlarından süratle çıkacakları o günü hatırla! İşte o, uyarıldıkları gündür."
+  },
+  {
+   "verseNo": 44,
+   "source": "okuyan",
+   "text": "43-44 . O gün onlar sanki dikili bir şeye koşuyorlar gibi kendilerini aşağılanma kaplamış olarak gözleri (perişanlıktan) yıkılmış bir hâlde mezarlar(ın)dan hızla çıkacaklar. İşte bu kendilerine vadedilmiş gündür!"
+  },
+  {
+   "verseNo": 44,
+   "source": "esed",
+   "text": "gözleri düşmüş, zillete duçar bir vaziyette; işte onlara defalarca haber verilen Gün"
+  }
+ ]
+}

@@ -1,0 +1,943 @@
+{
+ "stationNo": 43,
+ "surahNo": 50,
+ "name": "Kâf",
+ "nameArabic": "",
+ "nameMeaning": "",
+ "verseCount": 45,
+ "nuzulOrderOkuyan": 36,
+ "periodDiyanet": "Mekke",
+ "periodOkuyan": "Mekke",
+ "revelationTiming": "",
+ "stationTitle": "Yeniden Dirilişin Kozmik Delilleri ve İnsanın İç Sesi",
+ "introduction": "Kâf suresi, adını ilk ayetinin başındaki 'Kâf' harfinden alır. Kırk beş ayetten oluşan bu sure, Mekke döneminde inmiştir. Surenin ana ekseni, ölümden sonra yeniden diriliş, Allah'ın yaratma kudreti ve insanın iç dünyasındaki sorumluluğudur.\n\nSurenin ilk bölümünde (1-15. ayetler), müşriklerin peygamberi ve dirilişi yalanlamalarına karşı kozmolojik deliller sunulur. Gökyüzü, yeryüzü, dağlar, bitkiler ve yağmur gibi doğa olayları üzerinden Allah'ın yaratma gücü hatırlatılır. İkinci bölümde (16-45. ayetler) ise insanın yaratılışına ve iç dünyasına dikkat çekilir. 'Biz insana şah damarından daha yakınız' ayetiyle insanın her eyleminden sorumlu olduğu vurgulanır.\n\nSurenin sonlarına doğru, inananlara verilecek nimetler ve inkârcıların karşılaşacağı sonuçlar hatırlatılır. Hz. Peygamber'e sabırlı olması öğütlenirken, Kur'an'ın bir uyarı ve öğüt kaynağı olduğu belirtilir.",
+ "occasionOfRevelation": "Kâf suresi, Mekke döneminde, Mürselât suresinden sonra inmiştir. Prof. Dr. Mehmet Okuyan'a göre risaletin 5. yılında inmiş olması muhtemeldir. Surenin iniş ortamı, Mekkeli müşriklerin ölümden sonra dirilişi (ba's) şiddetle inkar ettikleri ve Hz. Peygamber'in uyarılarını şaşkınlıkla karşıladıkları bir dönemdir.\n\nMüşrikler, çürüyüp toprak olmuş bedenlerin yeniden nasıl diriltileceğini sorguluyor ve bunu 'uzak bir ihtimal' olarak görüyorlardı. Sure, bu inkârcı tutuma karşı hem doğadaki sürekli yeniden yaratılış örneklerini (ölü toprağın canlanması gibi) hem de insanın ilk yaratılışını delil olarak sunar.\n\nAyrıca, surenin başındaki 'Kâf' harfiyle ilgili bazı tefsirlerde yer alan 'dünyayı kuşatan Kaf dağı' şeklindeki rivayetlerin, İbn Kesîr gibi alimler tarafından İsrailiyat (asılsız hurafe) olarak değerlendirildiği bilinmektedir.",
+ "occasionSources": "TDV İslâm Ansiklopedisi, \"Kāf Sûresi\" maddesi; Diyanet İşleri Başkanlığı Kur'an Yolu Tefsiri, Kâf 1-5 ayet tefsiri; kuranokuyan.com, Kâf suresi girişi (Prof. Dr. Mehmet Okuyan).",
+ "keyTerms": [
+  {
+   "term": "mecîd",
+   "arabic": "مَجِيد",
+   "verseRef": "50:1",
+   "meaning": "Şanlı, şerefli, yüce, özlü anlamlarına gelir. Kur'an'ın değerini ve kaynağının yüceliğini ifade eder."
+  },
+  {
+   "term": "ba's",
+   "arabic": "بَعْث",
+   "verseRef": "50:3",
+   "meaning": "Ölümden sonra yeniden diriliş. Surenin temel tartışma konusudur."
+  },
+  {
+   "term": "habli'l-verîd",
+   "arabic": "حَبْلِ الْوَرِيدِ",
+   "verseRef": "50:16",
+   "meaning": "Şah damarı. Allah'ın insana olan yakınlığını ve onun her halini bildiğini anlatan çarpıcı bir metafordur."
+  },
+  {
+   "term": "rakîb",
+   "arabic": "رَقِيبٌ",
+   "verseRef": "50:18",
+   "meaning": "Gözetleyen, kaydeden. İnsanın her sözünün ve eyleminin kayıt altında olduğunu belirtir."
+  },
+  {
+   "term": "tebsıra",
+   "arabic": "تَبْصِرَةً",
+   "verseRef": "50:8",
+   "meaning": "Göz açıcı, aydınlatıcı delil. Doğadaki olayların insan için birer ibret vesilesi olduğunu ifade eder."
+  }
+ ],
+ "themes": [
+  {
+   "label": "Yeniden Yaratılışın İmkânı",
+   "body": "Doğadaki sürekli değişim ve canlanma, insanın ölümden sonraki dirilişinin en somut kanıtıdır. Kuruyan toprağın yağmurla yeşermesi, insanın yeniden var edilişinin bir provasıdır."
+  },
+  {
+   "label": "İçsel Gözetim ve Sorumluluk",
+   "body": "İnsan, sadece dış dünyadaki eylemlerinden değil, içinden geçen düşüncelerden ve fısıltılardan da sorumludur. Şah damarından yakın olan bir gücün varlığı, derin bir otokontrol gerektirir."
+  },
+  {
+   "label": "Hakikati İnkârın Psikolojisi",
+   "body": "İnsan, alışkın olmadığı veya kendi sınırlı aklıyla kavrayamadığı gerçekleri reddetme eğilimindedir. Müşriklerin dirilişi tuhaf karşılaması, bu zihinsel direncin bir örneğidir."
+  }
+ ],
+ "questions": [
+  "Kendi içimde, kimsenin duymadığı ama beni içten içe çürüten veya yücelten hangi fısıltılara kulak veriyorum?",
+  "Doğadaki muazzam düzeni ve sürekli yenilenmeyi görürken, kendi hayatımdaki tükenmişlikleri aşmak için bu ilahi kudretten ne kadar güç alıyorum?"
+ ],
+ "contemporaryMeaning": "Bu sure, insanın kendi zihniyle baş başa kaldığında kurduğu gizlilik yanılsamasını ve içsel şeffaflığın sarsıcı gerçekliğini ele alır. Metin, dışarıdan kusursuz görünen bir hayatın ardında, zihnin derinliklerinde yankılanan fısıltıları merkeze yerleştirir. İnsanın en büyük yanılgısı, eylemlerini gizleyebildiği sürece düşüncelerinin de görünmez kalacağına inanmasıdır. Oysa varlığın kökenine inen bir yakınlık, insanın kendi kendine söylediği yalanları bile kayda geçirir.\n\nBugünün diliyle: kapalı kapılar ardında yapılan dijital aramalar, silinmiş mesajlar, anonim hesapların arkasına sığınılarak kusulan öfkeler veya kimsenin bilmediği algoritmik zaaflar, insanın kendine bile itiraf edemediği bir şeffaflık krizine işaret eder. Birey, kamusal alanda inşa ettiği kusursuz imajın arkasında, şah damarından daha yakın bir tanığın varlığını unuttuğunda, kendi iç sesinin esiri haline gelir.\n\nHer şeyin bir ekranda başlayıp bittiği yanılsaması, insanın kendi eylemlerinin kozmik bir yankısı olduğu gerçeğini unutturur. Tüketim döngüsünün ve hızın içinde kaybolan zihin, toprağın canlanması gibi sıradan doğa olaylarındaki diriliş provasını görmezden gelir. Metin, bu noktada insanın dikkatini kendi içine çekerek, varoluşun hiçbir anının kaybolmadığını hatırlatır.",
+ "scholarlyNotes": [
+  {
+   "kind": "rivayet",
+   "body": "Surenin başındaki 'Kâf' harfinin dünyayı kuşatan bir dağ olduğu yönündeki rivayetler asılsızdır (İsrailiyattır). İbn Kesîr bu tür rivayetlerin uydurma olduğunu belirtmiştir.",
+   "label": "Kâf Dağı Efsanesi"
+  },
+  {
+   "kind": "rivayet",
+   "body": "Bazı tefsirlerde yer alan 'Kim Kâf suresini okursa Allah onun ölüm sıkıntılarını hafifletir' şeklindeki hadislerin sahih olmadığı (zayıf/uydurma olduğu) kabul edilmiştir.",
+   "label": "Fazilet Rivayetleri"
+  },
+  {
+   "kind": "nuans",
+   "body": "Prof. Dr. Mehmet Okuyan, surenin risaletin 5. yılında inmiş olmasının muhtemel olduğunu belirtmektedir.",
+   "label": "Nüzul Yılı Tahmini"
+  }
+ ],
+ "verses": [
+  {
+   "verseNo": 1,
+   "textArabic": "بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ قٓ ۚ وَٱلْقُرْءَانِ ٱلْمَجِيدِ"
+  },
+  {
+   "verseNo": 2,
+   "textArabic": "بَلْ عَجِبُوٓا۟ أَن جَآءَهُم مُّنذِرٌۭ مِّنْهُمْ فَقَالَ ٱلْكَٰفِرُونَ هَٰذَا شَىْءٌ عَجِيبٌ"
+  },
+  {
+   "verseNo": 3,
+   "textArabic": "أَءِذَا مِتْنَا وَكُنَّا تُرَابًۭا ۖ ذَٰلِكَ رَجْعٌۢ بَعِيدٌۭ"
+  },
+  {
+   "verseNo": 4,
+   "textArabic": "قَدْ عَلِمْنَا مَا تَنقُصُ ٱلْأَرْضُ مِنْهُمْ ۖ وَعِندَنَا كِتَٰبٌ حَفِيظٌۢ"
+  },
+  {
+   "verseNo": 5,
+   "textArabic": "بَلْ كَذَّبُوا۟ بِٱلْحَقِّ لَمَّا جَآءَهُمْ فَهُمْ فِىٓ أَمْرٍۢ مَّرِيجٍ"
+  },
+  {
+   "verseNo": 6,
+   "textArabic": "أَفَلَمْ يَنظُرُوٓا۟ إِلَى ٱلسَّمَآءِ فَوْقَهُمْ كَيْفَ بَنَيْنَٰهَا وَزَيَّنَّٰهَا وَمَا لَهَا مِن فُرُوجٍۢ"
+  },
+  {
+   "verseNo": 7,
+   "textArabic": "وَٱلْأَرْضَ مَدَدْنَٰهَا وَأَلْقَيْنَا فِيهَا رَوَٰسِىَ وَأَنۢبَتْنَا فِيهَا مِن كُلِّ زَوْجٍۭ بَهِيجٍۢ"
+  },
+  {
+   "verseNo": 8,
+   "textArabic": "تَبْصِرَةًۭ وَذِكْرَىٰ لِكُلِّ عَبْدٍۢ مُّنِيبٍۢ"
+  },
+  {
+   "verseNo": 9,
+   "textArabic": "وَنَزَّلْنَا مِنَ ٱلسَّمَآءِ مَآءًۭ مُّبَٰرَكًۭا فَأَنۢبَتْنَا بِهِۦ جَنَّٰتٍۢ وَحَبَّ ٱلْحَصِيدِ"
+  },
+  {
+   "verseNo": 10,
+   "textArabic": "وَٱلنَّخْلَ بَاسِقَٰتٍۢ لَّهَا طَلْعٌۭ نَّضِيدٌۭ"
+  },
+  {
+   "verseNo": 11,
+   "textArabic": "رِّزْقًۭا لِّلْعِبَادِ ۖ وَأَحْيَيْنَا بِهِۦ بَلْدَةًۭ مَّيْتًۭا ۚ كَذَٰلِكَ ٱلْخُرُوجُ"
+  },
+  {
+   "verseNo": 12,
+   "textArabic": "كَذَّبَتْ قَبْلَهُمْ قَوْمُ نُوحٍۢ وَأَصْحَٰبُ ٱلرَّسِّ وَثَمُودُ"
+  },
+  {
+   "verseNo": 13,
+   "textArabic": "وَعَادٌۭ وَفِرْعَوْنُ وَإِخْوَٰنُ لُوطٍۢ"
+  },
+  {
+   "verseNo": 14,
+   "textArabic": "وَأَصْحَٰبُ ٱلْأَيْكَةِ وَقَوْمُ تُبَّعٍۢ ۚ كُلٌّۭ كَذَّبَ ٱلرُّسُلَ فَحَقَّ وَعِيدِ"
+  },
+  {
+   "verseNo": 15,
+   "textArabic": "أَفَعَيِينَا بِٱلْخَلْقِ ٱلْأَوَّلِ ۚ بَلْ هُمْ فِى لَبْسٍۢ مِّنْ خَلْقٍۢ جَدِيدٍۢ"
+  },
+  {
+   "verseNo": 16,
+   "textArabic": "وَلَقَدْ خَلَقْنَا ٱلْإِنسَٰنَ وَنَعْلَمُ مَا تُوَسْوِسُ بِهِۦ نَفْسُهُۥ ۖ وَنَحْنُ أَقْرَبُ إِلَيْهِ مِنْ حَبْلِ ٱلْوَرِيدِ"
+  },
+  {
+   "verseNo": 17,
+   "textArabic": "إِذْ يَتَلَقَّى ٱلْمُتَلَقِّيَانِ عَنِ ٱلْيَمِينِ وَعَنِ ٱلشِّمَالِ قَعِيدٌۭ"
+  },
+  {
+   "verseNo": 18,
+   "textArabic": "مَّا يَلْفِظُ مِن قَوْلٍ إِلَّا لَدَيْهِ رَقِيبٌ عَتِيدٌۭ"
+  },
+  {
+   "verseNo": 19,
+   "textArabic": "وَجَآءَتْ سَكْرَةُ ٱلْمَوْتِ بِٱلْحَقِّ ۖ ذَٰلِكَ مَا كُنتَ مِنْهُ تَحِيدُ"
+  },
+  {
+   "verseNo": 20,
+   "textArabic": "وَنُفِخَ فِى ٱلصُّورِ ۚ ذَٰلِكَ يَوْمُ ٱلْوَعِيدِ"
+  },
+  {
+   "verseNo": 21,
+   "textArabic": "وَجَآءَتْ كُلُّ نَفْسٍۢ مَّعَهَا سَآئِقٌۭ وَشَهِيدٌۭ"
+  },
+  {
+   "verseNo": 22,
+   "textArabic": "لَّقَدْ كُنتَ فِى غَفْلَةٍۢ مِّنْ هَٰذَا فَكَشَفْنَا عَنكَ غِطَآءَكَ فَبَصَرُكَ ٱلْيَوْمَ حَدِيدٌۭ"
+  },
+  {
+   "verseNo": 23,
+   "textArabic": "وَقَالَ قَرِينُهُۥ هَٰذَا مَا لَدَىَّ عَتِيدٌ"
+  },
+  {
+   "verseNo": 24,
+   "textArabic": "أَلْقِيَا فِى جَهَنَّمَ كُلَّ كَفَّارٍ عَنِيدٍۢ"
+  },
+  {
+   "verseNo": 25,
+   "textArabic": "مَّنَّاعٍۢ لِّلْخَيْرِ مُعْتَدٍۢ مُّرِيبٍ"
+  },
+  {
+   "verseNo": 26,
+   "textArabic": "ٱلَّذِى جَعَلَ مَعَ ٱللَّهِ إِلَٰهًا ءَاخَرَ فَأَلْقِيَاهُ فِى ٱلْعَذَابِ ٱلشَّدِيدِ"
+  },
+  {
+   "verseNo": 27,
+   "textArabic": "۞ قَالَ قَرِينُهُۥ رَبَّنَا مَآ أَطْغَيْتُهُۥ وَلَٰكِن كَانَ فِى ضَلَٰلٍۭ بَعِيدٍۢ"
+  },
+  {
+   "verseNo": 28,
+   "textArabic": "قَالَ لَا تَخْتَصِمُوا۟ لَدَىَّ وَقَدْ قَدَّمْتُ إِلَيْكُم بِٱلْوَعِيدِ"
+  },
+  {
+   "verseNo": 29,
+   "textArabic": "مَا يُبَدَّلُ ٱلْقَوْلُ لَدَىَّ وَمَآ أَنَا۠ بِظَلَّٰمٍۢ لِّلْعَبِيدِ"
+  },
+  {
+   "verseNo": 30,
+   "textArabic": "يَوْمَ نَقُولُ لِجَهَنَّمَ هَلِ ٱمْتَلَأْتِ وَتَقُولُ هَلْ مِن مَّزِيدٍۢ"
+  },
+  {
+   "verseNo": 31,
+   "textArabic": "وَأُزْلِفَتِ ٱلْجَنَّةُ لِلْمُتَّقِينَ غَيْرَ بَعِيدٍ"
+  },
+  {
+   "verseNo": 32,
+   "textArabic": "هَٰذَا مَا تُوعَدُونَ لِكُلِّ أَوَّابٍ حَفِيظٍۢ"
+  },
+  {
+   "verseNo": 33,
+   "textArabic": "مَّنْ خَشِىَ ٱلرَّحْمَٰنَ بِٱلْغَيْبِ وَجَآءَ بِقَلْبٍۢ مُّنِيبٍ"
+  },
+  {
+   "verseNo": 34,
+   "textArabic": "ٱدْخُلُوهَا بِسَلَٰمٍۢ ۖ ذَٰلِكَ يَوْمُ ٱلْخُلُودِ"
+  },
+  {
+   "verseNo": 35,
+   "textArabic": "لَهُم مَّا يَشَآءُونَ فِيهَا وَلَدَيْنَا مَزِيدٌۭ"
+  },
+  {
+   "verseNo": 36,
+   "textArabic": "وَكَمْ أَهْلَكْنَا قَبْلَهُم مِّن قَرْنٍ هُمْ أَشَدُّ مِنْهُم بَطْشًۭا فَنَقَّبُوا۟ فِى ٱلْبِلَٰدِ هَلْ مِن مَّحِيصٍ"
+  },
+  {
+   "verseNo": 37,
+   "textArabic": "إِنَّ فِى ذَٰلِكَ لَذِكْرَىٰ لِمَن كَانَ لَهُۥ قَلْبٌ أَوْ أَلْقَى ٱلسَّمْعَ وَهُوَ شَهِيدٌۭ"
+  },
+  {
+   "verseNo": 38,
+   "textArabic": "وَلَقَدْ خَلَقْنَا ٱلسَّمَٰوَٰتِ وَٱلْأَرْضَ وَمَا بَيْنَهُمَا فِى سِتَّةِ أَيَّامٍۢ وَمَا مَسَّنَا مِن لُّغُوبٍۢ"
+  },
+  {
+   "verseNo": 39,
+   "textArabic": "فَٱصْبِرْ عَلَىٰ مَا يَقُولُونَ وَسَبِّحْ بِحَمْدِ رَبِّكَ قَبْلَ طُلُوعِ ٱلشَّمْسِ وَقَبْلَ ٱلْغُرُوبِ"
+  },
+  {
+   "verseNo": 40,
+   "textArabic": "وَمِنَ ٱلَّيْلِ فَسَبِّحْهُ وَأَدْبَٰرَ ٱلسُّجُودِ"
+  },
+  {
+   "verseNo": 41,
+   "textArabic": "وَٱسْتَمِعْ يَوْمَ يُنَادِ ٱلْمُنَادِ مِن مَّكَانٍۢ قَرِيبٍۢ"
+  },
+  {
+   "verseNo": 42,
+   "textArabic": "يَوْمَ يَسْمَعُونَ ٱلصَّيْحَةَ بِٱلْحَقِّ ۚ ذَٰلِكَ يَوْمُ ٱلْخُرُوجِ"
+  },
+  {
+   "verseNo": 43,
+   "textArabic": "إِنَّا نَحْنُ نُحْىِۦ وَنُمِيتُ وَإِلَيْنَا ٱلْمَصِيرُ"
+  },
+  {
+   "verseNo": 44,
+   "textArabic": "يَوْمَ تَشَقَّقُ ٱلْأَرْضُ عَنْهُمْ سِرَاعًۭا ۚ ذَٰلِكَ حَشْرٌ عَلَيْنَا يَسِيرٌۭ"
+  },
+  {
+   "verseNo": 45,
+   "textArabic": "نَّحْنُ أَعْلَمُ بِمَا يَقُولُونَ ۖ وَمَآ أَنتَ عَلَيْهِم بِجَبَّارٍۢ ۖ فَذَكِّرْ بِٱلْقُرْءَانِ مَن يَخَافُ وَعِيدِ"
+  }
+ ],
+ "translations": [
+  {
+   "verseNo": 1,
+   "source": "diyanet",
+   "text": "Kâf. Şerefli Kur'ân'a andolsun ki kâfirler, aralarından bir uyarıcının gelmesine şaştılar ve şöyle dediler: \"Bu tuhaf bir şeydir!\""
+  },
+  {
+   "verseNo": 1,
+   "source": "okuyan",
+   "text": "Kâf. Yüce Kur’an’a yemin olsun."
+  },
+  {
+   "verseNo": 1,
+   "source": "esed",
+   "text": "Kaf. Düşün bu yüce ve özlü Kuran´ı"
+  },
+  {
+   "verseNo": 2,
+   "source": "diyanet",
+   "text": "Kâf. Şerefli Kur'ân'a andolsun ki kâfirler, aralarından bir uyarıcının gelmesine şaştılar ve şöyle dediler: \"Bu tuhaf bir şeydir!\""
+  },
+  {
+   "verseNo": 2,
+   "source": "okuyan",
+   "text": "Doğrusu kendilerine içlerinden bir uyarıcının gelmesine şaştılar ve kâfirler şöyle dediler: “Bu, şaşılacak bir şeydir!"
+  },
+  {
+   "verseNo": 2,
+   "source": "esed",
+   "text": "Onlar içlerinden bir uyarıcının kendilerine gelmesine şaştılar; ve bu hakikat inkarcıları: \"Ne tuhaf bir şey bu!\" diyorlar"
+  },
+  {
+   "verseNo": 3,
+   "source": "diyanet",
+   "text": "\"Öldüğümüz ve toprak olduğumuz zaman mı (dirilecekmişiz)? Bu, akla uzak (imkansız) bir dönüştür!\""
+  },
+  {
+   "verseNo": 3,
+   "source": "okuyan",
+   "text": "Biz öldüğümüz ve toprak olduğumuz zaman (diriltilecek) mi(yiz)? Bu, (akla) uzak bir dönüştür!”"
+  },
+  {
+   "verseNo": 3,
+   "source": "esed",
+   "text": "Neden (ve nasıl olur da) biz öldükten ve toz toprak haline geldikten sonra (yeniden diriliriz)? Bu, gerçekleşmesi mümkün ve muhtemel olmayan bir dönüştür"
+  },
+  {
+   "verseNo": 4,
+   "source": "diyanet",
+   "text": "Şüphesiz biz, toprağın; onlardan neleri eksilttiğini bilmekteyiz. Yanımızda (o bilgileri) koruyan bir kitap vardır."
+  },
+  {
+   "verseNo": 4,
+   "source": "okuyan",
+   "text": "Biz toprağın onlardan neleri eksiltmekte olduğunu elbette bilmekteyiz. Katımızda (o bilgileri) koruyan bir kitap vardır."
+  },
+  {
+   "verseNo": 4,
+   "source": "esed",
+   "text": "Biz toprağın onların bedenlerini nasıl çürütüp yok ettiğini iyi biliriz, çünkü katımızda şaşmaz bir sicil vardır"
+  },
+  {
+   "verseNo": 5,
+   "source": "diyanet",
+   "text": "Hatta gerçek kendilerine gelince onu yalanladılar. Artık onlar kararsız bir haldedirler."
+  },
+  {
+   "verseNo": 5,
+   "source": "okuyan",
+   "text": "Aksine onlar, kendilerine geldiğinde gerçeği yalanladılar. (Şimdi) onlar derin bir perişanlık içindedir."
+  },
+  {
+   "verseNo": 5,
+   "source": "esed",
+   "text": "Buna rağmen onlar, (yeniden dirilmeyi inkar edenler,) ne zaman kendilerine tebliğ edildiyse hakikati yalanladılar; ve şimdi bir şaşkınlık içindeler"
+  },
+  {
+   "verseNo": 6,
+   "source": "diyanet",
+   "text": "Üstlerindeki göğe bakmazlar mı? Onu nasıl bina ettik, nasıl donattık! Onda hiçbir düzensizlik ve eksiklik yoktur."
+  },
+  {
+   "verseNo": 6,
+   "source": "okuyan",
+   "text": "Üstlerindeki göğe bakmadılar mı hiç; onu nasıl bina etmiş ve süslemişiz! Onda hiçbir eksik yoktur."
+  },
+  {
+   "verseNo": 6,
+   "source": "esed",
+   "text": "Onlar tepelerindeki gökyüzüne hiç bakmıyorlar mı? Onu nasıl inşa ettik, güzelleştirdik ve nasıl bütün kusurlardan, eksikliklerden arındırdık"
+  },
+  {
+   "verseNo": 7,
+   "source": "diyanet",
+   "text": "Yeryüzünü de yaydık ve orada sabit dağlar yerleştirdik. Orada her türden iç açıcı çift bitkiler bitirdik."
+  },
+  {
+   "verseNo": 7,
+   "source": "okuyan",
+   "text": "Yeri de genişlettik ve içine ağırlıklar yerleştirdik. Orada her tür güzel çiftten (bitkiler) yetiştirdik."
+  },
+  {
+   "verseNo": 7,
+   "source": "esed",
+   "text": "Ve yeryüzü ki; Biz onu genişletip yaydık, üzerine sağlam dağlar yerleştirdik ve üstünde her cins güzel bitki yeşerttik"
+  },
+  {
+   "verseNo": 8,
+   "source": "diyanet",
+   "text": "Bütün bunlar, içtenlikle Allah'a yönelen her kulun gönül gözünü açmak ve ona öğüt ve ibret vermek içindir."
+  },
+  {
+   "verseNo": 8,
+   "source": "okuyan",
+   "text": "(Bütün bunlar, Allah’a) yönelen her kulun öngörülü olması ve (gerçeği) hatırlaması içindir."
+  },
+  {
+   "verseNo": 8,
+   "source": "esed",
+   "text": "isteyerek Allah´a yönelen her insana bir basiret ve uyarı vesilesi olarak"
+  },
+  {
+   "verseNo": 9,
+   "source": "diyanet",
+   "text": "Gökten de bereketli bir su indirip onunla kullar için rızık olarak bahçeler ve biçilecek taneler (ekinler), birbirine girmiş kat kat tomurcukları olan yüksek hurma ağaçları bitirdik ve böylece onunla ölü bir beldeye hayat verdik. İşte (dirilip kabirlerden) çıkış da böyledir."
+  },
+  {
+   "verseNo": 9,
+   "source": "okuyan",
+   "text": "Gökten bereketli bir su indirdik de onunla, bahçeler ve biçilecek taneler yetiştirdik."
+  },
+  {
+   "verseNo": 9,
+   "source": "esed",
+   "text": "Biz gökten bereketli bir su indiririz ve onunla bahçelerin yeşerip büyümesini sağlarız; ve ekin tarlalarının"
+  },
+  {
+   "verseNo": 10,
+   "source": "diyanet",
+   "text": "Gökten de bereketli bir su indirip onunla kullar için rızık olarak bahçeler ve biçilecek taneler (ekinler), birbirine girmiş kat kat tomurcukları olan yüksek hurma ağaçları bitirdik ve böylece onunla ölü bir beldeye hayat verdik. İşte (dirilip kabirlerden) çıkış da böyledir."
+  },
+  {
+   "verseNo": 10,
+   "source": "okuyan",
+   "text": "10-11 . Kullara rızık olması için tomurcukları üst üste uzun hurma ağaçları (yetiştirdik). Onunla (suyla) ölü bir şehri (toprağı) canlandırdık. İşte (mahşerdeki) çıkış da böyledir."
+  },
+  {
+   "verseNo": 10,
+   "source": "esed",
+   "text": "ve salkım salkım meyveleriyle uzun hurma ağaçlarının"
+  },
+  {
+   "verseNo": 11,
+   "source": "diyanet",
+   "text": "Gökten de bereketli bir su indirip onunla kullar için rızık olarak bahçeler ve biçilecek taneler (ekinler), birbirine girmiş kat kat tomurcukları olan yüksek hurma ağaçları bitirdik ve böylece onunla ölü bir beldeye hayat verdik. İşte (dirilip kabirlerden) çıkış da böyledir."
+  },
+  {
+   "verseNo": 11,
+   "source": "okuyan",
+   "text": "10-11 . Kullara rızık olması için tomurcukları üst üste uzun hurma ağaçları (yetiştirdik). Onunla (suyla) ölü bir şehri (toprağı) canlandırdık. İşte (mahşerdeki) çıkış da böyledir."
+  },
+  {
+   "verseNo": 11,
+   "source": "esed",
+   "text": "insanlara tahsis edilmiş rızk olarak; ve bun(lar)la ölü toprağa hayat veririz; işte (insanın) ölümden (sonra) yeniden vücuda gelmesi de böyle (olacak)tır"
+  },
+  {
+   "verseNo": 12,
+   "source": "diyanet",
+   "text": "Onlardan önce Nûh kavmi, Res halkı ve Semûd kavmi, Âd ve Firavun, Lût'un kardeşleri, Eykeliler, Tübba'ın kavmi de yalanlamıştı. Bütün bunlar (kendilerine gönderilen) peygamberleri yalanladılar, böylece kendilerini uyardığım şey gerçekleşti."
+  },
+  {
+   "verseNo": 12,
+   "source": "okuyan",
+   "text": "12-14 . Onlardan önce Nuh kavmi, Ress halkı, Semûd ve Âd (kavmi), Firavun, Lut’un kardeşleri, Eyke halkı ve Tübba‘ kavmi de yalanlamıştı. Hepsi elçileri yalanlamıştı. Böylece (azap) tehdidim gerçekleşmişti."
+  },
+  {
+   "verseNo": 12,
+   "source": "esed",
+   "text": "Bu (şimdi yeniden dirilmeyi inkar ede)nlerden önce Nuh´un kavmi de bu hakikati yalanladı ve Ress ve Semud halkı da"
+  },
+  {
+   "verseNo": 13,
+   "source": "diyanet",
+   "text": "Onlardan önce Nûh kavmi, Res halkı ve Semûd kavmi, Âd ve Firavun, Lût'un kardeşleri, Eykeliler, Tübba'ın kavmi de yalanlamıştı. Bütün bunlar (kendilerine gönderilen) peygamberleri yalanladılar, böylece kendilerini uyardığım şey gerçekleşti."
+  },
+  {
+   "verseNo": 13,
+   "source": "okuyan",
+   "text": "12-14 . Onlardan önce Nuh kavmi, Ress halkı, Semûd ve Âd (kavmi), Firavun, Lut’un kardeşleri, Eyke halkı ve Tübba‘ kavmi de yalanlamıştı. Hepsi elçileri yalanlamıştı. Böylece (azap) tehdidim gerçekleşmişti."
+  },
+  {
+   "verseNo": 13,
+   "source": "esed",
+   "text": "´Ad, Firavun ve Lut´un kardeşleri"
+  },
+  {
+   "verseNo": 14,
+   "source": "diyanet",
+   "text": "Onlardan önce Nûh kavmi, Res halkı ve Semûd kavmi, Âd ve Firavun, Lût'un kardeşleri, Eykeliler, Tübba'ın kavmi de yalanlamıştı. Bütün bunlar (kendilerine gönderilen) peygamberleri yalanladılar, böylece kendilerini uyardığım şey gerçekleşti."
+  },
+  {
+   "verseNo": 14,
+   "source": "okuyan",
+   "text": "12-14 . Onlardan önce Nuh kavmi, Ress halkı, Semûd ve Âd (kavmi), Firavun, Lut’un kardeşleri, Eyke halkı ve Tübba‘ kavmi de yalanlamıştı. Hepsi elçileri yalanlamıştı. Böylece (azap) tehdidim gerçekleşmişti."
+  },
+  {
+   "verseNo": 14,
+   "source": "esed",
+   "text": "ve (Medyen´in) yemyeşil vadilerinin sakinleri ve Tubbe´ halkı. Onların hepsi elçileri yalanladılar; ve bunun üzerine (onları) uyardığım şey başlarına geldi"
+  },
+  {
+   "verseNo": 15,
+   "source": "diyanet",
+   "text": "İlk yaratmada acizlik mi gösterdik ki (yeniden yaratamayalım)? Doğrusu onlar, yeniden yaratılış konusunda şüphe içindedirler."
+  },
+  {
+   "verseNo": 15,
+   "source": "okuyan",
+   "text": "İlk yaratmada acizlik mi göstermişiz! Aksine onlar yeni bir yaratma hakkında şüphe içindedir."
+  },
+  {
+   "verseNo": 15,
+   "source": "esed",
+   "text": "O halde, Biz(im) yoktan var etme ile yorgun düş(tüğümüz nasıl düşün)ülebilir? Hayır, ama bazı insanlar yeni bir yaratma(nın mümkün olduğun)dan (hala) şüphe duymaktalar"
+  },
+  {
+   "verseNo": 16,
+   "source": "diyanet",
+   "text": "Andolsun, insanı biz yarattık ve nefsinin ona verdiği vesveseyi de biz biliriz. Çünkü biz ona şah damarından daha yakınız."
+  },
+  {
+   "verseNo": 16,
+   "source": "okuyan",
+   "text": "Yemin olsun ki insanı biz yarattık. Nefsinin ona neler fısıldadığını bilmekteyiz. Biz ona şah damarından daha yakınız."
+  },
+  {
+   "verseNo": 16,
+   "source": "esed",
+   "text": "Gerçek şu ki, insanı yaratan Biziz ve onun iç benliğinin ona ne fısıldadığını Biz biliriz çünkü Biz ona şah damarından daha yakınız"
+  },
+  {
+   "verseNo": 17,
+   "source": "diyanet",
+   "text": "Üstelik, biri insanın sağ tarafında, biri sol tarafında oturmuş iki alıcı melek de (onun yaptıklarını) alıp kaydetmektedir."
+  },
+  {
+   "verseNo": 17,
+   "source": "okuyan",
+   "text": "Çünkü sağdan ve soldan iki (melek), kaydedici olarak (insanı) gözetleyicidir."
+  },
+  {
+   "verseNo": 17,
+   "source": "esed",
+   "text": "(Ve böylece,) ne zaman (tabiatında mevcut) iki eğilim, sağdan soldan çatışarak karşı karşıya gelseler"
+  },
+  {
+   "verseNo": 18,
+   "source": "diyanet",
+   "text": "İnsan hiçbir söz söylemez ki onun yanında (yaptıklarını) gözetleyen (ve kaydeden) hazır bir melek bulunmasın."
+  },
+  {
+   "verseNo": 18,
+   "source": "okuyan",
+   "text": "Kişinin her bir sözünün (davranışının) yanında hazır bir gözetleyici, bir kaydedici mutlaka vardır."
+  },
+  {
+   "verseNo": 18,
+   "source": "esed",
+   "text": "insanın söylediği her şeyde yanıbaşında mutlaka bir gözetleyici bulunur"
+  },
+  {
+   "verseNo": 19,
+   "source": "diyanet",
+   "text": "Ölüm sarhoşluğu bir hakikat olarak insana gelir de ona, \"İşte bu, senin öteden beri kaçıp durduğun şeydir\" denir."
+  },
+  {
+   "verseNo": 19,
+   "source": "okuyan",
+   "text": "Ölüm sarhoşluğu gerçeği getirir; (insana) “İşte bu, senin kaçtığın şeydir!” (denir)."
+  },
+  {
+   "verseNo": 19,
+   "source": "esed",
+   "text": "Ve (sonra,) ölüm kabusu, kendisiyle beraber (asıl) gerçeği de ortaya koyacaktır -işte bu, (ey insan,) senin her zaman kaçtığın şeydir"
+  },
+  {
+   "verseNo": 20,
+   "source": "diyanet",
+   "text": "(İnsanlar öldükten sonra tekrar dirilmeleri için) Sûr'a üfürülecek. İşte bu, tehdidin gerçekleşeceği gündür."
+  },
+  {
+   "verseNo": 20,
+   "source": "okuyan",
+   "text": "Sûr’a üflenecektir. İşte bu, vadedilen gündür."
+  },
+  {
+   "verseNo": 20,
+   "source": "esed",
+   "text": "ve (yeniden diriliş) suru, (sonunda) üflenecektir. İşte o, bir uyarının gerçek olacağı Gün´dür"
+  },
+  {
+   "verseNo": 21,
+   "source": "diyanet",
+   "text": "Herkes beraberinde bir sevk edici, bir de şahitlik edici (melek) ile gelir."
+  },
+  {
+   "verseNo": 21,
+   "source": "okuyan",
+   "text": "Herkes, yanında bir sevk edici (melek), bir de şahitle birlikte gelecektir."
+  },
+  {
+   "verseNo": 21,
+   "source": "esed",
+   "text": "Her insan, (kendi geçmiş) iç dürtüleri ve vicdanı ile ortaya çıkacak"
+  },
+  {
+   "verseNo": 22,
+   "source": "diyanet",
+   "text": "(Ona) \"Andolsun ki sen bundan gaflette idin. Şimdi gaflet perdeni açtık; artık bugün gözün keskindir\" (denir.)"
+  },
+  {
+   "verseNo": 22,
+   "source": "okuyan",
+   "text": "(Sorgulanan kişiye) “Şüphesiz ki sen bundan gafletteydin; (kıyamet günü) biz senin gaflet perdeni kaldırdık. Bugün artık gözün keskindir!” (denecektir)."
+  },
+  {
+   "verseNo": 22,
+   "source": "esed",
+   "text": "(ve ona,) \"Sen,\" (denilecek,) \"bu (Hesap Günü)nü umursamıyordun, ama şimdi Biz senin (gözündeki) perdeni kaldırdık, bakışın bugün artık daha keskindir"
+  },
+  {
+   "verseNo": 23,
+   "source": "diyanet",
+   "text": "Beraberindeki (melek) şöyle der: \"İşte bu yanımdaki hazır.\""
+  },
+  {
+   "verseNo": 23,
+   "source": "okuyan",
+   "text": "Yakınındaki (sevk edici melek) “İşte yanımdaki hazır!” diyecektir."
+  },
+  {
+   "verseNo": 23,
+   "source": "esed",
+   "text": "Ve onun (kişiliğinin) bir parçası: \"Her zaman benimle olan işte budur!\" diyecek"
+  },
+  {
+   "verseNo": 24,
+   "source": "diyanet",
+   "text": "(Allah şöyle der:) \"Atın cehenneme, (hakka karşı) inatçı, hayrı hep engelleyen, haddi aşan şüpheci her kâfiri!\""
+  },
+  {
+   "verseNo": 24,
+   "source": "okuyan",
+   "text": "24-26 . (Görevlilerine şöyle denecektir:) “Siz ikiniz! Çok inatçı ısrarcı her kâfiri, iyiliğe bütün gücüyle engel olanı, Allah ile birlikte başka ilah edinen şüpheci saldırganı cehenneme atın; onu şiddetli azaba atın!”"
+  },
+  {
+   "verseNo": 24,
+   "source": "esed",
+   "text": "(Bunun üzerine Allah:) \"Atın, atın cehenneme bütün (bu tür) inatçı hakikat düşmanlarını!\" diye emredecek"
+  },
+  {
+   "verseNo": 25,
+   "source": "diyanet",
+   "text": "(Allah şöyle der:) \"Atın cehenneme, (hakka karşı) inatçı, hayrı hep engelleyen, haddi aşan şüpheci her kâfiri!\""
+  },
+  {
+   "verseNo": 25,
+   "source": "okuyan",
+   "text": "24-26 . (Görevlilerine şöyle denecektir:) “Siz ikiniz! Çok inatçı ısrarcı her kâfiri, iyiliğe bütün gücüyle engel olanı, Allah ile birlikte başka ilah edinen şüpheci saldırganı cehenneme atın; onu şiddetli azaba atın!”"
+  },
+  {
+   "verseNo": 25,
+   "source": "esed",
+   "text": "Bu (her) hayra engel olanları, günahkar saldırganları (ve insanlar arasında) güvensizlik ve şüphe yayanları"
+  },
+  {
+   "verseNo": 26,
+   "source": "diyanet",
+   "text": "\"Allah ile beraber, başka bir ilah edinen o kimseyi atın şiddetli azabın içine!\""
+  },
+  {
+   "verseNo": 26,
+   "source": "okuyan",
+   "text": "24-26 . (Görevlilerine şöyle denecektir:) “Siz ikiniz! Çok inatçı ısrarcı her kâfiri, iyiliğe bütün gücüyle engel olanı, Allah ile birlikte başka ilah edinen şüpheci saldırganı cehenneme atın; onu şiddetli azaba atın!”"
+  },
+  {
+   "verseNo": 26,
+   "source": "esed",
+   "text": "Allah´ın yanısıra başka ilahlar edinenleri. O halde atın bunları şiddetli azabın içine"
+  },
+  {
+   "verseNo": 27,
+   "source": "diyanet",
+   "text": "Arkadaşı (olan şeytan) der ki: \"Ey Rabbimiz! Onu ben azdırmadım, fakat kendisi derin bir sapıklık içinde idi.\""
+  },
+  {
+   "verseNo": 27,
+   "source": "okuyan",
+   "text": "Yakınındaki (şeytan): “Rabbimiz! Onu ben azdırmadım. Fakat kendisi uzak/derin bir sapkınlık içindeydi.” diyecektir."
+  },
+  {
+   "verseNo": 27,
+   "source": "esed",
+   "text": "İnsanın öteki kişiliği: \"Ya Rabbi!\" diyecek, \"Onun aklını, bilincini kötülüğe bulaştıran ben değilim; (hayır,) ama o (kendi yüzünden) sapıklığa düştü"
+  },
+  {
+   "verseNo": 28,
+   "source": "diyanet",
+   "text": "Allah şöyle der: \"Benim huzurumda çekişmeyin. Çünkü ben bu (konudaki) uyarıyı size önceden yaptım.\""
+  },
+  {
+   "verseNo": 28,
+   "source": "okuyan",
+   "text": "(Allah) şöyle diyecektir: “Huzurumda çekişmeyin! (Ben) size elbette uyarı göndermiştim!"
+  },
+  {
+   "verseNo": 28,
+   "source": "esed",
+   "text": "(Ve) Allah: \"Benim önümde çekişmeyin (ey günahkarlar!)\" diyecek, \"Çünkü Ben sizi (bu Hesap Günü´ne karşı) uyarmıştım"
+  },
+  {
+   "verseNo": 29,
+   "source": "diyanet",
+   "text": "\"Benim katımda söz değiştirilmez ve ben kullara zulmedici değilim.\""
+  },
+  {
+   "verseNo": 29,
+   "source": "okuyan",
+   "text": "Benim huzurumda söz değiştirilmez; ben kullar(ım)a asla haksızlık edici değilim.”"
+  },
+  {
+   "verseNo": 29,
+   "source": "esed",
+   "text": "Benim verdiğim hüküm değişmeyecek; ve Ben kullarıma asla zulmetmem"
+  },
+  {
+   "verseNo": 30,
+   "source": "diyanet",
+   "text": "O gün Cehenneme, \"Doldun mu?\" deriz. O da, \"daha var mı?\" der."
+  },
+  {
+   "verseNo": 30,
+   "source": "okuyan",
+   "text": "O gün cehenneme “Doldun mu?” diyeceğiz. O da “Daha var mı?” diyecektir."
+  },
+  {
+   "verseNo": 30,
+   "source": "esed",
+   "text": "O Gün, cehenneme: \"Doldun mu?\" diye soracağız; o, \"(Hayır)\" diyecek, \"başka yok mu (bana göndereceğin)"
+  },
+  {
+   "verseNo": 31,
+   "source": "diyanet",
+   "text": "Cennet Allah'a karşı gelmekten sakınanlara uzak olmayacak şekilde yaklaştırılacak."
+  },
+  {
+   "verseNo": 31,
+   "source": "okuyan",
+   "text": "(Kendilerinden) uzakta olmayacak şekilde cennet de muttakîlere (duyarlı olanlara) yaklaştırılacaktır."
+  },
+  {
+   "verseNo": 31,
+   "source": "esed",
+   "text": "(O Gün) cennet, Allah´a karşı sorumluluk bilinci duyanların görüş sahasına getirilecek ve hiç uzaklaştırılmayacaktır; (ve onlara)"
+  },
+  {
+   "verseNo": 32,
+   "source": "diyanet",
+   "text": "Onlara söyle denir: \"Iste bu, size (dünyada) vaad edilmekte olan seydir. O, her tövbe eden, onun emrini gözeten için, görmedigi halde sirf saygidan dolayi Rahmân'dan korkan ve O'na yönelmis bir kalp ile gelen kimseler içindir.\""
+  },
+  {
+   "verseNo": 32,
+   "source": "okuyan",
+   "text": "İşte bu (cennet) sizin için, yani daima (Allah’a) yönelen (ve emirlerini) koruyup (gözeten) herkes içindir."
+  },
+  {
+   "verseNo": 32,
+   "source": "esed",
+   "text": "Size vaad edilen (yer) budur!\" (denilecek,) -\"Allah´a yönelen ve O´nu her zaman aklında tutanlara (vaad edilen)"
+  },
+  {
+   "verseNo": 33,
+   "source": "diyanet",
+   "text": "Onlara söyle denir: \"Iste bu, size (dünyada) vaad edilmekte olan seydir. O, her tövbe eden, onun emrini gözeten için, görmedigi halde sirf saygidan dolayi Rahmân'dan korkan ve O'na yönelmis bir kalp ile gelen kimseler içindir.\""
+  },
+  {
+   "verseNo": 33,
+   "source": "okuyan",
+   "text": "(Bunlar) yalnızken Rahmân’a saygı gösteren ve (O’na) yönelmiş bir kalp getirenlerdir."
+  },
+  {
+   "verseNo": 33,
+   "source": "esed",
+   "text": "insan kavrayışının dışında olduğu halde Rahman´ın ürpertisini duyan ve pişmanlık dolu bir kalp ile (O´na) gelmiş olan (herkese)"
+  },
+  {
+   "verseNo": 34,
+   "source": "diyanet",
+   "text": "\"Oraya esenlikle girin. İşte bu, ebedilik günüdür.\""
+  },
+  {
+   "verseNo": 34,
+   "source": "okuyan",
+   "text": "Oraya esenlikle girin! İşte bu, ebedî (hayat) günüdür."
+  },
+  {
+   "verseNo": 34,
+   "source": "esed",
+   "text": "Bu (cennete) huzur içinde girin; bu, ebedi hayatın başladığı Gündür"
+  },
+  {
+   "verseNo": 35,
+   "source": "diyanet",
+   "text": "Orada kendileri için diledikleri her şey vardır. Katımızda daha fazlası da vardır."
+  },
+  {
+   "verseNo": 35,
+   "source": "okuyan",
+   "text": "Orada kendileri için diledikleri her şey vardır. Katımızda fazlası da vardır."
+  },
+  {
+   "verseNo": 35,
+   "source": "esed",
+   "text": "Onlar orada arzu ettikleri her şeye sahip olacaklar, ama (bilsinler ki) katımızda daha fazlası da var"
+  },
+  {
+   "verseNo": 36,
+   "source": "diyanet",
+   "text": "Biz onlardan önce, kendilerinden daha zorlu nice nesilleri helak ettik de ülke ülke dolaşıp kaçacak delik aradılar. Kaçacak bir yer mi var?"
+  },
+  {
+   "verseNo": 36,
+   "source": "okuyan",
+   "text": "Biz onlardan önce kendilerinden çok daha güçlü olan ve (ölümden kurtulmak için) “Sığınılacak bir yer var mı?” diye diyar diyar dolaşan nice nesilleri yok etmişizdir."
+  },
+  {
+   "verseNo": 36,
+   "source": "esed",
+   "text": "Bu (gün hakikati inkar ede)nlerden önce -onlardan çok daha güçlü olan- kaç nesli yok ettik ama (her ne zaman azabımız başlarına geldiyse) yeryüzünde gezginler gibi dolaşıp sığınacak bir yer aradılar"
+  },
+  {
+   "verseNo": 37,
+   "source": "diyanet",
+   "text": "Şüphesiz bunda, aklı olan yahut hazır bulunup kulak veren kimseler için bir öğüt vardır."
+  },
+  {
+   "verseNo": 37,
+   "source": "okuyan",
+   "text": "Şüphesiz ki bunda (akıl eden) bir kalbi olan, yanigörerek ona kulak verenler için gerçeği hatırlatan (dersler) vardır."
+  },
+  {
+   "verseNo": 37,
+   "source": "esed",
+   "text": "Bunda şüphesiz kalpleri açık olanlar, (yani) uyanık bir zihinle kulak verenler için bir uyarı vardır"
+  },
+  {
+   "verseNo": 38,
+   "source": "diyanet",
+   "text": "Andolsun, gökleri, yeri ve ikisi arasında bulunanları altı günde (altı evrede) yarattık. Bize bir yorgunluk da dokunmadı."
+  },
+  {
+   "verseNo": 38,
+   "source": "okuyan",
+   "text": "Yemin olsun ki biz gökleri, yeri ve ikisi arasında bulunanları altı günde (dönemde) yarattık. Bize hiçbir yorgunluk da dokunmadı (ulaşmadı)."
+  },
+  {
+   "verseNo": 38,
+   "source": "esed",
+   "text": "ve Bizim gökleri ve yeri ve aralarındaki her şeyi altı devrede yarattığ(ımızı) ve bizi hiçbir yorgunluğun etkilemedi(ğini bilenler için)"
+  },
+  {
+   "verseNo": 39,
+   "source": "diyanet",
+   "text": "O halde onların söylediklerine sabret ve güneşin doğuşundan önce de, batışından önce de Rabbini hamd ederek tespih et."
+  },
+  {
+   "verseNo": 39,
+   "source": "okuyan",
+   "text": "39-40 . Onların dediklerine sabret! Güneşin doğuşundan önce de batışından önce de Rabbini hamd (övgü) ile tesbih et (yücelt)! Gecenin bir bölümünde ve secdelerin ardından da O’nu (Rabbini) tesbih et (yücelt)!"
+  },
+  {
+   "verseNo": 39,
+   "source": "esed",
+   "text": "O halde (ey müminler!) Onların söyleyebilecekleri her şeye karşı sabırlı olun ve güneşin doğmasından ve batmasından önce Rabbinizin sınırsız ihtişamını yüceltin ve hamd edin"
+  },
+  {
+   "verseNo": 40,
+   "source": "diyanet",
+   "text": "Gecenin bir kısmında ve secdelerin ardından da onu tespih et."
+  },
+  {
+   "verseNo": 40,
+   "source": "okuyan",
+   "text": "39-40 . Onların dediklerine sabret! Güneşin doğuşundan önce de batışından önce de Rabbini hamd (övgü) ile tesbih et (yücelt)! Gecenin bir bölümünde ve secdelerin ardından da O’nu (Rabbini) tesbih et (yücelt)!"
+  },
+  {
+   "verseNo": 40,
+   "source": "esed",
+   "text": "Geceleri ve her namazın sonunda O´nun şanını yüceltin"
+  },
+  {
+   "verseNo": 41,
+   "source": "diyanet",
+   "text": "(Ey Muhammed!) Çağırıcının yakın bir yerden sesleneceği gün, (o sese) kulak ver."
+  },
+  {
+   "verseNo": 41,
+   "source": "okuyan",
+   "text": "(Diriltilme için) seslenenin yakın bir yerden sesleneceği güne kulak ver(in)!"
+  },
+  {
+   "verseNo": 41,
+   "source": "esed",
+   "text": "Ve (ölüm) çağrısında bulunan Allah´ın (sizi) yakından çağıracağı o Güne (daima) kulak verin"
+  },
+  {
+   "verseNo": 42,
+   "source": "diyanet",
+   "text": "O gün insanlar hakka çağıran o korkunç sesi işiteceklerdir. İşte bu, (kabirlerden) çıkış günüdür."
+  },
+  {
+   "verseNo": 42,
+   "source": "okuyan",
+   "text": "O gün, (insanlar) o korkunç sesi gerçekten duyacaklardır. Bu, (mezarlardan) çıkış günüdür."
+  },
+  {
+   "verseNo": 42,
+   "source": "esed",
+   "text": "(ve kendi kendinize düşünün) bütün (insanoğlunun) nihai çağrıyı gerçekten duyacağı Gün(ü), (ölümden) hayata dönecekleri Günü"
+  },
+  {
+   "verseNo": 43,
+   "source": "diyanet",
+   "text": "Şüphesiz biz diriltir ve öldürürüz. Dönüş de ancak bizedir."
+  },
+  {
+   "verseNo": 43,
+   "source": "okuyan",
+   "text": "Şüphesiz ki dirilten de öldüren de biziz biz. Dönüş sadece bize olacaktır."
+  },
+  {
+   "verseNo": 43,
+   "source": "esed",
+   "text": "Gerçek şu ki, hayat veren ve ölümü getiren Biziz; her yol, Bizim katımızda menziline varır"
+  },
+  {
+   "verseNo": 44,
+   "source": "diyanet",
+   "text": "O gün yer, onların üzerinden süratle yarılıp açılır. Bu, (hesap için) bir toplamadır, bize göre kolaydır."
+  },
+  {
+   "verseNo": 44,
+   "source": "okuyan",
+   "text": "O gün yer, onlar nedeniyle (insanların diriltilmesi için) çabucak yarılacaktır. Bu, bizim için kolay bir toplamadır."
+  },
+  {
+   "verseNo": 44,
+   "source": "esed",
+   "text": "Onlar (Allah´ın hükmüne doğru hızla) koşarken yeryüzünün çepeçevre yarılıp parçalanacağı Gün, bu toplanma, Bizim için kolay olacaktır"
+  },
+  {
+   "verseNo": 45,
+   "source": "diyanet",
+   "text": "Biz onların ne dediklerini çok iyi biliyoruz. Sen, onlara karşı bir zorba değilsin. O halde sen, benim uyarımdan korkan kimselere Kur'an ile öğüt ver."
+  },
+  {
+   "verseNo": 45,
+   "source": "okuyan",
+   "text": "Biz onların söylediklerini çok iyi bileniz. Sen onların üzerinde asla zorba değilsin.Tehdidimden korkanlara (gerçeği) Kur’an’la hatırlat!"
+  },
+  {
+   "verseNo": 45,
+   "source": "esed",
+   "text": "Biz onların, (o yeniden dirilmeyi inkar edenlerin) ne söylediklerini iyi biliyoruz; ve sen onları hiçbir şekilde (inanmaya) zorlayamazsın. Ama sen yine de Benim uyarımdan korkabileceklere bu Kuran aracılığıyla hatırlatmada bulun"
+  }
+ ]
+}

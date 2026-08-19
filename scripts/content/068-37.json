@@ -1,0 +1,3563 @@
+{
+ "stationNo": 68,
+ "surahNo": 37,
+ "name": "Sâffât",
+ "nameArabic": "",
+ "nameMeaning": "",
+ "verseCount": 182,
+ "nuzulOrderOkuyan": 66,
+ "periodDiyanet": "Mekke",
+ "periodOkuyan": "Mekke",
+ "revelationTiming": "Mekke döneminin sonlarında, muhtemelen En'âm Suresi'nden sonra parça parça inmiştir.",
+ "stationTitle": "Saf Saf Dizilenler ve Tevhidin Zaferi",
+ "introduction": "Sâffât Suresi, adını ilk ayetinde geçen ve 'saf saf dizilenler' anlamına gelen 'es-Sâffât' kelimesinden alır. 182 ayetten oluşan bu uzun sure, Mekke döneminin sonlarına doğru, muhtemelen En'âm Suresi'nden sonra inmiştir. Surenin ana ekseni, Kur'an'ın en temel iki inanç esası olan tevhid (Allah'ın birliği) ve ahiret inancıdır. İnsan türünün ilk dönemlerinden itibaren başlayan hak-batıl mücadelesi, bu surede çarpıcı sahnelerle gözler önüne serilir.\n\nSurenin tematik yapısı beş ana bölümden oluşur. İlk bölümde (1-10. ayetler), kainatın düzeniyle görevli meleklere yemin edilerek evrenin yaratıcısının tekliği vurgulanır. İkinci bölümde (11-74. ayetler), ahiret hayatının gerçekliği, inkar edenlerin ahiretteki pişmanlıkları ve birbirlerini suçlamaları ile cennet ehlinin mutlu yaşantısı tasvir edilir.\n\nÜçüncü bölüm (75-148. ayetler), surenin en geniş kısmını oluşturur ve peygamber kıssalarına ayrılmıştır. Hz. Nuh, İbrahim, İsmail, İshak, Musa, Harun, İlyas, Lut ve Yunus peygamberlerin hayatlarından ibretlik kesitler sunulur. Özellikle Hz. İbrahim ve Hz. İlyas'ın tevhid mücadelesi detaylı bir şekilde işlenir.\n\nDördüncü bölümde (149-170. ayetler), Mekkeli müşriklerin melekleri Allah'ın kızları olarak görmeleri gibi batıl inançları eleştirilir ve bu tür iddiaların mantıksızlığı ortaya konur. Beşinci ve son bölümde ise (171-182. ayetler), Allah'ın elçilerinin ve inananların nihai zaferi müjdelenir, sure Allah'ı tesbih ve peygamberlere selam ile son bulur.\n\nSâffât Suresi, sadece geçmiş peygamberlerin hikayelerini anlatmakla kalmaz, aynı zamanda bugünün insanına da güçlü bir mesaj verir. Zorluklar karşısında direnmeyi, inanç uğruna fedakarlık yapmayı ve nihai adaletin mutlaka tecelli edeceğini hatırlatır.",
+ "occasionOfRevelation": "Sâffât Suresi, Mekke döneminin sonlarına doğru, İslam'ın tebliğ sürecinin zorlaştığı ve müşriklerin baskılarının arttığı bir evrede inmiştir. Bu dönemde Kureyşliler, Kur'an'ın etkisinin giderek yayıldığını görünce onu küçümsemeye, alay etmeye ve Hz. Peygamber'i sihirbazlık veya delilikle suçlamaya başlamışlardı.\n\nSurenin nüzul süreci, uzun surelerin genel karakteristiğine uygun olarak muhtemelen parça parça gerçekleşmiştir. Müşriklerin ahiret inancını reddetmeleri, melekleri Allah'ın kızları saymaları ve cinlerle Allah arasında bir soy bağı kurmaları gibi batıl inançları, surenin iniş sebeplerinin temelini oluşturur.\n\nSure, bir taraftan Hz. Peygamber'i ve müminleri geçmiş peygamberlerin mücadelelerinden örnekler vererek teselli ederken, diğer taraftan inkarcıları ahiret azabıyla uyarır. Nüzul dönemi itibarıyla, inananlara moral aşılayan ve hakikatin er ya da geç galip geleceğini müjdeleyen bir manifestodur.",
+ "occasionSources": "TDV İslâm Ansiklopedisi (Sâffât Suresi maddesi), Diyanet Kur'an Yolu Tefsiri, Prof. Dr. Mehmet Okuyan Tefsiri.",
+ "keyTerms": [
+  {
+   "term": "sâffât",
+   "arabic": "صَافَّات",
+   "verseRef": "37:1",
+   "meaning": "Saf saf dizilenler. Ayette melekleri, müminleri veya vahyin düzenli yapısını ifade eder."
+  },
+  {
+   "term": "zâcirât",
+   "arabic": "زَاجِرَات",
+   "verseRef": "37:2",
+   "meaning": "Engel olanlar, men edenler. Kötülükleri engelleyen ilahi güçleri veya mesajları belirtir."
+  },
+  {
+   "term": "tâliyât",
+   "arabic": "تَالِيَات",
+   "verseRef": "37:3",
+   "meaning": "Okuyanlar. Vahyi okuyan melekleri veya Kur'an ayetlerini ifade eder."
+  },
+  {
+   "term": "zikr",
+   "arabic": "ذِكْر",
+   "verseRef": "37:3",
+   "meaning": "Hatırlatma, öğüt, vahiy. Kur'an'ın insanlara gerçeği hatırlatan yönünü vurgular."
+  },
+  {
+   "term": "şihâb",
+   "arabic": "شِهَاب",
+   "verseRef": "37:10",
+   "meaning": "Delici alev, ateş parçası. Şeytanların ilahi bilgiyi çalmalarını engelleyen gücü simgeler."
+  },
+  {
+   "term": "yaktîn",
+   "arabic": "يَقْطِين",
+   "verseRef": "37:146",
+   "meaning": "Geniş yapraklı bitki, kabak. Hz. Yunus'un kurtuluşundan sonra sığındığı ilahi rahmeti temsil eder."
+  },
+  {
+   "term": "selâm",
+   "arabic": "سَلَام",
+   "verseRef": "37:181",
+   "meaning": "Barış, esenlik. Surenin sonunda tüm peygamberlere yöneltilen ilahi lütuf."
+  },
+  {
+   "term": "hamd",
+   "arabic": "حَمْد",
+   "verseRef": "37:182",
+   "meaning": "Övgü, şükür. Alemlerin Rabbine duyulan minnettarlığın ifadesi."
+  }
+ ],
+ "themes": [
+  {
+   "label": "Tevhidin Sarsılmazlığı",
+   "body": "Evrenin düzeni ve yaratılışın mükemmelliği, tek bir Yaratıcı'nın varlığını zorunlu kılar. İnsan, hayatındaki çokluk ve karmaşa içinde bu birliği bulmalıdır."
+  },
+  {
+   "label": "Ahiret Sorumluluğu",
+   "body": "Dünyadaki eylemlerin ahirette mutlak bir karşılığı vardır. İnsan, eylemlerinin sonuçlarıyla yüzleşeceğinin bilinciyle yaşamalıdır."
+  },
+  {
+   "label": "Hak-Batıl Mücadelesi",
+   "body": "Tarih boyunca hakikati savunanlar zorluklarla karşılaşmıştır. Ancak ilahi adalet, hakikatin nihai zaferini garanti eder."
+  },
+  {
+   "label": "Teslimiyet ve Fedakarlık",
+   "body": "Hz. İbrahim ve İsmail'in kıssasında görüldüğü gibi, gerçek inanç, en değerli varlıklardan bile vazgeçebilmeyi gerektiren derin bir teslimiyettir."
+  }
+ ],
+ "questions": [
+  "Hayatındaki 'putlar' neler? İnancın uğruna, Hz. İbrahim gibi en sevdiğinden vazgeçebilecek bir teslimiyete sahip misin?",
+  "Eylemlerinin ahiretteki sonuçlarıyla yüzleşmeye hazır mısın, yoksa dünyevi mazeretlerin arkasına mı saklanıyorsun?"
+ ],
+ "contemporaryMeaning": "Bu sure, insanın hayatındaki öncelik sıralaması ve adanmışlık krizini merkeze alır. Saf saf dizilmek, bir amaca yönelmek ve o uğurda hizalanmak demektir. Ancak metin, insanın neye hizalandığını ve ne uğruna fedakarlık yaptığını sorgular. İbrahim ve İsmail kıssası üzerinden, insanın en çok sevdiği ve güvendiği şeylerin, aslında onu esir alan putlara dönüşme potansiyeli taşıdığı gösterilir. Teslimiyet, bir vazgeçiş değil, sahte bağlılıklardan özgürleşme eylemidir.\n\nBugünün diliyle: Kariyer basamakları, statü sembolleri, sosyal medya onayları veya ekonomik güvence arayışı uğruna feda edilen zaman, enerji ve değerler, modern insanın hizalandığı yeni saflardır. Birey, \"geleceğimi garanti altına almalıyım\" diyerek en sevdiklerini, sağlığını veya ilkelerini kurban ederken, aslında kendi inşa ettiği sistemin kölesine dönüşür. Sure, bu noktada insanın neye yatırım yaptığını ve neyi feda ettiğini yüzüne vurur.\n\nBir yanda algoritmaların, tüketim alışkanlıklarının ve toplumsal beklentilerin görünmez saflarında dizilen kalabalıklar; diğer yanda ise hakikatin bedelini ödemeyi göze alanların sarsılmaz duruşu vardır. Metin, insanın kendi elleriyle yarattığı konfor alanlarının ve sahte güvenlik ağlarının, nihai hesaplaşma anında hiçbir anlam ifade etmeyeceğini hatırlatır. Asıl mesele, insanın hayatını hangi değerler etrafında saf saf dizdiğidir.",
+ "scholarlyNotes": [
+  {
+   "kind": "nuans",
+   "body": "Surenin başındaki 'sâffât', 'zâcirât' ve 'tâliyât' kelimelerinin melekleri, müminleri veya Kur'an ayetlerini ifade ettiği konusunda tefsirlerde farklı yorumlar bulunmaktadır.",
+   "label": "Surenin Adı ve Yeminler"
+  },
+  {
+   "kind": "rivayet",
+   "body": "Übey b. Kâ'b'dan Hz. Peygamber'e nisbet edilerek rivayet edilen, 'Sâffât sûresini okuyan kimseye bütün cin ve şeytanların sayısının on katı sevap verilir...' şeklindeki sözün asılsız (mevzû) olduğu kaynaklarda belirtilmiştir.",
+   "label": "Surenin Fazileti Hakkında Uydurma Rivayet"
+  }
+ ],
+ "verses": [
+  {
+   "verseNo": 1,
+   "textArabic": "بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ وَٱلصَّٰٓفَّٰتِ صَفًّۭا"
+  },
+  {
+   "verseNo": 2,
+   "textArabic": "فَٱلزَّٰجِرَٰتِ زَجْرًۭا"
+  },
+  {
+   "verseNo": 3,
+   "textArabic": "فَٱلتَّٰلِيَٰتِ ذِكْرًا"
+  },
+  {
+   "verseNo": 4,
+   "textArabic": "إِنَّ إِلَٰهَكُمْ لَوَٰحِدٌۭ"
+  },
+  {
+   "verseNo": 5,
+   "textArabic": "رَّبُّ ٱلسَّمَٰوَٰتِ وَٱلْأَرْضِ وَمَا بَيْنَهُمَا وَرَبُّ ٱلْمَشَٰرِقِ"
+  },
+  {
+   "verseNo": 6,
+   "textArabic": "إِنَّا زَيَّنَّا ٱلسَّمَآءَ ٱلدُّنْيَا بِزِينَةٍ ٱلْكَوَاكِبِ"
+  },
+  {
+   "verseNo": 7,
+   "textArabic": "وَحِفْظًۭا مِّن كُلِّ شَيْطَٰنٍۢ مَّارِدٍۢ"
+  },
+  {
+   "verseNo": 8,
+   "textArabic": "لَّا يَسَّمَّعُونَ إِلَى ٱلْمَلَإِ ٱلْأَعْلَىٰ وَيُقْذَفُونَ مِن كُلِّ جَانِبٍۢ"
+  },
+  {
+   "verseNo": 9,
+   "textArabic": "دُحُورًۭا ۖ وَلَهُمْ عَذَابٌۭ وَاصِبٌ"
+  },
+  {
+   "verseNo": 10,
+   "textArabic": "إِلَّا مَنْ خَطِفَ ٱلْخَطْفَةَ فَأَتْبَعَهُۥ شِهَابٌۭ ثَاقِبٌۭ"
+  },
+  {
+   "verseNo": 11,
+   "textArabic": "فَٱسْتَفْتِهِمْ أَهُمْ أَشَدُّ خَلْقًا أَم مَّنْ خَلَقْنَآ ۚ إِنَّا خَلَقْنَٰهُم مِّن طِينٍۢ لَّازِبٍۭ"
+  },
+  {
+   "verseNo": 12,
+   "textArabic": "بَلْ عَجِبْتَ وَيَسْخَرُونَ"
+  },
+  {
+   "verseNo": 13,
+   "textArabic": "وَإِذَا ذُكِّرُوا۟ لَا يَذْكُرُونَ"
+  },
+  {
+   "verseNo": 14,
+   "textArabic": "وَإِذَا رَأَوْا۟ ءَايَةًۭ يَسْتَسْخِرُونَ"
+  },
+  {
+   "verseNo": 15,
+   "textArabic": "وَقَالُوٓا۟ إِنْ هَٰذَآ إِلَّا سِحْرٌۭ مُّبِينٌ"
+  },
+  {
+   "verseNo": 16,
+   "textArabic": "أَءِذَا مِتْنَا وَكُنَّا تُرَابًۭا وَعِظَٰمًا أَءِنَّا لَمَبْعُوثُونَ"
+  },
+  {
+   "verseNo": 17,
+   "textArabic": "أَوَءَابَآؤُنَا ٱلْأَوَّلُونَ"
+  },
+  {
+   "verseNo": 18,
+   "textArabic": "قُلْ نَعَمْ وَأَنتُمْ دَٰخِرُونَ"
+  },
+  {
+   "verseNo": 19,
+   "textArabic": "فَإِنَّمَا هِىَ زَجْرَةٌۭ وَٰحِدَةٌۭ فَإِذَا هُمْ يَنظُرُونَ"
+  },
+  {
+   "verseNo": 20,
+   "textArabic": "وَقَالُوا۟ يَٰوَيْلَنَا هَٰذَا يَوْمُ ٱلدِّينِ"
+  },
+  {
+   "verseNo": 21,
+   "textArabic": "هَٰذَا يَوْمُ ٱلْفَصْلِ ٱلَّذِى كُنتُم بِهِۦ تُكَذِّبُونَ"
+  },
+  {
+   "verseNo": 22,
+   "textArabic": "۞ ٱحْشُرُوا۟ ٱلَّذِينَ ظَلَمُوا۟ وَأَزْوَٰجَهُمْ وَمَا كَانُوا۟ يَعْبُدُونَ"
+  },
+  {
+   "verseNo": 23,
+   "textArabic": "مِن دُونِ ٱللَّهِ فَٱهْدُوهُمْ إِلَىٰ صِرَٰطِ ٱلْجَحِيمِ"
+  },
+  {
+   "verseNo": 24,
+   "textArabic": "وَقِفُوهُمْ ۖ إِنَّهُم مَّسْـُٔولُونَ"
+  },
+  {
+   "verseNo": 25,
+   "textArabic": "مَا لَكُمْ لَا تَنَاصَرُونَ"
+  },
+  {
+   "verseNo": 26,
+   "textArabic": "بَلْ هُمُ ٱلْيَوْمَ مُسْتَسْلِمُونَ"
+  },
+  {
+   "verseNo": 27,
+   "textArabic": "وَأَقْبَلَ بَعْضُهُمْ عَلَىٰ بَعْضٍۢ يَتَسَآءَلُونَ"
+  },
+  {
+   "verseNo": 28,
+   "textArabic": "قَالُوٓا۟ إِنَّكُمْ كُنتُمْ تَأْتُونَنَا عَنِ ٱلْيَمِينِ"
+  },
+  {
+   "verseNo": 29,
+   "textArabic": "قَالُوا۟ بَل لَّمْ تَكُونُوا۟ مُؤْمِنِينَ"
+  },
+  {
+   "verseNo": 30,
+   "textArabic": "وَمَا كَانَ لَنَا عَلَيْكُم مِّن سُلْطَٰنٍۭ ۖ بَلْ كُنتُمْ قَوْمًۭا طَٰغِينَ"
+  },
+  {
+   "verseNo": 31,
+   "textArabic": "فَحَقَّ عَلَيْنَا قَوْلُ رَبِّنَآ ۖ إِنَّا لَذَآئِقُونَ"
+  },
+  {
+   "verseNo": 32,
+   "textArabic": "فَأَغْوَيْنَٰكُمْ إِنَّا كُنَّا غَٰوِينَ"
+  },
+  {
+   "verseNo": 33,
+   "textArabic": "فَإِنَّهُمْ يَوْمَئِذٍۢ فِى ٱلْعَذَابِ مُشْتَرِكُونَ"
+  },
+  {
+   "verseNo": 34,
+   "textArabic": "إِنَّا كَذَٰلِكَ نَفْعَلُ بِٱلْمُجْرِمِينَ"
+  },
+  {
+   "verseNo": 35,
+   "textArabic": "إِنَّهُمْ كَانُوٓا۟ إِذَا قِيلَ لَهُمْ لَآ إِلَٰهَ إِلَّا ٱللَّهُ يَسْتَكْبِرُونَ"
+  },
+  {
+   "verseNo": 36,
+   "textArabic": "وَيَقُولُونَ أَئِنَّا لَتَارِكُوٓا۟ ءَالِهَتِنَا لِشَاعِرٍۢ مَّجْنُونٍۭ"
+  },
+  {
+   "verseNo": 37,
+   "textArabic": "بَلْ جَآءَ بِٱلْحَقِّ وَصَدَّقَ ٱلْمُرْسَلِينَ"
+  },
+  {
+   "verseNo": 38,
+   "textArabic": "إِنَّكُمْ لَذَآئِقُوا۟ ٱلْعَذَابِ ٱلْأَلِيمِ"
+  },
+  {
+   "verseNo": 39,
+   "textArabic": "وَمَا تُجْزَوْنَ إِلَّا مَا كُنتُمْ تَعْمَلُونَ"
+  },
+  {
+   "verseNo": 40,
+   "textArabic": "إِلَّا عِبَادَ ٱللَّهِ ٱلْمُخْلَصِينَ"
+  },
+  {
+   "verseNo": 41,
+   "textArabic": "أُو۟لَٰٓئِكَ لَهُمْ رِزْقٌۭ مَّعْلُومٌۭ"
+  },
+  {
+   "verseNo": 42,
+   "textArabic": "فَوَٰكِهُ ۖ وَهُم مُّكْرَمُونَ"
+  },
+  {
+   "verseNo": 43,
+   "textArabic": "فِى جَنَّٰتِ ٱلنَّعِيمِ"
+  },
+  {
+   "verseNo": 44,
+   "textArabic": "عَلَىٰ سُرُرٍۢ مُّتَقَٰبِلِينَ"
+  },
+  {
+   "verseNo": 45,
+   "textArabic": "يُطَافُ عَلَيْهِم بِكَأْسٍۢ مِّن مَّعِينٍۭ"
+  },
+  {
+   "verseNo": 46,
+   "textArabic": "بَيْضَآءَ لَذَّةٍۢ لِّلشَّٰرِبِينَ"
+  },
+  {
+   "verseNo": 47,
+   "textArabic": "لَا فِيهَا غَوْلٌۭ وَلَا هُمْ عَنْهَا يُنزَفُونَ"
+  },
+  {
+   "verseNo": 48,
+   "textArabic": "وَعِندَهُمْ قَٰصِرَٰتُ ٱلطَّرْفِ عِينٌۭ"
+  },
+  {
+   "verseNo": 49,
+   "textArabic": "كَأَنَّهُنَّ بَيْضٌۭ مَّكْنُونٌۭ"
+  },
+  {
+   "verseNo": 50,
+   "textArabic": "فَأَقْبَلَ بَعْضُهُمْ عَلَىٰ بَعْضٍۢ يَتَسَآءَلُونَ"
+  },
+  {
+   "verseNo": 51,
+   "textArabic": "قَالَ قَآئِلٌۭ مِّنْهُمْ إِنِّى كَانَ لِى قَرِينٌۭ"
+  },
+  {
+   "verseNo": 52,
+   "textArabic": "يَقُولُ أَءِنَّكَ لَمِنَ ٱلْمُصَدِّقِينَ"
+  },
+  {
+   "verseNo": 53,
+   "textArabic": "أَءِذَا مِتْنَا وَكُنَّا تُرَابًۭا وَعِظَٰمًا أَءِنَّا لَمَدِينُونَ"
+  },
+  {
+   "verseNo": 54,
+   "textArabic": "قَالَ هَلْ أَنتُم مُّطَّلِعُونَ"
+  },
+  {
+   "verseNo": 55,
+   "textArabic": "فَٱطَّلَعَ فَرَءَاهُ فِى سَوَآءِ ٱلْجَحِيمِ"
+  },
+  {
+   "verseNo": 56,
+   "textArabic": "قَالَ تَٱللَّهِ إِن كِدتَّ لَتُرْدِينِ"
+  },
+  {
+   "verseNo": 57,
+   "textArabic": "وَلَوْلَا نِعْمَةُ رَبِّى لَكُنتُ مِنَ ٱلْمُحْضَرِينَ"
+  },
+  {
+   "verseNo": 58,
+   "textArabic": "أَفَمَا نَحْنُ بِمَيِّتِينَ"
+  },
+  {
+   "verseNo": 59,
+   "textArabic": "إِلَّا مَوْتَتَنَا ٱلْأُولَىٰ وَمَا نَحْنُ بِمُعَذَّبِينَ"
+  },
+  {
+   "verseNo": 60,
+   "textArabic": "إِنَّ هَٰذَا لَهُوَ ٱلْفَوْزُ ٱلْعَظِيمُ"
+  },
+  {
+   "verseNo": 61,
+   "textArabic": "لِمِثْلِ هَٰذَا فَلْيَعْمَلِ ٱلْعَٰمِلُونَ"
+  },
+  {
+   "verseNo": 62,
+   "textArabic": "أَذَٰلِكَ خَيْرٌۭ نُّزُلًا أَمْ شَجَرَةُ ٱلزَّقُّومِ"
+  },
+  {
+   "verseNo": 63,
+   "textArabic": "إِنَّا جَعَلْنَٰهَا فِتْنَةًۭ لِّلظَّٰلِمِينَ"
+  },
+  {
+   "verseNo": 64,
+   "textArabic": "إِنَّهَا شَجَرَةٌۭ تَخْرُجُ فِىٓ أَصْلِ ٱلْجَحِيمِ"
+  },
+  {
+   "verseNo": 65,
+   "textArabic": "طَلْعُهَا كَأَنَّهُۥ رُءُوسُ ٱلشَّيَٰطِينِ"
+  },
+  {
+   "verseNo": 66,
+   "textArabic": "فَإِنَّهُمْ لَءَاكِلُونَ مِنْهَا فَمَالِـُٔونَ مِنْهَا ٱلْبُطُونَ"
+  },
+  {
+   "verseNo": 67,
+   "textArabic": "ثُمَّ إِنَّ لَهُمْ عَلَيْهَا لَشَوْبًۭا مِّنْ حَمِيمٍۢ"
+  },
+  {
+   "verseNo": 68,
+   "textArabic": "ثُمَّ إِنَّ مَرْجِعَهُمْ لَإِلَى ٱلْجَحِيمِ"
+  },
+  {
+   "verseNo": 69,
+   "textArabic": "إِنَّهُمْ أَلْفَوْا۟ ءَابَآءَهُمْ ضَآلِّينَ"
+  },
+  {
+   "verseNo": 70,
+   "textArabic": "فَهُمْ عَلَىٰٓ ءَاثَٰرِهِمْ يُهْرَعُونَ"
+  },
+  {
+   "verseNo": 71,
+   "textArabic": "وَلَقَدْ ضَلَّ قَبْلَهُمْ أَكْثَرُ ٱلْأَوَّلِينَ"
+  },
+  {
+   "verseNo": 72,
+   "textArabic": "وَلَقَدْ أَرْسَلْنَا فِيهِم مُّنذِرِينَ"
+  },
+  {
+   "verseNo": 73,
+   "textArabic": "فَٱنظُرْ كَيْفَ كَانَ عَٰقِبَةُ ٱلْمُنذَرِينَ"
+  },
+  {
+   "verseNo": 74,
+   "textArabic": "إِلَّا عِبَادَ ٱللَّهِ ٱلْمُخْلَصِينَ"
+  },
+  {
+   "verseNo": 75,
+   "textArabic": "وَلَقَدْ نَادَىٰنَا نُوحٌۭ فَلَنِعْمَ ٱلْمُجِيبُونَ"
+  },
+  {
+   "verseNo": 76,
+   "textArabic": "وَنَجَّيْنَٰهُ وَأَهْلَهُۥ مِنَ ٱلْكَرْبِ ٱلْعَظِيمِ"
+  },
+  {
+   "verseNo": 77,
+   "textArabic": "وَجَعَلْنَا ذُرِّيَّتَهُۥ هُمُ ٱلْبَاقِينَ"
+  },
+  {
+   "verseNo": 78,
+   "textArabic": "وَتَرَكْنَا عَلَيْهِ فِى ٱلْءَاخِرِينَ"
+  },
+  {
+   "verseNo": 79,
+   "textArabic": "سَلَٰمٌ عَلَىٰ نُوحٍۢ فِى ٱلْعَٰلَمِينَ"
+  },
+  {
+   "verseNo": 80,
+   "textArabic": "إِنَّا كَذَٰلِكَ نَجْزِى ٱلْمُحْسِنِينَ"
+  },
+  {
+   "verseNo": 81,
+   "textArabic": "إِنَّهُۥ مِنْ عِبَادِنَا ٱلْمُؤْمِنِينَ"
+  },
+  {
+   "verseNo": 82,
+   "textArabic": "ثُمَّ أَغْرَقْنَا ٱلْءَاخَرِينَ"
+  },
+  {
+   "verseNo": 83,
+   "textArabic": "۞ وَإِنَّ مِن شِيعَتِهِۦ لَإِبْرَٰهِيمَ"
+  },
+  {
+   "verseNo": 84,
+   "textArabic": "إِذْ جَآءَ رَبَّهُۥ بِقَلْبٍۢ سَلِيمٍ"
+  },
+  {
+   "verseNo": 85,
+   "textArabic": "إِذْ قَالَ لِأَبِيهِ وَقَوْمِهِۦ مَاذَا تَعْبُدُونَ"
+  },
+  {
+   "verseNo": 86,
+   "textArabic": "أَئِفْكًا ءَالِهَةًۭ دُونَ ٱللَّهِ تُرِيدُونَ"
+  },
+  {
+   "verseNo": 87,
+   "textArabic": "فَمَا ظَنُّكُم بِرَبِّ ٱلْعَٰلَمِينَ"
+  },
+  {
+   "verseNo": 88,
+   "textArabic": "فَنَظَرَ نَظْرَةًۭ فِى ٱلنُّجُومِ"
+  },
+  {
+   "verseNo": 89,
+   "textArabic": "فَقَالَ إِنِّى سَقِيمٌۭ"
+  },
+  {
+   "verseNo": 90,
+   "textArabic": "فَتَوَلَّوْا۟ عَنْهُ مُدْبِرِينَ"
+  },
+  {
+   "verseNo": 91,
+   "textArabic": "فَرَاغَ إِلَىٰٓ ءَالِهَتِهِمْ فَقَالَ أَلَا تَأْكُلُونَ"
+  },
+  {
+   "verseNo": 92,
+   "textArabic": "مَا لَكُمْ لَا تَنطِقُونَ"
+  },
+  {
+   "verseNo": 93,
+   "textArabic": "فَرَاغَ عَلَيْهِمْ ضَرْبًۢا بِٱلْيَمِينِ"
+  },
+  {
+   "verseNo": 94,
+   "textArabic": "فَأَقْبَلُوٓا۟ إِلَيْهِ يَزِفُّونَ"
+  },
+  {
+   "verseNo": 95,
+   "textArabic": "قَالَ أَتَعْبُدُونَ مَا تَنْحِتُونَ"
+  },
+  {
+   "verseNo": 96,
+   "textArabic": "وَٱللَّهُ خَلَقَكُمْ وَمَا تَعْمَلُونَ"
+  },
+  {
+   "verseNo": 97,
+   "textArabic": "قَالُوا۟ ٱبْنُوا۟ لَهُۥ بُنْيَٰنًۭا فَأَلْقُوهُ فِى ٱلْجَحِيمِ"
+  },
+  {
+   "verseNo": 98,
+   "textArabic": "فَأَرَادُوا۟ بِهِۦ كَيْدًۭا فَجَعَلْنَٰهُمُ ٱلْأَسْفَلِينَ"
+  },
+  {
+   "verseNo": 99,
+   "textArabic": "وَقَالَ إِنِّى ذَاهِبٌ إِلَىٰ رَبِّى سَيَهْدِينِ"
+  },
+  {
+   "verseNo": 100,
+   "textArabic": "رَبِّ هَبْ لِى مِنَ ٱلصَّٰلِحِينَ"
+  },
+  {
+   "verseNo": 101,
+   "textArabic": "فَبَشَّرْنَٰهُ بِغُلَٰمٍ حَلِيمٍۢ"
+  },
+  {
+   "verseNo": 102,
+   "textArabic": "فَلَمَّا بَلَغَ مَعَهُ ٱلسَّعْىَ قَالَ يَٰبُنَىَّ إِنِّىٓ أَرَىٰ فِى ٱلْمَنَامِ أَنِّىٓ أَذْبَحُكَ فَٱنظُرْ مَاذَا تَرَىٰ ۚ قَالَ يَٰٓأَبَتِ ٱفْعَلْ مَا تُؤْمَرُ ۖ سَتَجِدُنِىٓ إِن شَآءَ ٱللَّهُ مِنَ ٱلصَّٰبِرِينَ"
+  },
+  {
+   "verseNo": 103,
+   "textArabic": "فَلَمَّآ أَسْلَمَا وَتَلَّهُۥ لِلْجَبِينِ"
+  },
+  {
+   "verseNo": 104,
+   "textArabic": "وَنَٰدَيْنَٰهُ أَن يَٰٓإِبْرَٰهِيمُ"
+  },
+  {
+   "verseNo": 105,
+   "textArabic": "قَدْ صَدَّقْتَ ٱلرُّءْيَآ ۚ إِنَّا كَذَٰلِكَ نَجْزِى ٱلْمُحْسِنِينَ"
+  },
+  {
+   "verseNo": 106,
+   "textArabic": "إِنَّ هَٰذَا لَهُوَ ٱلْبَلَٰٓؤُا۟ ٱلْمُبِينُ"
+  },
+  {
+   "verseNo": 107,
+   "textArabic": "وَفَدَيْنَٰهُ بِذِبْحٍ عَظِيمٍۢ"
+  },
+  {
+   "verseNo": 108,
+   "textArabic": "وَتَرَكْنَا عَلَيْهِ فِى ٱلْءَاخِرِينَ"
+  },
+  {
+   "verseNo": 109,
+   "textArabic": "سَلَٰمٌ عَلَىٰٓ إِبْرَٰهِيمَ"
+  },
+  {
+   "verseNo": 110,
+   "textArabic": "كَذَٰلِكَ نَجْزِى ٱلْمُحْسِنِينَ"
+  },
+  {
+   "verseNo": 111,
+   "textArabic": "إِنَّهُۥ مِنْ عِبَادِنَا ٱلْمُؤْمِنِينَ"
+  },
+  {
+   "verseNo": 112,
+   "textArabic": "وَبَشَّرْنَٰهُ بِإِسْحَٰقَ نَبِيًّۭا مِّنَ ٱلصَّٰلِحِينَ"
+  },
+  {
+   "verseNo": 113,
+   "textArabic": "وَبَٰرَكْنَا عَلَيْهِ وَعَلَىٰٓ إِسْحَٰقَ ۚ وَمِن ذُرِّيَّتِهِمَا مُحْسِنٌۭ وَظَالِمٌۭ لِّنَفْسِهِۦ مُبِينٌۭ"
+  },
+  {
+   "verseNo": 114,
+   "textArabic": "وَلَقَدْ مَنَنَّا عَلَىٰ مُوسَىٰ وَهَٰرُونَ"
+  },
+  {
+   "verseNo": 115,
+   "textArabic": "وَنَجَّيْنَٰهُمَا وَقَوْمَهُمَا مِنَ ٱلْكَرْبِ ٱلْعَظِيمِ"
+  },
+  {
+   "verseNo": 116,
+   "textArabic": "وَنَصَرْنَٰهُمْ فَكَانُوا۟ هُمُ ٱلْغَٰلِبِينَ"
+  },
+  {
+   "verseNo": 117,
+   "textArabic": "وَءَاتَيْنَٰهُمَا ٱلْكِتَٰبَ ٱلْمُسْتَبِينَ"
+  },
+  {
+   "verseNo": 118,
+   "textArabic": "وَهَدَيْنَٰهُمَا ٱلصِّرَٰطَ ٱلْمُسْتَقِيمَ"
+  },
+  {
+   "verseNo": 119,
+   "textArabic": "وَتَرَكْنَا عَلَيْهِمَا فِى ٱلْءَاخِرِينَ"
+  },
+  {
+   "verseNo": 120,
+   "textArabic": "سَلَٰمٌ عَلَىٰ مُوسَىٰ وَهَٰرُونَ"
+  },
+  {
+   "verseNo": 121,
+   "textArabic": "إِنَّا كَذَٰلِكَ نَجْزِى ٱلْمُحْسِنِينَ"
+  },
+  {
+   "verseNo": 122,
+   "textArabic": "إِنَّهُمَا مِنْ عِبَادِنَا ٱلْمُؤْمِنِينَ"
+  },
+  {
+   "verseNo": 123,
+   "textArabic": "وَإِنَّ إِلْيَاسَ لَمِنَ ٱلْمُرْسَلِينَ"
+  },
+  {
+   "verseNo": 124,
+   "textArabic": "إِذْ قَالَ لِقَوْمِهِۦٓ أَلَا تَتَّقُونَ"
+  },
+  {
+   "verseNo": 125,
+   "textArabic": "أَتَدْعُونَ بَعْلًۭا وَتَذَرُونَ أَحْسَنَ ٱلْخَٰلِقِينَ"
+  },
+  {
+   "verseNo": 126,
+   "textArabic": "ٱللَّهَ رَبَّكُمْ وَرَبَّ ءَابَآئِكُمُ ٱلْأَوَّلِينَ"
+  },
+  {
+   "verseNo": 127,
+   "textArabic": "فَكَذَّبُوهُ فَإِنَّهُمْ لَمُحْضَرُونَ"
+  },
+  {
+   "verseNo": 128,
+   "textArabic": "إِلَّا عِبَادَ ٱللَّهِ ٱلْمُخْلَصِينَ"
+  },
+  {
+   "verseNo": 129,
+   "textArabic": "وَتَرَكْنَا عَلَيْهِ فِى ٱلْءَاخِرِينَ"
+  },
+  {
+   "verseNo": 130,
+   "textArabic": "سَلَٰمٌ عَلَىٰٓ إِلْ يَاسِينَ"
+  },
+  {
+   "verseNo": 131,
+   "textArabic": "إِنَّا كَذَٰلِكَ نَجْزِى ٱلْمُحْسِنِينَ"
+  },
+  {
+   "verseNo": 132,
+   "textArabic": "إِنَّهُۥ مِنْ عِبَادِنَا ٱلْمُؤْمِنِينَ"
+  },
+  {
+   "verseNo": 133,
+   "textArabic": "وَإِنَّ لُوطًۭا لَّمِنَ ٱلْمُرْسَلِينَ"
+  },
+  {
+   "verseNo": 134,
+   "textArabic": "إِذْ نَجَّيْنَٰهُ وَأَهْلَهُۥٓ أَجْمَعِينَ"
+  },
+  {
+   "verseNo": 135,
+   "textArabic": "إِلَّا عَجُوزًۭا فِى ٱلْغَٰبِرِينَ"
+  },
+  {
+   "verseNo": 136,
+   "textArabic": "ثُمَّ دَمَّرْنَا ٱلْءَاخَرِينَ"
+  },
+  {
+   "verseNo": 137,
+   "textArabic": "وَإِنَّكُمْ لَتَمُرُّونَ عَلَيْهِم مُّصْبِحِينَ"
+  },
+  {
+   "verseNo": 138,
+   "textArabic": "وَبِٱلَّيْلِ ۗ أَفَلَا تَعْقِلُونَ"
+  },
+  {
+   "verseNo": 139,
+   "textArabic": "وَإِنَّ يُونُسَ لَمِنَ ٱلْمُرْسَلِينَ"
+  },
+  {
+   "verseNo": 140,
+   "textArabic": "إِذْ أَبَقَ إِلَى ٱلْفُلْكِ ٱلْمَشْحُونِ"
+  },
+  {
+   "verseNo": 141,
+   "textArabic": "فَسَاهَمَ فَكَانَ مِنَ ٱلْمُدْحَضِينَ"
+  },
+  {
+   "verseNo": 142,
+   "textArabic": "فَٱلْتَقَمَهُ ٱلْحُوتُ وَهُوَ مُلِيمٌۭ"
+  },
+  {
+   "verseNo": 143,
+   "textArabic": "فَلَوْلَآ أَنَّهُۥ كَانَ مِنَ ٱلْمُسَبِّحِينَ"
+  },
+  {
+   "verseNo": 144,
+   "textArabic": "لَلَبِثَ فِى بَطْنِهِۦٓ إِلَىٰ يَوْمِ يُبْعَثُونَ"
+  },
+  {
+   "verseNo": 145,
+   "textArabic": "۞ فَنَبَذْنَٰهُ بِٱلْعَرَآءِ وَهُوَ سَقِيمٌۭ"
+  },
+  {
+   "verseNo": 146,
+   "textArabic": "وَأَنۢبَتْنَا عَلَيْهِ شَجَرَةًۭ مِّن يَقْطِينٍۢ"
+  },
+  {
+   "verseNo": 147,
+   "textArabic": "وَأَرْسَلْنَٰهُ إِلَىٰ مِا۟ئَةِ أَلْفٍ أَوْ يَزِيدُونَ"
+  },
+  {
+   "verseNo": 148,
+   "textArabic": "فَـَٔامَنُوا۟ فَمَتَّعْنَٰهُمْ إِلَىٰ حِينٍۢ"
+  },
+  {
+   "verseNo": 149,
+   "textArabic": "فَٱسْتَفْتِهِمْ أَلِرَبِّكَ ٱلْبَنَاتُ وَلَهُمُ ٱلْبَنُونَ"
+  },
+  {
+   "verseNo": 150,
+   "textArabic": "أَمْ خَلَقْنَا ٱلْمَلَٰٓئِكَةَ إِنَٰثًۭا وَهُمْ شَٰهِدُونَ"
+  },
+  {
+   "verseNo": 151,
+   "textArabic": "أَلَآ إِنَّهُم مِّنْ إِفْكِهِمْ لَيَقُولُونَ"
+  },
+  {
+   "verseNo": 152,
+   "textArabic": "وَلَدَ ٱللَّهُ وَإِنَّهُمْ لَكَٰذِبُونَ"
+  },
+  {
+   "verseNo": 153,
+   "textArabic": "أَصْطَفَى ٱلْبَنَاتِ عَلَى ٱلْبَنِينَ"
+  },
+  {
+   "verseNo": 154,
+   "textArabic": "مَا لَكُمْ كَيْفَ تَحْكُمُونَ"
+  },
+  {
+   "verseNo": 155,
+   "textArabic": "أَفَلَا تَذَكَّرُونَ"
+  },
+  {
+   "verseNo": 156,
+   "textArabic": "أَمْ لَكُمْ سُلْطَٰنٌۭ مُّبِينٌۭ"
+  },
+  {
+   "verseNo": 157,
+   "textArabic": "فَأْتُوا۟ بِكِتَٰبِكُمْ إِن كُنتُمْ صَٰدِقِينَ"
+  },
+  {
+   "verseNo": 158,
+   "textArabic": "وَجَعَلُوا۟ بَيْنَهُۥ وَبَيْنَ ٱلْجِنَّةِ نَسَبًۭا ۚ وَلَقَدْ عَلِمَتِ ٱلْجِنَّةُ إِنَّهُمْ لَمُحْضَرُونَ"
+  },
+  {
+   "verseNo": 159,
+   "textArabic": "سُبْحَٰنَ ٱللَّهِ عَمَّا يَصِفُونَ"
+  },
+  {
+   "verseNo": 160,
+   "textArabic": "إِلَّا عِبَادَ ٱللَّهِ ٱلْمُخْلَصِينَ"
+  },
+  {
+   "verseNo": 161,
+   "textArabic": "فَإِنَّكُمْ وَمَا تَعْبُدُونَ"
+  },
+  {
+   "verseNo": 162,
+   "textArabic": "مَآ أَنتُمْ عَلَيْهِ بِفَٰتِنِينَ"
+  },
+  {
+   "verseNo": 163,
+   "textArabic": "إِلَّا مَنْ هُوَ صَالِ ٱلْجَحِيمِ"
+  },
+  {
+   "verseNo": 164,
+   "textArabic": "وَمَا مِنَّآ إِلَّا لَهُۥ مَقَامٌۭ مَّعْلُومٌۭ"
+  },
+  {
+   "verseNo": 165,
+   "textArabic": "وَإِنَّا لَنَحْنُ ٱلصَّآفُّونَ"
+  },
+  {
+   "verseNo": 166,
+   "textArabic": "وَإِنَّا لَنَحْنُ ٱلْمُسَبِّحُونَ"
+  },
+  {
+   "verseNo": 167,
+   "textArabic": "وَإِن كَانُوا۟ لَيَقُولُونَ"
+  },
+  {
+   "verseNo": 168,
+   "textArabic": "لَوْ أَنَّ عِندَنَا ذِكْرًۭا مِّنَ ٱلْأَوَّلِينَ"
+  },
+  {
+   "verseNo": 169,
+   "textArabic": "لَكُنَّا عِبَادَ ٱللَّهِ ٱلْمُخْلَصِينَ"
+  },
+  {
+   "verseNo": 170,
+   "textArabic": "فَكَفَرُوا۟ بِهِۦ ۖ فَسَوْفَ يَعْلَمُونَ"
+  },
+  {
+   "verseNo": 171,
+   "textArabic": "وَلَقَدْ سَبَقَتْ كَلِمَتُنَا لِعِبَادِنَا ٱلْمُرْسَلِينَ"
+  },
+  {
+   "verseNo": 172,
+   "textArabic": "إِنَّهُمْ لَهُمُ ٱلْمَنصُورُونَ"
+  },
+  {
+   "verseNo": 173,
+   "textArabic": "وَإِنَّ جُندَنَا لَهُمُ ٱلْغَٰلِبُونَ"
+  },
+  {
+   "verseNo": 174,
+   "textArabic": "فَتَوَلَّ عَنْهُمْ حَتَّىٰ حِينٍۢ"
+  },
+  {
+   "verseNo": 175,
+   "textArabic": "وَأَبْصِرْهُمْ فَسَوْفَ يُبْصِرُونَ"
+  },
+  {
+   "verseNo": 176,
+   "textArabic": "أَفَبِعَذَابِنَا يَسْتَعْجِلُونَ"
+  },
+  {
+   "verseNo": 177,
+   "textArabic": "فَإِذَا نَزَلَ بِسَاحَتِهِمْ فَسَآءَ صَبَاحُ ٱلْمُنذَرِينَ"
+  },
+  {
+   "verseNo": 178,
+   "textArabic": "وَتَوَلَّ عَنْهُمْ حَتَّىٰ حِينٍۢ"
+  },
+  {
+   "verseNo": 179,
+   "textArabic": "وَأَبْصِرْ فَسَوْفَ يُبْصِرُونَ"
+  },
+  {
+   "verseNo": 180,
+   "textArabic": "سُبْحَٰنَ رَبِّكَ رَبِّ ٱلْعِزَّةِ عَمَّا يَصِفُونَ"
+  },
+  {
+   "verseNo": 181,
+   "textArabic": "وَسَلَٰمٌ عَلَى ٱلْمُرْسَلِينَ"
+  },
+  {
+   "verseNo": 182,
+   "textArabic": "وَٱلْحَمْدُ لِلَّهِ رَبِّ ٱلْعَٰلَمِينَ"
+  }
+ ],
+ "translations": [
+  {
+   "verseNo": 1,
+   "source": "diyanet",
+   "text": "Saf bağlayıp duranlara, haykırarak sevk edenlere ve zikri (Allah'ın kelâmını) okuyanlara andolsun ki, sizin ilahınız gerçekten bir tek ilahtır."
+  },
+  {
+   "verseNo": 1,
+   "source": "okuyan",
+   "text": "Yemin olsun: Sıra sıra dizilenlere,"
+  },
+  {
+   "verseNo": 1,
+   "source": "esed",
+   "text": "Düşün sıra sıra dizilmiş bu (mesajlar)ı"
+  },
+  {
+   "verseNo": 2,
+   "source": "diyanet",
+   "text": "Saf bağlayıp duranlara, haykırarak sevk edenlere ve zikri (Allah'ın kelâmını) okuyanlara andolsun ki, sizin ilahınız gerçekten bir tek ilahtır."
+  },
+  {
+   "verseNo": 2,
+   "source": "okuyan",
+   "text": "Engel olanlara,"
+  },
+  {
+   "verseNo": 2,
+   "source": "esed",
+   "text": "ve bir vazgeçme çağrısı ile (kötülüklerden) alıkoymasını"
+  },
+  {
+   "verseNo": 3,
+   "source": "diyanet",
+   "text": "Saf bağlayıp duranlara, haykırarak sevk edenlere ve zikri (Allah'ın kelâmını) okuyanlara andolsun ki, sizin ilahınız gerçekten bir tek ilahtır."
+  },
+  {
+   "verseNo": 3,
+   "source": "okuyan",
+   "text": "Zikr (Kur’an) okuyanlara ki"
+  },
+  {
+   "verseNo": 3,
+   "source": "esed",
+   "text": "ve (bütün dünyaya) bir öğüt ve uyarıda bulunmasını"
+  },
+  {
+   "verseNo": 4,
+   "source": "diyanet",
+   "text": "Saf bağlayıp duranlara, haykırarak sevk edenlere ve zikri (Allah'ın kelâmını) okuyanlara andolsun ki, sizin ilahınız gerçekten bir tek ilahtır."
+  },
+  {
+   "verseNo": 4,
+   "source": "okuyan",
+   "text": "Şüphesiz ilahınız tektir."
+  },
+  {
+   "verseNo": 4,
+   "source": "esed",
+   "text": "Şüphe yok ki sizin İlahınız Tek´tir"
+  },
+  {
+   "verseNo": 5,
+   "source": "diyanet",
+   "text": "O, göklerin, yerin ve ikisi arasındakilerin Rabbidir. Doğuların da (Batıların da) Rabbidir."
+  },
+  {
+   "verseNo": 5,
+   "source": "okuyan",
+   "text": "Hem göklerin, yerin ve ikisi arasındakilerin Rabbidir hem de doğuların Rabbidir."
+  },
+  {
+   "verseNo": 5,
+   "source": "esed",
+   "text": "göklerin ve yerin ve ikisi arasında bulunan her şeyin Rabbi; bütün gündoğumu noktalarının Rabbi"
+  },
+  {
+   "verseNo": 6,
+   "source": "diyanet",
+   "text": "Biz en yakın göğü zinetlerle, yıldızlarla donattık."
+  },
+  {
+   "verseNo": 6,
+   "source": "okuyan",
+   "text": "Şüphesiz ki biz yakın göğü gezegenlerden (ve yıldızlardan) oluşan süsle süsledik."
+  },
+  {
+   "verseNo": 6,
+   "source": "esed",
+   "text": "Biz yeryüzüne en yakın gökleri yıldızların güzelliğiyle süsledik"
+  },
+  {
+   "verseNo": 7,
+   "source": "diyanet",
+   "text": "Onu itaatten çıkan her şeytandan koruduk."
+  },
+  {
+   "verseNo": 7,
+   "source": "okuyan",
+   "text": "(Onu) isyankâr her şeytandan koruduk."
+  },
+  {
+   "verseNo": 7,
+   "source": "esed",
+   "text": "ve onları her türlü bozguncu, şeytani güce karşı emin kıldık"
+  },
+  {
+   "verseNo": 8,
+   "source": "diyanet",
+   "text": "Onlar, yüce topluluğu (ileri gelen melekler topluluğunu) dinleyemezler. Kovulmaları için her taraftan taşa tutulurlar. Onlar için sürekli bir azap da vardır."
+  },
+  {
+   "verseNo": 8,
+   "source": "okuyan",
+   "text": "8-9 . Onlar yüce topluluğa kulak veremezler. Kovularak her taraftan atılırlar. Onlar için ebedî bir azap vardır."
+  },
+  {
+   "verseNo": 8,
+   "source": "esed",
+   "text": "(ki) onlar, (o bilinmeyeni bilmek isteyenler,) yüce sakinler topluluğuna kulak veremesinler ve her taraftan kovulup sürülsünler"
+  },
+  {
+   "verseNo": 9,
+   "source": "diyanet",
+   "text": "Onlar, yüce topluluğu (ileri gelen melekler topluluğunu) dinleyemezler. Kovulmaları için her taraftan taşa tutulurlar. Onlar için sürekli bir azap da vardır."
+  },
+  {
+   "verseNo": 9,
+   "source": "okuyan",
+   "text": "8-9 . Onlar yüce topluluğa kulak veremezler. Kovularak her taraftan atılırlar. Onlar için ebedî bir azap vardır."
+  },
+  {
+   "verseNo": 9,
+   "source": "esed",
+   "text": "(rahmetten) yoksun kalsınlar ve (öteki dünyada) kendilerini bekleyen ebedi azaba duçar olsunlar"
+  },
+  {
+   "verseNo": 10,
+   "source": "diyanet",
+   "text": "Ancak onlardan söz kapan olur. Onu da delip geçen bir alev izler (ve yok eder)."
+  },
+  {
+   "verseNo": 10,
+   "source": "okuyan",
+   "text": "Ancak (meleklerin konuşmalarından) bir söz çalmaya kalkışan olursa, onu hemen delip geçen parlak bir ışık takip eder."
+  },
+  {
+   "verseNo": 10,
+   "source": "esed",
+   "text": "ama eğer birisi (bu bilgiden) bir kırıntı koparmayı başarırsa, (bundan dolayı) yakıcı bir alevin pençesine düşsün"
+  },
+  {
+   "verseNo": 11,
+   "source": "diyanet",
+   "text": "(Ey Muhammed!) Şimdi sen onlara sor: \"Kendilerini yaratmak mı daha zor, yoksa yarattığımız diğer şeyleri yaratmak mı? Şüphesiz biz onları yapışkan bir çamurdan yarattık."
+  },
+  {
+   "verseNo": 11,
+   "source": "okuyan",
+   "text": "(Şimdi) sor onlara! Onları yaratmak mı daha zor, yoksa bizim yarattığımız (diğer) bilinçli (varlıkları yaratmak) mı? Şüphesiz ki biz kendilerini yapışkan bir çamurdan yarattık."
+  },
+  {
+   "verseNo": 11,
+   "source": "esed",
+   "text": "Ve şimdi, o (hakikati inkar ede)nlerden sana cevap vermelerini iste: Onları yaratmak, Bizim yarattığımız bu (sayısız mucizelerden) daha mı zordur? Nitekim Biz onları (basit) bir balçıktan yarattık"
+  },
+  {
+   "verseNo": 12,
+   "source": "diyanet",
+   "text": "Hayır, sen (onların haline) şaştın onlar ise alay ediyorlar."
+  },
+  {
+   "verseNo": 12,
+   "source": "okuyan",
+   "text": "Onlar alay ediyorlarken elbette sen (Allah’ın kudretine) şaşırıyorsun (hayran oluyorsun)."
+  },
+  {
+   "verseNo": 12,
+   "source": "esed",
+   "text": "Hayır, sen hayranlık ve şaşkınlık duyarken onlar (yalnızca) alay ederler"
+  },
+  {
+   "verseNo": 13,
+   "source": "diyanet",
+   "text": "Kendilerine öğüt verildiği zaman öğüt almıyorlar."
+  },
+  {
+   "verseNo": 13,
+   "source": "okuyan",
+   "text": "Kendilerine (gerçekler) hatırlatıldığı zaman (gerçeği) hatırlamazlar."
+  },
+  {
+   "verseNo": 13,
+   "source": "esed",
+   "text": "ve (hakikat) kendilerine hatırlatıldığında onu kavramaya yanaşmazlar"
+  },
+  {
+   "verseNo": 14,
+   "source": "diyanet",
+   "text": "Bir mucize gördükleri zaman onu alaya alıyorlar."
+  },
+  {
+   "verseNo": 14,
+   "source": "okuyan",
+   "text": "Bir ayet (herhangi bir delil) gördüklerinde alay ederler."
+  },
+  {
+   "verseNo": 14,
+   "source": "esed",
+   "text": "ve bir (ilahi) mesajla muhatab olduklarında onu küçümserler"
+  },
+  {
+   "verseNo": 15,
+   "source": "diyanet",
+   "text": "(Dediler ki:) \"Bu bir büyüden başka bir şey değildir.\""
+  },
+  {
+   "verseNo": 15,
+   "source": "okuyan",
+   "text": "Şöyle derler: “Bu, apaçık bir büyüden başka bir şey değildir."
+  },
+  {
+   "verseNo": 15,
+   "source": "esed",
+   "text": "ve \"Bu, bir (beşerin) büyülü sözlerinden başka bir şey değildir!\" derler"
+  },
+  {
+   "verseNo": 16,
+   "source": "diyanet",
+   "text": "\"Gerçekten biz, ölüp bir toprak ve kemik yığını haline geldikten sonra mı, biz mi tekrar diriltileceğiz?\""
+  },
+  {
+   "verseNo": 16,
+   "source": "okuyan",
+   "text": "Biz ölüp de toprak ve kemik hâline gelmişken mi, biz mi diriltileceğiz?"
+  },
+  {
+   "verseNo": 16,
+   "source": "esed",
+   "text": "Ne? Ölüp toprak ve kemik yığını haline geldikten sonra sahiden yeniden dirilecek miyiz"
+  },
+  {
+   "verseNo": 17,
+   "source": "diyanet",
+   "text": "\"Önceden gelip geçmiş atalarımız da mı?\""
+  },
+  {
+   "verseNo": 17,
+   "source": "okuyan",
+   "text": "Önceki atalarımız da mı (diriltilecek)?”"
+  },
+  {
+   "verseNo": 17,
+   "source": "esed",
+   "text": "Yani eski atalarımız da mı"
+  },
+  {
+   "verseNo": 18,
+   "source": "diyanet",
+   "text": "De ki: \"Evet, hem de siz aşağılanmış kimseler olarak (diriltileceksiniz).\""
+  },
+  {
+   "verseNo": 18,
+   "source": "okuyan",
+   "text": "De ki: “Evet hem de hor ve değersiz olarak (diriltileceksiniz).”"
+  },
+  {
+   "verseNo": 18,
+   "source": "esed",
+   "text": "De ki: \"Elbette, hem de en perişan ve zavallı şekilde"
+  },
+  {
+   "verseNo": 19,
+   "source": "diyanet",
+   "text": "O ancak şiddetli bir sesten ibarettir. Bir de bakarsın ki onlar (diriltilmiş hazır) beklemektedirler."
+  },
+  {
+   "verseNo": 19,
+   "source": "okuyan",
+   "text": "O (diriltme) korkunç bir sesten ibaret olacak; bir de bakarsın ki onlar etrafa bakacaklar."
+  },
+  {
+   "verseNo": 19,
+   "source": "esed",
+   "text": "Çünkü o (alay ettikleri yeniden dirilme,) bir itham çığlığı şeklinde (aniden onların tepesinde patlayacak.) İşte o zaman (hakikati) anlamaya başlayacaklar"
+  },
+  {
+   "verseNo": 20,
+   "source": "diyanet",
+   "text": "Şöyle diyecekler: \"Vay başımıza gelene! Bu beklenen ceza günüdür.\""
+  },
+  {
+   "verseNo": 20,
+   "source": "okuyan",
+   "text": "(Kâfirler:) “Ah, eyvah bize! Bu hesap günüymüş!” demiş (olacak)lardır."
+  },
+  {
+   "verseNo": 20,
+   "source": "esed",
+   "text": "ve \"Eyvah!\" diyecekler, \"İşte Hesap Günü bugündür"
+  },
+  {
+   "verseNo": 21,
+   "source": "diyanet",
+   "text": "Onlara, \"İşte bu, yalanlamakta olduğunuz hüküm ve ayırım günüdür\" denilir."
+  },
+  {
+   "verseNo": 21,
+   "source": "okuyan",
+   "text": "İşte bu, yalanlamış olduğunuz ayrılma (gerçeklerin ortaya çıkma) günüdür."
+  },
+  {
+   "verseNo": 21,
+   "source": "esed",
+   "text": "(Ve onlara şöyle denilecek:) \"Bu, yalanlamış olduğunuz (gündür, şaşmaz hakikat ile sahte ve yalan arasında) ayrım günüdür"
+  },
+  {
+   "verseNo": 22,
+   "source": "diyanet",
+   "text": "Allah meleklere şöyle emreder: \"Zulmedenleri, eşlerini ve Allah'ı bırakıp da tapmakta olduklarını toplayın, onları cehennemin yoluna koyun ve onları tutuklayın. Çünkü onlar sorguya çekileceklerdir."
+  },
+  {
+   "verseNo": 22,
+   "source": "okuyan",
+   "text": "22-23 . (Allah meleklere şöyle diyecek:) “Zalimleri, eşlerini (onlar gibi olanları) ve Allah’ın peşi sıra tapmış olduklarını toplayın! Onları cehennemin yoluna iletin!"
+  },
+  {
+   "verseNo": 22,
+   "source": "esed",
+   "text": "(Ve Allah şöyle buyuracaktır:) \"Toplayın bütün o zalimleri, kendileri gibi olanlarla ve bütün o Allah´tan başka taptıkları (ile) birlikte"
+  },
+  {
+   "verseNo": 23,
+   "source": "diyanet",
+   "text": "Allah meleklere şöyle emreder: \"Zulmedenleri, eşlerini ve Allah'ı bırakıp da tapmakta olduklarını toplayın, onları cehennemin yoluna koyun ve onları tutuklayın. Çünkü onlar sorguya çekileceklerdir."
+  },
+  {
+   "verseNo": 23,
+   "source": "okuyan",
+   "text": "22-23 . (Allah meleklere şöyle diyecek:) “Zalimleri, eşlerini (onlar gibi olanları) ve Allah’ın peşi sıra tapmış olduklarını toplayın! Onları cehennemin yoluna iletin!"
+  },
+  {
+   "verseNo": 23,
+   "source": "esed",
+   "text": "ve hepsini yakıcı ateşin yoluna sürün"
+  },
+  {
+   "verseNo": 24,
+   "source": "diyanet",
+   "text": "Allah meleklere şöyle emreder: \"Zulmedenleri, eşlerini ve Allah'ı bırakıp da tapmakta olduklarını toplayın, onları cehennemin yoluna koyun ve onları tutuklayın. Çünkü onlar sorguya çekileceklerdir."
+  },
+  {
+   "verseNo": 24,
+   "source": "okuyan",
+   "text": "Onları tutuklayın; şüphesiz ki onlar sorguya çekilecekler!”"
+  },
+  {
+   "verseNo": 24,
+   "source": "esed",
+   "text": "ve onları (orada) tutun!\" (O zaman) böylelerine sorulacak"
+  },
+  {
+   "verseNo": 25,
+   "source": "diyanet",
+   "text": "Onlara, \"Ne diye yardımlaşmıyorsunuz?\" denir."
+  },
+  {
+   "verseNo": 25,
+   "source": "okuyan",
+   "text": "Size ne oldu ki birbirinize yardım etmiyorsunuz?"
+  },
+  {
+   "verseNo": 25,
+   "source": "esed",
+   "text": "Size ne oldu ki (şimdi) birbirinize yardım etmiyorsunuz"
+  },
+  {
+   "verseNo": 26,
+   "source": "diyanet",
+   "text": "Hayır, onlar bugün teslim olmuş kimselerdir."
+  },
+  {
+   "verseNo": 26,
+   "source": "okuyan",
+   "text": "Hayır! Onlar o gün boyun eğmiş olacaklardır."
+  },
+  {
+   "verseNo": 26,
+   "source": "esed",
+   "text": "Hayır, onlar o Gün isteyerek (Allah´a) teslim olacaklar"
+  },
+  {
+   "verseNo": 27,
+   "source": "diyanet",
+   "text": "Birbirlerine yönelip sorarlar (çekişirler)."
+  },
+  {
+   "verseNo": 27,
+   "source": "okuyan",
+   "text": "Onların bir kısmı bir kısmına dönüp (hesap) soracaklar."
+  },
+  {
+   "verseNo": 27,
+   "source": "esed",
+   "text": "fakat (çok geç kaldıklarından) birbirlerine dönüp bakacaklar ve birbirlerinden (geçmiş günahlarının yükünü hafifletmelerini) isteyecekler"
+  },
+  {
+   "verseNo": 28,
+   "source": "diyanet",
+   "text": "Şöyle derler: \"Siz bize sağdan gelirdiniz. Bize haktan yana görünürdünüz.\""
+  },
+  {
+   "verseNo": 28,
+   "source": "okuyan",
+   "text": "(Sapanlar, saptıranlara) “Şüphesiz ki siz bize (hep) sağdan gelirdiniz!” diyeceklerdir."
+  },
+  {
+   "verseNo": 28,
+   "source": "esed",
+   "text": "(Onların) bir kısmı: \"Bakın\" diyecek, \"Siz bize (ayartma niyetiyle) sağdan yaklaşırdınız"
+  },
+  {
+   "verseNo": 29,
+   "source": "diyanet",
+   "text": "Diğerleri de onlara şöyle derler: \"Hayır, siz zaten mü'min kimseler değildiniz.\""
+  },
+  {
+   "verseNo": 29,
+   "source": "okuyan",
+   "text": "(Saptıranlar ise) şöyle diyecekler: “Aksine siz inananlar değildiniz."
+  },
+  {
+   "verseNo": 29,
+   "source": "esed",
+   "text": "Ötekiler, \"Hayır\" diyecekler, \"aslında siz kendiniz imandan zerre kadar nasip almamıştınız"
+  },
+  {
+   "verseNo": 30,
+   "source": "diyanet",
+   "text": "\"Bizim, sizin üzerinizde hiçbir hakimiyetimiz yoktu. Hatta siz azgın bir kavimdiniz.\""
+  },
+  {
+   "verseNo": 30,
+   "source": "okuyan",
+   "text": "Bizim sizi zorlayacak hiçbir gücümüz yoktu. Aslında siz azgın bir toplumdunuz!"
+  },
+  {
+   "verseNo": 30,
+   "source": "esed",
+   "text": "Üstelik sizi zorlayacak bir gücümüz yoktu, bilakis, siz küstahça bir kibire kapılmıştınız"
+  },
+  {
+   "verseNo": 31,
+   "source": "diyanet",
+   "text": "\"Artık Rabbimizin sözü (azap) bizim hakkımızda gerçekleşti. Biz onu mutlaka tadacağız.\""
+  },
+  {
+   "verseNo": 31,
+   "source": "okuyan",
+   "text": "Rabbimizin (azap) sözü bizim aleyhimize gerçekleşti. Biz (azabı) mutlaka tadacağız."
+  },
+  {
+   "verseNo": 31,
+   "source": "esed",
+   "text": "Fakat şimdi Rabbimizin sözü bizim (de) aleyhimize çıktı, biz (günahlarımızın acı meyvesini) mutlaka tadacağız"
+  },
+  {
+   "verseNo": 32,
+   "source": "diyanet",
+   "text": "\"Evet, biz sizi saptırdık. Çünkü biz de sapkın kimselerdik.\""
+  },
+  {
+   "verseNo": 32,
+   "source": "okuyan",
+   "text": "Biz sizi saptırdık. Çünkü kendimiz de sapmıştık.”"
+  },
+  {
+   "verseNo": 32,
+   "source": "esed",
+   "text": "O halde, sizi derin bir sapıklığa ittiğ(imiz eğer doğruysa), o zaman biz de vahim bir sapıklığa düşmüşüzdür"
+  },
+  {
+   "verseNo": 33,
+   "source": "diyanet",
+   "text": "Artık onlar o gün azapta ortaktırlar"
+  },
+  {
+   "verseNo": 33,
+   "source": "okuyan",
+   "text": "Şüphesiz ki o gün onlar azapta ortaktırlar."
+  },
+  {
+   "verseNo": 33,
+   "source": "esed",
+   "text": "O Gün onların hepsi ortak azaplarını paylaşacaklar"
+  },
+  {
+   "verseNo": 34,
+   "source": "diyanet",
+   "text": "İşte biz suçlulara böyle yaparız."
+  },
+  {
+   "verseNo": 34,
+   "source": "okuyan",
+   "text": "İşte biz, suçlulara böyle yapacağız."
+  },
+  {
+   "verseNo": 34,
+   "source": "esed",
+   "text": "Günaha batmış olanlara işte böyle davranacağız"
+  },
+  {
+   "verseNo": 35,
+   "source": "diyanet",
+   "text": "Çünkü onlar, kendilerine, \"Allah'tan başka hiçbir ilah yoktur\" denildiği zaman inanmayıp büyüklük taslıyorlardı."
+  },
+  {
+   "verseNo": 35,
+   "source": "okuyan",
+   "text": "Şüphesiz ki onlara “Allah’tan başka ilah yoktur.” dendiği zaman kibir gösterirlerdi."
+  },
+  {
+   "verseNo": 35,
+   "source": "esed",
+   "text": "çünkü bakın, ne zaman onlara \"Allah´tan başka ilah yoktur!\" denilse küstahça böbürlenirlerdi"
+  },
+  {
+   "verseNo": 36,
+   "source": "diyanet",
+   "text": "\"Biz, deli bir şair için ilahlarımızı mı terk edeceğiz?\" diyorlardı."
+  },
+  {
+   "verseNo": 36,
+   "source": "okuyan",
+   "text": "“Cinlenmiş bir şair için mi ilahlarımızı terk edeceğiz!” derlerdi."
+  },
+  {
+   "verseNo": 36,
+   "source": "esed",
+   "text": "ve \"Mecnun bir şairin sözüyle biz ilahlarımızı mı terk edeceğiz?\" derlerdi"
+  },
+  {
+   "verseNo": 37,
+   "source": "diyanet",
+   "text": "Hayır, öyle değil. O, hakkı getirmiş, (önceki) peygamberleri de tasdik etmiştir."
+  },
+  {
+   "verseNo": 37,
+   "source": "okuyan",
+   "text": "Aksine o (elçi), gerçeği getirmiş ve (önceki) elçileri de doğrulamıştı."
+  },
+  {
+   "verseNo": 37,
+   "source": "esed",
+   "text": "Hayır, asla! (Sizin deli şair dediğiniz) o kişi hakikati getirmiştir; ve o, (Allah´ın önceki) elçilerinin (bildirdikleri) hakikati tasdik etmektedir"
+  },
+  {
+   "verseNo": 38,
+   "source": "diyanet",
+   "text": "Şüphesiz siz mutlaka elem dolu azabı tadacaksınız."
+  },
+  {
+   "verseNo": 38,
+   "source": "okuyan",
+   "text": "Şüphesiz ki siz elem verici azabı tadacaksınız."
+  },
+  {
+   "verseNo": 38,
+   "source": "esed",
+   "text": "Bakın siz, (öteki dünyada) acıklı azabı tadacaksınız"
+  },
+  {
+   "verseNo": 39,
+   "source": "diyanet",
+   "text": "Siz ancak işlediklerinizin karşılığı ile cezalandırılırsınız."
+  },
+  {
+   "verseNo": 39,
+   "source": "okuyan",
+   "text": "Size yaptıklarınızdan başka karşılık verilmeyecektir."
+  },
+  {
+   "verseNo": 39,
+   "source": "esed",
+   "text": "ama yapmış olduğunuzdan başka bir şeyle cezalandırılmayacaksınız"
+  },
+  {
+   "verseNo": 40,
+   "source": "diyanet",
+   "text": "Ancak Allah'ın halis kulları başka."
+  },
+  {
+   "verseNo": 40,
+   "source": "okuyan",
+   "text": "Allah’ın samimi kulları hariç."
+  },
+  {
+   "verseNo": 40,
+   "source": "esed",
+   "text": "Ancak Allah´ın halis kullarına böyle davranılmayacak"
+  },
+  {
+   "verseNo": 41,
+   "source": "diyanet",
+   "text": "İşte onlar için belli bir rızık, meyveler vardır. Onlar ikram gören kimselerdir."
+  },
+  {
+   "verseNo": 41,
+   "source": "okuyan",
+   "text": "Onlar için bilinen bir rızık vardır."
+  },
+  {
+   "verseNo": 41,
+   "source": "esed",
+   "text": "(öteki dünyada) onlar için, yabancısı olmadıkları bir rızık hazırlanacaktır"
+  },
+  {
+   "verseNo": 42,
+   "source": "diyanet",
+   "text": "İşte onlar için belli bir rızık, meyveler vardır. Onlar ikram gören kimselerdir."
+  },
+  {
+   "verseNo": 42,
+   "source": "okuyan",
+   "text": "42-44 . Nimet cennetlerinde tahtlar üzerinde karşılıklı (otururlarken onlara) meyveler ikram edilmiş olacaktır."
+  },
+  {
+   "verseNo": 42,
+   "source": "esed",
+   "text": "(yeryüzündeki hayatlarının) ürünü olarak; ve onlar ağırlanacaklardır"
+  },
+  {
+   "verseNo": 43,
+   "source": "diyanet",
+   "text": "Onlar Naim cennetlerindedirler."
+  },
+  {
+   "verseNo": 43,
+   "source": "okuyan",
+   "text": "42-44 . Nimet cennetlerinde tahtlar üzerinde karşılıklı (otururlarken onlara) meyveler ikram edilmiş olacaktır."
+  },
+  {
+   "verseNo": 43,
+   "source": "esed",
+   "text": "nimet bahçelerinde"
+  },
+  {
+   "verseNo": 44,
+   "source": "diyanet",
+   "text": "Koltuklar üzerinde karşılıklı olarak otururlar."
+  },
+  {
+   "verseNo": 44,
+   "source": "okuyan",
+   "text": "42-44 . Nimet cennetlerinde tahtlar üzerinde karşılıklı (otururlarken onlara) meyveler ikram edilmiş olacaktır."
+  },
+  {
+   "verseNo": 44,
+   "source": "esed",
+   "text": "mutluluk tahtları üzerinde birbirlerine (sevgi ile) bakışarak"
+  },
+  {
+   "verseNo": 45,
+   "source": "diyanet",
+   "text": "Onların etrafında cennet pınarından doldurulmuş, berrak ve içenlere lezzet veren kadehler dolaştırılır."
+  },
+  {
+   "verseNo": 45,
+   "source": "okuyan",
+   "text": "45-46 . Onlara (içleri) pınardan (doldurulmuş) berrak, içenlere lezzet veren kadehler dolaştırılacaktır."
+  },
+  {
+   "verseNo": 45,
+   "source": "esed",
+   "text": "Aralarında dupduru pınarlardan (içecekle doldurulmuş) bir kase dolaştırılacak"
+  },
+  {
+   "verseNo": 46,
+   "source": "diyanet",
+   "text": "Onların etrafında cennet pınarından doldurulmuş, berrak ve içenlere lezzet veren kadehler dolaştırılır."
+  },
+  {
+   "verseNo": 46,
+   "source": "okuyan",
+   "text": "45-46 . Onlara (içleri) pınardan (doldurulmuş) berrak, içenlere lezzet veren kadehler dolaştırılacaktır."
+  },
+  {
+   "verseNo": 46,
+   "source": "esed",
+   "text": "berrak ve içenlere tat veren (bir içecek)"
+  },
+  {
+   "verseNo": 47,
+   "source": "diyanet",
+   "text": "Onda baş döndürme özelliği yoktur. Onlar, onu içmekle sarhoş da olmazlar."
+  },
+  {
+   "verseNo": 47,
+   "source": "okuyan",
+   "text": "Onlarda (içtiklerinde) sersemletme (baş ağrısı) yoktur; ondan dolayı sarhoş da edilmezler."
+  },
+  {
+   "verseNo": 47,
+   "source": "esed",
+   "text": "çarpmayan ve sarhoşluk vermeyen"
+  },
+  {
+   "verseNo": 48,
+   "source": "diyanet",
+   "text": "Yanlarında bakışlarını yalnızca kendilerine çevirmiş iri gözlü eşler vardır."
+  },
+  {
+   "verseNo": 48,
+   "source": "okuyan",
+   "text": "Yanlarında bakışlarını yalnız onlara özel kılmış (güzel) gözlüler vardır."
+  },
+  {
+   "verseNo": 48,
+   "source": "esed",
+   "text": "Ve yanlarında yumuşak bakışlı, güzel gözlü eşler olacak"
+  },
+  {
+   "verseNo": 49,
+   "source": "diyanet",
+   "text": "Sanki onlar (beyazlıklarıyla), saklanmış (gün yüzü görmemiş) yumurtalardır."
+  },
+  {
+   "verseNo": 49,
+   "source": "okuyan",
+   "text": "Onlar saklı yumurta gibi bembeyazdır."
+  },
+  {
+   "verseNo": 49,
+   "source": "esed",
+   "text": "gizlenmiş (deve kuşu) yumurtaları gibi (kusursuz) eşler"
+  },
+  {
+   "verseNo": 50,
+   "source": "diyanet",
+   "text": "Derken birbirlerine yönelip sorarlar."
+  },
+  {
+   "verseNo": 50,
+   "source": "okuyan",
+   "text": "(Cennette) onların bir kısmı, diğerlerine yönelip birbirlerine sormaya başlayacaklar."
+  },
+  {
+   "verseNo": 50,
+   "source": "esed",
+   "text": "Hepsi dönüp (geçmiş hayatları hakkında) birbirlerine sorular soracaklar"
+  },
+  {
+   "verseNo": 51,
+   "source": "diyanet",
+   "text": "İçlerinden biri der ki: \"Benim bir arkadaşım vardı.\""
+  },
+  {
+   "verseNo": 51,
+   "source": "okuyan",
+   "text": "İçlerinden bir (mümin) şöyle diyecektir: “Benim yakın (bir arkadaş)ım vardı."
+  },
+  {
+   "verseNo": 51,
+   "source": "esed",
+   "text": "İçlerinden biri şöyle diyecek: \"Bakın, benim (yeryüzünde) bir arkadaşım vardı"
+  },
+  {
+   "verseNo": 52,
+   "source": "diyanet",
+   "text": "\"Sen de tekrar dirilmeyi tasdik edenlerden misin?\" derdi."
+  },
+  {
+   "verseNo": 52,
+   "source": "okuyan",
+   "text": "Der(di) ki: ‘Sen de (diriltilmeye) inananlardan mısın?'"
+  },
+  {
+   "verseNo": 52,
+   "source": "esed",
+   "text": "(bana) derdi ki, ´Ne? Sen onun doğru olduğuna gerçekten inananlardan mısın"
+  },
+  {
+   "verseNo": 53,
+   "source": "diyanet",
+   "text": "\"Gerçekten biz, ölüp bir toprak ve kemik yığını haline geldikten sonra mı, biz mi hesaba çekileceğiz?\""
+  },
+  {
+   "verseNo": 53,
+   "source": "okuyan",
+   "text": "Biz ölüp de toprak ve kemik hâline gelmişken mi, biz mi (diriltilip) cezalandırılacağız.”"
+  },
+  {
+   "verseNo": 53,
+   "source": "esed",
+   "text": "ölüp toz ve kemik yığını haline geldikten sonra yargılanacağımıza"
+  },
+  {
+   "verseNo": 54,
+   "source": "diyanet",
+   "text": "Konuşan o kimse yanındakilere, \"Bakar mısınız, hali ne oldu?\" der."
+  },
+  {
+   "verseNo": 54,
+   "source": "okuyan",
+   "text": "(Mümin kişi), “(O arkadaşımın durumunu) bilmek ister misiniz?” diyecektir."
+  },
+  {
+   "verseNo": 54,
+   "source": "esed",
+   "text": "(Ve) ekleyecek: \"Bakmak (ve onu görmek) ister misiniz"
+  },
+  {
+   "verseNo": 55,
+   "source": "diyanet",
+   "text": "Kendisi de bakar ve onu cehennemin ortasında görür."
+  },
+  {
+   "verseNo": 55,
+   "source": "okuyan",
+   "text": "(Ardından) bakıp arkadaşını cehennemin ortasında görecektir."
+  },
+  {
+   "verseNo": 55,
+   "source": "esed",
+   "text": "Bunun üzerine dönüp bakar ve o (arkadaşı)nı yanan ateşin ortasında görür"
+  },
+  {
+   "verseNo": 56,
+   "source": "diyanet",
+   "text": "Ona şöyle der: \"Allah'a andolsun, neredeyse beni de helak edecektin.\""
+  },
+  {
+   "verseNo": 56,
+   "source": "okuyan",
+   "text": "(Mümin olan, ateşteki arkadaşına) şöyle diyecektir: “Allah’a yemin olsun: Sen az daha beni de helak edecektin."
+  },
+  {
+   "verseNo": 56,
+   "source": "esed",
+   "text": "ve \"Aman Allahım!\" der, \"(Ey eski arkadaşım), neredeyse (beni de) mahvedecektin"
+  },
+  {
+   "verseNo": 57,
+   "source": "diyanet",
+   "text": "\"Rabbimin nimeti olmasaydı, mutlaka ben de cehenneme konulanlardan olmuştum.\""
+  },
+  {
+   "verseNo": 57,
+   "source": "okuyan",
+   "text": "Rabbimin nimeti olmasaydı, şimdi ben de (cehenneme) getirilenlerden olacaktım."
+  },
+  {
+   "verseNo": 57,
+   "source": "esed",
+   "text": "Eğer Rabbimin lütfu olmasaydı ben de (şimdi) (azaba) uğratılanlar arasında olurdum"
+  },
+  {
+   "verseNo": 58,
+   "source": "diyanet",
+   "text": "\"Nasıl, ilk ölümümüzden başka ölmeyecek miymişiz? Bize azap edilmeyecek miymiş?\""
+  },
+  {
+   "verseNo": 58,
+   "source": "okuyan",
+   "text": "58-59 . Birinci ölümümüz hariç, bir daha ölmeyeceğiz, değil mi? Biz azaba da uğratılmayacağız.”"
+  },
+  {
+   "verseNo": 58,
+   "source": "esed",
+   "text": "Ama sonra, (ey cennetteki arkadaşlarım,) biz gerçekten (bir daha) ölmeyeceğiz"
+  },
+  {
+   "verseNo": 59,
+   "source": "diyanet",
+   "text": "\"Nasıl, ilk ölümümüzden başka ölmeyecek miymişiz? Bize azap edilmeyecek miymiş?\""
+  },
+  {
+   "verseNo": 59,
+   "source": "okuyan",
+   "text": "58-59 . Birinci ölümümüz hariç, bir daha ölmeyeceğiz, değil mi? Biz azaba da uğratılmayacağız.”"
+  },
+  {
+   "verseNo": 59,
+   "source": "esed",
+   "text": "önceki ölümümüz dışında ve (bir daha) azaba uğratılmayacağız, değil mi"
+  },
+  {
+   "verseNo": 60,
+   "source": "diyanet",
+   "text": "Şüphesiz bu (cennetteki nimetlere ulaşmak) büyük bir başarıdır."
+  },
+  {
+   "verseNo": 60,
+   "source": "okuyan",
+   "text": "Şüphesiz ki bu, büyük bir kurtuluştur."
+  },
+  {
+   "verseNo": 60,
+   "source": "esed",
+   "text": "İşte bu; bu, gerçekten müthiş bir mazhariyettir"
+  },
+  {
+   "verseNo": 61,
+   "source": "diyanet",
+   "text": "Çalışanlar böylesi için çalışsınlar!"
+  },
+  {
+   "verseNo": 61,
+   "source": "okuyan",
+   "text": "Çalışanlar böylesi (bir kurtuluş) için çalışsınlar!"
+  },
+  {
+   "verseNo": 61,
+   "source": "esed",
+   "text": "(Allah yolunda) çalışanlar, demek ki böyle bir şey için çalışırlar"
+  },
+  {
+   "verseNo": 62,
+   "source": "diyanet",
+   "text": "Ziyafet olarak bu mu daha hayırlı, yoksa zakkum ağacı mı?"
+  },
+  {
+   "verseNo": 62,
+   "source": "okuyan",
+   "text": "Şimdi ziyafet olarak bu (nimetler) mi hayırlıdır, yoksa zakkum ağacı mı?"
+  },
+  {
+   "verseNo": 62,
+   "source": "esed",
+   "text": "Böyle (bir cennet) mi daha iyi bir ağırlanmadır, yoksa (cehennemin) ölümcül meyve ağacı mı"
+  },
+  {
+   "verseNo": 63,
+   "source": "diyanet",
+   "text": "Şüphesiz biz onu zalimler için bir imtihan aracı kıldık."
+  },
+  {
+   "verseNo": 63,
+   "source": "okuyan",
+   "text": "Şüphesiz ki biz onu (zakkumu) zalimler için bir fitne (sıkıntı) kıldık."
+  },
+  {
+   "verseNo": 63,
+   "source": "esed",
+   "text": "Gerçek şu ki, biz o (ağac)ı zalimler için bir sınama aracı yaptık"
+  },
+  {
+   "verseNo": 64,
+   "source": "diyanet",
+   "text": "O, cehennemin dibinde biten bir ağaçtır."
+  },
+  {
+   "verseNo": 64,
+   "source": "okuyan",
+   "text": "Şüphesiz ki o, cehennemin dibinde bitip yetişen bir ağaçtır."
+  },
+  {
+   "verseNo": 64,
+   "source": "esed",
+   "text": "zira o, (cehennemin) yakıcı ateşinin ortasında büyüyen bir ağaçtır"
+  },
+  {
+   "verseNo": 65,
+   "source": "diyanet",
+   "text": "Onun meyveleri sanki şeytanların kafalarıdır."
+  },
+  {
+   "verseNo": 65,
+   "source": "okuyan",
+   "text": "Tomurcukları sanki şeytanların başları gibidir."
+  },
+  {
+   "verseNo": 65,
+   "source": "esed",
+   "text": "meyvesi şeytanların kellesi gibi (tiksindirici)dir"
+  },
+  {
+   "verseNo": 66,
+   "source": "diyanet",
+   "text": "Cehennemlikler ondan yiyecekler ve onunla karınlarını dolduracaklardır."
+  },
+  {
+   "verseNo": 66,
+   "source": "okuyan",
+   "text": "(Cehennemdekiler) ondan yer ve karınlarını ondan doldururlar."
+  },
+  {
+   "verseNo": 66,
+   "source": "esed",
+   "text": "ve (zalim)ler ondan yemeye ve karınlarını onunla doldurmaya mahkumdurlar"
+  },
+  {
+   "verseNo": 67,
+   "source": "diyanet",
+   "text": "Sonra onlar için bunun üstüne kaynar sudan karışık bir içecek vardır."
+  },
+  {
+   "verseNo": 67,
+   "source": "okuyan",
+   "text": "Sonra (zakkumun) üzerinde onlar için kaynar sudan bir içecek vardır."
+  },
+  {
+   "verseNo": 67,
+   "source": "esed",
+   "text": "Bunun da üzerinde, onlar korkunç bir ümitsizlik (cezası)na çarpılacaklardır"
+  },
+  {
+   "verseNo": 68,
+   "source": "diyanet",
+   "text": "Sonra onların dönüşleri mutlaka cehennemedir."
+  },
+  {
+   "verseNo": 68,
+   "source": "okuyan",
+   "text": "Sonra elbette onların dönüşü çılgın ateşe olacaktır."
+  },
+  {
+   "verseNo": 68,
+   "source": "esed",
+   "text": "Ve bir kez daha (söyleyelim): yakıcı ateş onların nihai durağı olacaktır"
+  },
+  {
+   "verseNo": 69,
+   "source": "diyanet",
+   "text": "Çünkü onlar babalarını sapık kimseler olarak buldular."
+  },
+  {
+   "verseNo": 69,
+   "source": "okuyan",
+   "text": "Şüphesiz ki onlar, atalarını sapkınlıkta bulmuşlardı."
+  },
+  {
+   "verseNo": 69,
+   "source": "esed",
+   "text": "çünkü onlar atalarını eğri bir yol üzerinde buldular"
+  },
+  {
+   "verseNo": 70,
+   "source": "diyanet",
+   "text": "Kendileri de onların izinden koşa koşa gitmektedirler."
+  },
+  {
+   "verseNo": 70,
+   "source": "okuyan",
+   "text": "Kendileri de onların peşlerinden koşturuyorlar."
+  },
+  {
+   "verseNo": 70,
+   "source": "esed",
+   "text": "ve (şimdi) atalarının izinden gitmeye can atıyorlar"
+  },
+  {
+   "verseNo": 71,
+   "source": "diyanet",
+   "text": "Andolsun, onlardan önce, evvelkilerin çoğu da sapmıştı."
+  },
+  {
+   "verseNo": 71,
+   "source": "okuyan",
+   "text": "Yemin olsun ki kendilerinden önceki eski toplumların çoğu sapmıştı."
+  },
+  {
+   "verseNo": 71,
+   "source": "esed",
+   "text": "Onlardan önce gelip geçmiş eski toplumların çoğu yollarını şaşırmıştı"
+  },
+  {
+   "verseNo": 72,
+   "source": "diyanet",
+   "text": "Andolsun, biz onlara da uyarıcılar göndermiştik."
+  },
+  {
+   "verseNo": 72,
+   "source": "okuyan",
+   "text": "Yemin olsun ki biz onlara uyarıcılar göndermiştik."
+  },
+  {
+   "verseNo": 72,
+   "source": "esed",
+   "text": "halbuki kendilerine uyarıcılar göndermiştik"
+  },
+  {
+   "verseNo": 73,
+   "source": "diyanet",
+   "text": "Bak, uyarılanların sonu nasıl oldu!"
+  },
+  {
+   "verseNo": 73,
+   "source": "okuyan",
+   "text": "73-74 . Allah’ın samimi kulları hariç, uyarılanların (fakat inanmayanların) sonunun nasıl olduğuna bir bak!"
+  },
+  {
+   "verseNo": 73,
+   "source": "esed",
+   "text": "Bak şu uyarılmış olanların haline"
+  },
+  {
+   "verseNo": 74,
+   "source": "diyanet",
+   "text": "Ancak Allah'ın ihlâslı kulları başka."
+  },
+  {
+   "verseNo": 74,
+   "source": "okuyan",
+   "text": "73-74 . Allah’ın samimi kulları hariç, uyarılanların (fakat inanmayanların) sonunun nasıl olduğuna bir bak!"
+  },
+  {
+   "verseNo": 74,
+   "source": "esed",
+   "text": "Allah´ın halis kulları hariç, (insanların çoğu sapkınlığa mütemayildir)"
+  },
+  {
+   "verseNo": 75,
+   "source": "diyanet",
+   "text": "Andolsun, Nûh bize dua edip seslenmişti. Biz ne güzel cevap vereniz!"
+  },
+  {
+   "verseNo": 75,
+   "source": "okuyan",
+   "text": "Yemin olsun ki Nuh, bize yalvarıp yakarmıştı. Biz duayı ne güzel kabul edeniz!"
+  },
+  {
+   "verseNo": 75,
+   "source": "esed",
+   "text": "Nuh (işte bu sebeple) Bize yalvarmıştı ve Bizim cevabımız ne güzeldi"
+  },
+  {
+   "verseNo": 76,
+   "source": "diyanet",
+   "text": "Onu ve ailesini o büyük sıkıntıdan kurtardık."
+  },
+  {
+   "verseNo": 76,
+   "source": "okuyan",
+   "text": "Kendisini ve ailesini (destekçilerini) büyük felaketten kurtarmıştık."
+  },
+  {
+   "verseNo": 76,
+   "source": "esed",
+   "text": "çünkü onu ve ailesini o korkunç felaketten kurtardık"
+  },
+  {
+   "verseNo": 77,
+   "source": "diyanet",
+   "text": "Onun neslini yeryüzünde kalanlar kıldık."
+  },
+  {
+   "verseNo": 77,
+   "source": "okuyan",
+   "text": "Biz onun (Nuh’un) soyunu -işte onları- kalıcı kılmıştık."
+  },
+  {
+   "verseNo": 77,
+   "source": "esed",
+   "text": "soyunu (yeryüzünde) kalıcı yaptık"
+  },
+  {
+   "verseNo": 78,
+   "source": "diyanet",
+   "text": "Sonradan gelenler arasında ona güzel bir ad bıraktık."
+  },
+  {
+   "verseNo": 78,
+   "source": "okuyan",
+   "text": "Sonrakiler arasında ona (iyi bir ün) bırakmıştık."
+  },
+  {
+   "verseNo": 78,
+   "source": "esed",
+   "text": "ve böylece onun sonraki kuşaklar arasında yaşayıp anılmasını sağladık"
+  },
+  {
+   "verseNo": 79,
+   "source": "diyanet",
+   "text": "Âlemler içinde Nûh'a selam olsun!"
+  },
+  {
+   "verseNo": 79,
+   "source": "okuyan",
+   "text": "Bütün âlemlerde Nuh’a selam olsun!"
+  },
+  {
+   "verseNo": 79,
+   "source": "esed",
+   "text": "Bütün alemlerde Nuh´a selam olsun"
+  },
+  {
+   "verseNo": 80,
+   "source": "diyanet",
+   "text": "İşte biz iyilik yapanları böyle mükafatlandırırız."
+  },
+  {
+   "verseNo": 80,
+   "source": "okuyan",
+   "text": "Şüphesiz ki biz güzel davrananları işte böyle ödüllendiririz."
+  },
+  {
+   "verseNo": 80,
+   "source": "esed",
+   "text": "İşte Biz güzel işler yapanları böyle ödüllendiririz"
+  },
+  {
+   "verseNo": 81,
+   "source": "diyanet",
+   "text": "Çünkü o, bizim mü'min kullarımızdandı."
+  },
+  {
+   "verseNo": 81,
+   "source": "okuyan",
+   "text": "Şüphesiz ki o, mümin kullarımızdandı."
+  },
+  {
+   "verseNo": 81,
+   "source": "esed",
+   "text": "çünkü o, Bizim gerçekten inanmış kullarımızdandı"
+  },
+  {
+   "verseNo": 82,
+   "source": "diyanet",
+   "text": "Sonra biz, diğerlerini suda boğduk."
+  },
+  {
+   "verseNo": 82,
+   "source": "okuyan",
+   "text": "Sonra diğerlerini (suda) boğmuştuk."
+  },
+  {
+   "verseNo": 82,
+   "source": "esed",
+   "text": "(böylece o´nu ve kendisini izleyenleri kurtardık) ve sonra ötekileri suda boğduk"
+  },
+  {
+   "verseNo": 83,
+   "source": "diyanet",
+   "text": "Şüphesiz İbrahim de onun taraftarlarından idi."
+  },
+  {
+   "verseNo": 83,
+   "source": "okuyan",
+   "text": "Şüphesiz ki İbrahim de onun (Nuh’un) tarafındandı."
+  },
+  {
+   "verseNo": 83,
+   "source": "esed",
+   "text": "Doğrusu İbrahim de onun yolundan gidenlerdendi"
+  },
+  {
+   "verseNo": 84,
+   "source": "diyanet",
+   "text": "Hani o, Rabbine temiz bir kalple gelmişti"
+  },
+  {
+   "verseNo": 84,
+   "source": "okuyan",
+   "text": "Hani o, Rabbine teslim olan (tertemiz) bir kalp ile gelmişti."
+  },
+  {
+   "verseNo": 84,
+   "source": "esed",
+   "text": "Rabbine tertemiz bir kalp ile yönelmişti"
+  },
+  {
+   "verseNo": 85,
+   "source": "diyanet",
+   "text": "Hani babasına ve kavmine şöyle demişti: \"Siz neye tapıyorsunuz?\""
+  },
+  {
+   "verseNo": 85,
+   "source": "okuyan",
+   "text": "Hani babasına ve halkına şöyle demişti: “Siz neye kulluk ediyorsunuz?"
+  },
+  {
+   "verseNo": 85,
+   "source": "esed",
+   "text": "babasına ve halkına şöyle seslenmişti: \"Siz neye tapıyorsunuz"
+  },
+  {
+   "verseNo": 86,
+   "source": "diyanet",
+   "text": "\"Allah'ı bırakıp da bir takım uydurma ilahlar mı istiyorsunuz?\""
+  },
+  {
+   "verseNo": 86,
+   "source": "okuyan",
+   "text": "Allah’ın peşi sıra uydurma ilahlar(a) mı?"
+  },
+  {
+   "verseNo": 86,
+   "source": "esed",
+   "text": "Bir yalan(a) -Allah´tan başka güçler(e)- (boyun eğmek) mi istiyorsunuz"
+  },
+  {
+   "verseNo": 87,
+   "source": "diyanet",
+   "text": "\"O halde Âlemlerin Rabbi hakkında görüşünüz nedir?\""
+  },
+  {
+   "verseNo": 87,
+   "source": "okuyan",
+   "text": "Âlemlerin Rabbi hakkındaki görüşünüz nedir?”"
+  },
+  {
+   "verseNo": 87,
+   "source": "esed",
+   "text": "Öyleyse alemlerin Rabbi hakkındaki görüşünüz nedir"
+  },
+  {
+   "verseNo": 88,
+   "source": "diyanet",
+   "text": "İbrahim yıldızlara baktı ve \"Ben hastayım\" dedi."
+  },
+  {
+   "verseNo": 88,
+   "source": "okuyan",
+   "text": "Sonra yıldızlara bakmıştı."
+  },
+  {
+   "verseNo": 88,
+   "source": "esed",
+   "text": "Sonra yıldızlara gözünü dikti"
+  },
+  {
+   "verseNo": 89,
+   "source": "diyanet",
+   "text": "İbrahim yıldızlara baktı ve \"Ben hastayım\" dedi."
+  },
+  {
+   "verseNo": 89,
+   "source": "okuyan",
+   "text": "“Ben hâlsizim (hastayım)!” demişti."
+  },
+  {
+   "verseNo": 89,
+   "source": "esed",
+   "text": "ve \"Ben kesinlikle (gönlümden) rahatsızım!\" dedi"
+  },
+  {
+   "verseNo": 90,
+   "source": "diyanet",
+   "text": "Bunun üzerine arkalarını dönüp ondan uzaklaştılar."
+  },
+  {
+   "verseNo": 90,
+   "source": "okuyan",
+   "text": "Onlar (kavmi) de ona arkalarını dönüp (gitmiş)lerdi."
+  },
+  {
+   "verseNo": 90,
+   "source": "esed",
+   "text": "bunun üzerine onlar ona arkalarını döndüler ve uzaklaşıp gittiler"
+  },
+  {
+   "verseNo": 91,
+   "source": "diyanet",
+   "text": "İbrahim onların putlarının tarafına gizlice gitti ve şöyle dedi: \"Yemez misiniz?\""
+  },
+  {
+   "verseNo": 91,
+   "source": "okuyan",
+   "text": "91-92 . (İbrahim) yavaşça putlarının yanına varmış, (önlerine konmuş yemekleri görünce) “Yemiyor musunuz? Neden konuşmuyorsunuz?” demişti."
+  },
+  {
+   "verseNo": 91,
+   "source": "esed",
+   "text": "O da onların tanrılarına gizlice yaklaştı ve \"Ne o! (Önünüze konulmuş nimetlerden) yemiyor musunuz"
+  },
+  {
+   "verseNo": 92,
+   "source": "diyanet",
+   "text": "\"Ne diye konuşmuyorsunuz?\""
+  },
+  {
+   "verseNo": 92,
+   "source": "okuyan",
+   "text": "91-92 . (İbrahim) yavaşça putlarının yanına varmış, (önlerine konmuş yemekleri görünce) “Yemiyor musunuz? Neden konuşmuyorsunuz?” demişti."
+  },
+  {
+   "verseNo": 92,
+   "source": "esed",
+   "text": "Neyiniz var ki konuşmuyorsunuz?\" dedi"
+  },
+  {
+   "verseNo": 93,
+   "source": "diyanet",
+   "text": "Derken üzerlerine yürüyüp onlara güçlü bir darbe indirdi."
+  },
+  {
+   "verseNo": 93,
+   "source": "okuyan",
+   "text": "(Yanlarına giderek) sağ eliyle (güçlü bir şekilde) onlara vurmuştu (kırmıştı)."
+  },
+  {
+   "verseNo": 93,
+   "source": "esed",
+   "text": "Sonra üzerlerine yürüyüp onlara sağ eliyle vurdu"
+  },
+  {
+   "verseNo": 94,
+   "source": "diyanet",
+   "text": "Kavmi (telaş içinde) koşarak ona doğru geldi."
+  },
+  {
+   "verseNo": 94,
+   "source": "okuyan",
+   "text": "(Putperestler) koşarak ona gelmişlerdi."
+  },
+  {
+   "verseNo": 94,
+   "source": "esed",
+   "text": "Bunun üzerine diğerleri koşarak o´na doğru geldiler (ve yaptığından dolayı o´nu suçladılar)"
+  },
+  {
+   "verseNo": 95,
+   "source": "diyanet",
+   "text": "İbrahim şöyle dedi: \"Yonttuğunuz putlara mı tapıyorsunuz?\""
+  },
+  {
+   "verseNo": 95,
+   "source": "okuyan",
+   "text": "95-96 . (İbrahim) “Yonttuğunuz şeylere mi ibadet ediyorsunuz! Sizi ve yapmakta olduklarınızı Allah yarattı” demişti."
+  },
+  {
+   "verseNo": 95,
+   "source": "esed",
+   "text": "O, \"Siz\" dedi, \"kendi ellerinizle yonttuklarınıza mı tapıyorsunuz"
+  },
+  {
+   "verseNo": 96,
+   "source": "diyanet",
+   "text": "\"Oysa Allah sizi de, yaptığınız şeyleri de yaratmıştır.\""
+  },
+  {
+   "verseNo": 96,
+   "source": "okuyan",
+   "text": "95-96 . (İbrahim) “Yonttuğunuz şeylere mi ibadet ediyorsunuz! Sizi ve yapmakta olduklarınızı Allah yarattı” demişti."
+  },
+  {
+   "verseNo": 96,
+   "source": "esed",
+   "text": "Oysa sizi de, sizin yonttuklarınızı da yaratan Allah´tır"
+  },
+  {
+   "verseNo": 97,
+   "source": "diyanet",
+   "text": "Kavmi, \"Onun için bir bina yapın, (içinde ateş yakın) ve onu ateşe atın\" dedi."
+  },
+  {
+   "verseNo": 97,
+   "source": "okuyan",
+   "text": "(Putperestler ise) “Onun için bir bina yapın ve derhal onu ateşe atın!” demişlerdi."
+  },
+  {
+   "verseNo": 97,
+   "source": "esed",
+   "text": "Onlar, \"Bir odun yığını hazırlayın ve o´nu yanan ateşin içine atın!\" diye bağırdılar"
+  },
+  {
+   "verseNo": 98,
+   "source": "diyanet",
+   "text": "Böylece ona bir tuzak kurmak istediler. Biz de onları en alçak kimseler kıldık."
+  },
+  {
+   "verseNo": 98,
+   "source": "okuyan",
+   "text": "Ona bir tuzak kurmayı istemişlerdi. Fakat biz onları alçaklardan kılmıştık."
+  },
+  {
+   "verseNo": 98,
+   "source": "esed",
+   "text": "Ona kötülük yapmak istediler, ama Biz (onların planlarını bozduk ve böylece) onları küçük düşürdük"
+  },
+  {
+   "verseNo": 99,
+   "source": "diyanet",
+   "text": "İbrahim şöyle dedi: \"Ben Rabbime (onun emrettiği yere) gideceğim. O bana yol gösterecektir.\""
+  },
+  {
+   "verseNo": 99,
+   "source": "okuyan",
+   "text": "99-100 . (İbrahim) “Ben Rabbime gidiyorum. O, bana doğru yolu gösterecektir. Rabbim! Bana iyilerden (olacak bir çocuk) ver!” demişti."
+  },
+  {
+   "verseNo": 99,
+   "source": "esed",
+   "text": "(İbrahim,) \"Ben\" dedi, \"(bu toprakları terk edeceğim ve) Rabbim beni ne tarafa sevk ederse oraya gideceğim"
+  },
+  {
+   "verseNo": 100,
+   "source": "diyanet",
+   "text": "\"Ey Rabbim! Bana salihlerden olacak bir çocuk bağışla.\""
+  },
+  {
+   "verseNo": 100,
+   "source": "okuyan",
+   "text": "99-100 . (İbrahim) “Ben Rabbime gidiyorum. O, bana doğru yolu gösterecektir. Rabbim! Bana iyilerden (olacak bir çocuk) ver!” demişti."
+  },
+  {
+   "verseNo": 100,
+   "source": "esed",
+   "text": "(Ve şöyle yalvardı:) \"Ey Rabbim! Bana dürüst ve erdemli (olacak bir erkek çocuk) bağışla"
+  },
+  {
+   "verseNo": 101,
+   "source": "diyanet",
+   "text": "Biz de ona uysal bir oğul müjdeledik."
+  },
+  {
+   "verseNo": 101,
+   "source": "okuyan",
+   "text": "Biz de onu çok hoşgörülü bir oğul ile müjdelemiştik."
+  },
+  {
+   "verseNo": 101,
+   "source": "esed",
+   "text": "Bunun üzerine ona (kendisi gibi) yumuşak huylu bir erkek çocuk müjdeledik"
+  },
+  {
+   "verseNo": 102,
+   "source": "diyanet",
+   "text": "Çocuk kendisiyle birlikte koşup yürüyecek yaşa gelince İbrahim ona, \"Yavrum, ben rüyamda seni boğazladığımı gördüm. Düşün bakalım, ne dersin?\" dedi. O da, \"Babacığım, emrolunduğun şeyi yap. İnşaallah beni sabredenlerden bulacaksın\" dedi."
+  },
+  {
+   "verseNo": 102,
+   "source": "okuyan",
+   "text": "(Oğlu) onunla birlikte koşmaya (çalışıp çabalama çağına) ulaşınca, (İbrahim) “Ey yavrucuğum! Rüyada seni kesmekte olduğumu görüyorum; bir düşün, ne dersin?” demişti. (O da) “Ey babacığım! Emrolunduğun şeyi yap! İnşallah beni sabredenlerden bulacaksın.” demişti."
+  },
+  {
+   "verseNo": 102,
+   "source": "esed",
+   "text": "Ve (bir gün, çocuk, babasının) tutum ve davranışlarını anlayıp paylaşacak olgunluğa eriştiğinde babası şöyle dedi: \"Ey yavrucuğum! Rüyamda seni kurban ettiğimi gördüm, bir düşün, ne dersin?\" (İsmail): \"Ey babacığım\" dedi, \"sana emredilen neyse onu yap! İnşallah beni sıkıntıya göğüs gerenler arasında bulacaksın"
+  },
+  {
+   "verseNo": 103,
+   "source": "diyanet",
+   "text": "Nihayet her ikisi de (Allah'ın emrine) boyun eğip, İbrahim de onu (boğazlamak için) yüz üstü yere yatırınca ona, şöyle seslendik: \"Ey İbrahim!\""
+  },
+  {
+   "verseNo": 103,
+   "source": "okuyan",
+   "text": "Her ikisi de teslim olup, onu (oğlunu) alnı üzerine yatırınca,"
+  },
+  {
+   "verseNo": 103,
+   "source": "esed",
+   "text": "Fakat ikisi Allah´ın emri (olarak gördükleri)ne kendilerini teslim edince ve (İbrahim) onu yüzüstü yatırınca"
+  },
+  {
+   "verseNo": 104,
+   "source": "diyanet",
+   "text": "Nihayet her ikisi de (Allah'ın emrine) boyun eğip, İbrahim de onu (boğazlamak için) yüz üstü yere yatırınca ona, şöyle seslendik: \"Ey İbrahim!\""
+  },
+  {
+   "verseNo": 104,
+   "source": "okuyan",
+   "text": "104-105 . Biz ona “Ey İbrahim! Elbette rüyayı gerçekleştirdin. Şüphesiz ki biz, güzel davrananları böyle ödüllendiririz.” diye seslenmiştik."
+  },
+  {
+   "verseNo": 104,
+   "source": "esed",
+   "text": "kendisine seslendik: \"Ey İbrahim"
+  },
+  {
+   "verseNo": 105,
+   "source": "diyanet",
+   "text": "\"Gördüğün rüyanın hükmünü yerine getirdin. Şüphesiz biz iyilik yapanları böyle mükafatlandırırız.\""
+  },
+  {
+   "verseNo": 105,
+   "source": "okuyan",
+   "text": "104-105 . Biz ona “Ey İbrahim! Elbette rüyayı gerçekleştirdin. Şüphesiz ki biz, güzel davrananları böyle ödüllendiririz.” diye seslenmiştik."
+  },
+  {
+   "verseNo": 105,
+   "source": "esed",
+   "text": "sen şimdiden o rüya(nın amacı)nı yerine getirmiş oldun!\" İşte iyilik yapanları Biz böyle ödüllendiririz"
+  },
+  {
+   "verseNo": 106,
+   "source": "diyanet",
+   "text": "\"Şüphesiz bu apaçık bir imtihandır.\""
+  },
+  {
+   "verseNo": 106,
+   "source": "okuyan",
+   "text": "Bu, apaçık bir imtihandı."
+  },
+  {
+   "verseNo": 106,
+   "source": "esed",
+   "text": "çünkü bu, gerçekten apaçık bir sınama idi"
+  },
+  {
+   "verseNo": 107,
+   "source": "diyanet",
+   "text": "Biz, (İbrahim'e) büyük bir kurbanlık vererek onu (İsmail'i) kurtardık."
+  },
+  {
+   "verseNo": 107,
+   "source": "okuyan",
+   "text": "Biz (oğlunun yerine) ona büyük bir kurban fidye vermiştik."
+  },
+  {
+   "verseNo": 107,
+   "source": "esed",
+   "text": "Ve fidye olarak o´na büyük bir kurban verdik"
+  },
+  {
+   "verseNo": 108,
+   "source": "diyanet",
+   "text": "Sonradan gelenler arasında ona güzel bir ad bıraktık."
+  },
+  {
+   "verseNo": 108,
+   "source": "okuyan",
+   "text": "Sonrakiler arasında ona (iyi bir ün) bırakmıştık."
+  },
+  {
+   "verseNo": 108,
+   "source": "esed",
+   "text": "böylece o´nun sonraki kuşaklar tarafından şöyle hatırlanmasını sağladık"
+  },
+  {
+   "verseNo": 109,
+   "source": "diyanet",
+   "text": "İbrahim'e selam olsun."
+  },
+  {
+   "verseNo": 109,
+   "source": "okuyan",
+   "text": "İbrahim’e de selam olsun!"
+  },
+  {
+   "verseNo": 109,
+   "source": "esed",
+   "text": "İbrahim´e selam olsun"
+  },
+  {
+   "verseNo": 110,
+   "source": "diyanet",
+   "text": "İyilik yapanları işte böyle mükafatlandırırız."
+  },
+  {
+   "verseNo": 110,
+   "source": "okuyan",
+   "text": "İşte (biz) güzel davrananları böyle ödüllendiririz."
+  },
+  {
+   "verseNo": 110,
+   "source": "esed",
+   "text": "Biz iyileri böyle ödüllendiririz"
+  },
+  {
+   "verseNo": 111,
+   "source": "diyanet",
+   "text": "Çünkü o mü'min kullarımızdandı."
+  },
+  {
+   "verseNo": 111,
+   "source": "okuyan",
+   "text": "Şüphesiz ki o, mümin kullarımızdandı."
+  },
+  {
+   "verseNo": 111,
+   "source": "esed",
+   "text": "çünkü o Bizim gerçekten inanmış kullarımızdandı"
+  },
+  {
+   "verseNo": 112,
+   "source": "diyanet",
+   "text": "Biz onu salihlerden bir peygamber olarak İshak ile de müjdeledik."
+  },
+  {
+   "verseNo": 112,
+   "source": "okuyan",
+   "text": "İyilerden bir peygamber olarak ona İshak’ı müjdelemiştik."
+  },
+  {
+   "verseNo": 112,
+   "source": "esed",
+   "text": "Ve (zamanı geldiğinde) ona, (kendisi de) bir peygamber (olan) dürüst ve erdemli birini, İshak´ı müjdeledik"
+  },
+  {
+   "verseNo": 113,
+   "source": "diyanet",
+   "text": "Onu da İshak'ı da uğurlu kıldık. Her ikisinin nesillerinden iyilik yapanlar da vardı, kendine apaçık zulmedenler de."
+  },
+  {
+   "verseNo": 113,
+   "source": "okuyan",
+   "text": "Ona ve İshak’a bereketler vermiştik. Her ikisinin neslinden iyilik yapan da kendisine açıkça haksızlık eden de çıkacaktır."
+  },
+  {
+   "verseNo": 113,
+   "source": "esed",
+   "text": "onu ve İshak´ı kutsadık ama onların soyundan iyi işler yapan da çıkacak, kendisine açıkça zulmeden de"
+  },
+  {
+   "verseNo": 114,
+   "source": "diyanet",
+   "text": "Andolsun, biz Mûsâ'ya ve Hârûn'a da lütufta bulunduk."
+  },
+  {
+   "verseNo": 114,
+   "source": "okuyan",
+   "text": "Yemin olsun ki biz Musa’ya ve Harun’a da nimetler vermiştik."
+  },
+  {
+   "verseNo": 114,
+   "source": "esed",
+   "text": "Biz, Musaya ve Harun´a da lütufta bulunduk"
+  },
+  {
+   "verseNo": 115,
+   "source": "diyanet",
+   "text": "Onları ve kavimlerini o büyük sıkıntıdan kurtardık."
+  },
+  {
+   "verseNo": 115,
+   "source": "okuyan",
+   "text": "Onları ve toplumlarını o büyük sıkıntıdan kurtarmıştık."
+  },
+  {
+   "verseNo": 115,
+   "source": "esed",
+   "text": "onları ve kavimlerini büyük bir (kölelik) felaket(in)den kurtardık"
+  },
+  {
+   "verseNo": 116,
+   "source": "diyanet",
+   "text": "Onlara yardım ettik de onlar galip gelenler oldular."
+  },
+  {
+   "verseNo": 116,
+   "source": "okuyan",
+   "text": "Kendilerine yardım etmiştik ve galip gelenler işte onlar olmuştu."
+  },
+  {
+   "verseNo": 116,
+   "source": "esed",
+   "text": "ve kendilerine yardım ettik de (sonunda) zafer kazanan onlar oldu"
+  },
+  {
+   "verseNo": 117,
+   "source": "diyanet",
+   "text": "Biz onlara (hükümlerimizi) açıklayan Kitab'ı (Tevrat'ı) verdik."
+  },
+  {
+   "verseNo": 117,
+   "source": "okuyan",
+   "text": "İkisine de apaçık anlaşılan Kitabı vermiştik."
+  },
+  {
+   "verseNo": 117,
+   "source": "esed",
+   "text": "Onlara (doğru ile eğriyi) ayırd eden ilahi kelamı verdik"
+  },
+  {
+   "verseNo": 118,
+   "source": "diyanet",
+   "text": "Onları doğru yola ilettik."
+  },
+  {
+   "verseNo": 118,
+   "source": "okuyan",
+   "text": "Her ikisini de doğru yola ulaştırmıştık."
+  },
+  {
+   "verseNo": 118,
+   "source": "esed",
+   "text": "ve onları doğru yola ilettik"
+  },
+  {
+   "verseNo": 119,
+   "source": "diyanet",
+   "text": "Sonradan gelenler arasında onlara güzel birer ad bıraktık."
+  },
+  {
+   "verseNo": 119,
+   "source": "okuyan",
+   "text": "Sonrakiler arasında o ikisine (iyi bir ün) bırakmıştık."
+  },
+  {
+   "verseNo": 119,
+   "source": "esed",
+   "text": "ve sonraki kuşaklar arasında yaşayıp anılmalarını sağladık"
+  },
+  {
+   "verseNo": 120,
+   "source": "diyanet",
+   "text": "Mûsâ'ya ve Hârûn'a selam olsun."
+  },
+  {
+   "verseNo": 120,
+   "source": "okuyan",
+   "text": "Musa'ya ve Harun’a da selam olsun!"
+  },
+  {
+   "verseNo": 120,
+   "source": "esed",
+   "text": "Musa´ya ve Harun´a selam olsun"
+  },
+  {
+   "verseNo": 121,
+   "source": "diyanet",
+   "text": "Şüphesiz biz iyilik yapanları böyle mükafatlandırırız."
+  },
+  {
+   "verseNo": 121,
+   "source": "okuyan",
+   "text": "Şüphesiz ki biz güzel davrananları işte böyle ödüllendiririz."
+  },
+  {
+   "verseNo": 121,
+   "source": "esed",
+   "text": "İyileri işte böyle ödüllendiririz"
+  },
+  {
+   "verseNo": 122,
+   "source": "diyanet",
+   "text": "Çünkü onlar mü'min kullarımızdan idiler."
+  },
+  {
+   "verseNo": 122,
+   "source": "okuyan",
+   "text": "Şüphesiz ki o ikisi de inanmış kullarımızdandı."
+  },
+  {
+   "verseNo": 122,
+   "source": "esed",
+   "text": "çünkü onların ikisi de gerçekten inanmış kullarımızdandı"
+  },
+  {
+   "verseNo": 123,
+   "source": "diyanet",
+   "text": "Şüphesiz İlyas da peygamberlerden idi."
+  },
+  {
+   "verseNo": 123,
+   "source": "okuyan",
+   "text": "Şüphesiz ki İlyas da elbette elçilerdendi."
+  },
+  {
+   "verseNo": 123,
+   "source": "esed",
+   "text": "Kuşkusuz, İlyas (da) elçilerimizden biriydi"
+  },
+  {
+   "verseNo": 124,
+   "source": "diyanet",
+   "text": "Hani kavmine şöyle demişti: \"Allah'a karşı gelmekten sakınmaz mısınız?\""
+  },
+  {
+   "verseNo": 124,
+   "source": "okuyan",
+   "text": "Hani kavmine şöyle demişti: “(Allah’a karşı) takvâlı (duyarlı) olmuyor musunuz?"
+  },
+  {
+   "verseNo": 124,
+   "source": "esed",
+   "text": "ve kavmine şöyle seslenmişti: \"Allah´a karşı sorumluluğunuzu idrak etmez misiniz"
+  },
+  {
+   "verseNo": 125,
+   "source": "diyanet",
+   "text": "\"Yaratıcıların en güzelini, sizin ve geçmiş atalarınızın Rabbi olan Allah'ı bırakarak \"Ba'l'e mi tapıyorsunuz?\""
+  },
+  {
+   "verseNo": 125,
+   "source": "okuyan",
+   "text": "125-126 . \"Yaratanların en iyisini yani sizin de Rabbiniz, atalarınızın da Rabbi olan Allah’ı bırakıp da Ba‘l’e mi yalvarıyorsunuz?” (diye devam etmişti)."
+  },
+  {
+   "verseNo": 125,
+   "source": "esed",
+   "text": "Ba´l´e yalvarıp sanatkarların en güzelini, (Allah´ı) bırakır mısınız"
+  },
+  {
+   "verseNo": 126,
+   "source": "diyanet",
+   "text": "\"Yaratıcıların en güzelini, sizin ve geçmiş atalarınızın Rabbi olan Allah'ı bırakarak \"Ba'l'e mi tapıyorsunuz?\""
+  },
+  {
+   "verseNo": 126,
+   "source": "okuyan",
+   "text": "125-126 . \"Yaratanların en iyisini yani sizin de Rabbiniz, atalarınızın da Rabbi olan Allah’ı bırakıp da Ba‘l’e mi yalvarıyorsunuz?” (diye devam etmişti)."
+  },
+  {
+   "verseNo": 126,
+   "source": "esed",
+   "text": "Allah´ı, sizin ve evvelki atalarınızın Rabbini"
+  },
+  {
+   "verseNo": 127,
+   "source": "diyanet",
+   "text": "Onu yalanladılar. Bu sebeple onlar (cehenneme) götürüleceklerdir."
+  },
+  {
+   "verseNo": 127,
+   "source": "okuyan",
+   "text": "(Kavmi) onu (İlyas’ı) yalanlamıştı. Şüphesiz ki onlar (cehennemde) hazır kılınacaklardır."
+  },
+  {
+   "verseNo": 127,
+   "source": "esed",
+   "text": "Fakat onlar (İlyas´ı) yalanladılar: bu nedenle (Hesap Günü) kesinlikle yargılanacaklardır"
+  },
+  {
+   "verseNo": 128,
+   "source": "diyanet",
+   "text": "Ancak Allah'ın ihlâslı kulları başka."
+  },
+  {
+   "verseNo": 128,
+   "source": "okuyan",
+   "text": "Allah’ın samimi kulları hariç."
+  },
+  {
+   "verseNo": 128,
+   "source": "esed",
+   "text": "yalnız Allah´ın halis kulları hariç"
+  },
+  {
+   "verseNo": 129,
+   "source": "diyanet",
+   "text": "Sonradan gelenler içerisinde ona güzel bir ad bıraktık."
+  },
+  {
+   "verseNo": 129,
+   "source": "okuyan",
+   "text": "Sonrakiler arasında ona (iyi bir ün) bırakmıştık."
+  },
+  {
+   "verseNo": 129,
+   "source": "esed",
+   "text": "ve o´nun sonraki nesiller arasında yaşayıp anılmasını sağladık"
+  },
+  {
+   "verseNo": 130,
+   "source": "diyanet",
+   "text": "İlyas'a selam olsun"
+  },
+  {
+   "verseNo": 130,
+   "source": "okuyan",
+   "text": "İlyas’a selam olsun!"
+  },
+  {
+   "verseNo": 130,
+   "source": "esed",
+   "text": "İlyas´a ve o´nun yolundan gidenlere selam olsun"
+  },
+  {
+   "verseNo": 131,
+   "source": "diyanet",
+   "text": "Şüphesiz biz iyilik yapanları böyle mükafatlandırırız"
+  },
+  {
+   "verseNo": 131,
+   "source": "okuyan",
+   "text": "Şüphesiz ki biz güzel davrananları işte böyle ödüllendiririz."
+  },
+  {
+   "verseNo": 131,
+   "source": "esed",
+   "text": "İyileri işte böyle ödüllendiririz"
+  },
+  {
+   "verseNo": 132,
+   "source": "diyanet",
+   "text": "Çünkü o bizim mü'min kullarımızdandı."
+  },
+  {
+   "verseNo": 132,
+   "source": "okuyan",
+   "text": "Şüphesiz ki o, mümin kullarımızdandı."
+  },
+  {
+   "verseNo": 132,
+   "source": "esed",
+   "text": "çünkü o, gerçekten inanmış kullarımızdan biriydi"
+  },
+  {
+   "verseNo": 133,
+   "source": "diyanet",
+   "text": "Şüphesiz Lût da peygamberlerdendi."
+  },
+  {
+   "verseNo": 133,
+   "source": "okuyan",
+   "text": "Şüphesiz ki Lut da elbette elçilerdendi."
+  },
+  {
+   "verseNo": 133,
+   "source": "esed",
+   "text": "Şüphesiz, Lut da elçilerimizden biriydi"
+  },
+  {
+   "verseNo": 134,
+   "source": "diyanet",
+   "text": "Hani biz onu ve geride kalanlar arasındaki yaşlı bir kadın (kâfir olan eşi) dışında bütün ailesini kurtarmıştık."
+  },
+  {
+   "verseNo": 134,
+   "source": "okuyan",
+   "text": "134-135 . Hani biz geride kalanlar arasındaki yaşlı (eşi) hariç, onu ve bütün ailesini kurtarmıştık."
+  },
+  {
+   "verseNo": 134,
+   "source": "esed",
+   "text": "(dolayısıyla, o´nun günahkar ülkesini cezalandırırken) kendisini ve aile efradını kurtardık"
+  },
+  {
+   "verseNo": 135,
+   "source": "diyanet",
+   "text": "Hani biz onu ve geride kalanlar arasındaki yaşlı bir kadın (kâfir olan eşi) dışında bütün ailesini kurtarmıştık."
+  },
+  {
+   "verseNo": 135,
+   "source": "okuyan",
+   "text": "134-135 . Hani biz geride kalanlar arasındaki yaşlı (eşi) hariç, onu ve bütün ailesini kurtarmıştık."
+  },
+  {
+   "verseNo": 135,
+   "source": "esed",
+   "text": "geride kalanlar arasında bulunan yaşlı bir kadın dışında"
+  },
+  {
+   "verseNo": 136,
+   "source": "diyanet",
+   "text": "Sonra da diğerlerini yok ettik."
+  },
+  {
+   "verseNo": 136,
+   "source": "okuyan",
+   "text": "Ardından diğerlerini helak etmiştik."
+  },
+  {
+   "verseNo": 136,
+   "source": "esed",
+   "text": "ve sonra diğerlerini tamamen yok ettik"
+  },
+  {
+   "verseNo": 137,
+   "source": "diyanet",
+   "text": "Şüphesiz sizler (yolculuklarınız sırasında) sabah akşam onların (harap olmuş) yurtlarına uğrayıp duruyorsunuz. Hâlâ düşünmeyecek misiniz?"
+  },
+  {
+   "verseNo": 137,
+   "source": "okuyan",
+   "text": "137-138 . Siz sabah ve gece onlara (şehirlerine) uğruyorsunuz. Akıl etmiyor musunuz?"
+  },
+  {
+   "verseNo": 137,
+   "source": "esed",
+   "text": "siz (bugüne kadar) onların yurtlarından gelip geçmektesiniz her sabah"
+  },
+  {
+   "verseNo": 138,
+   "source": "diyanet",
+   "text": "Şüphesiz sizler (yolculuklarınız sırasında) sabah akşam onların (harap olmuş) yurtlarına uğrayıp duruyorsunuz. Hâlâ düşünmeyecek misiniz?"
+  },
+  {
+   "verseNo": 138,
+   "source": "okuyan",
+   "text": "137-138 . Siz sabah ve gece onlara (şehirlerine) uğruyorsunuz. Akıl etmiyor musunuz?"
+  },
+  {
+   "verseNo": 138,
+   "source": "esed",
+   "text": "ve her akşam. O halde (bakıp da) aklınızı kullanmıyor musunuz"
+  },
+  {
+   "verseNo": 139,
+   "source": "diyanet",
+   "text": "Şüphesiz Yûnus da peygamberlerdendi."
+  },
+  {
+   "verseNo": 139,
+   "source": "okuyan",
+   "text": "Şüphesiz ki Yunus da elçilerdendi."
+  },
+  {
+   "verseNo": 139,
+   "source": "esed",
+   "text": "Şüphesiz, Yunus da elçilerimizden biriydi"
+  },
+  {
+   "verseNo": 140,
+   "source": "diyanet",
+   "text": "Hani o kaçıp yüklü gemiye binmişti."
+  },
+  {
+   "verseNo": 140,
+   "source": "okuyan",
+   "text": "Hani o, dolu bir gemiye (binip) kaçmıştı."
+  },
+  {
+   "verseNo": 140,
+   "source": "esed",
+   "text": "kaçak bir köle gibi, yüklü bir gemiye (binip) kaçmıştı"
+  },
+  {
+   "verseNo": 141,
+   "source": "diyanet",
+   "text": "Gemidekilerle kur'a çekmiş ve kaybedenlerden olmuştu."
+  },
+  {
+   "verseNo": 141,
+   "source": "okuyan",
+   "text": "(Gemide olanlarla) karşılıklı kura çekmişler ve (Yunus da) kaybedenlerden olmuştu."
+  },
+  {
+   "verseNo": 141,
+   "source": "esed",
+   "text": "Ve sonra kur´a çekilmiş, o, (kur´ada) kaybedenlerden olmuştu"
+  },
+  {
+   "verseNo": 142,
+   "source": "diyanet",
+   "text": "Böylece, Yûnus kendini kınayıp dururken balık onu yuttu."
+  },
+  {
+   "verseNo": 142,
+   "source": "okuyan",
+   "text": "Kendini kınayıp dururken onu bir balık yutmuştu."
+  },
+  {
+   "verseNo": 142,
+   "source": "esed",
+   "text": "(sonra o´nu denize atmışlar ve) denizde büyük balık tarafından yutulmuştu, çünkü kınananlardan biriydi"
+  },
+  {
+   "verseNo": 143,
+   "source": "diyanet",
+   "text": "Eğer o, Allah'ı tespih edip yüceltenlerden olmasaydı, mutlaka insanların diriltileceği güne kadar balığın karnında kalırdı."
+  },
+  {
+   "verseNo": 143,
+   "source": "okuyan",
+   "text": "143-144 . (Allah’ı) tesbih edenlerden (yüceltenlerden) olmasaydı, (insanların) diriltilecekleri güne kadar elbette o (balığın) karnında kalırdı."
+  },
+  {
+   "verseNo": 143,
+   "source": "esed",
+   "text": "Eğer o, (en derin bunalım anlarında bile) Allah´ın sınırsız şanını yüceltenlerden olmasaydı"
+  },
+  {
+   "verseNo": 144,
+   "source": "diyanet",
+   "text": "Eğer o, Allah'ı tespih edip yüceltenlerden olmasaydı, mutlaka insanların diriltileceği güne kadar balığın karnında kalırdı."
+  },
+  {
+   "verseNo": 144,
+   "source": "okuyan",
+   "text": "143-144 . (Allah’ı) tesbih edenlerden (yüceltenlerden) olmasaydı, (insanların) diriltilecekleri güne kadar elbette o (balığın) karnında kalırdı."
+  },
+  {
+   "verseNo": 144,
+   "source": "esed",
+   "text": "herkesin yeniden dirileceği güne kadar o (balığı)n karnında kalmış olacaktı"
+  },
+  {
+   "verseNo": 145,
+   "source": "diyanet",
+   "text": "Derken biz onu hasta bir halde sahile attık."
+  },
+  {
+   "verseNo": 145,
+   "source": "okuyan",
+   "text": "Hâlsiz (hasta) bir vaziyette onu kıyıya çıkarmıştık."
+  },
+  {
+   "verseNo": 145,
+   "source": "esed",
+   "text": "ama biz o´nu manevi çöküntü/iç huzursuzluğu içinde ıssız bir kıyıya çıkarttık"
+  },
+  {
+   "verseNo": 146,
+   "source": "diyanet",
+   "text": "Üzerine geniş yapraklı bir ağaç bitirdik."
+  },
+  {
+   "verseNo": 146,
+   "source": "okuyan",
+   "text": "Üzerine (gölge etmesi için) geniş yapraklı bir bitki yetiştirmiştik."
+  },
+  {
+   "verseNo": 146,
+   "source": "esed",
+   "text": "ve onun üzerinde (çorak toprakta) yetişen bir bodur fidan yeşerttik"
+  },
+  {
+   "verseNo": 147,
+   "source": "diyanet",
+   "text": "Biz onu yüz bin, yahut daha fazla insana peygamber olarak gönderdik."
+  },
+  {
+   "verseNo": 147,
+   "source": "okuyan",
+   "text": "Onu, yüz bin hatta daha çok kişiye (peygamber olarak) göndermiştik."
+  },
+  {
+   "verseNo": 147,
+   "source": "esed",
+   "text": "Ve onu (bir kez daha kendi halkına,) yüz bin veya daha fazla (kişi)ye gönderdik"
+  },
+  {
+   "verseNo": 148,
+   "source": "diyanet",
+   "text": "Nihayet onlar iman ettiler. Biz de onları bir süreye kadar geçindirdik."
+  },
+  {
+   "verseNo": 148,
+   "source": "okuyan",
+   "text": "(Ona) inanmışlardı; biz de onları bir süreye kadar yaşatmıştık."
+  },
+  {
+   "verseNo": 148,
+   "source": "esed",
+   "text": "Onlar, (bu defa ona) inandılar; bunun üzerine Biz, verilen süre zarfında onlara mutlu bir hayat yaşattık"
+  },
+  {
+   "verseNo": 149,
+   "source": "diyanet",
+   "text": "Ey Muhammed! Onlara sor: Kız çocukları Rabbinin de, erkek çocukları onların mı?"
+  },
+  {
+   "verseNo": 149,
+   "source": "okuyan",
+   "text": "Onlara (müşriklere) sor: “Kızlar Rabbinin de erkekler onların mı?”"
+  },
+  {
+   "verseNo": 149,
+   "source": "esed",
+   "text": "Şimdi onlardan sana cevap vermelerini iste: senin Rabbinin kızları var da onların (yalnız) erkek çocukları mı var"
+  },
+  {
+   "verseNo": 150,
+   "source": "diyanet",
+   "text": "Yoksa biz melekleri dişi olarak yaratmışız da onlar şahid mi bulunuyorlarmış?"
+  },
+  {
+   "verseNo": 150,
+   "source": "okuyan",
+   "text": "Yoksa onlar şahitken (onlar görürken) melekleri kız olarak mı yaratmışız!"
+  },
+  {
+   "verseNo": 150,
+   "source": "esed",
+   "text": "Yoksa melekleri dişi yarattık da o (meleklere ilahlık isnad ede)nler bunu gördüler mi"
+  },
+  {
+   "verseNo": 151,
+   "source": "diyanet",
+   "text": "İyi bilin ki onlar kendi uydurmaları olarak, \"Allah çocuk sahibi oldu\" diyorlar. Onlar elbette yalan söylüyorlar."
+  },
+  {
+   "verseNo": 151,
+   "source": "okuyan",
+   "text": "151-152 . Dikkat edin! Şüphesiz ki yalan uydurarak “Allah çocuk edindi!” diyorlar. Şüphesiz ki onlar yalancıdır."
+  },
+  {
+   "verseNo": 151,
+   "source": "esed",
+   "text": "Bazı insanlar tamamen sahte ve yalan(a olan temayüllerin)den dolayı"
+  },
+  {
+   "verseNo": 152,
+   "source": "diyanet",
+   "text": "İyi bilin ki onlar kendi uydurmaları olarak, \"Allah çocuk sahibi oldu\" diyorlar. Onlar elbette yalan söylüyorlar."
+  },
+  {
+   "verseNo": 152,
+   "source": "okuyan",
+   "text": "151-152 . Dikkat edin! Şüphesiz ki yalan uydurarak “Allah çocuk edindi!” diyorlar. Şüphesiz ki onlar yalancıdır."
+  },
+  {
+   "verseNo": 152,
+   "source": "esed",
+   "text": "Allah (bir erkek çocuk) doğurdu\" diyorlar; onlar elbette yalan söylüyorlar"
+  },
+  {
+   "verseNo": 153,
+   "source": "diyanet",
+   "text": "Yoksa Allah kızları erkeklere tercih mi etti?"
+  },
+  {
+   "verseNo": 153,
+   "source": "okuyan",
+   "text": "(Allah) kızları oğullara tercih mi etmiş!"
+  },
+  {
+   "verseNo": 153,
+   "source": "esed",
+   "text": "O, kızları oğlanlara tercih etmiştir!\" (sözleri de yalandır)"
+  },
+  {
+   "verseNo": 154,
+   "source": "diyanet",
+   "text": "Neyiniz var? Nasıl hüküm veriyorsunuz!"
+  },
+  {
+   "verseNo": 154,
+   "source": "okuyan",
+   "text": "Ne oluyor size? Nasıl (böyle) hükmediyorsunuz?"
+  },
+  {
+   "verseNo": 154,
+   "source": "esed",
+   "text": "Ne oluyor size, ne biçim karar veriyorsunuz"
+  },
+  {
+   "verseNo": 155,
+   "source": "diyanet",
+   "text": "Hiç düşünmüyor musunuz?"
+  },
+  {
+   "verseNo": 155,
+   "source": "okuyan",
+   "text": "(Gerçeği) hiç hatırlamıyor musunuz?"
+  },
+  {
+   "verseNo": 155,
+   "source": "esed",
+   "text": "Hiç düşünmüyor musunuz"
+  },
+  {
+   "verseNo": 156,
+   "source": "diyanet",
+   "text": "Yoksa sizin apaçık bir deliliniz mi var?"
+  },
+  {
+   "verseNo": 156,
+   "source": "okuyan",
+   "text": "Yoksa sizin apaçık bir deliliniz mi var?"
+  },
+  {
+   "verseNo": 156,
+   "source": "esed",
+   "text": "Yoksa (iddialarınızı doğrulayacak) açık bir deliliniz mi var"
+  },
+  {
+   "verseNo": 157,
+   "source": "diyanet",
+   "text": "Eğer doğru söyleyen kimseler iseniz getirin (bu delili içeren) kitabınızı!"
+  },
+  {
+   "verseNo": 157,
+   "source": "okuyan",
+   "text": "Doğruysanız kitabınızı getirin!"
+  },
+  {
+   "verseNo": 157,
+   "source": "esed",
+   "text": "Eğer doğru söylüyorsanız, kendi kitabınızı getirin"
+  },
+  {
+   "verseNo": 158,
+   "source": "diyanet",
+   "text": "Allah ile cinler arasında da nesep bağı kurdular. Oysa cinler de kendilerinin Allah'ın huzuruna getirileceklerini bilirler."
+  },
+  {
+   "verseNo": 158,
+   "source": "okuyan",
+   "text": "O’nunla (Allah ile) cinler arasında da bir soy bağı uydurdular. Yemin olsun ki cinler de (Allah’ın huzurunda) hazır kılınacaklarını bilirler."
+  },
+  {
+   "verseNo": 158,
+   "source": "esed",
+   "text": "Bazıları da Allah ile bütün görünmez varlık türleri arasında bir yakınlık uydurdular; oysa bu görünmez varlıklar (da) pekala bilir ki, onlar, (bu şekilde Allah´a isnadda bulunanlar,) mutlaka (Hesap Günü O´nun huzurunda) yargılanacaklardır"
+  },
+  {
+   "verseNo": 159,
+   "source": "diyanet",
+   "text": "Allah onların nitelendirdiği şeylerden uzaktır, yücedir."
+  },
+  {
+   "verseNo": 159,
+   "source": "okuyan",
+   "text": "Allah onların (müşriklerin) yakıştırdıkları şeylerden yücedir."
+  },
+  {
+   "verseNo": 159,
+   "source": "esed",
+   "text": "(çünkü) Allah, insanların geliştirdiği her türlü tasavvurun üstünde, sonsuz yüceliktedir"
+  },
+  {
+   "verseNo": 160,
+   "source": "diyanet",
+   "text": "Ancak Allah'ın ihlâslı kulları bunlar gibi değildir."
+  },
+  {
+   "verseNo": 160,
+   "source": "okuyan",
+   "text": "Allah’ın samimi kulları hariç."
+  },
+  {
+   "verseNo": 160,
+   "source": "esed",
+   "text": "Allah´ın halis kulları ise böyle (davranmazlar)"
+  },
+  {
+   "verseNo": 161,
+   "source": "diyanet",
+   "text": "(Ey müşrikler!) Ne siz ve ne de taptıklarınız cehenneme gireceklerden başkasını kandırıp Allah'ın yolundan saptırabilirsiniz."
+  },
+  {
+   "verseNo": 161,
+   "source": "okuyan",
+   "text": "161-163 . Siz ve taptığınız şeyler (hiçbiriniz), cehenneme girecek olan kimseden başkasını asla O’na karşı azdırıp saptıramazsınız."
+  },
+  {
+   "verseNo": 161,
+   "source": "esed",
+   "text": "çünkü ne siz (Allah´a iftirada bulunan)lar, ne de sizin taptıklarınız"
+  },
+  {
+   "verseNo": 162,
+   "source": "diyanet",
+   "text": "(Ey müşrikler!) Ne siz ve ne de taptıklarınız cehenneme gireceklerden başkasını kandırıp Allah'ın yolundan saptırabilirsiniz."
+  },
+  {
+   "verseNo": 162,
+   "source": "okuyan",
+   "text": "161-163 . Siz ve taptığınız şeyler (hiçbiriniz), cehenneme girecek olan kimseden başkasını asla O’na karşı azdırıp saptıramazsınız."
+  },
+  {
+   "verseNo": 162,
+   "source": "esed",
+   "text": "hiçbiriniz, kimseyi kendi heves ve ayartmalarınıza boyun eğdiremezsiniz"
+  },
+  {
+   "verseNo": 163,
+   "source": "diyanet",
+   "text": "(Ey müşrikler!) Ne siz ve ne de taptıklarınız cehenneme gireceklerden başkasını kandırıp Allah'ın yolundan saptırabilirsiniz."
+  },
+  {
+   "verseNo": 163,
+   "source": "okuyan",
+   "text": "161-163 . Siz ve taptığınız şeyler (hiçbiriniz), cehenneme girecek olan kimseden başkasını asla O’na karşı azdırıp saptıramazsınız."
+  },
+  {
+   "verseNo": 163,
+   "source": "esed",
+   "text": "(kendi ayaklarıyla) yakıcı ateşe koşanlar hariç"
+  },
+  {
+   "verseNo": 164,
+   "source": "diyanet",
+   "text": "(Melekler derler ki:) \"Bizim her birimizin bilinen bir makamı vardır.\""
+  },
+  {
+   "verseNo": 164,
+   "source": "okuyan",
+   "text": "(Melekler şöyle derler:) “Bizim her birimiz için bilinen bir makam vardır."
+  },
+  {
+   "verseNo": 164,
+   "source": "esed",
+   "text": "(Bütün tabiat güçleri Allah´a hamdeder ve şöyle derler:) \"İçimizden hiç kimse yoktur ki (Allah tarafından) kendisi için tayin edilmiş bir yere sahip olmasın"
+  },
+  {
+   "verseNo": 165,
+   "source": "diyanet",
+   "text": "\"Şüphesiz biz (orada) saf duranlarız.\""
+  },
+  {
+   "verseNo": 165,
+   "source": "okuyan",
+   "text": "Şüphesiz ki biz (orada) sıra sıra dururuz."
+  },
+  {
+   "verseNo": 165,
+   "source": "esed",
+   "text": "biz de (ibadetlerimizde O´nun önünde) saf tutarız"
+  },
+  {
+   "verseNo": 166,
+   "source": "diyanet",
+   "text": "\"Şüphesiz biz (Allah'ı) tespih edip yüceltenleriz.\""
+  },
+  {
+   "verseNo": 166,
+   "source": "okuyan",
+   "text": "Şüphesiz ki biz (Allah’ı) tesbih edenleriz (yüceltenleriz).”"
+  },
+  {
+   "verseNo": 166,
+   "source": "esed",
+   "text": "ve şüphesiz biz de O´nun sınırsız şanını yüceltiriz"
+  },
+  {
+   "verseNo": 167,
+   "source": "diyanet",
+   "text": "Müşrikler) şunu da söylüyorlardı: \"Eğer yanımızda öncekilere verilen kitaplardan bir kitap olsaydı, elbette biz ihlâslı kullar olurduk.\""
+  },
+  {
+   "verseNo": 167,
+   "source": "okuyan",
+   "text": "(Müşrikler) şöyle diyorlardı:"
+  },
+  {
+   "verseNo": 167,
+   "source": "esed",
+   "text": "Gerçek şu ki, o (hakikati inkar ede)nler her zaman şöyle derler"
+  },
+  {
+   "verseNo": 168,
+   "source": "diyanet",
+   "text": "Müşrikler) şunu da söylüyorlardı: \"Eğer yanımızda öncekilere verilen kitaplardan bir kitap olsaydı, elbette biz ihlâslı kullar olurduk.\""
+  },
+  {
+   "verseNo": 168,
+   "source": "okuyan",
+   "text": "168-169 . “Öncekilere (verilenlerden) bizde de bir zikr (kitap) olsaydı mutlaka Allah’ın samimi kulları olurduk!”"
+  },
+  {
+   "verseNo": 168,
+   "source": "esed",
+   "text": "Eğer atalarımızdan (bu yönde) bir gelenek devralmış olsaydık"
+  },
+  {
+   "verseNo": 169,
+   "source": "diyanet",
+   "text": "Müşrikler) şunu da söylüyorlardı: \"Eğer yanımızda öncekilere verilen kitaplardan bir kitap olsaydı, elbette biz ihlâslı kullar olurduk.\""
+  },
+  {
+   "verseNo": 169,
+   "source": "okuyan",
+   "text": "168-169 . “Öncekilere (verilenlerden) bizde de bir zikr (kitap) olsaydı mutlaka Allah’ın samimi kulları olurduk!”"
+  },
+  {
+   "verseNo": 169,
+   "source": "esed",
+   "text": "kesinlikle Allah´ın halis kulları olurduk"
+  },
+  {
+   "verseNo": 170,
+   "source": "diyanet",
+   "text": "Fakat (kitap gelince) onu inkar ettiler. Yakında (sonlarının ne olacağını) bilecekler."
+  },
+  {
+   "verseNo": 170,
+   "source": "okuyan",
+   "text": "Hemen onu (Kur’an’ı) inkâr ettiler. İleride (gerçeği) bilecekler!"
+  },
+  {
+   "verseNo": 170,
+   "source": "esed",
+   "text": "Ama (işte bu ilahi kelam önlerine konulduğu halde,) onu kabul etmeye yanaşmıyorlar! Ama zamanla (reddettikleri şeyin ne olduğunu) öğreneceklerdir"
+  },
+  {
+   "verseNo": 171,
+   "source": "diyanet",
+   "text": "Andolsun, peygamber olarak gönderilen kullarımız hakkında şu sözümüz geçmişti"
+  },
+  {
+   "verseNo": 171,
+   "source": "okuyan",
+   "text": "Yemin olsun ki gönderilmiş elçi kullarımıza (şu) sözü verdik:"
+  },
+  {
+   "verseNo": 171,
+   "source": "esed",
+   "text": "çünkü uzun zaman önce kullarımız olan elçilere söz verdik"
+  },
+  {
+   "verseNo": 172,
+   "source": "diyanet",
+   "text": "\"Onlara mutlaka yardım edilecektir.\""
+  },
+  {
+   "verseNo": 172,
+   "source": "okuyan",
+   "text": "Onlar, mutlaka zafere ulaşacaklardır."
+  },
+  {
+   "verseNo": 172,
+   "source": "esed",
+   "text": "kendilerine mutlaka yardım edilecektir"
+  },
+  {
+   "verseNo": 173,
+   "source": "diyanet",
+   "text": "\"Şüphesiz ordularımız galip gelecektir.\""
+  },
+  {
+   "verseNo": 173,
+   "source": "okuyan",
+   "text": "Şüphesiz ki bizim ordumuz üstün gelecektir."
+  },
+  {
+   "verseNo": 173,
+   "source": "esed",
+   "text": "ve (sonunda) galip gelecek olan mutlaka Bizim ordumuz olacaktır"
+  },
+  {
+   "verseNo": 174,
+   "source": "diyanet",
+   "text": "O halde bir süreye kadar onlardan yüz çevir"
+  },
+  {
+   "verseNo": 174,
+   "source": "okuyan",
+   "text": "Belirli bir süreye kadar onlardan yüz çevir!"
+  },
+  {
+   "verseNo": 174,
+   "source": "esed",
+   "text": "Bu sebeple, o (hakikati inkar ede)nlerden bir süre uzak dur"
+  },
+  {
+   "verseNo": 175,
+   "source": "diyanet",
+   "text": "Gözetle onları, yakında onlar da görecekler."
+  },
+  {
+   "verseNo": 175,
+   "source": "okuyan",
+   "text": "Onları gör (gözetle); onlar da ileride görecekler."
+  },
+  {
+   "verseNo": 175,
+   "source": "esed",
+   "text": "ve onları(n kim olduklarını) gör; onlar (da) zaman içinde (şimdi görmediklerini) göreceklerdir"
+  },
+  {
+   "verseNo": 176,
+   "source": "diyanet",
+   "text": "Yoksa onlar azabımızı acele mi istiyorlar?"
+  },
+  {
+   "verseNo": 176,
+   "source": "okuyan",
+   "text": "Azabımızı acele mi istiyorlar?"
+  },
+  {
+   "verseNo": 176,
+   "source": "esed",
+   "text": "Onlar azabımızın çabuklaştırılmasını acaba (gerçekten) istiyorlar mı"
+  },
+  {
+   "verseNo": 177,
+   "source": "diyanet",
+   "text": "Fakat azabımız onların yurtlarına indiğinde o uyarılmış olanların sabahı ne kötü olur!"
+  },
+  {
+   "verseNo": 177,
+   "source": "okuyan",
+   "text": "(Acele istedikleri azabımız) yurtlarına indiğinde, uyarılanların (fakat inanmayanların) sabahı ne kötü olur!"
+  },
+  {
+   "verseNo": 177,
+   "source": "esed",
+   "text": "Eğer öyleyse, o (azap) bir kez başlarına geldiğinde, uyarılmış olanların uyanması kötü olacaktır"
+  },
+  {
+   "verseNo": 178,
+   "source": "diyanet",
+   "text": "Ey Muhammed! Bir süreye kadar onlardan yüz çevir."
+  },
+  {
+   "verseNo": 178,
+   "source": "okuyan",
+   "text": "Belirli bir süreye kadar onlardan yüz çevir!"
+  },
+  {
+   "verseNo": 178,
+   "source": "esed",
+   "text": "Bu sebeple onlardan bir süre uzak dur"
+  },
+  {
+   "verseNo": 179,
+   "source": "diyanet",
+   "text": "(Bekle ve) gör. Onlar da yakında görecekler."
+  },
+  {
+   "verseNo": 179,
+   "source": "okuyan",
+   "text": "(Onları) gör (gözetle); onlar da ileride görecekler."
+  },
+  {
+   "verseNo": 179,
+   "source": "esed",
+   "text": "ve (onların ne olduklarını) gör; zamanla onlar (da şimdi görmediklerini) göreceklerdir"
+  },
+  {
+   "verseNo": 180,
+   "source": "diyanet",
+   "text": "Senin Rabbin; kudret ve şeref sahibi olan Rab, onların nitelendirdiği şeylerden uzaktır, yücedir."
+  },
+  {
+   "verseNo": 180,
+   "source": "okuyan",
+   "text": "Rabbin, yani itibar sahibi Rabbin, onların yakıştırdıkları şeylerden uzaktır."
+  },
+  {
+   "verseNo": 180,
+   "source": "esed",
+   "text": "Kudret ve izzet sahibi Rabbin, insanların her türlü tasavvurunun üstünde (bir yüceliğe sahip)tir"
+  },
+  {
+   "verseNo": 181,
+   "source": "diyanet",
+   "text": "Peygamberlere selam olsun."
+  },
+  {
+   "verseNo": 181,
+   "source": "okuyan",
+   "text": "Gönderilen bütün elçilere selam olsun!"
+  },
+  {
+   "verseNo": 181,
+   "source": "esed",
+   "text": "O´nun bütün elçilerine selam olsun"
+  },
+  {
+   "verseNo": 182,
+   "source": "diyanet",
+   "text": "Hamd, âlemlerin Rabbi olan Allah'a mahsustur."
+  },
+  {
+   "verseNo": 182,
+   "source": "okuyan",
+   "text": "Hamd (övgü), âlemlerin Rabbi (olan) Allah içindir."
+  },
+  {
+   "verseNo": 182,
+   "source": "esed",
+   "text": "Ve hamd, bütün alemlerin Rabbi Allah´a mahsustur"
+  }
+ ]
+}

@@ -1,0 +1,238 @@
+{
+ "stationNo": 17,
+ "surahNo": 107,
+ "nuzulOrderOkuyan": 17,
+ "name": "Mâ'ûn",
+ "nameArabic": "الماعون",
+ "nameMeaning": "En küçük yardım, gündelik ihtiyaç",
+ "verseCount": 7,
+ "periodDiyanet": "Mekke",
+ "periodOkuyan": "Mekke",
+ "revelationTiming": "Mekke dönemi",
+ "stationTitle": "Namazı olup komşusuna en küçük yardımı esirgeyen için sure sert bir söz kullanır.",
+ "introduction": "Mâ'ûn suresi, adını son ayetteki \"mâ'ûn\" kelimesinden alır; en küçük yardım, gündelik kullanım eşyası, ödünç verilen şey demektir. Yedi ayetlik sure Mekke döneminde inmiştir.\n\nSure bir soruyla başlar: \"Dini yalanlayanı gördün mü?\" Beklenen cevap bir inanç sapması olur; ama sure bunun yerine üç davranış sayar: yetimi itip kakmak, yoksulu doyurmaya yönelmemek, namazı gösterişe çevirmek. Kapanışta en küçük yardımı esirgemek anılır.",
+ "occasionOfRevelation": "Sure Mekke döneminde inmiştir. Nüzul kaynakları belirli bir kişiye işaret eden rivayetler nakleder; ancak metin isim vermez ve tanımı tamamen davranış üzerinden yapar.\n\nSurenin yapısı, dönemin din anlayışına dönük bir eleştiridir. Mekke toplumunda dinî aidiyet ritüel ve mensubiyetle ölçülüyordu. Sure bu ölçüyü tersine çevirir: \"dini yalanlamak\" bir inanç beyanı değil, yetime ve yoksula karşı tutumla tanımlanır.\n\nDördüncü ve beşinci ayetler namaz kılanları hedef alır — namaz kılmayanları değil. Eleştirilen şey namazın terk edilmesi değil, namazın \"sâhûn\" — gafil, özünden kopmuş, gösteriye dönüşmüş — hâle getirilmesidir. Altıncı ayet bunu \"gösteriş yapanlar\" (mürâûn) olarak açıkça adlandırır.",
+ "occasionSources": "Diyanet İşleri Başkanlığı Kur'an Yolu Tefsiri, Mâ'ûn suresi girişi; TDV İslâm Ansiklopedisi, \"Mâûn Sûresi\" maddesi.",
+ "contemporaryMeaning": "Bu sure, dindarlık ile ahlak arasındaki bağı en sert biçimde kuran metinlerden biridir. \"Dini yalanlayan\" tanımı bir itikat maddesiyle değil, yetime davranışla verilir.\n\nİkinci nokta daha rahatsız edicidir: eleştirilenler namaz kılan insanlardır. Sorun ibadetin yokluğu değil, ibadetin ahlaktan kopmuş olmasıdır. Ritüelin kendisi bir güvence üretmez.\n\nKapanıştaki \"mâ'ûn\" kelimesi ölçüyü şaşırtıcı biçimde düşürür. Söz konusu olan büyük bir bağış değil; komşunun isteyebileceği en küçük şey — bir kap, bir alet, gündelik bir yardım. Sure, insanın gerçek karakterinin küçük esirgemelerde göründüğünü söyler.",
+ "keyTerms": [
+  {
+   "term": "yüdi'u'l-yetîm",
+   "arabic": "يَدُعُّ الْيَتِيم",
+   "verseRef": "107:2",
+   "meaning": "Yetimi itip kakar, kaba biçimde uzaklaştırır. \"Dini yalanlamanın\" ilk göstergesi olarak sıralanır."
+  },
+  {
+   "term": "sâhûn",
+   "arabic": "سَاهُون",
+   "verseRef": "107:5",
+   "meaning": "Gafil, dalgın, özünden kopmuş. Namazın anlamından koparak alışkanlığa ya da gösteriye dönüşmesi."
+  },
+  {
+   "term": "yürâûn",
+   "arabic": "يُرَاءُون",
+   "verseRef": "107:6",
+   "meaning": "Gösteriş yaparlar, görülmek için yaparlar. Riyanın açık adı."
+  },
+  {
+   "term": "el-mâ'ûn",
+   "arabic": "الْمَاعُون",
+   "verseRef": "107:7",
+   "meaning": "En küçük yardım, gündelik kullanım eşyası, ödünç verilen şey. Ölçünün kasten en aşağıya çekilmesi."
+  }
+ ],
+ "themes": [
+  {
+   "label": "Dini yalanlamak bir davranıştır",
+   "body": "Sure \"dini yalanlayan\" tanımını inanç beyanıyla değil yetime ve yoksula karşı tutumla verir. Ölçü sözde değil eylemdedir."
+  },
+  {
+   "label": "Namaz kılanların eleştirisi",
+   "body": "Hedef namaz kılmayanlar değil, namazı özünden koparanlardır. Ritüel tek başına bir güvence üretmez."
+  },
+  {
+   "label": "Gösteriş, ibadeti boşaltır",
+   "body": "\"Görülmek için yaparlar.\" İbadetin yönü Tanrı'dan seyirciye kaydığında içeriği boşalır."
+  },
+  {
+   "label": "Küçük esirgemelerin ele verdiği şey",
+   "body": "Ölçü büyük bağış değil, komşunun isteyebileceği en küçük şeydir. Karakter, büyük jestlerde değil küçük ret cümlelerinde görünür."
+  }
+ ],
+ "questions": [
+  "İbadetlerim ile insanlara davranışım arasında bir tutarsızlık var mı? Nerede en belirgin?",
+  "Yaptığım hayrın görülmesini istiyor muyum? Görülmese aynı şeyi yapar mıydım?",
+  "Son zamanlarda birinin küçük bir ricasını, zahmet olduğu için reddettim mi? Neden?"
+ ],
+ "verses": [
+  {
+   "verseNo": 1,
+   "textArabic": "بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ أَرَءَيْتَ ٱلَّذِى يُكَذِّبُ بِٱلدِّينِ"
+  },
+  {
+   "verseNo": 2,
+   "textArabic": "فَذَٰلِكَ ٱلَّذِى يَدُعُّ ٱلْيَتِيمَ"
+  },
+  {
+   "verseNo": 3,
+   "textArabic": "وَلَا يَحُضُّ عَلَىٰ طَعَامِ ٱلْمِسْكِينِ"
+  },
+  {
+   "verseNo": 4,
+   "textArabic": "فَوَيْلٌۭ لِّلْمُصَلِّينَ"
+  },
+  {
+   "verseNo": 5,
+   "textArabic": "ٱلَّذِينَ هُمْ عَن صَلَاتِهِمْ سَاهُونَ"
+  },
+  {
+   "verseNo": 6,
+   "textArabic": "ٱلَّذِينَ هُمْ يُرَآءُونَ"
+  },
+  {
+   "verseNo": 7,
+   "textArabic": "وَيَمْنَعُونَ ٱلْمَاعُونَ"
+  }
+ ],
+ "translations": [
+  {
+   "verseNo": 1,
+   "source": "diyanet",
+   "text": "Kureyş'i ısındırıp alıştırdığı; onları kışın (Yemen'e) ve yazın (Şam'a) yaptıkları yolculuğa ısındırıp alıştırdığı için, Kureyş de, kendilerini besleyip açlıklarını gideren ve onları korkudan emin kılan bu evin (Kâbe'nin) Rabbine kulluk etsin."
+  },
+  {
+   "verseNo": 1,
+   "source": "esed",
+   "text": "Hiç bütün bir ahlaki değerler sistemini yalanlayan (birini) tasavvur edebilir misin"
+  },
+  {
+   "verseNo": 1,
+   "source": "okuyan",
+   "text": "Dini (hesap gününü) yalanlayanı gördün mü?"
+  },
+  {
+   "verseNo": 1,
+   "source": "islamoglu",
+   "text": "BAK ŞU Hesap Günü’nü yalanlayan kişiye!"
+  },
+  {
+   "verseNo": 2,
+   "source": "diyanet",
+   "text": "Kureyş'i ısındırıp alıştırdığı; onları kışın (Yemen'e) ve yazın (Şam'a) yaptıkları yolculuğa ısındırıp alıştırdığı için, Kureyş de, kendilerini besleyip açlıklarını gideren ve onları korkudan emin kılan bu evin (Kâbe'nin) Rabbine kulluk etsin."
+  },
+  {
+   "verseNo": 2,
+   "source": "esed",
+   "text": "İşte böyle biridir, yetimi itip kakan"
+  },
+  {
+   "verseNo": 2,
+   "source": "okuyan",
+   "text": "İşte o, yetimi itip kakandır."
+  },
+  {
+   "verseNo": 2,
+   "source": "islamoglu",
+   "text": "İşte bu tiptir yetimi itip kakan,"
+  },
+  {
+   "verseNo": 3,
+   "source": "diyanet",
+   "text": "Kureyş'i ısındırıp alıştırdığı; onları kışın (Yemen'e) ve yazın (Şam'a) yaptıkları yolculuğa ısındırıp alıştırdığı için, Kureyş de, kendilerini besleyip açlıklarını gideren ve onları korkudan emin kılan bu evin (Kâbe'nin) Rabbine kulluk etsin."
+  },
+  {
+   "verseNo": 3,
+   "source": "esed",
+   "text": "yoksulu doyurma arzusu/gayreti duymayan"
+  },
+  {
+   "verseNo": 3,
+   "source": "okuyan",
+   "text": "Yoksulu doyurmaya teşvik etmez."
+  },
+  {
+   "verseNo": 3,
+   "source": "islamoglu",
+   "text": "ve yoksulu doyurmaya teşvik etmeyen."
+  },
+  {
+   "verseNo": 4,
+   "source": "diyanet",
+   "text": "Kureyş'i ısındırıp alıştırdığı; onları kışın (Yemen'e) ve yazın (Şam'a) yaptıkları yolculuğa ısındırıp alıştırdığı için, Kureyş de, kendilerini besleyip açlıklarını gideren ve onları korkudan emin kılan bu evin (Kâbe'nin) Rabbine kulluk etsin."
+  },
+  {
+   "verseNo": 4,
+   "source": "esed",
+   "text": "Yazıklar olsun şu namaz kılıp duranlara"
+  },
+  {
+   "verseNo": 4,
+   "source": "okuyan",
+   "text": "Yazıklar olsun o [salât] (ibadet) edenlere."
+  },
+  {
+   "verseNo": 4,
+   "source": "islamoglu",
+   "text": "İşbu yüzden, olmaz olsun (böyle) ibadet edenler!"
+  },
+  {
+   "verseNo": 5,
+   "source": "diyanet",
+   "text": "Onlar namazlarını ciddiye almazlar."
+  },
+  {
+   "verseNo": 5,
+   "source": "esed",
+   "text": "onlar ki kalpleri namazlarına yabancıdır"
+  },
+  {
+   "verseNo": 5,
+   "source": "okuyan",
+   "text": "Ki onlar (yaptıklarını sandığı) [salât]larından (ibadetlerinden) habersizdir."
+  },
+  {
+   "verseNo": 5,
+   "source": "islamoglu",
+   "text": "Bu gibiler, ibadetin hakiki amacından gafil görünmektedirler."
+  },
+  {
+   "verseNo": 6,
+   "source": "diyanet",
+   "text": "Onlar (namazlarıyla) gösteriş yaparlar."
+  },
+  {
+   "verseNo": 6,
+   "source": "esed",
+   "text": "onlar ki niyetleri yalnızca görülüp takdir edilmektir"
+  },
+  {
+   "verseNo": 6,
+   "source": "okuyan",
+   "text": "Onlar gösteriş yaparlar."
+  },
+  {
+   "verseNo": 6,
+   "source": "islamoglu",
+   "text": "Bunlar öyle kimseler ki, (ibadeti) gösteriye dönüştürürler,"
+  },
+  {
+   "verseNo": 7,
+   "source": "diyanet",
+   "text": "Ufacık bir yardıma bile engel olurlar."
+  },
+  {
+   "verseNo": 7,
+   "source": "esed",
+   "text": "ve üstelik onlar, (insanlara) en ufak bir yardımı bile reddederler"
+  },
+  {
+   "verseNo": 7,
+   "source": "okuyan",
+   "text": "(En ufak) yardıma (bile) engel olurlar."
+  },
+  {
+   "verseNo": 7,
+   "source": "islamoglu",
+   "text": "ama en küçük yardımı bile esirgerler."
+  }
+ ]
+}

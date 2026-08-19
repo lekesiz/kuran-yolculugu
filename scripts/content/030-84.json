@@ -1,0 +1,670 @@
+{
+ "stationNo": 30,
+ "surahNo": 84,
+ "nuzulOrderOkuyan": 52,
+ "name": "İnşikâk",
+ "nameArabic": "الإنشقاق",
+ "nameMeaning": "Yarılmak, bölünmek",
+ "verseCount": 25,
+ "periodDiyanet": "Mekke",
+ "periodOkuyan": "Mekke",
+ "revelationTiming": "Mekke dönemi",
+ "stationTitle": "İnsan, kendi kitabının hangi elle verildiğini görecek.",
+ "introduction": "İnşikâk suresi, adını birinci ayetteki \"inşakkat\" (yarıldı) fiilinden alır. Yirmi beş ayetlik sure Mekke döneminde inmiştir.\n\nSure göğün yarılması ve yerin uzatılmasıyla açılır; ardından insana \"Rabbine doğru didinip duruyorsun ve O'na kavuşacaksın\" denir. Devamında kitabın sağdan ya da arkadan verilmesi anlatılır. Kapanışta insanın \"aşama aşama\" ilerlediği bildirilir.",
+ "occasionOfRevelation": "Sure Mekke döneminde inmiştir; nüzulüne dair belirli bir olay anlatısı yoktur.\n\nAltıncı ayetteki \"kâdihun\" kelimesi didinmek, yorulmak, çabalamak anlamındadır. Ayet, insanın hayatını bir çaba ve yorgunluk hâli olarak tanımlar ve bu çabanın bir varış noktası olduğunu bildirir. Beled suresindeki \"kebed\" (zorluk içinde yaratılma) ile aynı çizgide okunabilir.\n\nOn dokuzuncu ayetteki \"tabakan an tabak\" ifadesi tefsirlerde farklı biçimlerde yorumlanır: hayatın evreleri, ahiretin aşamaları, halden hale geçiş. Diyanet Kur'an Yolu tefsiri insanın sürekli bir değişim ve geçiş içinde olduğu yorumunu öne çıkarır.",
+ "occasionSources": "Diyanet İşleri Başkanlığı Kur'an Yolu Tefsiri, İnşikâk suresi girişi; TDV İslâm Ansiklopedisi, \"İnşikāk Sûresi\" maddesi.",
+ "contemporaryMeaning": "Surenin altıncı ayeti insan durumunu iki kelimeyle tanımlar: didiniyorsun ve kavuşacaksın. Çaba boşa değildir, ama sonsuz da değildir; bir yere doğru gider.\n\n\"Kitabın verilmesi\" imgesi ise bir dosya teslimidir. İnsanın kendi hayat kaydını eline alması. Sure bunun iki biçimini anlatır ve aradaki fark bir tercih değil, birikimin sonucudur.\n\nOn dokuzuncu ayetin \"aşama aşama\" bildirimi ise sabır telkin eder: insan tek bir kararla değil, katman katman değişir. Bu, hem kendine hem başkasına karşı acele etmemeyi gerektirir.",
+ "keyTerms": [
+  {
+   "term": "inşakkat",
+   "arabic": "انشَقَّتْ",
+   "verseRef": "84:1",
+   "meaning": "Yarıldı, bölündü. Sureye adını veren fiil."
+  },
+  {
+   "term": "kâdih",
+   "arabic": "كَادِح",
+   "verseRef": "84:6",
+   "meaning": "Didinen, yorularak çabalayan. İnsanın hayat durumunu tanımlayan kelime."
+  },
+  {
+   "term": "hisâben yesîrâ",
+   "arabic": "حِسَابًا يَسِيرًا",
+   "verseRef": "84:8",
+   "meaning": "Kolay hesap. Kitabı sağdan verilenin göreceği muamele."
+  },
+  {
+   "term": "tabakan an tabak",
+   "arabic": "طَبَقًا عَن طَبَق",
+   "verseRef": "84:19",
+   "meaning": "Aşama aşama, halden hale. İnsanın kademeli değişimi; tefsirlerde farklı yorumlanır."
+  }
+ ],
+ "themes": [
+  {
+   "label": "Didinmek, insanın hâli",
+   "body": "\"Rabbine doğru didinip duruyorsun.\" Çaba ve yorgunluk bir arıza değil, insan durumunun tanımıdır."
+  },
+  {
+   "label": "Kitabın teslimi",
+   "body": "Herkes kendi hayat kaydını eline alır. Aradaki fark bir tercih değil, birikimin sonucudur."
+  },
+  {
+   "label": "Kolay hesap diye bir şey var",
+   "body": "Sure \"kolay hesap\" ifadesini kullanır. Muhasebe her durumda ağır değildir."
+  },
+  {
+   "label": "Aşama aşama değişim",
+   "body": "İnsan tek bir kararla değil katman katman dönüşür. Bu, kendine ve başkasına karşı acele etmemeyi gerektirir."
+  }
+ ],
+ "questions": [
+  "Didinmemin bir yönü var mı, yoksa sadece yoruluyor muyum?",
+  "Kendi hayat kaydım bugün elime verilse, hangi sayfayı çevirmek istemezdim?",
+  "Kendimden ya da birinden bir gecede değişmesini beklediğim oluyor mu?"
+ ],
+ "verses": [
+  {
+   "verseNo": 1,
+   "textArabic": "بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ إِذَا ٱلسَّمَآءُ ٱنشَقَّتْ"
+  },
+  {
+   "verseNo": 2,
+   "textArabic": "وَأَذِنَتْ لِرَبِّهَا وَحُقَّتْ"
+  },
+  {
+   "verseNo": 3,
+   "textArabic": "وَإِذَا ٱلْأَرْضُ مُدَّتْ"
+  },
+  {
+   "verseNo": 4,
+   "textArabic": "وَأَلْقَتْ مَا فِيهَا وَتَخَلَّتْ"
+  },
+  {
+   "verseNo": 5,
+   "textArabic": "وَأَذِنَتْ لِرَبِّهَا وَحُقَّتْ"
+  },
+  {
+   "verseNo": 6,
+   "textArabic": "يَٰٓأَيُّهَا ٱلْإِنسَٰنُ إِنَّكَ كَادِحٌ إِلَىٰ رَبِّكَ كَدْحًۭا فَمُلَٰقِيهِ"
+  },
+  {
+   "verseNo": 7,
+   "textArabic": "فَأَمَّا مَنْ أُوتِىَ كِتَٰبَهُۥ بِيَمِينِهِۦ"
+  },
+  {
+   "verseNo": 8,
+   "textArabic": "فَسَوْفَ يُحَاسَبُ حِسَابًۭا يَسِيرًۭا"
+  },
+  {
+   "verseNo": 9,
+   "textArabic": "وَيَنقَلِبُ إِلَىٰٓ أَهْلِهِۦ مَسْرُورًۭا"
+  },
+  {
+   "verseNo": 10,
+   "textArabic": "وَأَمَّا مَنْ أُوتِىَ كِتَٰبَهُۥ وَرَآءَ ظَهْرِهِۦ"
+  },
+  {
+   "verseNo": 11,
+   "textArabic": "فَسَوْفَ يَدْعُوا۟ ثُبُورًۭا"
+  },
+  {
+   "verseNo": 12,
+   "textArabic": "وَيَصْلَىٰ سَعِيرًا"
+  },
+  {
+   "verseNo": 13,
+   "textArabic": "إِنَّهُۥ كَانَ فِىٓ أَهْلِهِۦ مَسْرُورًا"
+  },
+  {
+   "verseNo": 14,
+   "textArabic": "إِنَّهُۥ ظَنَّ أَن لَّن يَحُورَ"
+  },
+  {
+   "verseNo": 15,
+   "textArabic": "بَلَىٰٓ إِنَّ رَبَّهُۥ كَانَ بِهِۦ بَصِيرًۭا"
+  },
+  {
+   "verseNo": 16,
+   "textArabic": "فَلَآ أُقْسِمُ بِٱلشَّفَقِ"
+  },
+  {
+   "verseNo": 17,
+   "textArabic": "وَٱلَّيْلِ وَمَا وَسَقَ"
+  },
+  {
+   "verseNo": 18,
+   "textArabic": "وَٱلْقَمَرِ إِذَا ٱتَّسَقَ"
+  },
+  {
+   "verseNo": 19,
+   "textArabic": "لَتَرْكَبُنَّ طَبَقًا عَن طَبَقٍۢ"
+  },
+  {
+   "verseNo": 20,
+   "textArabic": "فَمَا لَهُمْ لَا يُؤْمِنُونَ"
+  },
+  {
+   "verseNo": 21,
+   "textArabic": "وَإِذَا قُرِئَ عَلَيْهِمُ ٱلْقُرْءَانُ لَا يَسْجُدُونَ ۩"
+  },
+  {
+   "verseNo": 22,
+   "textArabic": "بَلِ ٱلَّذِينَ كَفَرُوا۟ يُكَذِّبُونَ"
+  },
+  {
+   "verseNo": 23,
+   "textArabic": "وَٱللَّهُ أَعْلَمُ بِمَا يُوعُونَ"
+  },
+  {
+   "verseNo": 24,
+   "textArabic": "فَبَشِّرْهُم بِعَذَابٍ أَلِيمٍ"
+  },
+  {
+   "verseNo": 25,
+   "textArabic": "إِلَّا ٱلَّذِينَ ءَامَنُوا۟ وَعَمِلُوا۟ ٱلصَّٰلِحَٰتِ لَهُمْ أَجْرٌ غَيْرُ مَمْنُونٍۭ"
+  }
+ ],
+ "translations": [
+  {
+   "verseNo": 1,
+   "source": "diyanet",
+   "text": "Gök yarıldığı ve Rabbine boyun eğdiği zaman -ki ona yaraşan budur-,"
+  },
+  {
+   "verseNo": 1,
+   "source": "esed",
+   "text": "Gökyüzü parçalara ayrıldığında"
+  },
+  {
+   "verseNo": 1,
+   "source": "okuyan",
+   "text": "Gök yarıldığında,"
+  },
+  {
+   "verseNo": 1,
+   "source": "islamoglu",
+   "text": "GÖKYÜZÜ şerha şerha yarıldığında,"
+  },
+  {
+   "verseNo": 2,
+   "source": "diyanet",
+   "text": "Gök yarıldığı ve Rabbine boyun eğdiği zaman -ki ona yaraşan budur-,"
+  },
+  {
+   "verseNo": 2,
+   "source": "esed",
+   "text": "tabiatı gereği Rabbine boyun eğdiğinde"
+  },
+  {
+   "verseNo": 2,
+   "source": "okuyan",
+   "text": "Rabbin(in emrin)e kulak verip (hüküm) gerçekleştirildiği(nde),"
+  },
+  {
+   "verseNo": 2,
+   "source": "islamoglu",
+   "text": "yani Rabbine kulak verdiğinde ve sonuç alındığında,"
+  },
+  {
+   "verseNo": 3,
+   "source": "diyanet",
+   "text": "Yer uzatılıp dümdüz edildiği ve içindekileri atıp boşaldığı zaman,"
+  },
+  {
+   "verseNo": 3,
+   "source": "esed",
+   "text": "ve yeryüzü dümdüz hale getirildiğinde"
+  },
+  {
+   "verseNo": 3,
+   "source": "okuyan",
+   "text": "Yer genişletilerek yayıldığında,"
+  },
+  {
+   "verseNo": 3,
+   "source": "islamoglu",
+   "text": "ve yeryüzü uçsuz bucaksız bir düzlük haline getirildiğinde,"
+  },
+  {
+   "verseNo": 4,
+   "source": "diyanet",
+   "text": "Yer uzatılıp dümdüz edildiği ve içindekileri atıp boşaldığı zaman,"
+  },
+  {
+   "verseNo": 4,
+   "source": "esed",
+   "text": "ve içindeki her şeyi dışarı atarak tamamen boşaldığında"
+  },
+  {
+   "verseNo": 4,
+   "source": "okuyan",
+   "text": "İçindekileri dışarı atıp boşaldığı(nda),"
+  },
+  {
+   "verseNo": 4,
+   "source": "islamoglu",
+   "text": "ve içindeki her şeyi atarak boşaldığında,"
+  },
+  {
+   "verseNo": 5,
+   "source": "diyanet",
+   "text": "Rabbini dinlediği zaman -ki ona yaraşan da budur- (insan yaptıklarını karşısında bulur!)"
+  },
+  {
+   "verseNo": 5,
+   "source": "esed",
+   "text": "tabiatı gereği Rabbine boyun eğerek"
+  },
+  {
+   "verseNo": 5,
+   "source": "okuyan",
+   "text": "Rabbin(in emrin)e kulak verip (hüküm) gerçekleştirildiği(nde mahşerde toplanacaksınız)."
+  },
+  {
+   "verseNo": 5,
+   "source": "islamoglu",
+   "text": "yani Rabbine kulak verdiğinde ve sonuç alındığında…"
+  },
+  {
+   "verseNo": 6,
+   "source": "diyanet",
+   "text": "Ey insan! Şüphesiz, sen Rabbine (kavuşuncaya kadar) didinip duracak ve sonunda didinmenin karşılığına kavuşacaksın."
+  },
+  {
+   "verseNo": 6,
+   "source": "esed",
+   "text": "(öyleyse,) ey insan -sen (madem ki) zahmetli bir çaba ile Rabbine yönelmektesin- sonunda mutlaka O´na kavuşacaksın"
+  },
+  {
+   "verseNo": 6,
+   "source": "okuyan",
+   "text": "Ey insan! Şüphesiz ki Rabbine (giden yolda) çaba üstüne çaba gösteriyorsun ve (sonunda) O’na varacaksın."
+  },
+  {
+   "verseNo": 6,
+   "source": "islamoglu",
+   "text": "Sen ey insanoğlu! Evet evet, hayat yolunda son sürat yeldirdikçe (ister istemez) Rabbine doğru yol alan sen, sonunda O’na kavuşacaksın!"
+  },
+  {
+   "verseNo": 7,
+   "source": "diyanet",
+   "text": "Kime kitabı sağından verilirse,"
+  },
+  {
+   "verseNo": 7,
+   "source": "esed",
+   "text": "Sicili sağ eline verilecek olan kimse"
+  },
+  {
+   "verseNo": 7,
+   "source": "okuyan",
+   "text": "Kimin kitabı (amel defteri), sağından verilirse,"
+  },
+  {
+   "verseNo": 7,
+   "source": "islamoglu",
+   "text": "İşte (o gün) sicili sağ eline verilen kimseye gelince:"
+  },
+  {
+   "verseNo": 8,
+   "source": "diyanet",
+   "text": "Hesabı çok kolay bir şekilde görülecek,"
+  },
+  {
+   "verseNo": 8,
+   "source": "esed",
+   "text": "zamanı geldiğinde kolay bir hesaba çekilecektir"
+  },
+  {
+   "verseNo": 8,
+   "source": "okuyan",
+   "text": "Kolay bir hesapla hesaba çekilecek,"
+  },
+  {
+   "verseNo": 8,
+   "source": "islamoglu",
+   "text": "onun hesabı pek kolay görülecek"
+  },
+  {
+   "verseNo": 9,
+   "source": "diyanet",
+   "text": "Sevinçli olarak ailesine dönecektir."
+  },
+  {
+   "verseNo": 9,
+   "source": "esed",
+   "text": "ve kendi görüş ve anlayışındaki insanlara sevinçle dön(ebil)ecektir"
+  },
+  {
+   "verseNo": 9,
+   "source": "okuyan",
+   "text": "Sevinçli (bir şekilde) ailesine dönecektir."
+  },
+  {
+   "verseNo": 9,
+   "source": "islamoglu",
+   "text": "ve kendi insanları arasına sevinçli bir şekilde dönecek."
+  },
+  {
+   "verseNo": 10,
+   "source": "diyanet",
+   "text": "Fakat kime kitabı arkasından verilirse,"
+  },
+  {
+   "verseNo": 10,
+   "source": "esed",
+   "text": "Sicili arkasından verilecek olan ise"
+  },
+  {
+   "verseNo": 10,
+   "source": "okuyan",
+   "text": "Kimin de kitabı (amel defteri) sırtının arkasından verilirse,"
+  },
+  {
+   "verseNo": 10,
+   "source": "islamoglu",
+   "text": "Ve sicili bozuk çıkan kimseye gelince:"
+  },
+  {
+   "verseNo": 11,
+   "source": "diyanet",
+   "text": "\"Helâk!\" diye bağıracak ve alevli ateşe girecektir."
+  },
+  {
+   "verseNo": 11,
+   "source": "esed",
+   "text": "zamanı geldiğinde tamamiyle yok olmak için yalvaracak"
+  },
+  {
+   "verseNo": 11,
+   "source": "okuyan",
+   "text": "Hemen yok olmayı dileyecek,"
+  },
+  {
+   "verseNo": 11,
+   "source": "islamoglu",
+   "text": "artık ısrarla yok olmak için yalvaracak,"
+  },
+  {
+   "verseNo": 12,
+   "source": "diyanet",
+   "text": "\"Helâk!\" diye bağıracak ve alevli ateşe girecektir."
+  },
+  {
+   "verseNo": 12,
+   "source": "esed",
+   "text": "ama yakıcı ateşe atılacaktır"
+  },
+  {
+   "verseNo": 12,
+   "source": "okuyan",
+   "text": "Alevli ateşe girecektir."
+  },
+  {
+   "verseNo": 12,
+   "source": "islamoglu",
+   "text": "ne ki çılgın bir ateşi boylayacak;"
+  },
+  {
+   "verseNo": 13,
+   "source": "diyanet",
+   "text": "Çünkü o, (dünyada iken) ailesi içinde sevinçli idi."
+  },
+  {
+   "verseNo": 13,
+   "source": "esed",
+   "text": "Bakın, o adam, (yeryüzündeki hayatında) kendi görüş ve anlayışındaki insanlar arasında keyifle yaşadı"
+  },
+  {
+   "verseNo": 13,
+   "source": "okuyan",
+   "text": "Şüphesiz ki o, (dünyadayken) ailesinin (arkadaşlarının) içinde çok mutluydu."
+  },
+  {
+   "verseNo": 13,
+   "source": "islamoglu",
+   "text": "oysa o, (vaktiyle) kendi insanları içerisinde pek şen şakrak idi;"
+  },
+  {
+   "verseNo": 14,
+   "source": "diyanet",
+   "text": "Çünkü o hiçbir zaman Rabbine dönmeyeceğini sanırdı."
+  },
+  {
+   "verseNo": 14,
+   "source": "esed",
+   "text": "çünkü, hiçbir zaman (Allah´a) döneceğini düşünmedi"
+  },
+  {
+   "verseNo": 14,
+   "source": "okuyan",
+   "text": "Şüphesiz ki o, (Rabbine) dönmeyeceğini sanıyordu."
+  },
+  {
+   "verseNo": 14,
+   "source": "islamoglu",
+   "text": "her halde o (Allah’a) döneceğini asla ummuyordu;"
+  },
+  {
+   "verseNo": 15,
+   "source": "diyanet",
+   "text": "Hayır! Sandığı gibi değil! Şüphesiz Rabbi onu görüyordu."
+  },
+  {
+   "verseNo": 15,
+   "source": "esed",
+   "text": "Evet, öyle! Halbuki Rabbi, onda olan her şeyi görmekteydi"
+  },
+  {
+   "verseNo": 15,
+   "source": "okuyan",
+   "text": "Hayır! Şüphesiz ki Rabbi onu görendir."
+  },
+  {
+   "verseNo": 15,
+   "source": "islamoglu",
+   "text": "evet öyleydi, ama Rabbi onu sürekli gözetliyordu."
+  },
+  {
+   "verseNo": 16,
+   "source": "diyanet",
+   "text": "Yemin ederim şafağa,"
+  },
+  {
+   "verseNo": 16,
+   "source": "esed",
+   "text": "Yok yok! Hayır! Akşamın (geçip giden) alacakaranlığını tanıklığa çağırırım"
+  },
+  {
+   "verseNo": 16,
+   "source": "okuyan",
+   "text": "Hayır! Yemin ederim: Akşamın alaca karanlığına,"
+  },
+  {
+   "verseNo": 16,
+   "source": "islamoglu",
+   "text": "ÖTESİ YOK! İşte şafak vaktini Ben şahit tutuyorum!"
+  },
+  {
+   "verseNo": 17,
+   "source": "diyanet",
+   "text": "Geceye ve içinde topladıklarına,"
+  },
+  {
+   "verseNo": 17,
+   "source": "esed",
+   "text": "Ve geceyi, onun (safha safha) gözler önüne serdiklerini"
+  },
+  {
+   "verseNo": 17,
+   "source": "okuyan",
+   "text": "Geceye ve topladığı (örttüğü) şeylere,"
+  },
+  {
+   "verseNo": 17,
+   "source": "islamoglu",
+   "text": "ve geceyi ve toplayıp kaydettiklerini,"
+  },
+  {
+   "verseNo": 18,
+   "source": "diyanet",
+   "text": "Dolunay halindeki aya ki,"
+  },
+  {
+   "verseNo": 18,
+   "source": "esed",
+   "text": "ve dolunay haline gelen ayı"
+  },
+  {
+   "verseNo": 18,
+   "source": "okuyan",
+   "text": "Dolunay halindeki aya ki"
+  },
+  {
+   "verseNo": 18,
+   "source": "islamoglu",
+   "text": "ve safha safha dolunay halini alan ayı (şahit tutuyorum ki"
+  },
+  {
+   "verseNo": 19,
+   "source": "diyanet",
+   "text": "Şüphesiz siz halden hale geçeceksiniz."
+  },
+  {
+   "verseNo": 19,
+   "source": "esed",
+   "text": "(işte böylece, ey insanlar,) siz adım adım ilerleyeceksiniz"
+  },
+  {
+   "verseNo": 19,
+   "source": "okuyan",
+   "text": "Siz elbette bir hâlden (başka) bir hâle geçeceksiniz."
+  },
+  {
+   "verseNo": 19,
+   "source": "islamoglu",
+   "text": "ey insanlar; mukadder sona doğru) safha safha, adım adım ilerleyeceksiniz."
+  },
+  {
+   "verseNo": 20,
+   "source": "diyanet",
+   "text": "Böyleyken onlara ne oluyor da iman etmiyorlar?"
+  },
+  {
+   "verseNo": 20,
+   "source": "esed",
+   "text": "Peki, onlara ne oluyor da (öteki dünyaya) inanmıyorlar"
+  },
+  {
+   "verseNo": 20,
+   "source": "okuyan",
+   "text": "Onlara ne oluyor da inanmıyorlar!"
+  },
+  {
+   "verseNo": 20,
+   "source": "islamoglu",
+   "text": "Peki, onlara ne oluyor ki hâlâ (Hesap Günü’ne) iman etmiyorlar?"
+  },
+  {
+   "verseNo": 21,
+   "source": "diyanet",
+   "text": "Onlara Kur'an okunduğu zaman secde etmiyorlar."
+  },
+  {
+   "verseNo": 21,
+   "source": "esed",
+   "text": "Ve Kur´an kendilerine okunduğunda saygıyla yere kapanmıyorlar"
+  },
+  {
+   "verseNo": 21,
+   "source": "okuyan",
+   "text": "Kendilerine Kur’an okunduğu zaman secde de etmiyorlar!"
+  },
+  {
+   "verseNo": 21,
+   "source": "islamoglu",
+   "text": "Dahası, kendilerine Kur’an okunduğu zaman onu tasdik edip de teslim olmuyorlar."
+  },
+  {
+   "verseNo": 22,
+   "source": "diyanet",
+   "text": "Daha doğrusu, inkar edenler (Kur'an'ı) yalanlıyorlar."
+  },
+  {
+   "verseNo": 22,
+   "source": "esed",
+   "text": "Evet, hakikati inkara şartlanmış olanlar (bu ilahi kelamı) yalanlıyorlar"
+  },
+  {
+   "verseNo": 22,
+   "source": "okuyan",
+   "text": "Aksine o kâfir olanlar yalanlıyorlar."
+  },
+  {
+   "verseNo": 22,
+   "source": "islamoglu",
+   "text": "Aksine, inkârda direnenler (ilâhî vahyi) yalanlamakta ısrar ediyor;"
+  },
+  {
+   "verseNo": 23,
+   "source": "diyanet",
+   "text": "Halbuki Allah, içlerinde ne sakladıklarını çok iyi bilir."
+  },
+  {
+   "verseNo": 23,
+   "source": "esed",
+   "text": "Ama Allah, onların (kalplerinde) gizlediklerini bilir"
+  },
+  {
+   "verseNo": 23,
+   "source": "okuyan",
+   "text": "Allah onların gizlediği şeyleri çok iyi bilendir."
+  },
+  {
+   "verseNo": 23,
+   "source": "islamoglu",
+   "text": "ama Allah içlerinde biriktirip gizlediklerini çok iyi biliyor."
+  },
+  {
+   "verseNo": 24,
+   "source": "diyanet",
+   "text": "Öyle ise sen onlara elem dolu bir azabı müjdele!"
+  },
+  {
+   "verseNo": 24,
+   "source": "esed",
+   "text": "O halde, onlara (öteki dünyada) şiddetli azabı haber ver"
+  },
+  {
+   "verseNo": 24,
+   "source": "okuyan",
+   "text": "Onlara elem verici bir azabı müjdele!"
+  },
+  {
+   "verseNo": 24,
+   "source": "islamoglu",
+   "text": "Artık onlara elem verici bir azabı müjdele;"
+  },
+  {
+   "verseNo": 25,
+   "source": "diyanet",
+   "text": "Ancak iman edip de sâlih ameller işleyenler başka. Onlar için, bitmez tükenmez bir mükafat vardır."
+  },
+  {
+   "verseNo": 25,
+   "source": "esed",
+   "text": "yalnız (pişmanlık duyarak) iman edip doğru ve yararlı işler yapanlar hariç. Onlar için kesintisiz bir ödül vardır"
+  },
+  {
+   "verseNo": 25,
+   "source": "okuyan",
+   "text": "İman edip iyi işler yapanlar başkadır; onlar için başa kakılmayan (kesintisiz) bir ödül vardır."
+  },
+  {
+   "verseNo": 25,
+   "source": "islamoglu",
+   "text": "ancak iman edenler ve Allah rızasına uygun davrananlar hariç: Onları kesintisiz bir ödül bekliyor."
+  }
+ ]
+}

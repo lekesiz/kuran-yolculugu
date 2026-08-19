@@ -61,7 +61,7 @@ export const surahs = mysqlTable(
     /** Set when the two sources disagree; holds the explanation shown to the user. */
     periodDisputeNote: text("periodDisputeNote"),
     /** Approximate revelation timing, e.g. "Risaletin 3-4. yılı". */
-    revelationTiming: varchar("revelationTiming", { length: 160 }),
+    revelationTiming: text("revelationTiming"),
     /** Short editorial title for the station, e.g. "İlk Emir: Oku". */
     stationTitle: varchar("stationTitle", { length: 200 }),
     /** Introductory text about the surah ("Sure Hakkında"). */

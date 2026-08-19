@@ -1,0 +1,615 @@
+{
+ "stationNo": 66,
+ "surahNo": 71,
+ "name": "Nûh",
+ "nameArabic": "",
+ "nameMeaning": "",
+ "verseCount": 28,
+ "nuzulOrderOkuyan": 64,
+ "periodDiyanet": "Mekke",
+ "periodOkuyan": "Mekke",
+ "revelationTiming": "",
+ "stationTitle": "Tükenmeyen Bir Çaba ve İnsanın İnatçı Sağırlığı",
+ "introduction": "Nûh suresi, adını ilk ayetinde geçen ve insanlık tarihinin en uzun soluklu, en dirençli tebliğ mücadelesini veren Hz. Nûh'tan alır. 28 ayetten oluşan bu sure, Kur'an'da baştan sona tek bir peygamberin kıssasına ayrılmış nadir surelerden biridir. Diğer peygamber kıssalarında genellikle farklı elçilerin mücadelelerinden kesitler sunulurken, bu sure tamamen Hz. Nûh'un kavmiyle olan ilişkisine, tebliğ yöntemlerine ve kavminin inatçı direnişine odaklanır.\n\nSurenin yapısı iki ana bölümden oluşur. İlk bölümde (1-20. ayetler), Hz. Nûh'un kavmini gece gündüz, gizli ve açık her türlü yöntemle hakka davet etmesi, onlara Allah'ın bağışlayıcılığını ve evrendeki nimetlerini hatırlatması anlatılır. İkinci bölümde ise (21-28. ayetler), yıllar süren bu çabanın ardından kavminin putperestlikte ısrar etmesi, Nûh'a karşı tuzaklar kurması ve nihayetinde Nûh'un, ıslah olmayacaklarına kanaat getirdiği bu topluluk için yaptığı beddua ve tufan felaketi yer alır.\n\nSurenin ana ekseni, hakikati anlatma konusundaki tükenmez bir sabır ile hakikate karşı kulaklarını tıkayan, kibirlenen ve statükoyu korumak adına her türlü değişime direnen insan psikolojisinin çatışmasıdır. Sure, sadece tarihi bir olayı aktarmakla kalmaz, aynı zamanda tebliğde izlenmesi gereken yöntemi ve insanın gerçeğe karşı nasıl körleşebileceğini çarpıcı bir şekilde gözler önüne serer.",
+ "occasionOfRevelation": "Nûh suresi, Mekke döneminde nazil olmuştur. İniş sırası itibarıyla 71. sure (bazı kaynaklara göre 64. sure) olarak kabul edilir. Surenin indiği dönem, Hz. Muhammed'in (s.a.v.) Mekke'deki tebliğ faaliyetlerinin zorlaştığı, müşriklerin baskı ve alaylarının arttığı bir evreye denk gelir.\n\nSurenin nüzul sebebi olarak belirli ve tekil bir olaydan ziyade, Mekke müşriklerinin İslam'a karşı sergiledikleri inatçı tutum ve Hz. Peygamber'in yaşadığı zorluklar gösterilir. Yüce Allah, Hz. Nûh'un 950 yıl (veya çok uzun bir süre) süren sabırlı mücadelesini ve kavminin helakini anlatarak, bir yandan Hz. Peygamber'e ve müminlere moral ve teselli vermekte, diğer yandan da Mekke müşriklerine, inkarda ısrar etmeleri halinde Nûh kavminin akıbetine uğrayabilecekleri uyarısında bulunmaktadır.\n\nKaynaklarda surenin nüzul yılı konusunda kesin bir tarih verilmemekle birlikte, genel kabul Mekke döneminin ortalarına veya sonlarına doğru indiği yönündedir. Bu dönemde müşrikler, tıpkı Nûh kavminin Ved, Süvâ', Yegûs, Yeûk ve Nesr gibi putlara sarıldığı gibi kendi putlarına (Lat, Uzza, Menat vb.) sarılmakta ve tevhid çağrısına şiddetle karşı çıkmaktaydılar.",
+ "occasionSources": "TDV İslâm Ansiklopedisi, \"Nûh Sûresi\" maddesi; Diyanet İşleri Başkanlığı Kur'an Yolu Tefsiri, Nûh 1-4 ayet tefsiri; kuranokuyan.com, Nûh suresi girişi (Prof. Dr. Mehmet Okuyan).",
+ "keyTerms": [
+  {
+   "term": "enzir",
+   "arabic": "أَنْذِرْ",
+   "verseRef": "71:1",
+   "meaning": "Uyarmak, tehlikeyi önceden haber vermek. Ayette, azap gelmeden önce insanları uyandırma ve bilinçlendirme görevi olarak kullanılır."
+  },
+  {
+   "term": "istiğfar",
+   "arabic": "اسْتَغْفِرُوا",
+   "verseRef": "71:10",
+   "meaning": "Bağışlanma dilemek, hatadan dönmek. Ayette, sadece manevi bir arınma değil, aynı zamanda maddi bereketin ve toplumsal huzurun da anahtarı olarak sunulur."
+  },
+  {
+   "term": "istikbâr",
+   "arabic": "اسْتَكْبَرُوا",
+   "verseRef": "71:7",
+   "meaning": "Büyüklenmek, kibre kapılmak. Ayette, insanın hakikati reddetmesinin temel psikolojik nedeni olarak, kendini gerçeğin üstünde görme hali olarak işlenir."
+  },
+  {
+   "term": "mekr",
+   "arabic": "مَكَرُوا",
+   "verseRef": "71:22",
+   "meaning": "Tuzak kurmak, hile yapmak. Ayette, statükoyu korumak isteyen güç sahiplerinin, hakikati savunanlara karşı yürüttükleri sinsi planları ifade eder."
+  },
+  {
+   "term": "tebâr",
+   "arabic": "تَبَارًا",
+   "verseRef": "71:28",
+   "meaning": "Helak, yok oluş, hüsran. Ayette, zalimlerin nihai akıbetini ve kendi elleriyle hazırladıkları yıkımı tanımlar."
+  }
+ ],
+ "themes": [
+  {
+   "label": "Hakikate Karşı Sağırlaşma",
+   "body": "İnsanın, duymak istemediği gerçekler karşısında kulaklarını tıkaması ve yüzünü çevirmesi. Kendi konfor alanını bozacak bir çağrı geldiğinde, insanın nasıl bilinçli bir cehaleti seçebileceğini gösterir."
+  },
+  {
+   "label": "Sabrın Sınırları ve Tükeniş",
+   "body": "Bir insanı veya toplumu düzeltmek için yıllarca uğraşmanın, her yolu denemenin getirdiği yorgunluk. En nihayetinde 'bunlardan umut yok' noktasına gelmenin ve değişime tamamen kapalı olanları kendi kaderine terk etmenin ağırlığı."
+  },
+  {
+   "label": "Maddi Refah ve Manevi Körlük",
+   "body": "Toplumun ileri gelenlerinin, sahip oldukları servet ve gücü kaybetmemek adına değişime direnmeleri. Çıkarların, ahlaki ve vicdani doğruların önüne geçmesi durumu."
+  }
+ ],
+ "questions": [
+  "Hayatımda, duymak istemediğim için kulaklarımı tıkadığım, yüzleşmekten kaçtığım ve 'görmezden gelirsem yok olur' sandığım hangi rahatsız edici gerçekler var?",
+  "Sahip olduğum konum, unvan veya maddi imkanlar, daha doğru ve adil bir değişime ayak uydurmamı engelleyen birer kibre dönüşmüş olabilir mi?"
+ ],
+ "contemporaryMeaning": "Bu sure, değişime karşı gösterilen örgütlü ve inatçı direncin anatomisini çıkarır. Bir yanda bıkıp usanmadan, farklı yöntemler deneyerek anlatmaya çalışan bir özne; diğer yanda ise duydukları kendi kurulu düzenlerini tehdit ettiği için kulaklarını tıkayan bir kalabalık vardır. Metin, insanın kendi yıkımını getirecek olsa bile konforundan vazgeçmemek için ne kadar ileri gidebileceğini, hakikati reddetmenin nasıl sistematik bir kibre dönüştüğünü gösterir.\n\nBugünün diliyle: Şirket yönetimlerinde veya kurumsal yapılarda, yanlış giden bir şeyleri düzeltmek için yıllarca çabalayan insanların en sonunda karşılaştığı o sağır edici duvar, bu surenin anlattığı tablodur. Kendi pozisyonunu veya ekonomik çıkarını korumak isteyen güç sahipleri, eleştirileri duymazdan gelmekle kalmaz, kitleleri de kendi sahte gerçekliklerine inandırır. Yaklaşan felaketi haber veren uyarılara rağmen kısa vadeli kârlarını kaybetmemek için başını kuma gömen sistemlerin işleyişi, metnin işaret ettiği o kadim sağırlığın güncel bir yansımasıdır.\n\nİnsanın kendi yankı odasına hapsolup, dışarıdan gelen her uyarıyı bir tehdit olarak algılaması ve sadece kendi gücünü artıran algoritmaların peşinden gitmesi, nihayetinde kendi tufanını hazırlayan bir körlük olarak tarif edilir. Bütün iletişim kanallarının tıkandığı ve artık sözün bittiği o sınır çizgisi, surenin en ağır yüküdür.",
+ "scholarlyNotes": [
+  {
+   "kind": "rivayet",
+   "body": "Bazı tefsir kaynaklarında (Zemahşerî, Beyzâvî) yer alan 'Nûh sûresini okuyan kimse Hz. Nûh'un davetinin ulaştığı müminlerden biri sayılır' şeklindeki rivayet, TDV İslâm Ansiklopedisi'nde belirtildiği üzere mevzûdur (uydurmadır).",
+   "label": "Surenin Fazileti Hakkındaki Uydurma Hadis"
+  },
+  {
+   "kind": "nuans",
+   "body": "Diyanet Kur'an Yolu tefsirinde 4. ayetteki 'size belirli bir vadeye kadar süre tanısın' ifadesi iki şekilde açıklanmıştır: Ya iman etmeleri halinde toplumsal helakten kurtulup normal ecellerine kadar yaşayacakları, ya da ömürlerinin zamansal olarak uzaması değil, bereketli ve huzurlu geçeceği kastedilmiştir.",
+   "label": "Ecelin Ertelenmesi Meselesi"
+  }
+ ],
+ "verses": [
+  {
+   "verseNo": 1,
+   "textArabic": "بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ إِنَّآ أَرْسَلْنَا نُوحًا إِلَىٰ قَوْمِهِۦٓ أَنْ أَنذِرْ قَوْمَكَ مِن قَبْلِ أَن يَأْتِيَهُمْ عَذَابٌ أَلِيمٌۭ"
+  },
+  {
+   "verseNo": 2,
+   "textArabic": "قَالَ يَٰقَوْمِ إِنِّى لَكُمْ نَذِيرٌۭ مُّبِينٌ"
+  },
+  {
+   "verseNo": 3,
+   "textArabic": "أَنِ ٱعْبُدُوا۟ ٱللَّهَ وَٱتَّقُوهُ وَأَطِيعُونِ"
+  },
+  {
+   "verseNo": 4,
+   "textArabic": "يَغْفِرْ لَكُم مِّن ذُنُوبِكُمْ وَيُؤَخِّرْكُمْ إِلَىٰٓ أَجَلٍۢ مُّسَمًّى ۚ إِنَّ أَجَلَ ٱللَّهِ إِذَا جَآءَ لَا يُؤَخَّرُ ۖ لَوْ كُنتُمْ تَعْلَمُونَ"
+  },
+  {
+   "verseNo": 5,
+   "textArabic": "قَالَ رَبِّ إِنِّى دَعَوْتُ قَوْمِى لَيْلًۭا وَنَهَارًۭا"
+  },
+  {
+   "verseNo": 6,
+   "textArabic": "فَلَمْ يَزِدْهُمْ دُعَآءِىٓ إِلَّا فِرَارًۭا"
+  },
+  {
+   "verseNo": 7,
+   "textArabic": "وَإِنِّى كُلَّمَا دَعَوْتُهُمْ لِتَغْفِرَ لَهُمْ جَعَلُوٓا۟ أَصَٰبِعَهُمْ فِىٓ ءَاذَانِهِمْ وَٱسْتَغْشَوْا۟ ثِيَابَهُمْ وَأَصَرُّوا۟ وَٱسْتَكْبَرُوا۟ ٱسْتِكْبَارًۭا"
+  },
+  {
+   "verseNo": 8,
+   "textArabic": "ثُمَّ إِنِّى دَعَوْتُهُمْ جِهَارًۭا"
+  },
+  {
+   "verseNo": 9,
+   "textArabic": "ثُمَّ إِنِّىٓ أَعْلَنتُ لَهُمْ وَأَسْرَرْتُ لَهُمْ إِسْرَارًۭا"
+  },
+  {
+   "verseNo": 10,
+   "textArabic": "فَقُلْتُ ٱسْتَغْفِرُوا۟ رَبَّكُمْ إِنَّهُۥ كَانَ غَفَّارًۭا"
+  },
+  {
+   "verseNo": 11,
+   "textArabic": "يُرْسِلِ ٱلسَّمَآءَ عَلَيْكُم مِّدْرَارًۭا"
+  },
+  {
+   "verseNo": 12,
+   "textArabic": "وَيُمْدِدْكُم بِأَمْوَٰلٍۢ وَبَنِينَ وَيَجْعَل لَّكُمْ جَنَّٰتٍۢ وَيَجْعَل لَّكُمْ أَنْهَٰرًۭا"
+  },
+  {
+   "verseNo": 13,
+   "textArabic": "مَّا لَكُمْ لَا تَرْجُونَ لِلَّهِ وَقَارًۭا"
+  },
+  {
+   "verseNo": 14,
+   "textArabic": "وَقَدْ خَلَقَكُمْ أَطْوَارًا"
+  },
+  {
+   "verseNo": 15,
+   "textArabic": "أَلَمْ تَرَوْا۟ كَيْفَ خَلَقَ ٱللَّهُ سَبْعَ سَمَٰوَٰتٍۢ طِبَاقًۭا"
+  },
+  {
+   "verseNo": 16,
+   "textArabic": "وَجَعَلَ ٱلْقَمَرَ فِيهِنَّ نُورًۭا وَجَعَلَ ٱلشَّمْسَ سِرَاجًۭا"
+  },
+  {
+   "verseNo": 17,
+   "textArabic": "وَٱللَّهُ أَنۢبَتَكُم مِّنَ ٱلْأَرْضِ نَبَاتًۭا"
+  },
+  {
+   "verseNo": 18,
+   "textArabic": "ثُمَّ يُعِيدُكُمْ فِيهَا وَيُخْرِجُكُمْ إِخْرَاجًۭا"
+  },
+  {
+   "verseNo": 19,
+   "textArabic": "وَٱللَّهُ جَعَلَ لَكُمُ ٱلْأَرْضَ بِسَاطًۭا"
+  },
+  {
+   "verseNo": 20,
+   "textArabic": "لِّتَسْلُكُوا۟ مِنْهَا سُبُلًۭا فِجَاجًۭا"
+  },
+  {
+   "verseNo": 21,
+   "textArabic": "قَالَ نُوحٌۭ رَّبِّ إِنَّهُمْ عَصَوْنِى وَٱتَّبَعُوا۟ مَن لَّمْ يَزِدْهُ مَالُهُۥ وَوَلَدُهُۥٓ إِلَّا خَسَارًۭا"
+  },
+  {
+   "verseNo": 22,
+   "textArabic": "وَمَكَرُوا۟ مَكْرًۭا كُبَّارًۭا"
+  },
+  {
+   "verseNo": 23,
+   "textArabic": "وَقَالُوا۟ لَا تَذَرُنَّ ءَالِهَتَكُمْ وَلَا تَذَرُنَّ وَدًّۭا وَلَا سُوَاعًۭا وَلَا يَغُوثَ وَيَعُوقَ وَنَسْرًۭا"
+  },
+  {
+   "verseNo": 24,
+   "textArabic": "وَقَدْ أَضَلُّوا۟ كَثِيرًۭا ۖ وَلَا تَزِدِ ٱلظَّٰلِمِينَ إِلَّا ضَلَٰلًۭا"
+  },
+  {
+   "verseNo": 25,
+   "textArabic": "مِّمَّا خَطِيٓـَٰٔتِهِمْ أُغْرِقُوا۟ فَأُدْخِلُوا۟ نَارًۭا فَلَمْ يَجِدُوا۟ لَهُم مِّن دُونِ ٱللَّهِ أَنصَارًۭا"
+  },
+  {
+   "verseNo": 26,
+   "textArabic": "وَقَالَ نُوحٌۭ رَّبِّ لَا تَذَرْ عَلَى ٱلْأَرْضِ مِنَ ٱلْكَٰفِرِينَ دَيَّارًا"
+  },
+  {
+   "verseNo": 27,
+   "textArabic": "إِنَّكَ إِن تَذَرْهُمْ يُضِلُّوا۟ عِبَادَكَ وَلَا يَلِدُوٓا۟ إِلَّا فَاجِرًۭا كَفَّارًۭا"
+  },
+  {
+   "verseNo": 28,
+   "textArabic": "رَّبِّ ٱغْفِرْ لِى وَلِوَٰلِدَىَّ وَلِمَن دَخَلَ بَيْتِىَ مُؤْمِنًۭا وَلِلْمُؤْمِنِينَ وَٱلْمُؤْمِنَٰتِ وَلَا تَزِدِ ٱلظَّٰلِمِينَ إِلَّا تَبَارًۢا"
+  }
+ ],
+ "translations": [
+  {
+   "verseNo": 1,
+   "source": "diyanet",
+   "text": "Şüphesiz biz Nûh'u, kavmine, \"Kendilerine elem dolu bir azap gelmeden önce kavmini uyar\" diye peygamber olarak gönderdik."
+  },
+  {
+   "verseNo": 1,
+   "source": "okuyan",
+   "text": "Kendilerine elem verici bir azap gelmeden önce kavmini uyar(sın) diye Nuh’u kendi kavmine göndermiştik."
+  },
+  {
+   "verseNo": 1,
+   "source": "esed",
+   "text": "Biz Nuh´u kendi toplumuna göndererek \"Başlarına şiddetli bir azap gelmeden halkını uyar!\" diye (emrettik)"
+  },
+  {
+   "verseNo": 2,
+   "source": "diyanet",
+   "text": "Nûh şöyle dedi: \"Ey kavmim! Şüphesiz, ben sizin için apaçık bir uyarıcıyım.\""
+  },
+  {
+   "verseNo": 2,
+   "source": "okuyan",
+   "text": "Şöyle demişti: “Ey kavmim! Ben sizin için apaçık bir uyarıcıyım."
+  },
+  {
+   "verseNo": 2,
+   "source": "esed",
+   "text": "(Nuh) \"Ey halkım!\" diye seslendi, \"Ben sizin için açık bir uyarıcıyım"
+  },
+  {
+   "verseNo": 3,
+   "source": "diyanet",
+   "text": "\"Allah'a ibadet edin. Ona karşı gelmekten sakının ve bana itaat edin ki sizin günahlarınızı bağışlasın ve sizi belli bir vakte kadar ertelesin. Şüphesiz, Allah'ın belirlediği vakit gelince ertelenmez. Keşke bilseydiniz.\""
+  },
+  {
+   "verseNo": 3,
+   "source": "okuyan",
+   "text": "Allah’a kulluk edin; O’na karşı takvâlı (duyarlı) olun ve bana itaat edin."
+  },
+  {
+   "verseNo": 3,
+   "source": "esed",
+   "text": "(yalnız) Allah´a kulluk etmeniz ve O´na karşı sorumluluk bilinci taşımanız (gerektiğini bildiren bir uyarıcı). \"Şimdi bana kulak verin"
+  },
+  {
+   "verseNo": 4,
+   "source": "diyanet",
+   "text": "\"Allah'a ibadet edin. Ona karşı gelmekten sakının ve bana itaat edin ki sizin günahlarınızı bağışlasın ve sizi belli bir vakte kadar ertelesin. Şüphesiz, Allah'ın belirlediği vakit gelince ertelenmez. Keşke bilseydiniz.\""
+  },
+  {
+   "verseNo": 4,
+   "source": "okuyan",
+   "text": "(Böylece Allah) da günahlarınızı bağışlasın ve sizi, belirli bir süreye kadar ertelesin (yaşatsın)!” Allah’ın (belirlediği) süresi gelince (o artık) ertelenmez. Keşke bilseydiniz!"
+  },
+  {
+   "verseNo": 4,
+   "source": "esed",
+   "text": "ki Allah bir kısım günahlarınızı bağışlasın ve (yalnız O´na) malum olan bir zamana kadar size mühlet tanısın; ama bilin ki Allah´ın belirlediği vade gelip çattığında hiçbir şekilde ertelenemez. Keşke bunu bilseydiniz"
+  },
+  {
+   "verseNo": 5,
+   "source": "diyanet",
+   "text": "Nûh şöyle dedi: \"Ey Rabbim! Gerçekten ben kavmimi gece gündüz (imana) davet ettim.\""
+  },
+  {
+   "verseNo": 5,
+   "source": "okuyan",
+   "text": "(Nuh) demişti ki: “Rabbim! Doğrusu ben kavmimi gece gündüz (imana) davet ettim."
+  },
+  {
+   "verseNo": 5,
+   "source": "esed",
+   "text": "(Ve bir zaman sonra, Nuh) \"Ey Rabbim!\" dedi, \"Ben halkıma gece gündüz çağrıda bulunuyorum"
+  },
+  {
+   "verseNo": 6,
+   "source": "diyanet",
+   "text": "\"Fakat benim davetim ancak onların kaçışını artırdı.\""
+  },
+  {
+   "verseNo": 6,
+   "source": "okuyan",
+   "text": "(Ancak) benim davetim ancak kaçmalarını artırdı."
+  },
+  {
+   "verseNo": 6,
+   "source": "esed",
+   "text": "ama bu çağrım onları yalnızca (Senden) daha da uzaklaştırdı"
+  },
+  {
+   "verseNo": 7,
+   "source": "diyanet",
+   "text": "\"Kuşkusuz sen onları bağışlayasın diye kendilerini her davet edişimde parmaklarını kulaklarına tıkadılar, elbiselerine büründüler, inanmamakta direndiler ve büyük bir kibir gösterdiler.\""
+  },
+  {
+   "verseNo": 7,
+   "source": "okuyan",
+   "text": "Sen onları bağışlayasın diye onları ne zaman davet ettiysem, parmaklarını kulaklarına tıkadılar; elbiselerine büründüler, direndiler ve kibirlendikçe kibirlendiler."
+  },
+  {
+   "verseNo": 7,
+   "source": "esed",
+   "text": "Ve doğrusu, onlara bağışlayıcılığını göstereceğin ümidiyle ne zaman çağrıda bulunduysam parmaklarını kulaklarına tıkadılar, (günahkarlık) giysilerine büründüler, daha fazla inada kapıldılar ve boş gururlarında (daha da) azgınlaştılar"
+  },
+  {
+   "verseNo": 8,
+   "source": "diyanet",
+   "text": "\"Sonra ben onları açık açık davet ettim\"."
+  },
+  {
+   "verseNo": 8,
+   "source": "okuyan",
+   "text": "Sonra, ben kendilerini açıktan davet ettim."
+  },
+  {
+   "verseNo": 8,
+   "source": "esed",
+   "text": "Doğrusu, ben onları açık açık çağırdım"
+  },
+  {
+   "verseNo": 9,
+   "source": "diyanet",
+   "text": "\"Sonra, onlarla hem açıktan açığa, hem de gizli gizli konuştum.\""
+  },
+  {
+   "verseNo": 9,
+   "source": "okuyan",
+   "text": "Ardından, onlara hem (açıktan) ilan ettim hem de gizli gizli söyledim."
+  },
+  {
+   "verseNo": 9,
+   "source": "esed",
+   "text": "onlara açıktan tebliğde bulundum; (ayrıca) onlarla gizlice, özel olarak da konuştum"
+  },
+  {
+   "verseNo": 10,
+   "source": "diyanet",
+   "text": "\"Dedim ki: ‘Rabbinizden bağışlama dileyin; çünkü o çok bağışlayıcıdır.'"
+  },
+  {
+   "verseNo": 10,
+   "source": "okuyan",
+   "text": "(Onlara) dedim ki: Rabbinizden bağışlanma dileyin; şüphesiz ki O çok bağışlayandır."
+  },
+  {
+   "verseNo": 10,
+   "source": "esed",
+   "text": "ve dedim ki: \"Rabbinizden günahlarınızın bağışlanmasını dileyin, çünkü O, kuşkusuz bağışlayıcıdır"
+  },
+  {
+   "verseNo": 11,
+   "source": "diyanet",
+   "text": "‘(Bağışlama dileyin ki,) üzerinize gökten bol bol yağmur indirsin.'"
+  },
+  {
+   "verseNo": 11,
+   "source": "okuyan",
+   "text": "(Af dileyin ki) üzerinize göğü (yağmuru) bol bol göndersin!"
+  },
+  {
+   "verseNo": 11,
+   "source": "esed",
+   "text": "Size, hesapsız semavi nimetler yağdıracaktır"
+  },
+  {
+   "verseNo": 12,
+   "source": "diyanet",
+   "text": "‘Sizi mallarla, oğullarla desteklesin ve sizin için bahçeler var etsin, sizin için ırmaklar var etsin.'"
+  },
+  {
+   "verseNo": 12,
+   "source": "okuyan",
+   "text": "Mallarınızı ve çocuklarınızı çoğaltsın; size bahçeler versin; sizin için ırmaklar yapsın (akıtsın)!"
+  },
+  {
+   "verseNo": 12,
+   "source": "esed",
+   "text": "dünyevi servet ve evlat vermek suretiyle size yardım edecek ve size bağlar bahçeler ihsan edecek ve akıp giden sular bağışlayacaktır"
+  },
+  {
+   "verseNo": 13,
+   "source": "diyanet",
+   "text": "‘Size ne oluyor da Allah için bir vakar (saygınlık, büyüklük) ummuyorsunuz?'"
+  },
+  {
+   "verseNo": 13,
+   "source": "okuyan",
+   "text": "Size ne oluyor ki Allah’a büyüklüğü yakıştıramıyorsunuz?"
+  },
+  {
+   "verseNo": 13,
+   "source": "esed",
+   "text": "Size ne oluyor ki Allah´ın büyüklüğünü kabul etmiyorsunuz"
+  },
+  {
+   "verseNo": 14,
+   "source": "diyanet",
+   "text": "‘Halbuki, o sizi evrelerden geçirerek yaratmıştır.'"
+  },
+  {
+   "verseNo": 14,
+   "source": "okuyan",
+   "text": "Sizi aşama aşama elbette O yaratmıştır."
+  },
+  {
+   "verseNo": 14,
+   "source": "esed",
+   "text": "sizi(n her birinizi) peşpeşe aşamalardan geçirerek yaratanın O olduğunu gördüğünüz halde"
+  },
+  {
+   "verseNo": 15,
+   "source": "diyanet",
+   "text": "‘Görmediniz mi Allah yedi göğü, tabaka tabaka nasıl yaratmıştır?'"
+  },
+  {
+   "verseNo": 15,
+   "source": "okuyan",
+   "text": "Görmediniz mi Allah yedi göğü tabaka tabaka (birbiriyle uyumlu) nasıl yaratmıştır!"
+  },
+  {
+   "verseNo": 15,
+   "source": "esed",
+   "text": "Görmüyor musunuz Allah yedi göğü nasıl birbiriyle uyumlu yaratmıştır"
+  },
+  {
+   "verseNo": 16,
+   "source": "diyanet",
+   "text": "‘Onların içinde nasıl ayı, bir ışık, güneşi de bir kandil yapmıştır?'"
+  },
+  {
+   "verseNo": 16,
+   "source": "okuyan",
+   "text": "Onların içinde ayı bir nûr kılmış, güneşi de bir kandil yapmıştır."
+  },
+  {
+   "verseNo": 16,
+   "source": "esed",
+   "text": "ve onların içine ay´ı (yansıyan) bir ışık olarak yerleştirmiş ve güneşi (ışık saçan) bir lamba yapmıştır"
+  },
+  {
+   "verseNo": 17,
+   "source": "diyanet",
+   "text": "‘Allah, sizi (babanız Adem'i) yerden (bitki bitirir gibi) bitirdi (yarattı.)'"
+  },
+  {
+   "verseNo": 17,
+   "source": "okuyan",
+   "text": "Allah, sizi de yerden bitki (bitirir) gibi bitirmiştir."
+  },
+  {
+   "verseNo": 17,
+   "source": "esed",
+   "text": "Ve Allah sizi yerden (tedrici bir şekilde) yeşertip büyütmüştür; ve sonra sizi (öldükten sonra) ona geri döndürecektir"
+  },
+  {
+   "verseNo": 18,
+   "source": "diyanet",
+   "text": "‘Sonra sizi yine oraya döndürecek ve kesinlikle sizi (yeniden) çıkaracaktır.'"
+  },
+  {
+   "verseNo": 18,
+   "source": "okuyan",
+   "text": "Sonra sizi oraya döndürecek ve sizi yeniden (oradan) çıkartacaktır."
+  },
+  {
+   "verseNo": 18,
+   "source": "esed",
+   "text": "(daha sonra) sizi yeniden dirilterek tekrar ortaya çıkaracaktır"
+  },
+  {
+   "verseNo": 19,
+   "source": "diyanet",
+   "text": "‘Allah yeryüzünü sizin için bir sergi yapmıştır ki, oradaki geniş yollarda yürüyesiniz.' \""
+  },
+  {
+   "verseNo": 19,
+   "source": "okuyan",
+   "text": "19-20 . Ondan geniş yollar edinesiniz diye Allah yeri sizin için yaymıştır.”"
+  },
+  {
+   "verseNo": 19,
+   "source": "esed",
+   "text": "Ve Allah yeri sizin için genişçe yaymıştır"
+  },
+  {
+   "verseNo": 20,
+   "source": "diyanet",
+   "text": "‘Allah yeryüzünü sizin için bir sergi yapmıştır ki, oradaki geniş yollarda yürüyesiniz.' \""
+  },
+  {
+   "verseNo": 20,
+   "source": "okuyan",
+   "text": "19-20 . Ondan geniş yollar edinesiniz diye Allah yeri sizin için yaymıştır.”"
+  },
+  {
+   "verseNo": 20,
+   "source": "esed",
+   "text": "ki üzerinde geniş yollardan yürüyüp geçebilesiniz"
+  },
+  {
+   "verseNo": 21,
+   "source": "diyanet",
+   "text": "Nûh dedi ki: \"Rabbim! Gerçekten onlar bana karşı geldiler, malı ve çocuğu ancak kendi hüsranını artıran kimselere uydular.\""
+  },
+  {
+   "verseNo": 21,
+   "source": "okuyan",
+   "text": "(Söylediklerini dinlememeleri üzerine) Nuh şöyle demişti: “Rabbim! Doğrusu onlar bana karşı geldiler; malı ve çocuğu kendi kaybını artırmaktan başka bir işe yaramayan kimseye uydular."
+  },
+  {
+   "verseNo": 21,
+   "source": "esed",
+   "text": "Nuh, \"Ey Rabbim!\" diye ekledi, \"Onlar bana (tamamen) karşı çıktılar, zaten onlar serveti ve çocukları yüzünden hızla yok olmaya doğru giden kimselere uyarlar"
+  },
+  {
+   "verseNo": 22,
+   "source": "diyanet",
+   "text": "\"Bunlar da, çok büyük bir tuzak kurdular.\""
+  },
+  {
+   "verseNo": 22,
+   "source": "okuyan",
+   "text": "Çok büyük tuzaklar da kurdular.”"
+  },
+  {
+   "verseNo": 22,
+   "source": "esed",
+   "text": "ve (Sana karşı) en korkunç tuzakları kuranlara"
+  },
+  {
+   "verseNo": 23,
+   "source": "diyanet",
+   "text": "\"Şöyle dediler: ‘Sakın ilâhlarınızı bırakmayın. Hele hele Vedd'i, Süvâ'ı, Yeğus'u, Ye'ûk'u ve Nesr'i hiç bırakmayın.\""
+  },
+  {
+   "verseNo": 23,
+   "source": "okuyan",
+   "text": "Şöyle demişlerdi: “Sakın ilahlarınızı bırakmayın; Vedd’i, Suvâ‘ı, Yeğûs’u, Ye‘ûk’u ve Nesr’i terk etmeyin!”"
+  },
+  {
+   "verseNo": 23,
+   "source": "esed",
+   "text": "çünkü onlar (kendilerine uyanlara): ´Tanrılarınızı hiçbir zaman terk etmeyin! Ne Vedd, ne Suva´, ne Yeğus, ne Ye´uk ve ne de Nesr´i terk etmeyin!´ demişlerdi"
+  },
+  {
+   "verseNo": 24,
+   "source": "diyanet",
+   "text": "\"Onlar gerçekten birçoklarını saptırdılar. (Rabbim!) Sen de bu zalimlerin sadece sapıklıklarını artır.\""
+  },
+  {
+   "verseNo": 24,
+   "source": "okuyan",
+   "text": "(Böylece) onlar elbette çoklarını saptırdılar. (Bunun üzerine Nuh: “Rabbim)! Sen de bu zalimlerin ancak şaşkınlıklarını artır!” (demişti)."
+  },
+  {
+   "verseNo": 24,
+   "source": "esed",
+   "text": "Onlar böylece çoğu kimseyi saptırdılar, o halde, Sen bu zalimlere yalnızca (özlem duydukları şeylerden) uzaklaşmalarını emret"
+  },
+  {
+   "verseNo": 25,
+   "source": "diyanet",
+   "text": "Hataları (küfür ve isyanları) yüzünden suda boğuldular ve cehenneme sokuldular da kendileri için Allah'tan başka yardımcılar bulamadılar."
+  },
+  {
+   "verseNo": 25,
+   "source": "okuyan",
+   "text": "Onlar, günahları yüzünden (suda) boğuldular ve ateşe sokuldular; (o zaman) Allah’ın peşi sıra hiçbir yardımcı da bulamadılar (bulamayacaklar)."
+  },
+  {
+   "verseNo": 25,
+   "source": "esed",
+   "text": "Böylece onlar, günahları yüzünden (büyük bir tufanda) boğuldular ve (öteki dünyanın) ateşinde yanmaya mahkum edildiler; ve kendilerini Allah´a karşı koruyacak bir yardımcı bulamadılar"
+  },
+  {
+   "verseNo": 26,
+   "source": "diyanet",
+   "text": "Nûh şöyle dedi: \"Ey Rabbim! Kâfirlerden hiç kimseyi yeryüzünde bırakma!\""
+  },
+  {
+   "verseNo": 26,
+   "source": "okuyan",
+   "text": "Nuh demişti ki: “Rabbim! O kâfirlerden kimseyi yeryüzünde bırakma!"
+  },
+  {
+   "verseNo": 26,
+   "source": "esed",
+   "text": "Ve Nuh, \"Ey Rabbim!\" diye yalvardı: \"Yeryüzünde bu hakikati inkar edenlerden hiç kimseyi bırakma"
+  },
+  {
+   "verseNo": 27,
+   "source": "diyanet",
+   "text": "\"Çünkü sen onları bırakırsan, kullarını saptırırlar; sadece ahlâksız ve kafir kimseler yetiştirirler.\""
+  },
+  {
+   "verseNo": 27,
+   "source": "okuyan",
+   "text": "Şüphesiz ki sen onları bırakırsan kullarını saptırır; sadece ahlaksız, nankör (işler) doğururlar (yaparlar)."
+  },
+  {
+   "verseNo": 27,
+   "source": "esed",
+   "text": "çünkü Sen onları bırakırsan, Sana kulluk edenleri hep saptır(maya çalış)ırlar ve yalnızca fesada ve inatla sürdürülen nankörlüğe sebep olurlar"
+  },
+  {
+   "verseNo": 28,
+   "source": "diyanet",
+   "text": "\"Rabbim! Beni, ana babamı, iman etmiş olarak evime girenleri, iman eden erkekleri ve iman eden kadınları bağışla. Zalimlerin de ancak helâkini arttır.\""
+  },
+  {
+   "verseNo": 28,
+   "source": "okuyan",
+   "text": "Rabbim! Beni, ana babamı, iman etmiş olarak evime girenleri, iman eden erkekleri ve iman eden kadınları bağışla! Zalimlerin de ancak helakini artır!”"
+  },
+  {
+   "verseNo": 28,
+   "source": "esed",
+   "text": "Ey Rabbim! Bana, anneme, babama, evime mümin olarak giren herkese ve (daha sonraki) bütün mümin kadınlara ve erkeklere bağışlayıcılığını göster ve zulüm işleyenleri her zaman helake uğrat"
+  }
+ ]
+}

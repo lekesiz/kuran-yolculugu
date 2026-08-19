@@ -1,0 +1,678 @@
+{
+ "stationNo": 40,
+ "surahNo": 76,
+ "name": "İnsân",
+ "nameArabic": "",
+ "nameMeaning": "",
+ "verseCount": 31,
+ "nuzulOrderOkuyan": 32,
+ "periodDiyanet": "Mekke",
+ "periodOkuyan": "Mekke",
+ "revelationTiming": "Çoğunluk Medine dese de, üslup ve içerik Mekki olduğunu gösterir. Kaynaklarda ihtilaf vardır.",
+ "stationTitle": "İnsanın Yaratılış Serüveni ve İrade Sınavı",
+ "introduction": "İnsan Suresi, adını ilk ayetinde geçen ve insanın yaratılmadan önceki hiçliğini ifade eden 'insân' kelimesinden alır. Ayrıca Dehr, Emşâc, Ebrâr ve Hel etâ adlarıyla da anılmaktadır. Toplam 31 ayetten oluşan surenin fâsılası elif harfidir.\n\nSurenin ana ekseni, insanın yaratılışının ve nimetlere mazhar olmasının hikmetini kavramaya, Allah'ı tanıyıp O'nun verdiklerine şükretmeye, azabından sakınmaya ve ahiretteki değerli nimetleri elde etmenin şartlarını gerçekleştirmeye bir çağrı niteliğindedir. Muhtevası bakımından yeniden dirilmenin kesinliğini vurgulayan ve ahiret hallerini özetleyen bir önceki Kıyamet Suresinin tamamlayıcısı gibidir.\n\nSure üç ana bölümden oluşur. İlk bölümde (1-3. ayetler) insanın yaratılış süreci ve imtihan için donatılması ele alınır. İkinci bölümde (4-22. ayetler) iradesini iyilik yönünde kullanan erdemli müminlerin (ebrâr) ahiretteki ödülleri ve inkarcıların cezaları tasvir edilir. Son bölümde ise (23-31. ayetler) Kur'an'ın indirilişi, sabır, ibadet ve dünya hayatına aşırı tutkunun tehlikeleri vurgulanır.",
+ "occasionOfRevelation": "İnsan Suresinin nüzul dönemi hakkında kaynaklarda farklı görüşler bulunmaktadır. Mücâhid b. Cebr ve Katâde b. Diâme'nin de içinde bulunduğu alimlerin çoğunluğuna göre sure Medine'de nazil olmuştur. Bu görüşe göre Rahman Suresinden sonra, Talak Suresinden önce doksanıncı sure olarak inmiştir.\n\nDiğer taraftan, surenin tamamının Mekke döneminde 30 veya 31. sure olarak indiğini kabul edenler de vardır. Hatta 1-24. ayetlerin Medeni, diğerlerinin Mekki olduğunu ileri sürenler de bulunmaktadır. Ancak surenin üslubu, ayetlerinin nispeten kısa oluşu ve en geniş yer verilen konunun ahiret nimetleri olması gibi özellikleri, surenin Mekki olduğu kanaatini güçlendirmektedir.\n\nProf. Dr. Mehmet Okuyan da surenin Mekke'de risaletin ilk dönemlerinde, 2 veya 3. yıllarında indirilmiş olmasının muhtemel olduğunu belirtmektedir. Surenin nüzul sebebi olarak belirli bir olaydan ziyade, insanın yaratılış gayesini, sorumluluğunu ve ahiret bilincini inşa etme amacı ön plana çıkmaktadır.",
+ "occasionSources": "TDV İslâm Ansiklopedisi, \"İnsân Sûresi\" maddesi; Diyanet İşleri Başkanlığı Kur'an Yolu Tefsiri, İnsan Suresi tefsiri; kuranokuyan.com, İnsan suresi girişi (Prof. Dr. Mehmet Okuyan).",
+ "keyTerms": [
+  {
+   "term": "insân",
+   "arabic": "الْاِنْسَان",
+   "verseRef": "76:1",
+   "meaning": "İnsan neslini ve her bir insanı ifade eder. Akıl ve fikir sahibi, sorumluluk yüklenmiş varlık."
+  },
+  {
+   "term": "dehr",
+   "arabic": "الدَّهْر",
+   "verseRef": "76:1",
+   "meaning": "Başı sonu belirlenemeyen, çok uzun ve mutlak zaman süreci."
+  },
+  {
+   "term": "emşâc",
+   "arabic": "اَمْشَاج",
+   "verseRef": "76:2",
+   "meaning": "Katışık, karışık anlamına gelir. Ayette döllenmiş yumurtayı (zigot) ifade eder."
+  },
+  {
+   "term": "ebrâr",
+   "arabic": "الْاَبْرَار",
+   "verseRef": "76:5",
+   "meaning": "İyiler, erdemliler. İradesini iyilik yönünde kullanan ve Allah'ın rızasını gözeten müminler."
+  },
+  {
+   "term": "şekûr",
+   "arabic": "شَكُور",
+   "verseRef": "76:3",
+   "meaning": "Şükreden. İnsanın kendisine verilen iradeyi doğru yönde kullanarak Allah'a minnettar olması."
+  },
+  {
+   "term": "kefûr",
+   "arabic": "كَفُور",
+   "verseRef": "76:3",
+   "meaning": "Nankör. İnsanın kendisine verilen nimetleri ve iradeyi inkar ve kötülük yönünde kullanması."
+  }
+ ],
+ "themes": [
+  {
+   "label": "Hiçlikten Varlığa",
+   "body": "İnsanın bir zamanlar anılmaya değer bir şey bile olmadığını hatırlaması, kibrini kırması ve yaratıcısına karşı tevazu sahibi olması gerektiğini öğretir."
+  },
+  {
+   "label": "İrade ve Sorumluluk",
+   "body": "İnsana işitme ve görme yetilerinin verilmesi, onun bir imtihana tabi tutulduğunu ve seçimlerinden sorumlu olduğunu gösterir. İyilik veya kötülük yolunu seçmek insanın kendi elindedir."
+  },
+  {
+   "label": "Karşılıksız İyilik",
+   "body": "Erdemli insanların (ebrâr) yoksulu, yetimi ve esiri sırf Allah rızası için doyurmaları, iyiliğin hiçbir dünyevi karşılık beklemeden yapılması gerektiğini vurgular."
+  }
+ ],
+ "questions": [
+  "Hayatımda yaptığım iyiliklerde gerçekten hiçbir karşılık (teşekkür, takdir, minnet) beklemeden, sadece doğru olduğu için hareket ettiğim anlar ne kadar?",
+  "Bana verilen yetenekleri, zamanı ve imkanları (işitme ve görme) kendi bencil arzularım için mi, yoksa daha yüksek bir amaç için mi kullanıyorum?"
+ ],
+ "contemporaryMeaning": "Bu sure, insanın kökenindeki hiçlik ile eylemlerindeki mutlak irade arasındaki gerilimi merkeze alır. Metin, varoluşun başlangıcında anılmaya değer bir şey bile olmayan insanın, kendisine sunulan seçme yetisiyle nasıl bir ahlaki özneye dönüştüğünü inceler. Temel mesele, insanın kendi varlığını kendinden menkul sanma yanılgısı ve iyilik yapma eyleminin ardındaki gizli beklentilerdir.\n\nBugünün diliyle: Kariyer basamaklarını tırmanırken, bir projeyi başarıyla tamamlarken veya sosyal medyada bir etki alanı inşa ederken hissedilen o tanıdık 'bunu kendi çabamla başardım' duygusu, surenin işaret ettiği ilk körlük noktasıdır. İnsanın kendi başlangıcındaki kırılganlığı unutarak elde ettiği statüyü mutlaklaştırması, varoluşsal bir hafıza kaybı olarak tanımlanır.\n\nÖte yandan sure, iyilik kavramını radikal bir şekilde yeniden tanımlar. Kurumsal sosyal sorumluluk projelerinin halkla ilişkiler kampanyalarına dönüştüğü, yapılan yardımların görünürlük ve beğeni tahsilatına aracı kılındığı bir düzende, metin karşılık ve teşekkür beklemeyen bir verme eyleminden bahseder. Birine yardım ettikten sonra ondan minnet beklemek veya nankörlük gördüğünde öfkelenmek, yapılan eylemin aslında bir ticaret olduğunu gösterir. Sure, insanın ancak kendi egosunu devreden çıkararak yaptığı eylemlerle gerçek anlamda var olabileceğini söyler.",
+ "scholarlyNotes": [
+  {
+   "kind": "ihtilaf",
+   "body": "TDV İslâm Ansiklopedisi'ne göre âlimlerin çoğunluğu surenin Medine'de indiğini söyler; buna karşılık üslup ve içerik özelliklerinden hareketle Mekkî olduğunu savunanlar da vardır. Prof. Dr. Mehmet Okuyan Mekke döneminin ilk yıllarına işaret eder. İki görüş de kaynaklarda kayıtlı olduğu için nüzul yeri kesin değildir.",
+   "label": "Nüzul Dönemi İhtilafı"
+  },
+  {
+   "kind": "rivayet",
+   "body": "Bazı tefsirlerde yer alan 'Kim Hel etâ sûresini okursa Allah onu cennet ve ipek elbiselerle ödüllendirir' şeklindeki hadis zayıftır/asılsızdır (TDV İslam Ansiklopedisi).",
+   "label": "Fazilet Rivayeti"
+  }
+ ],
+ "verses": [
+  {
+   "verseNo": 1,
+   "textArabic": "بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ هَلْ أَتَىٰ عَلَى ٱلْإِنسَٰنِ حِينٌۭ مِّنَ ٱلدَّهْرِ لَمْ يَكُن شَيْـًۭٔا مَّذْكُورًا"
+  },
+  {
+   "verseNo": 2,
+   "textArabic": "إِنَّا خَلَقْنَا ٱلْإِنسَٰنَ مِن نُّطْفَةٍ أَمْشَاجٍۢ نَّبْتَلِيهِ فَجَعَلْنَٰهُ سَمِيعًۢا بَصِيرًا"
+  },
+  {
+   "verseNo": 3,
+   "textArabic": "إِنَّا هَدَيْنَٰهُ ٱلسَّبِيلَ إِمَّا شَاكِرًۭا وَإِمَّا كَفُورًا"
+  },
+  {
+   "verseNo": 4,
+   "textArabic": "إِنَّآ أَعْتَدْنَا لِلْكَٰفِرِينَ سَلَٰسِلَا۟ وَأَغْلَٰلًۭا وَسَعِيرًا"
+  },
+  {
+   "verseNo": 5,
+   "textArabic": "إِنَّ ٱلْأَبْرَارَ يَشْرَبُونَ مِن كَأْسٍۢ كَانَ مِزَاجُهَا كَافُورًا"
+  },
+  {
+   "verseNo": 6,
+   "textArabic": "عَيْنًۭا يَشْرَبُ بِهَا عِبَادُ ٱللَّهِ يُفَجِّرُونَهَا تَفْجِيرًۭا"
+  },
+  {
+   "verseNo": 7,
+   "textArabic": "يُوفُونَ بِٱلنَّذْرِ وَيَخَافُونَ يَوْمًۭا كَانَ شَرُّهُۥ مُسْتَطِيرًۭا"
+  },
+  {
+   "verseNo": 8,
+   "textArabic": "وَيُطْعِمُونَ ٱلطَّعَامَ عَلَىٰ حُبِّهِۦ مِسْكِينًۭا وَيَتِيمًۭا وَأَسِيرًا"
+  },
+  {
+   "verseNo": 9,
+   "textArabic": "إِنَّمَا نُطْعِمُكُمْ لِوَجْهِ ٱللَّهِ لَا نُرِيدُ مِنكُمْ جَزَآءًۭ وَلَا شُكُورًا"
+  },
+  {
+   "verseNo": 10,
+   "textArabic": "إِنَّا نَخَافُ مِن رَّبِّنَا يَوْمًا عَبُوسًۭا قَمْطَرِيرًۭا"
+  },
+  {
+   "verseNo": 11,
+   "textArabic": "فَوَقَىٰهُمُ ٱللَّهُ شَرَّ ذَٰلِكَ ٱلْيَوْمِ وَلَقَّىٰهُمْ نَضْرَةًۭ وَسُرُورًۭا"
+  },
+  {
+   "verseNo": 12,
+   "textArabic": "وَجَزَىٰهُم بِمَا صَبَرُوا۟ جَنَّةًۭ وَحَرِيرًۭا"
+  },
+  {
+   "verseNo": 13,
+   "textArabic": "مُّتَّكِـِٔينَ فِيهَا عَلَى ٱلْأَرَآئِكِ ۖ لَا يَرَوْنَ فِيهَا شَمْسًۭا وَلَا زَمْهَرِيرًۭا"
+  },
+  {
+   "verseNo": 14,
+   "textArabic": "وَدَانِيَةً عَلَيْهِمْ ظِلَٰلُهَا وَذُلِّلَتْ قُطُوفُهَا تَذْلِيلًۭا"
+  },
+  {
+   "verseNo": 15,
+   "textArabic": "وَيُطَافُ عَلَيْهِم بِـَٔانِيَةٍۢ مِّن فِضَّةٍۢ وَأَكْوَابٍۢ كَانَتْ قَوَارِيرَا۠"
+  },
+  {
+   "verseNo": 16,
+   "textArabic": "قَوَارِيرَا۟ مِن فِضَّةٍۢ قَدَّرُوهَا تَقْدِيرًۭا"
+  },
+  {
+   "verseNo": 17,
+   "textArabic": "وَيُسْقَوْنَ فِيهَا كَأْسًۭا كَانَ مِزَاجُهَا زَنجَبِيلًا"
+  },
+  {
+   "verseNo": 18,
+   "textArabic": "عَيْنًۭا فِيهَا تُسَمَّىٰ سَلْسَبِيلًۭا"
+  },
+  {
+   "verseNo": 19,
+   "textArabic": "۞ وَيَطُوفُ عَلَيْهِمْ وِلْدَٰنٌۭ مُّخَلَّدُونَ إِذَا رَأَيْتَهُمْ حَسِبْتَهُمْ لُؤْلُؤًۭا مَّنثُورًۭا"
+  },
+  {
+   "verseNo": 20,
+   "textArabic": "وَإِذَا رَأَيْتَ ثَمَّ رَأَيْتَ نَعِيمًۭا وَمُلْكًۭا كَبِيرًا"
+  },
+  {
+   "verseNo": 21,
+   "textArabic": "عَٰلِيَهُمْ ثِيَابُ سُندُسٍ خُضْرٌۭ وَإِسْتَبْرَقٌۭ ۖ وَحُلُّوٓا۟ أَسَاوِرَ مِن فِضَّةٍۢ وَسَقَىٰهُمْ رَبُّهُمْ شَرَابًۭا طَهُورًا"
+  },
+  {
+   "verseNo": 22,
+   "textArabic": "إِنَّ هَٰذَا كَانَ لَكُمْ جَزَآءًۭ وَكَانَ سَعْيُكُم مَّشْكُورًا"
+  },
+  {
+   "verseNo": 23,
+   "textArabic": "إِنَّا نَحْنُ نَزَّلْنَا عَلَيْكَ ٱلْقُرْءَانَ تَنزِيلًۭا"
+  },
+  {
+   "verseNo": 24,
+   "textArabic": "فَٱصْبِرْ لِحُكْمِ رَبِّكَ وَلَا تُطِعْ مِنْهُمْ ءَاثِمًا أَوْ كَفُورًۭا"
+  },
+  {
+   "verseNo": 25,
+   "textArabic": "وَٱذْكُرِ ٱسْمَ رَبِّكَ بُكْرَةًۭ وَأَصِيلًۭا"
+  },
+  {
+   "verseNo": 26,
+   "textArabic": "وَمِنَ ٱلَّيْلِ فَٱسْجُدْ لَهُۥ وَسَبِّحْهُ لَيْلًۭا طَوِيلًا"
+  },
+  {
+   "verseNo": 27,
+   "textArabic": "إِنَّ هَٰٓؤُلَآءِ يُحِبُّونَ ٱلْعَاجِلَةَ وَيَذَرُونَ وَرَآءَهُمْ يَوْمًۭا ثَقِيلًۭا"
+  },
+  {
+   "verseNo": 28,
+   "textArabic": "نَّحْنُ خَلَقْنَٰهُمْ وَشَدَدْنَآ أَسْرَهُمْ ۖ وَإِذَا شِئْنَا بَدَّلْنَآ أَمْثَٰلَهُمْ تَبْدِيلًا"
+  },
+  {
+   "verseNo": 29,
+   "textArabic": "إِنَّ هَٰذِهِۦ تَذْكِرَةٌۭ ۖ فَمَن شَآءَ ٱتَّخَذَ إِلَىٰ رَبِّهِۦ سَبِيلًۭا"
+  },
+  {
+   "verseNo": 30,
+   "textArabic": "وَمَا تَشَآءُونَ إِلَّآ أَن يَشَآءَ ٱللَّهُ ۚ إِنَّ ٱللَّهَ كَانَ عَلِيمًا حَكِيمًۭا"
+  },
+  {
+   "verseNo": 31,
+   "textArabic": "يُدْخِلُ مَن يَشَآءُ فِى رَحْمَتِهِۦ ۚ وَٱلظَّٰلِمِينَ أَعَدَّ لَهُمْ عَذَابًا أَلِيمًۢا"
+  }
+ ],
+ "translations": [
+  {
+   "verseNo": 1,
+   "source": "diyanet",
+   "text": "İnsan (henüz) anılır bir şey değilken (yaratılmamışken) üzerinden uzunca bir zaman geçti."
+  },
+  {
+   "verseNo": 1,
+   "source": "okuyan",
+   "text": "Henüz anılan bir şey değilken, şüphesiz ki insanın üzerinden çok uzun zamandan belli bir süre geçti (değil) mi !"
+  },
+  {
+   "verseNo": 1,
+   "source": "esed",
+   "text": "İnsan(ın tarih sahnesinde görünmesin)den önceki dönem, sonsuz bir zaman kesitinden ibaret (değil) midir; insanın henüz dikkate değer bir varlık olmadığı (bir zaman kesiti)"
+  },
+  {
+   "verseNo": 2,
+   "source": "diyanet",
+   "text": "Şüphesiz biz insanı, karışım halindeki az bir sudan (meniden) yarattık ve onu imtihan edeceğiz. Bu sebeple onu işitir ve görür kıldık."
+  },
+  {
+   "verseNo": 2,
+   "source": "okuyan",
+   "text": "Şüphesiz ki biz insanı katışık (döllenmiş) bir nutfeden (zigottan) yarattık. Onu imtihan edeceğiz; (bu yüzden) onu duyan ve gören kıldık."
+  },
+  {
+   "verseNo": 2,
+   "source": "esed",
+   "text": "Şüphesiz, (sonraki hayatında) denemek için insanı katışık bir sperm damlasından yaratan Biziz. Biz, onu işitme ve görme (duyuları) ile donatılmış bir varlık kıldık"
+  },
+  {
+   "verseNo": 3,
+   "source": "diyanet",
+   "text": "Şüphesiz biz onu (ömür boyu yürüyeceği) yola koyduk. O bu yolu ya şükrederek ya da nankörlük ederek kateder."
+  },
+  {
+   "verseNo": 3,
+   "source": "okuyan",
+   "text": "Şüphesiz ki biz ona (insanoğluna) yol gösterdik. Ya şükredici (olur) ya da nankör."
+  },
+  {
+   "verseNo": 3,
+   "source": "esed",
+   "text": "Gerçek şu ki, Biz ona yolu/yöntemi gösterdik; şükredici, ya da nankör (olması artık kendisine kalmıştır)"
+  },
+  {
+   "verseNo": 4,
+   "source": "diyanet",
+   "text": "Şüphesiz biz, kâfirler için zincirler, demir halkalar ve alevli bir ateş hazırladık."
+  },
+  {
+   "verseNo": 4,
+   "source": "okuyan",
+   "text": "Şüphesiz ki biz, kâfirler için (ahirette) zincirler, halkalar ve alevli bir ateş hazırlamış (olacağız)."
+  },
+  {
+   "verseNo": 4,
+   "source": "esed",
+   "text": "(Şimdi) bakın, Biz hakikati inkar edenler için zincirler, halkalar ve yakıcı bir ateş hazırladık"
+  },
+  {
+   "verseNo": 5,
+   "source": "diyanet",
+   "text": "İyiler ise, katkısı kâfur olan içecekler dolu bir kadehten içerler."
+  },
+  {
+   "verseNo": 5,
+   "source": "okuyan",
+   "text": "Şüphesiz ki iyiler ise (cennette) kâfûrkatılmış bir kadehten içeceklerdir."
+  },
+  {
+   "verseNo": 5,
+   "source": "esed",
+   "text": "(halbuki) gerçek erdem sahipleri, hoş kokulu çiçekler ile tatlandırılmış bir fincandan içerler"
+  },
+  {
+   "verseNo": 6,
+   "source": "diyanet",
+   "text": "Bir pınar ki Allah'ın kulları ondan içer, onu (istedikleri şekilde) fışkırtıp akıtırlar."
+  },
+  {
+   "verseNo": 6,
+   "source": "okuyan",
+   "text": "(Kâfûr), Allah’ın (iyi) kullarının içecekleri ve akıttıkça akıtacakları bir kaynaktır."
+  },
+  {
+   "verseNo": 6,
+   "source": "esed",
+   "text": "bir (kutlu) kaynak ki Allah´ın kulları ondan içerler, suyu bol bol akan (o kaynaktan)"
+  },
+  {
+   "verseNo": 7,
+   "source": "diyanet",
+   "text": "O kullar adaklarını yerine getirirler. Kötülüğü her yanı kuşatmış bir günden korkarlar."
+  },
+  {
+   "verseNo": 7,
+   "source": "okuyan",
+   "text": "(Allah’ın iyi kulları), verdikleri sözü yerine getirir ve kötülüğü her yere yayılmış olan bir günden korkarlar."
+  },
+  {
+   "verseNo": 7,
+   "source": "esed",
+   "text": "(Gerçek erdem sahipleri) onlar(dır ki,) sözlerini yerine getirirler ve şiddeti yayılıp genişleyen bir Gün´ün korkusunu duyarlar"
+  },
+  {
+   "verseNo": 8,
+   "source": "diyanet",
+   "text": "Onlar, seve seve yiyeceği yoksula, yetime ve esire yedirirler."
+  },
+  {
+   "verseNo": 8,
+   "source": "okuyan",
+   "text": "Onlar, kendileri muhtaç olmalarına rağmen yoksulu, yetimi ve esiri yedirir (doyurur)lar."
+  },
+  {
+   "verseNo": 8,
+   "source": "esed",
+   "text": "Ve kendi istekleri ne kadar çok olursa olsun, muhtaçlara, yetimlere ve esirlere yedirirler"
+  },
+  {
+   "verseNo": 9,
+   "source": "diyanet",
+   "text": "(Yedirdikleri kimselere şöyle derler:) \"Biz size sırf Allah rızası için yediriyoruz. Sizden bir karşılık ve bir teşekkür beklemiyoruz.\""
+  },
+  {
+   "verseNo": 9,
+   "source": "okuyan",
+   "text": "9-10 . (Şöyle derler:) “Biz sizi yalnızca Allah rızası için doyuruyoruz; sizden herhangi bir karşılık da teşekkür de istemiyoruz. (Çünkü) biz, zor ve belalı bir günde Rabbimizden (O’nun azabından) korkuyoruz.”"
+  },
+  {
+   "verseNo": 9,
+   "source": "esed",
+   "text": "(ve kendi kendilerine konuşurlar:) \"Biz sizi yalnız Allah rızası için doyuruyoruz. Sizden ne bir karşılık, ne de bir teşekkür bekliyoruz"
+  },
+  {
+   "verseNo": 10,
+   "source": "diyanet",
+   "text": "\"Çünkü biz, asık suratlı, çetin bir günden (o günün azabından dolayı) Rabbimizden korkarız.\""
+  },
+  {
+   "verseNo": 10,
+   "source": "okuyan",
+   "text": "9-10 . (Şöyle derler:) “Biz sizi yalnızca Allah rızası için doyuruyoruz; sizden herhangi bir karşılık da teşekkür de istemiyoruz. (Çünkü) biz, zor ve belalı bir günde Rabbimizden (O’nun azabından) korkuyoruz.”"
+  },
+  {
+   "verseNo": 10,
+   "source": "esed",
+   "text": "doğrusu, sıkıntı ve dehşet dolu bir Gün´de Rabbimize (vereceğimiz) hesabın korkusunu duyuyoruz"
+  },
+  {
+   "verseNo": 11,
+   "source": "diyanet",
+   "text": "Allah da onları o günün kötülüğünden korur ve yüzlerine bir aydınlık ve içlerine bir sevinç verir."
+  },
+  {
+   "verseNo": 11,
+   "source": "okuyan",
+   "text": "Allah onları o günün şiddetinden korumuş (olacak)tır; (yüzlerine) parlaklık, (kalplerine de) sevinç verecektir."
+  },
+  {
+   "verseNo": 11,
+   "source": "esed",
+   "text": "Ve bu yüzden Allah onları o Gün´ün dehşetinden koruyacak, aydınlık ve sevinç verecektir"
+  },
+  {
+   "verseNo": 12,
+   "source": "diyanet",
+   "text": "Sabretmelerine karşılık da onları cennet ve ipek(ten giysiler) ile mükafatlandırır."
+  },
+  {
+   "verseNo": 12,
+   "source": "okuyan",
+   "text": "Sabretmelerine karşılık onlara cennet ve özgürlük lütfedecektir."
+  },
+  {
+   "verseNo": 12,
+   "source": "esed",
+   "text": "ve onları sıkıntılara karşı sabrettikleri için (kutlu bir) bahçe ve ipek(ten giysiler) ile ödüllendirecektir"
+  },
+  {
+   "verseNo": 13,
+   "source": "diyanet",
+   "text": "Orada koltuklar üzerine kurulmuş olarak bulunurlar. Orada ne güneş (yakıcı sıcak) görürler, ne de dondurucu soğuk."
+  },
+  {
+   "verseNo": 13,
+   "source": "okuyan",
+   "text": "Orada koltuklara kurulmuş olacaklar. Orada yakıcı sıcak da dondurucu soğuk da görmeyeceklerdir."
+  },
+  {
+   "verseNo": 13,
+   "source": "esed",
+   "text": "Orada sedirlere uzanacaklar ve ne (yakıcı bir) güneş, ne de şiddetli bir soğuk görmeyecekler"
+  },
+  {
+   "verseNo": 14,
+   "source": "diyanet",
+   "text": "Üzerlerine cennetin gölgeleri sarkmış, cennetin meyveleri (kolayca alınacak şekilde) yakınlaştırılarak hazırlanmıştır."
+  },
+  {
+   "verseNo": 14,
+   "source": "okuyan",
+   "text": "(Cennet ağaçlarının) gölgeleri onların (cennetliklerin) üzerlerine sarkacak, meyveleri (kolayca toplanması için) eğdirilecektir."
+  },
+  {
+   "verseNo": 14,
+   "source": "esed",
+   "text": "çünkü o (bahçe)nin (kutlu) gölgeleri başlarını örtecek ve meyve salkımları kolayca alınacak şekilde (yere doğru) sarkıtılacaktır"
+  },
+  {
+   "verseNo": 15,
+   "source": "diyanet",
+   "text": "Etraflarında gümüş kaplar, şeffaf kadehler dolaştırılır."
+  },
+  {
+   "verseNo": 15,
+   "source": "okuyan",
+   "text": "Çevrelerinde gümüş kaplar ve billur kupalar dolaştırılacaktır."
+  },
+  {
+   "verseNo": 15,
+   "source": "esed",
+   "text": "Onlar gümüşten kaplar ve kristal(e benzeyen) kadehlerle karşılanacaklar"
+  },
+  {
+   "verseNo": 16,
+   "source": "diyanet",
+   "text": "Gümüşten billur kaplar ki, onları (ihtiyaca göre) ölçüp düzenlemişlerdir."
+  },
+  {
+   "verseNo": 16,
+   "source": "okuyan",
+   "text": "Miktarını kendilerinin belirleyeceği o billur kupalar da gümüştendir."
+  },
+  {
+   "verseNo": 16,
+   "source": "esed",
+   "text": "kristal benzeri, (ama) gümüşten- ve hacimlerini yalnız kendileri tesbit edecek"
+  },
+  {
+   "verseNo": 17,
+   "source": "diyanet",
+   "text": "Orada kendilerine, katkısı zencefil olan içecekle dolu bir kâseden içirilir."
+  },
+  {
+   "verseNo": 17,
+   "source": "okuyan",
+   "text": "17-18 . Onlara orada, adına Selsebil denen kaynaktan, (içindeki) karışımı Zencebil olan bir kadehten içirilecektir."
+  },
+  {
+   "verseNo": 17,
+   "source": "esed",
+   "text": "Ve (cennette) kendilerine zencefille tatlandırılmış bir fincan içecek verilecek"
+  },
+  {
+   "verseNo": 18,
+   "source": "diyanet",
+   "text": "Orada bir pınar ki ona \"selsebil\" adı verilir."
+  },
+  {
+   "verseNo": 18,
+   "source": "okuyan",
+   "text": "17-18 . Onlara orada, adına Selsebil denen kaynaktan, (içindeki) karışımı Zencebil olan bir kadehten içirilecektir."
+  },
+  {
+   "verseNo": 18,
+   "source": "esed",
+   "text": "oradaki \"Selsebil\" isimli bir kaynak(tan)"
+  },
+  {
+   "verseNo": 19,
+   "source": "diyanet",
+   "text": "Çevrelerinde, gördüğünde saçılmış inciler sanacağın, hep aynı gençlik ve güzellikte kalacak hizmetçiler dolaşır."
+  },
+  {
+   "verseNo": 19,
+   "source": "okuyan",
+   "text": "O (cennetliklerin) etrafında, uzun ömürlü gençler dolaşır. Onları gördüğünde kendilerini saçılıp dağılmış inciler sanırsın."
+  },
+  {
+   "verseNo": 19,
+   "source": "esed",
+   "text": "Ve onları ölümsüz gençlikler bekleyecek, gördüğün zaman saçılmış inciler sanacağın (gençlikler)"
+  },
+  {
+   "verseNo": 20,
+   "source": "diyanet",
+   "text": "Orada, görünce (sonsuz)nimetler ve büyük bir mülk (hükümranlık) görürsün."
+  },
+  {
+   "verseNo": 20,
+   "source": "okuyan",
+   "text": "(Cennette) her nereye bakarsan, (pek çok) nimet ve büyük bir otorite görürsün."
+  },
+  {
+   "verseNo": 20,
+   "source": "esed",
+   "text": "ve (nereye) baksan, (yalnız) kutsanmışlık ve aşkın bir düzen göreceksin"
+  },
+  {
+   "verseNo": 21,
+   "source": "diyanet",
+   "text": "Üstlerinde ince ve kalın ipekten yeşil elbiseler vardır. Gümüş bileziklerle süsleneceklerdir. Rableri onlara tertemiz bir içecek içirecektir."
+  },
+  {
+   "verseNo": 21,
+   "source": "okuyan",
+   "text": "Üzerlerinde ince ipekten yeşil elbiseler ve kalın ipek kumaşlar olacaktır; gümüş bilezikler takacaklardır. Rableri onlara tertemiz bir içecek ikram edecektir."
+  },
+  {
+   "verseNo": 21,
+   "source": "esed",
+   "text": "O (kutsanmış kimse)lerin üzerinde yeşil ipekten ve atlastan giysiler olacak. Onlar gümüş bilezikler ile süslenecekler. Ve Rableri onlara en temiz içeceklerden ikram edecek"
+  },
+  {
+   "verseNo": 22,
+   "source": "diyanet",
+   "text": "Onlara şöyle denecektir: \"Şüphesiz bu sizin için bir mükâfattır. Çalışma ve çabanız makbul görülmüştür.\""
+  },
+  {
+   "verseNo": 22,
+   "source": "okuyan",
+   "text": "(Onlara şöyle denecektir:) “Şüphesiz ki bu(nlar), sizin için ödüldür. Çalışma(ları)nız karşılığını bulmuştur.”"
+  },
+  {
+   "verseNo": 22,
+   "source": "esed",
+   "text": "(Ve onlara:) \"Bunlar sizin ödüllerinizdir, çünkü (hayatta iken) yaptığınız işler (Allah´ın) rızasını kazanmıştır!\" (denilecek)"
+  },
+  {
+   "verseNo": 23,
+   "source": "diyanet",
+   "text": "Şüphe yok ki, Kur'an'ı sana elbette biz indirdik biz."
+  },
+  {
+   "verseNo": 23,
+   "source": "okuyan",
+   "text": "Kur’an’ı sana peyderpey indiren elbette biziz, biz."
+  },
+  {
+   "verseNo": 23,
+   "source": "esed",
+   "text": "Gerçek şu ki, (ey iman eden,) bu Kur´an´ı sana safha safha indiren Biziz, gerçek bir armağan (olarak)"
+  },
+  {
+   "verseNo": 24,
+   "source": "diyanet",
+   "text": "O halde, Rabbinin hükmüne sabret. Onlardan hiçbir günahkâra ve hiçbir nanköre itaat etme."
+  },
+  {
+   "verseNo": 24,
+   "source": "okuyan",
+   "text": "Rabbinin hükmü için sabret! Onlardan hiçbir günahkâra veya hiçbir nanköre itaat etme!"
+  },
+  {
+   "verseNo": 24,
+   "source": "esed",
+   "text": "Öyleyse Rabbinin hükmünü sabırla bekle ve onlardan hiçbir günahkara veya nanköre uyma"
+  },
+  {
+   "verseNo": 25,
+   "source": "diyanet",
+   "text": "Sabah akşam Rabbinin adını an."
+  },
+  {
+   "verseNo": 25,
+   "source": "okuyan",
+   "text": "Sabah akşam Rabbinin ismini an!"
+  },
+  {
+   "verseNo": 25,
+   "source": "esed",
+   "text": "Rabbinin ismini sabah akşam an"
+  },
+  {
+   "verseNo": 26,
+   "source": "diyanet",
+   "text": "Gecenin bir kısmında ona secde et; geceleyin de onu uzun uzadıya tespih et."
+  },
+  {
+   "verseNo": 26,
+   "source": "okuyan",
+   "text": "Gecenin bir kısmında O’nun için secde et; gecenin uzun bir bölümünde de O’nu tesbih et (yücelt)!"
+  },
+  {
+   "verseNo": 26,
+   "source": "esed",
+   "text": "ve gecenin bir kısmında, O´nun önünde secde et ve uzun geceler boyu O´nun sınırsız şanını yücelt"
+  },
+  {
+   "verseNo": 27,
+   "source": "diyanet",
+   "text": "Şunlar (inanmayanlar) dünyayı tercih ediyorlar ve çetin bir günü arkalarına atıyorlar."
+  },
+  {
+   "verseNo": 27,
+   "source": "okuyan",
+   "text": "Şüphesiz ki bu (insa)nlar, çabucak geçen (dünyay)ı seviyorlar da ağır günü (ahireti) arkalarına atıyorlar."
+  },
+  {
+   "verseNo": 27,
+   "source": "esed",
+   "text": "Bakın, (Allah´ı umursamayan) şu adamlar bu gelip geçici dünyayı severler, ama ızdırap dolu bir Günü (düşünmeyi) ihmal ederler"
+  },
+  {
+   "verseNo": 28,
+   "source": "diyanet",
+   "text": "Onları biz yarattık ve eklemlerini (birbirine) biz bağladık. Dilediğimizde (onları yok eder) yerlerine benzerlerini getiririz."
+  },
+  {
+   "verseNo": 28,
+   "source": "okuyan",
+   "text": "Biz onları yarattık ve yaratılışlarını sapasağlam yaptık. Dilediğimiz (zaman) onları benzerleriyle değiştiririz."
+  },
+  {
+   "verseNo": 28,
+   "source": "esed",
+   "text": "(Kendi kendilerine itiraf etmezler ki) onları yaratan ve kişiliklerini sağlamlaştıran Biziz ve dilersek onları başka hemcinsleriyle değiştirebiliriz"
+  },
+  {
+   "verseNo": 29,
+   "source": "diyanet",
+   "text": "İşte bu bir öğüttür. Dileyen, Rabbine ulaştıran bir yol tutar."
+  },
+  {
+   "verseNo": 29,
+   "source": "okuyan",
+   "text": "Şüphesiz ki bu (Kur'an gerçeği) hatırlatmadır. Dileyen, Rabbine (giden) bir yol tutar."
+  },
+  {
+   "verseNo": 29,
+   "source": "esed",
+   "text": "Bütün bunlar bir uyarıdır; öyleyse, dileyen Rabbine giden yolu bulabilir"
+  },
+  {
+   "verseNo": 30,
+   "source": "diyanet",
+   "text": "Allah'ın dilemesi olmadıkça siz dileyemezsiniz. Şüphesiz Allah hakkıyla bilendir, hüküm ve hikmet sahibidir."
+  },
+  {
+   "verseNo": 30,
+   "source": "okuyan",
+   "text": "(Böyle yaparsanız) Allah’ın dilediğinden başkasını dilememiş olursunuz. Şüphesiz ki Allah bilendir, doğru hüküm verendir."
+  },
+  {
+   "verseNo": 30,
+   "source": "esed",
+   "text": "Ama Allah (size o yolu göstermeyi) dilemedikçe siz onu dileyemezsiniz çünkü, bilin ki Allah her şeyi görendir, hikmet Sahibidir"
+  },
+  {
+   "verseNo": 31,
+   "source": "diyanet",
+   "text": "O, dilediği kimseyi rahmetine sokar. Zalimlere ise elem dolu bir azap hazırlamıştır."
+  },
+  {
+   "verseNo": 31,
+   "source": "okuyan",
+   "text": "(Allah) dileyeni (layık gördüğünü) merhametine koyar. Zalimler için de elem verici bir azap hazırlamış (olacak)tır."
+  },
+  {
+   "verseNo": 31,
+   "source": "esed",
+   "text": "Dileyeni rahmetine kabul eder; ama zalimler için (öteki dünyada) şiddetli bir azap hazırlamıştır"
+  }
+ ]
+}

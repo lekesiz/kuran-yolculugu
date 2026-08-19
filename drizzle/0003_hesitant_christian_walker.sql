@@ -1,0 +1,1 @@
+ALTER TABLE `surahs` MODIFY COLUMN `revelationTiming` text;

@@ -113,5 +113,10 @@ yalnızca %2,5 örtüştüğü için reddedildi; Diyanet Yeni doğrudan resmî p
 - [x] `/giris` sayfası, başlıktaki giriş düğmesi ve çıkış akışı iki ortamda çalışıyor
 - [x] Vercel ortam değişkenleri ayarlandı (7 değişken, üç hedef için)
 - [x] Vitest: Supabase Auth katmanı davranış testleri (6 test)
-- [ ] GitHub'a gönderildi ve Vercel dağıtımı başarılı
-- [ ] Canlı site uçtan uca doğrulandı: durak listesi, meal karşılaştırma, arama/filtre, giriş, not alma
+- [x] GitHub'a gönderildi ve Vercel dağıtımı başarılı (dpl_J5aoguHV8U6svAGjD19svRQBsorc)
+- [x] Serverless modül çözümleme hatası giderildi: fonksiyon esbuild ile tek dosyada paketleniyor
+- [x] OWNER_EMAIL ayarlandı (mikaillekesiz@gmail.com) ve yönetici yükseltmesi canlı doğrulandı
+- [x] Giriş sayfasındaki çift başlık/altbilgi kusuru düzeltildi
+- [x] Canlı site uçtan uca doğrulandı: durak listesi, sure detayı, meal karşılaştırma, arama/filtre, giriş, not ve ilerleme kaydı
+- [x] Manus dağıtımının etkilenmediği teyit edildi (114 durak, HTTP 200)
+- [ ] Supabase e-posta doğrulaması: panelden kapatma ya da SMTP kurulumu kararı (kullanıcı tercihi)

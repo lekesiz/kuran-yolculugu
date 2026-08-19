@@ -23,6 +23,7 @@ export default function Login() {
   const [email, setEmail] = useState("");
   const [password, setPassword] = useState("");
   const [busy, setBusy] = useState(false);
+  const [bilgi, setBilgi] = useState<string | null>(null);
   const client = supabase;
 
   if (!isSupabaseAuth || !client) {
@@ -55,6 +56,9 @@ export default function Login() {
         }
         toast.success(
           "Kayıt alındı. E-posta adresinize gelen doğrulama bağlantısına tıklayın.",
+        );
+        setBilgi(
+          "Kayıt alındı. Adresinize gönderilen doğrulama bağlantısına tıkladıktan sonra buradan giriş yapabilirsiniz. E-posta görünmüyorsa istenmeyen (spam) klasörünü kontrol edin.",
         );
         setMode("giris");
         return;
@@ -92,6 +96,14 @@ export default function Login() {
           kaydetmek için gereklidir.
         </p>
       </header>
+
+      {bilgi && (
+        <div
+          role="status"
+          className="mb-6 rounded-md border border-accent/60 bg-accent/20 px-4 py-3 text-sm leading-relaxed">
+          {bilgi}
+        </div>
+      )}
 
       <form onSubmit={submit} className="space-y-5">
         <div className="space-y-2">

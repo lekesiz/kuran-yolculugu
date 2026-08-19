@@ -10,7 +10,7 @@ import { Label } from "@/components/ui/label";
 import { isSupabaseAuth, supabase } from "@/lib/supabase";
 import { trpc } from "@/lib/trpc";
 import { Loader2 } from "lucide-react";
-import { useState } from "react";
+import { useEffect, useState } from "react";
 import { useLocation } from "wouter";
 import { toast } from "sonner";
 
@@ -24,7 +24,30 @@ export default function Login() {
   const [password, setPassword] = useState("");
   const [busy, setBusy] = useState(false);
   const [bilgi, setBilgi] = useState<string | null>(null);
+  const [uyari, setUyari] = useState<string | null>(null);
   const client = supabase;
+
+  // Supabase, doğrulama bağlantısı sonuçlarını adres çubuğunun kesme (#)
+  // bölümünde döndürür. Bağlantı süresi geçmiş veya geçersizse kullanıcıya
+  // ne yapacağını Türkçe anlatırız.
+  useEffect(() => {
+    const hash = window.location.hash.replace(/^#/, "");
+    if (!hash) return;
+    const params = new URLSearchParams(hash);
+    const hata = params.get("error_code") ?? params.get("error");
+    if (!hata) return;
+    if (hata === "otp_expired" || hata === "access_denied") {
+      setUyari(
+        "Doğrulama bağlantısı geçersiz ya da süresi dolmuş. Aşağıdan aynı e-posta ve şifreyle giriş yapmayı deneyin; olmazsa yeniden kayıt olarak yeni bir bağlantı isteyin.",
+      );
+    } else {
+      setUyari(
+        params.get("error_description") ??
+          "Doğrulama sırasında bir sorun oluştu. Lütfen tekrar deneyin.",
+      );
+    }
+    window.history.replaceState(null, "", window.location.pathname);
+  }, []);
 
   if (!isSupabaseAuth || !client) {
     return (
@@ -44,7 +67,15 @@ export default function Login() {
     setBusy(true);
     try {
       if (mode === "kayit") {
-        const { error } = await client.auth.signUp({ email, password });
+        // `emailRedirectTo` verilmezse Supabase proje ayarındaki Site URL'i
+        // kullanır; o değer yanlışsa (örn. localhost) doğrulama bağlantısı
+        // erişilemeyen bir adrese gider. Bu yüzden sitenin kendi adresini
+        // açıkça geçiyoruz.
+        const { error } = await client.auth.signUp({
+          email,
+          password,
+          options: { emailRedirectTo: `${window.location.origin}/giris` },
+        });
         if (error) throw error;
         // E-posta doğrulaması kapalıysa oturum hemen açılır.
         const { data } = await client.auth.getSession();
@@ -96,6 +127,14 @@ export default function Login() {
           kaydetmek için gereklidir.
         </p>
       </header>
+
+      {uyari && (
+        <div
+          role="alert"
+          className="mb-6 rounded-md border border-destructive/40 bg-destructive/10 px-4 py-3 text-sm leading-relaxed">
+          {uyari}
+        </div>
+      )}
 
       {bilgi && (
         <div

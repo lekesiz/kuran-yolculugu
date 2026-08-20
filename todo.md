@@ -143,4 +143,6 @@ yalnızca %2,5 örtüştüğü için reddedildi; Diyanet Yeni doğrudan resmî p
 
 - [x] Yükleme aracı çift veritabanına yazacak şekilde genişletildi (`seed-lib.mjs`: MySQL + Supabase Postgres)
 - [x] 1. durak — Alak (96): 3 kaynakla doğrulandı, 2 olgusal hata düzeltildi (ikinci bölüm 9-19 → 6-19; Hira konumu), tilâvet secdesi ve "İkra' sûresi" eklendi, Mekke tasviri kaynakla düzeltildi, 3 yeni kaynak notu, 5 tema / 5 kavram / 5 soru
+- [x] Yayın zinciri açığı giderildi: `scripts/yayinla.mjs` — iki veritabanına yükleme + GitHub gönderimi + iki canlı adresten doğrulama tek komutta
+- [x] Günlük görev talimatı ve `GUNLUK_TUR2.md` yayın adımlarını içerecek şekilde güncellendi
 - [ ] 2. durak — Kalem (68)

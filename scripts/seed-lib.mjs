@@ -4,16 +4,54 @@
  * Content lives in JSON files under `scripts/content/`. Each file describes one
  * station (surah) and is validated here before it reaches the database, so a
  * malformed hand-written file fails loudly instead of silently inserting junk.
+ *
+ * Two deployments share this content: Manus (MySQL/TiDB) and Vercel (Supabase
+ * Postgres). `connect()` returns a thin adapter with the same `execute()` shape
+ * for both, so callers below stay driver-agnostic. Pick the driver with
+ * `DB_DRIVER=postgres` (or by passing a postgres:// URL).
  */
 import mysql from "mysql2/promise";
+import postgres from "postgres";
 
 const SOURCES = new Set(["diyanet", "okuyan", "islamoglu", "esed"]);
 const PERIODS = new Set(["Mekke", "Medine"]);
 
-export async function connect() {
-  const url = process.env.DATABASE_URL;
+/** True when the given URL / env combination targets Postgres. */
+function isPostgres(url) {
+  if (process.env.DB_DRIVER === "postgres") return true;
+  return /^postgres(ql)?:\/\//.test(url ?? "");
+}
+
+/**
+ * Wraps a `postgres` client so it exposes the same `execute(sql, params)`
+ * contract as mysql2, translating `?` placeholders to `$1, $2, ...` and
+ * quoting the camelCase identifiers Postgres would otherwise fold to lowercase.
+ */
+function pgAdapter(sql) {
+  const toPositional = text => {
+    let i = 0;
+    return text.replace(/\?/g, () => `$${++i}`);
+  };
+  return {
+    dialect: "postgres",
+    async execute(text, params = []) {
+      const rows = await sql.unsafe(toPositional(text), params);
+      return [rows, null];
+    },
+    async end() {
+      await sql.end({ timeout: 5 });
+    },
+  };
+}
+
+export async function connect(url = process.env.DATABASE_URL) {
   if (!url) throw new Error("DATABASE_URL yok.");
-  return mysql.createConnection(url);
+  if (isPostgres(url)) {
+    return pgAdapter(postgres(url, { max: 1, prepare: false, ssl: "require" }));
+  }
+  const conn = await mysql.createConnection(url);
+  conn.dialect = "mysql";
+  return conn;
 }
 
 /** Throws with a readable message when a station file is malformed. */
@@ -93,76 +131,72 @@ export function validateStation(s, file) {
 export async function upsertStation(conn, s) {
   const keyTerms = s.keyTerms?.length ? JSON.stringify(s.keyTerms) : null;
   const scholarlyNotes = s.scholarlyNotes?.length ? JSON.stringify(s.scholarlyNotes) : null;
+  const pg = conn.dialect === "postgres";
+  // Postgres preserves the camelCase column names only when they stay quoted.
+  const col = name => (pg ? `"${name}"` : name);
+  const COLUMNS = [
+    "stationNo", "surahNo", "nuzulOrderOkuyan", "name", "nameArabic", "nameMeaning",
+    "verseCount", "periodDiyanet", "periodOkuyan", "periodDisputeNote", "revelationTiming",
+    "stationTitle", "introduction", "occasionOfRevelation", "occasionSources",
+    "contemporaryMeaning", "keyTerms", "scholarlyNotes", "revisionPass", "revisionNote",
+  ];
+  // `surahNo` is the conflict target, so it is never part of the update list.
+  const UPDATED = COLUMNS.filter(c => c !== "surahNo");
+  const assignments = UPDATED.map(c =>
+    pg ? `${col(c)}=EXCLUDED.${col(c)}` : `${c}=VALUES(${c})`,
+  ).join(", ");
+  const values = [
+    s.stationNo,
+    s.surahNo,
+    s.nuzulOrderOkuyan,
+    s.name,
+    s.nameArabic ?? null,
+    s.nameMeaning ?? null,
+    s.verseCount,
+    s.periodDiyanet,
+    s.periodOkuyan,
+    s.periodDisputeNote ?? null,
+    s.revelationTiming ?? null,
+    s.stationTitle ?? null,
+    s.introduction ?? null,
+    s.occasionOfRevelation ?? null,
+    s.occasionSources ?? null,
+    s.contemporaryMeaning ?? null,
+    keyTerms,
+    scholarlyNotes,
+    s.revisionPass ?? 1,
+    s.revisionNote ?? null,
+  ];
 
   await conn.execute(
-    `INSERT INTO surahs
-       (stationNo, surahNo, nuzulOrderOkuyan, name, nameArabic, nameMeaning, verseCount,
-        periodDiyanet, periodOkuyan, periodDisputeNote, revelationTiming, stationTitle,
-        introduction, occasionOfRevelation, occasionSources, contemporaryMeaning, keyTerms,
-        scholarlyNotes, revisionPass, revisionNote)
-     VALUES (?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?)
-     ON DUPLICATE KEY UPDATE
-       stationNo=VALUES(stationNo),
-       nuzulOrderOkuyan=VALUES(nuzulOrderOkuyan),
-       name=VALUES(name),
-       nameArabic=VALUES(nameArabic),
-       nameMeaning=VALUES(nameMeaning),
-       verseCount=VALUES(verseCount),
-       periodDiyanet=VALUES(periodDiyanet),
-       periodOkuyan=VALUES(periodOkuyan),
-       periodDisputeNote=VALUES(periodDisputeNote),
-       revelationTiming=VALUES(revelationTiming),
-       stationTitle=VALUES(stationTitle),
-       introduction=VALUES(introduction),
-       occasionOfRevelation=VALUES(occasionOfRevelation),
-       occasionSources=VALUES(occasionSources),
-       contemporaryMeaning=VALUES(contemporaryMeaning),
-       keyTerms=VALUES(keyTerms),
-       scholarlyNotes=VALUES(scholarlyNotes),
-       revisionPass=VALUES(revisionPass),
-       revisionNote=VALUES(revisionNote)`,
-    [
-      s.stationNo,
-      s.surahNo,
-      s.nuzulOrderOkuyan,
-      s.name,
-      s.nameArabic ?? null,
-      s.nameMeaning ?? null,
-      s.verseCount,
-      s.periodDiyanet,
-      s.periodOkuyan,
-      s.periodDisputeNote ?? null,
-      s.revelationTiming ?? null,
-      s.stationTitle ?? null,
-      s.introduction ?? null,
-      s.occasionOfRevelation ?? null,
-      s.occasionSources ?? null,
-      s.contemporaryMeaning ?? null,
-      keyTerms,
-      scholarlyNotes,
-      s.revisionPass ?? 1,
-      s.revisionNote ?? null,
-    ],
+    `INSERT INTO ${col("surahs")} (${COLUMNS.map(col).join(", ")})
+     VALUES (${COLUMNS.map(() => "?").join(",")})
+     ${pg ? `ON CONFLICT (${col("surahNo")}) DO UPDATE SET` : "ON DUPLICATE KEY UPDATE"}
+       ${assignments}`,
+    values,
   );
 
-  const [rows] = await conn.execute("SELECT id FROM surahs WHERE surahNo = ?", [s.surahNo]);
+  const [rows] = await conn.execute(
+    `SELECT id FROM ${col("surahs")} WHERE ${col("surahNo")} = ?`,
+    [s.surahNo],
+  );
   const surahId = rows[0].id;
 
   // Replace children wholesale so edits to the JSON always win.
   for (const table of ["verses", "translations", "themes", "questions"]) {
-    await conn.execute(`DELETE FROM ${table} WHERE surahId = ?`, [surahId]);
+    await conn.execute(`DELETE FROM ${col(table)} WHERE ${col("surahId")} = ?`, [surahId]);
   }
 
   for (const v of s.verses ?? []) {
     await conn.execute(
-      "INSERT INTO verses (surahId, verseNo, textArabic) VALUES (?,?,?)",
+      `INSERT INTO ${col("verses")} (${col("surahId")}, ${col("verseNo")}, ${col("textArabic")}) VALUES (?,?,?)`,
       [surahId, v.verseNo, v.textArabic],
     );
   }
 
   for (const t of s.translations ?? []) {
     await conn.execute(
-      "INSERT INTO translations (surahId, verseNo, verseNoEnd, source, text) VALUES (?,?,?,?,?)",
+      `INSERT INTO ${col("translations")} (${col("surahId")}, ${col("verseNo")}, ${col("verseNoEnd")}, ${col("source")}, ${col("text")}) VALUES (?,?,?,?,?)`,
       [surahId, t.verseNo, t.verseNoEnd ?? null, t.source, t.text],
     );
   }
@@ -170,18 +204,17 @@ export async function upsertStation(conn, s) {
   let order = 0;
   for (const th of s.themes ?? []) {
     await conn.execute(
-      "INSERT INTO themes (surahId, label, body, sortOrder) VALUES (?,?,?,?)",
+      `INSERT INTO ${col("themes")} (${col("surahId")}, ${col("label")}, ${col("body")}, ${col("sortOrder")}) VALUES (?,?,?,?)`,
       [surahId, th.label, th.body ?? null, order++],
     );
   }
 
   order = 0;
   for (const q of s.questions ?? []) {
-    await conn.execute("INSERT INTO questions (surahId, body, sortOrder) VALUES (?,?,?)", [
-      surahId,
-      typeof q === "string" ? q : q.body,
-      order++,
-    ]);
+    await conn.execute(
+      `INSERT INTO ${col("questions")} (${col("surahId")}, ${col("body")}, ${col("sortOrder")}) VALUES (?,?,?)`,
+      [surahId, typeof q === "string" ? q : q.body, order++],
+    );
   }
 
   return {

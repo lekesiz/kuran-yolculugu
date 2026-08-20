@@ -129,3 +129,18 @@ yalnızca %2,5 örtüştüğü için reddedildi; Diyanet Yeni doğrudan resmî p
 - [x] Yönlendirme davranışı canlı doğrulandı: izinli adres kabul, izinsiz adres reddedilip ana sayfaya düşürülüyor
 - [x] Düzeltme sonrası canlı oturum turu: giriş, not kaydetme/okuma, ilerleme kaydı, 401/403 korumaları
 - [x] Test hesaplarının bıraktığı not/ilerleme kayıtları temizlendi
+
+## Faz 11 — Kendi alan adı (t1o.net)
+
+- [x] t1o.net alan adının mevcut durumu ve DNS sağlayıcısı tespit edildi (IONOS DNS, Vercel'e A kaydı)
+- [x] Alan adı Vercel projesine eklendi (t1o.net + www.t1o.net → 308 yönlendirme)
+- [x] DNS kayıtları ayarlandı ve doğrulama tamamlandı
+- [x] Supabase Site URL ve izinli yönlendirme adresleri t1o.net'e göre güncellendi
+- [x] HTTPS sertifikası aktif ve site t1o.net üzerinden doğrulandı
+- [x] Giriş akışı t1o.net üzerinden uçtan uca doğrulandı
+
+## Faz 12 — 2. Tur Gözden Geçirme (günlük, 1. duraktan başlayarak)
+
+- [x] Yükleme aracı çift veritabanına yazacak şekilde genişletildi (`seed-lib.mjs`: MySQL + Supabase Postgres)
+- [x] 1. durak — Alak (96): 3 kaynakla doğrulandı, 2 olgusal hata düzeltildi (ikinci bölüm 9-19 → 6-19; Hira konumu), tilâvet secdesi ve "İkra' sûresi" eklendi, Mekke tasviri kaynakla düzeltildi, 3 yeni kaynak notu, 5 tema / 5 kavram / 5 soru
+- [ ] 2. durak — Kalem (68)

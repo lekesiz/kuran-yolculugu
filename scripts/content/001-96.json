@@ -9,65 +9,85 @@
  "periodDiyanet": "Mekke",
  "periodOkuyan": "Mekke",
  "revelationTiming": "Risaletin başlangıcı — ilk vahiy",
+ "revisionPass": 2,
+ "revisionNote": "20 Ağustos 2026 — İkinci tur: ikinci bölümün ayet aralığı 9-19'dan 6-19'a düzeltildi, Hira mağarasının konumu TDV'ye göre 'Mekke ile Mina arasında' olarak değiştirildi, tilâvet secdesi ve 'İkra' sûresi' adı eklendi, Mekke tasvirindeki yanıltıcı genelleme kaynaklı bilgiyle değiştirildi, terimler sadeleştirildi, bugüne bakan yüz ve sorular somut durumlarla yeniden yazıldı.",
  "stationTitle": "Vahyin ilk cümlesi bir emir değil, bir davettir: oku, düşün, anlamlandır.",
- "introduction": "Alak suresi, Kur'an'ın ilk inen bölümüdür ve bütün metnin zihinsel çerçevesini kurar. İlk beş ayet Hz. Muhammed'e Nur dağındaki Hira mağarasında gelmiş, geri kalanı daha sonra eklenmiştir. Surenin adı, ikinci ayette insanın yaratıldığı belirtilen \"alak\" kelimesinden gelir; kelime rahim duvarına asılıp tutunan döllenmiş hücre topluluğunu, kan pıhtısını ve yapışkan maddeyi birlikte çağrıştırır.\n\nDikkat çekici olan şudur: yeni bir dinin ilk cümlesi bir ritüel, bir yasak ya da bir savaş çağrısı değildir. İlk cümle bilgiye, okumaya ve kavramaya yapılan bir davettir. Okuma emri, henüz okunacak yazılı bir metin yokken verilmiştir; bu yüzden buradaki \"kıraat\" salt seslendirme değil, varlığı ve hayatı çözümleme anlamını taşır.",
- "occasionOfRevelation": "Rivayetlere göre Hz. Muhammed, kırk yaşına yaklaştığı yıllarda Mekke'nin kuzeyindeki Hira mağarasına çekilip uzun süreler tefekküre dalıyordu. Nüzul kaynakları, ilk vahyin bu inzivalardan birinde geldiğini ve \"İkra' — oku!\" hitabıyla başladığını nakleder. Anlatının aktarıldığı şekliyle Hz. Muhammed'in ilk tepkisi coşku değil dehşet olmuş, eve dönüp \"beni örtün\" demiştir.\n\nSurenin son bölümü (özellikle 9-19. ayetler) daha sonraki bir aşamaya, ibadet edenlere engel olmaya çalışan Mekkeli bir güç sahibine dair inmiştir. Klasik tefsirler bu kişiyi genellikle Ebû Cehil olarak adlandırır; bu isimlendirme rivayete dayanır, ayetin kendisi isim vermez.\n\nDönemin Mekke'si kabile dayanışması, faize dayalı ticaret ve güçlünün zayıfı ezmesini olağan sayan bir düzendi. Böyle bir topluma verilen ilk cevabın bilgi ve tefekkür çağrısı olması, metnin kendi önceliğini açıkça göstermektedir.",
- "occasionSources": "Diyanet İşleri Başkanlığı Kur'an Yolu Tefsiri, Alak suresi girişi; Vâhidî, Esbâbü'n-Nüzûl; TDV İslâm Ansiklopedisi, \"Alak Sûresi\" maddesi. Ebû Cehil'e dair isimlendirme rivayete dayanır.",
- "contemporaryMeaning": "Bu sure, bilgiyle kurulan ilişkinin ahlaki bir mesele olduğunu söyler. İlk emir okumaktır, ama surenin ortasında insanın en tehlikeli hâli tarif edilir: kendini yeterli görmek. Bilgi arttığında tevazu artmıyorsa, bilgi kibre dönüşür.\n\nBugünün diliyle: diploma, kariyer, servet ya da takipçi sayısı insana \"artık bana kimse bir şey öğretemez\" duygusu veriyorsa, sure tam bu noktada durur ve insana kökenini hatırlatır. Kırılgan bir hücreden gelen varlığın kendini mutlak sanması, metnin işaret ettiği temel çelişkidir.",
+ "introduction": "Alak suresi, Kur'an'ın ilk inen bölümüdür ve bütün metnin zihinsel çerçevesini kurar. Sure iki ayrı zamanda inmiştir: ilk beş ayet Hira mağarasında, kalan on dört ayet yıllar sonra, ibadet edeni engellemeye kalkan bir Mekkeli hakkında. On dokuz ayetlik sure, ilk kelimesi olan \"ikra'\" yüzünden \"İkra' sûresi\" adıyla da anılır.\n\nAdını ikinci ayetteki \"alak\" kelimesinden alır. Bu kelime rahim duvarına asılıp tutunan döllenmiş hücreyi anlatır; sözlükte ayrıca pıhtılaşmış kan, kan emen kurtçuk ve — bambaşka bir yönde — ilgi, sevgi anlamlarına da gelir.\n\nDikkat çekici olan şudur: yeni bir dinin ilk cümlesi bir ritüel, bir yasak ya da bir savaş çağrısı değildir. İlk cümle bilmeye yapılan bir davettir. Üstelik emir, ortada okunacak yazılı bir metin yokken verilmiştir. Nitekim ayette \"oku\" karşılığında kullanılan kelime, bir metni seslendirmeyi anlatan tilâvet değil, kıraattir: dilin değil aklın okuması. Mehmet Okuyan bu ayrımı üç basamakta özetler — tilâvet dilin, kıraat aklın, tertîl kalbin okumasıdır. Buradaki emir, varlığı ve hayatı çözümlemeye çağırır.",
+ "occasionOfRevelation": "Hz. Muhammed, kırk yaşına yaklaştığı yıllarda Mekke ile Mina arasındaki Hira mağarasına çekilip günlerce yalnız kalıyordu. Kaynaklar ilk vahyin bu inzivalardan birinde, gece vakti geldiğini ve \"İkra' — oku!\" hitabıyla başladığını nakleder. Aktarılan anlatıya göre ilk tepkisi coşku değil dehşet olmuş, eve dönüp \"beni örtün\" demiştir.\n\nSurenin ikinci bölümü, yani 6-19. ayetler, yıllar sonrasına aittir. Sebep, Kâbe'de namaz kılan Hz. Peygamber'i zorla engellemeye kalkan Mekkeli bir güç sahibidir. Tefsirlerin çoğunluğu bu kişiyi Ebû Cehil olarak adlandırır; isim ayette geçmez, rivayete dayanır. Rivayetin kaynağı Müslim'in Sahîh'idir.\n\nDönemin Mekke'sini anlamak için bir yanlış anlamayı düzeltmek gerekir: müşrikler Allah'ın varlığını ve evreni yarattığını zaten kabul ediyorlardı. \"Gökleri ve yeri kim yarattı?\" diye sorulsa \"Allah\" diyorlardı (Lokmân 31:25). Reddettikleri şey yaratıcı fikri değil, bir insanın peygamber olabileceği, ölümden sonra hesap verileceği ve Allah'a aracı koşmanın yanlış olduğuydu. İlk ayetin \"yaratan Rabbin\" diye başlaması bu yüzden hesaplıdır: muhatabın itiraz edemeyeceği ortak bir zeminden söze girilmiştir.",
+ "occasionSources": "TDV İslâm Ansiklopedisi, \"Alak Sûresi\" maddesi (Emin Işık); Diyanet İşleri Başkanlığı Kur'an Yolu Tefsiri, cilt 5, s. 651-654; Mehmet Okuyan, Kur'an Meal-Tefsir, Alak suresi 1 ve 6-7. ayetler. İlk vahyin anlatımı Buhârî (\"Bed'ü'l-vahy\", 3) ve Müslim (\"Îmân\", 252); Ebû Cehil rivayeti Müslim (\"Münâfıkīn\", 38). Ebû Cehil'in adı ayette geçmez, rivayete dayanır.",
+ "contemporaryMeaning": "Surenin kurduğu denklem şudur: okumak insanı yükseltir, kendini yeterli görmek düşürür. İkisi arasındaki mesafe sanıldığından kısadır, çünkü çoğu zaman insanı kendine yeterli hissettiren şey tam da biriktirdiği bilgidir.\n\nDiyanet'in tefsiri, dördüncü ayetteki \"kalem\" kelimesinin bugün bilgisayara kadar uzanan bütün bilgi araçlarını kapsadığını söyler. Ekranın karşısında geçen saatler bu sureyi doğrudan ilgilendirir — ama sorduğu soru \"ne kadar\" değil, \"nasıl\" sorusudur. Sonsuz kaydırma, insanı hiç bilmediği kadar çok veriye ve hiç olmadığı kadar az anlamaya taşıyabilir; hızla bakmak kıraat değildir.\n\nSure, kendini yeterli görmeyi bir suç olarak değil, bir belirti olarak tarif eder. Belirtinin göründüğü yerler tanıdıktır: fikri kendi çevresinin dışına hiç çıkmamış birinin her konuda kesin konuşması; bir uzmanlık alanında elde edilen yetkinliğin aileye, siyasete, komşuya dair yargılarda da geçerli sanılması; yeterince kazanan birinin kimseye ihtiyaç duymadığını sanması. Mehmet Okuyan, ayetteki istiğnâyı takvânın — yani duyarlılığın — zıddı olarak okur: kendini yeterli gören insan önce Allah'a, sonra çevresindekilere karşı duyarsızlaşır. Kendine yetmek, kimseye borçlu olmamak gibi görünür; pratikte kimseyi görmemeye dönüşür.\n\nMetnin son bölümü ise bir adım ötesini anlatır: kendini yeterli gören insan bir süre sonra başkasının arayışına da tahammül edemez. Sure burada, kendi doğrusundan emin olmayı değil, o eminliği başkasının önünü kesmek için kullanmayı hedef alır.",
  "keyTerms": [
   {
    "term": "ikra'",
    "arabic": "اقْرَأْ",
    "verseRef": "96:1",
-   "meaning": "\"Oku\" emri. Kökü hem toplamak hem seslendirmek anlamı taşır; yazılı metin yokken verildiği için burada kavrama ve çözümleme anlamındadır."
+   "meaning": "\"Oku\" emri. Ortada yazılı bir metin yokken verildiği için burada anlamak, üzerinde düşünmek ve kavradığını başkasına aktarmak kastedilir."
+  },
+  {
+   "term": "kıraat",
+   "arabic": "قِرَاءَة",
+   "verseRef": "96:1",
+   "meaning": "Aklın okuması. Bir metni sesli okumaya tilâvet, ağır ağır ve içe sindirerek okumaya tertîl denir; ayette seçilen kelime ise kıraattir, yani anlayarak okuma."
   },
   {
    "term": "alak",
    "arabic": "عَلَق",
    "verseRef": "96:2",
-   "meaning": "Asılıp tutunan şey. Rahim duvarına tutunan döllenmiş hücre topluluğu, kan pıhtısı ve yapışkan madde anlamlarını birlikte taşır."
+   "meaning": "Asılıp tutunan şey; rahim duvarına tutunan döllenmiş hücre. Aynı kelime sözlükte pıhtılaşmış kanı, kan emen kurtçuğu ve ilgi ile sevgiyi de karşılar."
   },
   {
    "term": "istiğnâ",
    "arabic": "اسْتَغْنَىٰ",
    "verseRef": "96:7",
-   "meaning": "Kendini yeterli, muhtaç olmayan görmek. Ayette azgınlaşmanın (tuğyan) sebebi olarak gösterilir."
+   "meaning": "Kendini kimseye muhtaç olmayan biri sanmak. Kelimenin kalıbı, gerçekte öyle olmadığı hâlde öyle görünmeyi anlatır — tıpkı büyük olmadığı hâlde büyüklük taslamak gibi."
   },
   {
    "term": "tuğyan",
    "arabic": "طَغَىٰ",
    "verseRef": "96:6",
-   "meaning": "Sınırı aşmak, taşmak, azgınlaşmak. Suyun kabından taşmasını anlatan kökten gelir; ahlaki sınırın çiğnenmesini imler."
+   "meaning": "Sınırı aşmak, azmak. Suyun kabından taşmasını anlatan kökten gelir; ahlaki sınırın çiğnenmesini imler."
+  },
+  {
+   "term": "tilâvet secdesi",
+   "arabic": "سَجْدَة التِّلَاوَة",
+   "verseRef": "96:19",
+   "meaning": "Kur'an'da secde emri geçen ayetler okunduğunda yapılan secde. Alak suresinin son ayeti bunlardan biridir; okuma çağrısıyla açılan sure, başın yere konmasıyla kapanır."
   }
  ],
  "themes": [
   {
-   "label": "Bilgi, kurtuluşun ilk adımı olarak",
-   "body": "Yeni bir çağrının ilk kelimesi \"oku\" olması tesadüf değildir. Metin, değişimin zorla değil idrakle başlayacağını baştan ilan eder. Okuma burada harfleri seslendirmek değil, hayatı ve insanı çözümlemektir."
+   "label": "İlk kelime neden \"oku\"?",
+   "body": "Yeni bir çağrının ilk kelimesinin \"oku\" olması tesadüf değildir. Metin, değişimin zorlamayla değil anlamayla başlayacağını baştan ilan eder. Üstelik okunacak bir kitap henüz ortada yoktur; okunacak olan önce insanın kendisi ve içinde yaşadığı dünyadır."
   },
   {
    "label": "Kökenini hatırlamak, kibri kıran şey",
-   "body": "İnsanın rahim duvarına tutunan bir hücreden geldiği hatırlatılır. Bu, biyolojik bir bilgi vermekten çok, kendini mutlak sanan bilince indirilen bir hatırlatmadır."
+   "body": "İkinci ayet, insanın rahim duvarına tutunmuş bir hücreden geldiğini söyler. Bu, biyoloji dersi vermek için değil, kendini mutlak sanan bilinci durdurmak için söylenmiştir. Okumayı öğreten de, okuyacak varlığı yaratan da aynı kaynaktır."
   },
   {
-   "label": "Kendini yeterli görme sendromu",
-   "body": "Altıncı ve yedinci ayetler bir insan psikolojisi tespiti yapar: insan kendini yeterli görünce sınırı aşar. Güç, servet ya da bilgi biriktikçe artan bu duygu, metnin teşhis ettiği en yaygın çöküş sebebidir."
+   "label": "Kendini yeterli görmek: sebep mi, sonuç mu?",
+   "body": "Altıncı ve yedinci ayetler açık bir nedensellik kurar: insan azgınlaşır, çünkü kendini yeterli görür. Yani kibir bir başlangıç değil, bir sonuçtur. Sıralamayı görmek önemlidir; çünkü davranışı düzeltmek için önce onu besleyen kanaati fark etmek gerekir."
   },
   {
-   "label": "Öğrenmeye engel olmak, en ağır suçlardan biri",
-   "body": "Surenin son bölümü, başkasının hakikate ve ibadete yönelişini engellemeye çalışanı hedef alır. Zihinsel özgürlüğün önünü kesmek, metnin diliyle yalanlamanın ve yüz çevirmenin somut hâlidir."
+   "label": "Öğrenmeye engel olmak",
+   "body": "Surenin son bölümü, başkasının yönelişinin önünü kesmeye çalışanı hedef alır. Metin burada inanmayanı değil, engelleyeni muhatap alır: kendi doğruluğundan emin olmakla, o eminliği başkasının yolunu kapatmak için kullanmak arasındaki fark budur."
+  },
+  {
+   "label": "Okumayla açılan sure, secdeyle kapanır",
+   "body": "Sure \"oku\" diye başlar, \"secde et ve yaklaş\" diye biter. Son ayet, okunduğunda secde edilen ayetlerden biridir. Bilginin varış noktası daha çok bilgi değil, insanın kendi ölçüsünü bulmasıdır."
   }
  ],
  "questions": [
-  "Son bir yılda fikrimi kökten değiştirdiğim bir konu var mı? Yoksa öğrenme kapımı çoktan kapattım da farkında değil miyim?",
-  "Elde ettiğim başarı, gelir ya da unvan bana \"artık bana kimse bir şey öğretemez\" duygusu veriyor mu? Bu duygu hayatımın hangi alanında en güçlü?",
-  "Çevremde birinin öğrenmesini, sorgulamasını ya da kendi yolunu bulmasını — belki iyi niyetle — engellediğim oluyor mu?"
+  "Son bir yılda hangi konuda fikrimi değiştirdim? Değiştiren şey neydi: bir kitap, bir sohbet, bir tecrübe? Hiçbir şey aklıma gelmiyorsa bu neyin işareti olabilir?",
+  "Dün ekranda geçirdiğim sürenin ne kadarında bir şey anladım, ne kadarında sadece kaydırdım? İkisi arasındaki farkı kendime dürüstçe söyleyebiliyor muyum?",
+  "Kendi mesleğimde haklı olarak sahip olduğum yetkinliği, hiç bilmediğim alanlarda da kesin konuşma hakkı sayıyor muyum? Bunu en son nerede yaptım?",
+  "Ailemde ya da iş yerimde, birinin sorusunu \"boş işlerle uğraşma\" diyerek kapattığım oldu mu? O soru kapanınca ne oldu?",
+  "Kimseye ihtiyacım yok dediğim bir alan var mı? Orada gerçekten muhtaç olmadığım mı doğru, yoksa muhtaç görünmeyi göze alamadığım mı?"
  ],
  "scholarlyNotes": [
   {
    "kind": "ihtilaf",
    "label": "İlk inen sure hangisidir?",
-   "body": "Genel kabul ve tercih edilen görüş, Alak suresinin ilk beş ayetinin ilk nâzil olan bölüm olduğudur. Bununla birlikte TDV İslâm Ansiklopedisi ve Diyanet Kur'an Yolu Tefsiri, bazı Kur'an tarihçilerinin Müddessir ya da Fâtiha suresini ilk sırada gördüğünü kaydeder. Kaynaklar bu görüşü aktarmakla birlikte Alak lehine tercih belirtir."
+   "body": "Tercih edilen görüş, Alak suresinin ilk beş ayetinin inen ilk bölüm olduğudur; TDV İslâm Ansiklopedisi, Diyanet Kur'an Yolu Tefsiri ve Mehmet Okuyan bu yönde birleşir. Ayrım şuradadır: bazı kaynaklar Fâtiha'yı, baştan sona tek seferde inen ilk tam sure sayar. Bu, Alak'ın ilk ayetler olmasıyla çelişmez — iki farklı soruya verilmiş iki cevaptır. Müddessir'i ilk sıraya koyan görüş ise azınlıkta kalmıştır."
   },
   {
    "kind": "nuans",
@@ -77,7 +97,22 @@
   {
    "kind": "nuans",
    "label": "Surenin iki katmanı",
-   "body": "Rivayetlere göre surenin ilk beş ayeti ile kalan on dört ayeti aynı anda inmemiştir; ikinci bölümün çok daha sonra ve namaz kılanlara engel olmaya çalışan bir Mekkeli hakkında geldiği nakledilir. Sureyi tek bir sahne olarak okumak bu ayrımı gözden kaçırır."
+   "body": "Surenin ilk beş ayeti ile kalan on dört ayeti (6-19) aynı anda inmemiştir. Üç kaynak da ikinci bölümü 6. ayetten başlatır ve namaz kılana engel olmaya çalışan bir Mekkeli hakkında indiğini kaydeder. Aradaki zaman farkı yıllarla ölçülür; sureyi tek bir sahne olarak okumak bu ayrımı gözden kaçırır."
+  },
+  {
+   "kind": "rivayet",
+   "label": "Ebû Cehil rivayetinin kaynağı",
+   "body": "Namaz kılana engel olma teşebbüsünü anlatan rivayet Müslim'in Sahîh'inde (\"Münâfıkīn\", 38) yer alır; zayıf ya da mevzû (uydurma) değildir, hadis kaynaklarınca sahih kabul edilir. Buna karşılık ayetin kendisi hiçbir isim vermez. Ebû Cehil'in adı tefsir geleneğinden gelir, metinden değil; bu yüzden ismi kesin bir tespit değil, güçlü bir tefsir tercihi olarak okunmalıdır."
+  },
+  {
+   "kind": "ihtilaf",
+   "label": "Altıncı ayetteki \"insan\" kimdir?",
+   "body": "Mehmet Okuyan, 6. ayetteki \"el-insân\" ifadesinin bütün insanları değil, azgınlaşan nankör tipi kastettiğini savunur; gerekçesi, her insanın azgınlaşacağını söylemenin doğru olmayacağıdır. Diğer görüşe göre ise kelime tür olarak insanoğlunu anlatır ve ayet genel bir eğilimi tarif eder. Diyanet tefsiri, nüzul sebebi özel olsa da ifade edilenin \"hangi devirde olursa olsun\" geçerli bir gerçek olduğunu belirterek ikisini birleştirir."
+  },
+  {
+   "kind": "nuans",
+   "label": "Hira mağarasının konumu",
+   "body": "TDV İslâm Ansiklopedisi mağaranın yerini \"Mekke ile Mina arasında\" diye verir. Yaygın anlatımlarda geçen \"Mekke'nin kuzeyi\" ifadesi kaynaklarda doğrulanmaz."
   }
  ],
  "verses": [
@@ -166,6 +201,11 @@
   },
   {
    "verseNo": 1,
+   "source": "islamoglu",
+   "text": "OKU yaratan Rabbin adına;"
+  },
+  {
+   "verseNo": 1,
    "source": "esed",
    "text": "Oku yaratan Rabbin adına"
   },
@@ -175,14 +215,14 @@
    "text": "Yaratan Rabbinin adı ile oku!"
   },
   {
-   "verseNo": 1,
-   "source": "islamoglu",
-   "text": "OKU yaratan Rabbin adına;"
-  },
-  {
    "verseNo": 2,
    "source": "diyanet",
    "text": "Yaratan Rabbinin adıyla oku! O, insanı \"alak\" dan yarattı."
+  },
+  {
+   "verseNo": 2,
+   "source": "islamoglu",
+   "text": "O insanı sevgi ve alâkadan yarattı."
   },
   {
    "verseNo": 2,
@@ -195,14 +235,14 @@
    "text": "O, insanı [‘alak]tan (embriyodan) yarattı."
   },
   {
-   "verseNo": 2,
-   "source": "islamoglu",
-   "text": "O insanı sevgi ve alâkadan yarattı."
-  },
-  {
    "verseNo": 3,
    "source": "diyanet",
    "text": "Oku! Senin Rabbin en cömert olandır."
+  },
+  {
+   "verseNo": 3,
+   "source": "islamoglu",
+   "text": "Oku! Zira Rabbin sonsuz kerem sahibidir;"
   },
   {
    "verseNo": 3,
@@ -215,14 +255,14 @@
    "text": "Oku! Rabbin en cömert olandır!"
   },
   {
-   "verseNo": 3,
-   "source": "islamoglu",
-   "text": "Oku! Zira Rabbin sonsuz kerem sahibidir;"
-  },
-  {
    "verseNo": 4,
    "source": "diyanet",
    "text": "O, kalemle yazmayı öğretendir, insana bilmediğini öğretendir."
+  },
+  {
+   "verseNo": 4,
+   "source": "islamoglu",
+   "text": "O insana (bilgiyi) kalemle (kaydetmeyi) öğretti,"
   },
   {
    "verseNo": 4,
@@ -235,14 +275,14 @@
    "text": "Kalemle (yazmayı) öğreten O’dur."
   },
   {
-   "verseNo": 4,
-   "source": "islamoglu",
-   "text": "O insana (bilgiyi) kalemle (kaydetmeyi) öğretti,"
-  },
-  {
    "verseNo": 5,
    "source": "diyanet",
    "text": "O, kalemle yazmayı öğretendir, insana bilmediğini öğretendir."
+  },
+  {
+   "verseNo": 5,
+   "source": "islamoglu",
+   "text": "O insana bilmediklerini öğretti."
   },
   {
    "verseNo": 5,
@@ -255,14 +295,14 @@
    "text": "İnsana bilmediğini (O) öğretti."
   },
   {
-   "verseNo": 5,
-   "source": "islamoglu",
-   "text": "O insana bilmediklerini öğretti."
-  },
-  {
    "verseNo": 6,
    "source": "diyanet",
    "text": "Hayır, insan kendini yeterli gördüğü için mutlaka azgınlık eder."
+  },
+  {
+   "verseNo": 6,
+   "source": "islamoglu",
+   "text": "EVET, evet; insan mutlaka azar,"
   },
   {
    "verseNo": 6,
@@ -275,14 +315,14 @@
    "text": "6,7. Hayır! Şüphesiz ki insan, kendini zengin (ihtiyaçsız) gördüğü için azar."
   },
   {
-   "verseNo": 6,
-   "source": "islamoglu",
-   "text": "EVET, evet; insan mutlaka azar,"
-  },
-  {
    "verseNo": 7,
    "source": "diyanet",
    "text": "Hayır, insan kendini yeterli gördüğü için mutlaka azgınlık eder."
+  },
+  {
+   "verseNo": 7,
+   "source": "islamoglu",
+   "text": "kendi kendine yettiğini sandığında!"
   },
   {
    "verseNo": 7,
@@ -295,14 +335,14 @@
    "text": "6,7. Hayır! Şüphesiz ki insan, kendini zengin (ihtiyaçsız) gördüğü için azar."
   },
   {
-   "verseNo": 7,
-   "source": "islamoglu",
-   "text": "kendi kendine yettiğini sandığında!"
-  },
-  {
    "verseNo": 8,
    "source": "diyanet",
    "text": "Şüphesiz dönüş ancak Rabbinedir."
+  },
+  {
+   "verseNo": 8,
+   "source": "islamoglu",
+   "text": "Ne ki insanın Rabbine dönüşü muhakkaktır."
   },
   {
    "verseNo": 8,
@@ -315,14 +355,14 @@
    "text": "Şüphesiz ki dönüş, yalnızca Rabbinedir."
   },
   {
-   "verseNo": 8,
-   "source": "islamoglu",
-   "text": "Ne ki insanın Rabbine dönüşü muhakkaktır."
-  },
-  {
    "verseNo": 9,
    "source": "diyanet",
    "text": "Sen, namaz kıldığında kulu (bundan) engelleyeni gördün mü?"
+  },
+  {
+   "verseNo": 9,
+   "source": "islamoglu",
+   "text": "Ama (ey muhatap!) Baksana şu engel olmaya kalkışana,"
   },
   {
    "verseNo": 9,
@@ -335,14 +375,14 @@
    "text": "9,10. [Salât] (ibadet) ederken bir kulu engelleyeni gördün mü!"
   },
   {
-   "verseNo": 9,
-   "source": "islamoglu",
-   "text": "Ama (ey muhatap!) Baksana şu engel olmaya kalkışana,"
-  },
-  {
    "verseNo": 10,
    "source": "diyanet",
    "text": "Sen, namaz kıldığında kulu (bundan) engelleyeni gördün mü?"
+  },
+  {
+   "verseNo": 10,
+   "source": "islamoglu",
+   "text": "ibadete kalkan bir kula!"
   },
   {
    "verseNo": 10,
@@ -355,14 +395,14 @@
    "text": "9,10. [Salât] (ibadet) ederken bir kulu engelleyeni gördün mü!"
   },
   {
-   "verseNo": 10,
-   "source": "islamoglu",
-   "text": "ibadete kalkan bir kula!"
-  },
-  {
    "verseNo": 11,
    "source": "diyanet",
    "text": "Ne dersin, ya o (engellenen kul) hidâyet üzere ise; ya da takvayı (Allah'a karşı gelmekten sakınmayı) emrediyorsa!?"
+  },
+  {
+   "verseNo": 11,
+   "source": "islamoglu",
+   "text": "(Ve sen ey ibadete engel olan!) Hiç o hidayet üzere midir diye geldi mi aklına?"
   },
   {
    "verseNo": 11,
@@ -375,14 +415,14 @@
    "text": "11,12. Gördün mü? (Bir düşün:) Ya o (kul) doğru yol üzerindeyse veya [takvâ]yı (duyarlılığı) emrediyorsa?"
   },
   {
-   "verseNo": 11,
-   "source": "islamoglu",
-   "text": "(Ve sen ey ibadete engel olan!) Hiç o hidayet üzere midir diye geldi mi aklına?"
-  },
-  {
    "verseNo": 12,
    "source": "diyanet",
    "text": "Ne dersin, ya o (engellenen kul) hidâyet üzere ise; ya da takvayı (Allah'a karşı gelmekten sakınmayı) emrediyorsa!?"
+  },
+  {
+   "verseNo": 12,
+   "source": "islamoglu",
+   "text": "Yahut da, çağırmakta mıdır diye sorumluluğa?"
   },
   {
    "verseNo": 12,
@@ -395,14 +435,14 @@
    "text": "11,12. Gördün mü? (Bir düşün:) Ya o (kul) doğru yol üzerindeyse veya [takvâ]yı (duyarlılığı) emrediyorsa?"
   },
   {
-   "verseNo": 12,
-   "source": "islamoglu",
-   "text": "Yahut da, çağırmakta mıdır diye sorumluluğa?"
-  },
-  {
    "verseNo": 13,
    "source": "diyanet",
    "text": "Ne dersin engelleyen, Peygamberi yalanlamış ve yüz çevirmişse!?"
+  },
+  {
+   "verseNo": 13,
+   "source": "islamoglu",
+   "text": "Düşündün mü hiç: eğer o hakikati yalanlasa ve sırt dönmüş olsa Allah’a,"
   },
   {
    "verseNo": 13,
@@ -415,14 +455,14 @@
    "text": "Gördün mü? (Bir düşün:) Ya o, (gerçeği) yalanlıyor ve (ondan) yüz çeviriyorsa?"
   },
   {
-   "verseNo": 13,
-   "source": "islamoglu",
-   "text": "Düşündün mü hiç: eğer o hakikati yalanlasa ve sırt dönmüş olsa Allah’a,"
-  },
-  {
    "verseNo": 14,
    "source": "diyanet",
    "text": "O Allah'ın, her şeyi gördüğünü bilmiyor mu?"
+  },
+  {
+   "verseNo": 14,
+   "source": "islamoglu",
+   "text": "kendisi bilmez mi ki, Allah görür mutlaka."
   },
   {
    "verseNo": 14,
@@ -435,14 +475,14 @@
    "text": "Şüphesiz ki Allah’ın gördüğünü (bu adam) bilmez mi!"
   },
   {
-   "verseNo": 14,
-   "source": "islamoglu",
-   "text": "kendisi bilmez mi ki, Allah görür mutlaka."
-  },
-  {
    "verseNo": 15,
    "source": "diyanet",
    "text": "Hayır! Andolsun, eğer vazgeçmezse, muhakkak onu perçeminden; o yalancı, günahkâr perçeminden yakalarız."
+  },
+  {
+   "verseNo": 15,
+   "source": "islamoglu",
+   "text": "Yoo! Eğer o buna bir son vermediyse, elbet perçeminden yakalayacağız;"
   },
   {
    "verseNo": 15,
@@ -455,14 +495,14 @@
    "text": "Hayır! Bundan vazgeçmezse (onu) perçeminden yakalayacağız!"
   },
   {
-   "verseNo": 15,
-   "source": "islamoglu",
-   "text": "Yoo! Eğer o buna bir son vermediyse, elbet perçeminden yakalayacağız;"
-  },
-  {
    "verseNo": 16,
    "source": "diyanet",
    "text": "Hayır! Andolsun, eğer vazgeçmezse, muhakkak onu perçeminden; o yalancı, günahkâr perçeminden yakalarız."
+  },
+  {
+   "verseNo": 16,
+   "source": "islamoglu",
+   "text": "o pek sahtekâr, bir o kadar da günahkâr perçeminden;"
   },
   {
    "verseNo": 16,
@@ -475,14 +515,14 @@
    "text": "O yalancı, günahkâr perçem(in)den!"
   },
   {
-   "verseNo": 16,
-   "source": "islamoglu",
-   "text": "o pek sahtekâr, bir o kadar da günahkâr perçeminden;"
-  },
-  {
    "verseNo": 17,
    "source": "diyanet",
    "text": "Haydi, taraftarlarını çağırsın."
+  },
+  {
+   "verseNo": 17,
+   "source": "islamoglu",
+   "text": "haydi o kendi yandaşlarını çağırsın,"
   },
   {
    "verseNo": 17,
@@ -495,14 +535,14 @@
    "text": "(O), meclisini (destekçilerini) çağırsın!"
   },
   {
-   "verseNo": 17,
-   "source": "islamoglu",
-   "text": "haydi o kendi yandaşlarını çağırsın,"
-  },
-  {
    "verseNo": 18,
    "source": "diyanet",
    "text": "Biz de zebânileri çağıracağız."
+  },
+  {
+   "verseNo": 18,
+   "source": "islamoglu",
+   "text": "Biz de zebanileri çağıracağız."
   },
   {
    "verseNo": 18,
@@ -515,14 +555,14 @@
    "text": "İleride biz de zebanileri çağıracağız!"
   },
   {
-   "verseNo": 18,
-   "source": "islamoglu",
-   "text": "Biz de zebanileri çağıracağız."
-  },
-  {
    "verseNo": 19,
    "source": "diyanet",
    "text": "Hayır! Sakın sen ona uyma; secde et ve Rabbine yaklaş."
+  },
+  {
+   "verseNo": 19,
+   "source": "islamoglu",
+   "text": "Hayır! O (azgın) insana uyma; imdi (Rabbine) secde et ve yaklaşmaya gayret et."
   },
   {
    "verseNo": 19,
@@ -533,11 +573,6 @@
    "verseNo": 19,
    "source": "okuyan",
    "text": "Hayır! Ona itaat etme! (Rabbine) secde et ve (O’na) yaklaş!"
-  },
-  {
-   "verseNo": 19,
-   "source": "islamoglu",
-   "text": "Hayır! O (azgın) insana uyma; imdi (Rabbine) secde et ve yaklaşmaya gayret et."
   }
  ]
 }

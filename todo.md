@@ -197,5 +197,5 @@ menfaati gütmeyen tarafsız aktarım, ve yeni neslin sıkılmadan anlayacağı 
 - [x] 114 durağa üretildi, kalite denetimi (`cekim/maksat_denetim.py`) 0 sorun
 - [x] İki veritabanına yüklendi (MySQL 114 · Supabase 114)
 - [x] Sözleşme testleri: taraf tutma, vaaz dili, klişe, Arapça kalıntı, şerh zorunluluğu (70 test geçiyor)
-- [ ] Yayınlandı ve canlı doğrulandı
-- [ ] Günlük tur yordamı yeni metodolojiye göre güncellendi
+- [x] Yayınlandı ve t1o.net üzerinde canlı doğrulandı (3 durak örneklendi, dört katman tam)
+- [x] Günlük tur yordamı güncellendi (`GUNLUK_TUR2.md` 5c) ve zamanlanmış görev talimatına işlendi

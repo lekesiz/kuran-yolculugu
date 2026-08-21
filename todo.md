@@ -149,19 +149,22 @@ yalnızca %2,5 örtüştüğü için reddedildi; Diyanet Yeni doğrudan resmî p
 
 ## Faz 13 — AI Tercümesi (beşinci meal sütunu, 114 surenin tamamı)
 
-- [ ] Şemaya beşinci çeviri kaynağı eklendi (MySQL enum + Postgres enum + shared/kuran.ts)
-- [ ] Enum migrasyonu iki veritabanında uygulandı
-- [ ] Tarafsız çeviri yönergesi yazıldı ve örnek surelerde kalite doğrulandı
-- [ ] 114 surenin 6.236 ayeti çevrildi
-- [ ] Çeviriler iki veritabanına yüklendi
-- [ ] Arayüzde beşinci meal gösteriliyor (etiket, kaynak açıklaması, meal seçici)
-- [ ] AI çevirisi için vitest testleri yazıldı
-- [ ] Günlük tur yordamına AI çevirisi adımı eklendi
+- [x] Şemaya beşinci çeviri kaynağı eklendi (MySQL enum + Postgres enum + shared/kuran.ts)
+- [x] Enum migrasyonu iki veritabanında uygulandı
+- [x] Tarafsız çeviri yönergesi yazıldı ve örnek surelerde kalite doğrulandı
+- [x] 114 surenin 6.236 ayeti çevrildi (`cekim/ai_terceme.py`, hizalama denetimli)
+- [x] Çeviriler iki veritabanına yüklendi (MySQL 6.236 · Supabase 6.236)
+- [x] Arayüzde beşinci meal gösteriliyor (ayrı zemin, "makine çevirisi" etiketi, varsayılan açık)
+- [x] AI çevirisi için vitest testleri yazıldı (`server/ai.layers.test.ts`)
+- [x] Kalite denetimi: `cekim/ai_denetim.py` — 3 kusur bulundu ve düzeltildi (Lokmân 1 besmele, Bakara 104 Arapça kalıntı, Saff paragrafı)
+- [x] `birlestir.py` AI katmanlarını koruyor: yeniden üretimde silinmiyor
+- [x] `seed-lib.mjs` toplu ekleme: Supabase tam yüklemesi 30+ dakikadan birkaç dakikaya indi
 
 ## Faz 14 — Sure Paragrafı ("bugün ne anlamalıyız")
 
 - [x] Paragraf üretim yönergesi yazıldı ve deneme onaylandı (kullanıcı: her iki katman da olsun)
-- [ ] Şemaya paragraf alanı eklendi (iki veritabanı)
-- [ ] 114 sure için paragraf üretildi
-- [ ] Arayüzde sure sayfasının başında gösteriliyor
-- [ ] Testler yazıldı ve yayınlandı
+- [x] Şemaya paragraf alanı eklendi (`surahs.aiParagraph`, iki veritabanı)
+- [x] 114 sure için paragraf üretildi (`cekim/ai_paragraf.py`)
+- [x] Arayüzde sure sayfasının başında gösteriliyor ("Bir bakışta" bölümü)
+- [x] Testler yazıldı ve t1o.net üzerinde canlı doğrulandı
+- [ ] Günlük tur yordamına AI katmanı adımı eklenecek

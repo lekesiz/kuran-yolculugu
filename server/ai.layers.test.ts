@@ -91,4 +91,59 @@ describe("AI layers", () => {
       .map(r => `sure#${r.surahId} ayet ${r.verseNo}`);
     expect(untranslated, untranslated.slice(0, 10).join(" · ")).toEqual([]);
   });
+
+  it("translates every verse in the corpus, with no gaps and no duplicates", async () => {
+    const db = await getDb();
+    if (!db) return;
+    const verseRows = await db
+      .select({ surahId: verses.surahId, verseNo: verses.verseNo })
+      .from(verses);
+    const aiRows = (
+      await db
+        .select({
+          surahId: translations.surahId,
+          verseNo: translations.verseNo,
+          source: translations.source,
+        })
+        .from(translations)
+    ).filter(r => r.source === "ai");
+    if (!aiRows.length) return;
+
+    // Coverage has to be exact: a partial pass would show blank cells next to
+    // the published meals, and a duplicated row would render the verse twice.
+    const keys = aiRows.map(r => `${r.surahId}:${r.verseNo}`);
+    expect(new Set(keys).size, "AI çevirisinde yinelenen ayet var").toBe(keys.length);
+    expect(aiRows.length, "AI çevirisi ayet sayısıyla eşleşmiyor").toBe(verseRows.length);
+  });
+
+  it("never lets the AI text stand in for a published meal", async () => {
+    const db = await getDb();
+    if (!db) return;
+    const rows = await db
+      .select({
+        surahId: translations.surahId,
+        verseNo: translations.verseNo,
+        source: translations.source,
+        text: translations.text,
+      })
+      .from(translations);
+    const ai = new Map(
+      rows.filter(r => r.source === "ai").map(r => [`${r.surahId}:${r.verseNo}`, r.text]),
+    );
+    if (!ai.size) return;
+
+    // If a published meal ever carried byte-identical text to the machine
+    // output across many verses, the scholar's column would be a copy.
+    for (const source of PUBLISHED_TRANSLATION_SOURCES) {
+      const own = rows.filter(r => r.source === source);
+      if (own.length < 50) continue;
+      const identical = own.filter(
+        r => ai.get(`${r.surahId}:${r.verseNo}`)?.trim() === r.text.trim(),
+      ).length;
+      expect(
+        identical / own.length,
+        `${source} meali AI metniyle örtüşüyor (${identical}/${own.length})`,
+      ).toBeLessThan(0.02);
+    }
+  });
 });

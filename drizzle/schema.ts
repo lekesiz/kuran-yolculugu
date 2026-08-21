@@ -72,6 +72,8 @@ export const surahs = mysqlTable(
     occasionSources: text("occasionSources"),
     /** What the surah says to a person living today. */
     contemporaryMeaning: text("contemporaryMeaning"),
+    /** AI-written paragraph read straight from the Arabic: "what does this surah say today?" */
+    aiParagraph: text("aiParagraph"),
     /** Key Arabic terms with explanations, stored as JSON array. */
     keyTerms: json("keyTerms"),
     /**
@@ -103,12 +105,13 @@ export const surahs = mysqlTable(
 export type Surah = typeof surahs.$inferSelect;
 export type InsertSurah = typeof surahs.$inferInsert;
 
-/** The four permitted translation sources. */
+/** Permitted translation sources; `ai` is the in-project machine translation. */
 export const TRANSLATION_SOURCES = [
   "diyanet",
   "okuyan",
   "islamoglu",
   "esed",
+  "ai",
 ] as const;
 
 /**

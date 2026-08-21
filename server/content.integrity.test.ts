@@ -114,13 +114,15 @@ describe("content integrity", () => {
     }
   });
 
-  it("translation sources are limited to the four declared meals", async () => {
+  it("translation sources are limited to the declared set", async () => {
     const db = await getDb();
     if (!db) return;
 
     const rows = await db.selectDistinct({ source: translations.source }).from(translations);
     const found = rows.map(r => r.source).sort();
-    expect(found).toEqual([...SOURCES].sort());
+    // The four published meals plus the in-project machine translation.
+    // Anything else means an unvetted source reached the database.
+    expect(found).toEqual([...SOURCES, "ai"].sort());
   });
 
   it("station numbers and surah numbers are unique", async () => {

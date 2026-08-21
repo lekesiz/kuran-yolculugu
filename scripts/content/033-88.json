@@ -1,698 +1,855 @@
 {
- "stationNo": 33,
- "surahNo": 88,
- "nuzulOrderOkuyan": 61,
- "name": "Gâşiye",
- "nameArabic": "الغاشية",
- "nameMeaning": "Kaplayan, sarıp bürüyen",
- "verseCount": 26,
- "periodDiyanet": "Mekke",
- "periodOkuyan": "Mekke",
- "revelationTiming": "Mekke dönemi",
- "stationTitle": "Kimi yüzler çalışmış ama yorulmuş, kimi yüzler huzurlu. Fark, çabanın yönünde.",
- "introduction": "Gâşiye suresi, adını birinci ayetteki \"el-Gâşiye\" kelimesinden alır; kaplayan, sarıp bürüyen anlamındadır. Yirmi altı ayetlik sure Mekke döneminde inmiştir.\n\nSure iki yüz tipini karşılaştırır: zillet içinde, çalışmış ama yorulmuş yüzler ile nimet içinde, yaptıklarından hoşnut yüzler. Ardından doğaya bakma çağrısı gelir. Kapanışta hatırlatıcının rolü ile hesap soranın rolü kesin biçimde ayrılır.",
- "occasionOfRevelation": "Sure Mekke döneminde inmiştir; nüzulüne dair belirli bir olay anlatısı yoktur.\n\nÜçüncü ayetteki ifade dikkatli okunmayı hak eder: \"âmiletün nâsibe\" — çalışan, yorulan. Ayet, cezayı tembelliğe değil boşa çıkmış çabaya bağlar. Tefsirler bu ifadeyi, dünyada yoğun biçimde çalışıp bir karşılık elde edemeyenler olarak açıklar.\n\nYirmi birinci ve yirmi ikinci ayetler surenin yöntem beyanıdır: \"Sen ancak bir öğüt vericisin; onlar üzerinde bir zorba değilsin.\" Bu, tebliğ ile zorlamayı birbirinden ayıran açık bir sınır çizgisidir. Sure bunun sorumsuzluk anlamına gelmediğini de belirtir: hesap ilahi adalete aittir (88:23-26).",
- "occasionSources": "Diyanet İşleri Başkanlığı Kur'an Yolu Tefsiri, Gâşiye suresi girişi; TDV İslâm Ansiklopedisi, \"Gāşiye Sûresi\" maddesi.",
- "contemporaryMeaning": "Surenin en çarpıcı ifadesi \"çalışmış ama yorulmuş\" olmaktır. Metin tembelliği değil, yönü yanlış olan çabayı eleştirir. Asıl trajedi çalışmamak değil, boşa yorulmaktır.\n\nBu, bugünün tükenmişlik tartışmasına doğrudan temas eder. Yoğun çalışma tek başına bir değer üretmez; çabanın nereye gittiği belirleyicidir.\n\nKarşı taraftaki tasvir de dikkat çekicidir: \"yaptıklarından dolayı hoşnuttur\" (88:9) ve orada \"hiçbir boş söz (lâğiye) işitilmez\" (88:11). Derinliğin olduğu yerde yüzeysel gürültünün bitmesi, surenin sunduğu huzur tasviridir.\n\nKapanıştaki \"zorba değilsin\" ilkesi ise en güncel derstir: hakikat kimseye dayatılamaz. İnsanın özgür iradesine saygı, metnin kendi koyduğu sınırdır.",
- "keyTerms": [
-  {
-   "term": "el-gâşiye",
-   "arabic": "الْغَاشِيَة",
-   "verseRef": "88:1",
-   "meaning": "Kaplayan, sarıp bürüyen. Kıyametin adlarından biri; her tarafı kuşatma imgesi."
-  },
-  {
-   "term": "âmiletün nâsibe",
-   "arabic": "عَامِلَةٌ نَّاصِبَة",
-   "verseRef": "88:3",
-   "meaning": "Çalışan, yorulan. Cezanın tembelliğe değil boşa çıkmış çabaya bağlanması."
-  },
-  {
-   "term": "lâğiye",
-   "arabic": "لَاغِيَة",
-   "verseRef": "88:11",
-   "meaning": "Boş, anlamsız söz. Huzurun tarifinde yüzeysel gürültünün yokluğu."
-  },
-  {
-   "term": "musaytır",
-   "arabic": "مُّصَيْطِر",
-   "verseRef": "88:22",
-   "meaning": "Zorba, tahakküm kuran, dayatan. \"Sen onlar üzerinde bir zorba değilsin\" ifadesinde geçer."
-  }
- ],
- "themes": [
-  {
-   "label": "Boşa yorulmak",
-   "body": "Metin tembelliği değil yönü yanlış olan çabayı eleştirir. Asıl trajedi çalışmamak değil, hiçbir yere varmayan bir yorgunluktur."
-  },
-  {
-   "label": "Huzurun tarifi: gürültünün bitmesi",
-   "body": "Nimet içindeki yüzler yaptıklarından hoşnuttur ve orada boş söz işitilmez. Derinliğin olduğu yerde yüzeysel gürültü biter."
-  },
-  {
-   "label": "Doğadaki sessiz düzene bakmak",
-   "body": "Devenin yaratılışı, göğün yükseltilişi, dağların dikilişi, yerin serilişi. İnsan kendisini varoluşun tek hâkimi sanmak yerine düzene bakmaya çağrılır."
-  },
-  {
-   "label": "Hakikat dayatılamaz",
-   "body": "\"Sen ancak bir öğüt vericisin; onlar üzerinde bir zorba değilsin.\" Tebliğ ile zorlama arasındaki sınır metnin kendisi tarafından çizilir."
-  },
-  {
-   "label": "Rollerin ayrılması",
-   "body": "İnsan hatırlatır, yargılamaz. Hesap sorma yetkisi ile hatırlatma sorumluluğu kesin biçimde birbirinden ayrılır."
-  }
- ],
- "questions": [
-  "Harcadığım efor beni bir yere götürüyor mu, yoksa sadece yoruyor mu?",
-  "Günümün ne kadarı boş söz ve gürültüyle geçiyor? Derinleşmek için ne yapıyorum?",
-  "Doğru bildiğim şeyi başkasına dayatıyor muyum? Hatırlatmakla zorlamak arasındaki çizgiyi nerede geçiyorum?"
- ],
- "verses": [
-  {
-   "verseNo": 1,
-   "textArabic": "بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ هَلْ أَتَىٰكَ حَدِيثُ ٱلْغَٰشِيَةِ"
-  },
-  {
-   "verseNo": 2,
-   "textArabic": "وُجُوهٌۭ يَوْمَئِذٍ خَٰشِعَةٌ"
-  },
-  {
-   "verseNo": 3,
-   "textArabic": "عَامِلَةٌۭ نَّاصِبَةٌۭ"
-  },
-  {
-   "verseNo": 4,
-   "textArabic": "تَصْلَىٰ نَارًا حَامِيَةًۭ"
-  },
-  {
-   "verseNo": 5,
-   "textArabic": "تُسْقَىٰ مِنْ عَيْنٍ ءَانِيَةٍۢ"
-  },
-  {
-   "verseNo": 6,
-   "textArabic": "لَّيْسَ لَهُمْ طَعَامٌ إِلَّا مِن ضَرِيعٍۢ"
-  },
-  {
-   "verseNo": 7,
-   "textArabic": "لَّا يُسْمِنُ وَلَا يُغْنِى مِن جُوعٍۢ"
-  },
-  {
-   "verseNo": 8,
-   "textArabic": "وُجُوهٌۭ يَوْمَئِذٍۢ نَّاعِمَةٌۭ"
-  },
-  {
-   "verseNo": 9,
-   "textArabic": "لِّسَعْيِهَا رَاضِيَةٌۭ"
-  },
-  {
-   "verseNo": 10,
-   "textArabic": "فِى جَنَّةٍ عَالِيَةٍۢ"
-  },
-  {
-   "verseNo": 11,
-   "textArabic": "لَّا تَسْمَعُ فِيهَا لَٰغِيَةًۭ"
-  },
-  {
-   "verseNo": 12,
-   "textArabic": "فِيهَا عَيْنٌۭ جَارِيَةٌۭ"
-  },
-  {
-   "verseNo": 13,
-   "textArabic": "فِيهَا سُرُرٌۭ مَّرْفُوعَةٌۭ"
-  },
-  {
-   "verseNo": 14,
-   "textArabic": "وَأَكْوَابٌۭ مَّوْضُوعَةٌۭ"
-  },
-  {
-   "verseNo": 15,
-   "textArabic": "وَنَمَارِقُ مَصْفُوفَةٌۭ"
-  },
-  {
-   "verseNo": 16,
-   "textArabic": "وَزَرَابِىُّ مَبْثُوثَةٌ"
-  },
-  {
-   "verseNo": 17,
-   "textArabic": "أَفَلَا يَنظُرُونَ إِلَى ٱلْإِبِلِ كَيْفَ خُلِقَتْ"
-  },
-  {
-   "verseNo": 18,
-   "textArabic": "وَإِلَى ٱلسَّمَآءِ كَيْفَ رُفِعَتْ"
-  },
-  {
-   "verseNo": 19,
-   "textArabic": "وَإِلَى ٱلْجِبَالِ كَيْفَ نُصِبَتْ"
-  },
-  {
-   "verseNo": 20,
-   "textArabic": "وَإِلَى ٱلْأَرْضِ كَيْفَ سُطِحَتْ"
-  },
-  {
-   "verseNo": 21,
-   "textArabic": "فَذَكِّرْ إِنَّمَآ أَنتَ مُذَكِّرٌۭ"
-  },
-  {
-   "verseNo": 22,
-   "textArabic": "لَّسْتَ عَلَيْهِم بِمُصَيْطِرٍ"
-  },
-  {
-   "verseNo": 23,
-   "textArabic": "إِلَّا مَن تَوَلَّىٰ وَكَفَرَ"
-  },
-  {
-   "verseNo": 24,
-   "textArabic": "فَيُعَذِّبُهُ ٱللَّهُ ٱلْعَذَابَ ٱلْأَكْبَرَ"
-  },
-  {
-   "verseNo": 25,
-   "textArabic": "إِنَّ إِلَيْنَآ إِيَابَهُمْ"
-  },
-  {
-   "verseNo": 26,
-   "textArabic": "ثُمَّ إِنَّ عَلَيْنَا حِسَابَهُم"
-  }
- ],
- "translations": [
-  {
-   "verseNo": 1,
-   "source": "diyanet",
-   "text": "Yüce Rabbinin adını tespih et."
-  },
-  {
-   "verseNo": 1,
-   "source": "esed",
-   "text": "Kabus Gibi Çöken´den haberin var mı"
-  },
-  {
-   "verseNo": 1,
-   "source": "okuyan",
-   "text": "(Her şeyi) kaplayacak olanın haberi sana geldi, (değil) mi?"
-  },
-  {
-   "verseNo": 1,
-   "source": "islamoglu",
-   "text": "KASVET gibi sarıp sarmalayan olayın haberi sana ulaştı mı?"
-  },
-  {
-   "verseNo": 2,
-   "source": "diyanet",
-   "text": "O, yaratıp şekillendiren, âhenk veren ve düzene koyandır."
-  },
-  {
-   "verseNo": 2,
-   "source": "esed",
-   "text": "Bazı yüzler o Gün yere bakacak"
-  },
-  {
-   "verseNo": 2,
-   "source": "okuyan",
-   "text": "O gün bazı yüzler düşüktür."
-  },
-  {
-   "verseNo": 2,
-   "source": "islamoglu",
-   "text": "Bazıları vardır o gün; zillet içinde yıkılmıştır;"
-  },
-  {
-   "verseNo": 3,
-   "source": "diyanet",
-   "text": "O, (her şeyi) ölçüyle yapıp yönlendirendir."
-  },
-  {
-   "verseNo": 3,
-   "source": "esed",
-   "text": "(günahın yükü altında) bitkin düşmüş, (korku ile) sarsılmış"
-  },
-  {
-   "verseNo": 3,
-   "source": "okuyan",
-   "text": "(Onlar) çalışandır, yorulandır."
-  },
-  {
-   "verseNo": 3,
-   "source": "islamoglu",
-   "text": "işi bitmiş, eli kolu dökülmüştür;"
-  },
-  {
-   "verseNo": 4,
-   "source": "diyanet",
-   "text": "O, yeşil bitki örtüsünü çıkaran, sonra da onları çürüyüp kararmış çerçöpe çevirendir."
-  },
-  {
-   "verseNo": 4,
-   "source": "esed",
-   "text": "kızgın bir ateşe girmek"
-  },
-  {
-   "verseNo": 4,
-   "source": "okuyan",
-   "text": "Kızgın ateşe girecektir."
-  },
-  {
-   "verseNo": 4,
-   "source": "islamoglu",
-   "text": "tarifi imkânsız kızgın bir ateşi boylarlar,"
-  },
-  {
-   "verseNo": 5,
-   "source": "diyanet",
-   "text": "O, yeşil bitki örtüsünü çıkaran, sonra da onları çürüyüp kararmış çerçöpe çevirendir."
-  },
-  {
-   "verseNo": 5,
-   "source": "esed",
-   "text": "ve kaynar bir pınardan tatmak üzere"
-  },
-  {
-   "verseNo": 5,
-   "source": "okuyan",
-   "text": "Kaynar bir (su) kaynağından (kendilerine) içirilecektir."
-  },
-  {
-   "verseNo": 5,
-   "source": "islamoglu",
-   "text": "zehir gibi bir (umutsuzluğun) pınarından sulanırlar;"
-  },
-  {
-   "verseNo": 6,
-   "source": "diyanet",
-   "text": "Sana Kur'an'ı okutacağız ve sen onu unutmayacaksın."
-  },
-  {
-   "verseNo": 6,
-   "source": "esed",
-   "text": "Hiçbir yiyecekleri yok kuru dikenlerin acılığından başka"
-  },
-  {
-   "verseNo": 6,
-   "source": "okuyan",
-   "text": "Onlar için kuru dikenden başka yiyecek yoktur."
-  },
-  {
-   "verseNo": 6,
-   "source": "islamoglu",
-   "text": "onlara hiçbir yiyecek yoktur, ancak onursuzların yiyeceği vardır;"
-  },
-  {
-   "verseNo": 7,
-   "source": "diyanet",
-   "text": "Ancak Allah'ın dilediği başka. Şüphesiz O, açık olanı da bilir, gizliyi de."
-  },
-  {
-   "verseNo": 7,
-   "source": "esed",
-   "text": "ne bir güç veren ne de açlığı gideren (dikenlerin)"
-  },
-  {
-   "verseNo": 7,
-   "source": "okuyan",
-   "text": "Hem beslemez hem de açlığı gidermez."
-  },
-  {
-   "verseNo": 7,
-   "source": "islamoglu",
-   "text": "ama ne besleyicidir ne doyurucudur."
-  },
-  {
-   "verseNo": 8,
-   "source": "diyanet",
-   "text": "Biz seni en kolay olana kolayca ileteceğiz."
-  },
-  {
-   "verseNo": 8,
-   "source": "esed",
-   "text": "Bazı yüzler (de) o Gün mutlulukla parıldayacak"
-  },
-  {
-   "verseNo": 8,
-   "source": "okuyan",
-   "text": "O gün bazı yüzler de nimet içindedir (mutludur)."
-  },
-  {
-   "verseNo": 8,
-   "source": "islamoglu",
-   "text": "Bazıları da vardır o gün; nimete gark olmuştur;"
-  },
-  {
-   "verseNo": 9,
-   "source": "diyanet",
-   "text": "O halde, eğer öğüt fayda verirse, öğüt ver."
-  },
-  {
-   "verseNo": 9,
-   "source": "esed",
-   "text": "çabaları(nın meyvesini tatmak)tan memnun"
-  },
-  {
-   "verseNo": 9,
-   "source": "okuyan",
-   "text": "Çalışmalarından memnundur."
-  },
-  {
-   "verseNo": 9,
-   "source": "islamoglu",
-   "text": "sonuçta gayretinin meyvesinden hoşnut ve razı olmuştur;"
-  },
-  {
-   "verseNo": 10,
-   "source": "diyanet",
-   "text": "Allah'a karşı derin saygı duyarak ondan korkan öğüt alacaktır."
-  },
-  {
-   "verseNo": 10,
-   "source": "esed",
-   "text": "harika bir bahçede"
-  },
-  {
-   "verseNo": 10,
-   "source": "okuyan",
-   "text": "Yüksek bir cennettedir."
-  },
-  {
-   "verseNo": 10,
-   "source": "islamoglu",
-   "text": "kendini tarifsiz bir Cennet’te, yüce bir makamda bulmuştur."
-  },
-  {
-   "verseNo": 11,
-   "source": "diyanet",
-   "text": "En büyük ateşe girecek olan en bedbaht kimse (kâfir) ise, öğüt almaktan kaçınır."
-  },
-  {
-   "verseNo": 11,
-   "source": "esed",
-   "text": "boş lakırdı işitmeyecekleri (bir bahçede)"
-  },
-  {
-   "verseNo": 11,
-   "source": "okuyan",
-   "text": "Orada boş söz duymaz."
-  },
-  {
-   "verseNo": 11,
-   "source": "islamoglu",
-   "text": "Orada boş bir lakırdı işitmeyecek,"
-  },
-  {
-   "verseNo": 12,
-   "source": "diyanet",
-   "text": "En büyük ateşe girecek olan en bedbaht kimse (kâfir) ise, öğüt almaktan kaçınır."
-  },
-  {
-   "verseNo": 12,
-   "source": "esed",
-   "text": "Sayısız pınarlar akacak orada"
-  },
-  {
-   "verseNo": 12,
-   "source": "okuyan",
-   "text": "Orada akan (su) kaynağı var."
-  },
-  {
-   "verseNo": 12,
-   "source": "islamoglu",
-   "text": "orada tarifsiz bir (mutluluk) pınarı hep çağıldayacak,"
-  },
-  {
-   "verseNo": 13,
-   "source": "diyanet",
-   "text": "Sonra orada ne ölür (kurtulur), ne de (rahat bir hayat) yaşar."
-  },
-  {
-   "verseNo": 13,
-   "source": "esed",
-   "text": "(ve) yükseltilmiş (mutluluk) tahtları"
-  },
-  {
-   "verseNo": 13,
-   "source": "okuyan",
-   "text": "Orada yükseltilmiş tahtlar var."
-  },
-  {
-   "verseNo": 13,
-   "source": "islamoglu",
-   "text": "orada sevinç ve huzur kaynağı yüce makamlar bulunacak;"
-  },
-  {
-   "verseNo": 14,
-   "source": "diyanet",
-   "text": "Arınan ve Rabbinin adını anıp, namaz kılan kimse mutlaka kurtuluşa erer."
-  },
-  {
-   "verseNo": 14,
-   "source": "esed",
-   "text": "doldurulmuş kadehler"
-  },
-  {
-   "verseNo": 14,
-   "source": "okuyan",
-   "text": "Konulmuş kadehler,"
-  },
-  {
-   "verseNo": 14,
-   "source": "islamoglu",
-   "text": "her an içime hazır dolu dolu tarifsiz kupalar,"
-  },
-  {
-   "verseNo": 15,
-   "source": "diyanet",
-   "text": "Arınan ve Rabbinin adını anıp, namaz kılan kimse mutlaka kurtuluşa erer."
-  },
-  {
-   "verseNo": 15,
-   "source": "esed",
-   "text": "dizilmiş yastıklar"
-  },
-  {
-   "verseNo": 15,
-   "source": "okuyan",
-   "text": "Dizilmiş yastıklar,"
-  },
-  {
-   "verseNo": 15,
-   "source": "islamoglu",
-   "text": "yan yana dizilmiş minderler"
-  },
-  {
-   "verseNo": 16,
-   "source": "diyanet",
-   "text": "Fakat sizler dünya hayatını tercih ediyorsunuz."
-  },
-  {
-   "verseNo": 16,
-   "source": "esed",
-   "text": "ve serilmiş halılar"
-  },
-  {
-   "verseNo": 16,
-   "source": "okuyan",
-   "text": "Serilmiş halılar (var)."
-  },
-  {
-   "verseNo": 16,
-   "source": "islamoglu",
-   "text": "ve serilmiş halılar…"
-  },
-  {
-   "verseNo": 17,
-   "source": "diyanet",
-   "text": "Oysa âhiret, daha hayırlı ve süreklidir."
-  },
-  {
-   "verseNo": 17,
-   "source": "esed",
-   "text": "Peki, (o yeniden dirilmeyi inkar edenler) bakmazlar mı yağmur yüklü bulutlara (ve görmezler mi) nasıl yaratılmış onlar"
-  },
-  {
-   "verseNo": 17,
-   "source": "okuyan",
-   "text": "Bakmazlar mı o deveye, nasıl yaratılmış!"
-  },
-  {
-   "verseNo": 17,
-   "source": "islamoglu",
-   "text": "PEKİ, (yeniden dirilişi inkâr edenler) yağmur yüklü bulutlara bakmazlar mı nasıl yaratılmış?"
-  },
-  {
-   "verseNo": 18,
-   "source": "diyanet",
-   "text": "Şüphesiz bu hükümler ilk sayfalarda, İbrahim ve Mûsâ'nın sayfalarında da vardır."
-  },
-  {
-   "verseNo": 18,
-   "source": "esed",
-   "text": "Ve (bakmazlar mı) göğe, nasıl yükseltilmiş"
-  },
-  {
-   "verseNo": 18,
-   "source": "okuyan",
-   "text": "Göğe, nasıl yükseltilmiş!"
-  },
-  {
-   "verseNo": 18,
-   "source": "islamoglu",
-   "text": "Ve gök kubbeye (bakmazlar mı), nasıl yükseltilmiş?"
-  },
-  {
-   "verseNo": 19,
-   "source": "diyanet",
-   "text": "Şüphesiz bu hükümler ilk sayfalarda, İbrahim ve Mûsâ'nın sayfalarında da vardır."
-  },
-  {
-   "verseNo": 19,
-   "source": "esed",
-   "text": "Ve dağlara, nasıl sağlamca dikilmiş"
-  },
-  {
-   "verseNo": 19,
-   "source": "okuyan",
-   "text": "Dağlara, nasıl dikilmiş!"
-  },
-  {
-   "verseNo": 19,
-   "source": "islamoglu",
-   "text": "Ve dağlara (bakmazlar mı), nasıl dikilmiş?"
-  },
-  {
-   "verseNo": 20,
-   "source": "diyanet",
-   "text": "Yeryüzüne bakmıyorlar mı, nasıl yayılmıştır!"
-  },
-  {
-   "verseNo": 20,
-   "source": "esed",
-   "text": "Ve toprağa, nasıl yayılmış"
-  },
-  {
-   "verseNo": 20,
-   "source": "okuyan",
-   "text": "Yere, nasıl yayılmış!"
-  },
-  {
-   "verseNo": 20,
-   "source": "islamoglu",
-   "text": "Ve yeryüzüne (bakmazlar mı), nasıl yayılmış?"
-  },
-  {
-   "verseNo": 21,
-   "source": "diyanet",
-   "text": "Artık sen öğüt ver! Sen ancak bir öğüt vericisin."
-  },
-  {
-   "verseNo": 21,
-   "source": "esed",
-   "text": "İşte böyle, (ey Peygamber,) onlara öğüt ver; senin görevin yalnız öğüt vermektir"
-  },
-  {
-   "verseNo": 21,
-   "source": "okuyan",
-   "text": "Hatırlat! Sen sadece hatırlatıcısın."
-  },
-  {
-   "verseNo": 21,
-   "source": "islamoglu",
-   "text": "İmdi sen (ey Nebî) hatırlat! Çünkü sen sadece bir hatırlatıcısın;"
-  },
-  {
-   "verseNo": 22,
-   "source": "diyanet",
-   "text": "Sen, onlar üzerinde bir zorba değilsin."
-  },
-  {
-   "verseNo": 22,
-   "source": "esed",
-   "text": "sen onları (inanmaya) zorlayamazsın"
-  },
-  {
-   "verseNo": 22,
-   "source": "okuyan",
-   "text": "Onların üzerinde bir zorba değilsin."
-  },
-  {
-   "verseNo": 22,
-   "source": "islamoglu",
-   "text": "onlara inanç dayatan bir zorba değilsin!"
-  },
-  {
-   "verseNo": 23,
-   "source": "diyanet",
-   "text": "Ancak, kim yüz çevirir, inkâr ederse, Allah onu en büyük azaba uğratır."
-  },
-  {
-   "verseNo": 23,
-   "source": "esed",
-   "text": "Ancak, kim hakikati inkara şartlanmış olarak yüz çevirip uzaklaşırsa"
-  },
-  {
-   "verseNo": 23,
-   "source": "okuyan",
-   "text": "Ancak, kim yüz çevirir ve inkâr ederse,"
-  },
-  {
-   "verseNo": 23,
-   "source": "islamoglu",
-   "text": "İlla ki yüz çeviren ve inkâr eden olacaktır:"
-  },
-  {
-   "verseNo": 24,
-   "source": "diyanet",
-   "text": "Ancak, kim yüz çevirir, inkâr ederse, Allah onu en büyük azaba uğratır."
-  },
-  {
-   "verseNo": 24,
-   "source": "esed",
-   "text": "Allah ona (öteki dünyada) en büyük azabı tattıracaktır"
-  },
-  {
-   "verseNo": 24,
-   "source": "okuyan",
-   "text": "Allah ona en büyük azapla azap eder."
-  },
-  {
-   "verseNo": 24,
-   "source": "islamoglu",
-   "text": "Allah onu, en büyük azap ile azaplandıracaktır."
-  },
-  {
-   "verseNo": 25,
-   "source": "diyanet",
-   "text": "Şüphesiz onların dönüşü ancak bizedir."
-  },
-  {
-   "verseNo": 25,
-   "source": "esed",
-   "text": "Bizedir onların dönüşleri"
-  },
-  {
-   "verseNo": 25,
-   "source": "okuyan",
-   "text": "Şüphesiz ki onların dönüşü sadece bizedir."
-  },
-  {
-   "verseNo": 25,
-   "source": "islamoglu",
-   "text": "Bakın: Bizedir onların nihâî dönüşü."
-  },
-  {
-   "verseNo": 26,
-   "source": "diyanet",
-   "text": "Sonra onların sorguya çekilmesi de sadece bize aittir."
-  },
-  {
-   "verseNo": 26,
-   "source": "esed",
-   "text": "ve Bize düşer onları hesaba çekmek"
-  },
-  {
-   "verseNo": 26,
-   "source": "okuyan",
-   "text": "Sonra onların hesabı da şüphesiz ki sadece bize aittir."
-  },
-  {
-   "verseNo": 26,
-   "source": "islamoglu",
-   "text": "Yine bakın: Bize düşer onları hesaba çekmek."
-  }
- ]
+  "stationNo": 33,
+  "surahNo": 88,
+  "nuzulOrderOkuyan": 61,
+  "name": "Gâşiye",
+  "nameArabic": "الغاشية",
+  "nameMeaning": "Kaplayan, sarıp bürüyen",
+  "verseCount": 26,
+  "periodDiyanet": "Mekke",
+  "periodOkuyan": "Mekke",
+  "revelationTiming": "Mekke dönemi",
+  "stationTitle": "Kimi yüzler çalışmış ama yorulmuş, kimi yüzler huzurlu. Fark, çabanın yönünde.",
+  "introduction": "Gâşiye suresi, adını birinci ayetteki \"el-Gâşiye\" kelimesinden alır; kaplayan, sarıp bürüyen anlamındadır. Yirmi altı ayetlik sure Mekke döneminde inmiştir.\n\nSure iki yüz tipini karşılaştırır: zillet içinde, çalışmış ama yorulmuş yüzler ile nimet içinde, yaptıklarından hoşnut yüzler. Ardından doğaya bakma çağrısı gelir. Kapanışta hatırlatıcının rolü ile hesap soranın rolü kesin biçimde ayrılır.",
+  "occasionOfRevelation": "Sure Mekke döneminde inmiştir; nüzulüne dair belirli bir olay anlatısı yoktur.\n\nÜçüncü ayetteki ifade dikkatli okunmayı hak eder: \"âmiletün nâsibe\" — çalışan, yorulan. Ayet, cezayı tembelliğe değil boşa çıkmış çabaya bağlar. Tefsirler bu ifadeyi, dünyada yoğun biçimde çalışıp bir karşılık elde edemeyenler olarak açıklar.\n\nYirmi birinci ve yirmi ikinci ayetler surenin yöntem beyanıdır: \"Sen ancak bir öğüt vericisin; onlar üzerinde bir zorba değilsin.\" Bu, tebliğ ile zorlamayı birbirinden ayıran açık bir sınır çizgisidir. Sure bunun sorumsuzluk anlamına gelmediğini de belirtir: hesap ilahi adalete aittir (88:23-26).",
+  "occasionSources": "Diyanet İşleri Başkanlığı Kur'an Yolu Tefsiri, Gâşiye suresi girişi; TDV İslâm Ansiklopedisi, \"Gāşiye Sûresi\" maddesi.",
+  "contemporaryMeaning": "Surenin en çarpıcı ifadesi \"çalışmış ama yorulmuş\" olmaktır. Metin tembelliği değil, yönü yanlış olan çabayı eleştirir. Asıl trajedi çalışmamak değil, boşa yorulmaktır.\n\nBu, bugünün tükenmişlik tartışmasına doğrudan temas eder. Yoğun çalışma tek başına bir değer üretmez; çabanın nereye gittiği belirleyicidir.\n\nKarşı taraftaki tasvir de dikkat çekicidir: \"yaptıklarından dolayı hoşnuttur\" (88:9) ve orada \"hiçbir boş söz (lâğiye) işitilmez\" (88:11). Derinliğin olduğu yerde yüzeysel gürültünün bitmesi, surenin sunduğu huzur tasviridir.\n\nKapanıştaki \"zorba değilsin\" ilkesi ise en güncel derstir: hakikat kimseye dayatılamaz. İnsanın özgür iradesine saygı, metnin kendi koyduğu sınırdır.",
+  "keyTerms": [
+    {
+      "term": "el-gâşiye",
+      "arabic": "الْغَاشِيَة",
+      "verseRef": "88:1",
+      "meaning": "Kaplayan, sarıp bürüyen. Kıyametin adlarından biri; her tarafı kuşatma imgesi."
+    },
+    {
+      "term": "âmiletün nâsibe",
+      "arabic": "عَامِلَةٌ نَّاصِبَة",
+      "verseRef": "88:3",
+      "meaning": "Çalışan, yorulan. Cezanın tembelliğe değil boşa çıkmış çabaya bağlanması."
+    },
+    {
+      "term": "lâğiye",
+      "arabic": "لَاغِيَة",
+      "verseRef": "88:11",
+      "meaning": "Boş, anlamsız söz. Huzurun tarifinde yüzeysel gürültünün yokluğu."
+    },
+    {
+      "term": "musaytır",
+      "arabic": "مُّصَيْطِر",
+      "verseRef": "88:22",
+      "meaning": "Zorba, tahakküm kuran, dayatan. \"Sen onlar üzerinde bir zorba değilsin\" ifadesinde geçer."
+    }
+  ],
+  "themes": [
+    {
+      "label": "Boşa yorulmak",
+      "body": "Metin tembelliği değil yönü yanlış olan çabayı eleştirir. Asıl trajedi çalışmamak değil, hiçbir yere varmayan bir yorgunluktur."
+    },
+    {
+      "label": "Huzurun tarifi: gürültünün bitmesi",
+      "body": "Nimet içindeki yüzler yaptıklarından hoşnuttur ve orada boş söz işitilmez. Derinliğin olduğu yerde yüzeysel gürültü biter."
+    },
+    {
+      "label": "Doğadaki sessiz düzene bakmak",
+      "body": "Devenin yaratılışı, göğün yükseltilişi, dağların dikilişi, yerin serilişi. İnsan kendisini varoluşun tek hâkimi sanmak yerine düzene bakmaya çağrılır."
+    },
+    {
+      "label": "Hakikat dayatılamaz",
+      "body": "\"Sen ancak bir öğüt vericisin; onlar üzerinde bir zorba değilsin.\" Tebliğ ile zorlama arasındaki sınır metnin kendisi tarafından çizilir."
+    },
+    {
+      "label": "Rollerin ayrılması",
+      "body": "İnsan hatırlatır, yargılamaz. Hesap sorma yetkisi ile hatırlatma sorumluluğu kesin biçimde birbirinden ayrılır."
+    }
+  ],
+  "questions": [
+    "Harcadığım efor beni bir yere götürüyor mu, yoksa sadece yoruyor mu?",
+    "Günümün ne kadarı boş söz ve gürültüyle geçiyor? Derinleşmek için ne yapıyorum?",
+    "Doğru bildiğim şeyi başkasına dayatıyor muyum? Hatırlatmakla zorlamak arasındaki çizgiyi nerede geçiyorum?"
+  ],
+  "verses": [
+    {
+      "verseNo": 1,
+      "textArabic": "بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ هَلْ أَتَىٰكَ حَدِيثُ ٱلْغَٰشِيَةِ"
+    },
+    {
+      "verseNo": 2,
+      "textArabic": "وُجُوهٌۭ يَوْمَئِذٍ خَٰشِعَةٌ"
+    },
+    {
+      "verseNo": 3,
+      "textArabic": "عَامِلَةٌۭ نَّاصِبَةٌۭ"
+    },
+    {
+      "verseNo": 4,
+      "textArabic": "تَصْلَىٰ نَارًا حَامِيَةًۭ"
+    },
+    {
+      "verseNo": 5,
+      "textArabic": "تُسْقَىٰ مِنْ عَيْنٍ ءَانِيَةٍۢ"
+    },
+    {
+      "verseNo": 6,
+      "textArabic": "لَّيْسَ لَهُمْ طَعَامٌ إِلَّا مِن ضَرِيعٍۢ"
+    },
+    {
+      "verseNo": 7,
+      "textArabic": "لَّا يُسْمِنُ وَلَا يُغْنِى مِن جُوعٍۢ"
+    },
+    {
+      "verseNo": 8,
+      "textArabic": "وُجُوهٌۭ يَوْمَئِذٍۢ نَّاعِمَةٌۭ"
+    },
+    {
+      "verseNo": 9,
+      "textArabic": "لِّسَعْيِهَا رَاضِيَةٌۭ"
+    },
+    {
+      "verseNo": 10,
+      "textArabic": "فِى جَنَّةٍ عَالِيَةٍۢ"
+    },
+    {
+      "verseNo": 11,
+      "textArabic": "لَّا تَسْمَعُ فِيهَا لَٰغِيَةًۭ"
+    },
+    {
+      "verseNo": 12,
+      "textArabic": "فِيهَا عَيْنٌۭ جَارِيَةٌۭ"
+    },
+    {
+      "verseNo": 13,
+      "textArabic": "فِيهَا سُرُرٌۭ مَّرْفُوعَةٌۭ"
+    },
+    {
+      "verseNo": 14,
+      "textArabic": "وَأَكْوَابٌۭ مَّوْضُوعَةٌۭ"
+    },
+    {
+      "verseNo": 15,
+      "textArabic": "وَنَمَارِقُ مَصْفُوفَةٌۭ"
+    },
+    {
+      "verseNo": 16,
+      "textArabic": "وَزَرَابِىُّ مَبْثُوثَةٌ"
+    },
+    {
+      "verseNo": 17,
+      "textArabic": "أَفَلَا يَنظُرُونَ إِلَى ٱلْإِبِلِ كَيْفَ خُلِقَتْ"
+    },
+    {
+      "verseNo": 18,
+      "textArabic": "وَإِلَى ٱلسَّمَآءِ كَيْفَ رُفِعَتْ"
+    },
+    {
+      "verseNo": 19,
+      "textArabic": "وَإِلَى ٱلْجِبَالِ كَيْفَ نُصِبَتْ"
+    },
+    {
+      "verseNo": 20,
+      "textArabic": "وَإِلَى ٱلْأَرْضِ كَيْفَ سُطِحَتْ"
+    },
+    {
+      "verseNo": 21,
+      "textArabic": "فَذَكِّرْ إِنَّمَآ أَنتَ مُذَكِّرٌۭ"
+    },
+    {
+      "verseNo": 22,
+      "textArabic": "لَّسْتَ عَلَيْهِم بِمُصَيْطِرٍ"
+    },
+    {
+      "verseNo": 23,
+      "textArabic": "إِلَّا مَن تَوَلَّىٰ وَكَفَرَ"
+    },
+    {
+      "verseNo": 24,
+      "textArabic": "فَيُعَذِّبُهُ ٱللَّهُ ٱلْعَذَابَ ٱلْأَكْبَرَ"
+    },
+    {
+      "verseNo": 25,
+      "textArabic": "إِنَّ إِلَيْنَآ إِيَابَهُمْ"
+    },
+    {
+      "verseNo": 26,
+      "textArabic": "ثُمَّ إِنَّ عَلَيْنَا حِسَابَهُم"
+    }
+  ],
+  "translations": [
+    {
+      "verseNo": 1,
+      "verseNoEnd": null,
+      "source": "ai",
+      "text": "Gâşiye haberinin sana ulaştı mı?"
+    },
+    {
+      "verseNo": 1,
+      "source": "diyanet",
+      "text": "Yüce Rabbinin adını tespih et."
+    },
+    {
+      "verseNo": 1,
+      "source": "esed",
+      "text": "Kabus Gibi Çöken´den haberin var mı"
+    },
+    {
+      "verseNo": 1,
+      "source": "islamoglu",
+      "text": "KASVET gibi sarıp sarmalayan olayın haberi sana ulaştı mı?"
+    },
+    {
+      "verseNo": 1,
+      "source": "okuyan",
+      "text": "(Her şeyi) kaplayacak olanın haberi sana geldi, (değil) mi?"
+    },
+    {
+      "verseNo": 2,
+      "verseNoEnd": null,
+      "source": "ai",
+      "text": "O gün bazı yüzler başı eğik olacak."
+    },
+    {
+      "verseNo": 2,
+      "source": "diyanet",
+      "text": "O, yaratıp şekillendiren, âhenk veren ve düzene koyandır."
+    },
+    {
+      "verseNo": 2,
+      "source": "esed",
+      "text": "Bazı yüzler o Gün yere bakacak"
+    },
+    {
+      "verseNo": 2,
+      "source": "islamoglu",
+      "text": "Bazıları vardır o gün; zillet içinde yıkılmıştır;"
+    },
+    {
+      "verseNo": 2,
+      "source": "okuyan",
+      "text": "O gün bazı yüzler düşüktür."
+    },
+    {
+      "verseNo": 3,
+      "verseNoEnd": null,
+      "source": "ai",
+      "text": "Çalışıyor ve bitkin."
+    },
+    {
+      "verseNo": 3,
+      "source": "diyanet",
+      "text": "O, (her şeyi) ölçüyle yapıp yönlendirendir."
+    },
+    {
+      "verseNo": 3,
+      "source": "esed",
+      "text": "(günahın yükü altında) bitkin düşmüş, (korku ile) sarsılmış"
+    },
+    {
+      "verseNo": 3,
+      "source": "islamoglu",
+      "text": "işi bitmiş, eli kolu dökülmüştür;"
+    },
+    {
+      "verseNo": 3,
+      "source": "okuyan",
+      "text": "(Onlar) çalışandır, yorulandır."
+    },
+    {
+      "verseNo": 4,
+      "verseNoEnd": null,
+      "source": "ai",
+      "text": "Çok sıcak bir ateşe yakılır."
+    },
+    {
+      "verseNo": 4,
+      "source": "diyanet",
+      "text": "O, yeşil bitki örtüsünü çıkaran, sonra da onları çürüyüp kararmış çerçöpe çevirendir."
+    },
+    {
+      "verseNo": 4,
+      "source": "esed",
+      "text": "kızgın bir ateşe girmek"
+    },
+    {
+      "verseNo": 4,
+      "source": "islamoglu",
+      "text": "tarifi imkânsız kızgın bir ateşi boylarlar,"
+    },
+    {
+      "verseNo": 4,
+      "source": "okuyan",
+      "text": "Kızgın ateşe girecektir."
+    },
+    {
+      "verseNo": 5,
+      "verseNoEnd": null,
+      "source": "ai",
+      "text": "Kaynar bir pınardan içirilir."
+    },
+    {
+      "verseNo": 5,
+      "source": "diyanet",
+      "text": "O, yeşil bitki örtüsünü çıkaran, sonra da onları çürüyüp kararmış çerçöpe çevirendir."
+    },
+    {
+      "verseNo": 5,
+      "source": "esed",
+      "text": "ve kaynar bir pınardan tatmak üzere"
+    },
+    {
+      "verseNo": 5,
+      "source": "islamoglu",
+      "text": "zehir gibi bir (umutsuzluğun) pınarından sulanırlar;"
+    },
+    {
+      "verseNo": 5,
+      "source": "okuyan",
+      "text": "Kaynar bir (su) kaynağından (kendilerine) içirilecektir."
+    },
+    {
+      "verseNo": 6,
+      "verseNoEnd": null,
+      "source": "ai",
+      "text": "Onlar için yiyecek yoktur, ancak dikenli bir bitkiden."
+    },
+    {
+      "verseNo": 6,
+      "source": "diyanet",
+      "text": "Sana Kur'an'ı okutacağız ve sen onu unutmayacaksın."
+    },
+    {
+      "verseNo": 6,
+      "source": "esed",
+      "text": "Hiçbir yiyecekleri yok kuru dikenlerin acılığından başka"
+    },
+    {
+      "verseNo": 6,
+      "source": "islamoglu",
+      "text": "onlara hiçbir yiyecek yoktur, ancak onursuzların yiyeceği vardır;"
+    },
+    {
+      "verseNo": 6,
+      "source": "okuyan",
+      "text": "Onlar için kuru dikenden başka yiyecek yoktur."
+    },
+    {
+      "verseNo": 7,
+      "verseNoEnd": null,
+      "source": "ai",
+      "text": "Ne şişmanlatır ne de açlığı giderir."
+    },
+    {
+      "verseNo": 7,
+      "source": "diyanet",
+      "text": "Ancak Allah'ın dilediği başka. Şüphesiz O, açık olanı da bilir, gizliyi de."
+    },
+    {
+      "verseNo": 7,
+      "source": "esed",
+      "text": "ne bir güç veren ne de açlığı gideren (dikenlerin)"
+    },
+    {
+      "verseNo": 7,
+      "source": "islamoglu",
+      "text": "ama ne besleyicidir ne doyurucudur."
+    },
+    {
+      "verseNo": 7,
+      "source": "okuyan",
+      "text": "Hem beslemez hem de açlığı gidermez."
+    },
+    {
+      "verseNo": 8,
+      "verseNoEnd": null,
+      "source": "ai",
+      "text": "O gün bazı yüzler rahat olacak."
+    },
+    {
+      "verseNo": 8,
+      "source": "diyanet",
+      "text": "Biz seni en kolay olana kolayca ileteceğiz."
+    },
+    {
+      "verseNo": 8,
+      "source": "esed",
+      "text": "Bazı yüzler (de) o Gün mutlulukla parıldayacak"
+    },
+    {
+      "verseNo": 8,
+      "source": "islamoglu",
+      "text": "Bazıları da vardır o gün; nimete gark olmuştur;"
+    },
+    {
+      "verseNo": 8,
+      "source": "okuyan",
+      "text": "O gün bazı yüzler de nimet içindedir (mutludur)."
+    },
+    {
+      "verseNo": 9,
+      "verseNoEnd": null,
+      "source": "ai",
+      "text": "Çabalarından razı olacak."
+    },
+    {
+      "verseNo": 9,
+      "source": "diyanet",
+      "text": "O halde, eğer öğüt fayda verirse, öğüt ver."
+    },
+    {
+      "verseNo": 9,
+      "source": "esed",
+      "text": "çabaları(nın meyvesini tatmak)tan memnun"
+    },
+    {
+      "verseNo": 9,
+      "source": "islamoglu",
+      "text": "sonuçta gayretinin meyvesinden hoşnut ve razı olmuştur;"
+    },
+    {
+      "verseNo": 9,
+      "source": "okuyan",
+      "text": "Çalışmalarından memnundur."
+    },
+    {
+      "verseNo": 10,
+      "verseNoEnd": null,
+      "source": "ai",
+      "text": "Yüksek bir cennette."
+    },
+    {
+      "verseNo": 10,
+      "source": "diyanet",
+      "text": "Allah'a karşı derin saygı duyarak ondan korkan öğüt alacaktır."
+    },
+    {
+      "verseNo": 10,
+      "source": "esed",
+      "text": "harika bir bahçede"
+    },
+    {
+      "verseNo": 10,
+      "source": "islamoglu",
+      "text": "kendini tarifsiz bir Cennet’te, yüce bir makamda bulmuştur."
+    },
+    {
+      "verseNo": 10,
+      "source": "okuyan",
+      "text": "Yüksek bir cennettedir."
+    },
+    {
+      "verseNo": 11,
+      "verseNoEnd": null,
+      "source": "ai",
+      "text": "Orada boş söz işitilmez."
+    },
+    {
+      "verseNo": 11,
+      "source": "diyanet",
+      "text": "En büyük ateşe girecek olan en bedbaht kimse (kâfir) ise, öğüt almaktan kaçınır."
+    },
+    {
+      "verseNo": 11,
+      "source": "esed",
+      "text": "boş lakırdı işitmeyecekleri (bir bahçede)"
+    },
+    {
+      "verseNo": 11,
+      "source": "islamoglu",
+      "text": "Orada boş bir lakırdı işitmeyecek,"
+    },
+    {
+      "verseNo": 11,
+      "source": "okuyan",
+      "text": "Orada boş söz duymaz."
+    },
+    {
+      "verseNo": 12,
+      "verseNoEnd": null,
+      "source": "ai",
+      "text": "Orada akan bir pınar vardır."
+    },
+    {
+      "verseNo": 12,
+      "source": "diyanet",
+      "text": "En büyük ateşe girecek olan en bedbaht kimse (kâfir) ise, öğüt almaktan kaçınır."
+    },
+    {
+      "verseNo": 12,
+      "source": "esed",
+      "text": "Sayısız pınarlar akacak orada"
+    },
+    {
+      "verseNo": 12,
+      "source": "islamoglu",
+      "text": "orada tarifsiz bir (mutluluk) pınarı hep çağıldayacak,"
+    },
+    {
+      "verseNo": 12,
+      "source": "okuyan",
+      "text": "Orada akan (su) kaynağı var."
+    },
+    {
+      "verseNo": 13,
+      "verseNoEnd": null,
+      "source": "ai",
+      "text": "Orada yükseltilmiş sedirler vardır."
+    },
+    {
+      "verseNo": 13,
+      "source": "diyanet",
+      "text": "Sonra orada ne ölür (kurtulur), ne de (rahat bir hayat) yaşar."
+    },
+    {
+      "verseNo": 13,
+      "source": "esed",
+      "text": "(ve) yükseltilmiş (mutluluk) tahtları"
+    },
+    {
+      "verseNo": 13,
+      "source": "islamoglu",
+      "text": "orada sevinç ve huzur kaynağı yüce makamlar bulunacak;"
+    },
+    {
+      "verseNo": 13,
+      "source": "okuyan",
+      "text": "Orada yükseltilmiş tahtlar var."
+    },
+    {
+      "verseNo": 14,
+      "verseNoEnd": null,
+      "source": "ai",
+      "text": "Orada konulmuş kâseler vardır."
+    },
+    {
+      "verseNo": 14,
+      "source": "diyanet",
+      "text": "Arınan ve Rabbinin adını anıp, namaz kılan kimse mutlaka kurtuluşa erer."
+    },
+    {
+      "verseNo": 14,
+      "source": "esed",
+      "text": "doldurulmuş kadehler"
+    },
+    {
+      "verseNo": 14,
+      "source": "islamoglu",
+      "text": "her an içime hazır dolu dolu tarifsiz kupalar,"
+    },
+    {
+      "verseNo": 14,
+      "source": "okuyan",
+      "text": "Konulmuş kadehler,"
+    },
+    {
+      "verseNo": 15,
+      "verseNoEnd": null,
+      "source": "ai",
+      "text": "Orada dizilmiş yastıklar vardır."
+    },
+    {
+      "verseNo": 15,
+      "source": "diyanet",
+      "text": "Arınan ve Rabbinin adını anıp, namaz kılan kimse mutlaka kurtuluşa erer."
+    },
+    {
+      "verseNo": 15,
+      "source": "esed",
+      "text": "dizilmiş yastıklar"
+    },
+    {
+      "verseNo": 15,
+      "source": "islamoglu",
+      "text": "yan yana dizilmiş minderler"
+    },
+    {
+      "verseNo": 15,
+      "source": "okuyan",
+      "text": "Dizilmiş yastıklar,"
+    },
+    {
+      "verseNo": 16,
+      "verseNoEnd": null,
+      "source": "ai",
+      "text": "Orada serili halılar vardır."
+    },
+    {
+      "verseNo": 16,
+      "source": "diyanet",
+      "text": "Fakat sizler dünya hayatını tercih ediyorsunuz."
+    },
+    {
+      "verseNo": 16,
+      "source": "esed",
+      "text": "ve serilmiş halılar"
+    },
+    {
+      "verseNo": 16,
+      "source": "islamoglu",
+      "text": "ve serilmiş halılar…"
+    },
+    {
+      "verseNo": 16,
+      "source": "okuyan",
+      "text": "Serilmiş halılar (var)."
+    },
+    {
+      "verseNo": 17,
+      "verseNoEnd": null,
+      "source": "ai",
+      "text": "Develere bakmazlar mı, nasıl yaratıldıklarına?"
+    },
+    {
+      "verseNo": 17,
+      "source": "diyanet",
+      "text": "Oysa âhiret, daha hayırlı ve süreklidir."
+    },
+    {
+      "verseNo": 17,
+      "source": "esed",
+      "text": "Peki, (o yeniden dirilmeyi inkar edenler) bakmazlar mı yağmur yüklü bulutlara (ve görmezler mi) nasıl yaratılmış onlar"
+    },
+    {
+      "verseNo": 17,
+      "source": "islamoglu",
+      "text": "PEKİ, (yeniden dirilişi inkâr edenler) yağmur yüklü bulutlara bakmazlar mı nasıl yaratılmış?"
+    },
+    {
+      "verseNo": 17,
+      "source": "okuyan",
+      "text": "Bakmazlar mı o deveye, nasıl yaratılmış!"
+    },
+    {
+      "verseNo": 18,
+      "verseNoEnd": null,
+      "source": "ai",
+      "text": "Göğe bakmazlar mı, nasıl yükseltildiğine?"
+    },
+    {
+      "verseNo": 18,
+      "source": "diyanet",
+      "text": "Şüphesiz bu hükümler ilk sayfalarda, İbrahim ve Mûsâ'nın sayfalarında da vardır."
+    },
+    {
+      "verseNo": 18,
+      "source": "esed",
+      "text": "Ve (bakmazlar mı) göğe, nasıl yükseltilmiş"
+    },
+    {
+      "verseNo": 18,
+      "source": "islamoglu",
+      "text": "Ve gök kubbeye (bakmazlar mı), nasıl yükseltilmiş?"
+    },
+    {
+      "verseNo": 18,
+      "source": "okuyan",
+      "text": "Göğe, nasıl yükseltilmiş!"
+    },
+    {
+      "verseNo": 19,
+      "verseNoEnd": null,
+      "source": "ai",
+      "text": "Dağlara bakmazlar mı, nasıl dikildiklerine?"
+    },
+    {
+      "verseNo": 19,
+      "source": "diyanet",
+      "text": "Şüphesiz bu hükümler ilk sayfalarda, İbrahim ve Mûsâ'nın sayfalarında da vardır."
+    },
+    {
+      "verseNo": 19,
+      "source": "esed",
+      "text": "Ve dağlara, nasıl sağlamca dikilmiş"
+    },
+    {
+      "verseNo": 19,
+      "source": "islamoglu",
+      "text": "Ve dağlara (bakmazlar mı), nasıl dikilmiş?"
+    },
+    {
+      "verseNo": 19,
+      "source": "okuyan",
+      "text": "Dağlara, nasıl dikilmiş!"
+    },
+    {
+      "verseNo": 20,
+      "verseNoEnd": null,
+      "source": "ai",
+      "text": "Yeryüzüne bakmazlar mı, nasıl yayıldığına?"
+    },
+    {
+      "verseNo": 20,
+      "source": "diyanet",
+      "text": "Yeryüzüne bakmıyorlar mı, nasıl yayılmıştır!"
+    },
+    {
+      "verseNo": 20,
+      "source": "esed",
+      "text": "Ve toprağa, nasıl yayılmış"
+    },
+    {
+      "verseNo": 20,
+      "source": "islamoglu",
+      "text": "Ve yeryüzüne (bakmazlar mı), nasıl yayılmış?"
+    },
+    {
+      "verseNo": 20,
+      "source": "okuyan",
+      "text": "Yere, nasıl yayılmış!"
+    },
+    {
+      "verseNo": 21,
+      "verseNoEnd": null,
+      "source": "ai",
+      "text": "O halde hatırlat; sen ancak hatırlatansın."
+    },
+    {
+      "verseNo": 21,
+      "source": "diyanet",
+      "text": "Artık sen öğüt ver! Sen ancak bir öğüt vericisin."
+    },
+    {
+      "verseNo": 21,
+      "source": "esed",
+      "text": "İşte böyle, (ey Peygamber,) onlara öğüt ver; senin görevin yalnız öğüt vermektir"
+    },
+    {
+      "verseNo": 21,
+      "source": "islamoglu",
+      "text": "İmdi sen (ey Nebî) hatırlat! Çünkü sen sadece bir hatırlatıcısın;"
+    },
+    {
+      "verseNo": 21,
+      "source": "okuyan",
+      "text": "Hatırlat! Sen sadece hatırlatıcısın."
+    },
+    {
+      "verseNo": 22,
+      "verseNoEnd": null,
+      "source": "ai",
+      "text": "Onlar üzerinde zorlayıcı değilsin."
+    },
+    {
+      "verseNo": 22,
+      "source": "diyanet",
+      "text": "Sen, onlar üzerinde bir zorba değilsin."
+    },
+    {
+      "verseNo": 22,
+      "source": "esed",
+      "text": "sen onları (inanmaya) zorlayamazsın"
+    },
+    {
+      "verseNo": 22,
+      "source": "islamoglu",
+      "text": "onlara inanç dayatan bir zorba değilsin!"
+    },
+    {
+      "verseNo": 22,
+      "source": "okuyan",
+      "text": "Onların üzerinde bir zorba değilsin."
+    },
+    {
+      "verseNo": 23,
+      "verseNoEnd": null,
+      "source": "ai",
+      "text": "Ancak yüz çevirip inkar eden kimse."
+    },
+    {
+      "verseNo": 23,
+      "source": "diyanet",
+      "text": "Ancak, kim yüz çevirir, inkâr ederse, Allah onu en büyük azaba uğratır."
+    },
+    {
+      "verseNo": 23,
+      "source": "esed",
+      "text": "Ancak, kim hakikati inkara şartlanmış olarak yüz çevirip uzaklaşırsa"
+    },
+    {
+      "verseNo": 23,
+      "source": "islamoglu",
+      "text": "İlla ki yüz çeviren ve inkâr eden olacaktır:"
+    },
+    {
+      "verseNo": 23,
+      "source": "okuyan",
+      "text": "Ancak, kim yüz çevirir ve inkâr ederse,"
+    },
+    {
+      "verseNo": 24,
+      "verseNoEnd": null,
+      "source": "ai",
+      "text": "Allah onu en büyük azapla azap eder."
+    },
+    {
+      "verseNo": 24,
+      "source": "diyanet",
+      "text": "Ancak, kim yüz çevirir, inkâr ederse, Allah onu en büyük azaba uğratır."
+    },
+    {
+      "verseNo": 24,
+      "source": "esed",
+      "text": "Allah ona (öteki dünyada) en büyük azabı tattıracaktır"
+    },
+    {
+      "verseNo": 24,
+      "source": "islamoglu",
+      "text": "Allah onu, en büyük azap ile azaplandıracaktır."
+    },
+    {
+      "verseNo": 24,
+      "source": "okuyan",
+      "text": "Allah ona en büyük azapla azap eder."
+    },
+    {
+      "verseNo": 25,
+      "verseNoEnd": null,
+      "source": "ai",
+      "text": "Şüphesiz dönüşleri bize olacaktır."
+    },
+    {
+      "verseNo": 25,
+      "source": "diyanet",
+      "text": "Şüphesiz onların dönüşü ancak bizedir."
+    },
+    {
+      "verseNo": 25,
+      "source": "esed",
+      "text": "Bizedir onların dönüşleri"
+    },
+    {
+      "verseNo": 25,
+      "source": "islamoglu",
+      "text": "Bakın: Bizedir onların nihâî dönüşü."
+    },
+    {
+      "verseNo": 25,
+      "source": "okuyan",
+      "text": "Şüphesiz ki onların dönüşü sadece bizedir."
+    },
+    {
+      "verseNo": 26,
+      "verseNoEnd": null,
+      "source": "ai",
+      "text": "Sonra hesapları bizim üzerimizdedir."
+    },
+    {
+      "verseNo": 26,
+      "source": "diyanet",
+      "text": "Sonra onların sorguya çekilmesi de sadece bize aittir."
+    },
+    {
+      "verseNo": 26,
+      "source": "esed",
+      "text": "ve Bize düşer onları hesaba çekmek"
+    },
+    {
+      "verseNo": 26,
+      "source": "islamoglu",
+      "text": "Yine bakın: Bize düşer onları hesaba çekmek."
+    },
+    {
+      "verseNo": 26,
+      "source": "okuyan",
+      "text": "Sonra onların hesabı da şüphesiz ki sadece bize aittir."
+    }
+  ],
+  "aiParagraph": "Bir gün her şey hesaba çekilecek — bu, surenin ilk nefesinden son kelimesine kadar taşıdığı ağırlık. O gün bazı yüzler yıpranmış ve çökmüş olacak; üstlerine düşen emek onları kurtarmamış, didinmeleri bir karşılık bulmamış. Bazı yüzler ise dingin ve razı: yaptıklarından memnun, içinde boş gürültünün olmadığı, akan suyun ve huzurun bulunduğu bir genişliğin içinde. Metin bu iki hâli yan yana koyuyor, aralarında yorum yapmıyor; sadece gösteriyor. Sonra aniden dışarı çıkıyor ve soruyor: Deveye baktın mı, nasıl yaratılmış? Gökyüzüne, nasıl yükseltilmiş? Dağlara, nasıl dikilmiş? Yere, nasıl serilmiş? Bu sorular bir bilim dersi değil — bildik olanın içindeki şaşılası şeyi görmek için durup bakmaya bir davet. Ve ardından şunu söylüyor: Habercinin görevi hatırlatmaktır, zorlamak değil; kimse kimsenin yerine karar veremez. Her biri kendi hesabıyla dönecek. Zorlama olmadan verilen bu özgürlük, belki de metnin en sessiz ama en derin yükü."
 }

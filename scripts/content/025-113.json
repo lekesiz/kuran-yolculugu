@@ -1,190 +1,221 @@
 {
- "stationNo": 25,
- "surahNo": 113,
- "nuzulOrderOkuyan": 23,
- "name": "Felak",
- "nameArabic": "الفلق",
- "nameMeaning": "Yarıp çıkan sabah, şafak",
- "verseCount": 5,
- "periodDiyanet": "Mekke",
- "periodOkuyan": "Mekke",
- "revelationTiming": "Mekke dönemi",
- "stationTitle": "Korkularını adlandır: karanlık, kıskançlık, sabotaj. Sonra sığın.",
- "introduction": "Felak suresi, adını birinci ayetteki \"felak\" kelimesinden alır; yarıp çıkan sabah, şafak demektir. Beş ayetlik sure, Nâs suresiyle birlikte \"muavvizeteyn\" (iki sığınma suresi) olarak anılır.\n\nSure bir sığınma formülüdür ve sığınılan şeyleri açıkça sayar: bütün yaratılmışların şerri, karanlığı çöken gecenin şerri, düğümlere üfürenlerin şerri ve kıskananın şerri. Dikkat çekici olan, korkunun adlandırılmasıdır.",
- "occasionOfRevelation": "Sure hakkında farklı nüzul rivayetleri vardır; kaynaklar hem Mekke hem Medine dönemine dair kayıtlar nakleder. Diyanet İşleri Başkanlığı sureyi Mekke dönemine yerleştirir.\n\nDördüncü ayetteki \"düğümlere üfürenler\" ifadesi, dönemin büyü pratiklerine atıfta bulunur: ipe düğüm atıp üzerine okuyarak zarar vermeyi amaçlayan uygulamalar. Sure bu pratiği ciddiye alarak değil, ondan sığınılacak bir şer olarak zikreder.\n\nBeşinci ayetteki \"hâsid\" — kıskanan — kavramı ise gündelik ve somut bir tehdide işaret eder. Sure böylece hem doğaüstü sayılan hem tamamen insanî olan zararları aynı listede anar.",
- "occasionSources": "Diyanet İşleri Başkanlığı Kur'an Yolu Tefsiri, Felak suresi girişi; TDV İslâm Ansiklopedisi, \"Felak Sûresi\" ve \"Muavvizeteyn\" maddeleri. Nüzul dönemine dair rivayetler farklılık gösterir.",
- "contemporaryMeaning": "Bu surenin yöntemi psikolojik olarak dikkat çekicidir: korkuyu belirsiz bırakmaz, adlandırır. Genel bir \"kötülükten koru\" duası değil; gece, sabotaj ve kıskançlık sayılır.\n\nAdlandırma başlı başına bir işlem. İsimsiz kaygı insanı felç eder; adı konmuş tehdit üzerine düşünülebilir hâle gelir.\n\nİkinci nokta, sığınılan yerin \"felak\" — şafağı yaran — olarak nitelenmesidir. Yani korku listesi karanlıkla ilgiliyken, sığınılan taraf karanlığı yaran güçle tanımlanır. Surenin ilk kelimesi ile içeriği arasında kurulan bu karşıtlık, metnin kendi cevabını taşır.",
- "keyTerms": [
-  {
-   "term": "el-felak",
-   "arabic": "الْفَلَق",
-   "verseRef": "113:1",
-   "meaning": "Yarıp çıkan sabah, şafak. Kökü yarmak, ayırmak anlamındadır; karanlığı yaran ışık."
-  },
-  {
-   "term": "gâsik",
-   "arabic": "غَاسِق",
-   "verseRef": "113:3",
-   "meaning": "Karanlığı çöken, koyulaşan gece. Görünürlüğün kaybolduğu zaman."
-  },
-  {
-   "term": "en-neffâsâti fi'l-ukad",
-   "arabic": "النَّفَّاثَاتِ فِي الْعُقَد",
-   "verseRef": "113:4",
-   "meaning": "Düğümlere üfürenler. Dönemin büyü pratiğine atıf; sabotaj ve gizli zarar verme girişimi."
-  },
-  {
-   "term": "hâsid",
-   "arabic": "حَاسِد",
-   "verseRef": "113:5",
-   "meaning": "Kıskanan, hased eden. Somut ve gündelik bir insanî tehdit."
-  }
- ],
- "themes": [
-  {
-   "label": "Korkuyu adlandırmak",
-   "body": "Sure genel bir kötülük duası değildir; gece, sabotaj ve kıskançlığı ayrı ayrı sayar. Adı konmuş tehdit üzerine düşünülebilir."
-  },
-  {
-   "label": "Karanlık ile şafağın karşıtlığı",
-   "body": "Sığınılan taraf \"şafağı yaran\" olarak nitelenir. Korku listesi karanlıkla ilgiliyken cevap ışıkla tanımlanır."
-  },
-  {
-   "label": "Gizli zarar verme",
-   "body": "\"Düğümlere üfürenler\" ifadesi, açıktan değil sinsice yapılan zararı anlatır. Görünmeyen sabotaj da bir tehdit olarak kaydedilir."
-  },
-  {
-   "label": "Kıskançlık, ciddi bir tehdit",
-   "body": "Hased, listeye doğaüstü sayılan şeylerle birlikte girer. Metin, gündelik bir duyguyu hafife almaz."
-  }
- ],
- "questions": [
-  "Şu an en çok neyden korkuyorum? Adını koyabiliyor muyum, yoksa belirsiz bir kaygı olarak mı taşıyorum?",
-  "Birinin başarısı beni rahatsız ediyor mu? O rahatsızlık davranışıma sızıyor mu?",
-  "Karanlıkta — kimsenin görmediği yerde — yaptığım bir zarar var mı?"
- ],
- "verses": [
-  {
-   "verseNo": 1,
-   "textArabic": "بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ قُلْ أَعُوذُ بِرَبِّ ٱلْفَلَقِ"
-  },
-  {
-   "verseNo": 2,
-   "textArabic": "مِن شَرِّ مَا خَلَقَ"
-  },
-  {
-   "verseNo": 3,
-   "textArabic": "وَمِن شَرِّ غَاسِقٍ إِذَا وَقَبَ"
-  },
-  {
-   "verseNo": 4,
-   "textArabic": "وَمِن شَرِّ ٱلنَّفَّٰثَٰتِ فِى ٱلْعُقَدِ"
-  },
-  {
-   "verseNo": 5,
-   "textArabic": "وَمِن شَرِّ حَاسِدٍ إِذَا حَسَدَ"
-  }
- ],
- "translations": [
-  {
-   "verseNo": 1,
-   "source": "diyanet",
-   "text": "De ki: \"O, Allah'tır, bir tektir.\""
-  },
-  {
-   "verseNo": 1,
-   "source": "esed",
-   "text": "De ki: \"Sığınırım ben yükselen şafağın Rabbine"
-  },
-  {
-   "verseNo": 1,
-   "source": "okuyan",
-   "text": "De ki: “(Şunların şerrinden) ağaran sabahın Rabbine sığınırım:"
-  },
-  {
-   "verseNo": 1,
-   "source": "islamoglu",
-   "text": "(EY muhatap!) De ki: “Sığınırım ben (yokluk gecesini) yararak varlığı çıkaran sabahın Rabbine:"
-  },
-  {
-   "verseNo": 2,
-   "source": "diyanet",
-   "text": "\"Allah Samed'dir. (Her şey O'na muhtaçtır, o, hiçbir şeye muhtaç değildir.)\""
-  },
-  {
-   "verseNo": 2,
-   "source": "esed",
-   "text": "O´nun yarattıklarının şerrinden"
-  },
-  {
-   "verseNo": 2,
-   "source": "okuyan",
-   "text": "Yarattığı şeylerin şerrinden,"
-  },
-  {
-   "verseNo": 2,
-   "source": "islamoglu",
-   "text": "O’nun yarattığı her şeyin şerrinden!"
-  },
-  {
-   "verseNo": 3,
-   "source": "diyanet",
-   "text": "Ondan çocuk olmamıştır (Kimsenin babası değildir). Kendisi de doğmamıştır (kimsenin çocuğu değildir).\""
-  },
-  {
-   "verseNo": 3,
-   "source": "esed",
-   "text": "ve bastıran kapkara karanlığın şerrinden"
-  },
-  {
-   "verseNo": 3,
-   "source": "okuyan",
-   "text": "Çöktüğü zaman karanlığın şerrinden,"
-  },
-  {
-   "verseNo": 3,
-   "source": "islamoglu",
-   "text": "Ve (aklı-iradeyi) bastırdığı zaman zehirli-zifirî bir (cehalet) karanlığının şerrinden!"
-  },
-  {
-   "verseNo": 4,
-   "source": "diyanet",
-   "text": "\"Hiçbir şey O'na denk ve benzer değildir.\""
-  },
-  {
-   "verseNo": 4,
-   "source": "esed",
-   "text": "karanlık işlere düşkün tüm insanların şerrinden"
-  },
-  {
-   "verseNo": 4,
-   "source": "okuyan",
-   "text": "Düğümlere üfleyenlerin şerrinden,"
-  },
-  {
-   "verseNo": 4,
-   "source": "islamoglu",
-   "text": "Ve düğümlere üfleyenlerin şerrinden!"
-  },
-  {
-   "verseNo": 5,
-   "source": "diyanet",
-   "text": "De ki: \"Yarattığı şeylerin kötülüğünden, karanlığı çöktüğü zaman gecenin kötülüğünden, düğümlere üfleyenlerin kötülüğünden, haset ettiği zaman hasetçinin kötülüğünden, sabah aydınlığının Rabbine sığınırım.\""
-  },
-  {
-   "verseNo": 5,
-   "source": "esed",
-   "text": "ve kıskançlık duyduğunda kıskancın şerrinden"
-  },
-  {
-   "verseNo": 5,
-   "source": "okuyan",
-   "text": "Kıskançlık duyduğunda kıskancın şerrinden.”"
-  },
-  {
-   "verseNo": 5,
-   "source": "islamoglu",
-   "text": "Ve haset ettiğinde hasetçinin şerrinden!"
-  }
- ]
+  "stationNo": 25,
+  "surahNo": 113,
+  "nuzulOrderOkuyan": 23,
+  "name": "Felak",
+  "nameArabic": "الفلق",
+  "nameMeaning": "Yarıp çıkan sabah, şafak",
+  "verseCount": 5,
+  "periodDiyanet": "Mekke",
+  "periodOkuyan": "Mekke",
+  "revelationTiming": "Mekke dönemi",
+  "stationTitle": "Korkularını adlandır: karanlık, kıskançlık, sabotaj. Sonra sığın.",
+  "introduction": "Felak suresi, adını birinci ayetteki \"felak\" kelimesinden alır; yarıp çıkan sabah, şafak demektir. Beş ayetlik sure, Nâs suresiyle birlikte \"muavvizeteyn\" (iki sığınma suresi) olarak anılır.\n\nSure bir sığınma formülüdür ve sığınılan şeyleri açıkça sayar: bütün yaratılmışların şerri, karanlığı çöken gecenin şerri, düğümlere üfürenlerin şerri ve kıskananın şerri. Dikkat çekici olan, korkunun adlandırılmasıdır.",
+  "occasionOfRevelation": "Sure hakkında farklı nüzul rivayetleri vardır; kaynaklar hem Mekke hem Medine dönemine dair kayıtlar nakleder. Diyanet İşleri Başkanlığı sureyi Mekke dönemine yerleştirir.\n\nDördüncü ayetteki \"düğümlere üfürenler\" ifadesi, dönemin büyü pratiklerine atıfta bulunur: ipe düğüm atıp üzerine okuyarak zarar vermeyi amaçlayan uygulamalar. Sure bu pratiği ciddiye alarak değil, ondan sığınılacak bir şer olarak zikreder.\n\nBeşinci ayetteki \"hâsid\" — kıskanan — kavramı ise gündelik ve somut bir tehdide işaret eder. Sure böylece hem doğaüstü sayılan hem tamamen insanî olan zararları aynı listede anar.",
+  "occasionSources": "Diyanet İşleri Başkanlığı Kur'an Yolu Tefsiri, Felak suresi girişi; TDV İslâm Ansiklopedisi, \"Felak Sûresi\" ve \"Muavvizeteyn\" maddeleri. Nüzul dönemine dair rivayetler farklılık gösterir.",
+  "contemporaryMeaning": "Bu surenin yöntemi psikolojik olarak dikkat çekicidir: korkuyu belirsiz bırakmaz, adlandırır. Genel bir \"kötülükten koru\" duası değil; gece, sabotaj ve kıskançlık sayılır.\n\nAdlandırma başlı başına bir işlem. İsimsiz kaygı insanı felç eder; adı konmuş tehdit üzerine düşünülebilir hâle gelir.\n\nİkinci nokta, sığınılan yerin \"felak\" — şafağı yaran — olarak nitelenmesidir. Yani korku listesi karanlıkla ilgiliyken, sığınılan taraf karanlığı yaran güçle tanımlanır. Surenin ilk kelimesi ile içeriği arasında kurulan bu karşıtlık, metnin kendi cevabını taşır.",
+  "keyTerms": [
+    {
+      "term": "el-felak",
+      "arabic": "الْفَلَق",
+      "verseRef": "113:1",
+      "meaning": "Yarıp çıkan sabah, şafak. Kökü yarmak, ayırmak anlamındadır; karanlığı yaran ışık."
+    },
+    {
+      "term": "gâsik",
+      "arabic": "غَاسِق",
+      "verseRef": "113:3",
+      "meaning": "Karanlığı çöken, koyulaşan gece. Görünürlüğün kaybolduğu zaman."
+    },
+    {
+      "term": "en-neffâsâti fi'l-ukad",
+      "arabic": "النَّفَّاثَاتِ فِي الْعُقَد",
+      "verseRef": "113:4",
+      "meaning": "Düğümlere üfürenler. Dönemin büyü pratiğine atıf; sabotaj ve gizli zarar verme girişimi."
+    },
+    {
+      "term": "hâsid",
+      "arabic": "حَاسِد",
+      "verseRef": "113:5",
+      "meaning": "Kıskanan, hased eden. Somut ve gündelik bir insanî tehdit."
+    }
+  ],
+  "themes": [
+    {
+      "label": "Korkuyu adlandırmak",
+      "body": "Sure genel bir kötülük duası değildir; gece, sabotaj ve kıskançlığı ayrı ayrı sayar. Adı konmuş tehdit üzerine düşünülebilir."
+    },
+    {
+      "label": "Karanlık ile şafağın karşıtlığı",
+      "body": "Sığınılan taraf \"şafağı yaran\" olarak nitelenir. Korku listesi karanlıkla ilgiliyken cevap ışıkla tanımlanır."
+    },
+    {
+      "label": "Gizli zarar verme",
+      "body": "\"Düğümlere üfürenler\" ifadesi, açıktan değil sinsice yapılan zararı anlatır. Görünmeyen sabotaj da bir tehdit olarak kaydedilir."
+    },
+    {
+      "label": "Kıskançlık, ciddi bir tehdit",
+      "body": "Hased, listeye doğaüstü sayılan şeylerle birlikte girer. Metin, gündelik bir duyguyu hafife almaz."
+    }
+  ],
+  "questions": [
+    "Şu an en çok neyden korkuyorum? Adını koyabiliyor muyum, yoksa belirsiz bir kaygı olarak mı taşıyorum?",
+    "Birinin başarısı beni rahatsız ediyor mu? O rahatsızlık davranışıma sızıyor mu?",
+    "Karanlıkta — kimsenin görmediği yerde — yaptığım bir zarar var mı?"
+  ],
+  "verses": [
+    {
+      "verseNo": 1,
+      "textArabic": "بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ قُلْ أَعُوذُ بِرَبِّ ٱلْفَلَقِ"
+    },
+    {
+      "verseNo": 2,
+      "textArabic": "مِن شَرِّ مَا خَلَقَ"
+    },
+    {
+      "verseNo": 3,
+      "textArabic": "وَمِن شَرِّ غَاسِقٍ إِذَا وَقَبَ"
+    },
+    {
+      "verseNo": 4,
+      "textArabic": "وَمِن شَرِّ ٱلنَّفَّٰثَٰتِ فِى ٱلْعُقَدِ"
+    },
+    {
+      "verseNo": 5,
+      "textArabic": "وَمِن شَرِّ حَاسِدٍ إِذَا حَسَدَ"
+    }
+  ],
+  "translations": [
+    {
+      "verseNo": 1,
+      "verseNoEnd": null,
+      "source": "ai",
+      "text": "De ki: 'Sabahın Rabbine sığınıyorum'."
+    },
+    {
+      "verseNo": 1,
+      "source": "diyanet",
+      "text": "De ki: \"O, Allah'tır, bir tektir.\""
+    },
+    {
+      "verseNo": 1,
+      "source": "esed",
+      "text": "De ki: \"Sığınırım ben yükselen şafağın Rabbine"
+    },
+    {
+      "verseNo": 1,
+      "source": "islamoglu",
+      "text": "(EY muhatap!) De ki: “Sığınırım ben (yokluk gecesini) yararak varlığı çıkaran sabahın Rabbine:"
+    },
+    {
+      "verseNo": 1,
+      "source": "okuyan",
+      "text": "De ki: “(Şunların şerrinden) ağaran sabahın Rabbine sığınırım:"
+    },
+    {
+      "verseNo": 2,
+      "verseNoEnd": null,
+      "source": "ai",
+      "text": "Yarattığı şeylerin şerrinden."
+    },
+    {
+      "verseNo": 2,
+      "source": "diyanet",
+      "text": "\"Allah Samed'dir. (Her şey O'na muhtaçtır, o, hiçbir şeye muhtaç değildir.)\""
+    },
+    {
+      "verseNo": 2,
+      "source": "esed",
+      "text": "O´nun yarattıklarının şerrinden"
+    },
+    {
+      "verseNo": 2,
+      "source": "islamoglu",
+      "text": "O’nun yarattığı her şeyin şerrinden!"
+    },
+    {
+      "verseNo": 2,
+      "source": "okuyan",
+      "text": "Yarattığı şeylerin şerrinden,"
+    },
+    {
+      "verseNo": 3,
+      "verseNoEnd": null,
+      "source": "ai",
+      "text": "Karanlık çöktüğü zamanın şerrinden."
+    },
+    {
+      "verseNo": 3,
+      "source": "diyanet",
+      "text": "Ondan çocuk olmamıştır (Kimsenin babası değildir). Kendisi de doğmamıştır (kimsenin çocuğu değildir).\""
+    },
+    {
+      "verseNo": 3,
+      "source": "esed",
+      "text": "ve bastıran kapkara karanlığın şerrinden"
+    },
+    {
+      "verseNo": 3,
+      "source": "islamoglu",
+      "text": "Ve (aklı-iradeyi) bastırdığı zaman zehirli-zifirî bir (cehalet) karanlığının şerrinden!"
+    },
+    {
+      "verseNo": 3,
+      "source": "okuyan",
+      "text": "Çöktüğü zaman karanlığın şerrinden,"
+    },
+    {
+      "verseNo": 4,
+      "verseNoEnd": null,
+      "source": "ai",
+      "text": "Düğümlere üfleyenlerin şerrinden."
+    },
+    {
+      "verseNo": 4,
+      "source": "diyanet",
+      "text": "\"Hiçbir şey O'na denk ve benzer değildir.\""
+    },
+    {
+      "verseNo": 4,
+      "source": "esed",
+      "text": "karanlık işlere düşkün tüm insanların şerrinden"
+    },
+    {
+      "verseNo": 4,
+      "source": "islamoglu",
+      "text": "Ve düğümlere üfleyenlerin şerrinden!"
+    },
+    {
+      "verseNo": 4,
+      "source": "okuyan",
+      "text": "Düğümlere üfleyenlerin şerrinden,"
+    },
+    {
+      "verseNo": 5,
+      "verseNoEnd": null,
+      "source": "ai",
+      "text": "Kıskandığı zaman kıskanç kişinin şerrinden."
+    },
+    {
+      "verseNo": 5,
+      "source": "diyanet",
+      "text": "De ki: \"Yarattığı şeylerin kötülüğünden, karanlığı çöktüğü zaman gecenin kötülüğünden, düğümlere üfleyenlerin kötülüğünden, haset ettiği zaman hasetçinin kötülüğünden, sabah aydınlığının Rabbine sığınırım.\""
+    },
+    {
+      "verseNo": 5,
+      "source": "esed",
+      "text": "ve kıskançlık duyduğunda kıskancın şerrinden"
+    },
+    {
+      "verseNo": 5,
+      "source": "islamoglu",
+      "text": "Ve haset ettiğinde hasetçinin şerrinden!"
+    },
+    {
+      "verseNo": 5,
+      "source": "okuyan",
+      "text": "Kıskançlık duyduğunda kıskancın şerrinden.”"
+    }
+  ],
+  "aiParagraph": "Karanlık çöktüğünde, gece tam anlamıyla yerleştiğinde, insanın içinde bir şeyler kıpırdamaya başlar — görünmeyenden, adını koyamadığından duyduğu o eski, derin tedirginlik. Bu metin tam da o noktada, bir sığınma eylemini tarif eder: her şeyi var eden kaynağa yönelmek, yaratılmış her şeyin kötülüğünden — doğanın öngörülemeyen güçlerinden, geceye sinen tehlikelerden, düğümlere üfleyen ve gizlice örülen tuzaklardan — korunmak istemek. O \"düğümlere üfleyenler\" imgesi bugün de tanıdık gelir; bir ilişkiyi içten içe çürüten dedikodular, sessizce kurulan planlar, görünmez ama etkisi çok somut olan o manipülasyonlar. Ama metnin en sivri yeri en sona saklıdır: hasedin kötülüğü, hem de yalnızca var olduğu için değil, fiilen tutuştuğu, harekete geçtiği an için sığınma dilenir. Birinin elindeki nimeti gördüğünde içinde burkanan o his — metin onu hafife almaz, tehlikeli sayar. Kendini değil, o hissin ne yapabileceğini."
 }

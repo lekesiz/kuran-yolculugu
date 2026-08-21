@@ -1,190 +1,221 @@
 {
- "stationNo": 36,
- "surahNo": 97,
- "nuzulOrderOkuyan": 12,
- "name": "Kadr",
- "nameArabic": "القدر",
- "nameMeaning": "Ölçü, değer, hüküm",
- "verseCount": 5,
- "periodDiyanet": "Mekke",
- "periodOkuyan": "Mekke",
- "revelationTiming": "Mekke dönemi",
- "stationTitle": "Bir gece, bin aydan hayırlı olabilir. Zaman süreyle değil yoğunlukla ölçülür.",
- "introduction": "Kadr suresi, adını birinci ayetteki \"Kadir gecesi\" ifadesinden alır. \"Kadr\" kelimesi hem azamet ve şeref hem ölçü ve takdir anlam ailelerini birlikte taşır. Beş ayetlik sure Mekke döneminde inmiştir.\n\nSure vahyin indirildiği geceyi anar, ardından bu gecenin ne olduğunu sorar ve \"bin aydan hayırlı\" olduğunu bildirir. Melekler ve Ruh'un inişi anlatılır. Kapanışta gecenin şafağa kadar bir esenlik olduğu belirtilir.",
- "occasionOfRevelation": "Sure Mekke döneminde inmiştir. Diyanet İşleri Başkanlığı sureyi Mekke dönemine yerleştirir.\n\nDördüncü ayetteki \"Ruh\" ifadesi tefsirlerde tartışılmıştır. Klasik tefsir geleneği ve Diyanet meali bunu Cebrail olarak açıklar. Bu bir tefsir yorumudur; ayet açıkça isim vermez.\n\n\"Bin ay\" ifadesinin bir sayı belirtmek yerine çokluğu ifade ettiği yaygın bir değerlendirmedir. Tefsirler bu ifadeyi kesin bir hesap olarak değil, kıyaslanamaz bir değer beyanı olarak okur.\n\nKadir gecesinin hangi geceye denk geldiği konusunda kaynaklar farklı rivayetler nakleder; kesin bir tarih tespiti yapılmamıştır.",
- "occasionSources": "Diyanet İşleri Başkanlığı Kur'an Yolu Tefsiri, Kadr suresi girişi; TDV İslâm Ansiklopedisi, \"Kadr Sûresi\" ve \"Kadir Gecesi\" maddeleri. \"Ruh\"un Cebrail olarak açıklanması bir tefsir yorumudur.",
- "contemporaryMeaning": "Surenin kurduğu ölçü sistemi dikkat çekicidir: bir gece, bin aydan hayırlı olabilir. Bu, zamanın süreyle değil yoğunlukla ölçüldüğü anlamına gelir.\n\nBunun bugüne bakan yüzü nettir. Bilinçsizce, ezbere geçirilen uzun bir ömür; idrakle ve farkındalıkla yaşanan tek bir andan daha değerli değildir. Nicelik burada niteliğin önüne geçmez.\n\n\"Kadr\" kelimesinin ikinci anlam ailesi — ölçü, takdir, değer — bu okumayı destekler. Anlamla buluşan bir zaman dilimi, değersizlikten yüksek bir kıymete kavuşur.\n\nKapanıştaki \"selâm\" — esenlik — ifadesi ise sürekliliği anlatır: uyanış geçici bir heyecan değil, şafağa kadar süren bir dinginliktir.",
- "keyTerms": [
-  {
-   "term": "kadr",
-   "arabic": "الْقَدْر",
-   "verseRef": "97:1",
-   "meaning": "Ölçü, takdir, değer, azamet. İki anlam ailesini birlikte taşır: hem şeref hem miktar."
-  },
-  {
-   "term": "hayrun min elfi şehr",
-   "arabic": "خَيْرٌ مِّنْ أَلْفِ شَهْر",
-   "verseRef": "97:3",
-   "meaning": "Bin aydan hayırlı. Sayı belirtmekten çok kıyaslanamaz bir değer beyanı olarak yorumlanır."
-  },
-  {
-   "term": "er-rûh",
-   "arabic": "الرُّوح",
-   "verseRef": "97:4",
-   "meaning": "Ruh. Klasik tefsir geleneği ve Diyanet meali Cebrail olarak açıklar; ayet isim vermez."
-  },
-  {
-   "term": "selâm",
-   "arabic": "سَلَام",
-   "verseRef": "97:5",
-   "meaning": "Esenlik, barış, güvenlik. Gecenin şafağa kadar süren niteliği."
-  }
- ],
- "themes": [
-  {
-   "label": "Zaman süreyle değil yoğunlukla ölçülür",
-   "body": "Bir gece bin aydan hayırlı olabilir. Metin, zamanı miktarla değil içerikle değerlendiren bir hesap kurar."
-  },
-  {
-   "label": "Anlamla buluşan zamanın değeri",
-   "body": "\"Kadr\" hem ölçü hem şeref demektir. Farkındalıkla yaşanan bir dilim, değersizlikten yüksek bir kıymete kavuşur."
-  },
-  {
-   "label": "Süren esenlik",
-   "body": "Gece şafağa kadar bir esenliktir. Uyanış geçici bir heyecan değil, sürdürülebilir bir dinginlik olarak tasvir edilir."
-  },
-  {
-   "label": "İniş: yukarıdan aşağıya",
-   "body": "Melekler ve Ruh'un inişi anlatılır. Hakikatle kurulan bağ, insanın çıkışıyla değil bir inişle tasvir edilir."
-  }
- ],
- "questions": [
-  "Son bir yılda gerçekten \"uyandığım\", bir şeyi ilk kez anladığım bir an oldu mu?",
-  "Günümün ne kadarı ezbere geçiyor? Farkındalıkla geçirdiğim süre ne kadar?",
-  "Uzun süre yaptığım ama hiç düşünmediğim bir alışkanlık var mı? Bugün üzerinde durabilir miyim?"
- ],
- "verses": [
-  {
-   "verseNo": 1,
-   "textArabic": "بِّسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ إِنَّآ أَنزَلْنَٰهُ فِى لَيْلَةِ ٱلْقَدْرِ"
-  },
-  {
-   "verseNo": 2,
-   "textArabic": "وَمَآ أَدْرَىٰكَ مَا لَيْلَةُ ٱلْقَدْرِ"
-  },
-  {
-   "verseNo": 3,
-   "textArabic": "لَيْلَةُ ٱلْقَدْرِ خَيْرٌۭ مِّنْ أَلْفِ شَهْرٍۢ"
-  },
-  {
-   "verseNo": 4,
-   "textArabic": "تَنَزَّلُ ٱلْمَلَٰٓئِكَةُ وَٱلرُّوحُ فِيهَا بِإِذْنِ رَبِّهِم مِّن كُلِّ أَمْرٍۢ"
-  },
-  {
-   "verseNo": 5,
-   "textArabic": "سَلَٰمٌ هِىَ حَتَّىٰ مَطْلَعِ ٱلْفَجْرِ"
-  }
- ],
- "translations": [
-  {
-   "verseNo": 1,
-   "source": "diyanet",
-   "text": "Şüphesiz, biz onu (Kur'an'ı) Kadir gecesinde indirdik."
-  },
-  {
-   "verseNo": 1,
-   "source": "esed",
-   "text": "Biz bu (ilahi kelam)ı Kadir Gecesi´nde indirdik"
-  },
-  {
-   "verseNo": 1,
-   "source": "okuyan",
-   "text": "Şüphesiz ki biz onu (Kur’an’ı) Kadir gecesinde indir(meye başla)dık."
-  },
-  {
-   "verseNo": 1,
-   "source": "islamoglu",
-   "text": "Biz onu kadir-kıymet gecesinde indir(meye başla)dık."
-  },
-  {
-   "verseNo": 2,
-   "source": "diyanet",
-   "text": "Kadir gecesinin ne olduğunu sen ne bileceksin!"
-  },
-  {
-   "verseNo": 2,
-   "source": "esed",
-   "text": "Bilir misin nedir Kadir Gecesi"
-  },
-  {
-   "verseNo": 2,
-   "source": "okuyan",
-   "text": "Kadir gecesinin ne olduğunu sana bildiren ne olabilir ki!"
-  },
-  {
-   "verseNo": 2,
-   "source": "islamoglu",
-   "text": "Bilir misin o kadir-kıymet gecesinin mahiyeti nedir?"
-  },
-  {
-   "verseNo": 3,
-   "source": "diyanet",
-   "text": "Kadir gecesi bin aydan daha hayırlıdır."
-  },
-  {
-   "verseNo": 3,
-   "source": "esed",
-   "text": "Kadir Gecesi bin aydan daha hayırlıdır"
-  },
-  {
-   "verseNo": 3,
-   "source": "okuyan",
-   "text": "Kadir gecesi bin aydan daha hayırlıdır."
-  },
-  {
-   "verseNo": 3,
-   "source": "islamoglu",
-   "text": "O kadir-kıymet gecesi, bin aydan daha hayırlıdır."
-  },
-  {
-   "verseNo": 4,
-   "source": "diyanet",
-   "text": "Melekler ve Ruh (Cebrail) o gecede, Rablerinin izniyle her türlü iş için iner de iner."
-  },
-  {
-   "verseNo": 4,
-   "source": "esed",
-   "text": "o gece melekler, Rablerinin izniyle ilahi bir esin taşıyarak bölük bölük inerler; (insanı) her türlü (kötülük)ten"
-  },
-  {
-   "verseNo": 4,
-   "source": "okuyan",
-   "text": "Melekler, beraberlerinde [rûh] (Kur’an) ile, Rablerinin izniyle her iş için inerler."
-  },
-  {
-   "verseNo": 4,
-   "source": "islamoglu",
-   "text": "Melekler, vahiyle beraber o gece inerler de inerler, Rablerinin izniyle, hayatın her alanına dair"
-  },
-  {
-   "verseNo": 5,
-   "source": "diyanet",
-   "text": "O gece, tan yerinin ağarmasına kadar bir esenliktir."
-  },
-  {
-   "verseNo": 5,
-   "source": "esed",
-   "text": "emin kılar bu (gece), ta şafak vaktine kadar"
-  },
-  {
-   "verseNo": 5,
-   "source": "okuyan",
-   "text": "(O), tan yeri ağarıncaya kadar esenlik (gecesi)dir."
-  },
-  {
-   "verseNo": 5,
-   "source": "islamoglu",
-   "text": "tarifsiz bir mutluluğun (formüllerini getirirler); bu durum, tanyeri ağarıncaya kadar sürer."
-  }
- ]
+  "stationNo": 36,
+  "surahNo": 97,
+  "nuzulOrderOkuyan": 12,
+  "name": "Kadr",
+  "nameArabic": "القدر",
+  "nameMeaning": "Ölçü, değer, hüküm",
+  "verseCount": 5,
+  "periodDiyanet": "Mekke",
+  "periodOkuyan": "Mekke",
+  "revelationTiming": "Mekke dönemi",
+  "stationTitle": "Bir gece, bin aydan hayırlı olabilir. Zaman süreyle değil yoğunlukla ölçülür.",
+  "introduction": "Kadr suresi, adını birinci ayetteki \"Kadir gecesi\" ifadesinden alır. \"Kadr\" kelimesi hem azamet ve şeref hem ölçü ve takdir anlam ailelerini birlikte taşır. Beş ayetlik sure Mekke döneminde inmiştir.\n\nSure vahyin indirildiği geceyi anar, ardından bu gecenin ne olduğunu sorar ve \"bin aydan hayırlı\" olduğunu bildirir. Melekler ve Ruh'un inişi anlatılır. Kapanışta gecenin şafağa kadar bir esenlik olduğu belirtilir.",
+  "occasionOfRevelation": "Sure Mekke döneminde inmiştir. Diyanet İşleri Başkanlığı sureyi Mekke dönemine yerleştirir.\n\nDördüncü ayetteki \"Ruh\" ifadesi tefsirlerde tartışılmıştır. Klasik tefsir geleneği ve Diyanet meali bunu Cebrail olarak açıklar. Bu bir tefsir yorumudur; ayet açıkça isim vermez.\n\n\"Bin ay\" ifadesinin bir sayı belirtmek yerine çokluğu ifade ettiği yaygın bir değerlendirmedir. Tefsirler bu ifadeyi kesin bir hesap olarak değil, kıyaslanamaz bir değer beyanı olarak okur.\n\nKadir gecesinin hangi geceye denk geldiği konusunda kaynaklar farklı rivayetler nakleder; kesin bir tarih tespiti yapılmamıştır.",
+  "occasionSources": "Diyanet İşleri Başkanlığı Kur'an Yolu Tefsiri, Kadr suresi girişi; TDV İslâm Ansiklopedisi, \"Kadr Sûresi\" ve \"Kadir Gecesi\" maddeleri. \"Ruh\"un Cebrail olarak açıklanması bir tefsir yorumudur.",
+  "contemporaryMeaning": "Surenin kurduğu ölçü sistemi dikkat çekicidir: bir gece, bin aydan hayırlı olabilir. Bu, zamanın süreyle değil yoğunlukla ölçüldüğü anlamına gelir.\n\nBunun bugüne bakan yüzü nettir. Bilinçsizce, ezbere geçirilen uzun bir ömür; idrakle ve farkındalıkla yaşanan tek bir andan daha değerli değildir. Nicelik burada niteliğin önüne geçmez.\n\n\"Kadr\" kelimesinin ikinci anlam ailesi — ölçü, takdir, değer — bu okumayı destekler. Anlamla buluşan bir zaman dilimi, değersizlikten yüksek bir kıymete kavuşur.\n\nKapanıştaki \"selâm\" — esenlik — ifadesi ise sürekliliği anlatır: uyanış geçici bir heyecan değil, şafağa kadar süren bir dinginliktir.",
+  "keyTerms": [
+    {
+      "term": "kadr",
+      "arabic": "الْقَدْر",
+      "verseRef": "97:1",
+      "meaning": "Ölçü, takdir, değer, azamet. İki anlam ailesini birlikte taşır: hem şeref hem miktar."
+    },
+    {
+      "term": "hayrun min elfi şehr",
+      "arabic": "خَيْرٌ مِّنْ أَلْفِ شَهْر",
+      "verseRef": "97:3",
+      "meaning": "Bin aydan hayırlı. Sayı belirtmekten çok kıyaslanamaz bir değer beyanı olarak yorumlanır."
+    },
+    {
+      "term": "er-rûh",
+      "arabic": "الرُّوح",
+      "verseRef": "97:4",
+      "meaning": "Ruh. Klasik tefsir geleneği ve Diyanet meali Cebrail olarak açıklar; ayet isim vermez."
+    },
+    {
+      "term": "selâm",
+      "arabic": "سَلَام",
+      "verseRef": "97:5",
+      "meaning": "Esenlik, barış, güvenlik. Gecenin şafağa kadar süren niteliği."
+    }
+  ],
+  "themes": [
+    {
+      "label": "Zaman süreyle değil yoğunlukla ölçülür",
+      "body": "Bir gece bin aydan hayırlı olabilir. Metin, zamanı miktarla değil içerikle değerlendiren bir hesap kurar."
+    },
+    {
+      "label": "Anlamla buluşan zamanın değeri",
+      "body": "\"Kadr\" hem ölçü hem şeref demektir. Farkındalıkla yaşanan bir dilim, değersizlikten yüksek bir kıymete kavuşur."
+    },
+    {
+      "label": "Süren esenlik",
+      "body": "Gece şafağa kadar bir esenliktir. Uyanış geçici bir heyecan değil, sürdürülebilir bir dinginlik olarak tasvir edilir."
+    },
+    {
+      "label": "İniş: yukarıdan aşağıya",
+      "body": "Melekler ve Ruh'un inişi anlatılır. Hakikatle kurulan bağ, insanın çıkışıyla değil bir inişle tasvir edilir."
+    }
+  ],
+  "questions": [
+    "Son bir yılda gerçekten \"uyandığım\", bir şeyi ilk kez anladığım bir an oldu mu?",
+    "Günümün ne kadarı ezbere geçiyor? Farkındalıkla geçirdiğim süre ne kadar?",
+    "Uzun süre yaptığım ama hiç düşünmediğim bir alışkanlık var mı? Bugün üzerinde durabilir miyim?"
+  ],
+  "verses": [
+    {
+      "verseNo": 1,
+      "textArabic": "بِّسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ إِنَّآ أَنزَلْنَٰهُ فِى لَيْلَةِ ٱلْقَدْرِ"
+    },
+    {
+      "verseNo": 2,
+      "textArabic": "وَمَآ أَدْرَىٰكَ مَا لَيْلَةُ ٱلْقَدْرِ"
+    },
+    {
+      "verseNo": 3,
+      "textArabic": "لَيْلَةُ ٱلْقَدْرِ خَيْرٌۭ مِّنْ أَلْفِ شَهْرٍۢ"
+    },
+    {
+      "verseNo": 4,
+      "textArabic": "تَنَزَّلُ ٱلْمَلَٰٓئِكَةُ وَٱلرُّوحُ فِيهَا بِإِذْنِ رَبِّهِم مِّن كُلِّ أَمْرٍۢ"
+    },
+    {
+      "verseNo": 5,
+      "textArabic": "سَلَٰمٌ هِىَ حَتَّىٰ مَطْلَعِ ٱلْفَجْرِ"
+    }
+  ],
+  "translations": [
+    {
+      "verseNo": 1,
+      "verseNoEnd": null,
+      "source": "ai",
+      "text": "Şüphesiz onu Kadir gecesinde indirdik."
+    },
+    {
+      "verseNo": 1,
+      "source": "diyanet",
+      "text": "Şüphesiz, biz onu (Kur'an'ı) Kadir gecesinde indirdik."
+    },
+    {
+      "verseNo": 1,
+      "source": "esed",
+      "text": "Biz bu (ilahi kelam)ı Kadir Gecesi´nde indirdik"
+    },
+    {
+      "verseNo": 1,
+      "source": "islamoglu",
+      "text": "Biz onu kadir-kıymet gecesinde indir(meye başla)dık."
+    },
+    {
+      "verseNo": 1,
+      "source": "okuyan",
+      "text": "Şüphesiz ki biz onu (Kur’an’ı) Kadir gecesinde indir(meye başla)dık."
+    },
+    {
+      "verseNo": 2,
+      "verseNoEnd": null,
+      "source": "ai",
+      "text": "Kadir gecesinin ne olduğunu sen nasıl bilirsin?"
+    },
+    {
+      "verseNo": 2,
+      "source": "diyanet",
+      "text": "Kadir gecesinin ne olduğunu sen ne bileceksin!"
+    },
+    {
+      "verseNo": 2,
+      "source": "esed",
+      "text": "Bilir misin nedir Kadir Gecesi"
+    },
+    {
+      "verseNo": 2,
+      "source": "islamoglu",
+      "text": "Bilir misin o kadir-kıymet gecesinin mahiyeti nedir?"
+    },
+    {
+      "verseNo": 2,
+      "source": "okuyan",
+      "text": "Kadir gecesinin ne olduğunu sana bildiren ne olabilir ki!"
+    },
+    {
+      "verseNo": 3,
+      "verseNoEnd": null,
+      "source": "ai",
+      "text": "Kadir gecesi bin aydan hayırlıdır."
+    },
+    {
+      "verseNo": 3,
+      "source": "diyanet",
+      "text": "Kadir gecesi bin aydan daha hayırlıdır."
+    },
+    {
+      "verseNo": 3,
+      "source": "esed",
+      "text": "Kadir Gecesi bin aydan daha hayırlıdır"
+    },
+    {
+      "verseNo": 3,
+      "source": "islamoglu",
+      "text": "O kadir-kıymet gecesi, bin aydan daha hayırlıdır."
+    },
+    {
+      "verseNo": 3,
+      "source": "okuyan",
+      "text": "Kadir gecesi bin aydan daha hayırlıdır."
+    },
+    {
+      "verseNo": 4,
+      "verseNoEnd": null,
+      "source": "ai",
+      "text": "Melekler ve Ruh o gece Rablerinin izniyle her iş için inerler."
+    },
+    {
+      "verseNo": 4,
+      "source": "diyanet",
+      "text": "Melekler ve Ruh (Cebrail) o gecede, Rablerinin izniyle her türlü iş için iner de iner."
+    },
+    {
+      "verseNo": 4,
+      "source": "esed",
+      "text": "o gece melekler, Rablerinin izniyle ilahi bir esin taşıyarak bölük bölük inerler; (insanı) her türlü (kötülük)ten"
+    },
+    {
+      "verseNo": 4,
+      "source": "islamoglu",
+      "text": "Melekler, vahiyle beraber o gece inerler de inerler, Rablerinin izniyle, hayatın her alanına dair"
+    },
+    {
+      "verseNo": 4,
+      "source": "okuyan",
+      "text": "Melekler, beraberlerinde [rûh] (Kur’an) ile, Rablerinin izniyle her iş için inerler."
+    },
+    {
+      "verseNo": 5,
+      "verseNoEnd": null,
+      "source": "ai",
+      "text": "O gece sabahın doğuşuna kadar esenliktedir."
+    },
+    {
+      "verseNo": 5,
+      "source": "diyanet",
+      "text": "O gece, tan yerinin ağarmasına kadar bir esenliktir."
+    },
+    {
+      "verseNo": 5,
+      "source": "esed",
+      "text": "emin kılar bu (gece), ta şafak vaktine kadar"
+    },
+    {
+      "verseNo": 5,
+      "source": "islamoglu",
+      "text": "tarifsiz bir mutluluğun (formüllerini getirirler); bu durum, tanyeri ağarıncaya kadar sürer."
+    },
+    {
+      "verseNo": 5,
+      "source": "okuyan",
+      "text": "(O), tan yeri ağarıncaya kadar esenlik (gecesi)dir."
+    }
+  ],
+  "aiParagraph": "Bazı geceler vardır, dışarıdan bakınca diğerlerinden hiç farkı olmayan; aynı karanlık, aynı sessizlik, aynı yorgunluk. Ama metin, bir gecenin bin aydan daha ağır olabileceğini söylüyor — bin ay, yaklaşık seksen üç yıl, bir insan ömrü. Yani bir gecenin içine tüm bir hayatın anlamı sığabilir. Sonra metin şunu soruyor: \"Sen bu geceyi gerçekten biliyor musun?\" — sanki asıl önemli olanın yanından farkında bile olmadan geçip gidebileceğimizi ima ederek. İnsan çoğu zaman büyük dönüşümlerin büyük gürültüyle geleceğini varsayar; sarsıcı bir anın önceden ilan edileceğini, kendini hazır hissedeceğini düşünür. Oysa bu gece, görünmez bir sessizlik içinde gelir ve şafak söyene kadar yalnızca bir şey hâkim olur o geceye: esenlik. Gürültü değil, zafer değil — sadece derin, tam, kırılmamış bir barış. Bu, bir gecenin değil, belki de bir anın nasıl taşındığının hikâyesi; ve insan hangisinin o an olduğunu hiçbir zaman önceden bilemiyor."
 }

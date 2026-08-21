@@ -105,12 +105,12 @@
   {
    "kind": "rivayet",
    "label": "Yaftalama ayetleri kimin hakkında indi?",
-   "body": "Sekizinci ve on altıncı ayetler arasındaki karakter dökümünün, Kureyş'in ileri gelenlerinden Velîd b. Mugīre ve Ahnes b. Şerîk hakkında indiği nakledilir (Süyûtî, Esbâbü'n-nüzûl, s. 204). Bu isimler ayetlerde geçmez ve rivayete dayanır; tefsirler ayetlerin hükmünü tek tek kişilere değil tarif edilen karakter tipine bağlar."
+   "body": "Sekizinci ve on altıncı ayetler arasındaki karakter dökümünün, Kureyş'in ileri gelenlerinden Velîd b. Mugīre ve Ahnes b. Şerîk hakkında indiği nakledilir (Süyûtî, Esbâbü'n-nüzûl, s. 204). Bu isimler ayetlerde geçmez ve rivayete dayanır. Nakledilen isimlendirme zayıf sayılır: kaynaklar arasında birlik yoktur ve tefsirler ayetlerin hükmünü tek tek kişilere değil, tarif edilen karakter tipine bağlar. Burada da bir kişi teşhisi olarak değil, tarihsel arka plan olarak anılmaktadır."
   },
   {
    "kind": "rivayet",
    "label": "Elli birinci ayet ve nazar",
-   "body": "Elli birinci ayetin, Kureyş'ten bir grubun Hz. Peygamber'e bakıp \"ne onun gibisini ne de getirdiklerinin benzerini gördük\" diyerek nazar değdirmek istemesi üzerine indiği nakledilir (Vâhidî, Esbâbü'n-nüzûl, s. 249). Hasan-ı Basrî'nin nazara karşı bu ayetin okunmasını tavsiye ettiği aktarılır. Rivayetin sıhhati kaynaklarda tartışılmamış, yalnızca nakledilmiştir; burada bir uygulama önerisi olarak değil, ayetin arka planına dair bir bilgi olarak anılmaktadır."
+   "body": "Elli birinci ayetin, Kureyş'ten bir grubun Hz. Peygamber'e bakıp \"ne onun gibisini ne de getirdiklerinin benzerini gördük\" diyerek nazar değdirmek istemesi üzerine indiği nakledilir (Vâhidî, Esbâbü'n-nüzûl, s. 249). Hasan-ı Basrî'nin nazara karşı bu ayetin okunmasını tavsiye ettiği aktarılır. Rivayetin sıhhati kaynaklarda tartışılmamış, yalnızca nakledilmiştir; sıhhat hükmü verilmediği için zayıf kabul edilmeli ve bir uygulama önerisi olarak değil, ayetin arka planına dair bir bilgi olarak okunmalıdır."
   },
   {
    "kind": "rivayet",
@@ -1373,6 +1373,319 @@
    "verseNo": 52,
    "source": "okuyan",
    "text": "Halbuki o (Kur’an), ancak âlemler için (gerçeği) hatırla(t)madır."
+  },
+  {
+   "verseNo": 1,
+   "verseNoEnd": null,
+   "source": "ai",
+   "text": "Nûn. Kalem ve onların yazdıkları."
+  },
+  {
+   "verseNo": 2,
+   "verseNoEnd": null,
+   "source": "ai",
+   "text": "Sen Rabbinin lütfu sayesinde deli değilsin."
+  },
+  {
+   "verseNo": 3,
+   "verseNoEnd": null,
+   "source": "ai",
+   "text": "Gerçekten senin engellenemeyen bir mükafatın vardır."
+  },
+  {
+   "verseNo": 4,
+   "verseNoEnd": null,
+   "source": "ai",
+   "text": "Gerçekten sen yüce bir ahlaka sahipsin."
+  },
+  {
+   "verseNo": 5,
+   "verseNoEnd": null,
+   "source": "ai",
+   "text": "Öyleyse sen göreceksin; onlar da görecekler."
+  },
+  {
+   "verseNo": 6,
+   "verseNoEnd": null,
+   "source": "ai",
+   "text": "Hanginizin saptırılmış olduğunu."
+  },
+  {
+   "verseNo": 7,
+   "verseNoEnd": null,
+   "source": "ai",
+   "text": "Şüphesiz Rabbin, kim yolundan sapmış olduğunu en iyi bilendir; O doğru yolda olanları da en iyi bilendir."
+  },
+  {
+   "verseNo": 8,
+   "verseNoEnd": null,
+   "source": "ai",
+   "text": "O halde inkâr edenlere itaat etme."
+  },
+  {
+   "verseNo": 9,
+   "verseNoEnd": null,
+   "source": "ai",
+   "text": "Keşke sen yumuşasaydın da onlar da yumuşasalardı."
+  },
+  {
+   "verseNo": 10,
+   "verseNoEnd": null,
+   "source": "ai",
+   "text": "Ve hiçbir aşağılık yeminbazın sözünü dinleme."
+  },
+  {
+   "verseNo": 11,
+   "verseNoEnd": null,
+   "source": "ai",
+   "text": "Sürekli kötüleyen, etrafta dolaşıp dedikodu yayan."
+  },
+  {
+   "verseNo": 12,
+   "verseNoEnd": null,
+   "source": "ai",
+   "text": "Hayıra engel olan, sınır tanımaz ve günahkâr."
+  },
+  {
+   "verseNo": 13,
+   "verseNoEnd": null,
+   "source": "ai",
+   "text": "Sert huylu, sonra da alçak."
+  },
+  {
+   "verseNo": 14,
+   "verseNoEnd": null,
+   "source": "ai",
+   "text": "Eğer malı ve çocukları varsa."
+  },
+  {
+   "verseNo": 15,
+   "verseNoEnd": null,
+   "source": "ai",
+   "text": "Bize ait ayetler kendisine okunduğunda «eskilerin masalları» der."
+  },
+  {
+   "verseNo": 16,
+   "verseNoEnd": null,
+   "source": "ai",
+   "text": "Onu burnuna damga vuracağız."
+  },
+  {
+   "verseNo": 17,
+   "verseNoEnd": null,
+   "source": "ai",
+   "text": "Biz onları, bahçe sahiplerini denediğimiz gibi denedik; o zaman onlar «sabah olunca muhakkak onu koparacağız» diye yemin etmişlerdi."
+  },
+  {
+   "verseNo": 18,
+   "verseNoEnd": null,
+   "source": "ai",
+   "text": "Hiç kimseyi istisna etmediler."
+  },
+  {
+   "verseNo": 19,
+   "verseNoEnd": null,
+   "source": "ai",
+   "text": "Sonra Rabbinin bir topluluğu onun etrafında dolaştı; onlar uyuyorlardı."
+  },
+  {
+   "verseNo": 20,
+   "verseNoEnd": null,
+   "source": "ai",
+   "text": "Sabah olunca harap bir hâl aldı."
+  },
+  {
+   "verseNo": 21,
+   "verseNoEnd": null,
+   "source": "ai",
+   "text": "Sabahleyin birbirlerine seslendiler."
+  },
+  {
+   "verseNo": 22,
+   "verseNoEnd": null,
+   "source": "ai",
+   "text": "Sabahleyin tarlanıza gidin; eğer kararlıysanız."
+  },
+  {
+   "verseNo": 23,
+   "verseNoEnd": null,
+   "source": "ai",
+   "text": "Fısıldaşarak yola çıktılar."
+  },
+  {
+   "verseNo": 24,
+   "verseNoEnd": null,
+   "source": "ai",
+   "text": "Bugün oraya sizden hiçbir yoksul girmesin diye."
+  },
+  {
+   "verseNo": 25,
+   "verseNoEnd": null,
+   "source": "ai",
+   "text": "Ertesi sabah kararlı ve güçlü olarak tarlalarına gittiler."
+  },
+  {
+   "verseNo": 26,
+   "verseNoEnd": null,
+   "source": "ai",
+   "text": "Onu görünce: “Gerçekten aldanmışız” dediler."
+  },
+  {
+   "verseNo": 27,
+   "verseNoEnd": null,
+   "source": "ai",
+   "text": "Hayır, biz mahrum bırakılmışız."
+  },
+  {
+   "verseNo": 28,
+   "verseNoEnd": null,
+   "source": "ai",
+   "text": "Aralarından ortanca olanı dedi: «Size demedim mi, niçin tesbih etmiyorsunuz?»"
+  },
+  {
+   "verseNo": 29,
+   "verseNoEnd": null,
+   "source": "ai",
+   "text": "Dediler: “Rabbimiz! Seni her türlü eksiklikten tenzih ederiz; gerçekten biz zalimdik.”"
+  },
+  {
+   "verseNo": 30,
+   "verseNoEnd": null,
+   "source": "ai",
+   "text": "Sonra birbirlerine döndüler ve birbirlerini azarladılar."
+  },
+  {
+   "verseNo": 31,
+   "verseNoEnd": null,
+   "source": "ai",
+   "text": "Dediler: \"Vay halimize! Gerçekten biz isyan etmişiz.\""
+  },
+  {
+   "verseNo": 32,
+   "verseNoEnd": null,
+   "source": "ai",
+   "text": "Belki Rabbimiz bizi onun yerine daha hayırlısıyla değiştirir; şüphesiz biz Rabbimize yönelmişiz."
+  },
+  {
+   "verseNo": 33,
+   "verseNoEnd": null,
+   "source": "ai",
+   "text": "İşte azap böyledir; ahiret azabı ise daha büyüktür. Keşke bilselerdi."
+  },
+  {
+   "verseNo": 34,
+   "verseNoEnd": null,
+   "source": "ai",
+   "text": "Şüphesiz sakınanlar için Rableri katında nimet cennetleri vardır."
+  },
+  {
+   "verseNo": 35,
+   "verseNoEnd": null,
+   "source": "ai",
+   "text": "Müslümanları suçlularla mı aynı kılalım?"
+  },
+  {
+   "verseNo": 36,
+   "verseNoEnd": null,
+   "source": "ai",
+   "text": "Size ne oluyor? Nasıl hüküm veriyorsunuz?"
+  },
+  {
+   "verseNo": 37,
+   "verseNoEnd": null,
+   "source": "ai",
+   "text": "Yoksa üzerinde okuduğunuz bir kitabınız mı var?"
+  },
+  {
+   "verseNo": 38,
+   "verseNoEnd": null,
+   "source": "ai",
+   "text": "Gerçekten onda sizin için seçtiğiniz şeyler vardır."
+  },
+  {
+   "verseNo": 39,
+   "verseNoEnd": null,
+   "source": "ai",
+   "text": "Yoksa bizim üzerimizde Kıyamet Günü'ne dek geçerli olan yeminleriniz mi var? Şüphesiz sizin hükmünüz vardır."
+  },
+  {
+   "verseNo": 40,
+   "verseNoEnd": null,
+   "source": "ai",
+   "text": "Onlara sor: hanginiz bunun iddia sahibidir?"
+  },
+  {
+   "verseNo": 41,
+   "verseNoEnd": null,
+   "source": "ai",
+   "text": "Yoksa onların ortakları mı var? Öyleyse, eğer doğru söylüyorlarsa ortaklarını getirsinler."
+  },
+  {
+   "verseNo": 42,
+   "verseNoEnd": null,
+   "source": "ai",
+   "text": "O gün bir bacak açığa çıkarılacak ve onlara secdeye çağrı yapılacak; fakat yapamayacaklar."
+  },
+  {
+   "verseNo": 43,
+   "verseNoEnd": null,
+   "source": "ai",
+   "text": "Gözleri mahcup olacak; zillet onları kaplayacak. Oysa daha önce secdeye çağrıldıklarında kendilerini güvende sanıyorlardı."
+  },
+  {
+   "verseNo": 44,
+   "verseNoEnd": null,
+   "source": "ai",
+   "text": "Beni ve bu sözü yalanlayanları bırak; biz onları bilmedikleri yerlerden adım adım sürükleyeceğiz."
+  },
+  {
+   "verseNo": 45,
+   "verseNoEnd": null,
+   "source": "ai",
+   "text": "Onlara mühlet ver; şüphesiz benim planım sağlamdır."
+  },
+  {
+   "verseNo": 46,
+   "verseNoEnd": null,
+   "source": "ai",
+   "text": "Onlardan ücret mi istiyorsun? Onlar ağır bir borç yükü altındadırlar."
+  },
+  {
+   "verseNo": 47,
+   "verseNoEnd": null,
+   "source": "ai",
+   "text": "Yoksa gizli bilgi onlarda mı da onu yazıyorlar?"
+  },
+  {
+   "verseNo": 48,
+   "verseNoEnd": null,
+   "source": "ai",
+   "text": "Rabbinin hükmüne sabret ve balığın sahibinin çağırdığı sırada olduğu gibi olma; o sıkıntı içindeydi."
+  },
+  {
+   "verseNo": 49,
+   "verseNoEnd": null,
+   "source": "ai",
+   "text": "Eğer Rabbinin bir lütfu onu yetiştirmemiş olsaydı, o ayıplanmış olarak çıplak yere atılacaktı."
+  },
+  {
+   "verseNo": 50,
+   "verseNoEnd": null,
+   "source": "ai",
+   "text": "Sonra Rabbi onu seçti ve onu salihlerden kıldı."
+  },
+  {
+   "verseNo": 51,
+   "verseNoEnd": null,
+   "source": "ai",
+   "text": "İnkâr edenler o hatırlatmayı işitince neredeyse gözleriyle seni düşüreceklerdi; ve derlerdi: \"O kesinlikle delidir.\""
+  },
+  {
+   "verseNo": 52,
+   "verseNoEnd": null,
+   "source": "ai",
+   "text": "O ise yalnızca âlemlere bir hatırlatmadır."
   }
- ]
+ ],
+ "aiParagraph": "Elinde yetki, servet ya da toplumsal ağırlık olan biri düşün: her yeminde pişmanlık bırakmayan, insanlar arasında söz taşıyan, iyiliğin önüne geçen, kaba ve sonradan edinilmiş bir kibir içinde dolaşan biri. Metin bu insanı adım adım çizer — ve sahip olduklarının onu haklı kılmadığını, aksine o sahip oluşun perdeyi daha da kalınlaştırdığını söyler. Sonra anlatı, gece yarısı aralarında konuşarak \"yarın kimseyi sokmayalım bahçeye\" diyen adamlara geçer; sabah kalktıklarında bahçenin kül olduğunu görürler. İçlerinden en dengeli olanı \"ben söylemedim mi?\" diye sorar, ötekiler birbirini suçlamaya başlar. Metin burada duraklar: bütün planın, kimseye bir şey vermemeye yemin etmenin sabahı var. Öte yandan metnin asıl omurgası başka bir şeyi tutuyor: yanlış ilan edilmiş, deli denen, tehdit altındaki bir insanın karakterine yapılan kesin ve sessiz bir güvence. O karakter teslim olmaz, yalnız ödün vermez — ve buna karşılık gelen şey, onayı dışarıdan beklememektir. Metnin sonu açık bir soru bırakır: kim haklı çıkacak, kim mahcup kalacak — ve bu hesabı kim tutacak?"
 }

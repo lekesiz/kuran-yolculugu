@@ -1,6 +1,24 @@
-/** The four translation sources permitted in this project. */
-export const TRANSLATION_SOURCES = ["diyanet", "okuyan", "islamoglu", "esed"] as const;
+/**
+ * Translation sources shown side by side. The first four are published,
+ * human-authored meals; `ai` is a machine translation produced inside this
+ * project and is labelled as such wherever it appears.
+ */
+export const TRANSLATION_SOURCES = [
+  "diyanet",
+  "okuyan",
+  "islamoglu",
+  "esed",
+  "ai",
+] as const;
 export type TranslationSource = (typeof TRANSLATION_SOURCES)[number];
+
+/** The four published meals, excluding the in-project machine translation. */
+export const PUBLISHED_TRANSLATION_SOURCES = [
+  "diyanet",
+  "okuyan",
+  "islamoglu",
+  "esed",
+] as const;
 
 export const TRANSLATION_LABELS: Record<
   TranslationSource,
@@ -25,6 +43,11 @@ export const TRANSLATION_LABELS: Record<
     short: "Esed",
     full: "Muhammed Esed — Kur'an Mesajı",
     note: "Modernist yorum geleneği; klasik Arap dilbilimine dayanır.",
+  },
+  ai: {
+    short: "AI",
+    full: "AI Tercümesi — bu proje içinde üretildi",
+    note: "Yayımlanmış bir meal değildir. Arapça metinden, yorum katmadan ve parantez içi açıklama eklemeden üretilmiş birebir çeviridir.",
   },
 };
 

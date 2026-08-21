@@ -1,540 +1,685 @@
 {
- "stationNo": 102,
- "surahNo": 59,
- "name": "Haşr",
- "nameArabic": "",
- "nameMeaning": "",
- "verseCount": 24,
- "nuzulOrderOkuyan": 102,
- "periodDiyanet": "Medine",
- "periodOkuyan": "Medine",
- "revelationTiming": "",
- "stationTitle": "Kuşatılan kalpler, yıkılan duvarlar ve sarsılmaz bir tesbih.",
- "introduction": "Haşr suresi, adını ikinci ayetinde geçen ve 'toplanma, bir araya getirilip sürülme' anlamına gelen 'el-haşr' kelimesinden alır. Yirmi dört ayetten oluşan bu sure, Medine döneminde inmiştir. Surenin ana ekseni, insanın kendi inşa ettiği maddi ve sosyal güvenlik duvarlarına olan yersiz güveni ile Allah'ın mutlak gücü arasındaki karşıtlıktır.\n\nSure, göklerde ve yerde ne varsa hepsinin Allah'ı tesbih ettiği gerçeğiyle başlar ve yine aynı hakikatle son bulur. Bu çerçeve, surenin ortasında anlatılan insanlık durumlarını kozmik bir düzleme oturtur. Surenin ilk bölümü (1-10. ayetler), Nadîroğulları'nın Medine'den sürülmesini ve bu olaydan elde edilen ganimetlerin (fey) toplumsal adaleti sağlayacak şekilde nasıl paylaştırılacağını ele alır. Bu bölümde, muhacirlere kucak açan ensarın diğerkâmlığı ve kardeşlik ruhu övülür.\n\nİkinci bölümde (11-17. ayetler), münafıkların ve inançlarını yitirmiş kitap ehlinin kendi aralarındaki çıkar odaklı, sahte ittifakları deşifre edilir. Dışarıdan birlik gibi görünen ama içten içe paramparça olan bu yapıların, şeytanın aldatmacasına benzediği vurgulanır. Üçüncü ve son bölüm (18-24. ayetler) ise, inananları ahiret için hazırlık yapmaya çağırır ve Kur'an'ın dönüştürücü gücünü bir dağ metaforuyla anlatır. Sure, Allah'ın eşsiz isim ve sıfatlarının (Esmâ-i Hüsnâ) görkemli bir geçidiyle sona erer.",
- "occasionOfRevelation": "Haşr suresi, Medine döneminde, Uhud Gazvesi'nden sonra hicretin 4. yılında nazil olmuştur. Surenin inişine sebep olan temel olay, Medine'de yaşayan yahudi kabilelerinden Nadîroğulları'nın (Benî Nadîr) Hz. Peygamber ile yaptıkları tarafsızlık antlaşmasını bozmalarıdır.\n\nKaynakların aktardığına göre, Nadîroğulları başlangıçta müslümanların Bedir zaferine sevinmiş ve Tevrat'ta müjdelenen peygamberin Hz. Muhammed olduğunu ifade etmişlerdi. Ancak Uhud Savaşı'nın müslümanlar aleyhine sonuçlanması üzerine tutumlarını değiştirerek Mekkeli müşriklerle gizli bir ittifak kurdular. Hatta bazı rivayetlere göre, Hz. Peygamber bir diyet konusunu görüşmek üzere yanlarına gittiğinde ona suikast düzenlemeye kalkıştılar.\n\nBu ihanet üzerine Hz. Peygamber, Nadîroğulları'nı kendi yurtlarında kuşatma altına aldı. Onlar, sağlam kalelerine ve münafıkların reisi Abdullah b. Übey b. Selûl'den gelecek yardıma güveniyorlardı. Ancak bekledikleri yardım gelmedi, Allah kalplerine korku düşürdü ve sonunda silahları dışındaki eşyalarını alarak Medine'yi terk etmeye razı oldular. Sure, bu olayı anlatırken, dışarıdan yıkılmaz görünen yapıların, içsel bir çürüme ve ilahi irade karşısında nasıl kolayca çökebileceğini gözler önüne serer.",
- "occasionSources": "TDV İslâm Ansiklopedisi, \"Haşr Sûresi\" maddesi (Emin Işık); Diyanet İşleri Başkanlığı Kur'an Yolu Tefsiri, Haşr 1-5 ayet tefsiri; kuranokuyan.com, Haşr suresi girişi (Prof. Dr. Mehmet Okuyan).",
- "keyTerms": [
-  {
-   "term": "haşr",
-   "arabic": "حَشْر",
-   "verseRef": "59:2",
-   "meaning": "Toplanma, bir araya getirilip sevk edilme. Ayette, Nadîroğulları'nın yurtlarından çıkarılıp sürgüne gönderilmesi anlamında kullanılmıştır."
-  },
-  {
-   "term": "fey",
-   "arabic": "فَيْء",
-   "verseRef": "59:7",
-   "meaning": "Savaşılmadan elde edilen ganimet. Ayette, bu malların sadece zenginler arasında dolaşan bir servet olmaması, toplumsal adaleti sağlayacak şekilde paylaştırılması gerektiği vurgulanır."
-  },
-  {
-   "term": "tesbih",
-   "arabic": "تَسْبِيح",
-   "verseRef": "59:1, 24",
-   "meaning": "Allah'ı her türlü noksanlıktan tenzih etmek, O'nun mutlak mükemmelliğini ilan etmek. Surenin hem başında hem sonunda, tüm evrenin bu eylem içinde olduğu belirtilir."
-  },
-  {
-   "term": "îsâr",
-   "arabic": "إِيثَار",
-   "verseRef": "59:9",
-   "meaning": "Kendisinin ihtiyacı olsa bile başkasını kendine tercih etmek. Ayette, Medineli ensarın Mekkeli muhacirlere karşı gösterdiği eşsiz fedakârlığı ifade eder."
-  },
-  {
-   "term": "şuhh",
-   "arabic": "شُحّ",
-   "verseRef": "59:9",
-   "meaning": "Nefsin bencilce tutkusu, cimrilik ve hırs. Ayette, bu duygudan korunanların gerçek kurtuluşa ereceği müjdelenir."
-  }
- ],
- "themes": [
-  {
-   "label": "Sahte Güvenlik Duvarları",
-   "body": "İnsan, sahip olduğu servete, statüye veya teknolojiye güvenerek kendini yenilmez sanabilir. Ancak Haşr suresi, kalplerdeki korkunun ve içsel çürümenin, en sağlam kaleleri bile içeriden çökertebileceğini gösterir."
-  },
-  {
-   "label": "Çıkar Odaklı İttifakların Kırılganlığı",
-   "body": "Sadece ortak düşmanlıklar veya anlık çıkarlar üzerine kurulan ilişkiler, zor zamanlarda hızla dağılır. Sure, münafıkların ve inançsızların sahte dayanışmasını, şeytanın insanı yarı yolda bırakmasına benzetir."
-  },
-  {
-   "label": "Diğerkâmlık ve Toplumsal İyileşme",
-   "body": "Kendi ihtiyacı varken bile başkasını düşünebilmek (îsâr), bencilliğin (şuhh) panzehiridir. Toplumsal yaralar, ancak servetin ve imkânların adil paylaşımı ve kalplerdeki kinin silinmesiyle iyileşir."
-  }
- ],
- "questions": [
-  "Hayatımda 'bana bir şey olmaz' diyerek güvendiğim, ama aslında beni Allah'a karşı duyarsızlaştıran o 'sağlam kale' nedir?",
-  "İlişkilerim ve dostluklarım, ortak bir iyilik idealine mi dayanıyor, yoksa sadece anlık çıkarların ve ortak karşıtlıkların bir ürünü mü?",
-  "Kendi ihtiyacım olduğu halde, başkasının eksiğini gidermek için kendi hakkımdan feragat edebildiğim en son an ne zamandı?"
- ],
- "contemporaryMeaning": "Bu sure, insanın kendi elleriyle inşa ettiği güvenlik sistemlerine duyduğu kör inancın çöküşünü anlatır. En sağlam sanılan kalelerin, dışarıdan bir saldırıyla değil, içerideki korku ve hesaplaşmalarla nasıl yıkıldığını gösterir. Metin, gücü elinde tuttuğunu zannedenlerin, kendi kurdukları yapıların içinde nasıl hapsolduklarını ve çıkara dayalı ittifakların ilk kriz anında nasıl dağıldığını teşhis eder.\n\nBugünün diliyle: yüksek güvenlikli siteler, şifrelenmiş veri tabanları, sigorta poliçeleri veya banka hesaplarındaki rakamlar insana dokunulmazlık hissi verdiğinde, sure bu yanılsamayı parçalar. Sadece ortak çıkarlar veya ortak düşmanlıklar üzerinden kurulan siyasi koalisyonlar, şirket evlilikleri ya da sosyal medya linç grupları, kriz anında herkesin kendi canının derdine düştüğü birer hayal kırıklığına dönüşür. Dışarıdan sarsılmaz görünen yapılar, içlerindeki güvensizlik yüzünden kendi ağırlıkları altında ezilir.\n\nBuna karşılık metin, gerçek güvenliğin duvar örmekte değil, duvarları yıkıp başkasına yer açmakta olduğunu söyler. Kendi kredi borcu veya gelecek kaygısı varken bile bir başkasının eksiğini giderebilmek, insanın kendi bencilliğine karşı kazandığı en büyük zaferdir. Herkesin kendi kalesini tahkim ettiği bir düzende, elindekini paylaşarak eksilmeyi göze almak, korkunun egemenliğini kıran yegâne eylemdir.",
- "scholarlyNotes": [
-  {
-   "kind": "rivayet",
-   "body": "Sabah ve akşam Haşr suresinin son üç ayetini okumanın faziletiyle ilgili (70.000 meleğin dua etmesi, ölürse şehit sayılması vb.) Tirmizî ve Dârimî'de geçen rivayetler bulunmaktadır. Ancak Tirmizî bu hadisi 'garîb' olarak nitelendirmiş, senedindeki râvilerden Hâlid b. Tahmân'ın zayıf olduğu ve ömrünün son yıllarında hadisleri karıştırdığı hadis âlimlerince (Mizzî, Zehebî) belirtilmiştir. Dolayısıyla bu rivayet zayıftır.",
-   "label": "Haşr Suresinin Son Üç Ayetinin Fazileti"
-  },
-  {
-   "kind": "nuans",
-   "body": "Surenin ikinci ayetinde geçen 'haşr' kelimesi, kıyamet günündeki toplanmayı değil, Nadîroğulları'nın sürgün edilmek üzere toplanmasını ifade eder. İbn Abbas'ın bu yanlış anlaşılmayı önlemek için sureye 'Benî Nadîr' suresi demeyi tercih ettiği rivayet edilir.",
-   "label": "Haşr Kelimesinin Anlamı"
-  }
- ],
- "verses": [
-  {
-   "verseNo": 1,
-   "textArabic": "بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ سَبَّحَ لِلَّهِ مَا فِى ٱلسَّمَٰوَٰتِ وَمَا فِى ٱلْأَرْضِ ۖ وَهُوَ ٱلْعَزِيزُ ٱلْحَكِيمُ"
-  },
-  {
-   "verseNo": 2,
-   "textArabic": "هُوَ ٱلَّذِىٓ أَخْرَجَ ٱلَّذِينَ كَفَرُوا۟ مِنْ أَهْلِ ٱلْكِتَٰبِ مِن دِيَٰرِهِمْ لِأَوَّلِ ٱلْحَشْرِ ۚ مَا ظَنَنتُمْ أَن يَخْرُجُوا۟ ۖ وَظَنُّوٓا۟ أَنَّهُم مَّانِعَتُهُمْ حُصُونُهُم مِّنَ ٱللَّهِ فَأَتَىٰهُمُ ٱللَّهُ مِنْ حَيْثُ لَمْ يَحْتَسِبُوا۟ ۖ وَقَذَفَ فِى قُلُوبِهِمُ ٱلرُّعْبَ ۚ يُخْرِبُونَ بُيُوتَهُم بِأَيْدِيهِمْ وَأَيْدِى ٱلْمُؤْمِنِينَ فَٱعْتَبِرُوا۟ يَٰٓأُو۟لِى ٱلْأَبْصَٰرِ"
-  },
-  {
-   "verseNo": 3,
-   "textArabic": "وَلَوْلَآ أَن كَتَبَ ٱللَّهُ عَلَيْهِمُ ٱلْجَلَآءَ لَعَذَّبَهُمْ فِى ٱلدُّنْيَا ۖ وَلَهُمْ فِى ٱلْءَاخِرَةِ عَذَابُ ٱلنَّارِ"
-  },
-  {
-   "verseNo": 4,
-   "textArabic": "ذَٰلِكَ بِأَنَّهُمْ شَآقُّوا۟ ٱللَّهَ وَرَسُولَهُۥ ۖ وَمَن يُشَآقِّ ٱللَّهَ فَإِنَّ ٱللَّهَ شَدِيدُ ٱلْعِقَابِ"
-  },
-  {
-   "verseNo": 5,
-   "textArabic": "مَا قَطَعْتُم مِّن لِّينَةٍ أَوْ تَرَكْتُمُوهَا قَآئِمَةً عَلَىٰٓ أُصُولِهَا فَبِإِذْنِ ٱللَّهِ وَلِيُخْزِىَ ٱلْفَٰسِقِينَ"
-  },
-  {
-   "verseNo": 6,
-   "textArabic": "وَمَآ أَفَآءَ ٱللَّهُ عَلَىٰ رَسُولِهِۦ مِنْهُمْ فَمَآ أَوْجَفْتُمْ عَلَيْهِ مِنْ خَيْلٍۢ وَلَا رِكَابٍۢ وَلَٰكِنَّ ٱللَّهَ يُسَلِّطُ رُسُلَهُۥ عَلَىٰ مَن يَشَآءُ ۚ وَٱللَّهُ عَلَىٰ كُلِّ شَىْءٍۢ قَدِيرٌۭ"
-  },
-  {
-   "verseNo": 7,
-   "textArabic": "مَّآ أَفَآءَ ٱللَّهُ عَلَىٰ رَسُولِهِۦ مِنْ أَهْلِ ٱلْقُرَىٰ فَلِلَّهِ وَلِلرَّسُولِ وَلِذِى ٱلْقُرْبَىٰ وَٱلْيَتَٰمَىٰ وَٱلْمَسَٰكِينِ وَٱبْنِ ٱلسَّبِيلِ كَىْ لَا يَكُونَ دُولَةًۢ بَيْنَ ٱلْأَغْنِيَآءِ مِنكُمْ ۚ وَمَآ ءَاتَىٰكُمُ ٱلرَّسُولُ فَخُذُوهُ وَمَا نَهَىٰكُمْ عَنْهُ فَٱنتَهُوا۟ ۚ وَٱتَّقُوا۟ ٱللَّهَ ۖ إِنَّ ٱللَّهَ شَدِيدُ ٱلْعِقَابِ"
-  },
-  {
-   "verseNo": 8,
-   "textArabic": "لِلْفُقَرَآءِ ٱلْمُهَٰجِرِينَ ٱلَّذِينَ أُخْرِجُوا۟ مِن دِيَٰرِهِمْ وَأَمْوَٰلِهِمْ يَبْتَغُونَ فَضْلًۭا مِّنَ ٱللَّهِ وَرِضْوَٰنًۭا وَيَنصُرُونَ ٱللَّهَ وَرَسُولَهُۥٓ ۚ أُو۟لَٰٓئِكَ هُمُ ٱلصَّٰدِقُونَ"
-  },
-  {
-   "verseNo": 9,
-   "textArabic": "وَٱلَّذِينَ تَبَوَّءُو ٱلدَّارَ وَٱلْإِيمَٰنَ مِن قَبْلِهِمْ يُحِبُّونَ مَنْ هَاجَرَ إِلَيْهِمْ وَلَا يَجِدُونَ فِى صُدُورِهِمْ حَاجَةًۭ مِّمَّآ أُوتُوا۟ وَيُؤْثِرُونَ عَلَىٰٓ أَنفُسِهِمْ وَلَوْ كَانَ بِهِمْ خَصَاصَةٌۭ ۚ وَمَن يُوقَ شُحَّ نَفْسِهِۦ فَأُو۟لَٰٓئِكَ هُمُ ٱلْمُفْلِحُونَ"
-  },
-  {
-   "verseNo": 10,
-   "textArabic": "وَٱلَّذِينَ جَآءُو مِنۢ بَعْدِهِمْ يَقُولُونَ رَبَّنَا ٱغْفِرْ لَنَا وَلِإِخْوَٰنِنَا ٱلَّذِينَ سَبَقُونَا بِٱلْإِيمَٰنِ وَلَا تَجْعَلْ فِى قُلُوبِنَا غِلًّۭا لِّلَّذِينَ ءَامَنُوا۟ رَبَّنَآ إِنَّكَ رَءُوفٌۭ رَّحِيمٌ"
-  },
-  {
-   "verseNo": 11,
-   "textArabic": "۞ أَلَمْ تَرَ إِلَى ٱلَّذِينَ نَافَقُوا۟ يَقُولُونَ لِإِخْوَٰنِهِمُ ٱلَّذِينَ كَفَرُوا۟ مِنْ أَهْلِ ٱلْكِتَٰبِ لَئِنْ أُخْرِجْتُمْ لَنَخْرُجَنَّ مَعَكُمْ وَلَا نُطِيعُ فِيكُمْ أَحَدًا أَبَدًۭا وَإِن قُوتِلْتُمْ لَنَنصُرَنَّكُمْ وَٱللَّهُ يَشْهَدُ إِنَّهُمْ لَكَٰذِبُونَ"
-  },
-  {
-   "verseNo": 12,
-   "textArabic": "لَئِنْ أُخْرِجُوا۟ لَا يَخْرُجُونَ مَعَهُمْ وَلَئِن قُوتِلُوا۟ لَا يَنصُرُونَهُمْ وَلَئِن نَّصَرُوهُمْ لَيُوَلُّنَّ ٱلْأَدْبَٰرَ ثُمَّ لَا يُنصَرُونَ"
-  },
-  {
-   "verseNo": 13,
-   "textArabic": "لَأَنتُمْ أَشَدُّ رَهْبَةًۭ فِى صُدُورِهِم مِّنَ ٱللَّهِ ۚ ذَٰلِكَ بِأَنَّهُمْ قَوْمٌۭ لَّا يَفْقَهُونَ"
-  },
-  {
-   "verseNo": 14,
-   "textArabic": "لَا يُقَٰتِلُونَكُمْ جَمِيعًا إِلَّا فِى قُرًۭى مُّحَصَّنَةٍ أَوْ مِن وَرَآءِ جُدُرٍۭ ۚ بَأْسُهُم بَيْنَهُمْ شَدِيدٌۭ ۚ تَحْسَبُهُمْ جَمِيعًۭا وَقُلُوبُهُمْ شَتَّىٰ ۚ ذَٰلِكَ بِأَنَّهُمْ قَوْمٌۭ لَّا يَعْقِلُونَ"
-  },
-  {
-   "verseNo": 15,
-   "textArabic": "كَمَثَلِ ٱلَّذِينَ مِن قَبْلِهِمْ قَرِيبًۭا ۖ ذَاقُوا۟ وَبَالَ أَمْرِهِمْ وَلَهُمْ عَذَابٌ أَلِيمٌۭ"
-  },
-  {
-   "verseNo": 16,
-   "textArabic": "كَمَثَلِ ٱلشَّيْطَٰنِ إِذْ قَالَ لِلْإِنسَٰنِ ٱكْفُرْ فَلَمَّا كَفَرَ قَالَ إِنِّى بَرِىٓءٌۭ مِّنكَ إِنِّىٓ أَخَافُ ٱللَّهَ رَبَّ ٱلْعَٰلَمِينَ"
-  },
-  {
-   "verseNo": 17,
-   "textArabic": "فَكَانَ عَٰقِبَتَهُمَآ أَنَّهُمَا فِى ٱلنَّارِ خَٰلِدَيْنِ فِيهَا ۚ وَذَٰلِكَ جَزَٰٓؤُا۟ ٱلظَّٰلِمِينَ"
-  },
-  {
-   "verseNo": 18,
-   "textArabic": "يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ ٱتَّقُوا۟ ٱللَّهَ وَلْتَنظُرْ نَفْسٌۭ مَّا قَدَّمَتْ لِغَدٍۢ ۖ وَٱتَّقُوا۟ ٱللَّهَ ۚ إِنَّ ٱللَّهَ خَبِيرٌۢ بِمَا تَعْمَلُونَ"
-  },
-  {
-   "verseNo": 19,
-   "textArabic": "وَلَا تَكُونُوا۟ كَٱلَّذِينَ نَسُوا۟ ٱللَّهَ فَأَنسَىٰهُمْ أَنفُسَهُمْ ۚ أُو۟لَٰٓئِكَ هُمُ ٱلْفَٰسِقُونَ"
-  },
-  {
-   "verseNo": 20,
-   "textArabic": "لَا يَسْتَوِىٓ أَصْحَٰبُ ٱلنَّارِ وَأَصْحَٰبُ ٱلْجَنَّةِ ۚ أَصْحَٰبُ ٱلْجَنَّةِ هُمُ ٱلْفَآئِزُونَ"
-  },
-  {
-   "verseNo": 21,
-   "textArabic": "لَوْ أَنزَلْنَا هَٰذَا ٱلْقُرْءَانَ عَلَىٰ جَبَلٍۢ لَّرَأَيْتَهُۥ خَٰشِعًۭا مُّتَصَدِّعًۭا مِّنْ خَشْيَةِ ٱللَّهِ ۚ وَتِلْكَ ٱلْأَمْثَٰلُ نَضْرِبُهَا لِلنَّاسِ لَعَلَّهُمْ يَتَفَكَّرُونَ"
-  },
-  {
-   "verseNo": 22,
-   "textArabic": "هُوَ ٱللَّهُ ٱلَّذِى لَآ إِلَٰهَ إِلَّا هُوَ ۖ عَٰلِمُ ٱلْغَيْبِ وَٱلشَّهَٰدَةِ ۖ هُوَ ٱلرَّحْمَٰنُ ٱلرَّحِيمُ"
-  },
-  {
-   "verseNo": 23,
-   "textArabic": "هُوَ ٱللَّهُ ٱلَّذِى لَآ إِلَٰهَ إِلَّا هُوَ ٱلْمَلِكُ ٱلْقُدُّوسُ ٱلسَّلَٰمُ ٱلْمُؤْمِنُ ٱلْمُهَيْمِنُ ٱلْعَزِيزُ ٱلْجَبَّارُ ٱلْمُتَكَبِّرُ ۚ سُبْحَٰنَ ٱللَّهِ عَمَّا يُشْرِكُونَ"
-  },
-  {
-   "verseNo": 24,
-   "textArabic": "هُوَ ٱللَّهُ ٱلْخَٰلِقُ ٱلْبَارِئُ ٱلْمُصَوِّرُ ۖ لَهُ ٱلْأَسْمَآءُ ٱلْحُسْنَىٰ ۚ يُسَبِّحُ لَهُۥ مَا فِى ٱلسَّمَٰوَٰتِ وَٱلْأَرْضِ ۖ وَهُوَ ٱلْعَزِيزُ ٱلْحَكِيمُ"
-  }
- ],
- "translations": [
-  {
-   "verseNo": 1,
-   "source": "diyanet",
-   "text": "Göklerdeki ve yerdeki her şey Allah'ı tespih etmektedir. O, mutlak güç sahibidir, hüküm ve hikmet sahibidir."
-  },
-  {
-   "verseNo": 1,
-   "source": "okuyan",
-   "text": "Göklerde ve yerde ne varsa hepsi Allah’ı tesbih eder (yüceltir). O güçlüdür, doğru hüküm verendir."
-  },
-  {
-   "verseNo": 1,
-   "source": "esed",
-   "text": "Göklerde ve yerde olan her şey Allah´ın sınırsız şanını yüceltir; çünkü yalnız O´dur izzet ve hikmet sahibi"
-  },
-  {
-   "verseNo": 2,
-   "source": "diyanet",
-   "text": "O, kitap ehlinden inkar edenleri ilk toplu sürgünde yurtlarından çıkarandır. Siz onların çıkacaklarını sanmamıştınız. Onlar da kalelerinin, kendilerini Allah'tan koruyacağını sanmışlardı. Ama Allah‘ın emri onlara ummadıkları yerden geldi. O, yüreklerine korku düşürdü. Öyle ki, evlerini hem kendi elleriyle, hem de mü'minlerin elleriyle yıkıyorlardı. Ey basiret sahipleri ibret alın."
-  },
-  {
-   "verseNo": 2,
-   "source": "okuyan",
-   "text": "Kitap ehlinden kâfir olanları, ilk sürgünde yurtlarından çıkartan O’dur. Siz onların (yurtlarından) çıkacaklarını sanmamıştınız. Onlar da kalelerinin kendilerini Allah’tan koruyacağını sanmışlardı. (Ancak) Allah onlara beklemedikleri yerden (azabıyla) geldi ve yüreklerine korku düşürdü. (Onlar) evlerini (yurtlarını) hem kendi elleriyle hem de müminlerin elleriyle tahrip ediyorlar(dı). Ey öngörü sahipleri! İbret alın!"
-  },
-  {
-   "verseNo": 2,
-   "source": "esed",
-   "text": "Hakikati inkara şartlanmış olan geçmiş vahyin mensuplarını (savaş için) ilk toplanmalarında yurtlarından çıkaran O´dur. Siz (ey müminler,) onların (hiçbir direnme göstermeden) bırakıp gideceklerini düşünmediniz; onlar da kalelerinin kendilerini Allah´a karşı koruyacağını sandılar ama Allah onlara hiç beklemedikleri bir tarzda vurdu ve kalplerine korku saldı; onlar (böylece) yurtlarını kendi elleriyle ve müminlerin eliyle yok ettiler. Öyleyse bundan ders alın siz ey derin kavrayış sahipleri"
-  },
-  {
-   "verseNo": 3,
-   "source": "diyanet",
-   "text": "Eğer Allah, onlar hakkında sürülmeye hükmetmemiş olsaydı, muhakkak kendilerine dünyada azap edecekti. Ahirette ise, onlar için cehennem azabı vardır."
-  },
-  {
-   "verseNo": 3,
-   "source": "okuyan",
-   "text": "Allah onlara (yaptıklarına karşılık ceza olarak) sürgünü yazmamış olsaydı, elbette onları dünyada (başka bir şekilde) cezalandıracaktı. Ahirette de onlar için ateş azabı vardır."
-  },
-  {
-   "verseNo": 3,
-   "source": "esed",
-   "text": "Allah onlar için sürülmeyi takdir etmemiş olsaydı, bu dünyada onları (daha büyük) bir azaba çarptırırdı; öteki dünyada ise onları ateşin azabı beklemektedir"
-  },
-  {
-   "verseNo": 4,
-   "source": "diyanet",
-   "text": "Bu, onların Allah'a ve Resülüne karşı gelmeleri sebebiyledir. Kim Allah'a karşı gelirse bilsin ki, Allah'ın azabı şiddetlidir."
-  },
-  {
-   "verseNo": 4,
-   "source": "okuyan",
-   "text": "Bu (uygulama), onların Allah’a ve Elçisine karşı gelmelerinden ötürüdür. Kim Allah’a karşı gelirse, şüphesiz ki Allah azabı şiddetli olandır."
-  },
-  {
-   "verseNo": 4,
-   "source": "esed",
-   "text": "Bu, Allah ve Elçisi ile bağlarını koparmalarından dolayıdır; Allah ve Elçisi ile (böylece) bağını koparana gelince; şüphesiz Allah´ın misillemesi çetindir"
-  },
-  {
-   "verseNo": 5,
-   "source": "diyanet",
-   "text": "(Savaş gereği,) hurma ağaçlarından her neyi kestiniz, yahut (kesmeyip) kökleri üzerinde dikili bıraktınızsa hep Allah'ın izniyledir. Bu da fasıkları rezil etmesi içindir."
-  },
-  {
-   "verseNo": 5,
-   "source": "okuyan",
-   "text": "Hurma ağaçlarından herhangi birini kesmeniz veya kökleri üzerinde ayakta bırakmanız hep Allah’ın izniyledir. Sonunda (Allah) yoldan çıkanları rezil eder."
-  },
-  {
-   "verseNo": 5,
-   "source": "esed",
-   "text": "(Onların) hurma ağaçlarından her ne kestiyseniz (ey müminler,) veya kökleri üzerinde her ne bıraktıysanız, hepsi Allah´ın izniyle (olmuştu) ve O´nun yoldan çıkanları cezalandırması içindi"
-  },
-  {
-   "verseNo": 6,
-   "source": "diyanet",
-   "text": "Onların mallarından Allah'ın, savaşılmaksızın peygamberine kazandırdığı mallar için siz, at ya da deve koşturmuş değilsiniz. Fakat Allah, peygamberlerini, dilediği kimselerin üzerine salıp onlara üstün kılar. Allah'ın her şeye hakkıyla gücü yeter."
-  },
-  {
-   "verseNo": 6,
-   "source": "okuyan",
-   "text": "Allah’ın, onlardan (mallardan sorumluluğunu Elçisine) verdiği şeyler (fey'ler) için siz at ve deve koşturmamıştınız. Fakat Allah elçilerini dilediği kişilere üstün kılar. Allah her şeye gücü yetendir."
-  },
-  {
-   "verseNo": 6,
-   "source": "esed",
-   "text": "Yine (hatırlayın!) Düşmandan (ganimet olarak) ne alındıysa Allah hepsini Elçisi´ne devretti, onu (elde etmek) için at veya deve sevk etmek zorunda kalmadınız ama Allah elçilerini kimi dilediyse onlara üstün kılar; Allah dilediğini yapmaya kadirdir"
-  },
-  {
-   "verseNo": 7,
-   "source": "diyanet",
-   "text": "Allah'ın, (fethedilen) memleketlerin ahalisinden savaşılmaksızın peygamberine kazandırdığı mallar; Allah'a, peygambere, onun yakınlarına, yetimlere, yoksullara ve yolda kalmışlara aittir. O mallar, içinizden yalnız zenginler arasında dolaşan bir servet (ve güç) haline gelmesin diye (Allah böyle hükmetmiştir). Peygamber size ne verdiyse onu alın, neyi de size yasak ettiyse ondan vazgeçin. Allah'a karşı gelmekten sakının. Şüphesiz, Allah'ın azabı çetindir."
-  },
-  {
-   "verseNo": 7,
-   "source": "okuyan",
-   "text": "Allah’ın (fethedilen) şehirler(in) halkından (sorumluluğunu) Elçisine verdiği şeyler, içinizden sadece zenginler arasında (dolaşan) bir devlet olmasın diye Allah, Elçi, yakınlık sahibi (olanlar), yetimler, yoksullar ve yolcu(lar) içindir. Elçi size (fey’ ve ganimetten) ne verdiyse onu alın; size neyi yasakladıysa ondan da kaçının! Allah’a karşı takvâlı (duyarlı) olun! Şüphesiz ki Allah azabı şiddetli olandır."
-  },
-  {
-   "verseNo": 7,
-   "source": "esed",
-   "text": "Bu beldelerin halkından (ganimet olarak) ne alındıysa Allah, hepsini Elçisi´ne devretti, (ganimetin tümü,) Allah´a ve Elçisi´ne, (ölen müminlerin) yakınlarına, yetimlere, yoksullara ve yolculara aittir; (böyle yapıldı) ki o, içinizden (zaten) zengin olanlar arasında dolaşıp duran (bir servet) haline gelmesin. Bu nedenle, Elçi size (ondan) ne kadar verirse (gönülden) kabul edin ve size vermediği şey(i istemek)ten kaçının; ve Allah´a karşı sorumluluğunuzun bilincinde olun! Çünkü Allah misillemesinde çetindir"
-  },
-  {
-   "verseNo": 8,
-   "source": "diyanet",
-   "text": "Bu mallar özellikle, Allah'tan bir lütuf ve hoşnudluk ararken ve Allah'ın dinine ve peygamberine yardım ederken yurtlarından ve mallarından uzaklaştırılan fakir muhacirlerindir. İşte onlar doğru kimselerin ta kendileridir."
-  },
-  {
-   "verseNo": 8,
-   "source": "okuyan",
-   "text": "(Bu ganimet malları), yurtlarından ve mallarından uzaklaştırılmış olan, Allah’tan bir lütuf ve rıza dileyen, Allah’(ın dinin)e ve Elçisine yardım eden muhacir fakirlerindir. İşte doğru olanlar sadece bunlardır."
-  },
-  {
-   "verseNo": 8,
-   "source": "esed",
-   "text": "(Böylece, bu ganimetlerin bir kısmı) zulüm ve kötülük diyarını terk etmiş olanlar arasındaki yoksullar(a verilecektir.) Yurtlarından ve mülklerinden sürülmüş, Allah´ın lütfunu ve rızasını arayan ve Allah´a ve Elçisi(nin davası)na yardım edenler, sözlerinde duranlar işte onlardır"
-  },
-  {
-   "verseNo": 9,
-   "source": "diyanet",
-   "text": "Onlardan (muhacirlerden) önce o yurda (Medine'ye) yerleşmiş ve imanı da gönüllerine yerleştirmiş olanlar, hicret edenleri severler. Onlara verilenlerden dolayı içlerinde bir rahatsızlık duymazlar. Kendileri son derece ihtiyaç içinde bulunsalar bile onları kendilerine tercih ederler. Kim nefsinin cimriliğinden, hırsından korunursa, işte onlar kurtuluşa erenlerin ta kendileridir."
-  },
-  {
-   "verseNo": 9,
-   "source": "okuyan",
-   "text": "Daha önceden (Medine’yi) yurt edinmiş ve kalplerine imanı yerleştirmiş olanlar (ensar), kendilerine hicret edenleri (muhacirleri) severler. Onlara verilenlerden dolayı göğüslerinde (kalplerinde) herhangi bir ihtiyaç hissetmezler. Kendileri ihtiyaç içinde bulunsalar bile onları kendilerine tercih ederler. Kim nefsinin cimriliğinden korunursa, işte onlar kurtulanların ta kendileridir."
-  },
-  {
-   "verseNo": 9,
-   "source": "esed",
-   "text": "Onlardan önce bu yöreyi yurt edinmiş ve (gönüllerine) imanı yerleştirmiş olanlar (arasındaki yoksullara da ganimetin bir kısmı verilecektir), bir sığınak arayışı içinde kendilerine gelenlerin hepsini seven ve başkasına verilmiş olanlara karşı kalplerinde hiçbir haset olmayan, aksine kendileri yoksulluk içinde bulunsalar bile diğerlerini kendilerine tercih edenler; işte böyleleri, açgözlülükten korunanlardır, onlardır mutluluğa ulaşacak olanlar"
-  },
-  {
-   "verseNo": 10,
-   "source": "diyanet",
-   "text": "Onlardan sonra gelenler ise şöyle derler: \"Ey Rabbimiz! Bizi ve bizden önce iman etmiş olan kardeşlerimizi bağışla. Kalplerimizde, iman edenlere karşı hiçbir kin tutturma! Ey Rabbimiz! Şüphesiz sen çok esirgeyicisin, çok merhametlisin.\""
-  },
-  {
-   "verseNo": 10,
-   "source": "okuyan",
-   "text": "Bunların arkasından gelenler şöyle dua ederler: “Rabbimiz! Bizi ve imanda bizi geçmiş (bizden önce iman etmiş) kardeşlerimizi bağışla! İman edenlere kalplerimizde hiçbir kin bırakma! Rabbimiz! Şüphesiz ki sen çok şefkatlisin; çok merhametlisin!\""
-  },
-  {
-   "verseNo": 10,
-   "source": "esed",
-   "text": "Onlardan sonra gelenler, \"Ey Rabbimiz!\" diye yalvarırlar, \"Bizi ve bizden önce iman etmiş olan kardeşlerimizi bağışla ve imana ermiş olan(lardan hiçbiri)ne karşı kalplerimizde yersiz ve uygunsuz düşünce veya duygulara yer bırakma. Ey Rabbimiz! Sen şefkat Sahibisin, rahmet kaynağısın"
-  },
-  {
-   "verseNo": 11,
-   "source": "diyanet",
-   "text": "Kitap ehlinden O inkar eden kardeşlerine, \"Yemin ederiz ki, siz (Medine'den) çıkarılırsanız, muhakkak biz de sizinle beraber çıkarız. Sizin hakkınızda asla kimseye boyun eğmeyiz. Eğer size karşı savaşılırsa size mutlaka yardım ederiz\" diyerek münafıklık yapanlara bakmaz mısın? Halbuki Allah onların kesinlikle yalancı olduklarına şahitlik eder."
-  },
-  {
-   "verseNo": 11,
-   "source": "okuyan",
-   "text": "Münafıkların, kitap ehlinden kâfir olan kardeşlerine “Siz (yurdunuzdan) çıkartılırsanız, mutlaka biz de sizinle birlikte çıkarız; sizin aleyhinizde kimseye asla uymayız. Sizinle savaşılırsa mutlaka size yardım ederiz.' dediklerini görmedin mi?\" Allah onların yalancı olduklarına şahitlik eder."
-  },
-  {
-   "verseNo": 11,
-   "source": "esed",
-   "text": "(Gerçek duygularını) her zaman gizleyenlerin, geçmiş vahiylerin mensupları arasındaki inkarcı yandaşlarına, \"Eğer buradan sürülürseniz biz de kesinlikle sizinle geleceğiz ve size karşı olan hiç kimseye kulak vermeyeceğiz ve size savaş açılırsa mutlaka yardımınıza geleceğiz\" dediklerinden haberin yok mu? Ama Allah, onların göz göre göre yalan söylediklerine şahitlik yapar"
-  },
-  {
-   "verseNo": 12,
-   "source": "diyanet",
-   "text": "Andolsun, eğer (kardeşleri Medine'den) çıkarılırsa, onlarla beraber çıkmazlar. Kendilerine karşı savaşılırsa, onlara yardım etmezler. Yardım edecek olsalar bile, andolsun mutlaka arkalarını dönüp kaçarlar, sonra kendilerine de yardım edilmez."
-  },
-  {
-   "verseNo": 12,
-   "source": "okuyan",
-   "text": "Şüphesiz ki onlar (yurtlarından) çıkarılsalar, onlarla birlikte (evlerinden bile) çıkmazlar. Savaşa tutuşmuş olsalar, onlara yardım etmezler. Yardım etseler bile arkalarını dönüp kaçarlar; sonra kendilerine de yardım edilmez."
-  },
-  {
-   "verseNo": 12,
-   "source": "esed",
-   "text": "(çünkü) eğer (kendilerine karşı taahhüt altına girdikleri) o kimseler gerçekten sürülürlerse onlarla birlikte gitmezler; ve onlara savaş açıldığında yardımlarına gelmezler; yardım et(meye çalış)salar bile sonra arkalarını dön(üp kaç)arlar ve sonunda (kendileri de) bir yardım görmezler"
-  },
-  {
-   "verseNo": 13,
-   "source": "diyanet",
-   "text": "Onların kalplerinde size karşı duydukları korku, Allah'a karşı duydukları korkudan daha baskındır. Bu onların anlamaz bir toplum olmaları sebebiyledir."
-  },
-  {
-   "verseNo": 13,
-   "source": "okuyan",
-   "text": "Onların göğüslerinde (içlerinde) size karşı duydukları korku, Allah’a olan korkularından daha şiddetlidir. Bunun sebebi, onların (gerçeği) anlamayan bir topluluk oluşudur."
-  },
-  {
-   "verseNo": 13,
-   "source": "esed",
-   "text": "Evet, (ey müminler,) siz onların kalplerine Allah (korkusun)dan da daha şiddetli bir korku salarsınız, çünkü onlar hakikati kavramaktan aciz bir topluluktur"
-  },
-  {
-   "verseNo": 14,
-   "source": "diyanet",
-   "text": "Onlar müstahkem kaleler içinde veya duvarlar arkasında olmadan sizinle toplu halde savaşmazlar. Kendi aralarındaki çekişmeleri şiddetlidir. Sen onları toplu sanırsın. Halbuki kalpleri darmadağınıktır. Bu, onların akılları ermez bir topluluk olmalarındandır."
-  },
-  {
-   "verseNo": 14,
-   "source": "okuyan",
-   "text": "Onlar, korunaklı şehirlerde veya duvarlar (siperler) arkasında bulunmadan sizinle toplu hâlde savaşamazlar. Kendi aralarındaki savaşları ise şiddetlidir. Sen onları derli toplu sanırsın, (oysa) kalpleri darmadağındır. Bunun sebebi, onların akıl etmeyen bir topluluk oluşlarıdır."
-  },
-  {
-   "verseNo": 14,
-   "source": "esed",
-   "text": "Onlar ittifak içinde oldukları zaman (bile), ancak sağlam kaleler içinden veya surlar arkasından savaşırlar. Kendi aralarındaki çekişmeleri şiddetlidir; sen onları birlik sanırsın, halbuki (aslında) kalpleri (birbirlerine) karşı soğuktur; çünkü onlar akıllarını kullanmayan bir topluluktur"
-  },
-  {
-   "verseNo": 15,
-   "source": "diyanet",
-   "text": "Onların durumu, kendilerinden az öncekilerin (Mekkeli müşriklerin) durumu gibidir. Onlar (Bedir'de) yaptıklarının cezasını tatmışlardır. Onlara (Ahirette de) elem dolu bir azap vardır."
-  },
-  {
-   "verseNo": 15,
-   "source": "okuyan",
-   "text": "(Onların durumu), kendilerinden az önce geçmiş ve yaptıklarının cezasını tatmış olanların örneği gibidir. Onlara elem verici bir azap vardır."
-  },
-  {
-   "verseNo": 15,
-   "source": "esed",
-   "text": "(Ey müminler, düşmanlarınızın her ikisinin akibeti de) onlardan kısa bir süre önce, kendi yaptıklarından doğan felaketi tatmış olanlar(ınki) gibi (olacak)tır ve onları (öteki dünyada daha şiddetli) bir azap beklemektedir"
-  },
-  {
-   "verseNo": 16,
-   "source": "diyanet",
-   "text": "Münafıkların durumu ise tıpkı şeytanın durumu gibidir. Çünkü şeytan insana, \"İnkar et\" der; insan inkar edince de, \"Şüphesiz ben senden uzağım. Çünkü ben âlemlerin Rabbi olan Allah'tan korkarım\" der."
-  },
-  {
-   "verseNo": 16,
-   "source": "okuyan",
-   "text": "(Münafıkların durumu) tıpkı şeytan(ın durumu) gibidir. Hani şeytan, insana “İnkâr et!” der. (İnsan) inkâr edince de “Şüphesiz ki ben senden uzağım; şüphesiz ki ben âlemlerin Rabbi olan Allah’tan korkarım!” der."
-  },
-  {
-   "verseNo": 16,
-   "source": "esed",
-   "text": "tıpkı Şeytanın insana: \"Hakikati inkar et!\" deyip (insan da) inkar edince, \"Bak, ben senden, (senin yaptıklarından) sorumlu değilim, ben bütün alemlerin Rabbi olan Allah´tan korkarım!\" dediği zaman(ki) gibi"
-  },
-  {
-   "verseNo": 17,
-   "source": "diyanet",
-   "text": "Nihayet ikisinin de (azdıranın da azanın da) akıbeti, ebediyen ateşte kalmaları olmuştur. İşte zalimlerin cezası budur."
-  },
-  {
-   "verseNo": 17,
-   "source": "okuyan",
-   "text": "(Sonunda) içinde ebedî kalacakları ateş ikisinin de sonu olacaktır. İşte bu, zalimlerin cezasıdır."
-  },
-  {
-   "verseNo": 17,
-   "source": "esed",
-   "text": "Böylece, sonunda ikisi de, (hem hakikati inkar edenler, hem de ikiyüzlüler,) kendilerini yerleşip kalacakları bir ateşte bulacaklar, çünkü zalimlerin cezası budur"
-  },
-  {
-   "verseNo": 18,
-   "source": "diyanet",
-   "text": "Ey iman edenler! Allah'a karşı gelmekten sakının ve herkes, yarın için önceden ne göndermiş olduğuna baksın. Allah'a karşı gelmekten sakının. Şüphesiz Allah, yaptıklarınızdan hakkıyla haberdardır."
-  },
-  {
-   "verseNo": 18,
-   "source": "okuyan",
-   "text": "Ey iman edenler! Allah’a karşı takvâlı (duyarlı) olun ve herkes yarın için ne hazırladığına baksın! Allah’a karşı takvâlı (duyarlı) olun! Şüphesiz ki Allah yaptıklarınızdan haberdardır."
-  },
-  {
-   "verseNo": 18,
-   "source": "esed",
-   "text": "Siz ey imana ermiş olanlar! Allah´a karşı sorumluluğunuzun bilincinde olun; herkes yarın için ne hazırladığına baksın! Ve (bir kez daha) Allah´a karşı sorumluluğunuzun bilincinde olun, çünkü Allah bütün yaptıklarınızdan haberdardır"
-  },
-  {
-   "verseNo": 19,
-   "source": "diyanet",
-   "text": "Allah'ı unutan ve bu yüzden Allah'ın da kendilerine kendilerini unutturduğu kimseler gibi olmayın. İşte onlar fasık kimselerin ta kendileridir."
-  },
-  {
-   "verseNo": 19,
-   "source": "okuyan",
-   "text": "Allah’ı unutan ve (bu yüzden Allah’ın da) onlara kendilerini unutturduğu kişiler gibi olmayın! Onlar yoldan çıkanların ta kendileridir."
-  },
-  {
-   "verseNo": 19,
-   "source": "esed",
-   "text": "ve Allah´tan habersiz olan, bu nedenle Allah´ın da kendileri (için neyin iyi olduğu)ndan habersiz bıraktıkları gibi olmayın! (Çünkü) onlar gerçekten sapmış olanlardır"
-  },
-  {
-   "verseNo": 20,
-   "source": "diyanet",
-   "text": "Cehennemliklerle cennetlikler bir olmaz. Cennetlikler kurtuluşa erenlerin ta kendileridir."
-  },
-  {
-   "verseNo": 20,
-   "source": "okuyan",
-   "text": "Ateş halkı ile cennet halkı bir olmaz. Cennet halkı elbette kurtulanlardır."
-  },
-  {
-   "verseNo": 20,
-   "source": "esed",
-   "text": "Ateşe mahkum edilmiş olanlar ile cenneti hak etmiş olanlar bir olamaz. Cenneti hak etmiş olanlar, (Hesap Günü) kurtuluşa erecek olanlardır"
-  },
-  {
-   "verseNo": 21,
-   "source": "diyanet",
-   "text": "Eğer biz, bu Kur'an'ı bir dağa indirseydik, elbette sen onu Allah korkusundan başını eğerek parça parça olmuş görürdün. İşte misaller! Biz onları insanlara düşünsünler diye veriyoruz."
-  },
-  {
-   "verseNo": 21,
-   "source": "okuyan",
-   "text": "Bu Kur’an’ı bir dağa indirseydik, şüphesiz ki onu Allah’a saygı(sın)dan dolayı boyun eğmiş bir şekilde, paramparça olmuş görürdün. İşte biz düşünsünler diye şu örnekleri insanlar için veriyoruz."
-  },
-  {
-   "verseNo": 21,
-   "source": "esed",
-   "text": "Bu Kur´an-ı bir dağa indirmiş olsaydık, dağın ezilip büzülerek Allah korkusuyla paramparça olduğunu görürdün. Ve işte (bütün) bu temsilleri, belki düşün(meyi öğrenebil)irler diye insanların önüne koyuyoruz"
-  },
-  {
-   "verseNo": 22,
-   "source": "diyanet",
-   "text": "O, kendisinden başka hiçbir ilah olmayan Allah'tır. Gaybı da, görünen âlemi de bilendir. O, Rahmân'dır, Rahîm'dir."
-  },
-  {
-   "verseNo": 22,
-   "source": "okuyan",
-   "text": "O, kendisinden başka ilah olmayan Allah’tır. Görünmeyeni de görüneni de bilendir. O Rahmân’dır, Rahîm’dir."
-  },
-  {
-   "verseNo": 22,
-   "source": "esed",
-   "text": "Allah O´dur ki O´ndan başka ilah yoktur. O, yaratılmışların kavrayış alanı dışındaki şeyleri de, duyuları yahut akıllarıyla kavrayabildiklerini de tek bilendir. O, Rahman ve Rahim"
-  },
-  {
-   "verseNo": 23,
-   "source": "diyanet",
-   "text": "O, kendisinden başka hiçbir ilah bulunmayan Allah'tır. O, mülkün gerçek sahibi, kutsal (her türlü eksiklikten uzak), barış ve esenliğin kaynağı, güvenlik veren, gözetip koruyan, mutlak güç sahibi, düzeltip ıslah eden ve dilediğini yaptıran ve büyüklükte eşsiz olan Allah'tır. Allah, onların ortak koştuklarından uzaktır."
-  },
-  {
-   "verseNo": 23,
-   "source": "okuyan",
-   "text": "O, kendisinden başka ilah olmayan Allah’tır. Hükümdardır, kutsallığın kaynağıdır, esenlik kaynağıdır, güven verendir, gözetip koruyandır, güçlüdür, istediğini yaptırabilendir, büyüklüğünü gösterendir. Allah onların ortak koştuklarından yücedir."
-  },
-  {
-   "verseNo": 23,
-   "source": "esed",
-   "text": "Allah O´dur ki O´ndan başka ilah yoktur. Mutlak Hakim, Kutsal, Kurtuluşun Tek Kaynağı, İman Bağışlayan, Doğru ile Yanlışın Tek Belirleyicisi, Üstün, Eğriyi Düzeltip Doğruyu İhya Eden, Bütün İhtişamın Sahibi! Şanı yüce olan Allah, insanların ilahlık yakıştırdıkları her şeyden münezzehtir"
-  },
-  {
-   "verseNo": 24,
-   "source": "diyanet",
-   "text": "O, yaratan, yoktan var eden, şekil veren Allah'tır. Güzel isimler O'nundur. Göklerdeki ve yerdeki her şey O'nu tesbih eder. O, mutlak güç sahibidir, hüküm ve hikmet sahibidir."
-  },
-  {
-   "verseNo": 24,
-   "source": "okuyan",
-   "text": "O, yaratan, yoktan var eden, şekil veren, en güzel isimler sadece kendisine ait olan Allah’tır. Göklerde ve yerde olanlar O’nu tesbih eder (yüceltir). O, güçlüdür, doğru hüküm verendir."
-  },
-  {
-   "verseNo": 24,
-   "source": "esed",
-   "text": "O, Allah´tır, Yaratıcı, bütün özlere ve görüntülere şekil veren Yapıcı"
-  }
- ]
+  "stationNo": 102,
+  "surahNo": 59,
+  "name": "Haşr",
+  "nameArabic": "",
+  "nameMeaning": "",
+  "verseCount": 24,
+  "nuzulOrderOkuyan": 102,
+  "periodDiyanet": "Medine",
+  "periodOkuyan": "Medine",
+  "revelationTiming": "",
+  "stationTitle": "Kuşatılan kalpler, yıkılan duvarlar ve sarsılmaz bir tesbih.",
+  "introduction": "Haşr suresi, adını ikinci ayetinde geçen ve 'toplanma, bir araya getirilip sürülme' anlamına gelen 'el-haşr' kelimesinden alır. Yirmi dört ayetten oluşan bu sure, Medine döneminde inmiştir. Surenin ana ekseni, insanın kendi inşa ettiği maddi ve sosyal güvenlik duvarlarına olan yersiz güveni ile Allah'ın mutlak gücü arasındaki karşıtlıktır.\n\nSure, göklerde ve yerde ne varsa hepsinin Allah'ı tesbih ettiği gerçeğiyle başlar ve yine aynı hakikatle son bulur. Bu çerçeve, surenin ortasında anlatılan insanlık durumlarını kozmik bir düzleme oturtur. Surenin ilk bölümü (1-10. ayetler), Nadîroğulları'nın Medine'den sürülmesini ve bu olaydan elde edilen ganimetlerin (fey) toplumsal adaleti sağlayacak şekilde nasıl paylaştırılacağını ele alır. Bu bölümde, muhacirlere kucak açan ensarın diğerkâmlığı ve kardeşlik ruhu övülür.\n\nİkinci bölümde (11-17. ayetler), münafıkların ve inançlarını yitirmiş kitap ehlinin kendi aralarındaki çıkar odaklı, sahte ittifakları deşifre edilir. Dışarıdan birlik gibi görünen ama içten içe paramparça olan bu yapıların, şeytanın aldatmacasına benzediği vurgulanır. Üçüncü ve son bölüm (18-24. ayetler) ise, inananları ahiret için hazırlık yapmaya çağırır ve Kur'an'ın dönüştürücü gücünü bir dağ metaforuyla anlatır. Sure, Allah'ın eşsiz isim ve sıfatlarının (Esmâ-i Hüsnâ) görkemli bir geçidiyle sona erer.",
+  "occasionOfRevelation": "Haşr suresi, Medine döneminde, Uhud Gazvesi'nden sonra hicretin 4. yılında nazil olmuştur. Surenin inişine sebep olan temel olay, Medine'de yaşayan yahudi kabilelerinden Nadîroğulları'nın (Benî Nadîr) Hz. Peygamber ile yaptıkları tarafsızlık antlaşmasını bozmalarıdır.\n\nKaynakların aktardığına göre, Nadîroğulları başlangıçta müslümanların Bedir zaferine sevinmiş ve Tevrat'ta müjdelenen peygamberin Hz. Muhammed olduğunu ifade etmişlerdi. Ancak Uhud Savaşı'nın müslümanlar aleyhine sonuçlanması üzerine tutumlarını değiştirerek Mekkeli müşriklerle gizli bir ittifak kurdular. Hatta bazı rivayetlere göre, Hz. Peygamber bir diyet konusunu görüşmek üzere yanlarına gittiğinde ona suikast düzenlemeye kalkıştılar.\n\nBu ihanet üzerine Hz. Peygamber, Nadîroğulları'nı kendi yurtlarında kuşatma altına aldı. Onlar, sağlam kalelerine ve münafıkların reisi Abdullah b. Übey b. Selûl'den gelecek yardıma güveniyorlardı. Ancak bekledikleri yardım gelmedi, Allah kalplerine korku düşürdü ve sonunda silahları dışındaki eşyalarını alarak Medine'yi terk etmeye razı oldular. Sure, bu olayı anlatırken, dışarıdan yıkılmaz görünen yapıların, içsel bir çürüme ve ilahi irade karşısında nasıl kolayca çökebileceğini gözler önüne serer.",
+  "occasionSources": "TDV İslâm Ansiklopedisi, \"Haşr Sûresi\" maddesi (Emin Işık); Diyanet İşleri Başkanlığı Kur'an Yolu Tefsiri, Haşr 1-5 ayet tefsiri; kuranokuyan.com, Haşr suresi girişi (Prof. Dr. Mehmet Okuyan).",
+  "keyTerms": [
+    {
+      "term": "haşr",
+      "arabic": "حَشْر",
+      "verseRef": "59:2",
+      "meaning": "Toplanma, bir araya getirilip sevk edilme. Ayette, Nadîroğulları'nın yurtlarından çıkarılıp sürgüne gönderilmesi anlamında kullanılmıştır."
+    },
+    {
+      "term": "fey",
+      "arabic": "فَيْء",
+      "verseRef": "59:7",
+      "meaning": "Savaşılmadan elde edilen ganimet. Ayette, bu malların sadece zenginler arasında dolaşan bir servet olmaması, toplumsal adaleti sağlayacak şekilde paylaştırılması gerektiği vurgulanır."
+    },
+    {
+      "term": "tesbih",
+      "arabic": "تَسْبِيح",
+      "verseRef": "59:1, 24",
+      "meaning": "Allah'ı her türlü noksanlıktan tenzih etmek, O'nun mutlak mükemmelliğini ilan etmek. Surenin hem başında hem sonunda, tüm evrenin bu eylem içinde olduğu belirtilir."
+    },
+    {
+      "term": "îsâr",
+      "arabic": "إِيثَار",
+      "verseRef": "59:9",
+      "meaning": "Kendisinin ihtiyacı olsa bile başkasını kendine tercih etmek. Ayette, Medineli ensarın Mekkeli muhacirlere karşı gösterdiği eşsiz fedakârlığı ifade eder."
+    },
+    {
+      "term": "şuhh",
+      "arabic": "شُحّ",
+      "verseRef": "59:9",
+      "meaning": "Nefsin bencilce tutkusu, cimrilik ve hırs. Ayette, bu duygudan korunanların gerçek kurtuluşa ereceği müjdelenir."
+    }
+  ],
+  "themes": [
+    {
+      "label": "Sahte Güvenlik Duvarları",
+      "body": "İnsan, sahip olduğu servete, statüye veya teknolojiye güvenerek kendini yenilmez sanabilir. Ancak Haşr suresi, kalplerdeki korkunun ve içsel çürümenin, en sağlam kaleleri bile içeriden çökertebileceğini gösterir."
+    },
+    {
+      "label": "Çıkar Odaklı İttifakların Kırılganlığı",
+      "body": "Sadece ortak düşmanlıklar veya anlık çıkarlar üzerine kurulan ilişkiler, zor zamanlarda hızla dağılır. Sure, münafıkların ve inançsızların sahte dayanışmasını, şeytanın insanı yarı yolda bırakmasına benzetir."
+    },
+    {
+      "label": "Diğerkâmlık ve Toplumsal İyileşme",
+      "body": "Kendi ihtiyacı varken bile başkasını düşünebilmek (îsâr), bencilliğin (şuhh) panzehiridir. Toplumsal yaralar, ancak servetin ve imkânların adil paylaşımı ve kalplerdeki kinin silinmesiyle iyileşir."
+    }
+  ],
+  "questions": [
+    "Hayatımda 'bana bir şey olmaz' diyerek güvendiğim, ama aslında beni Allah'a karşı duyarsızlaştıran o 'sağlam kale' nedir?",
+    "İlişkilerim ve dostluklarım, ortak bir iyilik idealine mi dayanıyor, yoksa sadece anlık çıkarların ve ortak karşıtlıkların bir ürünü mü?",
+    "Kendi ihtiyacım olduğu halde, başkasının eksiğini gidermek için kendi hakkımdan feragat edebildiğim en son an ne zamandı?"
+  ],
+  "contemporaryMeaning": "Bu sure, insanın kendi elleriyle inşa ettiği güvenlik sistemlerine duyduğu kör inancın çöküşünü anlatır. En sağlam sanılan kalelerin, dışarıdan bir saldırıyla değil, içerideki korku ve hesaplaşmalarla nasıl yıkıldığını gösterir. Metin, gücü elinde tuttuğunu zannedenlerin, kendi kurdukları yapıların içinde nasıl hapsolduklarını ve çıkara dayalı ittifakların ilk kriz anında nasıl dağıldığını teşhis eder.\n\nBugünün diliyle: yüksek güvenlikli siteler, şifrelenmiş veri tabanları, sigorta poliçeleri veya banka hesaplarındaki rakamlar insana dokunulmazlık hissi verdiğinde, sure bu yanılsamayı parçalar. Sadece ortak çıkarlar veya ortak düşmanlıklar üzerinden kurulan siyasi koalisyonlar, şirket evlilikleri ya da sosyal medya linç grupları, kriz anında herkesin kendi canının derdine düştüğü birer hayal kırıklığına dönüşür. Dışarıdan sarsılmaz görünen yapılar, içlerindeki güvensizlik yüzünden kendi ağırlıkları altında ezilir.\n\nBuna karşılık metin, gerçek güvenliğin duvar örmekte değil, duvarları yıkıp başkasına yer açmakta olduğunu söyler. Kendi kredi borcu veya gelecek kaygısı varken bile bir başkasının eksiğini giderebilmek, insanın kendi bencilliğine karşı kazandığı en büyük zaferdir. Herkesin kendi kalesini tahkim ettiği bir düzende, elindekini paylaşarak eksilmeyi göze almak, korkunun egemenliğini kıran yegâne eylemdir.",
+  "scholarlyNotes": [
+    {
+      "kind": "rivayet",
+      "body": "Sabah ve akşam Haşr suresinin son üç ayetini okumanın faziletiyle ilgili (70.000 meleğin dua etmesi, ölürse şehit sayılması vb.) Tirmizî ve Dârimî'de geçen rivayetler bulunmaktadır. Ancak Tirmizî bu hadisi 'garîb' olarak nitelendirmiş, senedindeki râvilerden Hâlid b. Tahmân'ın zayıf olduğu ve ömrünün son yıllarında hadisleri karıştırdığı hadis âlimlerince (Mizzî, Zehebî) belirtilmiştir. Dolayısıyla bu rivayet zayıftır.",
+      "label": "Haşr Suresinin Son Üç Ayetinin Fazileti"
+    },
+    {
+      "kind": "nuans",
+      "body": "Surenin ikinci ayetinde geçen 'haşr' kelimesi, kıyamet günündeki toplanmayı değil, Nadîroğulları'nın sürgün edilmek üzere toplanmasını ifade eder. İbn Abbas'ın bu yanlış anlaşılmayı önlemek için sureye 'Benî Nadîr' suresi demeyi tercih ettiği rivayet edilir.",
+      "label": "Haşr Kelimesinin Anlamı"
+    }
+  ],
+  "verses": [
+    {
+      "verseNo": 1,
+      "textArabic": "بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ سَبَّحَ لِلَّهِ مَا فِى ٱلسَّمَٰوَٰتِ وَمَا فِى ٱلْأَرْضِ ۖ وَهُوَ ٱلْعَزِيزُ ٱلْحَكِيمُ"
+    },
+    {
+      "verseNo": 2,
+      "textArabic": "هُوَ ٱلَّذِىٓ أَخْرَجَ ٱلَّذِينَ كَفَرُوا۟ مِنْ أَهْلِ ٱلْكِتَٰبِ مِن دِيَٰرِهِمْ لِأَوَّلِ ٱلْحَشْرِ ۚ مَا ظَنَنتُمْ أَن يَخْرُجُوا۟ ۖ وَظَنُّوٓا۟ أَنَّهُم مَّانِعَتُهُمْ حُصُونُهُم مِّنَ ٱللَّهِ فَأَتَىٰهُمُ ٱللَّهُ مِنْ حَيْثُ لَمْ يَحْتَسِبُوا۟ ۖ وَقَذَفَ فِى قُلُوبِهِمُ ٱلرُّعْبَ ۚ يُخْرِبُونَ بُيُوتَهُم بِأَيْدِيهِمْ وَأَيْدِى ٱلْمُؤْمِنِينَ فَٱعْتَبِرُوا۟ يَٰٓأُو۟لِى ٱلْأَبْصَٰرِ"
+    },
+    {
+      "verseNo": 3,
+      "textArabic": "وَلَوْلَآ أَن كَتَبَ ٱللَّهُ عَلَيْهِمُ ٱلْجَلَآءَ لَعَذَّبَهُمْ فِى ٱلدُّنْيَا ۖ وَلَهُمْ فِى ٱلْءَاخِرَةِ عَذَابُ ٱلنَّارِ"
+    },
+    {
+      "verseNo": 4,
+      "textArabic": "ذَٰلِكَ بِأَنَّهُمْ شَآقُّوا۟ ٱللَّهَ وَرَسُولَهُۥ ۖ وَمَن يُشَآقِّ ٱللَّهَ فَإِنَّ ٱللَّهَ شَدِيدُ ٱلْعِقَابِ"
+    },
+    {
+      "verseNo": 5,
+      "textArabic": "مَا قَطَعْتُم مِّن لِّينَةٍ أَوْ تَرَكْتُمُوهَا قَآئِمَةً عَلَىٰٓ أُصُولِهَا فَبِإِذْنِ ٱللَّهِ وَلِيُخْزِىَ ٱلْفَٰسِقِينَ"
+    },
+    {
+      "verseNo": 6,
+      "textArabic": "وَمَآ أَفَآءَ ٱللَّهُ عَلَىٰ رَسُولِهِۦ مِنْهُمْ فَمَآ أَوْجَفْتُمْ عَلَيْهِ مِنْ خَيْلٍۢ وَلَا رِكَابٍۢ وَلَٰكِنَّ ٱللَّهَ يُسَلِّطُ رُسُلَهُۥ عَلَىٰ مَن يَشَآءُ ۚ وَٱللَّهُ عَلَىٰ كُلِّ شَىْءٍۢ قَدِيرٌۭ"
+    },
+    {
+      "verseNo": 7,
+      "textArabic": "مَّآ أَفَآءَ ٱللَّهُ عَلَىٰ رَسُولِهِۦ مِنْ أَهْلِ ٱلْقُرَىٰ فَلِلَّهِ وَلِلرَّسُولِ وَلِذِى ٱلْقُرْبَىٰ وَٱلْيَتَٰمَىٰ وَٱلْمَسَٰكِينِ وَٱبْنِ ٱلسَّبِيلِ كَىْ لَا يَكُونَ دُولَةًۢ بَيْنَ ٱلْأَغْنِيَآءِ مِنكُمْ ۚ وَمَآ ءَاتَىٰكُمُ ٱلرَّسُولُ فَخُذُوهُ وَمَا نَهَىٰكُمْ عَنْهُ فَٱنتَهُوا۟ ۚ وَٱتَّقُوا۟ ٱللَّهَ ۖ إِنَّ ٱللَّهَ شَدِيدُ ٱلْعِقَابِ"
+    },
+    {
+      "verseNo": 8,
+      "textArabic": "لِلْفُقَرَآءِ ٱلْمُهَٰجِرِينَ ٱلَّذِينَ أُخْرِجُوا۟ مِن دِيَٰرِهِمْ وَأَمْوَٰلِهِمْ يَبْتَغُونَ فَضْلًۭا مِّنَ ٱللَّهِ وَرِضْوَٰنًۭا وَيَنصُرُونَ ٱللَّهَ وَرَسُولَهُۥٓ ۚ أُو۟لَٰٓئِكَ هُمُ ٱلصَّٰدِقُونَ"
+    },
+    {
+      "verseNo": 9,
+      "textArabic": "وَٱلَّذِينَ تَبَوَّءُو ٱلدَّارَ وَٱلْإِيمَٰنَ مِن قَبْلِهِمْ يُحِبُّونَ مَنْ هَاجَرَ إِلَيْهِمْ وَلَا يَجِدُونَ فِى صُدُورِهِمْ حَاجَةًۭ مِّمَّآ أُوتُوا۟ وَيُؤْثِرُونَ عَلَىٰٓ أَنفُسِهِمْ وَلَوْ كَانَ بِهِمْ خَصَاصَةٌۭ ۚ وَمَن يُوقَ شُحَّ نَفْسِهِۦ فَأُو۟لَٰٓئِكَ هُمُ ٱلْمُفْلِحُونَ"
+    },
+    {
+      "verseNo": 10,
+      "textArabic": "وَٱلَّذِينَ جَآءُو مِنۢ بَعْدِهِمْ يَقُولُونَ رَبَّنَا ٱغْفِرْ لَنَا وَلِإِخْوَٰنِنَا ٱلَّذِينَ سَبَقُونَا بِٱلْإِيمَٰنِ وَلَا تَجْعَلْ فِى قُلُوبِنَا غِلًّۭا لِّلَّذِينَ ءَامَنُوا۟ رَبَّنَآ إِنَّكَ رَءُوفٌۭ رَّحِيمٌ"
+    },
+    {
+      "verseNo": 11,
+      "textArabic": "۞ أَلَمْ تَرَ إِلَى ٱلَّذِينَ نَافَقُوا۟ يَقُولُونَ لِإِخْوَٰنِهِمُ ٱلَّذِينَ كَفَرُوا۟ مِنْ أَهْلِ ٱلْكِتَٰبِ لَئِنْ أُخْرِجْتُمْ لَنَخْرُجَنَّ مَعَكُمْ وَلَا نُطِيعُ فِيكُمْ أَحَدًا أَبَدًۭا وَإِن قُوتِلْتُمْ لَنَنصُرَنَّكُمْ وَٱللَّهُ يَشْهَدُ إِنَّهُمْ لَكَٰذِبُونَ"
+    },
+    {
+      "verseNo": 12,
+      "textArabic": "لَئِنْ أُخْرِجُوا۟ لَا يَخْرُجُونَ مَعَهُمْ وَلَئِن قُوتِلُوا۟ لَا يَنصُرُونَهُمْ وَلَئِن نَّصَرُوهُمْ لَيُوَلُّنَّ ٱلْأَدْبَٰرَ ثُمَّ لَا يُنصَرُونَ"
+    },
+    {
+      "verseNo": 13,
+      "textArabic": "لَأَنتُمْ أَشَدُّ رَهْبَةًۭ فِى صُدُورِهِم مِّنَ ٱللَّهِ ۚ ذَٰلِكَ بِأَنَّهُمْ قَوْمٌۭ لَّا يَفْقَهُونَ"
+    },
+    {
+      "verseNo": 14,
+      "textArabic": "لَا يُقَٰتِلُونَكُمْ جَمِيعًا إِلَّا فِى قُرًۭى مُّحَصَّنَةٍ أَوْ مِن وَرَآءِ جُدُرٍۭ ۚ بَأْسُهُم بَيْنَهُمْ شَدِيدٌۭ ۚ تَحْسَبُهُمْ جَمِيعًۭا وَقُلُوبُهُمْ شَتَّىٰ ۚ ذَٰلِكَ بِأَنَّهُمْ قَوْمٌۭ لَّا يَعْقِلُونَ"
+    },
+    {
+      "verseNo": 15,
+      "textArabic": "كَمَثَلِ ٱلَّذِينَ مِن قَبْلِهِمْ قَرِيبًۭا ۖ ذَاقُوا۟ وَبَالَ أَمْرِهِمْ وَلَهُمْ عَذَابٌ أَلِيمٌۭ"
+    },
+    {
+      "verseNo": 16,
+      "textArabic": "كَمَثَلِ ٱلشَّيْطَٰنِ إِذْ قَالَ لِلْإِنسَٰنِ ٱكْفُرْ فَلَمَّا كَفَرَ قَالَ إِنِّى بَرِىٓءٌۭ مِّنكَ إِنِّىٓ أَخَافُ ٱللَّهَ رَبَّ ٱلْعَٰلَمِينَ"
+    },
+    {
+      "verseNo": 17,
+      "textArabic": "فَكَانَ عَٰقِبَتَهُمَآ أَنَّهُمَا فِى ٱلنَّارِ خَٰلِدَيْنِ فِيهَا ۚ وَذَٰلِكَ جَزَٰٓؤُا۟ ٱلظَّٰلِمِينَ"
+    },
+    {
+      "verseNo": 18,
+      "textArabic": "يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ ٱتَّقُوا۟ ٱللَّهَ وَلْتَنظُرْ نَفْسٌۭ مَّا قَدَّمَتْ لِغَدٍۢ ۖ وَٱتَّقُوا۟ ٱللَّهَ ۚ إِنَّ ٱللَّهَ خَبِيرٌۢ بِمَا تَعْمَلُونَ"
+    },
+    {
+      "verseNo": 19,
+      "textArabic": "وَلَا تَكُونُوا۟ كَٱلَّذِينَ نَسُوا۟ ٱللَّهَ فَأَنسَىٰهُمْ أَنفُسَهُمْ ۚ أُو۟لَٰٓئِكَ هُمُ ٱلْفَٰسِقُونَ"
+    },
+    {
+      "verseNo": 20,
+      "textArabic": "لَا يَسْتَوِىٓ أَصْحَٰبُ ٱلنَّارِ وَأَصْحَٰبُ ٱلْجَنَّةِ ۚ أَصْحَٰبُ ٱلْجَنَّةِ هُمُ ٱلْفَآئِزُونَ"
+    },
+    {
+      "verseNo": 21,
+      "textArabic": "لَوْ أَنزَلْنَا هَٰذَا ٱلْقُرْءَانَ عَلَىٰ جَبَلٍۢ لَّرَأَيْتَهُۥ خَٰشِعًۭا مُّتَصَدِّعًۭا مِّنْ خَشْيَةِ ٱللَّهِ ۚ وَتِلْكَ ٱلْأَمْثَٰلُ نَضْرِبُهَا لِلنَّاسِ لَعَلَّهُمْ يَتَفَكَّرُونَ"
+    },
+    {
+      "verseNo": 22,
+      "textArabic": "هُوَ ٱللَّهُ ٱلَّذِى لَآ إِلَٰهَ إِلَّا هُوَ ۖ عَٰلِمُ ٱلْغَيْبِ وَٱلشَّهَٰدَةِ ۖ هُوَ ٱلرَّحْمَٰنُ ٱلرَّحِيمُ"
+    },
+    {
+      "verseNo": 23,
+      "textArabic": "هُوَ ٱللَّهُ ٱلَّذِى لَآ إِلَٰهَ إِلَّا هُوَ ٱلْمَلِكُ ٱلْقُدُّوسُ ٱلسَّلَٰمُ ٱلْمُؤْمِنُ ٱلْمُهَيْمِنُ ٱلْعَزِيزُ ٱلْجَبَّارُ ٱلْمُتَكَبِّرُ ۚ سُبْحَٰنَ ٱللَّهِ عَمَّا يُشْرِكُونَ"
+    },
+    {
+      "verseNo": 24,
+      "textArabic": "هُوَ ٱللَّهُ ٱلْخَٰلِقُ ٱلْبَارِئُ ٱلْمُصَوِّرُ ۖ لَهُ ٱلْأَسْمَآءُ ٱلْحُسْنَىٰ ۚ يُسَبِّحُ لَهُۥ مَا فِى ٱلسَّمَٰوَٰتِ وَٱلْأَرْضِ ۖ وَهُوَ ٱلْعَزِيزُ ٱلْحَكِيمُ"
+    }
+  ],
+  "translations": [
+    {
+      "verseNo": 1,
+      "verseNoEnd": null,
+      "source": "ai",
+      "text": "Göklerde ve yerde olan her şey Allah'ı tesbih eder; O güçlüdür, hikmet sahibidir."
+    },
+    {
+      "verseNo": 1,
+      "source": "diyanet",
+      "text": "Göklerdeki ve yerdeki her şey Allah'ı tespih etmektedir. O, mutlak güç sahibidir, hüküm ve hikmet sahibidir."
+    },
+    {
+      "verseNo": 1,
+      "source": "esed",
+      "text": "Göklerde ve yerde olan her şey Allah´ın sınırsız şanını yüceltir; çünkü yalnız O´dur izzet ve hikmet sahibi"
+    },
+    {
+      "verseNo": 1,
+      "source": "okuyan",
+      "text": "Göklerde ve yerde ne varsa hepsi Allah’ı tesbih eder (yüceltir). O güçlüdür, doğru hüküm verendir."
+    },
+    {
+      "verseNo": 2,
+      "verseNoEnd": null,
+      "source": "ai",
+      "text": "O, ilk toplanma için kitap ehlinden inkar edenleri yurtlarından çıkarandır. Siz onların çıkacağını sanmıyordunuz; onlar da kalelerinin kendilerini Allah'tan koruyacağını zannettiler; fakat Allah beklemedikleri yerden onlara geldi ve korkuyu kalplerine saldı. Kendi elleriyle ve müminlerin elleriyle evlerini harap ediyorlar. Ey görenler, ders alın."
+    },
+    {
+      "verseNo": 2,
+      "source": "diyanet",
+      "text": "O, kitap ehlinden inkar edenleri ilk toplu sürgünde yurtlarından çıkarandır. Siz onların çıkacaklarını sanmamıştınız. Onlar da kalelerinin, kendilerini Allah'tan koruyacağını sanmışlardı. Ama Allah‘ın emri onlara ummadıkları yerden geldi. O, yüreklerine korku düşürdü. Öyle ki, evlerini hem kendi elleriyle, hem de mü'minlerin elleriyle yıkıyorlardı. Ey basiret sahipleri ibret alın."
+    },
+    {
+      "verseNo": 2,
+      "source": "esed",
+      "text": "Hakikati inkara şartlanmış olan geçmiş vahyin mensuplarını (savaş için) ilk toplanmalarında yurtlarından çıkaran O´dur. Siz (ey müminler,) onların (hiçbir direnme göstermeden) bırakıp gideceklerini düşünmediniz; onlar da kalelerinin kendilerini Allah´a karşı koruyacağını sandılar ama Allah onlara hiç beklemedikleri bir tarzda vurdu ve kalplerine korku saldı; onlar (böylece) yurtlarını kendi elleriyle ve müminlerin eliyle yok ettiler. Öyleyse bundan ders alın siz ey derin kavrayış sahipleri"
+    },
+    {
+      "verseNo": 2,
+      "source": "okuyan",
+      "text": "Kitap ehlinden kâfir olanları, ilk sürgünde yurtlarından çıkartan O’dur. Siz onların (yurtlarından) çıkacaklarını sanmamıştınız. Onlar da kalelerinin kendilerini Allah’tan koruyacağını sanmışlardı. (Ancak) Allah onlara beklemedikleri yerden (azabıyla) geldi ve yüreklerine korku düşürdü. (Onlar) evlerini (yurtlarını) hem kendi elleriyle hem de müminlerin elleriyle tahrip ediyorlar(dı). Ey öngörü sahipleri! İbret alın!"
+    },
+    {
+      "verseNo": 3,
+      "verseNoEnd": null,
+      "source": "ai",
+      "text": "Eğer Allah onların çıkarılmalarını yazmasaydı onları dünyada azap ederdi; ahirette ise onlara cehennem azabı vardır."
+    },
+    {
+      "verseNo": 3,
+      "source": "diyanet",
+      "text": "Eğer Allah, onlar hakkında sürülmeye hükmetmemiş olsaydı, muhakkak kendilerine dünyada azap edecekti. Ahirette ise, onlar için cehennem azabı vardır."
+    },
+    {
+      "verseNo": 3,
+      "source": "esed",
+      "text": "Allah onlar için sürülmeyi takdir etmemiş olsaydı, bu dünyada onları (daha büyük) bir azaba çarptırırdı; öteki dünyada ise onları ateşin azabı beklemektedir"
+    },
+    {
+      "verseNo": 3,
+      "source": "okuyan",
+      "text": "Allah onlara (yaptıklarına karşılık ceza olarak) sürgünü yazmamış olsaydı, elbette onları dünyada (başka bir şekilde) cezalandıracaktı. Ahirette de onlar için ateş azabı vardır."
+    },
+    {
+      "verseNo": 4,
+      "verseNoEnd": null,
+      "source": "ai",
+      "text": "Bu, çünkü onlar Allah'a ve Resûlü'ne isyan ettiler. Kim Allah'a isyan ederse, şüphesiz Allah şiddetli azap sahibidir."
+    },
+    {
+      "verseNo": 4,
+      "source": "diyanet",
+      "text": "Bu, onların Allah'a ve Resülüne karşı gelmeleri sebebiyledir. Kim Allah'a karşı gelirse bilsin ki, Allah'ın azabı şiddetlidir."
+    },
+    {
+      "verseNo": 4,
+      "source": "esed",
+      "text": "Bu, Allah ve Elçisi ile bağlarını koparmalarından dolayıdır; Allah ve Elçisi ile (böylece) bağını koparana gelince; şüphesiz Allah´ın misillemesi çetindir"
+    },
+    {
+      "verseNo": 4,
+      "source": "okuyan",
+      "text": "Bu (uygulama), onların Allah’a ve Elçisine karşı gelmelerinden ötürüdür. Kim Allah’a karşı gelirse, şüphesiz ki Allah azabı şiddetli olandır."
+    },
+    {
+      "verseNo": 5,
+      "verseNoEnd": null,
+      "source": "ai",
+      "text": "Siz kestiğiniz ya da kökleri üzerinde bıraktığınız hiçbir hurma ağacı yoktur; bunlar Allah'ın izniyledir ki isyan edenleri utandırsın."
+    },
+    {
+      "verseNo": 5,
+      "source": "diyanet",
+      "text": "(Savaş gereği,) hurma ağaçlarından her neyi kestiniz, yahut (kesmeyip) kökleri üzerinde dikili bıraktınızsa hep Allah'ın izniyledir. Bu da fasıkları rezil etmesi içindir."
+    },
+    {
+      "verseNo": 5,
+      "source": "esed",
+      "text": "(Onların) hurma ağaçlarından her ne kestiyseniz (ey müminler,) veya kökleri üzerinde her ne bıraktıysanız, hepsi Allah´ın izniyle (olmuştu) ve O´nun yoldan çıkanları cezalandırması içindi"
+    },
+    {
+      "verseNo": 5,
+      "source": "okuyan",
+      "text": "Hurma ağaçlarından herhangi birini kesmeniz veya kökleri üzerinde ayakta bırakmanız hep Allah’ın izniyledir. Sonunda (Allah) yoldan çıkanları rezil eder."
+    },
+    {
+      "verseNo": 6,
+      "verseNoEnd": null,
+      "source": "ai",
+      "text": "Allah'ın Resûlü'ne onlardan verdiği şeyler konusunda siz ne atlılarla ne de binicilerle müdahale ettiniz; fakat Allah elçilerini dilediği kimseler üzerinde üstün kılar. Allah her şeye gücü yetendir."
+    },
+    {
+      "verseNo": 6,
+      "source": "diyanet",
+      "text": "Onların mallarından Allah'ın, savaşılmaksızın peygamberine kazandırdığı mallar için siz, at ya da deve koşturmuş değilsiniz. Fakat Allah, peygamberlerini, dilediği kimselerin üzerine salıp onlara üstün kılar. Allah'ın her şeye hakkıyla gücü yeter."
+    },
+    {
+      "verseNo": 6,
+      "source": "esed",
+      "text": "Yine (hatırlayın!) Düşmandan (ganimet olarak) ne alındıysa Allah hepsini Elçisi´ne devretti, onu (elde etmek) için at veya deve sevk etmek zorunda kalmadınız ama Allah elçilerini kimi dilediyse onlara üstün kılar; Allah dilediğini yapmaya kadirdir"
+    },
+    {
+      "verseNo": 6,
+      "source": "okuyan",
+      "text": "Allah’ın, onlardan (mallardan sorumluluğunu Elçisine) verdiği şeyler (fey'ler) için siz at ve deve koşturmamıştınız. Fakat Allah elçilerini dilediği kişilere üstün kılar. Allah her şeye gücü yetendir."
+    },
+    {
+      "verseNo": 7,
+      "verseNoEnd": null,
+      "source": "ai",
+      "text": "Allah'ın Resûlü'ne yerleşim yerlerinden verilenler Allah'a, Resûlüne, akraba yakınlarına, yetimlere, yoksullara ve yolda olana aittir; bunlar aranızdaki zenginler arasında tekelleşmesin diye. Resûl size ne verirse onu alın; neyi yasaklarsa ondan sakının. Allah'tan sakının; şüphesiz Allah azabı şiddetlidir."
+    },
+    {
+      "verseNo": 7,
+      "source": "diyanet",
+      "text": "Allah'ın, (fethedilen) memleketlerin ahalisinden savaşılmaksızın peygamberine kazandırdığı mallar; Allah'a, peygambere, onun yakınlarına, yetimlere, yoksullara ve yolda kalmışlara aittir. O mallar, içinizden yalnız zenginler arasında dolaşan bir servet (ve güç) haline gelmesin diye (Allah böyle hükmetmiştir). Peygamber size ne verdiyse onu alın, neyi de size yasak ettiyse ondan vazgeçin. Allah'a karşı gelmekten sakının. Şüphesiz, Allah'ın azabı çetindir."
+    },
+    {
+      "verseNo": 7,
+      "source": "esed",
+      "text": "Bu beldelerin halkından (ganimet olarak) ne alındıysa Allah, hepsini Elçisi´ne devretti, (ganimetin tümü,) Allah´a ve Elçisi´ne, (ölen müminlerin) yakınlarına, yetimlere, yoksullara ve yolculara aittir; (böyle yapıldı) ki o, içinizden (zaten) zengin olanlar arasında dolaşıp duran (bir servet) haline gelmesin. Bu nedenle, Elçi size (ondan) ne kadar verirse (gönülden) kabul edin ve size vermediği şey(i istemek)ten kaçının; ve Allah´a karşı sorumluluğunuzun bilincinde olun! Çünkü Allah misillemesinde çetindir"
+    },
+    {
+      "verseNo": 7,
+      "source": "okuyan",
+      "text": "Allah’ın (fethedilen) şehirler(in) halkından (sorumluluğunu) Elçisine verdiği şeyler, içinizden sadece zenginler arasında (dolaşan) bir devlet olmasın diye Allah, Elçi, yakınlık sahibi (olanlar), yetimler, yoksullar ve yolcu(lar) içindir. Elçi size (fey’ ve ganimetten) ne verdiyse onu alın; size neyi yasakladıysa ondan da kaçının! Allah’a karşı takvâlı (duyarlı) olun! Şüphesiz ki Allah azabı şiddetli olandır."
+    },
+    {
+      "verseNo": 8,
+      "verseNoEnd": null,
+      "source": "ai",
+      "text": "Bunlar, yurtlarından ve mallarından çıkarılan fakir muhacirlere aittir; onlar Allah'ın fazlını ve rızasını arar, Allah'a ve Resûlü'ne yardım ederler. İşte onlar doğru olanlardır."
+    },
+    {
+      "verseNo": 8,
+      "source": "diyanet",
+      "text": "Bu mallar özellikle, Allah'tan bir lütuf ve hoşnudluk ararken ve Allah'ın dinine ve peygamberine yardım ederken yurtlarından ve mallarından uzaklaştırılan fakir muhacirlerindir. İşte onlar doğru kimselerin ta kendileridir."
+    },
+    {
+      "verseNo": 8,
+      "source": "esed",
+      "text": "(Böylece, bu ganimetlerin bir kısmı) zulüm ve kötülük diyarını terk etmiş olanlar arasındaki yoksullar(a verilecektir.) Yurtlarından ve mülklerinden sürülmüş, Allah´ın lütfunu ve rızasını arayan ve Allah´a ve Elçisi(nin davası)na yardım edenler, sözlerinde duranlar işte onlardır"
+    },
+    {
+      "verseNo": 8,
+      "source": "okuyan",
+      "text": "(Bu ganimet malları), yurtlarından ve mallarından uzaklaştırılmış olan, Allah’tan bir lütuf ve rıza dileyen, Allah’(ın dinin)e ve Elçisine yardım eden muhacir fakirlerindir. İşte doğru olanlar sadece bunlardır."
+    },
+    {
+      "verseNo": 9,
+      "verseNoEnd": null,
+      "source": "ai",
+      "text": "Önceden evi yerleşik ve imanı olanlar, kendilerine hicret edenleri severler; kendilerine verilen şeylerden gönüllerinde hiçbir ihtiyaç hissetmezler ve başkalarını kendilerine tercih ederler, hatta kendileri darlık içinde olsa bile. Kim nefsinin cimriliğini tutarsa, işte onlar kurtuluşa erenlerdir."
+    },
+    {
+      "verseNo": 9,
+      "source": "diyanet",
+      "text": "Onlardan (muhacirlerden) önce o yurda (Medine'ye) yerleşmiş ve imanı da gönüllerine yerleştirmiş olanlar, hicret edenleri severler. Onlara verilenlerden dolayı içlerinde bir rahatsızlık duymazlar. Kendileri son derece ihtiyaç içinde bulunsalar bile onları kendilerine tercih ederler. Kim nefsinin cimriliğinden, hırsından korunursa, işte onlar kurtuluşa erenlerin ta kendileridir."
+    },
+    {
+      "verseNo": 9,
+      "source": "esed",
+      "text": "Onlardan önce bu yöreyi yurt edinmiş ve (gönüllerine) imanı yerleştirmiş olanlar (arasındaki yoksullara da ganimetin bir kısmı verilecektir), bir sığınak arayışı içinde kendilerine gelenlerin hepsini seven ve başkasına verilmiş olanlara karşı kalplerinde hiçbir haset olmayan, aksine kendileri yoksulluk içinde bulunsalar bile diğerlerini kendilerine tercih edenler; işte böyleleri, açgözlülükten korunanlardır, onlardır mutluluğa ulaşacak olanlar"
+    },
+    {
+      "verseNo": 9,
+      "source": "okuyan",
+      "text": "Daha önceden (Medine’yi) yurt edinmiş ve kalplerine imanı yerleştirmiş olanlar (ensar), kendilerine hicret edenleri (muhacirleri) severler. Onlara verilenlerden dolayı göğüslerinde (kalplerinde) herhangi bir ihtiyaç hissetmezler. Kendileri ihtiyaç içinde bulunsalar bile onları kendilerine tercih ederler. Kim nefsinin cimriliğinden korunursa, işte onlar kurtulanların ta kendileridir."
+    },
+    {
+      "verseNo": 10,
+      "verseNoEnd": null,
+      "source": "ai",
+      "text": "Sonra kendilerinden sonra gelenler derler ki: “Rabbimiz, bize ve imanla bizden önce olan kardeşlerimize bağışla; kalplerimizde iman edenlere karşı kin bırakma. Rabbimiz, şüphesiz Sen çok şefkatli, merhametlisin.”"
+    },
+    {
+      "verseNo": 10,
+      "source": "diyanet",
+      "text": "Onlardan sonra gelenler ise şöyle derler: \"Ey Rabbimiz! Bizi ve bizden önce iman etmiş olan kardeşlerimizi bağışla. Kalplerimizde, iman edenlere karşı hiçbir kin tutturma! Ey Rabbimiz! Şüphesiz sen çok esirgeyicisin, çok merhametlisin.\""
+    },
+    {
+      "verseNo": 10,
+      "source": "esed",
+      "text": "Onlardan sonra gelenler, \"Ey Rabbimiz!\" diye yalvarırlar, \"Bizi ve bizden önce iman etmiş olan kardeşlerimizi bağışla ve imana ermiş olan(lardan hiçbiri)ne karşı kalplerimizde yersiz ve uygunsuz düşünce veya duygulara yer bırakma. Ey Rabbimiz! Sen şefkat Sahibisin, rahmet kaynağısın"
+    },
+    {
+      "verseNo": 10,
+      "source": "okuyan",
+      "text": "Bunların arkasından gelenler şöyle dua ederler: “Rabbimiz! Bizi ve imanda bizi geçmiş (bizden önce iman etmiş) kardeşlerimizi bağışla! İman edenlere kalplerimizde hiçbir kin bırakma! Rabbimiz! Şüphesiz ki sen çok şefkatlisin; çok merhametlisin!\""
+    },
+    {
+      "verseNo": 11,
+      "verseNoEnd": null,
+      "source": "ai",
+      "text": "Görmedin mi, ikiyüzlü olanların, Kitap sahipleri olan kardeşlerine söylediklerini: \"Eğer siz çıkarılırsanız, muhakkak sizinle çıkarız; sizin hiçbirinize asla itaat etmeyeceğiz; eğer size karşı savaşılırsa, sizi muhakkak destekleriz.\" Allah şahit olsun, onlar yalancıdırlar."
+    },
+    {
+      "verseNo": 11,
+      "source": "diyanet",
+      "text": "Kitap ehlinden O inkar eden kardeşlerine, \"Yemin ederiz ki, siz (Medine'den) çıkarılırsanız, muhakkak biz de sizinle beraber çıkarız. Sizin hakkınızda asla kimseye boyun eğmeyiz. Eğer size karşı savaşılırsa size mutlaka yardım ederiz\" diyerek münafıklık yapanlara bakmaz mısın? Halbuki Allah onların kesinlikle yalancı olduklarına şahitlik eder."
+    },
+    {
+      "verseNo": 11,
+      "source": "esed",
+      "text": "(Gerçek duygularını) her zaman gizleyenlerin, geçmiş vahiylerin mensupları arasındaki inkarcı yandaşlarına, \"Eğer buradan sürülürseniz biz de kesinlikle sizinle geleceğiz ve size karşı olan hiç kimseye kulak vermeyeceğiz ve size savaş açılırsa mutlaka yardımınıza geleceğiz\" dediklerinden haberin yok mu? Ama Allah, onların göz göre göre yalan söylediklerine şahitlik yapar"
+    },
+    {
+      "verseNo": 11,
+      "source": "okuyan",
+      "text": "Münafıkların, kitap ehlinden kâfir olan kardeşlerine “Siz (yurdunuzdan) çıkartılırsanız, mutlaka biz de sizinle birlikte çıkarız; sizin aleyhinizde kimseye asla uymayız. Sizinle savaşılırsa mutlaka size yardım ederiz.' dediklerini görmedin mi?\" Allah onların yalancı olduklarına şahitlik eder."
+    },
+    {
+      "verseNo": 12,
+      "verseNoEnd": null,
+      "source": "ai",
+      "text": "Eğer onlar çıkarılsalar onlarla çıkmazlar; eğer onlara karşı savaşılırsa onları desteklemezler; eğer onları destekleseler mutlaka sırtlarını dönecekler; sonra onlar yardım görmezler."
+    },
+    {
+      "verseNo": 12,
+      "source": "diyanet",
+      "text": "Andolsun, eğer (kardeşleri Medine'den) çıkarılırsa, onlarla beraber çıkmazlar. Kendilerine karşı savaşılırsa, onlara yardım etmezler. Yardım edecek olsalar bile, andolsun mutlaka arkalarını dönüp kaçarlar, sonra kendilerine de yardım edilmez."
+    },
+    {
+      "verseNo": 12,
+      "source": "esed",
+      "text": "(çünkü) eğer (kendilerine karşı taahhüt altına girdikleri) o kimseler gerçekten sürülürlerse onlarla birlikte gitmezler; ve onlara savaş açıldığında yardımlarına gelmezler; yardım et(meye çalış)salar bile sonra arkalarını dön(üp kaç)arlar ve sonunda (kendileri de) bir yardım görmezler"
+    },
+    {
+      "verseNo": 12,
+      "source": "okuyan",
+      "text": "Şüphesiz ki onlar (yurtlarından) çıkarılsalar, onlarla birlikte (evlerinden bile) çıkmazlar. Savaşa tutuşmuş olsalar, onlara yardım etmezler. Yardım etseler bile arkalarını dönüp kaçarlar; sonra kendilerine de yardım edilmez."
+    },
+    {
+      "verseNo": 13,
+      "verseNoEnd": null,
+      "source": "ai",
+      "text": "Siz onların göğüslerinde Allah'tan daha büyük bir korku kaynağısınız; bu, çünkü onlar anlamayan bir kavimdir."
+    },
+    {
+      "verseNo": 13,
+      "source": "diyanet",
+      "text": "Onların kalplerinde size karşı duydukları korku, Allah'a karşı duydukları korkudan daha baskındır. Bu onların anlamaz bir toplum olmaları sebebiyledir."
+    },
+    {
+      "verseNo": 13,
+      "source": "esed",
+      "text": "Evet, (ey müminler,) siz onların kalplerine Allah (korkusun)dan da daha şiddetli bir korku salarsınız, çünkü onlar hakikati kavramaktan aciz bir topluluktur"
+    },
+    {
+      "verseNo": 13,
+      "source": "okuyan",
+      "text": "Onların göğüslerinde (içlerinde) size karşı duydukları korku, Allah’a olan korkularından daha şiddetlidir. Bunun sebebi, onların (gerçeği) anlamayan bir topluluk oluşudur."
+    },
+    {
+      "verseNo": 14,
+      "verseNoEnd": null,
+      "source": "ai",
+      "text": "Onlar sizinle topluca savaşmazlar; ancak korunmuş kasabalarda ya da duvarların arkasından. Aralarındaki mücadele şiddetlidir. Onları toplu görürsün, fakat kalpleri parçalanmıştır. Bu, çünkü onlar akıl sahipleri değillerdir."
+    },
+    {
+      "verseNo": 14,
+      "source": "diyanet",
+      "text": "Onlar müstahkem kaleler içinde veya duvarlar arkasında olmadan sizinle toplu halde savaşmazlar. Kendi aralarındaki çekişmeleri şiddetlidir. Sen onları toplu sanırsın. Halbuki kalpleri darmadağınıktır. Bu, onların akılları ermez bir topluluk olmalarındandır."
+    },
+    {
+      "verseNo": 14,
+      "source": "esed",
+      "text": "Onlar ittifak içinde oldukları zaman (bile), ancak sağlam kaleler içinden veya surlar arkasından savaşırlar. Kendi aralarındaki çekişmeleri şiddetlidir; sen onları birlik sanırsın, halbuki (aslında) kalpleri (birbirlerine) karşı soğuktur; çünkü onlar akıllarını kullanmayan bir topluluktur"
+    },
+    {
+      "verseNo": 14,
+      "source": "okuyan",
+      "text": "Onlar, korunaklı şehirlerde veya duvarlar (siperler) arkasında bulunmadan sizinle toplu hâlde savaşamazlar. Kendi aralarındaki savaşları ise şiddetlidir. Sen onları derli toplu sanırsın, (oysa) kalpleri darmadağındır. Bunun sebebi, onların akıl etmeyen bir topluluk oluşlarıdır."
+    },
+    {
+      "verseNo": 15,
+      "verseNoEnd": null,
+      "source": "ai",
+      "text": "Onlardan öncekilere benzeyenler gibidirler; onlar işlerinin kötü sonucunu tattılar ve onlar için acı bir azap vardır."
+    },
+    {
+      "verseNo": 15,
+      "source": "diyanet",
+      "text": "Onların durumu, kendilerinden az öncekilerin (Mekkeli müşriklerin) durumu gibidir. Onlar (Bedir'de) yaptıklarının cezasını tatmışlardır. Onlara (Ahirette de) elem dolu bir azap vardır."
+    },
+    {
+      "verseNo": 15,
+      "source": "esed",
+      "text": "(Ey müminler, düşmanlarınızın her ikisinin akibeti de) onlardan kısa bir süre önce, kendi yaptıklarından doğan felaketi tatmış olanlar(ınki) gibi (olacak)tır ve onları (öteki dünyada daha şiddetli) bir azap beklemektedir"
+    },
+    {
+      "verseNo": 15,
+      "source": "okuyan",
+      "text": "(Onların durumu), kendilerinden az önce geçmiş ve yaptıklarının cezasını tatmış olanların örneği gibidir. Onlara elem verici bir azap vardır."
+    },
+    {
+      "verseNo": 16,
+      "verseNoEnd": null,
+      "source": "ai",
+      "text": "Şeytanın misali: İnsana \"inkâr et\" demesidir; o inkâr edince \"Ben senden beriyim; doğrusu ben Allah'tan, âlemlerin Rabbinden korkarım\" dedi."
+    },
+    {
+      "verseNo": 16,
+      "source": "diyanet",
+      "text": "Münafıkların durumu ise tıpkı şeytanın durumu gibidir. Çünkü şeytan insana, \"İnkar et\" der; insan inkar edince de, \"Şüphesiz ben senden uzağım. Çünkü ben âlemlerin Rabbi olan Allah'tan korkarım\" der."
+    },
+    {
+      "verseNo": 16,
+      "source": "esed",
+      "text": "tıpkı Şeytanın insana: \"Hakikati inkar et!\" deyip (insan da) inkar edince, \"Bak, ben senden, (senin yaptıklarından) sorumlu değilim, ben bütün alemlerin Rabbi olan Allah´tan korkarım!\" dediği zaman(ki) gibi"
+    },
+    {
+      "verseNo": 16,
+      "source": "okuyan",
+      "text": "(Münafıkların durumu) tıpkı şeytan(ın durumu) gibidir. Hani şeytan, insana “İnkâr et!” der. (İnsan) inkâr edince de “Şüphesiz ki ben senden uzağım; şüphesiz ki ben âlemlerin Rabbi olan Allah’tan korkarım!” der."
+    },
+    {
+      "verseNo": 17,
+      "verseNoEnd": null,
+      "source": "ai",
+      "text": "Böylece ikisinin akıbeti, ebediyen orada kalmak üzere ateş oldu; bu, zalimlerin karşılığıdır."
+    },
+    {
+      "verseNo": 17,
+      "source": "diyanet",
+      "text": "Nihayet ikisinin de (azdıranın da azanın da) akıbeti, ebediyen ateşte kalmaları olmuştur. İşte zalimlerin cezası budur."
+    },
+    {
+      "verseNo": 17,
+      "source": "esed",
+      "text": "Böylece, sonunda ikisi de, (hem hakikati inkar edenler, hem de ikiyüzlüler,) kendilerini yerleşip kalacakları bir ateşte bulacaklar, çünkü zalimlerin cezası budur"
+    },
+    {
+      "verseNo": 17,
+      "source": "okuyan",
+      "text": "(Sonunda) içinde ebedî kalacakları ateş ikisinin de sonu olacaktır. İşte bu, zalimlerin cezasıdır."
+    },
+    {
+      "verseNo": 18,
+      "verseNoEnd": null,
+      "source": "ai",
+      "text": "Ey iman edenler! Allah'tan sakının ve her nefis yarın için ne hazırladığını baksın; Allah'tan sakının. Şüphesiz Allah yaptıklarınızı hakkıyla bilendir."
+    },
+    {
+      "verseNo": 18,
+      "source": "diyanet",
+      "text": "Ey iman edenler! Allah'a karşı gelmekten sakının ve herkes, yarın için önceden ne göndermiş olduğuna baksın. Allah'a karşı gelmekten sakının. Şüphesiz Allah, yaptıklarınızdan hakkıyla haberdardır."
+    },
+    {
+      "verseNo": 18,
+      "source": "esed",
+      "text": "Siz ey imana ermiş olanlar! Allah´a karşı sorumluluğunuzun bilincinde olun; herkes yarın için ne hazırladığına baksın! Ve (bir kez daha) Allah´a karşı sorumluluğunuzun bilincinde olun, çünkü Allah bütün yaptıklarınızdan haberdardır"
+    },
+    {
+      "verseNo": 18,
+      "source": "okuyan",
+      "text": "Ey iman edenler! Allah’a karşı takvâlı (duyarlı) olun ve herkes yarın için ne hazırladığına baksın! Allah’a karşı takvâlı (duyarlı) olun! Şüphesiz ki Allah yaptıklarınızdan haberdardır."
+    },
+    {
+      "verseNo": 19,
+      "verseNoEnd": null,
+      "source": "ai",
+      "text": "Allah'ı unutanlar gibi olmayın; bunun üzerine Allah onları kendilerini unutturmuştur. İşte onlar isyan edenlerdir."
+    },
+    {
+      "verseNo": 19,
+      "source": "diyanet",
+      "text": "Allah'ı unutan ve bu yüzden Allah'ın da kendilerine kendilerini unutturduğu kimseler gibi olmayın. İşte onlar fasık kimselerin ta kendileridir."
+    },
+    {
+      "verseNo": 19,
+      "source": "esed",
+      "text": "ve Allah´tan habersiz olan, bu nedenle Allah´ın da kendileri (için neyin iyi olduğu)ndan habersiz bıraktıkları gibi olmayın! (Çünkü) onlar gerçekten sapmış olanlardır"
+    },
+    {
+      "verseNo": 19,
+      "source": "okuyan",
+      "text": "Allah’ı unutan ve (bu yüzden Allah’ın da) onlara kendilerini unutturduğu kişiler gibi olmayın! Onlar yoldan çıkanların ta kendileridir."
+    },
+    {
+      "verseNo": 20,
+      "verseNoEnd": null,
+      "source": "ai",
+      "text": "Ateşin halkı ile cennetin halkı eşit değildir. Cennet halkı kurtuluşa erenlerdir."
+    },
+    {
+      "verseNo": 20,
+      "source": "diyanet",
+      "text": "Cehennemliklerle cennetlikler bir olmaz. Cennetlikler kurtuluşa erenlerin ta kendileridir."
+    },
+    {
+      "verseNo": 20,
+      "source": "esed",
+      "text": "Ateşe mahkum edilmiş olanlar ile cenneti hak etmiş olanlar bir olamaz. Cenneti hak etmiş olanlar, (Hesap Günü) kurtuluşa erecek olanlardır"
+    },
+    {
+      "verseNo": 20,
+      "source": "okuyan",
+      "text": "Ateş halkı ile cennet halkı bir olmaz. Cennet halkı elbette kurtulanlardır."
+    },
+    {
+      "verseNo": 21,
+      "verseNoEnd": null,
+      "source": "ai",
+      "text": "Eğer bu Kur'an'ı bir dağa indirmiş olsaydık, onu Allah korkusundan boyun eğmiş, çatlamış olarak görürdün. Biz bu örnekleri insanlara veriyoruz ki belki düşünürler."
+    },
+    {
+      "verseNo": 21,
+      "source": "diyanet",
+      "text": "Eğer biz, bu Kur'an'ı bir dağa indirseydik, elbette sen onu Allah korkusundan başını eğerek parça parça olmuş görürdün. İşte misaller! Biz onları insanlara düşünsünler diye veriyoruz."
+    },
+    {
+      "verseNo": 21,
+      "source": "esed",
+      "text": "Bu Kur´an-ı bir dağa indirmiş olsaydık, dağın ezilip büzülerek Allah korkusuyla paramparça olduğunu görürdün. Ve işte (bütün) bu temsilleri, belki düşün(meyi öğrenebil)irler diye insanların önüne koyuyoruz"
+    },
+    {
+      "verseNo": 21,
+      "source": "okuyan",
+      "text": "Bu Kur’an’ı bir dağa indirseydik, şüphesiz ki onu Allah’a saygı(sın)dan dolayı boyun eğmiş bir şekilde, paramparça olmuş görürdün. İşte biz düşünsünler diye şu örnekleri insanlar için veriyoruz."
+    },
+    {
+      "verseNo": 22,
+      "verseNoEnd": null,
+      "source": "ai",
+      "text": "O, Allah'tır; O'ndan başka ilah yoktur. Gaybı ve görünenleri bilendir. O Rahmân'dır, Rahîm'dir."
+    },
+    {
+      "verseNo": 22,
+      "source": "diyanet",
+      "text": "O, kendisinden başka hiçbir ilah olmayan Allah'tır. Gaybı da, görünen âlemi de bilendir. O, Rahmân'dır, Rahîm'dir."
+    },
+    {
+      "verseNo": 22,
+      "source": "esed",
+      "text": "Allah O´dur ki O´ndan başka ilah yoktur. O, yaratılmışların kavrayış alanı dışındaki şeyleri de, duyuları yahut akıllarıyla kavrayabildiklerini de tek bilendir. O, Rahman ve Rahim"
+    },
+    {
+      "verseNo": 22,
+      "source": "okuyan",
+      "text": "O, kendisinden başka ilah olmayan Allah’tır. Görünmeyeni de görüneni de bilendir. O Rahmân’dır, Rahîm’dir."
+    },
+    {
+      "verseNo": 23,
+      "verseNoEnd": null,
+      "source": "ai",
+      "text": "O, Allah'tır; O'ndan başka ilah yoktur; hükümdar, kutsal, esenlik verici, güven veren, koruyan ve gözeten, üstün, baskın, büyüklük taslayan. Allah, onların ortak koştukları şeylerden uzaktır."
+    },
+    {
+      "verseNo": 23,
+      "source": "diyanet",
+      "text": "O, kendisinden başka hiçbir ilah bulunmayan Allah'tır. O, mülkün gerçek sahibi, kutsal (her türlü eksiklikten uzak), barış ve esenliğin kaynağı, güvenlik veren, gözetip koruyan, mutlak güç sahibi, düzeltip ıslah eden ve dilediğini yaptıran ve büyüklükte eşsiz olan Allah'tır. Allah, onların ortak koştuklarından uzaktır."
+    },
+    {
+      "verseNo": 23,
+      "source": "esed",
+      "text": "Allah O´dur ki O´ndan başka ilah yoktur. Mutlak Hakim, Kutsal, Kurtuluşun Tek Kaynağı, İman Bağışlayan, Doğru ile Yanlışın Tek Belirleyicisi, Üstün, Eğriyi Düzeltip Doğruyu İhya Eden, Bütün İhtişamın Sahibi! Şanı yüce olan Allah, insanların ilahlık yakıştırdıkları her şeyden münezzehtir"
+    },
+    {
+      "verseNo": 23,
+      "source": "okuyan",
+      "text": "O, kendisinden başka ilah olmayan Allah’tır. Hükümdardır, kutsallığın kaynağıdır, esenlik kaynağıdır, güven verendir, gözetip koruyandır, güçlüdür, istediğini yaptırabilendir, büyüklüğünü gösterendir. Allah onların ortak koştuklarından yücedir."
+    },
+    {
+      "verseNo": 24,
+      "verseNoEnd": null,
+      "source": "ai",
+      "text": "O, Allah'tır; yaratan, var eden, biçim verendir. Güzel isimler O'nundur. Göklerde ve yerde olanlar O'nu tesbih eder. O, güçlüdür, hikmet sahibidir."
+    },
+    {
+      "verseNo": 24,
+      "source": "diyanet",
+      "text": "O, yaratan, yoktan var eden, şekil veren Allah'tır. Güzel isimler O'nundur. Göklerdeki ve yerdeki her şey O'nu tesbih eder. O, mutlak güç sahibidir, hüküm ve hikmet sahibidir."
+    },
+    {
+      "verseNo": 24,
+      "source": "esed",
+      "text": "O, Allah´tır, Yaratıcı, bütün özlere ve görüntülere şekil veren Yapıcı"
+    },
+    {
+      "verseNo": 24,
+      "source": "okuyan",
+      "text": "O, yaratan, yoktan var eden, şekil veren, en güzel isimler sadece kendisine ait olan Allah’tır. Göklerde ve yerde olanlar O’nu tesbih eder (yüceltir). O, güçlüdür, doğru hüküm verendir."
+    }
+  ],
+  "aiParagraph": "Güvenli sandığın şeyler seni her zaman koruyamaz — kaleler, ittifaklar, birikimler, çevren; bunların hepsi bir gün beklemediğin yerden çözülüverebilir. Sure, tam da bu anı anlatıyor: surlarına güvenenlerin o surları kendi elleriyle yıkmak zorunda kaldığı, hiç çıkmayacaklarını sandıkları yerden sürüldükleri an. Ama asıl ağır soru buradan açılıyor — sana destek vaat edenler, \"her koşulda yanındayım\" diyenler, iş ciddiye binince gerçekten orada mı? Sure, böyle insanları tanımlıyor: birlikte görünürler, ama kalpleri ayrı ayrı yerlerdedir. Öte yanda bambaşka bir insan tipi duruyor: elindekini ihtiyacı olan başkasıyla paylaşan, üstelik bunu yaparken içinde bir daralma, bir kıskançlık, bir \"neden ben?\" sorusu taşımayan biri. Ve surenin tam ortasında çarpıcı bir teşhis var: kendini unutan insan, aslında kendini kaybeden insandır — neyi neden yaptığını, nereye gittiğini, yarın ne bırakacağını sormayı bırakan biri. Sure sonunda devasa bir sessizlikle kapanıyor: bu sözler bir dağa indirilseydi, dağ çatlardı — peki sen ne hissediyorsun?"
 }

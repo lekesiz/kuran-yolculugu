@@ -1,179 +1,204 @@
 {
- "stationNo": 21,
- "surahNo": 106,
- "nuzulOrderOkuyan": 21,
- "name": "Kureyş",
- "nameArabic": "قريش",
- "nameMeaning": "Kureyş kabilesi",
- "verseCount": 4,
- "periodDiyanet": "Mekke",
- "periodOkuyan": "Mekke",
- "revelationTiming": "Mekke dönemi",
- "stationTitle": "Güvenlik ve rızık verilmişse, karşılığı minnet değil kulluktur.",
- "introduction": "Kureyş suresi, adını birinci ayetteki Kureyş kabilesinin zikredilmesinden alır. Dört ayetlik sure Mekke döneminde inmiştir ve Fîl suresiyle birlikte okunur.\n\nSure, Kureyş'in yaz-kış ticaret yolculuklarını mümkün kılan düzene işaret eder ve iki nimeti anar: açlığa karşı doyurulma ve korkuya karşı güvende kılınma. Ardından bunun karşılığı olarak Kâbe'nin Rabbine kulluk edilmesini ister.",
- "occasionOfRevelation": "Sure, Mekke'nin ekonomik konumuna dair somut bir bağlama oturur. Kureyş kabilesi, Kâbe'nin hizmetini üstlenmiş olması sayesinde Arap yarımadasında özel bir statüye sahipti; bu statü ticaret kervanlarının güvenle yol almasını sağlıyordu.\n\nKaynaklar, Kureyş'in yazın ve kışın farklı yönlere düzenli ticarî seferler yaptığını kaydeder. Bu düzen, çöl koşullarında olağandışı bir imkândı: kervanların yağmalanmaması, kabilelerin geçiş izni vermesi ve Mekke'nin bir ticaret merkezi hâline gelmesi bu statüye bağlıydı.\n\nSurenin mantığı bu bağlamda kurulur: sahip olduğunuz refah ve güvenlik kendi başarınızın değil, verilmiş bir düzenin ürünüdür. Fîl suresiyle bağlantısı da buradadır — Mekke'nin korunması, Kureyş'in gücünden değil başka bir sebeptendi.",
- "occasionSources": "Diyanet İşleri Başkanlığı Kur'an Yolu Tefsiri, Kureyş suresi girişi; TDV İslâm Ansiklopedisi, \"Kureyş Sûresi\" ve \"Kureyş\" maddeleri.",
- "contemporaryMeaning": "Sure iki temel ihtiyacı isimlendirir: açlık ve korku. İnsanın en alt katmandaki iki kaygısı budur — karnının doyması ve güvende olması. Sure bu ikisinin karşılandığı bir durumda insanın ne yapması gerektiğini sorar.\n\nVerdiği cevap dikkat çekicidir: minnet duymak ya da şükür sözü söylemek değil, kulluk etmek. Yani karşılık bir duygu değil, bir yönelim ve tutumdur.\n\nBugünün diliyle: temel ihtiyaçları karşılanmış olmak bir başarı belgesi değildir. Doyduğu ve güvende olduğu için rahatlayan insan, kendi konumunu kendi eseri saymaya başlar. Sure tam bu noktada durur ve nimetin kaynağını hatırlatır.",
- "keyTerms": [
-  {
-   "term": "îlâf",
-   "arabic": "إِيلَاف",
-   "verseRef": "106:1",
-   "meaning": "Alıştırmak, ısındırmak, düzene sokmak. Kureyş'in ticaret yollarındaki güvenli düzeni; kelimenin kökü ünsiyet ve alışkanlık anlamı taşır."
-  },
-  {
-   "term": "rihlete'ş-şitâi ve's-sayf",
-   "arabic": "رِحْلَةَ الشِّتَاءِ وَالصَّيْف",
-   "verseRef": "106:2",
-   "meaning": "Kış ve yaz yolculuğu. Kureyş'in düzenli ticarî seferleri."
-  },
-  {
-   "term": "et'amehüm min cû'",
-   "arabic": "أَطْعَمَهُم مِّن جُوع",
-   "verseRef": "106:4",
-   "meaning": "Onları açlıktan doyurdu. İlk temel ihtiyacın karşılanması."
-  },
-  {
-   "term": "âmenehüm min havf",
-   "arabic": "آمَنَهُم مِّنْ خَوْف",
-   "verseRef": "106:4",
-   "meaning": "Onları korkudan güvene kavuşturdu. İkinci temel ihtiyaç: emniyet."
-  }
- ],
- "themes": [
-  {
-   "label": "İki temel ihtiyaç: doymak ve güvende olmak",
-   "body": "Sure insanın en alt katmandaki iki kaygısını isimlendirir. Refahın tanımı bu ikisiyle yapılır."
-  },
-  {
-   "label": "Refah, kendi eserin değildir",
-   "body": "Kureyş'in ticarî imkânı, statüsünden ve korunmasından doğdu. Sure sahip olunan düzenin verilmiş olduğunu hatırlatır."
-  },
-  {
-   "label": "Karşılık, duygu değil yönelim",
-   "body": "İstenen şey minnet duygusu ya da şükür sözü değil, kulluk — yani bir tutum ve yön değişikliğidir."
-  }
- ],
- "questions": [
-  "Bugün karnım doydu ve güvendeyim. Bunu ne kadar sık fark ediyorum?",
-  "Sahip olduğum imkânları kendi başarımın sonucu olarak mı görüyorum? Payı olan başka etkenler neler?",
-  "Şükrümü söz olarak mı ifade ediyorum, yoksa davranışıma dönüşüyor mu?"
- ],
- "scholarlyNotes": [
-  {
-   "kind": "nuans",
-   "label": "\"Îlâf\" yalnızca ticaret düzeni değildir",
-   "body": "Diyanet Kur'an Yolu Tefsiri, \"îlâf\" kavramının dış ticaret antlaşmalarının yanı sıra Hz. Muhammed'in dedesi Hâşim'in başlattığı bir sosyal dayanışma uygulamasını da kapsadığını kaydeder: zenginlerle yoksulları kaynaştıran ve yoksulluktan kaynaklanan intiharları (i'tifâd) önlemeyi amaçlayan bir düzen. TDV İslâm Ansiklopedisi'nin \"Îlâf\" maddesine göre Hâşim ve kardeşleri (Muttalib, Abdüşems, Nevfel) Mekke ticaretine uluslararası boyut kazandırdıkları için \"Ashâbü'l-îlâf\" diye anılmıştır."
-  },
-  {
-   "kind": "ihtilaf",
-   "label": "Fîl ve Kureyş tek sure mi?",
-   "body": "Bazı âlimler, anlam bütünlüğü ve \"îlâf\" kelimesinin başındaki lâm harfi sebebiyle Fîl ve Kureyş surelerinin tek sure olduğunu savunmuştur. Mushaf tertibindeki genel kabul ise bunların iki ayrı sure olduğudur; kaynaklar tartışmayı aktarmakla birlikte ayrı sureler görüşünü benimser."
-  },
-  {
-   "kind": "rivayet",
-   "label": "Fazilet rivayetleri zayıftır",
-   "body": "Surenin faziletine dair \"Kureyş sûresini okuyan kimseye on sevap verilir\" türü rivayetler TDV İslâm Ansiklopedisi'nde zayıf kabul edilmiştir."
-  }
- ],
- "verses": [
-  {
-   "verseNo": 1,
-   "textArabic": "بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ لِإِيلَٰفِ قُرَيْشٍ"
-  },
-  {
-   "verseNo": 2,
-   "textArabic": "إِۦلَٰفِهِمْ رِحْلَةَ ٱلشِّتَآءِ وَٱلصَّيْفِ"
-  },
-  {
-   "verseNo": 3,
-   "textArabic": "فَلْيَعْبُدُوا۟ رَبَّ هَٰذَا ٱلْبَيْتِ"
-  },
-  {
-   "verseNo": 4,
-   "textArabic": "ٱلَّذِىٓ أَطْعَمَهُم مِّن جُوعٍۢ وَءَامَنَهُم مِّنْ خَوْفٍۭ"
-  }
- ],
- "translations": [
-  {
-   "verseNo": 1,
-   "source": "diyanet",
-   "text": "Kureyş'i ısındırıp alıştırdığı; onları kışın (Yemen'e) ve yazın (Şam'a) yaptıkları yolculuğa ısındırıp alıştırdığı için, Kureyş de, kendilerini besleyip açlıklarını gideren ve onları korkudan emin kılan bu evin (Kâbe'nin) Rabbine kulluk etsin."
-  },
-  {
-   "verseNo": 1,
-   "source": "esed",
-   "text": "Kureyş´in emniyeti sağlanabilsin diye"
-  },
-  {
-   "verseNo": 1,
-   "source": "okuyan",
-   "text": "Kureyş’in güvenliğini (sağladığı) için,"
-  },
-  {
-   "verseNo": 1,
-   "source": "islamoglu",
-   "text": "BARİ Kureyş’in ticari imtiyazları hakkı için,"
-  },
-  {
-   "verseNo": 2,
-   "source": "diyanet",
-   "text": "Kureyş'i ısındırıp alıştırdığı; onları kışın (Yemen'e) ve yazın (Şam'a) yaptıkları yolculuğa ısındırıp alıştırdığı için, Kureyş de, kendilerini besleyip açlıklarını gideren ve onları korkudan emin kılan bu evin (Kâbe'nin) Rabbine kulluk etsin."
-  },
-  {
-   "verseNo": 2,
-   "source": "esed",
-   "text": "kış ve yaz seferlerindeki emniyeti"
-  },
-  {
-   "verseNo": 2,
-   "source": "okuyan",
-   "text": "Onların kış ve yaz yolculuklarının güvenliğini (sağladığı) için,"
-  },
-  {
-   "verseNo": 2,
-   "source": "islamoglu",
-   "text": "onların yaz ve kış yaptıkları imtiyazlı ticaretin sefer güvenliği hakkı için:"
-  },
-  {
-   "verseNo": 3,
-   "source": "diyanet",
-   "text": "Kureyş'i ısındırıp alıştırdığı; onları kışın (Yemen'e) ve yazın (Şam'a) yaptıkları yolculuğa ısındırıp alıştırdığı için, Kureyş de, kendilerini besleyip açlıklarını gideren ve onları korkudan emin kılan bu evin (Kâbe'nin) Rabbine kulluk etsin."
-  },
-  {
-   "verseNo": 3,
-   "source": "esed",
-   "text": "O halde bu Mabed´in Rabbine kulluk etsinler"
-  },
-  {
-   "verseNo": 3,
-   "source": "okuyan",
-   "text": "Bu Ev’in (Kâbe’nin) Rabbine kulluk etsinler."
-  },
-  {
-   "verseNo": 3,
-   "source": "islamoglu",
-   "text": "yalnız şu Beyt’in Rabbine kulluk etsinler!"
-  },
-  {
-   "verseNo": 4,
-   "source": "diyanet",
-   "text": "Kureyş'i ısındırıp alıştırdığı; onları kışın (Yemen'e) ve yazın (Şam'a) yaptıkları yolculuğa ısındırıp alıştırdığı için, Kureyş de, kendilerini besleyip açlıklarını gideren ve onları korkudan emin kılan bu evin (Kâbe'nin) Rabbine kulluk etsin."
-  },
-  {
-   "verseNo": 4,
-   "source": "esed",
-   "text": "O ki, aç kalmasınlar diye onları beslemiş ve tehlikelerden emin kılmıştır"
-  },
-  {
-   "verseNo": 4,
-   "source": "okuyan",
-   "text": "O ki onları açlıktan (kurtarıp) doyurdu ve korkudan güvene kavuşturdu."
-  },
-  {
-   "verseNo": 4,
-   "source": "islamoglu",
-   "text": "Ki O, onları açlığa rağmen doyurmuş, her tür tehlike ve tehdide rağmen güvende kılmıştır."
-  }
- ]
+  "stationNo": 21,
+  "surahNo": 106,
+  "nuzulOrderOkuyan": 21,
+  "name": "Kureyş",
+  "nameArabic": "قريش",
+  "nameMeaning": "Kureyş kabilesi",
+  "verseCount": 4,
+  "periodDiyanet": "Mekke",
+  "periodOkuyan": "Mekke",
+  "revelationTiming": "Mekke dönemi",
+  "stationTitle": "Güvenlik ve rızık verilmişse, karşılığı minnet değil kulluktur.",
+  "introduction": "Kureyş suresi, adını birinci ayetteki Kureyş kabilesinin zikredilmesinden alır. Dört ayetlik sure Mekke döneminde inmiştir ve Fîl suresiyle birlikte okunur.\n\nSure, Kureyş'in yaz-kış ticaret yolculuklarını mümkün kılan düzene işaret eder ve iki nimeti anar: açlığa karşı doyurulma ve korkuya karşı güvende kılınma. Ardından bunun karşılığı olarak Kâbe'nin Rabbine kulluk edilmesini ister.",
+  "occasionOfRevelation": "Sure, Mekke'nin ekonomik konumuna dair somut bir bağlama oturur. Kureyş kabilesi, Kâbe'nin hizmetini üstlenmiş olması sayesinde Arap yarımadasında özel bir statüye sahipti; bu statü ticaret kervanlarının güvenle yol almasını sağlıyordu.\n\nKaynaklar, Kureyş'in yazın ve kışın farklı yönlere düzenli ticarî seferler yaptığını kaydeder. Bu düzen, çöl koşullarında olağandışı bir imkândı: kervanların yağmalanmaması, kabilelerin geçiş izni vermesi ve Mekke'nin bir ticaret merkezi hâline gelmesi bu statüye bağlıydı.\n\nSurenin mantığı bu bağlamda kurulur: sahip olduğunuz refah ve güvenlik kendi başarınızın değil, verilmiş bir düzenin ürünüdür. Fîl suresiyle bağlantısı da buradadır — Mekke'nin korunması, Kureyş'in gücünden değil başka bir sebeptendi.",
+  "occasionSources": "Diyanet İşleri Başkanlığı Kur'an Yolu Tefsiri, Kureyş suresi girişi; TDV İslâm Ansiklopedisi, \"Kureyş Sûresi\" ve \"Kureyş\" maddeleri.",
+  "contemporaryMeaning": "Sure iki temel ihtiyacı isimlendirir: açlık ve korku. İnsanın en alt katmandaki iki kaygısı budur — karnının doyması ve güvende olması. Sure bu ikisinin karşılandığı bir durumda insanın ne yapması gerektiğini sorar.\n\nVerdiği cevap dikkat çekicidir: minnet duymak ya da şükür sözü söylemek değil, kulluk etmek. Yani karşılık bir duygu değil, bir yönelim ve tutumdur.\n\nBugünün diliyle: temel ihtiyaçları karşılanmış olmak bir başarı belgesi değildir. Doyduğu ve güvende olduğu için rahatlayan insan, kendi konumunu kendi eseri saymaya başlar. Sure tam bu noktada durur ve nimetin kaynağını hatırlatır.",
+  "keyTerms": [
+    {
+      "term": "îlâf",
+      "arabic": "إِيلَاف",
+      "verseRef": "106:1",
+      "meaning": "Alıştırmak, ısındırmak, düzene sokmak. Kureyş'in ticaret yollarındaki güvenli düzeni; kelimenin kökü ünsiyet ve alışkanlık anlamı taşır."
+    },
+    {
+      "term": "rihlete'ş-şitâi ve's-sayf",
+      "arabic": "رِحْلَةَ الشِّتَاءِ وَالصَّيْف",
+      "verseRef": "106:2",
+      "meaning": "Kış ve yaz yolculuğu. Kureyş'in düzenli ticarî seferleri."
+    },
+    {
+      "term": "et'amehüm min cû'",
+      "arabic": "أَطْعَمَهُم مِّن جُوع",
+      "verseRef": "106:4",
+      "meaning": "Onları açlıktan doyurdu. İlk temel ihtiyacın karşılanması."
+    },
+    {
+      "term": "âmenehüm min havf",
+      "arabic": "آمَنَهُم مِّنْ خَوْف",
+      "verseRef": "106:4",
+      "meaning": "Onları korkudan güvene kavuşturdu. İkinci temel ihtiyaç: emniyet."
+    }
+  ],
+  "themes": [
+    {
+      "label": "İki temel ihtiyaç: doymak ve güvende olmak",
+      "body": "Sure insanın en alt katmandaki iki kaygısını isimlendirir. Refahın tanımı bu ikisiyle yapılır."
+    },
+    {
+      "label": "Refah, kendi eserin değildir",
+      "body": "Kureyş'in ticarî imkânı, statüsünden ve korunmasından doğdu. Sure sahip olunan düzenin verilmiş olduğunu hatırlatır."
+    },
+    {
+      "label": "Karşılık, duygu değil yönelim",
+      "body": "İstenen şey minnet duygusu ya da şükür sözü değil, kulluk — yani bir tutum ve yön değişikliğidir."
+    }
+  ],
+  "questions": [
+    "Bugün karnım doydu ve güvendeyim. Bunu ne kadar sık fark ediyorum?",
+    "Sahip olduğum imkânları kendi başarımın sonucu olarak mı görüyorum? Payı olan başka etkenler neler?",
+    "Şükrümü söz olarak mı ifade ediyorum, yoksa davranışıma dönüşüyor mu?"
+  ],
+  "scholarlyNotes": [
+    {
+      "kind": "nuans",
+      "label": "\"Îlâf\" yalnızca ticaret düzeni değildir",
+      "body": "Diyanet Kur'an Yolu Tefsiri, \"îlâf\" kavramının dış ticaret antlaşmalarının yanı sıra Hz. Muhammed'in dedesi Hâşim'in başlattığı bir sosyal dayanışma uygulamasını da kapsadığını kaydeder: zenginlerle yoksulları kaynaştıran ve yoksulluktan kaynaklanan intiharları (i'tifâd) önlemeyi amaçlayan bir düzen. TDV İslâm Ansiklopedisi'nin \"Îlâf\" maddesine göre Hâşim ve kardeşleri (Muttalib, Abdüşems, Nevfel) Mekke ticaretine uluslararası boyut kazandırdıkları için \"Ashâbü'l-îlâf\" diye anılmıştır."
+    },
+    {
+      "kind": "ihtilaf",
+      "label": "Fîl ve Kureyş tek sure mi?",
+      "body": "Bazı âlimler, anlam bütünlüğü ve \"îlâf\" kelimesinin başındaki lâm harfi sebebiyle Fîl ve Kureyş surelerinin tek sure olduğunu savunmuştur. Mushaf tertibindeki genel kabul ise bunların iki ayrı sure olduğudur; kaynaklar tartışmayı aktarmakla birlikte ayrı sureler görüşünü benimser."
+    },
+    {
+      "kind": "rivayet",
+      "label": "Fazilet rivayetleri zayıftır",
+      "body": "Surenin faziletine dair \"Kureyş sûresini okuyan kimseye on sevap verilir\" türü rivayetler TDV İslâm Ansiklopedisi'nde zayıf kabul edilmiştir."
+    }
+  ],
+  "verses": [
+    {
+      "verseNo": 1,
+      "textArabic": "بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ لِإِيلَٰفِ قُرَيْشٍ"
+    },
+    {
+      "verseNo": 2,
+      "textArabic": "إِۦلَٰفِهِمْ رِحْلَةَ ٱلشِّتَآءِ وَٱلصَّيْفِ"
+    },
+    {
+      "verseNo": 3,
+      "textArabic": "فَلْيَعْبُدُوا۟ رَبَّ هَٰذَا ٱلْبَيْتِ"
+    },
+    {
+      "verseNo": 4,
+      "textArabic": "ٱلَّذِىٓ أَطْعَمَهُم مِّن جُوعٍۢ وَءَامَنَهُم مِّنْ خَوْفٍۭ"
+    }
+  ],
+  "translations": [
+    {
+      "verseNo": 1,
+      "verseNoEnd": null,
+      "source": "ai",
+      "text": "Kureyş'in alışkanlığına."
+    },
+    {
+      "verseNo": 1,
+      "source": "diyanet",
+      "text": "Kureyş'i ısındırıp alıştırdığı; onları kışın (Yemen'e) ve yazın (Şam'a) yaptıkları yolculuğa ısındırıp alıştırdığı için, Kureyş de, kendilerini besleyip açlıklarını gideren ve onları korkudan emin kılan bu evin (Kâbe'nin) Rabbine kulluk etsin."
+    },
+    {
+      "verseNo": 1,
+      "source": "esed",
+      "text": "Kureyş´in emniyeti sağlanabilsin diye"
+    },
+    {
+      "verseNo": 1,
+      "source": "islamoglu",
+      "text": "BARİ Kureyş’in ticari imtiyazları hakkı için,"
+    },
+    {
+      "verseNo": 1,
+      "source": "okuyan",
+      "text": "Kureyş’in güvenliğini (sağladığı) için,"
+    },
+    {
+      "verseNo": 2,
+      "verseNoEnd": null,
+      "source": "ai",
+      "text": "Onların alışkanlığı kış ve yaz yolculuklarıdır."
+    },
+    {
+      "verseNo": 2,
+      "source": "diyanet",
+      "text": "Kureyş'i ısındırıp alıştırdığı; onları kışın (Yemen'e) ve yazın (Şam'a) yaptıkları yolculuğa ısındırıp alıştırdığı için, Kureyş de, kendilerini besleyip açlıklarını gideren ve onları korkudan emin kılan bu evin (Kâbe'nin) Rabbine kulluk etsin."
+    },
+    {
+      "verseNo": 2,
+      "source": "esed",
+      "text": "kış ve yaz seferlerindeki emniyeti"
+    },
+    {
+      "verseNo": 2,
+      "source": "islamoglu",
+      "text": "onların yaz ve kış yaptıkları imtiyazlı ticaretin sefer güvenliği hakkı için:"
+    },
+    {
+      "verseNo": 2,
+      "source": "okuyan",
+      "text": "Onların kış ve yaz yolculuklarının güvenliğini (sağladığı) için,"
+    },
+    {
+      "verseNo": 3,
+      "verseNoEnd": null,
+      "source": "ai",
+      "text": "O halde bu evin Rabbine ibadet etsinler."
+    },
+    {
+      "verseNo": 3,
+      "source": "diyanet",
+      "text": "Kureyş'i ısındırıp alıştırdığı; onları kışın (Yemen'e) ve yazın (Şam'a) yaptıkları yolculuğa ısındırıp alıştırdığı için, Kureyş de, kendilerini besleyip açlıklarını gideren ve onları korkudan emin kılan bu evin (Kâbe'nin) Rabbine kulluk etsin."
+    },
+    {
+      "verseNo": 3,
+      "source": "esed",
+      "text": "O halde bu Mabed´in Rabbine kulluk etsinler"
+    },
+    {
+      "verseNo": 3,
+      "source": "islamoglu",
+      "text": "yalnız şu Beyt’in Rabbine kulluk etsinler!"
+    },
+    {
+      "verseNo": 3,
+      "source": "okuyan",
+      "text": "Bu Ev’in (Kâbe’nin) Rabbine kulluk etsinler."
+    },
+    {
+      "verseNo": 4,
+      "verseNoEnd": null,
+      "source": "ai",
+      "text": "O, onları açlıktan doyuran ve korkudan emin kılan Rabdir."
+    },
+    {
+      "verseNo": 4,
+      "source": "diyanet",
+      "text": "Kureyş'i ısındırıp alıştırdığı; onları kışın (Yemen'e) ve yazın (Şam'a) yaptıkları yolculuğa ısındırıp alıştırdığı için, Kureyş de, kendilerini besleyip açlıklarını gideren ve onları korkudan emin kılan bu evin (Kâbe'nin) Rabbine kulluk etsin."
+    },
+    {
+      "verseNo": 4,
+      "source": "esed",
+      "text": "O ki, aç kalmasınlar diye onları beslemiş ve tehlikelerden emin kılmıştır"
+    },
+    {
+      "verseNo": 4,
+      "source": "islamoglu",
+      "text": "Ki O, onları açlığa rağmen doyurmuş, her tür tehlike ve tehdide rağmen güvende kılmıştır."
+    },
+    {
+      "verseNo": 4,
+      "source": "okuyan",
+      "text": "O ki onları açlıktan (kurtarıp) doyurdu ve korkudan güvene kavuşturdu."
+    }
+  ],
+  "aiParagraph": "Hayatı ayakta tutan düzenin nereden geldiğini insan çoğu zaman fark etmez; o düzen zaten vardır, hep varmış gibi görünür. Kureyş kabilesi de böyle bir güvende yaşıyordu: kışın güneye, yazın kuzeye uzanan ticaret yolları, dolu ambarlar, kimsenin dokunmadığı bir güvenli şehir. Her şey o kadar yerli yerindeydi ki, bu işleyişin arkasında bir şey olup olmadığını sormak bile akla gelmiyordu. İşte bu sure tam o noktayı işaret ediyor: açlık yoktu, korku yoktu — bunlar kazanılmış değil, verilmişti. Ve asıl soru şu: İnsan, hayatındaki o \"zaten böyle\" dediği şeylerin — süregelen bir işin, bozulmayan bir ilişkinin, geceyi sabaha bağlayan o sessiz güvenin — nereden beslendiğini hiç duraksayıp düşünür mü?"
 }

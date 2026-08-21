@@ -1,334 +1,401 @@
 {
- "stationNo": 35,
- "surahNo": 100,
- "nuzulOrderOkuyan": 14,
- "name": "Âdiyât",
- "nameArabic": "العاديات",
- "nameMeaning": "Koşan atlar",
- "verseCount": 11,
- "periodDiyanet": "Mekke",
- "periodOkuyan": "Mekke",
- "revelationTiming": "Mekke dönemi",
- "stationTitle": "İnsan Rabbine karşı nankördür — ve bunu kendisi de bilir.",
- "introduction": "Âdiyât suresi, adını birinci ayetteki \"âdiyât\" kelimesinden alır; koşan atlar anlamındadır. On bir ayetlik sure Mekke döneminde inmiştir.\n\nSure beş ayetlik bir yemin dizisiyle açılır: nefes nefese koşanlar, kıvılcım çakanlar, sabah baskını yapanlar, toz kaldıranlar, kalabalığın ortasına dalanlar. Ardından insanın nankörlüğü ve mal sevgisi bildirilir. Kapanışta göğüslerdekinin bilindiği belirtilir.",
- "occasionOfRevelation": "Sure Mekke döneminde inmiştir. Açılıştaki yeminlerin neye edildiği tefsirlerde tartışılmıştır: yaygın yorum savaş atlarıdır; bazı müfessirler ise develeri ya da genel olarak koşan varlıkları anlar.\n\nYemin dizisinin işlevi bir sahne kurmaktır: hız, kıvılcım, toz, kalabalık. Ardından gelen cümle bu enerjik sahneyle keskin bir karşıtlık oluşturur: \"Şüphesiz insan Rabbine karşı çok nankördür\" (100:6).\n\nYedinci ayet ise bu tespiti ağırlaştırır: \"Şüphesiz o, buna kendisi de şahittir.\" Yani nankörlük bilinmeyen bir kusur değil; insan kendi nankörlüğünün farkındadır. Sekizinci ayette sebep gösterilir: mal sevgisinin şiddeti.",
- "occasionSources": "Diyanet İşleri Başkanlığı Kur'an Yolu Tefsiri, Âdiyât suresi girişi; TDV İslâm Ansiklopedisi, \"Âdiyât Sûresi\" maddesi.",
- "contemporaryMeaning": "Surenin en rahatsız edici cümlesi yedinci ayettir: insan kendi nankörlüğüne şahittir. Yani bu bir bilgi eksikliği değil. Sure, bilerek yapılan bir şeyi teşhis eder.\n\n\"Kenûd\" kelimesi tefsirlerde geniş açıklanır: nimeti inkâr eden, verileni saymayan, verimsiz toprak gibi karşılık üretmeyen. Ortak nokta, alınan şeye karşılık vermemektir.\n\nSekizinci ayet sebebi \"hubbü'l-hayr\" — mal, servet sevgisinin şiddeti — olarak gösterir. Dikkat çekici olan kelimenin \"hayr\" olmasıdır: servet burada \"iyi olan şey\" diye anılır. Sorun servetin kötülüğü değil, ona duyulan sevginin ölçüsüzlüğüdür.\n\nBugünün diliyle: sahip olduklarını sayabilen ama şükredemeyen bir zihin hâli. Eksikleri hemen görüp verilenleri normalleştirmek, surenin tanımladığı nankörlüktür.",
- "keyTerms": [
-  {
-   "term": "el-âdiyât",
-   "arabic": "الْعَادِيَات",
-   "verseRef": "100:1",
-   "meaning": "Koşanlar, hızla giden atlar. Yeminin konusu; tefsirlerde savaş atları olarak yorumlanır."
-  },
-  {
-   "term": "kenûd",
-   "arabic": "كَنُود",
-   "verseRef": "100:6",
-   "meaning": "Nankör, nimeti inkâr eden, karşılık üretmeyen. Verimsiz toprak çağrışımı da taşır."
-  },
-  {
-   "term": "le-şehîd",
-   "arabic": "لَشَهِيد",
-   "verseRef": "100:7",
-   "meaning": "Kesinlikle şahit. İnsanın kendi nankörlüğüne tanık olduğunun bildirimi."
-  },
-  {
-   "term": "hubbü'l-hayr",
-   "arabic": "حُبِّ الْخَيْر",
-   "verseRef": "100:8",
-   "meaning": "Mal, servet sevgisi. Servet burada \"hayr\" (iyi olan şey) diye anılır; sorun sevginin ölçüsüzlüğüdür."
-  }
- ],
- "themes": [
-  {
-   "label": "Bilinen bir kusur",
-   "body": "\"O, buna kendisi de şahittir.\" Nankörlük bir bilgi eksikliği değil; insan farkında olduğu bir şeyi yapar."
-  },
-  {
-   "label": "Karşılık üretmeyen toprak",
-   "body": "\"Kenûd\" kelimesi verimsiz toprağı da çağrıştırır. Alınan şeye karşılık vermemek, nankörlüğün özüdür."
-  },
-  {
-   "label": "Servetin kendisi değil, sevginin ölçüsü",
-   "body": "Ayet serveti \"hayr\" olarak anar. Eleştirilen şey mülkiyet değil, ona duyulan sevginin şiddetidir."
-  },
-  {
-   "label": "Enerjik sahne, sert teşhis",
-   "body": "Beş ayetlik hareketli yemin dizisinin ardından gelen cümle keskin bir karşıtlık kurar. Koşuşturmanın sonunda sorulan şey karakterdir."
-  }
- ],
- "questions": [
-  "Bugün sahip olduklarımdan kaçını fark ettim? Kaç eksiği fark ettim? Oran nasıl?",
-  "Nankörlük ettiğimi bildiğim bir alan var mı? Bilmeme rağmen neden sürdürüyorum?",
-  "Mal ve imkân sevgim, ilişkilerimin önüne geçtiği bir durum oldu mu?"
- ],
- "verses": [
-  {
-   "verseNo": 1,
-   "textArabic": "بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ وَٱلْعَٰدِيَٰتِ ضَبْحًۭا"
-  },
-  {
-   "verseNo": 2,
-   "textArabic": "فَٱلْمُورِيَٰتِ قَدْحًۭا"
-  },
-  {
-   "verseNo": 3,
-   "textArabic": "فَٱلْمُغِيرَٰتِ صُبْحًۭا"
-  },
-  {
-   "verseNo": 4,
-   "textArabic": "فَأَثَرْنَ بِهِۦ نَقْعًۭا"
-  },
-  {
-   "verseNo": 5,
-   "textArabic": "فَوَسَطْنَ بِهِۦ جَمْعًا"
-  },
-  {
-   "verseNo": 6,
-   "textArabic": "إِنَّ ٱلْإِنسَٰنَ لِرَبِّهِۦ لَكَنُودٌۭ"
-  },
-  {
-   "verseNo": 7,
-   "textArabic": "وَإِنَّهُۥ عَلَىٰ ذَٰلِكَ لَشَهِيدٌۭ"
-  },
-  {
-   "verseNo": 8,
-   "textArabic": "وَإِنَّهُۥ لِحُبِّ ٱلْخَيْرِ لَشَدِيدٌ"
-  },
-  {
-   "verseNo": 9,
-   "textArabic": "۞ أَفَلَا يَعْلَمُ إِذَا بُعْثِرَ مَا فِى ٱلْقُبُورِ"
-  },
-  {
-   "verseNo": 10,
-   "textArabic": "وَحُصِّلَ مَا فِى ٱلصُّدُورِ"
-  },
-  {
-   "verseNo": 11,
-   "textArabic": "إِنَّ رَبَّهُم بِهِمْ يَوْمَئِذٍۢ لَّخَبِيرٌۢ"
-  }
- ],
- "translations": [
-  {
-   "verseNo": 1,
-   "source": "diyanet",
-   "text": "Yeryüzü kendine has bir sarsıntıya uğratıldığı, içindekileri dışarıya çıkarıp attığı ve insan, \"Ona ne oluyor?\" dediği zaman,"
-  },
-  {
-   "verseNo": 1,
-   "source": "esed",
-   "text": "Ooo! Nefes nefese koşan binek atları"
-  },
-  {
-   "verseNo": 1,
-   "source": "okuyan",
-   "text": "Yemin olsun: Soluk soluğa koşan düşmanlara"
-  },
-  {
-   "verseNo": 1,
-   "source": "islamoglu",
-   "text": "YAZIKLAR olsun; (vahye) dinmez bir hınçla saldıranlara,"
-  },
-  {
-   "verseNo": 2,
-   "source": "diyanet",
-   "text": "Yeryüzü kendine has bir sarsıntıya uğratıldığı, içindekileri dışarıya çıkarıp attığı ve insan, \"Ona ne oluyor?\" dediği zaman,"
-  },
-  {
-   "verseNo": 2,
-   "source": "esed",
-   "text": "ateş saçan kıvılcımlar"
-  },
-  {
-   "verseNo": 2,
-   "source": "okuyan",
-   "text": "Kıvılcım (öfke) saçanlara,"
-  },
-  {
-   "verseNo": 2,
-   "source": "islamoglu",
-   "text": "ve (içindeki) öfke ateşiyle etrafı tutuşturanlara,"
-  },
-  {
-   "verseNo": 3,
-   "source": "diyanet",
-   "text": "Yeryüzü kendine has bir sarsıntıya uğratıldığı, içindekileri dışarıya çıkarıp attığı ve insan, \"Ona ne oluyor?\" dediği zaman,"
-  },
-  {
-   "verseNo": 3,
-   "source": "esed",
-   "text": "sabah vakti akına koşan"
-  },
-  {
-   "verseNo": 3,
-   "source": "okuyan",
-   "text": "Sabah vakti baskın yapanlara."
-  },
-  {
-   "verseNo": 3,
-   "source": "islamoglu",
-   "text": "ve sabah(lar)a kadar kıskançlıktan kıvrananlara,"
-  },
-  {
-   "verseNo": 4,
-   "source": "diyanet",
-   "text": "İşte o gün, yer, kendi haberlerini anlatır."
-  },
-  {
-   "verseNo": 4,
-   "source": "esed",
-   "text": "böylece toz bulutları yükselten"
-  },
-  {
-   "verseNo": 4,
-   "source": "okuyan",
-   "text": "Bu sebeple, onlar tozu dumana katmışlardı"
-  },
-  {
-   "verseNo": 4,
-   "source": "islamoglu",
-   "text": "sonuçta bu kıskançlıkla tozu dumana katarak ortalığı bulandıranlara:"
-  },
-  {
-   "verseNo": 5,
-   "source": "diyanet",
-   "text": "Çünkü Rabbin ona (öyle) vahyetmiştir."
-  },
-  {
-   "verseNo": 5,
-   "source": "esed",
-   "text": "(körcesine) bir ordunun içine dalan"
-  },
-  {
-   "verseNo": 5,
-   "source": "okuyan",
-   "text": "Topluluğun ortasına dalmışlardı."
-  },
-  {
-   "verseNo": 5,
-   "source": "islamoglu",
-   "text": "nihayet bu düşmanlıkla toplumun ortasına dalanlara…"
-  },
-  {
-   "verseNo": 6,
-   "source": "diyanet",
-   "text": "O gün insanlar amellerinin kendilerine gösterilmesi için bölük bölük kabirlerinden çıkacaklardır."
-  },
-  {
-   "verseNo": 6,
-   "source": "esed",
-   "text": "Gerçek şu ki, insan Rabbine karşı çok nankördür"
-  },
-  {
-   "verseNo": 6,
-   "source": "okuyan",
-   "text": "Şüphesiz ki böylesi insan, Rabbine karşı çok nankördür."
-  },
-  {
-   "verseNo": 6,
-   "source": "islamoglu",
-   "text": "Ki gerçekten de (bu) insan tipi Rabbine karşı çok nankördür;"
-  },
-  {
-   "verseNo": 7,
-   "source": "diyanet",
-   "text": "ﾠArtık kim zerre ağırlığınca bir hayır işlerse onun mükafatını görecektir."
-  },
-  {
-   "verseNo": 7,
-   "source": "esed",
-   "text": "ve kendisi (de) buna şahittir"
-  },
-  {
-   "verseNo": 7,
-   "source": "okuyan",
-   "text": "Şüphesiz ki buna kendisi de şahittir."
-  },
-  {
-   "verseNo": 7,
-   "source": "islamoglu",
-   "text": "üstelik insanın kendisi de buna şahittir;"
-  },
-  {
-   "verseNo": 8,
-   "source": "diyanet",
-   "text": "Kim de zerre ağırlığınca bir kötülük işlerse onun cezasını görecektir."
-  },
-  {
-   "verseNo": 8,
-   "source": "esed",
-   "text": "çünkü servet hırsına kapılmıştır"
-  },
-  {
-   "verseNo": 8,
-   "source": "okuyan",
-   "text": "Şüphesiz ki onun mal sevgisi çok şiddetlidir."
-  },
-  {
-   "verseNo": 8,
-   "source": "islamoglu",
-   "text": "zira o servete pek tutkundur!"
-  },
-  {
-   "verseNo": 9,
-   "source": "diyanet",
-   "text": "Acaba o bilmiyor mu ki, kabirlerde bulunanlar çıkarıldığı ve kalplerdeki ortaya konulduğu zaman, işte o gün onların Rabbi kendilerinin her halinden mutlaka haberdardır."
-  },
-  {
-   "verseNo": 9,
-   "source": "esed",
-   "text": "Ama bilmez mi ki (Ahiret Günü,) herkes mezarından ayağa kalkıp dışarı çıktığında"
-  },
-  {
-   "verseNo": 9,
-   "source": "okuyan",
-   "text": "Bilmez mi ki mezarlarda olanlar dışarı atıldığında,"
-  },
-  {
-   "verseNo": 9,
-   "source": "islamoglu",
-   "text": "O bilmez mi ki, kabirlerde bulunan herkes diriltilip ortaya çıkacağı zaman,"
-  },
-  {
-   "verseNo": 10,
-   "source": "diyanet",
-   "text": "Acaba o bilmiyor mu ki, kabirlerde bulunanlar çıkarıldığı ve kalplerdeki ortaya konulduğu zaman, işte o gün onların Rabbi kendilerinin her halinden mutlaka haberdardır."
-  },
-  {
-   "verseNo": 10,
-   "source": "esed",
-   "text": "ve insanların kalplerinde (gizli) olan her şey ortaya döküldüğünde"
-  },
-  {
-   "verseNo": 10,
-   "source": "okuyan",
-   "text": "Göğüslerde (kalplerde) olanlar (gizlenenler) ortaya döküldüğünde,"
-  },
-  {
-   "verseNo": 10,
-   "source": "islamoglu",
-   "text": "ve gönüllerde saklı her şey önlerine serildiği (zaman):"
-  },
-  {
-   "verseNo": 11,
-   "source": "diyanet",
-   "text": "Acaba o bilmiyor mu ki, kabirlerde bulunanlar çıkarıldığı ve kalplerdeki ortaya konulduğu zaman, işte o gün onların Rabbi kendilerinin her halinden mutlaka haberdardır."
-  },
-  {
-   "verseNo": 11,
-   "source": "esed",
-   "text": "işte o Gün Rableri, onların her halinden haberdar (olduğunu gösterecek)tir"
-  },
-  {
-   "verseNo": 11,
-   "source": "okuyan",
-   "text": "Şüphesiz ki Rableri o gün onlardan haberdardır."
-  },
-  {
-   "verseNo": 11,
-   "source": "islamoglu",
-   "text": "Elbet Rableri, o gün onları (bekleyen akıbetin) iç yüzünden bütünüyle haberdardır!"
-  }
- ]
+  "stationNo": 35,
+  "surahNo": 100,
+  "nuzulOrderOkuyan": 14,
+  "name": "Âdiyât",
+  "nameArabic": "العاديات",
+  "nameMeaning": "Koşan atlar",
+  "verseCount": 11,
+  "periodDiyanet": "Mekke",
+  "periodOkuyan": "Mekke",
+  "revelationTiming": "Mekke dönemi",
+  "stationTitle": "İnsan Rabbine karşı nankördür — ve bunu kendisi de bilir.",
+  "introduction": "Âdiyât suresi, adını birinci ayetteki \"âdiyât\" kelimesinden alır; koşan atlar anlamındadır. On bir ayetlik sure Mekke döneminde inmiştir.\n\nSure beş ayetlik bir yemin dizisiyle açılır: nefes nefese koşanlar, kıvılcım çakanlar, sabah baskını yapanlar, toz kaldıranlar, kalabalığın ortasına dalanlar. Ardından insanın nankörlüğü ve mal sevgisi bildirilir. Kapanışta göğüslerdekinin bilindiği belirtilir.",
+  "occasionOfRevelation": "Sure Mekke döneminde inmiştir. Açılıştaki yeminlerin neye edildiği tefsirlerde tartışılmıştır: yaygın yorum savaş atlarıdır; bazı müfessirler ise develeri ya da genel olarak koşan varlıkları anlar.\n\nYemin dizisinin işlevi bir sahne kurmaktır: hız, kıvılcım, toz, kalabalık. Ardından gelen cümle bu enerjik sahneyle keskin bir karşıtlık oluşturur: \"Şüphesiz insan Rabbine karşı çok nankördür\" (100:6).\n\nYedinci ayet ise bu tespiti ağırlaştırır: \"Şüphesiz o, buna kendisi de şahittir.\" Yani nankörlük bilinmeyen bir kusur değil; insan kendi nankörlüğünün farkındadır. Sekizinci ayette sebep gösterilir: mal sevgisinin şiddeti.",
+  "occasionSources": "Diyanet İşleri Başkanlığı Kur'an Yolu Tefsiri, Âdiyât suresi girişi; TDV İslâm Ansiklopedisi, \"Âdiyât Sûresi\" maddesi.",
+  "contemporaryMeaning": "Surenin en rahatsız edici cümlesi yedinci ayettir: insan kendi nankörlüğüne şahittir. Yani bu bir bilgi eksikliği değil. Sure, bilerek yapılan bir şeyi teşhis eder.\n\n\"Kenûd\" kelimesi tefsirlerde geniş açıklanır: nimeti inkâr eden, verileni saymayan, verimsiz toprak gibi karşılık üretmeyen. Ortak nokta, alınan şeye karşılık vermemektir.\n\nSekizinci ayet sebebi \"hubbü'l-hayr\" — mal, servet sevgisinin şiddeti — olarak gösterir. Dikkat çekici olan kelimenin \"hayr\" olmasıdır: servet burada \"iyi olan şey\" diye anılır. Sorun servetin kötülüğü değil, ona duyulan sevginin ölçüsüzlüğüdür.\n\nBugünün diliyle: sahip olduklarını sayabilen ama şükredemeyen bir zihin hâli. Eksikleri hemen görüp verilenleri normalleştirmek, surenin tanımladığı nankörlüktür.",
+  "keyTerms": [
+    {
+      "term": "el-âdiyât",
+      "arabic": "الْعَادِيَات",
+      "verseRef": "100:1",
+      "meaning": "Koşanlar, hızla giden atlar. Yeminin konusu; tefsirlerde savaş atları olarak yorumlanır."
+    },
+    {
+      "term": "kenûd",
+      "arabic": "كَنُود",
+      "verseRef": "100:6",
+      "meaning": "Nankör, nimeti inkâr eden, karşılık üretmeyen. Verimsiz toprak çağrışımı da taşır."
+    },
+    {
+      "term": "le-şehîd",
+      "arabic": "لَشَهِيد",
+      "verseRef": "100:7",
+      "meaning": "Kesinlikle şahit. İnsanın kendi nankörlüğüne tanık olduğunun bildirimi."
+    },
+    {
+      "term": "hubbü'l-hayr",
+      "arabic": "حُبِّ الْخَيْر",
+      "verseRef": "100:8",
+      "meaning": "Mal, servet sevgisi. Servet burada \"hayr\" (iyi olan şey) diye anılır; sorun sevginin ölçüsüzlüğüdür."
+    }
+  ],
+  "themes": [
+    {
+      "label": "Bilinen bir kusur",
+      "body": "\"O, buna kendisi de şahittir.\" Nankörlük bir bilgi eksikliği değil; insan farkında olduğu bir şeyi yapar."
+    },
+    {
+      "label": "Karşılık üretmeyen toprak",
+      "body": "\"Kenûd\" kelimesi verimsiz toprağı da çağrıştırır. Alınan şeye karşılık vermemek, nankörlüğün özüdür."
+    },
+    {
+      "label": "Servetin kendisi değil, sevginin ölçüsü",
+      "body": "Ayet serveti \"hayr\" olarak anar. Eleştirilen şey mülkiyet değil, ona duyulan sevginin şiddetidir."
+    },
+    {
+      "label": "Enerjik sahne, sert teşhis",
+      "body": "Beş ayetlik hareketli yemin dizisinin ardından gelen cümle keskin bir karşıtlık kurar. Koşuşturmanın sonunda sorulan şey karakterdir."
+    }
+  ],
+  "questions": [
+    "Bugün sahip olduklarımdan kaçını fark ettim? Kaç eksiği fark ettim? Oran nasıl?",
+    "Nankörlük ettiğimi bildiğim bir alan var mı? Bilmeme rağmen neden sürdürüyorum?",
+    "Mal ve imkân sevgim, ilişkilerimin önüne geçtiği bir durum oldu mu?"
+  ],
+  "verses": [
+    {
+      "verseNo": 1,
+      "textArabic": "بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ وَٱلْعَٰدِيَٰتِ ضَبْحًۭا"
+    },
+    {
+      "verseNo": 2,
+      "textArabic": "فَٱلْمُورِيَٰتِ قَدْحًۭا"
+    },
+    {
+      "verseNo": 3,
+      "textArabic": "فَٱلْمُغِيرَٰتِ صُبْحًۭا"
+    },
+    {
+      "verseNo": 4,
+      "textArabic": "فَأَثَرْنَ بِهِۦ نَقْعًۭا"
+    },
+    {
+      "verseNo": 5,
+      "textArabic": "فَوَسَطْنَ بِهِۦ جَمْعًا"
+    },
+    {
+      "verseNo": 6,
+      "textArabic": "إِنَّ ٱلْإِنسَٰنَ لِرَبِّهِۦ لَكَنُودٌۭ"
+    },
+    {
+      "verseNo": 7,
+      "textArabic": "وَإِنَّهُۥ عَلَىٰ ذَٰلِكَ لَشَهِيدٌۭ"
+    },
+    {
+      "verseNo": 8,
+      "textArabic": "وَإِنَّهُۥ لِحُبِّ ٱلْخَيْرِ لَشَدِيدٌ"
+    },
+    {
+      "verseNo": 9,
+      "textArabic": "۞ أَفَلَا يَعْلَمُ إِذَا بُعْثِرَ مَا فِى ٱلْقُبُورِ"
+    },
+    {
+      "verseNo": 10,
+      "textArabic": "وَحُصِّلَ مَا فِى ٱلصُّدُورِ"
+    },
+    {
+      "verseNo": 11,
+      "textArabic": "إِنَّ رَبَّهُم بِهِمْ يَوْمَئِذٍۢ لَّخَبِيرٌۢ"
+    }
+  ],
+  "translations": [
+    {
+      "verseNo": 1,
+      "verseNoEnd": null,
+      "source": "ai",
+      "text": "Nefes nefese koşan atlara."
+    },
+    {
+      "verseNo": 1,
+      "source": "diyanet",
+      "text": "Yeryüzü kendine has bir sarsıntıya uğratıldığı, içindekileri dışarıya çıkarıp attığı ve insan, \"Ona ne oluyor?\" dediği zaman,"
+    },
+    {
+      "verseNo": 1,
+      "source": "esed",
+      "text": "Ooo! Nefes nefese koşan binek atları"
+    },
+    {
+      "verseNo": 1,
+      "source": "islamoglu",
+      "text": "YAZIKLAR olsun; (vahye) dinmez bir hınçla saldıranlara,"
+    },
+    {
+      "verseNo": 1,
+      "source": "okuyan",
+      "text": "Yemin olsun: Soluk soluğa koşan düşmanlara"
+    },
+    {
+      "verseNo": 2,
+      "verseNoEnd": null,
+      "source": "ai",
+      "text": "Kıvılcım çıkaran atlara."
+    },
+    {
+      "verseNo": 2,
+      "source": "diyanet",
+      "text": "Yeryüzü kendine has bir sarsıntıya uğratıldığı, içindekileri dışarıya çıkarıp attığı ve insan, \"Ona ne oluyor?\" dediği zaman,"
+    },
+    {
+      "verseNo": 2,
+      "source": "esed",
+      "text": "ateş saçan kıvılcımlar"
+    },
+    {
+      "verseNo": 2,
+      "source": "islamoglu",
+      "text": "ve (içindeki) öfke ateşiyle etrafı tutuşturanlara,"
+    },
+    {
+      "verseNo": 2,
+      "source": "okuyan",
+      "text": "Kıvılcım (öfke) saçanlara,"
+    },
+    {
+      "verseNo": 3,
+      "verseNoEnd": null,
+      "source": "ai",
+      "text": "Sabahleyin hücum edenlere."
+    },
+    {
+      "verseNo": 3,
+      "source": "diyanet",
+      "text": "Yeryüzü kendine has bir sarsıntıya uğratıldığı, içindekileri dışarıya çıkarıp attığı ve insan, \"Ona ne oluyor?\" dediği zaman,"
+    },
+    {
+      "verseNo": 3,
+      "source": "esed",
+      "text": "sabah vakti akına koşan"
+    },
+    {
+      "verseNo": 3,
+      "source": "islamoglu",
+      "text": "ve sabah(lar)a kadar kıskançlıktan kıvrananlara,"
+    },
+    {
+      "verseNo": 3,
+      "source": "okuyan",
+      "text": "Sabah vakti baskın yapanlara."
+    },
+    {
+      "verseNo": 4,
+      "verseNoEnd": null,
+      "source": "ai",
+      "text": "Bununla izler bıraktılar."
+    },
+    {
+      "verseNo": 4,
+      "source": "diyanet",
+      "text": "İşte o gün, yer, kendi haberlerini anlatır."
+    },
+    {
+      "verseNo": 4,
+      "source": "esed",
+      "text": "böylece toz bulutları yükselten"
+    },
+    {
+      "verseNo": 4,
+      "source": "islamoglu",
+      "text": "sonuçta bu kıskançlıkla tozu dumana katarak ortalığı bulandıranlara:"
+    },
+    {
+      "verseNo": 4,
+      "source": "okuyan",
+      "text": "Bu sebeple, onlar tozu dumana katmışlardı"
+    },
+    {
+      "verseNo": 5,
+      "verseNoEnd": null,
+      "source": "ai",
+      "text": "Bununla bir araya geldiler."
+    },
+    {
+      "verseNo": 5,
+      "source": "diyanet",
+      "text": "Çünkü Rabbin ona (öyle) vahyetmiştir."
+    },
+    {
+      "verseNo": 5,
+      "source": "esed",
+      "text": "(körcesine) bir ordunun içine dalan"
+    },
+    {
+      "verseNo": 5,
+      "source": "islamoglu",
+      "text": "nihayet bu düşmanlıkla toplumun ortasına dalanlara…"
+    },
+    {
+      "verseNo": 5,
+      "source": "okuyan",
+      "text": "Topluluğun ortasına dalmışlardı."
+    },
+    {
+      "verseNo": 6,
+      "verseNoEnd": null,
+      "source": "ai",
+      "text": "Şüphesiz insan rabbine karşı çok nankördür."
+    },
+    {
+      "verseNo": 6,
+      "source": "diyanet",
+      "text": "O gün insanlar amellerinin kendilerine gösterilmesi için bölük bölük kabirlerinden çıkacaklardır."
+    },
+    {
+      "verseNo": 6,
+      "source": "esed",
+      "text": "Gerçek şu ki, insan Rabbine karşı çok nankördür"
+    },
+    {
+      "verseNo": 6,
+      "source": "islamoglu",
+      "text": "Ki gerçekten de (bu) insan tipi Rabbine karşı çok nankördür;"
+    },
+    {
+      "verseNo": 6,
+      "source": "okuyan",
+      "text": "Şüphesiz ki böylesi insan, Rabbine karşı çok nankördür."
+    },
+    {
+      "verseNo": 7,
+      "verseNoEnd": null,
+      "source": "ai",
+      "text": "Ve o bunun üzerinde kesinlikle şahitlik eder."
+    },
+    {
+      "verseNo": 7,
+      "source": "diyanet",
+      "text": "ﾠArtık kim zerre ağırlığınca bir hayır işlerse onun mükafatını görecektir."
+    },
+    {
+      "verseNo": 7,
+      "source": "esed",
+      "text": "ve kendisi (de) buna şahittir"
+    },
+    {
+      "verseNo": 7,
+      "source": "islamoglu",
+      "text": "üstelik insanın kendisi de buna şahittir;"
+    },
+    {
+      "verseNo": 7,
+      "source": "okuyan",
+      "text": "Şüphesiz ki buna kendisi de şahittir."
+    },
+    {
+      "verseNo": 8,
+      "verseNoEnd": null,
+      "source": "ai",
+      "text": "Ve gerçekten o, servet sevgisinde son derece aşırıdır."
+    },
+    {
+      "verseNo": 8,
+      "source": "diyanet",
+      "text": "Kim de zerre ağırlığınca bir kötülük işlerse onun cezasını görecektir."
+    },
+    {
+      "verseNo": 8,
+      "source": "esed",
+      "text": "çünkü servet hırsına kapılmıştır"
+    },
+    {
+      "verseNo": 8,
+      "source": "islamoglu",
+      "text": "zira o servete pek tutkundur!"
+    },
+    {
+      "verseNo": 8,
+      "source": "okuyan",
+      "text": "Şüphesiz ki onun mal sevgisi çok şiddetlidir."
+    },
+    {
+      "verseNo": 9,
+      "verseNoEnd": null,
+      "source": "ai",
+      "text": "Acaba kabirlerde olanlar dağıtıldığında bilmez mi?"
+    },
+    {
+      "verseNo": 9,
+      "source": "diyanet",
+      "text": "Acaba o bilmiyor mu ki, kabirlerde bulunanlar çıkarıldığı ve kalplerdeki ortaya konulduğu zaman, işte o gün onların Rabbi kendilerinin her halinden mutlaka haberdardır."
+    },
+    {
+      "verseNo": 9,
+      "source": "esed",
+      "text": "Ama bilmez mi ki (Ahiret Günü,) herkes mezarından ayağa kalkıp dışarı çıktığında"
+    },
+    {
+      "verseNo": 9,
+      "source": "islamoglu",
+      "text": "O bilmez mi ki, kabirlerde bulunan herkes diriltilip ortaya çıkacağı zaman,"
+    },
+    {
+      "verseNo": 9,
+      "source": "okuyan",
+      "text": "Bilmez mi ki mezarlarda olanlar dışarı atıldığında,"
+    },
+    {
+      "verseNo": 10,
+      "verseNoEnd": null,
+      "source": "ai",
+      "text": "Ve göğüslerde olanlar açığa çıkarılır."
+    },
+    {
+      "verseNo": 10,
+      "source": "diyanet",
+      "text": "Acaba o bilmiyor mu ki, kabirlerde bulunanlar çıkarıldığı ve kalplerdeki ortaya konulduğu zaman, işte o gün onların Rabbi kendilerinin her halinden mutlaka haberdardır."
+    },
+    {
+      "verseNo": 10,
+      "source": "esed",
+      "text": "ve insanların kalplerinde (gizli) olan her şey ortaya döküldüğünde"
+    },
+    {
+      "verseNo": 10,
+      "source": "islamoglu",
+      "text": "ve gönüllerde saklı her şey önlerine serildiği (zaman):"
+    },
+    {
+      "verseNo": 10,
+      "source": "okuyan",
+      "text": "Göğüslerde (kalplerde) olanlar (gizlenenler) ortaya döküldüğünde,"
+    },
+    {
+      "verseNo": 11,
+      "verseNoEnd": null,
+      "source": "ai",
+      "text": "Şüphesiz Rableri o gün onlarla ilgili olarak haberdardır."
+    },
+    {
+      "verseNo": 11,
+      "source": "diyanet",
+      "text": "Acaba o bilmiyor mu ki, kabirlerde bulunanlar çıkarıldığı ve kalplerdeki ortaya konulduğu zaman, işte o gün onların Rabbi kendilerinin her halinden mutlaka haberdardır."
+    },
+    {
+      "verseNo": 11,
+      "source": "esed",
+      "text": "işte o Gün Rableri, onların her halinden haberdar (olduğunu gösterecek)tir"
+    },
+    {
+      "verseNo": 11,
+      "source": "islamoglu",
+      "text": "Elbet Rableri, o gün onları (bekleyen akıbetin) iç yüzünden bütünüyle haberdardır!"
+    },
+    {
+      "verseNo": 11,
+      "source": "okuyan",
+      "text": "Şüphesiz ki Rableri o gün onlardan haberdardır."
+    }
+  ],
+  "aiParagraph": "Sabahın karanlığında toprağı döverek koşan, nefes nefese kalan, kıvılcımlar saçan bir atın imgesiyle açılıyor metin — bu kadar ham, bu kadar fiziksel. Sonra ansızın insana dönüyor: bütün bu güç, bütün bu hareket ortasında insan, kendisine verilene karşı kapalı, nankör, içine kapanmış biri olarak duruyor. Üstelik bunu biliyor — metin bizzat insanın buna tanıklık ettiğini söylüyor. Yani bu bir cehalet meselesi değil; insan, aldıklarının farkında, ama yine de elindekine sımsıkı sarılıyor, onu bırakmak istemiyor, paylaşmak istemiyor. \"Hayr\" sevgisi — mal, imkân, sahip olunan her ne ise — onu o kadar derinden kavramış ki bu, bir zaaf değil neredeyse bir tutku hâlini almış. Sonra metin tek bir soru soruyor: Kabirlerin altındakilerin yeryüzüne çıkarıldığı, göğüslerde saklı tutulan her şeyin gün yüzüne döküldüğü o an geldiğinde ne olacak? Buradaki asıl ağırlık şu: saklanabileceğini sandığın şey — niyetin, içindeki hesabın, kimseye göstermediğin o yüzün — zaten biliniyordu."
 }

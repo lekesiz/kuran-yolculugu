@@ -30,6 +30,7 @@ export const translationSourceEnum = pgEnum("translation_source_enum", [
   "okuyan",
   "islamoglu",
   "esed",
+  "ai",
 ]);
 
 export const users = pgTable("users", {
@@ -64,6 +65,8 @@ export const surahs = pgTable(
     occasionOfRevelation: text("occasionOfRevelation"),
     occasionSources: text("occasionSources"),
     contemporaryMeaning: text("contemporaryMeaning"),
+    /** AI-written paragraph read straight from the Arabic: "what does this surah say today?" */
+    aiParagraph: text("aiParagraph"),
     keyTerms: jsonb("keyTerms"),
     scholarlyNotes: jsonb("scholarlyNotes"),
     revisionPass: integer("revisionPass").default(1).notNull(),

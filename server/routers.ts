@@ -1,4 +1,5 @@
 import { COOKIE_NAME } from "@shared/const";
+import { TRANSLATION_SOURCES } from "@shared/kuran";
 import { TRPCError } from "@trpc/server";
 import { z } from "zod";
 import { getSessionCookieOptions } from "./_core/cookies";
@@ -8,7 +9,7 @@ import * as db from "./db";
 
 const periodSchema = z.enum(["Mekke", "Medine"]);
 const sortSchema = z.enum(["station", "nuzul", "mushaf"]);
-const sourceSchema = z.enum(["diyanet", "okuyan", "islamoglu", "esed"]);
+const sourceSchema = z.enum(TRANSLATION_SOURCES);
 
 /** Admin-only guard used by the content management panel. */
 const adminProcedure = protectedProcedure.use(({ ctx, next }) => {

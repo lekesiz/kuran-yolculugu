@@ -52,9 +52,13 @@ export default function TranslationPanel({
     return TRANSLATION_SOURCES.filter(s => present.has(s));
   }, [translations]);
 
-  const [active, setActive] = useState<TranslationSource[]>(() =>
-    availableSources.length ? availableSources.slice(0, 2) : [],
-  );
+  // Open on Diyanet plus the AI reading: the pairing a newcomer benefits from
+  // most, since the machine rendering carries no parenthetical commentary.
+  const [active, setActive] = useState<TranslationSource[]>(() => {
+    if (!availableSources.length) return [];
+    const preferred = availableSources.filter(s => s === "diyanet" || s === "ai");
+    return preferred.length >= 2 ? preferred : availableSources.slice(0, 2);
+  });
   const [layout, setLayout] = useState<"compare" | "stack">("compare");
   const [showArabic, setShowArabic] = useState(true);
 
@@ -145,6 +149,11 @@ export default function TranslationPanel({
                     )}
                     style={{ transitionTimingFunction: "var(--ease-out)" }}>
                     {meta.short}
+                    {source === "ai" && (
+                      <span className="ml-1 opacity-60" aria-hidden>
+                        ✦
+                      </span>
+                    )}
                   </button>
                 </TooltipTrigger>
                 <TooltipContent className="max-w-[15rem] text-left">
@@ -278,8 +287,17 @@ export default function TranslationPanel({
               {activeOrdered.map(source => {
                 const text = row.bySource.get(source);
                 return (
-                  <div key={source} className="px-4 py-3.5">
-                    <p className="eyebrow mb-1.5">{TRANSLATION_LABELS[source].short}</p>
+                  <div
+                    key={source}
+                    className={cn("px-4 py-3.5", source === "ai" && "bg-muted/25")}>
+                    <p className="eyebrow mb-1.5">
+                      {TRANSLATION_LABELS[source].short}
+                      {source === "ai" && (
+                        <span className="ml-1.5 font-normal normal-case tracking-normal opacity-70">
+                          makine çevirisi
+                        </span>
+                      )}
+                    </p>
                     {text ? (
                       <p className="prose-kuran !text-base">{text}</p>
                     ) : (

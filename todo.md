@@ -146,3 +146,22 @@ yalnızca %2,5 örtüştüğü için reddedildi; Diyanet Yeni doğrudan resmî p
 - [x] Yayın zinciri açığı giderildi: `scripts/yayinla.mjs` — iki veritabanına yükleme + GitHub gönderimi + iki canlı adresten doğrulama tek komutta
 - [x] Günlük görev talimatı ve `GUNLUK_TUR2.md` yayın adımlarını içerecek şekilde güncellendi
 - [x] 2. durak — Kalem (68): 3 kaynakla doğrulandı, eksik üçüncü bölüm (Hz. Yûnus, 48-52) eklendi, üç bölümün ayet aralıkları yazıldı, bahçe kıssasının kaynaklardaki kurgusu (baba-oğullar, itiraz eden kişi, pişmanlık) ve "nimetle sınanma" boyutu eklendi, "mecnun" yaftasının arka planı düzeltildi, 5 yeni kaynak notu, 5 kavram / 6 tema / 5 soru
+
+## Faz 13 — AI Tercümesi (beşinci meal sütunu, 114 surenin tamamı)
+
+- [ ] Şemaya beşinci çeviri kaynağı eklendi (MySQL enum + Postgres enum + shared/kuran.ts)
+- [ ] Enum migrasyonu iki veritabanında uygulandı
+- [ ] Tarafsız çeviri yönergesi yazıldı ve örnek surelerde kalite doğrulandı
+- [ ] 114 surenin 6.236 ayeti çevrildi
+- [ ] Çeviriler iki veritabanına yüklendi
+- [ ] Arayüzde beşinci meal gösteriliyor (etiket, kaynak açıklaması, meal seçici)
+- [ ] AI çevirisi için vitest testleri yazıldı
+- [ ] Günlük tur yordamına AI çevirisi adımı eklendi
+
+## Faz 14 — Sure Paragrafı ("bugün ne anlamalıyız")
+
+- [x] Paragraf üretim yönergesi yazıldı ve deneme onaylandı (kullanıcı: her iki katman da olsun)
+- [ ] Şemaya paragraf alanı eklendi (iki veritabanı)
+- [ ] 114 sure için paragraf üretildi
+- [ ] Arayüzde sure sayfasının başında gösteriliyor
+- [ ] Testler yazıldı ve yayınlandı

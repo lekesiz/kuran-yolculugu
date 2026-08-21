@@ -71,12 +71,17 @@ describe("surah.list", () => {
 });
 
 describe("surah.detail", () => {
-  it("returns verses, four translations per verse, themes and questions", async () => {
+  it("returns verses, every loaded reading per verse, themes and questions", async () => {
     const detail = await caller().surah.detail({ stationNo: 1, sort: "station" });
 
     expect(detail.surah.name).toBeTruthy();
     expect(detail.verses.length).toBe(detail.surah.verseCount);
-    expect(detail.translations.length).toBe(detail.surah.verseCount * 4);
+    // Derived from the sources actually present, so adding a reading cannot
+    // silently break the per-verse completeness guarantee.
+    const sources = new Set(detail.translations.map(t => t.source));
+    expect(sources.size).toBeGreaterThanOrEqual(4);
+    expect(sources.has("ai")).toBe(true);
+    expect(detail.translations.length).toBe(detail.surah.verseCount * sources.size);
     expect(detail.themes.length).toBeGreaterThanOrEqual(3);
     expect(detail.questions.length).toBeGreaterThanOrEqual(1);
   });

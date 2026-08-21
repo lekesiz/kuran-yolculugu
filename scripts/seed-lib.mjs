@@ -13,7 +13,7 @@
 import mysql from "mysql2/promise";
 import postgres from "postgres";
 
-const SOURCES = new Set(["diyanet", "okuyan", "islamoglu", "esed"]);
+const SOURCES = new Set(["diyanet", "okuyan", "islamoglu", "esed", "ai"]);
 const PERIODS = new Set(["Mekke", "Medine"]);
 
 /** True when the given URL / env combination targets Postgres. */
@@ -139,6 +139,7 @@ export async function upsertStation(conn, s) {
     "verseCount", "periodDiyanet", "periodOkuyan", "periodDisputeNote", "revelationTiming",
     "stationTitle", "introduction", "occasionOfRevelation", "occasionSources",
     "contemporaryMeaning", "keyTerms", "scholarlyNotes", "revisionPass", "revisionNote",
+    "aiParagraph",
   ];
   // `surahNo` is the conflict target, so it is never part of the update list.
   const UPDATED = COLUMNS.filter(c => c !== "surahNo");
@@ -166,6 +167,7 @@ export async function upsertStation(conn, s) {
     scholarlyNotes,
     s.revisionPass ?? 1,
     s.revisionNote ?? null,
+    s.aiParagraph ?? null,
   ];
 
   await conn.execute(
@@ -187,35 +189,58 @@ export async function upsertStation(conn, s) {
     await conn.execute(`DELETE FROM ${col(table)} WHERE ${col("surahId")} = ?`, [surahId]);
   }
 
-  for (const v of s.verses ?? []) {
-    await conn.execute(
-      `INSERT INTO ${col("verses")} (${col("surahId")}, ${col("verseNo")}, ${col("textArabic")}) VALUES (?,?,?)`,
-      [surahId, v.verseNo, v.textArabic],
-    );
-  }
+  // Batched inserts. One round trip per ~200 rows instead of per row: over a
+  // remote connection (Supabase) the per-statement latency dominated, turning
+  // a full reseed into tens of minutes.
+  const insertMany = async (table, columns, rows) => {
+    if (!rows.length) return;
+    const CHUNK = 200;
+    const cols = columns.map(col).join(", ");
+    for (let i = 0; i < rows.length; i += CHUNK) {
+      const slice = rows.slice(i, i + CHUNK);
+      const placeholders = slice
+        .map(() => `(${columns.map(() => "?").join(",")})`)
+        .join(",");
+      await conn.execute(
+        `INSERT INTO ${col(table)} (${cols}) VALUES ${placeholders}`,
+        slice.flat(),
+      );
+    }
+  };
 
-  for (const t of s.translations ?? []) {
-    await conn.execute(
-      `INSERT INTO ${col("translations")} (${col("surahId")}, ${col("verseNo")}, ${col("verseNoEnd")}, ${col("source")}, ${col("text")}) VALUES (?,?,?,?,?)`,
-      [surahId, t.verseNo, t.verseNoEnd ?? null, t.source, t.text],
-    );
-  }
+  await insertMany(
+    "verses",
+    ["surahId", "verseNo", "textArabic"],
+    (s.verses ?? []).map(v => [surahId, v.verseNo, v.textArabic]),
+  );
 
-  let order = 0;
-  for (const th of s.themes ?? []) {
-    await conn.execute(
-      `INSERT INTO ${col("themes")} (${col("surahId")}, ${col("label")}, ${col("body")}, ${col("sortOrder")}) VALUES (?,?,?,?)`,
-      [surahId, th.label, th.body ?? null, order++],
-    );
-  }
+  await insertMany(
+    "translations",
+    ["surahId", "verseNo", "verseNoEnd", "source", "text"],
+    (s.translations ?? []).map(t => [
+      surahId,
+      t.verseNo,
+      t.verseNoEnd ?? null,
+      t.source,
+      t.text,
+    ]),
+  );
 
-  order = 0;
-  for (const q of s.questions ?? []) {
-    await conn.execute(
-      `INSERT INTO ${col("questions")} (${col("surahId")}, ${col("body")}, ${col("sortOrder")}) VALUES (?,?,?)`,
-      [surahId, typeof q === "string" ? q : q.body, order++],
-    );
-  }
+  await insertMany(
+    "themes",
+    ["surahId", "label", "body", "sortOrder"],
+    (s.themes ?? []).map((th, i) => [surahId, th.label, th.body ?? null, i]),
+  );
+
+  await insertMany(
+    "questions",
+    ["surahId", "body", "sortOrder"],
+    (s.questions ?? []).map((q, i) => [
+      surahId,
+      typeof q === "string" ? q : q.body,
+      i,
+    ]),
+  );
 
   return {
     surahId,

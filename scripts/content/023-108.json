@@ -1,154 +1,173 @@
 {
- "stationNo": 23,
- "surahNo": 108,
- "nuzulOrderOkuyan": 15,
- "name": "Kevser",
- "nameArabic": "الكوثر",
- "nameMeaning": "Bol hayır, çokluk",
- "verseCount": 3,
- "periodDiyanet": "Mekke",
- "periodOkuyan": "Mekke",
- "revelationTiming": "Mekke dönemi",
- "stationTitle": "Sana çok şey verildi. Karşılığı ibadet ve paylaşımdır; seni küçümseyenler ise arkasız kalır.",
- "introduction": "Kevser suresi, adını birinci ayetteki \"kevser\" kelimesinden alır; bol hayır, çokluk anlamındadır. Üç ayetlik sure, Kur'an'ın en kısa bölümüdür ve Mekke döneminde inmiştir.\n\nSure üç hareket içerir: bir verme beyanı (\"sana kevseri verdik\"), bir emir (\"namaz kıl ve kurban kes\") ve bir karşı beyan (\"seni küçümseyenin kendisi arkasız kalacaktır\"). Kısalığına rağmen tam bir yapı taşır.",
- "occasionOfRevelation": "Nüzul kaynaklarının naklettiğine göre sure, Hz. Muhammed'in erkek çocuklarının vefatı üzerine Mekkeliler tarafından \"soyu kesik\" (ebter) diye küçümsenmesi bağlamında inmiştir. Cahiliye Arap toplumunda erkek evladın devamı, kişinin adının ve nüfuzunun sürmesi anlamına geliyordu; soyun kesilmesi ise sosyal bir yok oluş sayılıyordu.\n\nSure bu değer sistemini tersine çevirir. \"Ebter\" — arkası kesilmiş — sıfatını, küçümseyenin kendisine iade eder. Kalıcılığın ölçüsü biyolojik devamlılık değil, üretilen hayır ve bırakılan etkidir.\n\n\"Kevser\" kelimesinin ne olduğu tefsirlerde geniş biçimde tartışılmıştır: bol hayır, nübüvvet, Kur'an, cennette bir havuz. Diyanet Kur'an Yolu tefsiri kelimenin \"pek çok hayır\" anlamındaki genel karşılığını öne çıkarır.",
- "occasionSources": "Diyanet İşleri Başkanlığı Kur'an Yolu Tefsiri, Kevser suresi girişi; Vâhidî, Esbâbü'n-Nüzûl; TDV İslâm Ansiklopedisi, \"Kevser Sûresi\" maddesi.",
- "contemporaryMeaning": "Surenin merkezinde bir ölçü değişikliği vardır: kalıcılık, soyun sürmesiyle değil üretilen hayırla ölçülür. Bu, çocuğu olmayan, kariyeri kesintiye uğramış, adı duyulmamış herkes için bir yeniden tanımdır.\n\nİkinci nokta, verilene karşılık istenen şeydir: namaz ve kurban. Biri Tanrı'ya yönelme, öteki paylaşımdır. Yani bolluk, ne biriktirme ne gösteriş için değil; ibadet ve dağıtım için verilmiştir.\n\nÜçüncüsü, küçümsemeye verilen cevabın biçimidir. Sure karşı hakaret üretmez; yalnızca kimin gerçekten \"arkasız\" olduğunu bildirir. Etkiyi bırakan kalır, küçümseyen unutulur.",
- "keyTerms": [
-  {
-   "term": "kevser",
-   "arabic": "الْكَوْثَر",
-   "verseRef": "108:1",
-   "meaning": "Bol hayır, çokluk. Tefsirlerde geniş yorumlanır; Diyanet \"pek çok hayır\" karşılığını öne çıkarır."
-  },
-  {
-   "term": "fesalli venhar",
-   "arabic": "فَصَلِّ وَانْحَرْ",
-   "verseRef": "108:2",
-   "meaning": "Namaz kıl ve kurban kes. Verilene karşılık istenen iki şey: yönelme ve paylaşım."
-  },
-  {
-   "term": "ebter",
-   "arabic": "الْأَبْتَر",
-   "verseRef": "108:3",
-   "meaning": "Arkası kesilmiş, soyu tükenmiş, devamı olmayan. Küçümseme sıfatı, küçümseyene iade edilir."
-  }
- ],
- "themes": [
-  {
-   "label": "Kalıcılığın yeni ölçüsü",
-   "body": "Devamlılık soyla değil üretilen hayırla ölçülür. Sure dönemin en güçlü statü ölçütünü geçersiz kılar."
-  },
-  {
-   "label": "Bolluk ne için verilir",
-   "body": "Karşılık olarak namaz ve kurban istenir: yönelme ve paylaşım. Bolluk biriktirme ya da gösteriş için değildir."
-  },
-  {
-   "label": "Küçümsemeye verilen cevabın biçimi",
-   "body": "Sure karşı hakaret üretmez. Yalnızca kimin arkasız kaldığını bildirir; cevap savunma değil, ölçü değişikliğidir."
-  }
- ],
- "questions": [
-  "Arkamda ne bırakıyorum? Bunu ölçerken hangi ölçüyü kullanıyorum?",
-  "Elimdeki bolluğun ne kadarı paylaşıma dönüşüyor?",
-  "Beni küçümseyen birine karşılık verirken ölçüyü mü değiştiriyorum, yoksa aynı dille mi karşılık veriyorum?"
- ],
- "scholarlyNotes": [
-  {
-   "kind": "ihtilaf",
-   "label": "Sure Mekke'de mi Medine'de mi indi?",
-   "body": "TDV İslâm Ansiklopedisi ve Diyanet Kur'an Yolu Tefsiri sureyi Mekke dönemine yerleştirir ve Medine rivayetlerini zayıf bulur. Prof. Dr. Mehmet Okuyan ise Enes b. Mâlik rivayetine ve Hz. Peygamber'e vaat edilen nimetlerin Medine'de gerçekleşmiş olmasına dayanarak Medenî olma ihtimalini öne çıkarır; Nevevî de bu rivayeti sahih kabul ederek tercih etmiştir. Bu uygulamada Diyanet tasnifi esas alınmıştır."
-  },
-  {
-   "kind": "ihtilaf",
-   "label": "\"Ebter\" diyen kim?",
-   "body": "Rivayetlerde en çok Âs b. Vâil'in adı geçer; ancak Ukbe b. Ebî Mu'ayt ve Ka'b b. Eşref gibi başka isimler de zikredilir. İthamı tek bir kişiye bağlamak eksik bir niteleme olur."
-  },
-  {
-   "kind": "nuans",
-   "label": "\"Kevser\" ne demektir?",
-   "body": "Kelime yalnızca cennetteki bir havuz ya da nehir değildir; tefsirlerde bol hayır, nübüvvet, Kur'an, İslâm dini, ümmetin çokluğu ve şefaat hakkı gibi Hz. Peygamber'e verilen bütün mânevî lutufları kapsayacak genişlikte anlaşılır."
-  },
-  {
-   "kind": "rivayet",
-   "label": "Hudeybiye rivayeti zayıftır",
-   "body": "Surenin ikinci ayetinin Hudeybiye'de nâzil olduğu yönündeki rivayet, TDV İslâm Ansiklopedisi'ne göre müfessirlerin çoğunluğu tarafından zayıf kabul edilmektedir."
-  }
- ],
- "verses": [
-  {
-   "verseNo": 1,
-   "textArabic": "بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ إِنَّآ أَعْطَيْنَٰكَ ٱلْكَوْثَرَ"
-  },
-  {
-   "verseNo": 2,
-   "textArabic": "فَصَلِّ لِرَبِّكَ وَٱنْحَرْ"
-  },
-  {
-   "verseNo": 3,
-   "textArabic": "إِنَّ شَانِئَكَ هُوَ ٱلْأَبْتَرُ"
-  }
- ],
- "translations": [
-  {
-   "verseNo": 1,
-   "source": "diyanet",
-   "text": "Kureyş'i ısındırıp alıştırdığı; onları kışın (Yemen'e) ve yazın (Şam'a) yaptıkları yolculuğa ısındırıp alıştırdığı için, Kureyş de, kendilerini besleyip açlıklarını gideren ve onları korkudan emin kılan bu evin (Kâbe'nin) Rabbine kulluk etsin."
-  },
-  {
-   "verseNo": 1,
-   "source": "esed",
-   "text": "Bak, Biz sana bol nimet verdik"
-  },
-  {
-   "verseNo": 1,
-   "source": "okuyan",
-   "text": "Şüphesiz ki sana [Kevser]’i (bol nimet) verdik."
-  },
-  {
-   "verseNo": 1,
-   "source": "islamoglu",
-   "text": "GERÇEK şu ki Biz, sana her hayrı cömertçe bahşettik:"
-  },
-  {
-   "verseNo": 2,
-   "source": "diyanet",
-   "text": "Kureyş'i ısındırıp alıştırdığı; onları kışın (Yemen'e) ve yazın (Şam'a) yaptıkları yolculuğa ısındırıp alıştırdığı için, Kureyş de, kendilerini besleyip açlıklarını gideren ve onları korkudan emin kılan bu evin (Kâbe'nin) Rabbine kulluk etsin."
-  },
-  {
-   "verseNo": 2,
-   "source": "esed",
-   "text": "o halde (yalnız) Rabbine ibadet et ve (yalnız O´nun adına) kurban kes"
-  },
-  {
-   "verseNo": 2,
-   "source": "okuyan",
-   "text": "Rabbin için [salât] (ibadet) et ve kurban kes!"
-  },
-  {
-   "verseNo": 2,
-   "source": "islamoglu",
-   "text": "O halde namazı da, kurbanı da yalnız Rabbine tahsis et!"
-  },
-  {
-   "verseNo": 3,
-   "source": "diyanet",
-   "text": "Kureyş'i ısındırıp alıştırdığı; onları kışın (Yemen'e) ve yazın (Şam'a) yaptıkları yolculuğa ısındırıp alıştırdığı için, Kureyş de, kendilerini besleyip açlıklarını gideren ve onları korkudan emin kılan bu evin (Kâbe'nin) Rabbine kulluk etsin."
-  },
-  {
-   "verseNo": 3,
-   "source": "esed",
-   "text": "Şu gerçek ki, senden nefret eden, (her türlü iyilik ve güzellikten) kesilmektedir"
-  },
-  {
-   "verseNo": 3,
-   "source": "okuyan",
-   "text": "Şüphesiz ki asıl (hayırdan yana) soyu kesik olan, sana kin duyandır."
-  },
-  {
-   "verseNo": 3,
-   "source": "islamoglu",
-   "text": "Bir başka gerçek de şu ki; (hayırdan) tamamen kesilip kopmuştur senden nefret eden."
-  }
- ]
+  "stationNo": 23,
+  "surahNo": 108,
+  "nuzulOrderOkuyan": 15,
+  "name": "Kevser",
+  "nameArabic": "الكوثر",
+  "nameMeaning": "Bol hayır, çokluk",
+  "verseCount": 3,
+  "periodDiyanet": "Mekke",
+  "periodOkuyan": "Mekke",
+  "revelationTiming": "Mekke dönemi",
+  "stationTitle": "Sana çok şey verildi. Karşılığı ibadet ve paylaşımdır; seni küçümseyenler ise arkasız kalır.",
+  "introduction": "Kevser suresi, adını birinci ayetteki \"kevser\" kelimesinden alır; bol hayır, çokluk anlamındadır. Üç ayetlik sure, Kur'an'ın en kısa bölümüdür ve Mekke döneminde inmiştir.\n\nSure üç hareket içerir: bir verme beyanı (\"sana kevseri verdik\"), bir emir (\"namaz kıl ve kurban kes\") ve bir karşı beyan (\"seni küçümseyenin kendisi arkasız kalacaktır\"). Kısalığına rağmen tam bir yapı taşır.",
+  "occasionOfRevelation": "Nüzul kaynaklarının naklettiğine göre sure, Hz. Muhammed'in erkek çocuklarının vefatı üzerine Mekkeliler tarafından \"soyu kesik\" (ebter) diye küçümsenmesi bağlamında inmiştir. Cahiliye Arap toplumunda erkek evladın devamı, kişinin adının ve nüfuzunun sürmesi anlamına geliyordu; soyun kesilmesi ise sosyal bir yok oluş sayılıyordu.\n\nSure bu değer sistemini tersine çevirir. \"Ebter\" — arkası kesilmiş — sıfatını, küçümseyenin kendisine iade eder. Kalıcılığın ölçüsü biyolojik devamlılık değil, üretilen hayır ve bırakılan etkidir.\n\n\"Kevser\" kelimesinin ne olduğu tefsirlerde geniş biçimde tartışılmıştır: bol hayır, nübüvvet, Kur'an, cennette bir havuz. Diyanet Kur'an Yolu tefsiri kelimenin \"pek çok hayır\" anlamındaki genel karşılığını öne çıkarır.",
+  "occasionSources": "Diyanet İşleri Başkanlığı Kur'an Yolu Tefsiri, Kevser suresi girişi; Vâhidî, Esbâbü'n-Nüzûl; TDV İslâm Ansiklopedisi, \"Kevser Sûresi\" maddesi.",
+  "contemporaryMeaning": "Surenin merkezinde bir ölçü değişikliği vardır: kalıcılık, soyun sürmesiyle değil üretilen hayırla ölçülür. Bu, çocuğu olmayan, kariyeri kesintiye uğramış, adı duyulmamış herkes için bir yeniden tanımdır.\n\nİkinci nokta, verilene karşılık istenen şeydir: namaz ve kurban. Biri Tanrı'ya yönelme, öteki paylaşımdır. Yani bolluk, ne biriktirme ne gösteriş için değil; ibadet ve dağıtım için verilmiştir.\n\nÜçüncüsü, küçümsemeye verilen cevabın biçimidir. Sure karşı hakaret üretmez; yalnızca kimin gerçekten \"arkasız\" olduğunu bildirir. Etkiyi bırakan kalır, küçümseyen unutulur.",
+  "keyTerms": [
+    {
+      "term": "kevser",
+      "arabic": "الْكَوْثَر",
+      "verseRef": "108:1",
+      "meaning": "Bol hayır, çokluk. Tefsirlerde geniş yorumlanır; Diyanet \"pek çok hayır\" karşılığını öne çıkarır."
+    },
+    {
+      "term": "fesalli venhar",
+      "arabic": "فَصَلِّ وَانْحَرْ",
+      "verseRef": "108:2",
+      "meaning": "Namaz kıl ve kurban kes. Verilene karşılık istenen iki şey: yönelme ve paylaşım."
+    },
+    {
+      "term": "ebter",
+      "arabic": "الْأَبْتَر",
+      "verseRef": "108:3",
+      "meaning": "Arkası kesilmiş, soyu tükenmiş, devamı olmayan. Küçümseme sıfatı, küçümseyene iade edilir."
+    }
+  ],
+  "themes": [
+    {
+      "label": "Kalıcılığın yeni ölçüsü",
+      "body": "Devamlılık soyla değil üretilen hayırla ölçülür. Sure dönemin en güçlü statü ölçütünü geçersiz kılar."
+    },
+    {
+      "label": "Bolluk ne için verilir",
+      "body": "Karşılık olarak namaz ve kurban istenir: yönelme ve paylaşım. Bolluk biriktirme ya da gösteriş için değildir."
+    },
+    {
+      "label": "Küçümsemeye verilen cevabın biçimi",
+      "body": "Sure karşı hakaret üretmez. Yalnızca kimin arkasız kaldığını bildirir; cevap savunma değil, ölçü değişikliğidir."
+    }
+  ],
+  "questions": [
+    "Arkamda ne bırakıyorum? Bunu ölçerken hangi ölçüyü kullanıyorum?",
+    "Elimdeki bolluğun ne kadarı paylaşıma dönüşüyor?",
+    "Beni küçümseyen birine karşılık verirken ölçüyü mü değiştiriyorum, yoksa aynı dille mi karşılık veriyorum?"
+  ],
+  "scholarlyNotes": [
+    {
+      "kind": "ihtilaf",
+      "label": "Sure Mekke'de mi Medine'de mi indi?",
+      "body": "TDV İslâm Ansiklopedisi ve Diyanet Kur'an Yolu Tefsiri sureyi Mekke dönemine yerleştirir ve Medine rivayetlerini zayıf bulur. Prof. Dr. Mehmet Okuyan ise Enes b. Mâlik rivayetine ve Hz. Peygamber'e vaat edilen nimetlerin Medine'de gerçekleşmiş olmasına dayanarak Medenî olma ihtimalini öne çıkarır; Nevevî de bu rivayeti sahih kabul ederek tercih etmiştir. Bu uygulamada Diyanet tasnifi esas alınmıştır."
+    },
+    {
+      "kind": "ihtilaf",
+      "label": "\"Ebter\" diyen kim?",
+      "body": "Rivayetlerde en çok Âs b. Vâil'in adı geçer; ancak Ukbe b. Ebî Mu'ayt ve Ka'b b. Eşref gibi başka isimler de zikredilir. İthamı tek bir kişiye bağlamak eksik bir niteleme olur."
+    },
+    {
+      "kind": "nuans",
+      "label": "\"Kevser\" ne demektir?",
+      "body": "Kelime yalnızca cennetteki bir havuz ya da nehir değildir; tefsirlerde bol hayır, nübüvvet, Kur'an, İslâm dini, ümmetin çokluğu ve şefaat hakkı gibi Hz. Peygamber'e verilen bütün mânevî lutufları kapsayacak genişlikte anlaşılır."
+    },
+    {
+      "kind": "rivayet",
+      "label": "Hudeybiye rivayeti zayıftır",
+      "body": "Surenin ikinci ayetinin Hudeybiye'de nâzil olduğu yönündeki rivayet, TDV İslâm Ansiklopedisi'ne göre müfessirlerin çoğunluğu tarafından zayıf kabul edilmektedir."
+    }
+  ],
+  "verses": [
+    {
+      "verseNo": 1,
+      "textArabic": "بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ إِنَّآ أَعْطَيْنَٰكَ ٱلْكَوْثَرَ"
+    },
+    {
+      "verseNo": 2,
+      "textArabic": "فَصَلِّ لِرَبِّكَ وَٱنْحَرْ"
+    },
+    {
+      "verseNo": 3,
+      "textArabic": "إِنَّ شَانِئَكَ هُوَ ٱلْأَبْتَرُ"
+    }
+  ],
+  "translations": [
+    {
+      "verseNo": 1,
+      "verseNoEnd": null,
+      "source": "ai",
+      "text": "Şüphesiz Biz sana bol nimet verdik."
+    },
+    {
+      "verseNo": 1,
+      "source": "diyanet",
+      "text": "Kureyş'i ısındırıp alıştırdığı; onları kışın (Yemen'e) ve yazın (Şam'a) yaptıkları yolculuğa ısındırıp alıştırdığı için, Kureyş de, kendilerini besleyip açlıklarını gideren ve onları korkudan emin kılan bu evin (Kâbe'nin) Rabbine kulluk etsin."
+    },
+    {
+      "verseNo": 1,
+      "source": "esed",
+      "text": "Bak, Biz sana bol nimet verdik"
+    },
+    {
+      "verseNo": 1,
+      "source": "islamoglu",
+      "text": "GERÇEK şu ki Biz, sana her hayrı cömertçe bahşettik:"
+    },
+    {
+      "verseNo": 1,
+      "source": "okuyan",
+      "text": "Şüphesiz ki sana [Kevser]’i (bol nimet) verdik."
+    },
+    {
+      "verseNo": 2,
+      "verseNoEnd": null,
+      "source": "ai",
+      "text": "Öyleyse Rabbin için namaz kıl ve kurban kes."
+    },
+    {
+      "verseNo": 2,
+      "source": "diyanet",
+      "text": "Kureyş'i ısındırıp alıştırdığı; onları kışın (Yemen'e) ve yazın (Şam'a) yaptıkları yolculuğa ısındırıp alıştırdığı için, Kureyş de, kendilerini besleyip açlıklarını gideren ve onları korkudan emin kılan bu evin (Kâbe'nin) Rabbine kulluk etsin."
+    },
+    {
+      "verseNo": 2,
+      "source": "esed",
+      "text": "o halde (yalnız) Rabbine ibadet et ve (yalnız O´nun adına) kurban kes"
+    },
+    {
+      "verseNo": 2,
+      "source": "islamoglu",
+      "text": "O halde namazı da, kurbanı da yalnız Rabbine tahsis et!"
+    },
+    {
+      "verseNo": 2,
+      "source": "okuyan",
+      "text": "Rabbin için [salât] (ibadet) et ve kurban kes!"
+    },
+    {
+      "verseNo": 3,
+      "verseNoEnd": null,
+      "source": "ai",
+      "text": "Şüphesiz senin hasmın sonu kesiktir."
+    },
+    {
+      "verseNo": 3,
+      "source": "diyanet",
+      "text": "Kureyş'i ısındırıp alıştırdığı; onları kışın (Yemen'e) ve yazın (Şam'a) yaptıkları yolculuğa ısındırıp alıştırdığı için, Kureyş de, kendilerini besleyip açlıklarını gideren ve onları korkudan emin kılan bu evin (Kâbe'nin) Rabbine kulluk etsin."
+    },
+    {
+      "verseNo": 3,
+      "source": "esed",
+      "text": "Şu gerçek ki, senden nefret eden, (her türlü iyilik ve güzellikten) kesilmektedir"
+    },
+    {
+      "verseNo": 3,
+      "source": "islamoglu",
+      "text": "Bir başka gerçek de şu ki; (hayırdan) tamamen kesilip kopmuştur senden nefret eden."
+    },
+    {
+      "verseNo": 3,
+      "source": "okuyan",
+      "text": "Şüphesiz ki asıl (hayırdan yana) soyu kesik olan, sana kin duyandır."
+    }
+  ],
+  "aiParagraph": "Bir insan düşünün: ona verilmiş olan her şeyi —sevgisini, ustalığını, sesini, zamanını— küçümseyen biri çıkar ve \"Bunlar geçici, ardında bir iz kalmayacak\" der. O küçümseme bazen yüksek sesle söylenir, bazen de içeride sessizce büyür, kişinin kendi kendine. Bu metin tam o ana girer: verilmiş olanın aslında ne kadar çok olduğunu hatırlatır; o \"çokluk\" öyle derin bir pınardır ki adı bile bolluğu anlatır. Yapılacak şey bu bolluğa sırt dönmek ya da onu kanıtlamaya çalışmak değil, onu bilenle yüzleşmek —gösteriş için değil, içtenlikle. Ve asıl çarpıcı olan son sözdür: izini silmek isteyenin izi silinecek olandır. Yani tarihin hangi tarafında durduğunu, çoğu zaman sen değil, yaptıkların belirler; ama bunu fark etmek için önce elindekine bakmak gerekir."
 }

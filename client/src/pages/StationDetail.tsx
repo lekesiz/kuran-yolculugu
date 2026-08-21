@@ -203,6 +203,25 @@ export default function StationDetail() {
       </div>
 
       <div className="container max-w-4xl">
+        {/* AI reading — produced from the Arabic text, first thing the reader meets */}
+        {surah.aiParagraph && (
+          <section className="mt-10">
+            <div className="rounded-xl border border-border/70 bg-secondary/25 px-5 py-5 sm:px-6 sm:py-6">
+              <div className="mb-3 flex flex-wrap items-center gap-2">
+                <p className="eyebrow">Bir bakışta</p>
+                <span className="rounded-md border border-border/60 bg-background/60 px-1.5 py-0.5 text-[0.625rem] uppercase tracking-wider text-muted-foreground">
+                  AI okuması
+                </span>
+              </div>
+              <p className="prose-kuran !text-[1.0625rem]">{surah.aiParagraph}</p>
+              <p className="mt-3.5 text-xs leading-relaxed text-muted-foreground">
+                Bu paragraf, surenin Arapça metninden yapay zekâ tarafından üretildi; bir
+                âlimin yorumu değil, bir giriş okumasıdır. Aşağıdaki bölümler kaynaklara dayanır.
+              </p>
+            </div>
+          </section>
+        )}
+
         {/* Introduction */}
         {surah.introduction && (
           <Section icon={ScrollText} eyebrow="Sure hakkında" title="Bu sure neyi anlatıyor?">
@@ -293,7 +312,7 @@ export default function StationDetail() {
         )}
 
         {/* Translation comparison */}
-        <Section eyebrow="Meal karşılaştırması" title="Aynı ayet, dört okuyuş">
+        <Section eyebrow="Meal karşılaştırması" title="Aynı ayet, farklı okuyuşlar">
           <TranslationPanel
             translations={translations}
             verses={verses}

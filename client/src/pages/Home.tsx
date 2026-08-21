@@ -49,8 +49,8 @@ export default function Home() {
             </h1>
             <p className="prose-kuran mt-6 max-w-xl !text-lg">
               Metni açıp anlamadan kapatmak yaygın bir tecrübedir. Bu çalışma, her sureyi
-              tarihsel bağlamına oturtur, dört mealin farkını yan yana gösterir ve okumayı
-              bugünün hayatına dönük somut sorularla bitirir.
+              tarihsel bağlamına oturtur, dört mealin farkını yan yana gösterir, sureyi tek
+              paragrafta özetler ve okumayı bugünün hayatına dönük somut sorularla bitirir.
             </p>
 
             <div className="mt-8 flex flex-wrap items-center gap-3">
@@ -97,9 +97,9 @@ export default function Home() {
             <div className="rule-ornament" />
             <Stat
               icon={MessageCircleQuestion}
-              value="4"
-              label="meal karşılaştırması"
-              note="Diyanet, Okuyan, İslamoğlu, Esed — yan yana."
+              value="4+1"
+              label="okuma yan yana"
+              note="Diyanet, Okuyan, İslamoğlu, Esed mealleri ve bir AI tercümesi."
             />
             <div className="rule-ornament" />
             <Stat
@@ -116,7 +116,7 @@ export default function Home() {
       <section className="container py-16 md:py-20">
         <p className="eyebrow">Her durakta ne var?</p>
         <h2 className="mt-2 max-w-2xl font-serif text-3xl font-semibold tracking-tight md:text-4xl">
-          Anlamak için gereken beş katman
+          Anlamak için gereken katmanlar
         </h2>
 
         <div className="mt-10 grid gap-x-10 gap-y-8 sm:grid-cols-2 lg:grid-cols-3">
@@ -132,21 +132,26 @@ export default function Home() {
           />
           <Layer
             no="03"
-            title="Dört meal, yan yana"
-            body="Aynı ayetin farklı çevirileri karşılaştırılır. Fark, çevirmenin tercihini metnin kendisinden ayırmayı öğretir."
+            title="Dört meal ve bir AI tercümesi"
+            body="Aynı ayetin farklı çevirileri yan yana durur. Fark, çevirmenin tercihini metnin kendisinden ayırmayı öğretir. Beşinci sütun, proje içinde Arapçadan üretilen ve makine çevirisi olarak işaretlenen bir okumadır."
           />
           <Layer
             no="04"
+            title="Bir bakışta"
+            body="Surenin tamamı, ayet ayet ilerlemeden önce tek paragrafta özetlenir: bu metinden bugün ne anlaşılmalı?"
+          />
+          <Layer
+            no="05"
             title="Bugüne bakan yüz"
             body="Surenin dokunduğu insani ve varoluşsal temalar, çağdaş hayatın diliyle açıklanır."
           />
           <Layer
-            no="05"
+            no="06"
             title="Yüzleşme soruları"
             body="Okuma, bilgiyle değil soruyla biter. Kendine yöneltmen gereken bir ila üç soru sunulur."
           />
           <Layer
-            no="06"
+            no="07"
             title="Kişisel defter"
             body="Her durakta kendi notunu tutabilir, okuduklarını işaretleyebilir ve ilerlemeni izleyebilirsin."
           />

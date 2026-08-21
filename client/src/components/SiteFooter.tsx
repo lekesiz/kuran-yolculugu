@@ -9,9 +9,9 @@ export default function SiteFooter() {
             Kur'an'ı Anlama Yolculuğu
           </p>
           <p className="leading-relaxed">
-            Nüzul sırasına göre, tarihsel bağlamıyla ve dört mealin karşılaştırmasıyla okumak
-            için hazırlanmış bir çalışma defteri. Kesin hüküm koyma iddiası taşımaz; okuyanı
-            kaynaklara ve kendi vicdanına yönlendirir.
+            Nüzul sırasına göre, tarihsel bağlamıyla, dört mealin karşılaştırmasıyla ve bir AI
+            tercümesiyle okumak için hazırlanmış bir çalışma defteri. Kesin hüküm koyma iddiası
+            taşımaz; okuyanı kaynaklara ve kendi vicdanına yönlendirir.
           </p>
         </div>
         <div className="space-y-2">

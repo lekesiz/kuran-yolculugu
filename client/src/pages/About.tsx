@@ -27,7 +27,10 @@ export default function About() {
         <h2 className="font-serif text-2xl font-semibold tracking-tight">Meal kaynakları</h2>
         <p className="prose-kuran mt-3">
           Tek bir meale yaslanmak, çeviri tercihlerini metnin kendisi sanmaya yol açar. Bu yüzden
-          dört meal yan yana sunulur; aralarındaki fark, düşünmeye davettir.
+          dört meal yan yana sunulur; aralarındaki fark, düşünmeye davettir. Bunlara ek olarak,
+          proje içinde Arapça metinden doğrudan üretilen bir AI tercümesi bulunur: yorum ve
+          parantez eklemeden, sade Türkçeyle. Yayımlanmış bir meal değildir, dört mealin ilmî
+          sorumluluğunu taşımaz ve arayüzde makine çevirisi olarak işaretlenir.
         </p>
         <div className="mt-5 grid gap-3 sm:grid-cols-2">
           {TRANSLATION_SOURCES.map(source => {
@@ -93,4 +96,3 @@ export default function About() {
     </div>
   );
 }
-

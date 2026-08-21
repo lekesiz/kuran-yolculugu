@@ -167,4 +167,5 @@ yalnızca %2,5 örtüştüğü için reddedildi; Diyanet Yeni doğrudan resmî p
 - [x] 114 sure için paragraf üretildi (`cekim/ai_paragraf.py`)
 - [x] Arayüzde sure sayfasının başında gösteriliyor ("Bir bakışta" bölümü)
 - [x] Testler yazıldı ve t1o.net üzerinde canlı doğrulandı
-- [ ] Günlük tur yordamına AI katmanı adımı eklenecek
+- [x] Günlük tur yordamına AI katmanı adımı eklendi (GUNLUK_TUR2.md 5b + zamanlanmış görev talimatı)
+- [x] Ana sayfa, altbilgi ve Yöntem sayfası AI sütununu anlatacak şekilde güncellendi (katman listesine "Bir bakışta" eklendi, meal kaynakları kartına AI Tercümesi girdisi)

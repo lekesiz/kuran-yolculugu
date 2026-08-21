@@ -145,4 +145,4 @@ yalnızca %2,5 örtüştüğü için reddedildi; Diyanet Yeni doğrudan resmî p
 - [x] 1. durak — Alak (96): 3 kaynakla doğrulandı, 2 olgusal hata düzeltildi (ikinci bölüm 9-19 → 6-19; Hira konumu), tilâvet secdesi ve "İkra' sûresi" eklendi, Mekke tasviri kaynakla düzeltildi, 3 yeni kaynak notu, 5 tema / 5 kavram / 5 soru
 - [x] Yayın zinciri açığı giderildi: `scripts/yayinla.mjs` — iki veritabanına yükleme + GitHub gönderimi + iki canlı adresten doğrulama tek komutta
 - [x] Günlük görev talimatı ve `GUNLUK_TUR2.md` yayın adımlarını içerecek şekilde güncellendi
-- [ ] 2. durak — Kalem (68)
+- [x] 2. durak — Kalem (68): 3 kaynakla doğrulandı, eksik üçüncü bölüm (Hz. Yûnus, 48-52) eklendi, üç bölümün ayet aralıkları yazıldı, bahçe kıssasının kaynaklardaki kurgusu (baba-oğullar, itiraz eden kişi, pişmanlık) ve "nimetle sınanma" boyutu eklendi, "mecnun" yaftasının arka planı düzeltildi, 5 yeni kaynak notu, 5 kavram / 6 tema / 5 soru

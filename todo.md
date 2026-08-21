@@ -58,14 +58,14 @@
 - [x] Diyanet Yeni meali: 6.236/6.236 — resmî Diyanet portalı (sayfa bazlı, birincil kaynak)
 - [x] Mehmet Okuyan meali: 6.236/6.236 — kuranokuyan.com
 - [x] Muhammed Esed meali: 6.236/6.236 — açık kaynak CDN, mevcut çekimle %88 birebir doğrulandı
-- [ ] Mustafa İslamoğlu meali: kısmi (tek kaynağı kuranmeali.com hız sınırı koydu; arka planda sürüyor)
+- [x] Mustafa İslamoğlu meali: 114 surede tam (6.236 ayet) — bkz. Faz 15
 - [x] 74 surenin editoryal içeriği (esbâb-ı nüzûl, kavram, tema, yüzleşme sorusu, kaynak notu)
 - [x] Tevbe suresi (Okuyan tertibinde 114. sıra) ayrı üretildi
 - [x] Durak numaralarının tek doğruluk kaynağından normalize edilmesi (17 dosyada çakışma vardı)
 - [x] 75 durak için "bugüne bakan yüz" (`contemporaryMeaning`) metinleri
 - [x] 17 kaynak notu düzeltmesi: ihtilaf notları karşı görüşü anacak, rivayet notu hüküm belirtecek
 - [x] 114 durağın editoryal katmanları ve üç tam mealin veritabanına yüklenmesi (hata yok, 20.849 meal kaydı)
-- [ ] Dördüncü meal (İslamoğlu) tamamlanınca yeniden yükle → 24.944 meal kaydı hedefi
+- [x] Dördüncü meal (İslamoğlu) tamamlandı ve yeniden yüklendi → dört meal 24.944 kayıt, AI ile birlikte 31.180
 - [x] Uzun sure performansı ölçüldü: Bakara (286 ayet, 738 KB) 0,13 s — teknik sayfalama gerekmiyor
 - [x] Uzun sureler için okuma gezgini: 40+ ayetli surelerde 20'lik bloklar, aralık düğmeleri ve önceki/sonraki bölüm gezinmesi
 - [x] Vitest: okuma gezgini bölüm kapsamı (hiçbir ayet düşmez/tekrarlanmaz, kısa sureler bölünmez)
@@ -179,4 +179,4 @@ ancak sonuç içerik JSON'larına ve veritabanlarına aktarılmamış.
 - [x] İçerik JSON dosyalarına aktarım (114 sure yeniden birleştirildi, AI katmanları korundu)
 - [x] İki veritabanına yükleme: beş kaynak da 6.236 ayet / 114 sure (31.180 meal kaydı)
 - [x] Meal kapsamı testi sıkılaştırıldı: dört mealin tamamı zorunlu, İslamoğlu için ayet sayısı + boş metin + hız sınırı kalıntısı denetimi
-- [ ] Canlı doğrulama (t1o.net + Manus)
+- [x] Canlı doğrulama: t1o.net ve Manus'ta örneklenen dört durakta beş kaynak da tam (Kıyâmet dahil — daha önce İslamoğlu hiç yoktu)

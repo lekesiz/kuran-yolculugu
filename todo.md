@@ -169,3 +169,14 @@ yalnızca %2,5 örtüştüğü için reddedildi; Diyanet Yeni doğrudan resmî p
 - [x] Testler yazıldı ve t1o.net üzerinde canlı doğrulandı
 - [x] Günlük tur yordamına AI katmanı adımı eklendi (GUNLUK_TUR2.md 5b + zamanlanmış görev talimatı)
 - [x] Ana sayfa, altbilgi ve Yöntem sayfası AI sütununu anlatacak şekilde güncellendi (katman listesine "Bir bakışta" eklendi, meal kaynakları kartına AI Tercümesi girdisi)
+
+## Faz 15 — İslamoğlu mealinin tamamlanması
+
+Tespit: çekim aslında 6.236 ayetin tamamını almış (`cekim/out_islamoglu/`),
+ancak sonuç içerik JSON'larına ve veritabanlarına aktarılmamış.
+
+- [x] Çekilen 6.236 ayetin kalite denetimi: boş/kısa/hız sınırı kalıntısı yok, mevcut veriyle 297 örnekte birebir uyum
+- [x] İçerik JSON dosyalarına aktarım (114 sure yeniden birleştirildi, AI katmanları korundu)
+- [x] İki veritabanına yükleme: beş kaynak da 6.236 ayet / 114 sure (31.180 meal kaydı)
+- [x] Meal kapsamı testi sıkılaştırıldı: dört mealin tamamı zorunlu, İslamoğlu için ayet sayısı + boş metin + hız sınırı kalıntısı denetimi
+- [ ] Canlı doğrulama (t1o.net + Manus)

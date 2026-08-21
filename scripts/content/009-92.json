@@ -1,701 +1,701 @@
 {
-  "stationNo": 9,
-  "surahNo": 92,
-  "nuzulOrderOkuyan": 10,
-  "name": "Leyl",
-  "nameArabic": "الليل",
-  "nameMeaning": "Gece",
-  "verseCount": 21,
-  "periodDiyanet": "Mekke",
-  "periodOkuyan": "Mekke",
-  "revelationTiming": "Mekke'nin erken yılları",
-  "stationTitle": "İki yol vardır: vererek genişleyen ve tutarak daralan.",
-  "introduction": "Leyl suresi, adını birinci ayetteki geceye edilen yeminden alır. Yirmi bir ayetlik sure Mekke'nin erken döneminde inmiştir.\n\nSure üç yeminle açılır: geceye, gündüze ve erkek ile dişiyi yaratana. Ardından insanlığın iki tipe ayrıldığı bildirilir: veren, sakınan ve doğruyu onaylayan ile cimrilik eden, kendini yeterli gören ve yalanlayan. Sure bu iki yolun sonucunu karşılaştırarak ilerler.",
-  "occasionOfRevelation": "Sure Mekke'nin erken yıllarında, servetin ve cömertliğin toplumsal itibarın ölçüsü olduğu bir ortamda inmiştir. Cahiliye Arap kültüründe cömertlik yüksek bir değerdi; ancak bu cömertlik büyük ölçüde itibar, minnet ve karşılık beklentisi üzerine kuruluydu.\n\nSure bu noktada ayrım yapar: on dokuzuncu ayet, hakiki vermenin \"kendisine yapılmış bir iyiliğin karşılığı olmaksızın\" gerçekleşen verme olduğunu belirtir. Yani ölçü, verilen miktar değil, verirken beklenen şeydir.\n\nBazı nüzul rivayetleri surenin son bölümünü, kölelerini satın alıp özgürlüğüne kavuşturan Hz. Ebû Bekir'le ilişkilendirir. Bu bağlantı rivayete dayanır; ayet isim vermez ve tanımı davranış üzerinden yapar.",
-  "occasionSources": "Diyanet İşleri Başkanlığı Kur'an Yolu Tefsiri, Leyl suresi girişi; Vâhidî, Esbâbü'n-Nüzûl; TDV İslâm Ansiklopedisi, \"Leyl Sûresi\" maddesi.",
-  "contemporaryMeaning": "Bu surenin en keskin cümlesi, cimriliğin \"kendini yeterli görmek\" ile birlikte anılmasıdır (92:8). Vermemek burada yalnızca bir ekonomik davranış değil, bir zihin hâlidir: kimseye ihtiyacım yok duygusu.\n\nMetin \"kolaylaştırma\" ve \"zorlaştırma\" kelimelerini kullanır (92:7, 92:10). Veren kişinin yolu açılır, tutan kişinin yolu daralır. Bu, ahlaki bir ödül-ceza mekanizmasından çok bir tarif gibi okunabilir: cömertlik insanı genişletir, cimrilik daraltır.\n\nOn dokuzuncu ayet ise iyiliğin muhasebesini kökten değiştirir: karşılık beklenmeden verilen şey. Bugün her yardımın görünür, etiketlenir ve paylaşılır olduğu bir kültürde bu ölçü rahatsız edicidir.",
-  "keyTerms": [
-    {
-      "term": "a'tâ vettekâ",
-      "arabic": "أَعْطَىٰ وَاتَّقَىٰ",
-      "verseRef": "92:5",
-      "meaning": "Verdi ve sakındı. Cömertlik ile sorumluluk bilincinin birlikte anılması."
-    },
-    {
-      "term": "istağnâ",
-      "arabic": "اسْتَغْنَىٰ",
-      "verseRef": "92:8",
-      "meaning": "Kendini yeterli, muhtaç olmayan gördü. Cimriliğin yanında zikredilir; vermemenin kökü olarak gösterilir."
-    },
-    {
-      "term": "yüsrâ / usrâ",
-      "arabic": "الْيُسْرَىٰ / الْعُسْرَىٰ",
-      "verseRef": "92:7, 92:10",
-      "meaning": "Kolaylık / zorluk. Veren için yolun açılması, tutan için daralması."
-    },
-    {
-      "term": "ibtigâe vechi rabbih",
-      "arabic": "ابْتِغَاءَ وَجْهِ رَبِّهِ",
-      "verseRef": "92:20",
-      "meaning": "Rabbinin rızasını arayarak. Vermenin karşılık beklentisinden arınmış hâli."
-    }
-  ],
-  "themes": [
-    {
-      "label": "İki yol, iki karakter",
-      "body": "Sure insanlığı iki tipe ayırır: veren-sakınan-onaylayan ile tutan-kendini yeterli gören-yalanlayan. Ayrım servet miktarında değil tutumda yapılır."
-    },
-    {
-      "label": "Cimriliğin kökü: kendini yeterli görmek",
-      "body": "Vermemek, ekonomik bir hesap değil bir zihin hâli olarak teşhis edilir. \"Kimseye ihtiyacım yok\" duygusu, elin kapanmasının nedenidir."
-    },
-    {
-      "label": "Genişleyen ve daralan yol",
-      "body": "Veren için kolaylık, tutan için zorluk. Bu bir ödül listesi değil, bir tarif gibi okunabilir: cömertlik insanı açar, cimrilik büzer."
-    },
-    {
-      "label": "Karşılıksız verme ölçüsü",
-      "body": "Hakiki verme, kendisine yapılmış bir iyiliğin karşılığı olmadan yapılandır. Ölçü miktar değil, beklentinin yokluğudur."
-    }
-  ],
-  "questions": [
-    "Verdiğim şeylerin ne kadarı karşılık, görünürlük ya da minnet beklemeden verilmiş?",
-    "\"Kimseye ihtiyacım yok\" duygusu hayatımın hangi alanında en güçlü? O alanda elim gerçekten açık mı?",
-    "Son bir ayda, kimsenin bilmediği bir iyilik yaptım mı?"
-  ],
-  "verses": [
-    {
-      "verseNo": 1,
-      "textArabic": "بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ وَٱلَّيْلِ إِذَا يَغْشَىٰ"
-    },
-    {
-      "verseNo": 2,
-      "textArabic": "وَٱلنَّهَارِ إِذَا تَجَلَّىٰ"
-    },
-    {
-      "verseNo": 3,
-      "textArabic": "وَمَا خَلَقَ ٱلذَّكَرَ وَٱلْأُنثَىٰٓ"
-    },
-    {
-      "verseNo": 4,
-      "textArabic": "إِنَّ سَعْيَكُمْ لَشَتَّىٰ"
-    },
-    {
-      "verseNo": 5,
-      "textArabic": "فَأَمَّا مَنْ أَعْطَىٰ وَٱتَّقَىٰ"
-    },
-    {
-      "verseNo": 6,
-      "textArabic": "وَصَدَّقَ بِٱلْحُسْنَىٰ"
-    },
-    {
-      "verseNo": 7,
-      "textArabic": "فَسَنُيَسِّرُهُۥ لِلْيُسْرَىٰ"
-    },
-    {
-      "verseNo": 8,
-      "textArabic": "وَأَمَّا مَنۢ بَخِلَ وَٱسْتَغْنَىٰ"
-    },
-    {
-      "verseNo": 9,
-      "textArabic": "وَكَذَّبَ بِٱلْحُسْنَىٰ"
-    },
-    {
-      "verseNo": 10,
-      "textArabic": "فَسَنُيَسِّرُهُۥ لِلْعُسْرَىٰ"
-    },
-    {
-      "verseNo": 11,
-      "textArabic": "وَمَا يُغْنِى عَنْهُ مَالُهُۥٓ إِذَا تَرَدَّىٰٓ"
-    },
-    {
-      "verseNo": 12,
-      "textArabic": "إِنَّ عَلَيْنَا لَلْهُدَىٰ"
-    },
-    {
-      "verseNo": 13,
-      "textArabic": "وَإِنَّ لَنَا لَلْءَاخِرَةَ وَٱلْأُولَىٰ"
-    },
-    {
-      "verseNo": 14,
-      "textArabic": "فَأَنذَرْتُكُمْ نَارًۭا تَلَظَّىٰ"
-    },
-    {
-      "verseNo": 15,
-      "textArabic": "لَا يَصْلَىٰهَآ إِلَّا ٱلْأَشْقَى"
-    },
-    {
-      "verseNo": 16,
-      "textArabic": "ٱلَّذِى كَذَّبَ وَتَوَلَّىٰ"
-    },
-    {
-      "verseNo": 17,
-      "textArabic": "وَسَيُجَنَّبُهَا ٱلْأَتْقَى"
-    },
-    {
-      "verseNo": 18,
-      "textArabic": "ٱلَّذِى يُؤْتِى مَالَهُۥ يَتَزَكَّىٰ"
-    },
-    {
-      "verseNo": 19,
-      "textArabic": "وَمَا لِأَحَدٍ عِندَهُۥ مِن نِّعْمَةٍۢ تُجْزَىٰٓ"
-    },
-    {
-      "verseNo": 20,
-      "textArabic": "إِلَّا ٱبْتِغَآءَ وَجْهِ رَبِّهِ ٱلْأَعْلَىٰ"
-    },
-    {
-      "verseNo": 21,
-      "textArabic": "وَلَسَوْفَ يَرْضَىٰ"
-    }
-  ],
-  "translations": [
-    {
-      "verseNo": 1,
-      "verseNoEnd": null,
-      "source": "ai",
-      "text": "Gece örtü serdiğinde."
-    },
-    {
-      "verseNo": 1,
-      "source": "diyanet",
-      "text": "(Ortalığı) bürüdüğü zaman geceye andolsun,"
-    },
-    {
-      "verseNo": 1,
-      "source": "esed",
-      "text": "Düşün (yeryüzünü) karanlığa boğan geceyi"
-    },
-    {
-      "verseNo": 1,
-      "source": "islamoglu",
-      "text": "KUŞATIP örten gece şahit olsun!"
-    },
-    {
-      "verseNo": 1,
-      "source": "okuyan",
-      "text": "Yemin olsun: (Karanlığı)yla kapladığında geceye,"
-    },
-    {
-      "verseNo": 2,
-      "verseNoEnd": null,
-      "source": "ai",
-      "text": "Gündüz açığa çıktığında."
-    },
-    {
-      "verseNo": 2,
-      "source": "diyanet",
-      "text": "Açılıp aydınlandığı zaman gündüze andolsun,"
-    },
-    {
-      "verseNo": 2,
-      "source": "esed",
-      "text": "ve aydınlığı yükselten gündüzü"
-    },
-    {
-      "verseNo": 2,
-      "source": "islamoglu",
-      "text": "(Gecenin kuşatmasını) yarıp ortaya çıkan gündüz şahit olsun!"
-    },
-    {
-      "verseNo": 2,
-      "source": "okuyan",
-      "text": "Ortaya çıktığında gündüze,"
-    },
-    {
-      "verseNo": 3,
-      "verseNoEnd": null,
-      "source": "ai",
-      "text": "Erkek ile dişiyi O yarattı."
-    },
-    {
-      "verseNo": 3,
-      "source": "diyanet",
-      "text": "Erkeği ve dişiyi yaratana andolsun ki,"
-    },
-    {
-      "verseNo": 3,
-      "source": "esed",
-      "text": "Erkeğin ve dişinin yaratılışını düşün"
-    },
-    {
-      "verseNo": 3,
-      "source": "islamoglu",
-      "text": "Erkek ve dişiyi yaratan kudret şahit olsun"
-    },
-    {
-      "verseNo": 3,
-      "source": "okuyan",
-      "text": "Erkeği ve dişiyi yaratana ki"
-    },
-    {
-      "verseNo": 4,
-      "verseNoEnd": null,
-      "source": "ai",
-      "text": "Çabalarınız kuşkusuz ayrıdır."
-    },
-    {
-      "verseNo": 4,
-      "source": "diyanet",
-      "text": "Şüphesiz sizin çabalarınız elbette çeşit çeşittir."
-    },
-    {
-      "verseNo": 4,
-      "source": "esed",
-      "text": "Gerçekte, (ey insanlar,) siz çok çeşitli hedefler peşindesiniz"
-    },
-    {
-      "verseNo": 4,
-      "source": "islamoglu",
-      "text": "ki (ey insanlık); sizin çabanız, (sebep ve sonuç açısından) farklı farklıdır."
-    },
-    {
-      "verseNo": 4,
-      "source": "okuyan",
-      "text": "İşleriniz çeşit çeşittir."
-    },
-    {
-      "verseNo": 5,
-      "verseNoEnd": null,
-      "source": "ai",
-      "text": "Öyleyse veren ve sakınan kimseye gelince;"
-    },
-    {
-      "verseNo": 5,
-      "source": "diyanet",
-      "text": "Onun için kim (elinde bulunandan) verir, Allah'a karşı gelmekten sakınır ve en güzel sözü (kelime-i tevhidi) tasdik ederse, biz onu en kolay olana kolayca iletiriz."
-    },
-    {
-      "verseNo": 5,
-      "source": "esed",
-      "text": "Her kim (başkaları için) harcar ve Allah´a karşı sorumluluk bilinci taşırsa"
-    },
-    {
-      "verseNo": 5,
-      "source": "islamoglu",
-      "text": "Sözgelimi; kim sorumlu davranır ve (Allah yolunda) verirse;"
-    },
-    {
-      "verseNo": 5,
-      "source": "okuyan",
-      "text": "Kim (malını) verirse, [takvâ]lı (duyarlı) davranırsa,"
-    },
-    {
-      "verseNo": 6,
-      "verseNoEnd": null,
-      "source": "ai",
-      "text": "ve hayrı doğrulayan;"
-    },
-    {
-      "verseNo": 6,
-      "source": "diyanet",
-      "text": "Onun için kim (elinde bulunandan) verir, Allah'a karşı gelmekten sakınır ve en güzel sözü (kelime-i tevhidi) tasdik ederse, biz onu en kolay olana kolayca iletiriz."
-    },
-    {
-      "verseNo": 6,
-      "source": "esed",
-      "text": "ve nihai güzelliğin/iyiliğin gerçekliğine inanırsa"
-    },
-    {
-      "verseNo": 6,
-      "source": "islamoglu",
-      "text": "üstelik en güzel olanı da tasdik ederse;"
-    },
-    {
-      "verseNo": 6,
-      "source": "okuyan",
-      "text": "En güzeli (Kur’an’ı) doğrularsa,"
-    },
-    {
-      "verseNo": 7,
-      "verseNoEnd": null,
-      "source": "ai",
-      "text": "Biz onun işini kolaylığa yönelteceğiz."
-    },
-    {
-      "verseNo": 7,
-      "source": "diyanet",
-      "text": "Onun için kim (elinde bulunandan) verir, Allah'a karşı gelmekten sakınır ve en güzel sözü (kelime-i tevhidi) tasdik ederse, biz onu en kolay olana kolayca iletiriz."
-    },
-    {
-      "verseNo": 7,
-      "source": "esed",
-      "text": "işte onun için (nihai) huzur ve rahatlığa giden yolu kolaylaştıracağız"
-    },
-    {
-      "verseNo": 7,
-      "source": "islamoglu",
-      "text": "işte ona, rahatlık ve mutluluğun zirvesine götüren yolu kolaylaştırırız."
-    },
-    {
-      "verseNo": 7,
-      "source": "okuyan",
-      "text": "Kolay olanı (cennete gitmeyi) ona kolaylaştıracağız."
-    },
-    {
-      "verseNo": 8,
-      "verseNoEnd": null,
-      "source": "ai",
-      "text": "Ama cimri davranan ve kendini zengin gören kimseye gelince;"
-    },
-    {
-      "verseNo": 8,
-      "source": "diyanet",
-      "text": "Fakat, kim cimrilik eder, kendini Allah'a muhtaç görmez ve en güzel sözü (kelime-i tevhidi) yalanlarsa biz de onu en zor olana kolayca iletiriz."
-    },
-    {
-      "verseNo": 8,
-      "source": "esed",
-      "text": "Cimrilik yapana ve kendi kendine yeterli olduğunu zannedene"
-    },
-    {
-      "verseNo": 8,
-      "source": "islamoglu",
-      "text": "Sözgelimi; kim de cimrilik yapar ve kendi kendine yettiğini zanneder,"
-    },
-    {
-      "verseNo": 8,
-      "source": "okuyan",
-      "text": "Kim de cimrilik ederse, (kendini) zengin (yeterli) görürse,"
-    },
-    {
-      "verseNo": 9,
-      "verseNoEnd": null,
-      "source": "ai",
-      "text": "ve hayrı yalan sayan;"
-    },
-    {
-      "verseNo": 9,
-      "source": "diyanet",
-      "text": "Fakat, kim cimrilik eder, kendini Allah'a muhtaç görmez ve en güzel sözü (kelime-i tevhidi) yalanlarsa biz de onu en zor olana kolayca iletiriz."
-    },
-    {
-      "verseNo": 9,
-      "source": "esed",
-      "text": "ve nihai güzelliği/iyiliği yalanlayana gelince"
-    },
-    {
-      "verseNo": 9,
-      "source": "islamoglu",
-      "text": "en güzel olanı da yalanlarsa;"
-    },
-    {
-      "verseNo": 9,
-      "source": "okuyan",
-      "text": "En güzeli (Kur’an’ı) yalanlarsa,"
-    },
-    {
-      "verseNo": 10,
-      "verseNoEnd": null,
-      "source": "ai",
-      "text": "Biz onu güçlüğe yönelteceğiz."
-    },
-    {
-      "verseNo": 10,
-      "source": "diyanet",
-      "text": "Fakat, kim cimrilik eder, kendini Allah'a muhtaç görmez ve en güzel sözü (kelime-i tevhidi) yalanlarsa biz de onu en zor olana kolayca iletiriz."
-    },
-    {
-      "verseNo": 10,
-      "source": "esed",
-      "text": "onun için zorluğa ve sıkıntıya giden yolu kolaylaştırırız"
-    },
-    {
-      "verseNo": 10,
-      "source": "islamoglu",
-      "text": "işte ona da, zorluk ve felaketin en dibine giden yolu kolaylaştırırız;"
-    },
-    {
-      "verseNo": 10,
-      "source": "okuyan",
-      "text": "Ona da zor olanı (cehenneme gitmeyi) kolaylaştıracağız."
-    },
-    {
-      "verseNo": 11,
-      "verseNoEnd": null,
-      "source": "ai",
-      "text": "Düştüğü zaman malı ona hiçbir şey fayda vermez."
-    },
-    {
-      "verseNo": 11,
-      "source": "diyanet",
-      "text": "Cehenneme yuvarlandığı zaman, malı ona fayda vermez."
-    },
-    {
-      "verseNo": 11,
-      "source": "esed",
-      "text": "bakalım serveti onu koruyacak mı (mezarına) girdiği zaman"
-    },
-    {
-      "verseNo": 11,
-      "source": "islamoglu",
-      "text": "öyle ki, o baş aşağı (cehenneme) yuvarlanıp helâk olacağı zaman, (Allah için paylaşmadığı) malı kendisini asla kurtaramaz."
-    },
-    {
-      "verseNo": 11,
-      "source": "okuyan",
-      "text": "Düştüğü zaman da malı kendisine yarar sağlamayacaktır."
-    },
-    {
-      "verseNo": 12,
-      "verseNoEnd": null,
-      "source": "ai",
-      "text": "Şüphesiz doğru yolu göstermek bize aittir."
-    },
-    {
-      "verseNo": 12,
-      "source": "diyanet",
-      "text": "Şüphesiz bize düşen sadece doğru yolu göstermektir."
-    },
-    {
-      "verseNo": 12,
-      "source": "esed",
-      "text": "Bakın, Bize düşen doğru yolu göstermektir"
-    },
-    {
-      "verseNo": 12,
-      "source": "islamoglu",
-      "text": "ELBET doğru yolu göstermek sadece Bizim işimizdir;"
-    },
-    {
-      "verseNo": 12,
-      "source": "okuyan",
-      "text": "Şüphesiz ki doğru yola ulaştırmak yalnızca bize aittir."
-    },
-    {
-      "verseNo": 13,
-      "verseNoEnd": null,
-      "source": "ai",
-      "text": "Ve şüphesiz hem ahiret hem de dünya bize aittir."
-    },
-    {
-      "verseNo": 13,
-      "source": "diyanet",
-      "text": "Şüphesiz ahiret de dünya da bizimdir."
-    },
-    {
-      "verseNo": 13,
-      "source": "esed",
-      "text": "ve hem öteki dünya, hem de (hayatınızın) bu ilk bölümü (üzerindeki hakimiyet) Bize aittir"
-    },
-    {
-      "verseNo": 13,
-      "source": "islamoglu",
-      "text": "ama gerçekte işin önü de sonu da Bizim mülkiyetimizdedir."
-    },
-    {
-      "verseNo": 13,
-      "source": "okuyan",
-      "text": "Şüphesiz ki ilk de son da (dünya da ahiret de) bizimdir."
-    },
-    {
-      "verseNo": 14,
-      "verseNoEnd": null,
-      "source": "ai",
-      "text": "Bu yüzden sizi alevli bir ateşle uyardım."
-    },
-    {
-      "verseNo": 14,
-      "source": "diyanet",
-      "text": "Sizi alevler saçan ateşe karşı uyardım."
-    },
-    {
-      "verseNo": 14,
-      "source": "esed",
-      "text": "İşte, sizi alevler saçan ateşe karşı uyarıyorum"
-    },
-    {
-      "verseNo": 14,
-      "source": "islamoglu",
-      "text": "İşte Ben sizi, alevler saçan bir ateşe karşı uyarmış bulunuyorum:"
-    },
-    {
-      "verseNo": 14,
-      "source": "okuyan",
-      "text": "Ben sizi alevli bir ateşe karşı uyardım."
-    },
-    {
-      "verseNo": 15,
-      "verseNoEnd": null,
-      "source": "ai",
-      "text": "O ateşe giren yoktur, ancak en perişan olan."
-    },
-    {
-      "verseNo": 15,
-      "source": "diyanet",
-      "text": "O ateşe, ancak yalanlayıp yüz çeviren en bedbaht kimse girer."
-    },
-    {
-      "verseNo": 15,
-      "source": "esed",
-      "text": "(öyle bir ateş ki) kimse girmez, en onulmaz azgınlar dışında"
-    },
-    {
-      "verseNo": 15,
-      "source": "islamoglu",
-      "text": "oraya sadece sorumsuzluğun zirvesinde olan bir azgın girer;"
-    },
-    {
-      "verseNo": 15,
-      "source": "okuyan",
-      "text": "Ona en azgın olandan başkası girmeyecektir."
-    },
-    {
-      "verseNo": 16,
-      "verseNoEnd": null,
-      "source": "ai",
-      "text": "O, inkar eden ve yüz çevirendir."
-    },
-    {
-      "verseNo": 16,
-      "source": "diyanet",
-      "text": "O ateşe, ancak yalanlayıp yüz çeviren en bedbaht kimse girer."
-    },
-    {
-      "verseNo": 16,
-      "source": "esed",
-      "text": "hakikati yalanlayan ve (ondan) yüz çeviren (azgınlar)"
-    },
-    {
-      "verseNo": 16,
-      "source": "islamoglu",
-      "text": "o ki, (vahyi) yalanladı ve (gerçeğe) sırt döndü."
-    },
-    {
-      "verseNo": 16,
-      "source": "okuyan",
-      "text": "O ki yalanladı ve sırtını döndü."
-    },
-    {
-      "verseNo": 17,
-      "verseNoEnd": null,
-      "source": "ai",
-      "text": "Ve sakınanlar ondan uzak tutulacaktır."
-    },
-    {
-      "verseNo": 17,
-      "source": "diyanet",
-      "text": "Temizlenmek için malını hayra veren en muttekî (Allah'a karşı gelmekten en çok sakınan) kimse o ateşten uzak tutulacaktır."
-    },
-    {
-      "verseNo": 17,
-      "source": "esed",
-      "text": "Ama, Allah´a karşı sorumluluğunun bilincinde olanlar (ateşten) uzak kalacak"
-    },
-    {
-      "verseNo": 17,
-      "source": "islamoglu",
-      "text": "Ama yüce ve yüksek bir sorumluluk bilinciyle hareket eden kimse, o (ateşten) uzak tutulacak;"
-    },
-    {
-      "verseNo": 17,
-      "source": "okuyan",
-      "text": "En [muttakî] (duyarlı) olan ondan uzak tutulacaktır."
-    },
-    {
-      "verseNo": 18,
-      "verseNoEnd": null,
-      "source": "ai",
-      "text": "O, malını verip arınan kişidir."
-    },
-    {
-      "verseNo": 18,
-      "source": "diyanet",
-      "text": "Temizlenmek için malını hayra veren en muttekî (Allah'a karşı gelmekten en çok sakınan) kimse o ateşten uzak tutulacaktır."
-    },
-    {
-      "verseNo": 18,
-      "source": "esed",
-      "text": "arınmak için servetini (başkalarına) harcayanlar"
-    },
-    {
-      "verseNo": 18,
-      "source": "islamoglu",
-      "text": "o ki, malını gönülden verir ve arınıp gelişir;"
-    },
-    {
-      "verseNo": 18,
-      "source": "okuyan",
-      "text": "O ki (malını) vererek arınır."
-    },
-    {
-      "verseNo": 19,
-      "verseNoEnd": null,
-      "source": "ai",
-      "text": "Ve onun yanında kimsenin bir nimeti karşılık olarak verilmez."
-    },
-    {
-      "verseNo": 19,
-      "source": "diyanet",
-      "text": "O, hiç kimseye karşılık bekleyerek iyilik yapmaz.(Yaptığı iyiliği) Ancak yüce Rabbinin rızasını istediği için (yapar)."
-    },
-    {
-      "verseNo": 19,
-      "source": "esed",
-      "text": "gördüğü bir iyiliğin karşılığı olarak değil"
-    },
-    {
-      "verseNo": 19,
-      "source": "islamoglu",
-      "text": "Onun (bu yaptığı) herhangi birinden gördüğü bir hayra karşılık değildir;"
-    },
-    {
-      "verseNo": 19,
-      "source": "okuyan",
-      "text": "19,20. Yüce Rabbinin rızasını kazanmaktan başka, kimseden beklediği bir karşılık da yoktur."
-    },
-    {
-      "verseNo": 20,
-      "verseNoEnd": null,
-      "source": "ai",
-      "text": "Ancak o, Rabbinin en yücesinin rızasını aramaktadır."
-    },
-    {
-      "verseNo": 20,
-      "source": "diyanet",
-      "text": "O, hiç kimseye karşılık bekleyerek iyilik yapmaz.(Yaptığı iyiliği) Ancak yüce Rabbinin rızasını istediği için (yapar)."
-    },
-    {
-      "verseNo": 20,
-      "source": "esed",
-      "text": "ama yalnızca yüce Rabbinin rızasını kazanmak için"
-    },
-    {
-      "verseNo": 20,
-      "source": "islamoglu",
-      "text": "sadece Yüce Rabbinin rızasını kazanma iştiyakı iledir."
-    },
-    {
-      "verseNo": 20,
-      "source": "okuyan",
-      "text": "19,20. Yüce Rabbinin rızasını kazanmaktan başka, kimseden beklediği bir karşılık da yoktur."
-    },
-    {
-      "verseNo": 21,
-      "verseNoEnd": null,
-      "source": "ai",
-      "text": "Ve yakında hoşnut olacaktır."
-    },
-    {
-      "verseNo": 21,
-      "source": "diyanet",
-      "text": "Elbette kendisi de hoşnut olacaktır."
-    },
-    {
-      "verseNo": 21,
-      "source": "esed",
-      "text": "işte böyleleri de, zamanı geldiğinde sevinci tadacaklar"
-    },
-    {
-      "verseNo": 21,
-      "source": "islamoglu",
-      "text": "İşte böyle biri, kesinlikle, zamanı gelince (gördüğü karşılıktan) fazlasıyla memnun olacaktır."
-    },
-    {
-      "verseNo": 21,
-      "source": "okuyan",
-      "text": "Kendisi de ileride memnun olacaktır."
-    }
-  ],
-  "aiParagraph": "Gecenin her şeyi örttüğü ve gündüzün her şeyi açığa çıkardığı o ritim içinde, metin insanın çabasının tek tip olmadığını söylüyor: herkes koşuyor, ama aynı yöne değil. Kimileri elindekini veriyor, içinde bir güvenceye yaslanıyor, iyinin gerçek olduğuna inanıyor — ve bu tutum onu daha kolay bir yola sokuyor. Kimileri ise elindekini sıkıca tutuyor, kimseye muhtaç olmadığını düşünüyor, iyinin vaadini reddediyor — o yol da giderek darlaşıyor. Asıl çarpıcı olan şu: düşüşün geldiği an, biriktirilen her şey sessizce kenara çekiliyor; mal orada duruyor ama sahibine artık bir faydası yok. Sonra metin bambaşka bir adamı anlatıyor: elindekini veren, bunu kimseye borçlu olmadığı için veren, karşılık beklediği biri olmadığı için veren — sırf bir şeye yönelmiş olduğu için veren. Bu adamın sonunda razı olacağı söyleniyor. \"Razı olmak\" küçük bir söz gibi görünür; oysa hiçbir karşılık görmeden vermeye devam etmiş biri için bu, belki de mümkün olan en ağır vaattir."
+ "stationNo": 9,
+ "surahNo": 92,
+ "nuzulOrderOkuyan": 10,
+ "name": "Leyl",
+ "nameArabic": "الليل",
+ "nameMeaning": "Gece",
+ "verseCount": 21,
+ "periodDiyanet": "Mekke",
+ "periodOkuyan": "Mekke",
+ "revelationTiming": "Mekke'nin erken yılları",
+ "stationTitle": "İki yol vardır: vererek genişleyen ve tutarak daralan.",
+ "introduction": "Leyl suresi, adını birinci ayetteki geceye edilen yeminden alır. Yirmi bir ayetlik sure Mekke'nin erken döneminde inmiştir.\n\nSure üç yeminle açılır: geceye, gündüze ve erkek ile dişiyi yaratana. Ardından insanlığın iki tipe ayrıldığı bildirilir: veren, sakınan ve doğruyu onaylayan ile cimrilik eden, kendini yeterli gören ve yalanlayan. Sure bu iki yolun sonucunu karşılaştırarak ilerler.",
+ "occasionOfRevelation": "Sure Mekke'nin erken yıllarında, servetin ve cömertliğin toplumsal itibarın ölçüsü olduğu bir ortamda inmiştir. Cahiliye Arap kültüründe cömertlik yüksek bir değerdi; ancak bu cömertlik büyük ölçüde itibar, minnet ve karşılık beklentisi üzerine kuruluydu.\n\nSure bu noktada ayrım yapar: on dokuzuncu ayet, hakiki vermenin \"kendisine yapılmış bir iyiliğin karşılığı olmaksızın\" gerçekleşen verme olduğunu belirtir. Yani ölçü, verilen miktar değil, verirken beklenen şeydir.\n\nBazı nüzul rivayetleri surenin son bölümünü, kölelerini satın alıp özgürlüğüne kavuşturan Hz. Ebû Bekir'le ilişkilendirir. Bu bağlantı rivayete dayanır; ayet isim vermez ve tanımı davranış üzerinden yapar.",
+ "occasionSources": "Diyanet İşleri Başkanlığı Kur'an Yolu Tefsiri, Leyl suresi girişi; Vâhidî, Esbâbü'n-Nüzûl; TDV İslâm Ansiklopedisi, \"Leyl Sûresi\" maddesi.",
+ "contemporaryMeaning": "Bu surenin en keskin cümlesi, cimriliğin \"kendini yeterli görmek\" ile birlikte anılmasıdır (92:8). Vermemek burada yalnızca bir ekonomik davranış değil, bir zihin hâlidir: kimseye ihtiyacım yok duygusu.\n\nMetin \"kolaylaştırma\" ve \"zorlaştırma\" kelimelerini kullanır (92:7, 92:10). Veren kişinin yolu açılır, tutan kişinin yolu daralır. Bu, ahlaki bir ödül-ceza mekanizmasından çok bir tarif gibi okunabilir: cömertlik insanı genişletir, cimrilik daraltır.\n\nOn dokuzuncu ayet ise iyiliğin muhasebesini kökten değiştirir: karşılık beklenmeden verilen şey. Bugün her yardımın görünür, etiketlenir ve paylaşılır olduğu bir kültürde bu ölçü rahatsız edicidir.",
+ "keyTerms": [
+  {
+   "term": "a'tâ vettekâ",
+   "arabic": "أَعْطَىٰ وَاتَّقَىٰ",
+   "verseRef": "92:5",
+   "meaning": "Verdi ve sakındı. Cömertlik ile sorumluluk bilincinin birlikte anılması."
+  },
+  {
+   "term": "istağnâ",
+   "arabic": "اسْتَغْنَىٰ",
+   "verseRef": "92:8",
+   "meaning": "Kendini yeterli, muhtaç olmayan gördü. Cimriliğin yanında zikredilir; vermemenin kökü olarak gösterilir."
+  },
+  {
+   "term": "yüsrâ / usrâ",
+   "arabic": "الْيُسْرَىٰ / الْعُسْرَىٰ",
+   "verseRef": "92:7, 92:10",
+   "meaning": "Kolaylık / zorluk. Veren için yolun açılması, tutan için daralması."
+  },
+  {
+   "term": "ibtigâe vechi rabbih",
+   "arabic": "ابْتِغَاءَ وَجْهِ رَبِّهِ",
+   "verseRef": "92:20",
+   "meaning": "Rabbinin rızasını arayarak. Vermenin karşılık beklentisinden arınmış hâli."
+  }
+ ],
+ "themes": [
+  {
+   "label": "İki yol, iki karakter",
+   "body": "Sure insanlığı iki tipe ayırır: veren-sakınan-onaylayan ile tutan-kendini yeterli gören-yalanlayan. Ayrım servet miktarında değil tutumda yapılır."
+  },
+  {
+   "label": "Cimriliğin kökü: kendini yeterli görmek",
+   "body": "Vermemek, ekonomik bir hesap değil bir zihin hâli olarak teşhis edilir. \"Kimseye ihtiyacım yok\" duygusu, elin kapanmasının nedenidir."
+  },
+  {
+   "label": "Genişleyen ve daralan yol",
+   "body": "Veren için kolaylık, tutan için zorluk. Bu bir ödül listesi değil, bir tarif gibi okunabilir: cömertlik insanı açar, cimrilik büzer."
+  },
+  {
+   "label": "Karşılıksız verme ölçüsü",
+   "body": "Hakiki verme, kendisine yapılmış bir iyiliğin karşılığı olmadan yapılandır. Ölçü miktar değil, beklentinin yokluğudur."
+  }
+ ],
+ "questions": [
+  "Verdiğim şeylerin ne kadarı karşılık, görünürlük ya da minnet beklemeden verilmiş?",
+  "\"Kimseye ihtiyacım yok\" duygusu hayatımın hangi alanında en güçlü? O alanda elim gerçekten açık mı?",
+  "Son bir ayda, kimsenin bilmediği bir iyilik yaptım mı?"
+ ],
+ "verses": [
+  {
+   "verseNo": 1,
+   "textArabic": "بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ وَٱلَّيْلِ إِذَا يَغْشَىٰ"
+  },
+  {
+   "verseNo": 2,
+   "textArabic": "وَٱلنَّهَارِ إِذَا تَجَلَّىٰ"
+  },
+  {
+   "verseNo": 3,
+   "textArabic": "وَمَا خَلَقَ ٱلذَّكَرَ وَٱلْأُنثَىٰٓ"
+  },
+  {
+   "verseNo": 4,
+   "textArabic": "إِنَّ سَعْيَكُمْ لَشَتَّىٰ"
+  },
+  {
+   "verseNo": 5,
+   "textArabic": "فَأَمَّا مَنْ أَعْطَىٰ وَٱتَّقَىٰ"
+  },
+  {
+   "verseNo": 6,
+   "textArabic": "وَصَدَّقَ بِٱلْحُسْنَىٰ"
+  },
+  {
+   "verseNo": 7,
+   "textArabic": "فَسَنُيَسِّرُهُۥ لِلْيُسْرَىٰ"
+  },
+  {
+   "verseNo": 8,
+   "textArabic": "وَأَمَّا مَنۢ بَخِلَ وَٱسْتَغْنَىٰ"
+  },
+  {
+   "verseNo": 9,
+   "textArabic": "وَكَذَّبَ بِٱلْحُسْنَىٰ"
+  },
+  {
+   "verseNo": 10,
+   "textArabic": "فَسَنُيَسِّرُهُۥ لِلْعُسْرَىٰ"
+  },
+  {
+   "verseNo": 11,
+   "textArabic": "وَمَا يُغْنِى عَنْهُ مَالُهُۥٓ إِذَا تَرَدَّىٰٓ"
+  },
+  {
+   "verseNo": 12,
+   "textArabic": "إِنَّ عَلَيْنَا لَلْهُدَىٰ"
+  },
+  {
+   "verseNo": 13,
+   "textArabic": "وَإِنَّ لَنَا لَلْءَاخِرَةَ وَٱلْأُولَىٰ"
+  },
+  {
+   "verseNo": 14,
+   "textArabic": "فَأَنذَرْتُكُمْ نَارًۭا تَلَظَّىٰ"
+  },
+  {
+   "verseNo": 15,
+   "textArabic": "لَا يَصْلَىٰهَآ إِلَّا ٱلْأَشْقَى"
+  },
+  {
+   "verseNo": 16,
+   "textArabic": "ٱلَّذِى كَذَّبَ وَتَوَلَّىٰ"
+  },
+  {
+   "verseNo": 17,
+   "textArabic": "وَسَيُجَنَّبُهَا ٱلْأَتْقَى"
+  },
+  {
+   "verseNo": 18,
+   "textArabic": "ٱلَّذِى يُؤْتِى مَالَهُۥ يَتَزَكَّىٰ"
+  },
+  {
+   "verseNo": 19,
+   "textArabic": "وَمَا لِأَحَدٍ عِندَهُۥ مِن نِّعْمَةٍۢ تُجْزَىٰٓ"
+  },
+  {
+   "verseNo": 20,
+   "textArabic": "إِلَّا ٱبْتِغَآءَ وَجْهِ رَبِّهِ ٱلْأَعْلَىٰ"
+  },
+  {
+   "verseNo": 21,
+   "textArabic": "وَلَسَوْفَ يَرْضَىٰ"
+  }
+ ],
+ "translations": [
+  {
+   "verseNo": 1,
+   "source": "diyanet",
+   "text": "(Ortalığı) bürüdüğü zaman geceye andolsun,"
+  },
+  {
+   "verseNo": 1,
+   "source": "islamoglu",
+   "text": "KUŞATIP örten gece şahit olsun!"
+  },
+  {
+   "verseNo": 1,
+   "source": "esed",
+   "text": "Düşün (yeryüzünü) karanlığa boğan geceyi"
+  },
+  {
+   "verseNo": 1,
+   "source": "okuyan",
+   "text": "Yemin olsun: (Karanlığı)yla kapladığında geceye,"
+  },
+  {
+   "verseNo": 2,
+   "source": "diyanet",
+   "text": "Açılıp aydınlandığı zaman gündüze andolsun,"
+  },
+  {
+   "verseNo": 2,
+   "source": "islamoglu",
+   "text": "(Gecenin kuşatmasını) yarıp ortaya çıkan gündüz şahit olsun!"
+  },
+  {
+   "verseNo": 2,
+   "source": "esed",
+   "text": "ve aydınlığı yükselten gündüzü"
+  },
+  {
+   "verseNo": 2,
+   "source": "okuyan",
+   "text": "Ortaya çıktığında gündüze,"
+  },
+  {
+   "verseNo": 3,
+   "source": "diyanet",
+   "text": "Erkeği ve dişiyi yaratana andolsun ki,"
+  },
+  {
+   "verseNo": 3,
+   "source": "islamoglu",
+   "text": "Erkek ve dişiyi yaratan kudret şahit olsun"
+  },
+  {
+   "verseNo": 3,
+   "source": "esed",
+   "text": "Erkeğin ve dişinin yaratılışını düşün"
+  },
+  {
+   "verseNo": 3,
+   "source": "okuyan",
+   "text": "Erkeği ve dişiyi yaratana ki"
+  },
+  {
+   "verseNo": 4,
+   "source": "diyanet",
+   "text": "Şüphesiz sizin çabalarınız elbette çeşit çeşittir."
+  },
+  {
+   "verseNo": 4,
+   "source": "islamoglu",
+   "text": "ki (ey insanlık); sizin çabanız, (sebep ve sonuç açısından) farklı farklıdır."
+  },
+  {
+   "verseNo": 4,
+   "source": "esed",
+   "text": "Gerçekte, (ey insanlar,) siz çok çeşitli hedefler peşindesiniz"
+  },
+  {
+   "verseNo": 4,
+   "source": "okuyan",
+   "text": "İşleriniz çeşit çeşittir."
+  },
+  {
+   "verseNo": 5,
+   "source": "diyanet",
+   "text": "Onun için kim (elinde bulunandan) verir, Allah'a karşı gelmekten sakınır ve en güzel sözü (kelime-i tevhidi) tasdik ederse, biz onu en kolay olana kolayca iletiriz."
+  },
+  {
+   "verseNo": 5,
+   "source": "islamoglu",
+   "text": "Sözgelimi; kim sorumlu davranır ve (Allah yolunda) verirse;"
+  },
+  {
+   "verseNo": 5,
+   "source": "esed",
+   "text": "Her kim (başkaları için) harcar ve Allah´a karşı sorumluluk bilinci taşırsa"
+  },
+  {
+   "verseNo": 5,
+   "source": "okuyan",
+   "text": "Kim (malını) verirse, [takvâ]lı (duyarlı) davranırsa,"
+  },
+  {
+   "verseNo": 6,
+   "source": "diyanet",
+   "text": "Onun için kim (elinde bulunandan) verir, Allah'a karşı gelmekten sakınır ve en güzel sözü (kelime-i tevhidi) tasdik ederse, biz onu en kolay olana kolayca iletiriz."
+  },
+  {
+   "verseNo": 6,
+   "source": "islamoglu",
+   "text": "üstelik en güzel olanı da tasdik ederse;"
+  },
+  {
+   "verseNo": 6,
+   "source": "esed",
+   "text": "ve nihai güzelliğin/iyiliğin gerçekliğine inanırsa"
+  },
+  {
+   "verseNo": 6,
+   "source": "okuyan",
+   "text": "En güzeli (Kur’an’ı) doğrularsa,"
+  },
+  {
+   "verseNo": 7,
+   "source": "diyanet",
+   "text": "Onun için kim (elinde bulunandan) verir, Allah'a karşı gelmekten sakınır ve en güzel sözü (kelime-i tevhidi) tasdik ederse, biz onu en kolay olana kolayca iletiriz."
+  },
+  {
+   "verseNo": 7,
+   "source": "islamoglu",
+   "text": "işte ona, rahatlık ve mutluluğun zirvesine götüren yolu kolaylaştırırız."
+  },
+  {
+   "verseNo": 7,
+   "source": "esed",
+   "text": "işte onun için (nihai) huzur ve rahatlığa giden yolu kolaylaştıracağız"
+  },
+  {
+   "verseNo": 7,
+   "source": "okuyan",
+   "text": "Kolay olanı (cennete gitmeyi) ona kolaylaştıracağız."
+  },
+  {
+   "verseNo": 8,
+   "source": "diyanet",
+   "text": "Fakat, kim cimrilik eder, kendini Allah'a muhtaç görmez ve en güzel sözü (kelime-i tevhidi) yalanlarsa biz de onu en zor olana kolayca iletiriz."
+  },
+  {
+   "verseNo": 8,
+   "source": "islamoglu",
+   "text": "Sözgelimi; kim de cimrilik yapar ve kendi kendine yettiğini zanneder,"
+  },
+  {
+   "verseNo": 8,
+   "source": "esed",
+   "text": "Cimrilik yapana ve kendi kendine yeterli olduğunu zannedene"
+  },
+  {
+   "verseNo": 8,
+   "source": "okuyan",
+   "text": "Kim de cimrilik ederse, (kendini) zengin (yeterli) görürse,"
+  },
+  {
+   "verseNo": 9,
+   "source": "diyanet",
+   "text": "Fakat, kim cimrilik eder, kendini Allah'a muhtaç görmez ve en güzel sözü (kelime-i tevhidi) yalanlarsa biz de onu en zor olana kolayca iletiriz."
+  },
+  {
+   "verseNo": 9,
+   "source": "islamoglu",
+   "text": "en güzel olanı da yalanlarsa;"
+  },
+  {
+   "verseNo": 9,
+   "source": "esed",
+   "text": "ve nihai güzelliği/iyiliği yalanlayana gelince"
+  },
+  {
+   "verseNo": 9,
+   "source": "okuyan",
+   "text": "En güzeli (Kur’an’ı) yalanlarsa,"
+  },
+  {
+   "verseNo": 10,
+   "source": "diyanet",
+   "text": "Fakat, kim cimrilik eder, kendini Allah'a muhtaç görmez ve en güzel sözü (kelime-i tevhidi) yalanlarsa biz de onu en zor olana kolayca iletiriz."
+  },
+  {
+   "verseNo": 10,
+   "source": "islamoglu",
+   "text": "işte ona da, zorluk ve felaketin en dibine giden yolu kolaylaştırırız;"
+  },
+  {
+   "verseNo": 10,
+   "source": "esed",
+   "text": "onun için zorluğa ve sıkıntıya giden yolu kolaylaştırırız"
+  },
+  {
+   "verseNo": 10,
+   "source": "okuyan",
+   "text": "Ona da zor olanı (cehenneme gitmeyi) kolaylaştıracağız."
+  },
+  {
+   "verseNo": 11,
+   "source": "diyanet",
+   "text": "Cehenneme yuvarlandığı zaman, malı ona fayda vermez."
+  },
+  {
+   "verseNo": 11,
+   "source": "islamoglu",
+   "text": "öyle ki, o baş aşağı (cehenneme) yuvarlanıp helâk olacağı zaman, (Allah için paylaşmadığı) malı kendisini asla kurtaramaz."
+  },
+  {
+   "verseNo": 11,
+   "source": "esed",
+   "text": "bakalım serveti onu koruyacak mı (mezarına) girdiği zaman"
+  },
+  {
+   "verseNo": 11,
+   "source": "okuyan",
+   "text": "Düştüğü zaman da malı kendisine yarar sağlamayacaktır."
+  },
+  {
+   "verseNo": 12,
+   "source": "diyanet",
+   "text": "Şüphesiz bize düşen sadece doğru yolu göstermektir."
+  },
+  {
+   "verseNo": 12,
+   "source": "islamoglu",
+   "text": "ELBET doğru yolu göstermek sadece Bizim işimizdir;"
+  },
+  {
+   "verseNo": 12,
+   "source": "esed",
+   "text": "Bakın, Bize düşen doğru yolu göstermektir"
+  },
+  {
+   "verseNo": 12,
+   "source": "okuyan",
+   "text": "Şüphesiz ki doğru yola ulaştırmak yalnızca bize aittir."
+  },
+  {
+   "verseNo": 13,
+   "source": "diyanet",
+   "text": "Şüphesiz ahiret de dünya da bizimdir."
+  },
+  {
+   "verseNo": 13,
+   "source": "islamoglu",
+   "text": "ama gerçekte işin önü de sonu da Bizim mülkiyetimizdedir."
+  },
+  {
+   "verseNo": 13,
+   "source": "esed",
+   "text": "ve hem öteki dünya, hem de (hayatınızın) bu ilk bölümü (üzerindeki hakimiyet) Bize aittir"
+  },
+  {
+   "verseNo": 13,
+   "source": "okuyan",
+   "text": "Şüphesiz ki ilk de son da (dünya da ahiret de) bizimdir."
+  },
+  {
+   "verseNo": 14,
+   "source": "diyanet",
+   "text": "Sizi alevler saçan ateşe karşı uyardım."
+  },
+  {
+   "verseNo": 14,
+   "source": "islamoglu",
+   "text": "İşte Ben sizi, alevler saçan bir ateşe karşı uyarmış bulunuyorum:"
+  },
+  {
+   "verseNo": 14,
+   "source": "esed",
+   "text": "İşte, sizi alevler saçan ateşe karşı uyarıyorum"
+  },
+  {
+   "verseNo": 14,
+   "source": "okuyan",
+   "text": "Ben sizi alevli bir ateşe karşı uyardım."
+  },
+  {
+   "verseNo": 15,
+   "source": "diyanet",
+   "text": "O ateşe, ancak yalanlayıp yüz çeviren en bedbaht kimse girer."
+  },
+  {
+   "verseNo": 15,
+   "source": "islamoglu",
+   "text": "oraya sadece sorumsuzluğun zirvesinde olan bir azgın girer;"
+  },
+  {
+   "verseNo": 15,
+   "source": "esed",
+   "text": "(öyle bir ateş ki) kimse girmez, en onulmaz azgınlar dışında"
+  },
+  {
+   "verseNo": 15,
+   "source": "okuyan",
+   "text": "Ona en azgın olandan başkası girmeyecektir."
+  },
+  {
+   "verseNo": 16,
+   "source": "diyanet",
+   "text": "O ateşe, ancak yalanlayıp yüz çeviren en bedbaht kimse girer."
+  },
+  {
+   "verseNo": 16,
+   "source": "islamoglu",
+   "text": "o ki, (vahyi) yalanladı ve (gerçeğe) sırt döndü."
+  },
+  {
+   "verseNo": 16,
+   "source": "esed",
+   "text": "hakikati yalanlayan ve (ondan) yüz çeviren (azgınlar)"
+  },
+  {
+   "verseNo": 16,
+   "source": "okuyan",
+   "text": "O ki yalanladı ve sırtını döndü."
+  },
+  {
+   "verseNo": 17,
+   "source": "diyanet",
+   "text": "Temizlenmek için malını hayra veren en muttekî (Allah'a karşı gelmekten en çok sakınan) kimse o ateşten uzak tutulacaktır."
+  },
+  {
+   "verseNo": 17,
+   "source": "islamoglu",
+   "text": "Ama yüce ve yüksek bir sorumluluk bilinciyle hareket eden kimse, o (ateşten) uzak tutulacak;"
+  },
+  {
+   "verseNo": 17,
+   "source": "esed",
+   "text": "Ama, Allah´a karşı sorumluluğunun bilincinde olanlar (ateşten) uzak kalacak"
+  },
+  {
+   "verseNo": 17,
+   "source": "okuyan",
+   "text": "En [muttakî] (duyarlı) olan ondan uzak tutulacaktır."
+  },
+  {
+   "verseNo": 18,
+   "source": "diyanet",
+   "text": "Temizlenmek için malını hayra veren en muttekî (Allah'a karşı gelmekten en çok sakınan) kimse o ateşten uzak tutulacaktır."
+  },
+  {
+   "verseNo": 18,
+   "source": "islamoglu",
+   "text": "o ki, malını gönülden verir ve arınıp gelişir;"
+  },
+  {
+   "verseNo": 18,
+   "source": "esed",
+   "text": "arınmak için servetini (başkalarına) harcayanlar"
+  },
+  {
+   "verseNo": 18,
+   "source": "okuyan",
+   "text": "O ki (malını) vererek arınır."
+  },
+  {
+   "verseNo": 19,
+   "source": "diyanet",
+   "text": "O, hiç kimseye karşılık bekleyerek iyilik yapmaz.(Yaptığı iyiliği) Ancak yüce Rabbinin rızasını istediği için (yapar)."
+  },
+  {
+   "verseNo": 19,
+   "source": "islamoglu",
+   "text": "Onun (bu yaptığı) herhangi birinden gördüğü bir hayra karşılık değildir;"
+  },
+  {
+   "verseNo": 19,
+   "source": "esed",
+   "text": "gördüğü bir iyiliğin karşılığı olarak değil"
+  },
+  {
+   "verseNo": 19,
+   "source": "okuyan",
+   "text": "19,20. Yüce Rabbinin rızasını kazanmaktan başka, kimseden beklediği bir karşılık da yoktur."
+  },
+  {
+   "verseNo": 20,
+   "source": "diyanet",
+   "text": "O, hiç kimseye karşılık bekleyerek iyilik yapmaz.(Yaptığı iyiliği) Ancak yüce Rabbinin rızasını istediği için (yapar)."
+  },
+  {
+   "verseNo": 20,
+   "source": "islamoglu",
+   "text": "sadece Yüce Rabbinin rızasını kazanma iştiyakı iledir."
+  },
+  {
+   "verseNo": 20,
+   "source": "esed",
+   "text": "ama yalnızca yüce Rabbinin rızasını kazanmak için"
+  },
+  {
+   "verseNo": 20,
+   "source": "okuyan",
+   "text": "19,20. Yüce Rabbinin rızasını kazanmaktan başka, kimseden beklediği bir karşılık da yoktur."
+  },
+  {
+   "verseNo": 21,
+   "source": "diyanet",
+   "text": "Elbette kendisi de hoşnut olacaktır."
+  },
+  {
+   "verseNo": 21,
+   "source": "islamoglu",
+   "text": "İşte böyle biri, kesinlikle, zamanı gelince (gördüğü karşılıktan) fazlasıyla memnun olacaktır."
+  },
+  {
+   "verseNo": 21,
+   "source": "esed",
+   "text": "işte böyleleri de, zamanı geldiğinde sevinci tadacaklar"
+  },
+  {
+   "verseNo": 21,
+   "source": "okuyan",
+   "text": "Kendisi de ileride memnun olacaktır."
+  },
+  {
+   "verseNo": 1,
+   "verseNoEnd": null,
+   "source": "ai",
+   "text": "Gece örtü serdiğinde."
+  },
+  {
+   "verseNo": 2,
+   "verseNoEnd": null,
+   "source": "ai",
+   "text": "Gündüz açığa çıktığında."
+  },
+  {
+   "verseNo": 3,
+   "verseNoEnd": null,
+   "source": "ai",
+   "text": "Erkek ile dişiyi O yarattı."
+  },
+  {
+   "verseNo": 4,
+   "verseNoEnd": null,
+   "source": "ai",
+   "text": "Çabalarınız kuşkusuz ayrıdır."
+  },
+  {
+   "verseNo": 5,
+   "verseNoEnd": null,
+   "source": "ai",
+   "text": "Öyleyse veren ve sakınan kimseye gelince;"
+  },
+  {
+   "verseNo": 6,
+   "verseNoEnd": null,
+   "source": "ai",
+   "text": "ve hayrı doğrulayan;"
+  },
+  {
+   "verseNo": 7,
+   "verseNoEnd": null,
+   "source": "ai",
+   "text": "Biz onun işini kolaylığa yönelteceğiz."
+  },
+  {
+   "verseNo": 8,
+   "verseNoEnd": null,
+   "source": "ai",
+   "text": "Ama cimri davranan ve kendini zengin gören kimseye gelince;"
+  },
+  {
+   "verseNo": 9,
+   "verseNoEnd": null,
+   "source": "ai",
+   "text": "ve hayrı yalan sayan;"
+  },
+  {
+   "verseNo": 10,
+   "verseNoEnd": null,
+   "source": "ai",
+   "text": "Biz onu güçlüğe yönelteceğiz."
+  },
+  {
+   "verseNo": 11,
+   "verseNoEnd": null,
+   "source": "ai",
+   "text": "Düştüğü zaman malı ona hiçbir şey fayda vermez."
+  },
+  {
+   "verseNo": 12,
+   "verseNoEnd": null,
+   "source": "ai",
+   "text": "Şüphesiz doğru yolu göstermek bize aittir."
+  },
+  {
+   "verseNo": 13,
+   "verseNoEnd": null,
+   "source": "ai",
+   "text": "Ve şüphesiz hem ahiret hem de dünya bize aittir."
+  },
+  {
+   "verseNo": 14,
+   "verseNoEnd": null,
+   "source": "ai",
+   "text": "Bu yüzden sizi alevli bir ateşle uyardım."
+  },
+  {
+   "verseNo": 15,
+   "verseNoEnd": null,
+   "source": "ai",
+   "text": "O ateşe giren yoktur, ancak en perişan olan."
+  },
+  {
+   "verseNo": 16,
+   "verseNoEnd": null,
+   "source": "ai",
+   "text": "O, inkar eden ve yüz çevirendir."
+  },
+  {
+   "verseNo": 17,
+   "verseNoEnd": null,
+   "source": "ai",
+   "text": "Ve sakınanlar ondan uzak tutulacaktır."
+  },
+  {
+   "verseNo": 18,
+   "verseNoEnd": null,
+   "source": "ai",
+   "text": "O, malını verip arınan kişidir."
+  },
+  {
+   "verseNo": 19,
+   "verseNoEnd": null,
+   "source": "ai",
+   "text": "Ve onun yanında kimsenin bir nimeti karşılık olarak verilmez."
+  },
+  {
+   "verseNo": 20,
+   "verseNoEnd": null,
+   "source": "ai",
+   "text": "Ancak o, Rabbinin en yücesinin rızasını aramaktadır."
+  },
+  {
+   "verseNo": 21,
+   "verseNoEnd": null,
+   "source": "ai",
+   "text": "Ve yakında hoşnut olacaktır."
+  }
+ ],
+ "aiParagraph": "Gecenin her şeyi örttüğü ve gündüzün her şeyi açığa çıkardığı o ritim içinde, metin insanın çabasının tek tip olmadığını söylüyor: herkes koşuyor, ama aynı yöne değil. Kimileri elindekini veriyor, içinde bir güvenceye yaslanıyor, iyinin gerçek olduğuna inanıyor — ve bu tutum onu daha kolay bir yola sokuyor. Kimileri ise elindekini sıkıca tutuyor, kimseye muhtaç olmadığını düşünüyor, iyinin vaadini reddediyor — o yol da giderek darlaşıyor. Asıl çarpıcı olan şu: düşüşün geldiği an, biriktirilen her şey sessizce kenara çekiliyor; mal orada duruyor ama sahibine artık bir faydası yok. Sonra metin bambaşka bir adamı anlatıyor: elindekini veren, bunu kimseye borçlu olmadığı için veren, karşılık beklediği biri olmadığı için veren — sırf bir şeye yönelmiş olduğu için veren. Bu adamın sonunda razı olacağı söyleniyor. \"Razı olmak\" küçük bir söz gibi görünür; oysa hiçbir karşılık görmeden vermeye devam etmiş biri için bu, belki de mümkün olan en ağır vaattir."
 }

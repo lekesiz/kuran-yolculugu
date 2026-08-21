@@ -1,353 +1,408 @@
 {
-  "stationNo": 103,
-  "surahNo": 63,
-  "name": "Münâfikûn",
-  "nameArabic": "",
-  "nameMeaning": "",
-  "verseCount": 11,
-  "nuzulOrderOkuyan": 103,
-  "periodDiyanet": "Medine",
-  "periodOkuyan": "Medine",
-  "revelationTiming": "Nüzul yılı konusunda hicri 5. veya 6. yıl şeklinde farklı görüşler bulunmaktadır.",
-  "stationTitle": "İkisi de içinde: bozma da, arınma da.",
-  "introduction": "Münâfikûn suresi, adını ilk ayetinde geçen ve 'münafıklar' anlamına gelen kelimeden alır. Medine döneminde inen sure, 11 ayetten oluşur. Kur'an'ın 63. suresidir.\n\nSurenin ana ekseni, inançta samimiyetsizlik, ikiyüzlülük ve nifak psikolojisidir. Sure, münafıkların dış görünüşleri ile iç dünyaları arasındaki uçurumu gözler önüne serer. Onların yalan yere yemin etmelerini, korkaklıklarını ve müminlere karşı besledikleri gizli düşmanlığı deşifre eder.\n\nSurenin ilk bölümü (1-8. ayetler) münafıkların karakter analizine ayrılmıştır. İkinci bölümünde (9-11. ayetler) ise müminlere hitap edilerek, mal ve evlat sevgisinin insanı Allah'ı anmaktan alıkoymaması gerektiği vurgulanır. Ölüm gelmeden önce infak etmenin önemi hatırlatılır.",
-  "occasionOfRevelation": "Münâfikûn suresinin nüzul sebebi olarak kaynaklarda genellikle Benî Mustalik (Müreysî) Gazvesi sırasında yaşanan bir olay gösterilir. Bu gazvenin tarihi konusunda kaynaklarda hicri 5. veya 6. yıl şeklinde farklı görüşler bulunmaktadır.\n\nSefer dönüşünde bir su kuyusu başında, muhacirlerden biri ile ensardan biri arasında tartışma çıkar. Bu tartışmayı fırsat bilen münafıkların reisi Abdullah b. Übey b. Selûl, ensarı kışkırtarak muhacirler aleyhine ağır sözler söyler. 'Medine'ye dönersek güçlü olan zayıf olanı oradan çıkaracaktır' diyerek tehditler savurur.\n\nBu sözler Hz. Peygamber'e ulaşınca Abdullah b. Übey çağrılır, ancak o yemin ederek böyle bir şey söylemediğini iddia eder. Bunun üzerine Münâfikûn suresi nazil olarak onun ve diğer münafıkların yalancılığını ortaya çıkarır.",
-  "occasionSources": "TDV İslâm Ansiklopedisi, \"Münâfikūn Sûresi\" maddesi; Diyanet İşleri Başkanlığı Kur'an Yolu Tefsiri, Münâfikûn 1-8 ayet tefsiri; kuranokuyan.com, Münâfikûn suresi girişi (Prof. Dr. Mehmet Okuyan).",
-  "keyTerms": [
-    {
-      "term": "münâfık",
-      "arabic": "مُنَافِق",
-      "verseRef": "63:1",
-      "meaning": "İnanmadığı halde inanmış gibi görünen, içi dışı bir olmayan kimse. Ayette bu kimselerin yalancılığı vurgulanır."
-    },
-    {
-      "term": "cünne",
-      "arabic": "جُنَّة",
-      "verseRef": "63:2",
-      "meaning": "Kalkan, siper. Münafıkların yalan yere ettikleri yeminleri kendilerini korumak için bir kalkan olarak kullanmaları ifade edilir."
-    },
-    {
-      "term": "huşub",
-      "arabic": "خُشُب",
-      "verseRef": "63:4",
-      "meaning": "Kütükler, keresteler. Münafıkların dış görünüşlerinin gösterişli ama içlerinin boş ve ruhsuz olduğu benzetmesi yapılır."
-    },
-    {
-      "term": "infak",
-      "arabic": "اِنْفَاق",
-      "verseRef": "63:10",
-      "meaning": "Allah'ın verdiği rızıktan başkaları için harcamak. Surenin sonunda ölüm gelmeden önce yapılması gereken en önemli eylem olarak öne çıkarılır."
-    }
-  ],
-  "themes": [
-    {
-      "label": "İkiyüzlülüğün Yıkıcılığı",
-      "body": "İnsanın olduğu gibi görünmemesi, kendi gerçeğiyle yüzleşmekten kaçması onu içten içe çürütür. Nifak, sadece toplumsal bir sorun değil, aynı zamanda derin bir varoluşsal krizdir."
-    },
-    {
-      "label": "Sahip Olma Tutkusu",
-      "body": "Mal ve evlat gibi dünyevi bağlar, insanın asıl amacını unutturabilir. Bu bağların birer araç olmaktan çıkıp amaca dönüşmesi, insanın manevi körlüğüne yol açar."
-    },
-    {
-      "label": "Ertelenen İyilik",
-      "body": "İnsanın iyilik yapmayı, paylaşmayı sürekli yarına ertelemesi büyük bir yanılgıdır. Ölüm gerçeği karşısında son pişmanlık fayda vermez."
-    }
-  ],
-  "questions": [
-    "İnsanların benim hakkımdaki düşüncelerini yönetmek için, aslında inanmadığım veya hissetmediğim şeyleri savunuyormuş gibi davrandığım oluyor mu?",
-    "Sahip olduğum imkanları (zaman, bilgi, para) başkalarıyla paylaşmayı, 'ileride daha uygun bir zaman gelince yaparım' diyerek sürekli erteliyor muyum?"
-  ],
-  "contemporaryMeaning": "Bu sure, insanın en yorucu maskesi olan görünme arzusu ile kendi gerçeği arasındaki derin uçurumu deşifre eder. Mesele sadece bir inanç beyanı değil, kişinin içindeki boşluğu dışarıya yansıttığı sahte bir imajla doldurma çabasıdır. Dışarıdan kusursuz, kendinden emin ve hitabeti güçlü görünen ama içeriden korkuyla ve hesapçılıkla çürüyen bir insan tipolojisi merkeze alınır. Bu, insanın kendine söylediği yalanların zamanla kendi gerçeğine dönüşmesi krizidir.\n\nBugünün diliyle: sosyal medyada yaratılan kusursuz profiller, iş ağlarında sadece çıkar odaklı kurulan sahte dostluklar veya bir gruba ait hissetmek için benimsenmeyen fikirlerin hararetle savunulması, bu metnin işaret ettiği yarılmanın tam karşılığıdır. Kişi, başkalarının onayını almak ve statüsünü korumak için sürekli bir performans sergilerken kendi varoluşuna yabancılaşır. Ekranlardaki filtreli hayatlar veya toplantı odalarındaki stratejik gülümsemeler, insanın kendi hakikatinden kaçışının sahneleridir.\n\nBütün enerjisini biriktirmeye ve imajını parlatmaya harcayan insan, hayatın sonlu olduğu gerçeğiyle yüzleştiğinde büyük bir boşluğa düşer. \"Daha sonra yaparım\" diyerek ertelenen her iyilik, aslında insanın kendi sahiciliğini ertelemesidir. Metin, ölümün kesinliği karşısında tüm o özenle inşa edilmiş maskelerin ve biriktirilmiş statülerin hiçbir anlam ifade etmediği o keskin anı insanın yüzüne çarpar.",
-  "scholarlyNotes": [
-    {
-      "kind": "ihtilaf",
-      "body": "Surenin nüzulüne sebep olan Benî Mustalik Gazvesi'nin tarihi konusunda kaynaklarda farklılık vardır. Prof. Dr. Mehmet Okuyan hicri 5. yıl ihtimalini öne çıkarırken, TDV İslâm Ansiklopedisi İbn Kesîr'in tercihine dayanarak hicri 5 veya 6. yıl (626-627) olarak belirtmektedir.",
-      "label": "Nüzul Yılı İhtilafı"
-    },
-    {
-      "kind": "rivayet",
-      "body": "TDV İslâm Ansiklopedisi'nde belirtildiğine göre, bazı tefsir kaynaklarında yer alan 'Münâfikûn suresini okuyan kimse nifaktan uzak kalır' meâlindeki hadis mevzûdur (uydurmadır).",
-      "label": "Surenin Fazileti Hakkında Uydurma Rivayet"
-    }
-  ],
-  "verses": [
-    {
-      "verseNo": 1,
-      "textArabic": "بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ إِذَا جَآءَكَ ٱلْمُنَٰفِقُونَ قَالُوا۟ نَشْهَدُ إِنَّكَ لَرَسُولُ ٱللَّهِ ۗ وَٱللَّهُ يَعْلَمُ إِنَّكَ لَرَسُولُهُۥ وَٱللَّهُ يَشْهَدُ إِنَّ ٱلْمُنَٰفِقِينَ لَكَٰذِبُونَ"
-    },
-    {
-      "verseNo": 2,
-      "textArabic": "ٱتَّخَذُوٓا۟ أَيْمَٰنَهُمْ جُنَّةًۭ فَصَدُّوا۟ عَن سَبِيلِ ٱللَّهِ ۚ إِنَّهُمْ سَآءَ مَا كَانُوا۟ يَعْمَلُونَ"
-    },
-    {
-      "verseNo": 3,
-      "textArabic": "ذَٰلِكَ بِأَنَّهُمْ ءَامَنُوا۟ ثُمَّ كَفَرُوا۟ فَطُبِعَ عَلَىٰ قُلُوبِهِمْ فَهُمْ لَا يَفْقَهُونَ"
-    },
-    {
-      "verseNo": 4,
-      "textArabic": "۞ وَإِذَا رَأَيْتَهُمْ تُعْجِبُكَ أَجْسَامُهُمْ ۖ وَإِن يَقُولُوا۟ تَسْمَعْ لِقَوْلِهِمْ ۖ كَأَنَّهُمْ خُشُبٌۭ مُّسَنَّدَةٌۭ ۖ يَحْسَبُونَ كُلَّ صَيْحَةٍ عَلَيْهِمْ ۚ هُمُ ٱلْعَدُوُّ فَٱحْذَرْهُمْ ۚ قَٰتَلَهُمُ ٱللَّهُ ۖ أَنَّىٰ يُؤْفَكُونَ"
-    },
-    {
-      "verseNo": 5,
-      "textArabic": "وَإِذَا قِيلَ لَهُمْ تَعَالَوْا۟ يَسْتَغْفِرْ لَكُمْ رَسُولُ ٱللَّهِ لَوَّوْا۟ رُءُوسَهُمْ وَرَأَيْتَهُمْ يَصُدُّونَ وَهُم مُّسْتَكْبِرُونَ"
-    },
-    {
-      "verseNo": 6,
-      "textArabic": "سَوَآءٌ عَلَيْهِمْ أَسْتَغْفَرْتَ لَهُمْ أَمْ لَمْ تَسْتَغْفِرْ لَهُمْ لَن يَغْفِرَ ٱللَّهُ لَهُمْ ۚ إِنَّ ٱللَّهَ لَا يَهْدِى ٱلْقَوْمَ ٱلْفَٰسِقِينَ"
-    },
-    {
-      "verseNo": 7,
-      "textArabic": "هُمُ ٱلَّذِينَ يَقُولُونَ لَا تُنفِقُوا۟ عَلَىٰ مَنْ عِندَ رَسُولِ ٱللَّهِ حَتَّىٰ يَنفَضُّوا۟ ۗ وَلِلَّهِ خَزَآئِنُ ٱلسَّمَٰوَٰتِ وَٱلْأَرْضِ وَلَٰكِنَّ ٱلْمُنَٰفِقِينَ لَا يَفْقَهُونَ"
-    },
-    {
-      "verseNo": 8,
-      "textArabic": "يَقُولُونَ لَئِن رَّجَعْنَآ إِلَى ٱلْمَدِينَةِ لَيُخْرِجَنَّ ٱلْأَعَزُّ مِنْهَا ٱلْأَذَلَّ ۚ وَلِلَّهِ ٱلْعِزَّةُ وَلِرَسُولِهِۦ وَلِلْمُؤْمِنِينَ وَلَٰكِنَّ ٱلْمُنَٰفِقِينَ لَا يَعْلَمُونَ"
-    },
-    {
-      "verseNo": 9,
-      "textArabic": "يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ لَا تُلْهِكُمْ أَمْوَٰلُكُمْ وَلَآ أَوْلَٰدُكُمْ عَن ذِكْرِ ٱللَّهِ ۚ وَمَن يَفْعَلْ ذَٰلِكَ فَأُو۟لَٰٓئِكَ هُمُ ٱلْخَٰسِرُونَ"
-    },
-    {
-      "verseNo": 10,
-      "textArabic": "وَأَنفِقُوا۟ مِن مَّا رَزَقْنَٰكُم مِّن قَبْلِ أَن يَأْتِىَ أَحَدَكُمُ ٱلْمَوْتُ فَيَقُولَ رَبِّ لَوْلَآ أَخَّرْتَنِىٓ إِلَىٰٓ أَجَلٍۢ قَرِيبٍۢ فَأَصَّدَّقَ وَأَكُن مِّنَ ٱلصَّٰلِحِينَ"
-    },
-    {
-      "verseNo": 11,
-      "textArabic": "وَلَن يُؤَخِّرَ ٱللَّهُ نَفْسًا إِذَا جَآءَ أَجَلُهَا ۚ وَٱللَّهُ خَبِيرٌۢ بِمَا تَعْمَلُونَ"
-    }
-  ],
-  "translations": [
-    {
-      "verseNo": 1,
-      "verseNoEnd": null,
-      "source": "ai",
-      "text": "İki yüzlüler sana geldiğinde, \"Senin Allah'ın elçisi olduğuna şehadet ederiz\" derler. Allah bilir ki sen O'nun elçisisin; ve Allah şahit olur ki iki yüzlüler yalancıdır."
-    },
-    {
-      "verseNo": 1,
-      "source": "diyanet",
-      "text": "(Ey Muhammed!) Münafıklar sana geldiklerinde, \"Senin, elbette Allah'ın peygamberi olduğuna şahitlik ederiz\" derler. Allah senin, elbette kendisinin peygamberi olduğunu biliyor. (Fakat) Allah o münafıkların hiç şüphesiz yalancılar olduklarına elbette şahitlik eder."
-    },
-    {
-      "verseNo": 1,
-      "source": "esed",
-      "text": "İkiyüzlüler sana geldiklerinde: \"Senin gerçekten Allah´ın Elçisi olduğuna tanıklık ederiz!\" derler. Ama Allah, senin kendi elçisi olduğunu bilir; ve Allah, ikiyüzlülerin (inandık demelerinde) asla samimi olmadıklarına tanıklık eder"
-    },
-    {
-      "verseNo": 1,
-      "source": "okuyan",
-      "text": "Münafıklar sana geldiklerinde “Şahitlik ederiz ki şüphesiz sen Allah’ın Elçisisin!” derler. Allah senin elbette kendi elçisi olduğunu bilmektedir. Allah münafıkların yalancı olduklarına elbette şahittir."
-    },
-    {
-      "verseNo": 2,
-      "verseNoEnd": null,
-      "source": "ai",
-      "text": "Yeminlerini kendilerine kalkan yaptılar; böylece Allah yolundan başkalarını alıkoydular. Yaptıkları ne kötü işlerdir."
-    },
-    {
-      "verseNo": 2,
-      "source": "diyanet",
-      "text": "Yeminlerini kalkan yaptılar da insanları Allah'ın yolundan çevirdiler. Gerçekten onların yaptıkları şey ne kötüdür!"
-    },
-    {
-      "verseNo": 2,
-      "source": "esed",
-      "text": "Onlar yeminlerini (yalan ve sahtekarlıklarına) kalkan yapmakta ve böylece başkalarını Allah yolundan saptırmaktadırlar. Yaptıkları, gerçekten çok çirkindir"
-    },
-    {
-      "verseNo": 2,
-      "source": "okuyan",
-      "text": "Yeminlerini kalkan (bahane) edinip Allah yolundan saptılar. Şüphesiz ki onların yaptıkları çok kötüdür!"
-    },
-    {
-      "verseNo": 3,
-      "verseNoEnd": null,
-      "source": "ai",
-      "text": "Bu, onların önce iman edip sonra inkâr etmeleri yüzündendir; kalplerinin üzerine mühür vuruldu; artık anlayamazlar."
-    },
-    {
-      "verseNo": 3,
-      "source": "diyanet",
-      "text": "Bu, onların önce iman edip sonra inkar etmeleri, bu yüzden de kalplerine mühür vurulması sebebiyledir. Artık onlar anlamazlar."
-    },
-    {
-      "verseNo": 3,
-      "source": "esed",
-      "text": "böyledir, çünkü onlar imana erdi(klerini iddia eder)ler, halbuki (içlerinde) hakikati inkar ederler ve böylece, kalplerine bir mühür vurulmuştur, artık (neyin doğru, neyin yanlış olduğunu) anlayamazlar"
-    },
-    {
-      "verseNo": 3,
-      "source": "okuyan",
-      "text": "Bunun sebebi, onların önce iman et(tiklerini söyley)ip sonra inkâr etmeleridir. (Bu yüzden) kalpleri mühürlenmiştir. Artık (gerçeği) anlayamazlar."
-    },
-    {
-      "verseNo": 4,
-      "verseNoEnd": null,
-      "source": "ai",
-      "text": "Onları gördüğünde bedenleri sana hayranlık verir; konuşunca sözlerini dinlersin. Sanki dayalı duran keresteler gibidirler; her yüksek sesi kendilerine ait sanırlar. Onlar düşmandır; onlardan sakın. Allah onlarla savaşsın; nasıl alıkonulurlar."
-    },
-    {
-      "verseNo": 4,
-      "source": "diyanet",
-      "text": "Onları gördüğün zaman kalıpları hoşuna gider. Konuşurlarsa sözlerine kulak verirsin. Onlar sanki elbise giydirilmiş kereste gibidirler. Her kuvvetli sesi kendi aleyhlerine sanırlar. Onlar düşmandır, onlardan sakın! Allah onları kahretsin! Nasıl da (haktan) çevriliyorlar!"
-    },
-    {
-      "verseNo": 4,
-      "source": "esed",
-      "text": "Şimdi sen onları gördüğünde dış görünüşleri hoşuna gider; ve konuştuklarında ne söylediklerine kulak vermek istersin. Onlar, yere (sağlam şekilde) dikilmiş kütükler gibi (olduklarına emin görünseler de) her çığlığı kendilerine (yönelik) sanırlar. Onlar (bütün inançlara) düşmandırlar, öyleyse onlara karşı dikkatli ol. (Ve bedduayı hak ederler:) \"Allah onları kahretsin!\" Akılları nasıl da (hakikatten) sapıyor"
-    },
-    {
-      "verseNo": 4,
-      "source": "okuyan",
-      "text": "Onları (münafıkları) gördüğün zaman görünüşleri hoşuna gider; konuşurlarsa sözlerini dinlersin. Onlar, sanki giydirilmiş kütükler gibidir. Her gürültüyü kendi aleyhlerine sanırlar. Onlar düşmandır. Onlardan sakın! Allah onları kahretsin! Nasıl da (gerçeklerden) döndürülüyorlar!"
-    },
-    {
-      "verseNo": 5,
-      "verseNoEnd": null,
-      "source": "ai",
-      "text": "Denildiğinde, \"Geliniz, Allah'ın elçisi sizin için bağışlanma dilesin\" başlarını çevirirler; onları alıkoyarken kibirlidirler."
-    },
-    {
-      "verseNo": 5,
-      "source": "diyanet",
-      "text": "O münafıklara, \"Gelin, Allah'ın Resülü sizin için bağışlama dilesin\" denildiği zaman başlarını çevirirler ve sen onların büyüklük taslayarak uzaklaştıklarını görürsün."
-    },
-    {
-      "verseNo": 5,
-      "source": "esed",
-      "text": "Çünkü onlara: \"Gelin, Allah´ın Elçisi bağışlanmanız için (Allah´a) dua edecek!\" dendiği zaman başlarını çevirirler ve sen onların sahte bir kibirle nasıl çekip gittiklerini görürsün"
-    },
-    {
-      "verseNo": 5,
-      "source": "okuyan",
-      "text": "Onlara “Gelin, Allah’ın Elçisi sizin için bağışlanma dilesin.” dendiği zaman başlarını çevirirler ve sen onların kibirlenerek yüz çevirdiklerini görürsün."
-    },
-    {
-      "verseNo": 6,
-      "verseNoEnd": null,
-      "source": "ai",
-      "text": "Sen ister onlar için bağışlanma dile ister dileme, Allah onları affetmeyecektir. Şüphesiz Allah günahkâr topluluğu doğruya yöneltmez."
-    },
-    {
-      "verseNo": 6,
-      "source": "diyanet",
-      "text": "Onlara bağışlama dilesen de, dilemesen de onlar için birdir. Allah onları asla bağışlamayacaktır. Çünkü Allah, fasıklar topluluğunu doğru yola iletmez."
-    },
-    {
-      "verseNo": 6,
-      "source": "esed",
-      "text": "Onlar için bağışlanma dilemen ile dilememen aynıdır: Allah onları bağışlamayacaktır, çünkü Allah, böyle sapkın bir halka rehberliğini bahşetmez"
-    },
-    {
-      "verseNo": 6,
-      "source": "okuyan",
-      "text": "Onlara (onlar için) bağışlanma dilesen de dilemesen de birdir. Allah onları asla ve asla bağışlamayacaktır. Şüphesiz ki Allah yoldan çıkanlar topluluğunu doğru yola ulaştırmaz."
-    },
-    {
-      "verseNo": 7,
-      "verseNoEnd": null,
-      "source": "ai",
-      "text": "Onlar derler ki: \"Resûlullah'ın yanındakilere harcama yapmayın; ta ki onlar dağılıp gitsinler.\" Oysa göklerin ve yerin hazineleri Allah'ındır; ama iki yüzlüler anlamazlar."
-    },
-    {
-      "verseNo": 7,
-      "source": "diyanet",
-      "text": "Onlar, \"Allah Resûlü'nün yanında bulunanlara (muhacirlere) bir şey vermeyin ki dağılıp gitsinler\" diyenlerdir. Halbuki göklerin ve yerin hazineleri Allah'ındır. Fakat münafıklar (bunu) anlamazlar."
-    },
-    {
-      "verseNo": 7,
-      "source": "esed",
-      "text": "Onlar, (hemşehrilerine): \"Allah´ın Elçisi ile birlikte olanlara hiçbir şey vermeyin ki belki o´nu terk et(mek zorunda kal)ırlar\" derler. Göklerin ve yerin hazineleri Allah´ındır ama bu gerçeği ikiyüzlüler kavrayamaz"
-    },
-    {
-      "verseNo": 7,
-      "source": "okuyan",
-      "text": "Onlar “Allah’ın Elçisi’nin yanında bulunanlara infak etmeyin (vermeyin) ki dağılıp gitsinler!” diyenlerdir. Oysa göklerin ve yerin hazineleri yalnızca Allah’a aittir. Fakat münafıklar (bunu) anlamazlar."
-    },
-    {
-      "verseNo": 8,
-      "verseNoEnd": null,
-      "source": "ai",
-      "text": "Derler ki: \"Eğer Medine'ye dönersek, oradaki en güçlü kişi en zayıfı dışarı atacak.\" Oysa izzet Allah'ındır; Resûlüne ve müminlere aittir; fakat iki yüzlüler bilmezler."
-    },
-    {
-      "verseNo": 8,
-      "source": "diyanet",
-      "text": "Onlar, \"Andolsun, eğer Medine'ye dönersek, üstün olan, zayıf olanı oradan mutlaka çıkaracaktır\" diyorlardı. Halbuki asıl üstünlük, ancak Allah'ın, Peygamberinin ve mü'minlerindir. Fakat münafıklar (bunu) bilmezler."
-    },
-    {
-      "verseNo": 8,
-      "source": "esed",
-      "text": "(Ve) onlar: \"Kente döndüğümüzde şan şeref sahibi olan (biz)ler, zavallı biçareleri oradan sürüp atacaktır!\" derler. Ama asıl şeref, Allah´a, O´nun Elçisi´ne ve inananlara aittir ama ikiyüzlüler bunun farkında değiller"
-    },
-    {
-      "verseNo": 8,
-      "source": "okuyan",
-      "text": "Onlar “Şüphesiz ki Medine’ye dönersek, üstün olan (taraf), zayıf olanı mutlaka oradan çıkaracaktır!” diyorlardı. (Oysa) itibar yalnızca Allah’a, Elçisine ve müminlere aittir fakat münafıklar (bunu da) bilmezler."
-    },
-    {
-      "verseNo": 9,
-      "verseNoEnd": null,
-      "source": "ai",
-      "text": "Ey iman edenler! Mallarınız da çocuklarınız da sizi Allah'ı anmaktan alıkoymasın. Kim bunu yaparsa işte onlar kaybedenlerdir."
-    },
-    {
-      "verseNo": 9,
-      "source": "diyanet",
-      "text": "Ey iman edenler! Mallarınız ve evlatlarınız sizi, Allah'ı zikretmekten alıkoymasın. Her kim bunu yaparsa, işte onlar ziyana uğrayanların ta kendileridir."
-    },
-    {
-      "verseNo": 9,
-      "source": "esed",
-      "text": "Siz ey imana ermiş olanlar! Malınızın, mülkünüzün veya çocuklarınızın sizi Allah´ı anmaktan alıkoymasına izin vermeyin! Çünkü böyle davranan herkes ziyana uğrayanlardan olur"
-    },
-    {
-      "verseNo": 9,
-      "source": "okuyan",
-      "text": "Ey iman edenler! Mallarınız ve çocuklarınız, sizi Allah’ı hatırlamaktan alıkoymasın! Kim bunu yaparsa işte onlar kaybedenlerin ta kendileridir."
-    },
-    {
-      "verseNo": 10,
-      "verseNoEnd": null,
-      "source": "ai",
-      "text": "Size verdiğimiz rızktan harcayın; ölüm birinize gelmeden önce, \"Rabbim, neden beni kısa bir süre ertelemedin ki sadaka vereyim ve salihlerden olayım\" demeyesiniz."
-    },
-    {
-      "verseNo": 10,
-      "source": "diyanet",
-      "text": "Herhangi birinize ölüm gelip de, \"Ey Rabbim! Beni yakın bir zamana kadar geciktirsen de sadaka verip iyilerden olsam!\" demeden önce, size rızık olarak verdiğimiz şeylerden Allah yolunda harcayın."
-    },
-    {
-      "verseNo": 10,
-      "source": "esed",
-      "text": "Birinize ölüm yaklaştığı ve \"Ey Rabbim! Bana bir mühlet tanısan da karşılıksız yardımda bulunup iyiler arasına girsem!\" diye (yalvara)cağı zaman gelip çatmadan önce size rızık olarak verdiğimizden harcayın"
-    },
-    {
-      "verseNo": 10,
-      "source": "okuyan",
-      "text": "“Rabbim! Beni yakın bir süreye kadar geciktirsen de sadaka verip iyilerden olsam!” diyecek şekilde herhangi birinize ölüm gelmesinden önce size verdiğimiz rızıktan dağıtın!"
-    },
-    {
-      "verseNo": 11,
-      "verseNoEnd": null,
-      "source": "ai",
-      "text": "Allah bir canın vakti geldiğinde onu asla geciktirmez; Allah yaptıklarınızı bilir."
-    },
-    {
-      "verseNo": 11,
-      "source": "diyanet",
-      "text": "Allah, eceli geldiğinde hiçbir kimseyi asla ertelemez. Allah bütün yaptıklarınızdan haberdardır."
-    },
-    {
-      "verseNo": 11,
-      "source": "esed",
-      "text": "Ama, vakti geldiğinde Allah hiçbir insana mühlet tanımaz; ve Allah bütün yaptıklarınızı tam olarak bilir"
-    },
-    {
-      "verseNo": 11,
-      "source": "okuyan",
-      "text": "Allah süresi geldiğinde kimseyi (ölümünü) asla ertelemez. Allah yaptıklarınızdan haberdardır."
-    }
-  ],
-  "aiParagraph": "Dış görünüşü etkileyici, sözleri akıcı, ağzından doğru şeyler çıkıyor — ama içinde bambaşka bir hesap dönüyor. Sure, bu insanı tanımakla başlıyor: yemini kalkan olarak kullanan, \"seni destekliyorum\" derken arkasını dönen, her yüksek sesi kendi aleyhine sanıp tetikte bekleyen biri. Duvara yaslanmış kütük gibi dimdik duran ama içi boş. Asıl ilginç olan, bu çatlağın nasıl oluştuğu: önce bir adım atılmış, sonra geri dönülmüş — ve o gidiş-geliş kalbi öyle bir noktaya getirmiş ki artık duymak istediği şeyi duymuyor. Yanlış olduğunu söyleyen biri karşısına çıktığında başını çeviriyor, çünkü kabul etmek çok ağır geliyor. Güçlünün zayıfı ezeceğini, paranın kesileceğinde dayanışmanın biteceğini hesaplıyor — hesabının ne kadar dar olduğunun farkında değil. Sure tam bu noktada yönünü değiştiriyor ve başka birine, kendi içinde bu çatışmayı yaşamayan birine sesleniyor: sevdiklerin ve biriktirdiklerin seni öyle meşgul edebilir ki en önemli şeyi, tam da yapman gerektiği anda erteleyebilirsin. Ve o erteleme için \"biraz daha zaman ver, bu sefer gerçekten yapacağım\" diyeceğin an, belki hiç gelmeyecek."
+ "stationNo": 103,
+ "surahNo": 63,
+ "name": "Münâfikûn",
+ "nameArabic": "",
+ "nameMeaning": "",
+ "verseCount": 11,
+ "nuzulOrderOkuyan": 103,
+ "periodDiyanet": "Medine",
+ "periodOkuyan": "Medine",
+ "revelationTiming": "Nüzul yılı konusunda hicri 5. veya 6. yıl şeklinde farklı görüşler bulunmaktadır.",
+ "stationTitle": "İkisi de içinde: bozma da, arınma da.",
+ "introduction": "Münâfikûn suresi, adını ilk ayetinde geçen ve 'münafıklar' anlamına gelen kelimeden alır. Medine döneminde inen sure, 11 ayetten oluşur. Kur'an'ın 63. suresidir.\n\nSurenin ana ekseni, inançta samimiyetsizlik, ikiyüzlülük ve nifak psikolojisidir. Sure, münafıkların dış görünüşleri ile iç dünyaları arasındaki uçurumu gözler önüne serer. Onların yalan yere yemin etmelerini, korkaklıklarını ve müminlere karşı besledikleri gizli düşmanlığı deşifre eder.\n\nSurenin ilk bölümü (1-8. ayetler) münafıkların karakter analizine ayrılmıştır. İkinci bölümünde (9-11. ayetler) ise müminlere hitap edilerek, mal ve evlat sevgisinin insanı Allah'ı anmaktan alıkoymaması gerektiği vurgulanır. Ölüm gelmeden önce infak etmenin önemi hatırlatılır.",
+ "occasionOfRevelation": "Münâfikûn suresinin nüzul sebebi olarak kaynaklarda genellikle Benî Mustalik (Müreysî) Gazvesi sırasında yaşanan bir olay gösterilir. Bu gazvenin tarihi konusunda kaynaklarda hicri 5. veya 6. yıl şeklinde farklı görüşler bulunmaktadır.\n\nSefer dönüşünde bir su kuyusu başında, muhacirlerden biri ile ensardan biri arasında tartışma çıkar. Bu tartışmayı fırsat bilen münafıkların reisi Abdullah b. Übey b. Selûl, ensarı kışkırtarak muhacirler aleyhine ağır sözler söyler. 'Medine'ye dönersek güçlü olan zayıf olanı oradan çıkaracaktır' diyerek tehditler savurur.\n\nBu sözler Hz. Peygamber'e ulaşınca Abdullah b. Übey çağrılır, ancak o yemin ederek böyle bir şey söylemediğini iddia eder. Bunun üzerine Münâfikûn suresi nazil olarak onun ve diğer münafıkların yalancılığını ortaya çıkarır.",
+ "occasionSources": "TDV İslâm Ansiklopedisi, \"Münâfikūn Sûresi\" maddesi; Diyanet İşleri Başkanlığı Kur'an Yolu Tefsiri, Münâfikûn 1-8 ayet tefsiri; kuranokuyan.com, Münâfikûn suresi girişi (Prof. Dr. Mehmet Okuyan).",
+ "keyTerms": [
+  {
+   "term": "münâfık",
+   "arabic": "مُنَافِق",
+   "verseRef": "63:1",
+   "meaning": "İnanmadığı halde inanmış gibi görünen, içi dışı bir olmayan kimse. Ayette bu kimselerin yalancılığı vurgulanır."
+  },
+  {
+   "term": "cünne",
+   "arabic": "جُنَّة",
+   "verseRef": "63:2",
+   "meaning": "Kalkan, siper. Münafıkların yalan yere ettikleri yeminleri kendilerini korumak için bir kalkan olarak kullanmaları ifade edilir."
+  },
+  {
+   "term": "huşub",
+   "arabic": "خُشُب",
+   "verseRef": "63:4",
+   "meaning": "Kütükler, keresteler. Münafıkların dış görünüşlerinin gösterişli ama içlerinin boş ve ruhsuz olduğu benzetmesi yapılır."
+  },
+  {
+   "term": "infak",
+   "arabic": "اِنْفَاق",
+   "verseRef": "63:10",
+   "meaning": "Allah'ın verdiği rızıktan başkaları için harcamak. Surenin sonunda ölüm gelmeden önce yapılması gereken en önemli eylem olarak öne çıkarılır."
+  }
+ ],
+ "themes": [
+  {
+   "label": "İkiyüzlülüğün Yıkıcılığı",
+   "body": "İnsanın olduğu gibi görünmemesi, kendi gerçeğiyle yüzleşmekten kaçması onu içten içe çürütür. Nifak, sadece toplumsal bir sorun değil, aynı zamanda derin bir varoluşsal krizdir."
+  },
+  {
+   "label": "Sahip Olma Tutkusu",
+   "body": "Mal ve evlat gibi dünyevi bağlar, insanın asıl amacını unutturabilir. Bu bağların birer araç olmaktan çıkıp amaca dönüşmesi, insanın manevi körlüğüne yol açar."
+  },
+  {
+   "label": "Ertelenen İyilik",
+   "body": "İnsanın iyilik yapmayı, paylaşmayı sürekli yarına ertelemesi büyük bir yanılgıdır. Ölüm gerçeği karşısında son pişmanlık fayda vermez."
+  }
+ ],
+ "questions": [
+  "İnsanların benim hakkımdaki düşüncelerini yönetmek için, aslında inanmadığım veya hissetmediğim şeyleri savunuyormuş gibi davrandığım oluyor mu?",
+  "Sahip olduğum imkanları (zaman, bilgi, para) başkalarıyla paylaşmayı, 'ileride daha uygun bir zaman gelince yaparım' diyerek sürekli erteliyor muyum?"
+ ],
+ "contemporaryMeaning": "Bu sure, insanın en yorucu maskesi olan görünme arzusu ile kendi gerçeği arasındaki derin uçurumu deşifre eder. Mesele sadece bir inanç beyanı değil, kişinin içindeki boşluğu dışarıya yansıttığı sahte bir imajla doldurma çabasıdır. Dışarıdan kusursuz, kendinden emin ve hitabeti güçlü görünen ama içeriden korkuyla ve hesapçılıkla çürüyen bir insan tipolojisi merkeze alınır. Bu, insanın kendine söylediği yalanların zamanla kendi gerçeğine dönüşmesi krizidir.\n\nBugünün diliyle: sosyal medyada yaratılan kusursuz profiller, iş ağlarında sadece çıkar odaklı kurulan sahte dostluklar veya bir gruba ait hissetmek için benimsenmeyen fikirlerin hararetle savunulması, bu metnin işaret ettiği yarılmanın tam karşılığıdır. Kişi, başkalarının onayını almak ve statüsünü korumak için sürekli bir performans sergilerken kendi varoluşuna yabancılaşır. Ekranlardaki filtreli hayatlar veya toplantı odalarındaki stratejik gülümsemeler, insanın kendi hakikatinden kaçışının sahneleridir.\n\nBütün enerjisini biriktirmeye ve imajını parlatmaya harcayan insan, hayatın sonlu olduğu gerçeğiyle yüzleştiğinde büyük bir boşluğa düşer. \"Daha sonra yaparım\" diyerek ertelenen her iyilik, aslında insanın kendi sahiciliğini ertelemesidir. Metin, ölümün kesinliği karşısında tüm o özenle inşa edilmiş maskelerin ve biriktirilmiş statülerin hiçbir anlam ifade etmediği o keskin anı insanın yüzüne çarpar.",
+ "scholarlyNotes": [
+  {
+   "kind": "ihtilaf",
+   "body": "Surenin nüzulüne sebep olan Benî Mustalik Gazvesi'nin tarihi konusunda kaynaklarda farklılık vardır. Prof. Dr. Mehmet Okuyan hicri 5. yıl ihtimalini öne çıkarırken, TDV İslâm Ansiklopedisi İbn Kesîr'in tercihine dayanarak hicri 5 veya 6. yıl (626-627) olarak belirtmektedir.",
+   "label": "Nüzul Yılı İhtilafı"
+  },
+  {
+   "kind": "rivayet",
+   "body": "TDV İslâm Ansiklopedisi'nde belirtildiğine göre, bazı tefsir kaynaklarında yer alan 'Münâfikûn suresini okuyan kimse nifaktan uzak kalır' meâlindeki hadis mevzûdur (uydurmadır).",
+   "label": "Surenin Fazileti Hakkında Uydurma Rivayet"
+  }
+ ],
+ "verses": [
+  {
+   "verseNo": 1,
+   "textArabic": "بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ إِذَا جَآءَكَ ٱلْمُنَٰفِقُونَ قَالُوا۟ نَشْهَدُ إِنَّكَ لَرَسُولُ ٱللَّهِ ۗ وَٱللَّهُ يَعْلَمُ إِنَّكَ لَرَسُولُهُۥ وَٱللَّهُ يَشْهَدُ إِنَّ ٱلْمُنَٰفِقِينَ لَكَٰذِبُونَ"
+  },
+  {
+   "verseNo": 2,
+   "textArabic": "ٱتَّخَذُوٓا۟ أَيْمَٰنَهُمْ جُنَّةًۭ فَصَدُّوا۟ عَن سَبِيلِ ٱللَّهِ ۚ إِنَّهُمْ سَآءَ مَا كَانُوا۟ يَعْمَلُونَ"
+  },
+  {
+   "verseNo": 3,
+   "textArabic": "ذَٰلِكَ بِأَنَّهُمْ ءَامَنُوا۟ ثُمَّ كَفَرُوا۟ فَطُبِعَ عَلَىٰ قُلُوبِهِمْ فَهُمْ لَا يَفْقَهُونَ"
+  },
+  {
+   "verseNo": 4,
+   "textArabic": "۞ وَإِذَا رَأَيْتَهُمْ تُعْجِبُكَ أَجْسَامُهُمْ ۖ وَإِن يَقُولُوا۟ تَسْمَعْ لِقَوْلِهِمْ ۖ كَأَنَّهُمْ خُشُبٌۭ مُّسَنَّدَةٌۭ ۖ يَحْسَبُونَ كُلَّ صَيْحَةٍ عَلَيْهِمْ ۚ هُمُ ٱلْعَدُوُّ فَٱحْذَرْهُمْ ۚ قَٰتَلَهُمُ ٱللَّهُ ۖ أَنَّىٰ يُؤْفَكُونَ"
+  },
+  {
+   "verseNo": 5,
+   "textArabic": "وَإِذَا قِيلَ لَهُمْ تَعَالَوْا۟ يَسْتَغْفِرْ لَكُمْ رَسُولُ ٱللَّهِ لَوَّوْا۟ رُءُوسَهُمْ وَرَأَيْتَهُمْ يَصُدُّونَ وَهُم مُّسْتَكْبِرُونَ"
+  },
+  {
+   "verseNo": 6,
+   "textArabic": "سَوَآءٌ عَلَيْهِمْ أَسْتَغْفَرْتَ لَهُمْ أَمْ لَمْ تَسْتَغْفِرْ لَهُمْ لَن يَغْفِرَ ٱللَّهُ لَهُمْ ۚ إِنَّ ٱللَّهَ لَا يَهْدِى ٱلْقَوْمَ ٱلْفَٰسِقِينَ"
+  },
+  {
+   "verseNo": 7,
+   "textArabic": "هُمُ ٱلَّذِينَ يَقُولُونَ لَا تُنفِقُوا۟ عَلَىٰ مَنْ عِندَ رَسُولِ ٱللَّهِ حَتَّىٰ يَنفَضُّوا۟ ۗ وَلِلَّهِ خَزَآئِنُ ٱلسَّمَٰوَٰتِ وَٱلْأَرْضِ وَلَٰكِنَّ ٱلْمُنَٰفِقِينَ لَا يَفْقَهُونَ"
+  },
+  {
+   "verseNo": 8,
+   "textArabic": "يَقُولُونَ لَئِن رَّجَعْنَآ إِلَى ٱلْمَدِينَةِ لَيُخْرِجَنَّ ٱلْأَعَزُّ مِنْهَا ٱلْأَذَلَّ ۚ وَلِلَّهِ ٱلْعِزَّةُ وَلِرَسُولِهِۦ وَلِلْمُؤْمِنِينَ وَلَٰكِنَّ ٱلْمُنَٰفِقِينَ لَا يَعْلَمُونَ"
+  },
+  {
+   "verseNo": 9,
+   "textArabic": "يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ لَا تُلْهِكُمْ أَمْوَٰلُكُمْ وَلَآ أَوْلَٰدُكُمْ عَن ذِكْرِ ٱللَّهِ ۚ وَمَن يَفْعَلْ ذَٰلِكَ فَأُو۟لَٰٓئِكَ هُمُ ٱلْخَٰسِرُونَ"
+  },
+  {
+   "verseNo": 10,
+   "textArabic": "وَأَنفِقُوا۟ مِن مَّا رَزَقْنَٰكُم مِّن قَبْلِ أَن يَأْتِىَ أَحَدَكُمُ ٱلْمَوْتُ فَيَقُولَ رَبِّ لَوْلَآ أَخَّرْتَنِىٓ إِلَىٰٓ أَجَلٍۢ قَرِيبٍۢ فَأَصَّدَّقَ وَأَكُن مِّنَ ٱلصَّٰلِحِينَ"
+  },
+  {
+   "verseNo": 11,
+   "textArabic": "وَلَن يُؤَخِّرَ ٱللَّهُ نَفْسًا إِذَا جَآءَ أَجَلُهَا ۚ وَٱللَّهُ خَبِيرٌۢ بِمَا تَعْمَلُونَ"
+  }
+ ],
+ "translations": [
+  {
+   "verseNo": 1,
+   "source": "diyanet",
+   "text": "(Ey Muhammed!) Münafıklar sana geldiklerinde, \"Senin, elbette Allah'ın peygamberi olduğuna şahitlik ederiz\" derler. Allah senin, elbette kendisinin peygamberi olduğunu biliyor. (Fakat) Allah o münafıkların hiç şüphesiz yalancılar olduklarına elbette şahitlik eder."
+  },
+  {
+   "verseNo": 1,
+   "source": "okuyan",
+   "text": "Münafıklar sana geldiklerinde “Şahitlik ederiz ki şüphesiz sen Allah’ın Elçisisin!” derler. Allah senin elbette kendi elçisi olduğunu bilmektedir. Allah münafıkların yalancı olduklarına elbette şahittir."
+  },
+  {
+   "verseNo": 1,
+   "source": "islamoglu",
+   "text": "İKİYÜZLÜLER sana geldiklerinde, “Biz şahadet ederiz ki sen kesinlikle Allah’ın Rasulü’sün” derler. Allah da biliyor ki, gerçekten de sen O’nun Rasulü’sün; ama Allah şuna da şahadet eder ki, ikiyüzlüler kesinlikle yalancıdırlar."
+  },
+  {
+   "verseNo": 1,
+   "source": "esed",
+   "text": "İkiyüzlüler sana geldiklerinde: \"Senin gerçekten Allah´ın Elçisi olduğuna tanıklık ederiz!\" derler. Ama Allah, senin kendi elçisi olduğunu bilir; ve Allah, ikiyüzlülerin (inandık demelerinde) asla samimi olmadıklarına tanıklık eder"
+  },
+  {
+   "verseNo": 2,
+   "source": "diyanet",
+   "text": "Yeminlerini kalkan yaptılar da insanları Allah'ın yolundan çevirdiler. Gerçekten onların yaptıkları şey ne kötüdür!"
+  },
+  {
+   "verseNo": 2,
+   "source": "okuyan",
+   "text": "Yeminlerini kalkan (bahane) edinip Allah yolundan saptılar. Şüphesiz ki onların yaptıkları çok kötüdür!"
+  },
+  {
+   "verseNo": 2,
+   "source": "islamoglu",
+   "text": "Onlar yeminlerini kalkan yapıp (arkasına saklandılar), bu yolla Allah yolundan saptılar: Elbet yaptıkları şey pek fenadır."
+  },
+  {
+   "verseNo": 2,
+   "source": "esed",
+   "text": "Onlar yeminlerini (yalan ve sahtekarlıklarına) kalkan yapmakta ve böylece başkalarını Allah yolundan saptırmaktadırlar. Yaptıkları, gerçekten çok çirkindir"
+  },
+  {
+   "verseNo": 3,
+   "source": "diyanet",
+   "text": "Bu, onların önce iman edip sonra inkar etmeleri, bu yüzden de kalplerine mühür vurulması sebebiyledir. Artık onlar anlamazlar."
+  },
+  {
+   "verseNo": 3,
+   "source": "okuyan",
+   "text": "Bunun sebebi, onların önce iman et(tiklerini söyley)ip sonra inkâr etmeleridir. (Bu yüzden) kalpleri mühürlenmiştir. Artık (gerçeği) anlayamazlar."
+  },
+  {
+   "verseNo": 3,
+   "source": "islamoglu",
+   "text": "Bunun nedeni, onların önce iman edip sonra inkâr etmeleridir; sonunda kalplerine mühür vurulmuştur: artık onlar (imanın hakikatini) kavrayamazlar."
+  },
+  {
+   "verseNo": 3,
+   "source": "esed",
+   "text": "böyledir, çünkü onlar imana erdi(klerini iddia eder)ler, halbuki (içlerinde) hakikati inkar ederler ve böylece, kalplerine bir mühür vurulmuştur, artık (neyin doğru, neyin yanlış olduğunu) anlayamazlar"
+  },
+  {
+   "verseNo": 4,
+   "source": "diyanet",
+   "text": "Onları gördüğün zaman kalıpları hoşuna gider. Konuşurlarsa sözlerine kulak verirsin. Onlar sanki elbise giydirilmiş kereste gibidirler. Her kuvvetli sesi kendi aleyhlerine sanırlar. Onlar düşmandır, onlardan sakın! Allah onları kahretsin! Nasıl da (haktan) çevriliyorlar!"
+  },
+  {
+   "verseNo": 4,
+   "source": "okuyan",
+   "text": "Onları (münafıkları) gördüğün zaman görünüşleri hoşuna gider; konuşurlarsa sözlerini dinlersin. Onlar, sanki giydirilmiş kütükler gibidir. Her gürültüyü kendi aleyhlerine sanırlar. Onlar düşmandır. Onlardan sakın! Allah onları kahretsin! Nasıl da (gerçeklerden) döndürülüyorlar!"
+  },
+  {
+   "verseNo": 4,
+   "source": "islamoglu",
+   "text": "Onları gördüğünde kalıpları hoşuna gider; konuşacak olsalar sözlerine kulak verirsin: elbise giydirilmiş kalas gibidir onlar. Her çığlığı kendi aleyhlerine sanırlar; onlar kökten düşmandırlar: artık onlara karşı dikkatli ol! Allah kahretsin onları: Nasıl da savruluyorlar!"
+  },
+  {
+   "verseNo": 4,
+   "source": "esed",
+   "text": "Şimdi sen onları gördüğünde dış görünüşleri hoşuna gider; ve konuştuklarında ne söylediklerine kulak vermek istersin. Onlar, yere (sağlam şekilde) dikilmiş kütükler gibi (olduklarına emin görünseler de) her çığlığı kendilerine (yönelik) sanırlar. Onlar (bütün inançlara) düşmandırlar, öyleyse onlara karşı dikkatli ol. (Ve bedduayı hak ederler:) \"Allah onları kahretsin!\" Akılları nasıl da (hakikatten) sapıyor"
+  },
+  {
+   "verseNo": 5,
+   "source": "diyanet",
+   "text": "O münafıklara, \"Gelin, Allah'ın Resülü sizin için bağışlama dilesin\" denildiği zaman başlarını çevirirler ve sen onların büyüklük taslayarak uzaklaştıklarını görürsün."
+  },
+  {
+   "verseNo": 5,
+   "source": "okuyan",
+   "text": "Onlara “Gelin, Allah’ın Elçisi sizin için bağışlanma dilesin.” dendiği zaman başlarını çevirirler ve sen onların kibirlenerek yüz çevirdiklerini görürsün."
+  },
+  {
+   "verseNo": 5,
+   "source": "islamoglu",
+   "text": "Ve onlara: “Gelin, Rasulullah size mağfiret dilesin!” denildiğinde, başlarını çevirirler; ve sen onların küstahça bir kibir içinde çekip gittiklerini görürsün."
+  },
+  {
+   "verseNo": 5,
+   "source": "esed",
+   "text": "Çünkü onlara: \"Gelin, Allah´ın Elçisi bağışlanmanız için (Allah´a) dua edecek!\" dendiği zaman başlarını çevirirler ve sen onların sahte bir kibirle nasıl çekip gittiklerini görürsün"
+  },
+  {
+   "verseNo": 6,
+   "source": "diyanet",
+   "text": "Onlara bağışlama dilesen de, dilemesen de onlar için birdir. Allah onları asla bağışlamayacaktır. Çünkü Allah, fasıklar topluluğunu doğru yola iletmez."
+  },
+  {
+   "verseNo": 6,
+   "source": "okuyan",
+   "text": "Onlara (onlar için) bağışlanma dilesen de dilemesen de birdir. Allah onları asla ve asla bağışlamayacaktır. Şüphesiz ki Allah yoldan çıkanlar topluluğunu doğru yola ulaştırmaz."
+  },
+  {
+   "verseNo": 6,
+   "source": "islamoglu",
+   "text": "Onlar için mağfiret dilesen de mağfiret dilemesen de, hiçbir şey değişmez: Allah onları asla bağışlamayacaktır; çünkü Allah yoldan çıkmış bir topluluğa rehberliğini bahşetmez."
+  },
+  {
+   "verseNo": 6,
+   "source": "esed",
+   "text": "Onlar için bağışlanma dilemen ile dilememen aynıdır: Allah onları bağışlamayacaktır, çünkü Allah, böyle sapkın bir halka rehberliğini bahşetmez"
+  },
+  {
+   "verseNo": 7,
+   "source": "diyanet",
+   "text": "Onlar, \"Allah Resûlü'nün yanında bulunanlara (muhacirlere) bir şey vermeyin ki dağılıp gitsinler\" diyenlerdir. Halbuki göklerin ve yerin hazineleri Allah'ındır. Fakat münafıklar (bunu) anlamazlar."
+  },
+  {
+   "verseNo": 7,
+   "source": "okuyan",
+   "text": "Onlar “Allah’ın Elçisi’nin yanında bulunanlara infak etmeyin (vermeyin) ki dağılıp gitsinler!” diyenlerdir. Oysa göklerin ve yerin hazineleri yalnızca Allah’a aittir. Fakat münafıklar (bunu) anlamazlar."
+  },
+  {
+   "verseNo": 7,
+   "source": "islamoglu",
+   "text": "Onlar, “Rasulullah’ın yanındakilere yardımda bulunmayın ki (etrafından) dağılıp gitsinler” diyen kimselerdir. Bakın, göklerin ve yerin hazineleri Allah’a aittir; fakat münafıklar (bu gerçeği bile) kavramazlar."
+  },
+  {
+   "verseNo": 7,
+   "source": "esed",
+   "text": "Onlar, (hemşehrilerine): \"Allah´ın Elçisi ile birlikte olanlara hiçbir şey vermeyin ki belki o´nu terk et(mek zorunda kal)ırlar\" derler. Göklerin ve yerin hazineleri Allah´ındır ama bu gerçeği ikiyüzlüler kavrayamaz"
+  },
+  {
+   "verseNo": 8,
+   "source": "diyanet",
+   "text": "Onlar, \"Andolsun, eğer Medine'ye dönersek, üstün olan, zayıf olanı oradan mutlaka çıkaracaktır\" diyorlardı. Halbuki asıl üstünlük, ancak Allah'ın, Peygamberinin ve mü'minlerindir. Fakat münafıklar (bunu) bilmezler."
+  },
+  {
+   "verseNo": 8,
+   "source": "okuyan",
+   "text": "Onlar “Şüphesiz ki Medine’ye dönersek, üstün olan (taraf), zayıf olanı mutlaka oradan çıkaracaktır!” diyorlardı. (Oysa) itibar yalnızca Allah’a, Elçisine ve müminlere aittir fakat münafıklar (bunu da) bilmezler."
+  },
+  {
+   "verseNo": 8,
+   "source": "islamoglu",
+   "text": "Onlar “Şehre döndüğümüzde şerefli olan (biz)ler şerefsiz olanları oradan elbet sürüp çıkaracaktır” diyorlar. Ama şeref Allah’a, O’nun Rasulüne ve mü’minlere aittir: gel gör ki, ikiyüzlüler (bunu bile) bilmezler."
+  },
+  {
+   "verseNo": 8,
+   "source": "esed",
+   "text": "(Ve) onlar: \"Kente döndüğümüzde şan şeref sahibi olan (biz)ler, zavallı biçareleri oradan sürüp atacaktır!\" derler. Ama asıl şeref, Allah´a, O´nun Elçisi´ne ve inananlara aittir ama ikiyüzlüler bunun farkında değiller"
+  },
+  {
+   "verseNo": 9,
+   "source": "diyanet",
+   "text": "Ey iman edenler! Mallarınız ve evlatlarınız sizi, Allah'ı zikretmekten alıkoymasın. Her kim bunu yaparsa, işte onlar ziyana uğrayanların ta kendileridir."
+  },
+  {
+   "verseNo": 9,
+   "source": "okuyan",
+   "text": "Ey iman edenler! Mallarınız ve çocuklarınız, sizi Allah’ı hatırlamaktan alıkoymasın! Kim bunu yaparsa işte onlar kaybedenlerin ta kendileridir."
+  },
+  {
+   "verseNo": 9,
+   "source": "islamoglu",
+   "text": "SİZ ey iman edenler! Ne mallarınız ne de çocuklarınız, Allah’ı sizin gündeminizden düşürmesin. Kim bunu yaparsa, asıl kaybedenler bunlardır işte..."
+  },
+  {
+   "verseNo": 9,
+   "source": "esed",
+   "text": "Siz ey imana ermiş olanlar! Malınızın, mülkünüzün veya çocuklarınızın sizi Allah´ı anmaktan alıkoymasına izin vermeyin! Çünkü böyle davranan herkes ziyana uğrayanlardan olur"
+  },
+  {
+   "verseNo": 10,
+   "source": "diyanet",
+   "text": "Herhangi birinize ölüm gelip de, \"Ey Rabbim! Beni yakın bir zamana kadar geciktirsen de sadaka verip iyilerden olsam!\" demeden önce, size rızık olarak verdiğimiz şeylerden Allah yolunda harcayın."
+  },
+  {
+   "verseNo": 10,
+   "source": "okuyan",
+   "text": "“Rabbim! Beni yakın bir süreye kadar geciktirsen de sadaka verip iyilerden olsam!” diyecek şekilde herhangi birinize ölüm gelmesinden önce size verdiğimiz rızıktan dağıtın!"
+  },
+  {
+   "verseNo": 10,
+   "source": "islamoglu",
+   "text": "Sizden birine ölüm gelip de, “Rabbim! Bana bir miktar daha süre tanısaydın da ben de hayır hasenat yapıp iyilerden olsaydım!” diyeceği (o gün) gelip çatmadan önce, size rızık olarak verdiklerimizden bir kısmını infak edin!"
+  },
+  {
+   "verseNo": 10,
+   "source": "esed",
+   "text": "Birinize ölüm yaklaştığı ve \"Ey Rabbim! Bana bir mühlet tanısan da karşılıksız yardımda bulunup iyiler arasına girsem!\" diye (yalvara)cağı zaman gelip çatmadan önce size rızık olarak verdiğimizden harcayın"
+  },
+  {
+   "verseNo": 11,
+   "source": "diyanet",
+   "text": "Allah, eceli geldiğinde hiçbir kimseyi asla ertelemez. Allah bütün yaptıklarınızdan haberdardır."
+  },
+  {
+   "verseNo": 11,
+   "source": "okuyan",
+   "text": "Allah süresi geldiğinde kimseyi (ölümünü) asla ertelemez. Allah yaptıklarınızdan haberdardır."
+  },
+  {
+   "verseNo": 11,
+   "source": "islamoglu",
+   "text": "Ama vakti geldiği zaman, Allah hiçbir şahsı ertelemez. Sonuçta Allah yaptığınız her şeyden haberdardır."
+  },
+  {
+   "verseNo": 11,
+   "source": "esed",
+   "text": "Ama, vakti geldiğinde Allah hiçbir insana mühlet tanımaz; ve Allah bütün yaptıklarınızı tam olarak bilir"
+  },
+  {
+   "verseNo": 1,
+   "verseNoEnd": null,
+   "source": "ai",
+   "text": "İki yüzlüler sana geldiğinde, \"Senin Allah'ın elçisi olduğuna şehadet ederiz\" derler. Allah bilir ki sen O'nun elçisisin; ve Allah şahit olur ki iki yüzlüler yalancıdır."
+  },
+  {
+   "verseNo": 2,
+   "verseNoEnd": null,
+   "source": "ai",
+   "text": "Yeminlerini kendilerine kalkan yaptılar; böylece Allah yolundan başkalarını alıkoydular. Yaptıkları ne kötü işlerdir."
+  },
+  {
+   "verseNo": 3,
+   "verseNoEnd": null,
+   "source": "ai",
+   "text": "Bu, onların önce iman edip sonra inkâr etmeleri yüzündendir; kalplerinin üzerine mühür vuruldu; artık anlayamazlar."
+  },
+  {
+   "verseNo": 4,
+   "verseNoEnd": null,
+   "source": "ai",
+   "text": "Onları gördüğünde bedenleri sana hayranlık verir; konuşunca sözlerini dinlersin. Sanki dayalı duran keresteler gibidirler; her yüksek sesi kendilerine ait sanırlar. Onlar düşmandır; onlardan sakın. Allah onlarla savaşsın; nasıl alıkonulurlar."
+  },
+  {
+   "verseNo": 5,
+   "verseNoEnd": null,
+   "source": "ai",
+   "text": "Denildiğinde, \"Geliniz, Allah'ın elçisi sizin için bağışlanma dilesin\" başlarını çevirirler; onları alıkoyarken kibirlidirler."
+  },
+  {
+   "verseNo": 6,
+   "verseNoEnd": null,
+   "source": "ai",
+   "text": "Sen ister onlar için bağışlanma dile ister dileme, Allah onları affetmeyecektir. Şüphesiz Allah günahkâr topluluğu doğruya yöneltmez."
+  },
+  {
+   "verseNo": 7,
+   "verseNoEnd": null,
+   "source": "ai",
+   "text": "Onlar derler ki: \"Resûlullah'ın yanındakilere harcama yapmayın; ta ki onlar dağılıp gitsinler.\" Oysa göklerin ve yerin hazineleri Allah'ındır; ama iki yüzlüler anlamazlar."
+  },
+  {
+   "verseNo": 8,
+   "verseNoEnd": null,
+   "source": "ai",
+   "text": "Derler ki: \"Eğer Medine'ye dönersek, oradaki en güçlü kişi en zayıfı dışarı atacak.\" Oysa izzet Allah'ındır; Resûlüne ve müminlere aittir; fakat iki yüzlüler bilmezler."
+  },
+  {
+   "verseNo": 9,
+   "verseNoEnd": null,
+   "source": "ai",
+   "text": "Ey iman edenler! Mallarınız da çocuklarınız da sizi Allah'ı anmaktan alıkoymasın. Kim bunu yaparsa işte onlar kaybedenlerdir."
+  },
+  {
+   "verseNo": 10,
+   "verseNoEnd": null,
+   "source": "ai",
+   "text": "Size verdiğimiz rızktan harcayın; ölüm birinize gelmeden önce, \"Rabbim, neden beni kısa bir süre ertelemedin ki sadaka vereyim ve salihlerden olayım\" demeyesiniz."
+  },
+  {
+   "verseNo": 11,
+   "verseNoEnd": null,
+   "source": "ai",
+   "text": "Allah bir canın vakti geldiğinde onu asla geciktirmez; Allah yaptıklarınızı bilir."
+  }
+ ],
+ "aiParagraph": "Dış görünüşü etkileyici, sözleri akıcı, ağzından doğru şeyler çıkıyor — ama içinde bambaşka bir hesap dönüyor. Sure, bu insanı tanımakla başlıyor: yemini kalkan olarak kullanan, \"seni destekliyorum\" derken arkasını dönen, her yüksek sesi kendi aleyhine sanıp tetikte bekleyen biri. Duvara yaslanmış kütük gibi dimdik duran ama içi boş. Asıl ilginç olan, bu çatlağın nasıl oluştuğu: önce bir adım atılmış, sonra geri dönülmüş — ve o gidiş-geliş kalbi öyle bir noktaya getirmiş ki artık duymak istediği şeyi duymuyor. Yanlış olduğunu söyleyen biri karşısına çıktığında başını çeviriyor, çünkü kabul etmek çok ağır geliyor. Güçlünün zayıfı ezeceğini, paranın kesileceğinde dayanışmanın biteceğini hesaplıyor — hesabının ne kadar dar olduğunun farkında değil. Sure tam bu noktada yönünü değiştiriyor ve başka birine, kendi içinde bu çatışmayı yaşamayan birine sesleniyor: sevdiklerin ve biriktirdiklerin seni öyle meşgul edebilir ki en önemli şeyi, tam da yapman gerektiği anda erteleyebilirsin. Ve o erteleme için \"biraz daha zaman ver, bu sefer gerçekten yapacağım\" diyeceğin an, belki hiç gelmeyecek."
 }

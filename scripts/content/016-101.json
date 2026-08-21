@@ -1,401 +1,401 @@
 {
-  "stationNo": 16,
-  "surahNo": 101,
-  "nuzulOrderOkuyan": 22,
-  "name": "Kâri'a",
-  "nameArabic": "القارعة",
-  "nameMeaning": "Çarpan, kapıyı çalan",
-  "verseCount": 11,
-  "periodDiyanet": "Mekke",
-  "periodOkuyan": "Mekke",
-  "revelationTiming": "Mekke dönemi",
-  "stationTitle": "Terazi kurulduğunda ağırlığı olan şey, biriktirdiğin değil yaptığındır.",
-  "introduction": "Kâri'a suresi, adını birinci ayetteki \"el-Kâri'a\" kelimesinden alır; çarpan, kapıyı çalan, sarsan demektir. On bir ayetlik sure Mekke döneminde inmiştir.\n\nSure bir soru-cevap yapısı kurar: \"Kâri'a nedir? Kâri'anın ne olduğunu sana bildiren nedir?\" Ardından insanların savrulan kelebekler, dağların atılmış yün gibi olacağı bildirilir. Kapanışta terazi imgesi gelir: tartısı ağır gelen ile hafif gelen karşılaştırılır.",
-  "occasionOfRevelation": "Sure Mekke döneminde, ahiret fikrinin reddedildiği bir ortamda inmiştir. Nüzulüne dair belirli bir olay anlatısı yoktur.\n\nSurenin retorik yapısı dikkat çekicidir: kelimeyi söyler, sonra \"o nedir?\" diye sorar, sonra \"onun ne olduğunu sana ne bildirdi?\" diye tekrar sorar. Bu üç aşamalı yapı, anlatılan şeyin bilinen kavramlarla tam olarak karşılanamayacağını ima eder.\n\nKapanıştaki terazi (mevâzîn) imgesi, cahiliye Arap toplumunun aşina olduğu ticarî bir araçtan alınmıştır. Ticaretle geçinen bir topluma, kendi terazilerinin diliyle konuşur: ölçülecek olan mal değil eylemdir.",
-  "occasionSources": "Diyanet İşleri Başkanlığı Kur'an Yolu Tefsiri, Kâri'a suresi girişi; TDV İslâm Ansiklopedisi, \"Kâria Sûresi\" maddesi.",
-  "contemporaryMeaning": "Surenin merkezindeki imge terazidir ve teraziye konan şey açıkça belirtilir: ameller. Ölçülen ne servet, ne unvan, ne mensubiyettir.\n\n\"Savrulan kelebekler\" benzetmesi ise insanın kolektif hâlini anlatır: dağınık, yönsüz, rüzgârın götürdüğü yere giden bir kalabalık. Bugünün diliyle, kendi yönünü kurmayan insanın akıntıyla taşınması.\n\nDikkat çekici olan, ağırlık kavramıdır. Sure \"çok\" demez, \"ağır\" der. Nicelik değil yoğunluk ölçülür. Az sayıda ama sahici eylem, çok sayıda gösterişli işten ağır gelebilir.",
-  "keyTerms": [
-    {
-      "term": "el-kâri'a",
-      "arabic": "الْقَارِعَة",
-      "verseRef": "101:1",
-      "meaning": "Çarpan, vuran, kapıyı çalan, sarsan. Kıyametin adlarından biri; ani ve sarsıcı gelişi imler."
-    },
-    {
-      "term": "el-feraşi'l-mebsûs",
-      "arabic": "الْفَرَاشِ الْمَبْثُوث",
-      "verseRef": "101:4",
-      "meaning": "Savrulan, dağılmış kelebekler. Yönünü kaybetmiş kalabalığın imgesi."
-    },
-    {
-      "term": "el-ihni'l-menfûş",
-      "arabic": "الْعِهْنِ الْمَنفُوش",
-      "verseRef": "101:5",
-      "meaning": "Atılmış, didiklenmiş yün. Dağların ağırlığını yitirmesini anlatan benzetme."
-    },
-    {
-      "term": "mevâzîn",
-      "arabic": "مَوَازِينُهُ",
-      "verseRef": "101:6",
-      "meaning": "Teraziler, tartılar. Ölçülen şeyin ameller olduğu bildirilir; ölçü nicelik değil ağırlıktır."
-    }
-  ],
-  "themes": [
-    {
-      "label": "Teraziye konan şey: eylem",
-      "body": "Ölçülen ne servet ne unvan ne mensubiyettir. Sure teraziye doğrudan amelleri koyar."
-    },
-    {
-      "label": "Ağırlık, çokluk değil",
-      "body": "Metin \"çok\" demez \"ağır\" der. Az sayıda ama sahici bir eylem, çok sayıda gösterişli işten ağır gelebilir."
-    },
-    {
-      "label": "Savrulan kalabalık",
-      "body": "İnsanlar dağılmış kelebekler gibi tasvir edilir: yönsüz, rüzgârın götürdüğü yere giden. Kendi yönünü kurmayanın hâli."
-    },
-    {
-      "label": "Anlatılamayanı anlatmak",
-      "body": "Sure kelimeyi söyler, sonra iki kez \"o nedir?\" diye sorar. Bu yapı, anlatılanın bilinen kavramlarla tam karşılanamadığını ima eder."
-    }
-  ],
-  "questions": [
-    "Hayatımı bir teraziye koysam, ağırlığı olan şeyler hangileri? Biriktirdiklerim mi, yaptıklarım mı?",
-    "Yaptığım işlerin çokluğuyla mı övünüyorum, yoksa birkaç işin sahiciliğiyle mi?",
-    "Kendi yönümü mü belirliyorum, yoksa çevremin akıntısıyla mı taşınıyorum?"
-  ],
-  "verses": [
-    {
-      "verseNo": 1,
-      "textArabic": "بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ ٱلْقَارِعَةُ"
-    },
-    {
-      "verseNo": 2,
-      "textArabic": "مَا ٱلْقَارِعَةُ"
-    },
-    {
-      "verseNo": 3,
-      "textArabic": "وَمَآ أَدْرَىٰكَ مَا ٱلْقَارِعَةُ"
-    },
-    {
-      "verseNo": 4,
-      "textArabic": "يَوْمَ يَكُونُ ٱلنَّاسُ كَٱلْفَرَاشِ ٱلْمَبْثُوثِ"
-    },
-    {
-      "verseNo": 5,
-      "textArabic": "وَتَكُونُ ٱلْجِبَالُ كَٱلْعِهْنِ ٱلْمَنفُوشِ"
-    },
-    {
-      "verseNo": 6,
-      "textArabic": "فَأَمَّا مَن ثَقُلَتْ مَوَٰزِينُهُۥ"
-    },
-    {
-      "verseNo": 7,
-      "textArabic": "فَهُوَ فِى عِيشَةٍۢ رَّاضِيَةٍۢ"
-    },
-    {
-      "verseNo": 8,
-      "textArabic": "وَأَمَّا مَنْ خَفَّتْ مَوَٰزِينُهُۥ"
-    },
-    {
-      "verseNo": 9,
-      "textArabic": "فَأُمُّهُۥ هَاوِيَةٌۭ"
-    },
-    {
-      "verseNo": 10,
-      "textArabic": "وَمَآ أَدْرَىٰكَ مَا هِيَهْ"
-    },
-    {
-      "verseNo": 11,
-      "textArabic": "نَارٌ حَامِيَةٌۢ"
-    }
-  ],
-  "translations": [
-    {
-      "verseNo": 1,
-      "verseNoEnd": null,
-      "source": "ai",
-      "text": "Büyük sarsıntı"
-    },
-    {
-      "verseNo": 1,
-      "source": "diyanet",
-      "text": "Yürekleri hoplatan büyük felaket!"
-    },
-    {
-      "verseNo": 1,
-      "source": "esed",
-      "text": "Ah! Apansız (gelen) bir bela"
-    },
-    {
-      "verseNo": 1,
-      "source": "islamoglu",
-      "text": "AH o korkunç fâcia!"
-    },
-    {
-      "verseNo": 1,
-      "source": "okuyan",
-      "text": "Büyük çarpma!"
-    },
-    {
-      "verseNo": 2,
-      "verseNoEnd": null,
-      "source": "ai",
-      "text": "Büyük sarsıntı nedir?"
-    },
-    {
-      "verseNo": 2,
-      "source": "diyanet",
-      "text": "Nedir o yürekleri hoplatan büyük felaket?"
-    },
-    {
-      "verseNo": 2,
-      "source": "esed",
-      "text": "Ne korkunçtur apansız (gelen) bela"
-    },
-    {
-      "verseNo": 2,
-      "source": "islamoglu",
-      "text": "(Bir bilsen ey muhatap) o ne korkunç bir fâciadır!"
-    },
-    {
-      "verseNo": 2,
-      "source": "okuyan",
-      "text": "Nedir o büyük çarpma!"
-    },
-    {
-      "verseNo": 3,
-      "verseNoEnd": null,
-      "source": "ai",
-      "text": "Peki sen ne bilirsin o nedir?"
-    },
-    {
-      "verseNo": 3,
-      "source": "diyanet",
-      "text": "Yürekleri hoplatan büyük felaketin ne olduğunu sen ne bileceksin?"
-    },
-    {
-      "verseNo": 3,
-      "source": "esed",
-      "text": "Bilir misin nedir, nasıl olacaktır o apansız bela"
-    },
-    {
-      "verseNo": 3,
-      "source": "islamoglu",
-      "text": "Sahi, sen nereden bileceksin korkunç fâcianın ne olduğunu?"
-    },
-    {
-      "verseNo": 3,
-      "source": "okuyan",
-      "text": "O büyük çarpmanın ne olduğunu sana bildiren ne olabilir ki!"
-    },
-    {
-      "verseNo": 4,
-      "verseNoEnd": null,
-      "source": "ai",
-      "text": "O gün insanlar saçılıp savrulmuş kelebekler gibi olacaklar."
-    },
-    {
-      "verseNo": 4,
-      "source": "diyanet",
-      "text": "O gün insanlar, her biri bir tarafa uçuşan küçük kelebekler gibi olacaktır."
-    },
-    {
-      "verseNo": 4,
-      "source": "esed",
-      "text": "(O,) insanların şaşkın vaziyette uçuşan pervanelere benzeyeceği Gün"
-    },
-    {
-      "verseNo": 4,
-      "source": "islamoglu",
-      "text": "O gün insanlar, sereserpe yerlere saçılmış (kavruk) pervane sineklerini andıracak;"
-    },
-    {
-      "verseNo": 4,
-      "source": "okuyan",
-      "text": "O gün insanlar (dört bir yana) yayılmış pervaneler gibi olurlar."
-    },
-    {
-      "verseNo": 5,
-      "verseNoEnd": null,
-      "source": "ai",
-      "text": "Dağlar kabarmış tiftik gibi olacaklar."
-    },
-    {
-      "verseNo": 5,
-      "source": "diyanet",
-      "text": "Dağlar da atılmış renkli yünler gibi olacaktır."
-    },
-    {
-      "verseNo": 5,
-      "source": "esed",
-      "text": "ve dağların yumuşak yün topaklarını andıracağı Gün (vuku bulacaktır)"
-    },
-    {
-      "verseNo": 5,
-      "source": "islamoglu",
-      "text": "dağlar ise, dört bir yana dağılmış pamukları çağrıştıracak."
-    },
-    {
-      "verseNo": 5,
-      "source": "okuyan",
-      "text": "Dağlar da atılmış yün gibi olur."
-    },
-    {
-      "verseNo": 6,
-      "verseNoEnd": null,
-      "source": "ai",
-      "text": "Ağırlıkları ağır olan kimse ise,"
-    },
-    {
-      "verseNo": 6,
-      "source": "diyanet",
-      "text": "İşte o vakit, kimin tartıları ağır gelmişse,"
-    },
-    {
-      "verseNo": 6,
-      "source": "esed",
-      "text": "O zaman, (iyiliklerinin) tartısı ağır basan"
-    },
-    {
-      "verseNo": 6,
-      "source": "islamoglu",
-      "text": "İyilikleri ağır gelen kimseye gelince:"
-    },
-    {
-      "verseNo": 6,
-      "source": "okuyan",
-      "text": "Tera­zi(de sevap)ları ağır gelen kişi,"
-    },
-    {
-      "verseNo": 7,
-      "verseNoEnd": null,
-      "source": "ai",
-      "text": "O, hoşnut bir hayat içinde olacaktır."
-    },
-    {
-      "verseNo": 7,
-      "source": "diyanet",
-      "text": "Artık o, hoşnut olacağı bir hayat içinde olacaktır."
-    },
-    {
-      "verseNo": 7,
-      "source": "esed",
-      "text": "kendisini mutlu bir hayat içinde bulacak"
-    },
-    {
-      "verseNo": 7,
-      "source": "islamoglu",
-      "text": "o kendisini, hoşnut olduğu tarifsiz güzellikte bir hayatın içinde bulacak;"
-    },
-    {
-      "verseNo": 7,
-      "source": "okuyan",
-      "text": "Memnun olacağı bir hayat içinde (olacak)tır."
-    },
-    {
-      "verseNo": 8,
-      "verseNoEnd": null,
-      "source": "ai",
-      "text": "Ağırlıkları hafif olan kimse ise,"
-    },
-    {
-      "verseNo": 8,
-      "source": "diyanet",
-      "text": "Ama kimin de tartıları hafif gelirse,"
-    },
-    {
-      "verseNo": 8,
-      "source": "esed",
-      "text": "tartısı hafif gelen ise"
-    },
-    {
-      "verseNo": 8,
-      "source": "islamoglu",
-      "text": "iyilikleri hafif gelen kimseye gelince:"
-    },
-    {
-      "verseNo": 8,
-      "source": "okuyan",
-      "text": "8,9. Terazi(de sevap)ları hafif olana gelince, işte onun anası (yeri) [Hâviye]’dir."
-    },
-    {
-      "verseNo": 9,
-      "verseNoEnd": null,
-      "source": "ai",
-      "text": "Onun yeri bir çukur olacaktır."
-    },
-    {
-      "verseNo": 9,
-      "source": "diyanet",
-      "text": "İşte onun anası (varacağı yer) Hâviye'dir."
-    },
-    {
-      "verseNo": 9,
-      "source": "esed",
-      "text": "bir uçurumun girdabına sürüklenecektir"
-    },
-    {
-      "verseNo": 9,
-      "source": "islamoglu",
-      "text": "o da dipsiz bir uçurumun bağrına yuvarlanacak."
-    },
-    {
-      "verseNo": 9,
-      "source": "okuyan",
-      "text": "8,9. Terazi(de sevap)ları hafif olana gelince, işte onun anası (yeri) [Hâviye]’dir."
-    },
-    {
-      "verseNo": 10,
-      "verseNoEnd": null,
-      "source": "ai",
-      "text": "Peki sen ne bilirsin o nedir?"
-    },
-    {
-      "verseNo": 10,
-      "source": "diyanet",
-      "text": "Sen Hâviye'nin ne olduğunu ne bileceksin?"
-    },
-    {
-      "verseNo": 10,
-      "source": "esed",
-      "text": "Bilir misin nedir o (uçurum)"
-    },
-    {
-      "verseNo": 10,
-      "source": "islamoglu",
-      "text": "Sahi, sen nereden bileceksin o nedir?"
-    },
-    {
-      "verseNo": 10,
-      "source": "okuyan",
-      "text": "Onun ne olduğunu sana bildiren ne olabilir ki!"
-    },
-    {
-      "verseNo": 11,
-      "verseNoEnd": null,
-      "source": "ai",
-      "text": "Kavurucu bir ateş."
-    },
-    {
-      "verseNo": 11,
-      "source": "diyanet",
-      "text": "O, kızgın bir ateştir."
-    },
-    {
-      "verseNo": 11,
-      "source": "esed",
-      "text": "Dağlayan bir ateş"
-    },
-    {
-      "verseNo": 11,
-      "source": "islamoglu",
-      "text": "O, tarifsiz yakan bir özge ateştir."
-    },
-    {
-      "verseNo": 11,
-      "source": "okuyan",
-      "text": "(O), kızgın bir ateş(tir)!"
-    }
-  ],
-  "aiParagraph": "Hayatın içinde her şey o kadar yerli yerinde durur ki — dağlar bile hep orada olmuştur, hep orada olacakmış gibi görünür. Ama bu sure tam da bu \"hep böyle kalacak\" hissini hedef alır: öyle bir sarsıntıdan söz eder ki o sarsıntının adını koymak bile güçtür, metin bunu üç kez sorar — bu nedir, sen bunu gerçekten kavrayabiliyor musun? O anda insanlar, dağınık bir kalabalık içinde yönünü yitirmiş küçük varlıklara dönüşür; dağlar ise taranmış yün gibi uçuşup gider — yani kalıcı sandığın her şey, sağlam zannettğin her zemin. Sonra metin iki tablo çizer, sade ve keskin: ağır gelen bir yaşam, hafif gelen bir düşüş. Ağırlık burada erdem mi, eylem mi, niyet mi — metin bunu tartışmaz, tartının kendisini gösterir yalnızca. Asıl soru şu kalır insanın içinde: Şu an taşıdıklarım, o terazide ne kadar yer tutar?"
+ "stationNo": 16,
+ "surahNo": 101,
+ "nuzulOrderOkuyan": 22,
+ "name": "Kâri'a",
+ "nameArabic": "القارعة",
+ "nameMeaning": "Çarpan, kapıyı çalan",
+ "verseCount": 11,
+ "periodDiyanet": "Mekke",
+ "periodOkuyan": "Mekke",
+ "revelationTiming": "Mekke dönemi",
+ "stationTitle": "Terazi kurulduğunda ağırlığı olan şey, biriktirdiğin değil yaptığındır.",
+ "introduction": "Kâri'a suresi, adını birinci ayetteki \"el-Kâri'a\" kelimesinden alır; çarpan, kapıyı çalan, sarsan demektir. On bir ayetlik sure Mekke döneminde inmiştir.\n\nSure bir soru-cevap yapısı kurar: \"Kâri'a nedir? Kâri'anın ne olduğunu sana bildiren nedir?\" Ardından insanların savrulan kelebekler, dağların atılmış yün gibi olacağı bildirilir. Kapanışta terazi imgesi gelir: tartısı ağır gelen ile hafif gelen karşılaştırılır.",
+ "occasionOfRevelation": "Sure Mekke döneminde, ahiret fikrinin reddedildiği bir ortamda inmiştir. Nüzulüne dair belirli bir olay anlatısı yoktur.\n\nSurenin retorik yapısı dikkat çekicidir: kelimeyi söyler, sonra \"o nedir?\" diye sorar, sonra \"onun ne olduğunu sana ne bildirdi?\" diye tekrar sorar. Bu üç aşamalı yapı, anlatılan şeyin bilinen kavramlarla tam olarak karşılanamayacağını ima eder.\n\nKapanıştaki terazi (mevâzîn) imgesi, cahiliye Arap toplumunun aşina olduğu ticarî bir araçtan alınmıştır. Ticaretle geçinen bir topluma, kendi terazilerinin diliyle konuşur: ölçülecek olan mal değil eylemdir.",
+ "occasionSources": "Diyanet İşleri Başkanlığı Kur'an Yolu Tefsiri, Kâri'a suresi girişi; TDV İslâm Ansiklopedisi, \"Kâria Sûresi\" maddesi.",
+ "contemporaryMeaning": "Surenin merkezindeki imge terazidir ve teraziye konan şey açıkça belirtilir: ameller. Ölçülen ne servet, ne unvan, ne mensubiyettir.\n\n\"Savrulan kelebekler\" benzetmesi ise insanın kolektif hâlini anlatır: dağınık, yönsüz, rüzgârın götürdüğü yere giden bir kalabalık. Bugünün diliyle, kendi yönünü kurmayan insanın akıntıyla taşınması.\n\nDikkat çekici olan, ağırlık kavramıdır. Sure \"çok\" demez, \"ağır\" der. Nicelik değil yoğunluk ölçülür. Az sayıda ama sahici eylem, çok sayıda gösterişli işten ağır gelebilir.",
+ "keyTerms": [
+  {
+   "term": "el-kâri'a",
+   "arabic": "الْقَارِعَة",
+   "verseRef": "101:1",
+   "meaning": "Çarpan, vuran, kapıyı çalan, sarsan. Kıyametin adlarından biri; ani ve sarsıcı gelişi imler."
+  },
+  {
+   "term": "el-feraşi'l-mebsûs",
+   "arabic": "الْفَرَاشِ الْمَبْثُوث",
+   "verseRef": "101:4",
+   "meaning": "Savrulan, dağılmış kelebekler. Yönünü kaybetmiş kalabalığın imgesi."
+  },
+  {
+   "term": "el-ihni'l-menfûş",
+   "arabic": "الْعِهْنِ الْمَنفُوش",
+   "verseRef": "101:5",
+   "meaning": "Atılmış, didiklenmiş yün. Dağların ağırlığını yitirmesini anlatan benzetme."
+  },
+  {
+   "term": "mevâzîn",
+   "arabic": "مَوَازِينُهُ",
+   "verseRef": "101:6",
+   "meaning": "Teraziler, tartılar. Ölçülen şeyin ameller olduğu bildirilir; ölçü nicelik değil ağırlıktır."
+  }
+ ],
+ "themes": [
+  {
+   "label": "Teraziye konan şey: eylem",
+   "body": "Ölçülen ne servet ne unvan ne mensubiyettir. Sure teraziye doğrudan amelleri koyar."
+  },
+  {
+   "label": "Ağırlık, çokluk değil",
+   "body": "Metin \"çok\" demez \"ağır\" der. Az sayıda ama sahici bir eylem, çok sayıda gösterişli işten ağır gelebilir."
+  },
+  {
+   "label": "Savrulan kalabalık",
+   "body": "İnsanlar dağılmış kelebekler gibi tasvir edilir: yönsüz, rüzgârın götürdüğü yere giden. Kendi yönünü kurmayanın hâli."
+  },
+  {
+   "label": "Anlatılamayanı anlatmak",
+   "body": "Sure kelimeyi söyler, sonra iki kez \"o nedir?\" diye sorar. Bu yapı, anlatılanın bilinen kavramlarla tam karşılanamadığını ima eder."
+  }
+ ],
+ "questions": [
+  "Hayatımı bir teraziye koysam, ağırlığı olan şeyler hangileri? Biriktirdiklerim mi, yaptıklarım mı?",
+  "Yaptığım işlerin çokluğuyla mı övünüyorum, yoksa birkaç işin sahiciliğiyle mi?",
+  "Kendi yönümü mü belirliyorum, yoksa çevremin akıntısıyla mı taşınıyorum?"
+ ],
+ "verses": [
+  {
+   "verseNo": 1,
+   "textArabic": "بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ ٱلْقَارِعَةُ"
+  },
+  {
+   "verseNo": 2,
+   "textArabic": "مَا ٱلْقَارِعَةُ"
+  },
+  {
+   "verseNo": 3,
+   "textArabic": "وَمَآ أَدْرَىٰكَ مَا ٱلْقَارِعَةُ"
+  },
+  {
+   "verseNo": 4,
+   "textArabic": "يَوْمَ يَكُونُ ٱلنَّاسُ كَٱلْفَرَاشِ ٱلْمَبْثُوثِ"
+  },
+  {
+   "verseNo": 5,
+   "textArabic": "وَتَكُونُ ٱلْجِبَالُ كَٱلْعِهْنِ ٱلْمَنفُوشِ"
+  },
+  {
+   "verseNo": 6,
+   "textArabic": "فَأَمَّا مَن ثَقُلَتْ مَوَٰزِينُهُۥ"
+  },
+  {
+   "verseNo": 7,
+   "textArabic": "فَهُوَ فِى عِيشَةٍۢ رَّاضِيَةٍۢ"
+  },
+  {
+   "verseNo": 8,
+   "textArabic": "وَأَمَّا مَنْ خَفَّتْ مَوَٰزِينُهُۥ"
+  },
+  {
+   "verseNo": 9,
+   "textArabic": "فَأُمُّهُۥ هَاوِيَةٌۭ"
+  },
+  {
+   "verseNo": 10,
+   "textArabic": "وَمَآ أَدْرَىٰكَ مَا هِيَهْ"
+  },
+  {
+   "verseNo": 11,
+   "textArabic": "نَارٌ حَامِيَةٌۢ"
+  }
+ ],
+ "translations": [
+  {
+   "verseNo": 1,
+   "source": "diyanet",
+   "text": "Yürekleri hoplatan büyük felaket!"
+  },
+  {
+   "verseNo": 1,
+   "source": "islamoglu",
+   "text": "AH o korkunç fâcia!"
+  },
+  {
+   "verseNo": 1,
+   "source": "esed",
+   "text": "Ah! Apansız (gelen) bir bela"
+  },
+  {
+   "verseNo": 1,
+   "source": "okuyan",
+   "text": "Büyük çarpma!"
+  },
+  {
+   "verseNo": 2,
+   "source": "diyanet",
+   "text": "Nedir o yürekleri hoplatan büyük felaket?"
+  },
+  {
+   "verseNo": 2,
+   "source": "islamoglu",
+   "text": "(Bir bilsen ey muhatap) o ne korkunç bir fâciadır!"
+  },
+  {
+   "verseNo": 2,
+   "source": "esed",
+   "text": "Ne korkunçtur apansız (gelen) bela"
+  },
+  {
+   "verseNo": 2,
+   "source": "okuyan",
+   "text": "Nedir o büyük çarpma!"
+  },
+  {
+   "verseNo": 3,
+   "source": "diyanet",
+   "text": "Yürekleri hoplatan büyük felaketin ne olduğunu sen ne bileceksin?"
+  },
+  {
+   "verseNo": 3,
+   "source": "islamoglu",
+   "text": "Sahi, sen nereden bileceksin korkunç fâcianın ne olduğunu?"
+  },
+  {
+   "verseNo": 3,
+   "source": "esed",
+   "text": "Bilir misin nedir, nasıl olacaktır o apansız bela"
+  },
+  {
+   "verseNo": 3,
+   "source": "okuyan",
+   "text": "O büyük çarpmanın ne olduğunu sana bildiren ne olabilir ki!"
+  },
+  {
+   "verseNo": 4,
+   "source": "diyanet",
+   "text": "O gün insanlar, her biri bir tarafa uçuşan küçük kelebekler gibi olacaktır."
+  },
+  {
+   "verseNo": 4,
+   "source": "islamoglu",
+   "text": "O gün insanlar, sereserpe yerlere saçılmış (kavruk) pervane sineklerini andıracak;"
+  },
+  {
+   "verseNo": 4,
+   "source": "esed",
+   "text": "(O,) insanların şaşkın vaziyette uçuşan pervanelere benzeyeceği Gün"
+  },
+  {
+   "verseNo": 4,
+   "source": "okuyan",
+   "text": "O gün insanlar (dört bir yana) yayılmış pervaneler gibi olurlar."
+  },
+  {
+   "verseNo": 5,
+   "source": "diyanet",
+   "text": "Dağlar da atılmış renkli yünler gibi olacaktır."
+  },
+  {
+   "verseNo": 5,
+   "source": "islamoglu",
+   "text": "dağlar ise, dört bir yana dağılmış pamukları çağrıştıracak."
+  },
+  {
+   "verseNo": 5,
+   "source": "esed",
+   "text": "ve dağların yumuşak yün topaklarını andıracağı Gün (vuku bulacaktır)"
+  },
+  {
+   "verseNo": 5,
+   "source": "okuyan",
+   "text": "Dağlar da atılmış yün gibi olur."
+  },
+  {
+   "verseNo": 6,
+   "source": "diyanet",
+   "text": "İşte o vakit, kimin tartıları ağır gelmişse,"
+  },
+  {
+   "verseNo": 6,
+   "source": "islamoglu",
+   "text": "İyilikleri ağır gelen kimseye gelince:"
+  },
+  {
+   "verseNo": 6,
+   "source": "esed",
+   "text": "O zaman, (iyiliklerinin) tartısı ağır basan"
+  },
+  {
+   "verseNo": 6,
+   "source": "okuyan",
+   "text": "Tera­zi(de sevap)ları ağır gelen kişi,"
+  },
+  {
+   "verseNo": 7,
+   "source": "diyanet",
+   "text": "Artık o, hoşnut olacağı bir hayat içinde olacaktır."
+  },
+  {
+   "verseNo": 7,
+   "source": "islamoglu",
+   "text": "o kendisini, hoşnut olduğu tarifsiz güzellikte bir hayatın içinde bulacak;"
+  },
+  {
+   "verseNo": 7,
+   "source": "esed",
+   "text": "kendisini mutlu bir hayat içinde bulacak"
+  },
+  {
+   "verseNo": 7,
+   "source": "okuyan",
+   "text": "Memnun olacağı bir hayat içinde (olacak)tır."
+  },
+  {
+   "verseNo": 8,
+   "source": "diyanet",
+   "text": "Ama kimin de tartıları hafif gelirse,"
+  },
+  {
+   "verseNo": 8,
+   "source": "islamoglu",
+   "text": "iyilikleri hafif gelen kimseye gelince:"
+  },
+  {
+   "verseNo": 8,
+   "source": "esed",
+   "text": "tartısı hafif gelen ise"
+  },
+  {
+   "verseNo": 8,
+   "source": "okuyan",
+   "text": "8,9. Terazi(de sevap)ları hafif olana gelince, işte onun anası (yeri) [Hâviye]’dir."
+  },
+  {
+   "verseNo": 9,
+   "source": "diyanet",
+   "text": "İşte onun anası (varacağı yer) Hâviye'dir."
+  },
+  {
+   "verseNo": 9,
+   "source": "islamoglu",
+   "text": "o da dipsiz bir uçurumun bağrına yuvarlanacak."
+  },
+  {
+   "verseNo": 9,
+   "source": "esed",
+   "text": "bir uçurumun girdabına sürüklenecektir"
+  },
+  {
+   "verseNo": 9,
+   "source": "okuyan",
+   "text": "8,9. Terazi(de sevap)ları hafif olana gelince, işte onun anası (yeri) [Hâviye]’dir."
+  },
+  {
+   "verseNo": 10,
+   "source": "diyanet",
+   "text": "Sen Hâviye'nin ne olduğunu ne bileceksin?"
+  },
+  {
+   "verseNo": 10,
+   "source": "islamoglu",
+   "text": "Sahi, sen nereden bileceksin o nedir?"
+  },
+  {
+   "verseNo": 10,
+   "source": "esed",
+   "text": "Bilir misin nedir o (uçurum)"
+  },
+  {
+   "verseNo": 10,
+   "source": "okuyan",
+   "text": "Onun ne olduğunu sana bildiren ne olabilir ki!"
+  },
+  {
+   "verseNo": 11,
+   "source": "diyanet",
+   "text": "O, kızgın bir ateştir."
+  },
+  {
+   "verseNo": 11,
+   "source": "islamoglu",
+   "text": "O, tarifsiz yakan bir özge ateştir."
+  },
+  {
+   "verseNo": 11,
+   "source": "esed",
+   "text": "Dağlayan bir ateş"
+  },
+  {
+   "verseNo": 11,
+   "source": "okuyan",
+   "text": "(O), kızgın bir ateş(tir)!"
+  },
+  {
+   "verseNo": 1,
+   "verseNoEnd": null,
+   "source": "ai",
+   "text": "Büyük sarsıntı"
+  },
+  {
+   "verseNo": 2,
+   "verseNoEnd": null,
+   "source": "ai",
+   "text": "Büyük sarsıntı nedir?"
+  },
+  {
+   "verseNo": 3,
+   "verseNoEnd": null,
+   "source": "ai",
+   "text": "Peki sen ne bilirsin o nedir?"
+  },
+  {
+   "verseNo": 4,
+   "verseNoEnd": null,
+   "source": "ai",
+   "text": "O gün insanlar saçılıp savrulmuş kelebekler gibi olacaklar."
+  },
+  {
+   "verseNo": 5,
+   "verseNoEnd": null,
+   "source": "ai",
+   "text": "Dağlar kabarmış tiftik gibi olacaklar."
+  },
+  {
+   "verseNo": 6,
+   "verseNoEnd": null,
+   "source": "ai",
+   "text": "Ağırlıkları ağır olan kimse ise,"
+  },
+  {
+   "verseNo": 7,
+   "verseNoEnd": null,
+   "source": "ai",
+   "text": "O, hoşnut bir hayat içinde olacaktır."
+  },
+  {
+   "verseNo": 8,
+   "verseNoEnd": null,
+   "source": "ai",
+   "text": "Ağırlıkları hafif olan kimse ise,"
+  },
+  {
+   "verseNo": 9,
+   "verseNoEnd": null,
+   "source": "ai",
+   "text": "Onun yeri bir çukur olacaktır."
+  },
+  {
+   "verseNo": 10,
+   "verseNoEnd": null,
+   "source": "ai",
+   "text": "Peki sen ne bilirsin o nedir?"
+  },
+  {
+   "verseNo": 11,
+   "verseNoEnd": null,
+   "source": "ai",
+   "text": "Kavurucu bir ateş."
+  }
+ ],
+ "aiParagraph": "Hayatın içinde her şey o kadar yerli yerinde durur ki — dağlar bile hep orada olmuştur, hep orada olacakmış gibi görünür. Ama bu sure tam da bu \"hep böyle kalacak\" hissini hedef alır: öyle bir sarsıntıdan söz eder ki o sarsıntının adını koymak bile güçtür, metin bunu üç kez sorar — bu nedir, sen bunu gerçekten kavrayabiliyor musun? O anda insanlar, dağınık bir kalabalık içinde yönünü yitirmiş küçük varlıklara dönüşür; dağlar ise taranmış yün gibi uçuşup gider — yani kalıcı sandığın her şey, sağlam zannettğin her zemin. Sonra metin iki tablo çizer, sade ve keskin: ağır gelen bir yaşam, hafif gelen bir düşüş. Ağırlık burada erdem mi, eylem mi, niyet mi — metin bunu tartışmaz, tartının kendisini gösterir yalnızca. Asıl soru şu kalır insanın içinde: Şu an taşıdıklarım, o terazide ne kadar yer tutar?"
 }

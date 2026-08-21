@@ -1,341 +1,341 @@
 {
-  "stationNo": 19,
-  "surahNo": 104,
-  "nuzulOrderOkuyan": 34,
-  "name": "Hümeze",
-  "nameArabic": "الهمزة",
-  "nameMeaning": "Arkadan çekiştiren, insanı kıran",
-  "verseCount": 9,
-  "periodDiyanet": "Mekke",
-  "periodOkuyan": "Mekke",
-  "revelationTiming": "Mekke dönemi",
-  "stationTitle": "İnsanı arkadan çekiştirmek ve mal biriktirmek aynı surede anılır: ikisi de insanı kırar.",
-  "introduction": "Hümeze suresi, adını birinci ayetteki \"hümeze\" kelimesinden alır; arkadan çekiştiren, insanı kıran, ayıplayan demektir. Dokuz ayetlik sure Mekke döneminde inmiştir.\n\nSure iki davranışı bir arada anar: insanları arkadan çekiştirmek (hümeze, lümeze) ve mal biriktirip sayarak onu bir ölümsüzlük garantisi sanmak. Kapanışta \"hutame\" adı verilen bir ateş tasviri gelir; kelime kırıp parçalayan anlamındadır.",
-  "occasionOfRevelation": "Sure Mekke döneminde inmiştir. Nüzul kaynakları, servetiyle övünüp yeni çağrının mensuplarını alay konusu eden Mekkeli kişilere işaret eden rivayetler nakleder; metin isim vermez.\n\nSurenin kurgusundaki bağlantı dikkat çekicidir. Birinci ayet insan kırmayı, ikinci ayet mal biriktirmeyi anar. Aradaki bağ üçüncü ayette açıklanır: biriktiren kişi malının kendisini \"ebedî kılacağını\" sanır. Servetin verdiği dokunulmazlık duygusu, başkasını aşağılayabilme cesaretinin kaynağı olarak gösterilir.\n\nKapanıştaki \"hutame\" kelimesi de bu çizgiyi tamamlar: insanları kıran kişi, kıran bir yere düşer. Metin bir simetri kurar.",
-  "occasionSources": "Diyanet İşleri Başkanlığı Kur'an Yolu Tefsiri, Hümeze suresi girişi; TDV İslâm Ansiklopedisi, \"Hümeze Sûresi\" maddesi.",
-  "contemporaryMeaning": "Surenin kurduğu bağ bugün de geçerlidir: insanı küçümseme cesareti genellikle bir güvence duygusundan doğar. Konumu, geliri ya da çevresi sağlam olan kişi, başkasını aşağılamanın bedelini ödemeyeceğini hesaplar.\n\n\"Hümeze\" ve \"lümeze\" kelimeleri hem söz hem işaretle yapılan aşağılamayı kapsar — arkadan konuşmak, kaş göz hareketiyle alay etmek, imalı bir cümle. Bugünün diliyle: alaycı bir yorum, bir ekran görüntüsü, bir grup sohbetinde geçen tek bir cümle.\n\nÜçüncü ayet ise servetin psikolojisini teşhis eder: malı sayıp durmak, ölümü uzaklaştırdığı hissini verir. Biriktirmek burada bir güvenlik illüzyonu olarak okunur.",
-  "keyTerms": [
-    {
-      "term": "hümeze",
-      "arabic": "هُمَزَة",
-      "verseRef": "104:1",
-      "meaning": "Arkadan çekiştiren, kıran, ayıplayan. Sözle yapılan aşağılamayı ifade eder."
-    },
-    {
-      "term": "lümeze",
-      "arabic": "لُمَزَة",
-      "verseRef": "104:1",
-      "meaning": "İşaret ve imayla alay eden, göz kaş hareketiyle küçümseyen. Sözsüz aşağılama."
-    },
-    {
-      "term": "ahlede",
-      "arabic": "أَخْلَدَهُ",
-      "verseRef": "104:3",
-      "meaning": "Onu ebedî kıldı, ölümsüzleştirdi. Servetin verdiği yanlış güvenlik duygusu."
-    },
-    {
-      "term": "el-hutame",
-      "arabic": "الْحُطَمَة",
-      "verseRef": "104:4",
-      "meaning": "Kırıp parçalayan. Ateşin adı; insanları kıranın kırılan yere düşmesiyle kurulan simetri."
-    }
-  ],
-  "themes": [
-    {
-      "label": "Aşağılama, güvence duygusundan doğar",
-      "body": "Sure insan kırmayı ve mal biriktirmeyi yan yana anar. Bağ üçüncü ayette kurulur: servet dokunulmazlık hissi verir, o his küçümseme cesareti üretir."
-    },
-    {
-      "label": "Sözlü ve sözsüz küçümseme",
-      "body": "\"Hümeze\" sözle, \"lümeze\" işaretle yapılan aşağılamadır. Metin, imalı bir bakışı da hesaba katar."
-    },
-    {
-      "label": "Biriktirmenin illüzyonu",
-      "body": "Malı sayıp durmak, ölümü uzaklaştırdığı hissini verir. Sure bunu bir güvenlik yanılsaması olarak teşhis eder."
-    },
-    {
-      "label": "Kuran kırılır",
-      "body": "Kıran kişi için \"hutame\" — kıran şey — anılır. Metin bir simetri kurar; yapılan şey aynı biçimde döner."
-    }
-  ],
-  "questions": [
-    "Son bir haftada birini arkasından küçümsedim mi? Sözle mi, ima ve bakışla mı?",
-    "Aşağıladığım kişiyle aramda bir güç farkı var mıydı? O fark beni cesaretlendirdi mi?",
-    "Biriktirdiklerim bana ne kadar güvende olduğum hissini veriyor? Bu his gerçekçi mi?"
-  ],
-  "verses": [
-    {
-      "verseNo": 1,
-      "textArabic": "بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ وَيْلٌۭ لِّكُلِّ هُمَزَةٍۢ لُّمَزَةٍ"
-    },
-    {
-      "verseNo": 2,
-      "textArabic": "ٱلَّذِى جَمَعَ مَالًۭا وَعَدَّدَهُۥ"
-    },
-    {
-      "verseNo": 3,
-      "textArabic": "يَحْسَبُ أَنَّ مَالَهُۥٓ أَخْلَدَهُۥ"
-    },
-    {
-      "verseNo": 4,
-      "textArabic": "كَلَّا ۖ لَيُنۢبَذَنَّ فِى ٱلْحُطَمَةِ"
-    },
-    {
-      "verseNo": 5,
-      "textArabic": "وَمَآ أَدْرَىٰكَ مَا ٱلْحُطَمَةُ"
-    },
-    {
-      "verseNo": 6,
-      "textArabic": "نَارُ ٱللَّهِ ٱلْمُوقَدَةُ"
-    },
-    {
-      "verseNo": 7,
-      "textArabic": "ٱلَّتِى تَطَّلِعُ عَلَى ٱلْأَفْـِٔدَةِ"
-    },
-    {
-      "verseNo": 8,
-      "textArabic": "إِنَّهَا عَلَيْهِم مُّؤْصَدَةٌۭ"
-    },
-    {
-      "verseNo": 9,
-      "textArabic": "فِى عَمَدٍۢ مُّمَدَّدَةٍۭ"
-    }
-  ],
-  "translations": [
-    {
-      "verseNo": 1,
-      "verseNoEnd": null,
-      "source": "ai",
-      "text": "Yazık olsun her dil uzatıp çekiştiren, her kötüleyip karalayan kimseye."
-    },
-    {
-      "verseNo": 1,
-      "source": "diyanet",
-      "text": "Andolsun zamana ki, insan gerçekten ziyan içindedir."
-    },
-    {
-      "verseNo": 1,
-      "source": "esed",
-      "text": "Vay haline iftira atanın ve ayıp kusur arayanın"
-    },
-    {
-      "verseNo": 1,
-      "source": "islamoglu",
-      "text": "GİZLİ-açık, arkadan-önden sürekli iftira atıp kara çalan, çekiştirip ayıp kusur arayan herkese yazıklar olsun!"
-    },
-    {
-      "verseNo": 1,
-      "source": "okuyan",
-      "text": "(Arkadan) çekiştiren (ve) kusur arayan herkese yazıklar olsun!"
-    },
-    {
-      "verseNo": 2,
-      "verseNoEnd": null,
-      "source": "ai",
-      "text": "Mal biriktiren ve onu sayan."
-    },
-    {
-      "verseNo": 2,
-      "source": "diyanet",
-      "text": "Andolsun zamana ki, insan gerçekten ziyan içindedir."
-    },
-    {
-      "verseNo": 2,
-      "source": "esed",
-      "text": "(Vay haline o kişinin) ki, serveti biriktirir ve onu bir kalkan sayar"
-    },
-    {
-      "verseNo": 2,
-      "source": "islamoglu",
-      "text": "Mal yığan ve onu sayıp duran işte bu tiptir;"
-    },
-    {
-      "verseNo": 2,
-      "source": "okuyan",
-      "text": "O ki mal biriktirir ve onu sayar durur."
-    },
-    {
-      "verseNo": 3,
-      "verseNoEnd": null,
-      "source": "ai",
-      "text": "Malının onu ebedî kılacağını sanıyor."
-    },
-    {
-      "verseNo": 3,
-      "source": "diyanet",
-      "text": "Ancak, iman edip de sâlih ameller işleyenler, birbirlerine hakkı tavsiye edenler, birbirlerine sabrı tavsiye edenler başka (Onlar ziyanda değillerdir)."
-    },
-    {
-      "verseNo": 3,
-      "source": "esed",
-      "text": "zanneder ki serveti onu sonsuza dek yaşatacak"
-    },
-    {
-      "verseNo": 3,
-      "source": "islamoglu",
-      "text": "o, malının kendisini ölümsüz yapacağını sanmaktadır."
-    },
-    {
-      "verseNo": 3,
-      "source": "okuyan",
-      "text": "Şüphesiz ki o, malının kendisini ebedî kılacağını sanır."
-    },
-    {
-      "verseNo": 4,
-      "verseNoEnd": null,
-      "source": "ai",
-      "text": "Hayır; o, mutlaka paramparça eden ateşe atılacaktır."
-    },
-    {
-      "verseNo": 4,
-      "source": "diyanet",
-      "text": "Hayır! Andolsun ki o, Hutâme'ye atılacaktır."
-    },
-    {
-      "verseNo": 4,
-      "source": "esed",
-      "text": "Hayır, tersine, (öteki dünyada) çökerten bir azaba terk edilecektir o"
-    },
-    {
-      "verseNo": 4,
-      "source": "islamoglu",
-      "text": "Hayır, aksine o kırıp geçiren ve iliklere işleyen bir ateşin dibine savurulacak."
-    },
-    {
-      "verseNo": 4,
-      "source": "okuyan",
-      "text": "Hayır! Şüphesiz ki o, [Hutame]’ye atılacaktır."
-    },
-    {
-      "verseNo": 5,
-      "verseNoEnd": null,
-      "source": "ai",
-      "text": "Peki sana paramparça eden ateşin ne olduğunu kim bildirdi?"
-    },
-    {
-      "verseNo": 5,
-      "source": "diyanet",
-      "text": "Hutame'nin ne olduğunu sen ne bileceksin?"
-    },
-    {
-      "verseNo": 5,
-      "source": "esed",
-      "text": "Bilir misin nedir o çökerten azap"
-    },
-    {
-      "verseNo": 5,
-      "source": "islamoglu",
-      "text": "Sahi sen nereden bileceksin kırıp geçiren ateş nedir?"
-    },
-    {
-      "verseNo": 5,
-      "source": "okuyan",
-      "text": "[Hutame]’nin ne olduğunu sana bildiren ne olabilir ki!"
-    },
-    {
-      "verseNo": 6,
-      "verseNoEnd": null,
-      "source": "ai",
-      "text": "Allah'ın tutuşturduğu ateştir."
-    },
-    {
-      "verseNo": 6,
-      "source": "diyanet",
-      "text": "O, Allah'ın, yüreklere işleyen tutuşturulmuş ateşidir."
-    },
-    {
-      "verseNo": 6,
-      "source": "esed",
-      "text": "Allah tarafından tutuşturulan bir ateş"
-    },
-    {
-      "verseNo": 6,
-      "source": "islamoglu",
-      "text": "O Allah’ın tutuşturulmuş ateşidir."
-    },
-    {
-      "verseNo": 6,
-      "source": "okuyan",
-      "text": "(O), Allah’ın tutuşturulmuş ateşidir."
-    },
-    {
-      "verseNo": 7,
-      "verseNoEnd": null,
-      "source": "ai",
-      "text": "O ateş kalplere ulaşır."
-    },
-    {
-      "verseNo": 7,
-      "source": "diyanet",
-      "text": "O, Allah'ın, yüreklere işleyen tutuşturulmuş ateşidir."
-    },
-    {
-      "verseNo": 7,
-      "source": "esed",
-      "text": "(günahkar) kalplerin üstünde yükselen"
-    },
-    {
-      "verseNo": 7,
-      "source": "islamoglu",
-      "text": "O öyle bir ateştir ki, bütün bir iç dünyalarını kaplayarak yükselir:"
-    },
-    {
-      "verseNo": 7,
-      "source": "okuyan",
-      "text": "O (ateş) ki kalplerin üzerinde yükselir."
-    },
-    {
-      "verseNo": 8,
-      "verseNoEnd": null,
-      "source": "ai",
-      "text": "Şüphesiz o ateş üzerlerine kapatılmıştır."
-    },
-    {
-      "verseNo": 8,
-      "source": "diyanet",
-      "text": "Şüphesiz uzatılmış direkler arasında (bağlı oldukları halde) ateş onların üzerine kapatılacaktır."
-    },
-    {
-      "verseNo": 8,
-      "source": "esed",
-      "text": "üzerlerine salınacak (bir ateş)"
-    },
-    {
-      "verseNo": 8,
-      "source": "islamoglu",
-      "text": "İşte o ateş onların üzerine güdümlenmiştir;"
-    },
-    {
-      "verseNo": 8,
-      "source": "okuyan",
-      "text": "8,9. Şüphesiz ki o (ateş), uzatılmış sütunlarda onların üzerine kapatılıp kilitlenmiş (olacak)tır."
-    },
-    {
-      "verseNo": 9,
-      "verseNoEnd": null,
-      "source": "ai",
-      "text": "Uzatılmış direkler üzerindedir."
-    },
-    {
-      "verseNo": 9,
-      "source": "diyanet",
-      "text": "Şüphesiz uzatılmış direkler arasında (bağlı oldukları halde) ateş onların üzerine kapatılacaktır."
-    },
-    {
-      "verseNo": 9,
-      "source": "esed",
-      "text": "sonsuz sütunlar arasında"
-    },
-    {
-      "verseNo": 9,
-      "source": "islamoglu",
-      "text": "uzayıp giden parmaklıklar arasında (kendi zindanlarına mahkûm olacaklardır)."
-    },
-    {
-      "verseNo": 9,
-      "source": "okuyan",
-      "text": "8,9. Şüphesiz ki o (ateş), uzatılmış sütunlarda onların üzerine kapatılıp kilitlenmiş (olacak)tır."
-    }
-  ],
-  "aiParagraph": "Birini küçümsemenin ne kadar az şey gerektirdiğini hepimiz biliriz: bir bakış, yarım bırakılmış bir cümle, arkadan söylenen bir söz. Metin tam da bu ikiliyle açılıyor — hemz ve lemz — biri yüzle, biri arkadan yapılan küçümseme. Ve bu küçümsemenin hemen yanına, neredeyse aynı nefeste, bir şeyi biriktirip saymayı yerleştiriyor: mal toplamak, onu defalarca saymak, adeta onu sayarak teselli bulmak. İki şey arasındaki bağ tesadüf değil; elindekini bilen, onu defalarca sayan adam, başkasını küçük görmeye de hazır hâle geliyor. Asıl yara ise şu cümlede: o mal onu ölümsüz kılacakmış gibi davranıyor. \"Kılacakmış gibi\" değil, metinde fiil geçmiş zamanda — sanki o ölümsüzlük zaten gerçekleşmiş, adam buna inanmış ve ona göre yaşıyor. Sonra metin sert bir \"hayır\" kesiyor bu inancı; ve ardından gelen tasvir, cezanın mekânını değil, tam olarak neye dokunduğunu anlatıyor: kalplere ulaşan, içten yakan bir şey. Dışarıdan değil, tam ortadan. İnsan kendi biriktirdiklerinin ve başkasına bakışının kendisini içten nasıl kemirdiğini belki de en son fark eder."
+ "stationNo": 19,
+ "surahNo": 104,
+ "nuzulOrderOkuyan": 34,
+ "name": "Hümeze",
+ "nameArabic": "الهمزة",
+ "nameMeaning": "Arkadan çekiştiren, insanı kıran",
+ "verseCount": 9,
+ "periodDiyanet": "Mekke",
+ "periodOkuyan": "Mekke",
+ "revelationTiming": "Mekke dönemi",
+ "stationTitle": "İnsanı arkadan çekiştirmek ve mal biriktirmek aynı surede anılır: ikisi de insanı kırar.",
+ "introduction": "Hümeze suresi, adını birinci ayetteki \"hümeze\" kelimesinden alır; arkadan çekiştiren, insanı kıran, ayıplayan demektir. Dokuz ayetlik sure Mekke döneminde inmiştir.\n\nSure iki davranışı bir arada anar: insanları arkadan çekiştirmek (hümeze, lümeze) ve mal biriktirip sayarak onu bir ölümsüzlük garantisi sanmak. Kapanışta \"hutame\" adı verilen bir ateş tasviri gelir; kelime kırıp parçalayan anlamındadır.",
+ "occasionOfRevelation": "Sure Mekke döneminde inmiştir. Nüzul kaynakları, servetiyle övünüp yeni çağrının mensuplarını alay konusu eden Mekkeli kişilere işaret eden rivayetler nakleder; metin isim vermez.\n\nSurenin kurgusundaki bağlantı dikkat çekicidir. Birinci ayet insan kırmayı, ikinci ayet mal biriktirmeyi anar. Aradaki bağ üçüncü ayette açıklanır: biriktiren kişi malının kendisini \"ebedî kılacağını\" sanır. Servetin verdiği dokunulmazlık duygusu, başkasını aşağılayabilme cesaretinin kaynağı olarak gösterilir.\n\nKapanıştaki \"hutame\" kelimesi de bu çizgiyi tamamlar: insanları kıran kişi, kıran bir yere düşer. Metin bir simetri kurar.",
+ "occasionSources": "Diyanet İşleri Başkanlığı Kur'an Yolu Tefsiri, Hümeze suresi girişi; TDV İslâm Ansiklopedisi, \"Hümeze Sûresi\" maddesi.",
+ "contemporaryMeaning": "Surenin kurduğu bağ bugün de geçerlidir: insanı küçümseme cesareti genellikle bir güvence duygusundan doğar. Konumu, geliri ya da çevresi sağlam olan kişi, başkasını aşağılamanın bedelini ödemeyeceğini hesaplar.\n\n\"Hümeze\" ve \"lümeze\" kelimeleri hem söz hem işaretle yapılan aşağılamayı kapsar — arkadan konuşmak, kaş göz hareketiyle alay etmek, imalı bir cümle. Bugünün diliyle: alaycı bir yorum, bir ekran görüntüsü, bir grup sohbetinde geçen tek bir cümle.\n\nÜçüncü ayet ise servetin psikolojisini teşhis eder: malı sayıp durmak, ölümü uzaklaştırdığı hissini verir. Biriktirmek burada bir güvenlik illüzyonu olarak okunur.",
+ "keyTerms": [
+  {
+   "term": "hümeze",
+   "arabic": "هُمَزَة",
+   "verseRef": "104:1",
+   "meaning": "Arkadan çekiştiren, kıran, ayıplayan. Sözle yapılan aşağılamayı ifade eder."
+  },
+  {
+   "term": "lümeze",
+   "arabic": "لُمَزَة",
+   "verseRef": "104:1",
+   "meaning": "İşaret ve imayla alay eden, göz kaş hareketiyle küçümseyen. Sözsüz aşağılama."
+  },
+  {
+   "term": "ahlede",
+   "arabic": "أَخْلَدَهُ",
+   "verseRef": "104:3",
+   "meaning": "Onu ebedî kıldı, ölümsüzleştirdi. Servetin verdiği yanlış güvenlik duygusu."
+  },
+  {
+   "term": "el-hutame",
+   "arabic": "الْحُطَمَة",
+   "verseRef": "104:4",
+   "meaning": "Kırıp parçalayan. Ateşin adı; insanları kıranın kırılan yere düşmesiyle kurulan simetri."
+  }
+ ],
+ "themes": [
+  {
+   "label": "Aşağılama, güvence duygusundan doğar",
+   "body": "Sure insan kırmayı ve mal biriktirmeyi yan yana anar. Bağ üçüncü ayette kurulur: servet dokunulmazlık hissi verir, o his küçümseme cesareti üretir."
+  },
+  {
+   "label": "Sözlü ve sözsüz küçümseme",
+   "body": "\"Hümeze\" sözle, \"lümeze\" işaretle yapılan aşağılamadır. Metin, imalı bir bakışı da hesaba katar."
+  },
+  {
+   "label": "Biriktirmenin illüzyonu",
+   "body": "Malı sayıp durmak, ölümü uzaklaştırdığı hissini verir. Sure bunu bir güvenlik yanılsaması olarak teşhis eder."
+  },
+  {
+   "label": "Kuran kırılır",
+   "body": "Kıran kişi için \"hutame\" — kıran şey — anılır. Metin bir simetri kurar; yapılan şey aynı biçimde döner."
+  }
+ ],
+ "questions": [
+  "Son bir haftada birini arkasından küçümsedim mi? Sözle mi, ima ve bakışla mı?",
+  "Aşağıladığım kişiyle aramda bir güç farkı var mıydı? O fark beni cesaretlendirdi mi?",
+  "Biriktirdiklerim bana ne kadar güvende olduğum hissini veriyor? Bu his gerçekçi mi?"
+ ],
+ "verses": [
+  {
+   "verseNo": 1,
+   "textArabic": "بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ وَيْلٌۭ لِّكُلِّ هُمَزَةٍۢ لُّمَزَةٍ"
+  },
+  {
+   "verseNo": 2,
+   "textArabic": "ٱلَّذِى جَمَعَ مَالًۭا وَعَدَّدَهُۥ"
+  },
+  {
+   "verseNo": 3,
+   "textArabic": "يَحْسَبُ أَنَّ مَالَهُۥٓ أَخْلَدَهُۥ"
+  },
+  {
+   "verseNo": 4,
+   "textArabic": "كَلَّا ۖ لَيُنۢبَذَنَّ فِى ٱلْحُطَمَةِ"
+  },
+  {
+   "verseNo": 5,
+   "textArabic": "وَمَآ أَدْرَىٰكَ مَا ٱلْحُطَمَةُ"
+  },
+  {
+   "verseNo": 6,
+   "textArabic": "نَارُ ٱللَّهِ ٱلْمُوقَدَةُ"
+  },
+  {
+   "verseNo": 7,
+   "textArabic": "ٱلَّتِى تَطَّلِعُ عَلَى ٱلْأَفْـِٔدَةِ"
+  },
+  {
+   "verseNo": 8,
+   "textArabic": "إِنَّهَا عَلَيْهِم مُّؤْصَدَةٌۭ"
+  },
+  {
+   "verseNo": 9,
+   "textArabic": "فِى عَمَدٍۢ مُّمَدَّدَةٍۭ"
+  }
+ ],
+ "translations": [
+  {
+   "verseNo": 1,
+   "source": "diyanet",
+   "text": "Andolsun zamana ki, insan gerçekten ziyan içindedir."
+  },
+  {
+   "verseNo": 1,
+   "source": "islamoglu",
+   "text": "GİZLİ-açık, arkadan-önden sürekli iftira atıp kara çalan, çekiştirip ayıp kusur arayan herkese yazıklar olsun!"
+  },
+  {
+   "verseNo": 1,
+   "source": "esed",
+   "text": "Vay haline iftira atanın ve ayıp kusur arayanın"
+  },
+  {
+   "verseNo": 1,
+   "source": "okuyan",
+   "text": "(Arkadan) çekiştiren (ve) kusur arayan herkese yazıklar olsun!"
+  },
+  {
+   "verseNo": 2,
+   "source": "diyanet",
+   "text": "Andolsun zamana ki, insan gerçekten ziyan içindedir."
+  },
+  {
+   "verseNo": 2,
+   "source": "islamoglu",
+   "text": "Mal yığan ve onu sayıp duran işte bu tiptir;"
+  },
+  {
+   "verseNo": 2,
+   "source": "esed",
+   "text": "(Vay haline o kişinin) ki, serveti biriktirir ve onu bir kalkan sayar"
+  },
+  {
+   "verseNo": 2,
+   "source": "okuyan",
+   "text": "O ki mal biriktirir ve onu sayar durur."
+  },
+  {
+   "verseNo": 3,
+   "source": "diyanet",
+   "text": "Ancak, iman edip de sâlih ameller işleyenler, birbirlerine hakkı tavsiye edenler, birbirlerine sabrı tavsiye edenler başka (Onlar ziyanda değillerdir)."
+  },
+  {
+   "verseNo": 3,
+   "source": "islamoglu",
+   "text": "o, malının kendisini ölümsüz yapacağını sanmaktadır."
+  },
+  {
+   "verseNo": 3,
+   "source": "esed",
+   "text": "zanneder ki serveti onu sonsuza dek yaşatacak"
+  },
+  {
+   "verseNo": 3,
+   "source": "okuyan",
+   "text": "Şüphesiz ki o, malının kendisini ebedî kılacağını sanır."
+  },
+  {
+   "verseNo": 4,
+   "source": "diyanet",
+   "text": "Hayır! Andolsun ki o, Hutâme'ye atılacaktır."
+  },
+  {
+   "verseNo": 4,
+   "source": "islamoglu",
+   "text": "Hayır, aksine o kırıp geçiren ve iliklere işleyen bir ateşin dibine savurulacak."
+  },
+  {
+   "verseNo": 4,
+   "source": "esed",
+   "text": "Hayır, tersine, (öteki dünyada) çökerten bir azaba terk edilecektir o"
+  },
+  {
+   "verseNo": 4,
+   "source": "okuyan",
+   "text": "Hayır! Şüphesiz ki o, [Hutame]’ye atılacaktır."
+  },
+  {
+   "verseNo": 5,
+   "source": "diyanet",
+   "text": "Hutame'nin ne olduğunu sen ne bileceksin?"
+  },
+  {
+   "verseNo": 5,
+   "source": "islamoglu",
+   "text": "Sahi sen nereden bileceksin kırıp geçiren ateş nedir?"
+  },
+  {
+   "verseNo": 5,
+   "source": "esed",
+   "text": "Bilir misin nedir o çökerten azap"
+  },
+  {
+   "verseNo": 5,
+   "source": "okuyan",
+   "text": "[Hutame]’nin ne olduğunu sana bildiren ne olabilir ki!"
+  },
+  {
+   "verseNo": 6,
+   "source": "diyanet",
+   "text": "O, Allah'ın, yüreklere işleyen tutuşturulmuş ateşidir."
+  },
+  {
+   "verseNo": 6,
+   "source": "islamoglu",
+   "text": "O Allah’ın tutuşturulmuş ateşidir."
+  },
+  {
+   "verseNo": 6,
+   "source": "esed",
+   "text": "Allah tarafından tutuşturulan bir ateş"
+  },
+  {
+   "verseNo": 6,
+   "source": "okuyan",
+   "text": "(O), Allah’ın tutuşturulmuş ateşidir."
+  },
+  {
+   "verseNo": 7,
+   "source": "diyanet",
+   "text": "O, Allah'ın, yüreklere işleyen tutuşturulmuş ateşidir."
+  },
+  {
+   "verseNo": 7,
+   "source": "islamoglu",
+   "text": "O öyle bir ateştir ki, bütün bir iç dünyalarını kaplayarak yükselir:"
+  },
+  {
+   "verseNo": 7,
+   "source": "esed",
+   "text": "(günahkar) kalplerin üstünde yükselen"
+  },
+  {
+   "verseNo": 7,
+   "source": "okuyan",
+   "text": "O (ateş) ki kalplerin üzerinde yükselir."
+  },
+  {
+   "verseNo": 8,
+   "source": "diyanet",
+   "text": "Şüphesiz uzatılmış direkler arasında (bağlı oldukları halde) ateş onların üzerine kapatılacaktır."
+  },
+  {
+   "verseNo": 8,
+   "source": "islamoglu",
+   "text": "İşte o ateş onların üzerine güdümlenmiştir;"
+  },
+  {
+   "verseNo": 8,
+   "source": "esed",
+   "text": "üzerlerine salınacak (bir ateş)"
+  },
+  {
+   "verseNo": 8,
+   "source": "okuyan",
+   "text": "8,9. Şüphesiz ki o (ateş), uzatılmış sütunlarda onların üzerine kapatılıp kilitlenmiş (olacak)tır."
+  },
+  {
+   "verseNo": 9,
+   "source": "diyanet",
+   "text": "Şüphesiz uzatılmış direkler arasında (bağlı oldukları halde) ateş onların üzerine kapatılacaktır."
+  },
+  {
+   "verseNo": 9,
+   "source": "islamoglu",
+   "text": "uzayıp giden parmaklıklar arasında (kendi zindanlarına mahkûm olacaklardır)."
+  },
+  {
+   "verseNo": 9,
+   "source": "esed",
+   "text": "sonsuz sütunlar arasında"
+  },
+  {
+   "verseNo": 9,
+   "source": "okuyan",
+   "text": "8,9. Şüphesiz ki o (ateş), uzatılmış sütunlarda onların üzerine kapatılıp kilitlenmiş (olacak)tır."
+  },
+  {
+   "verseNo": 1,
+   "verseNoEnd": null,
+   "source": "ai",
+   "text": "Yazık olsun her dil uzatıp çekiştiren, her kötüleyip karalayan kimseye."
+  },
+  {
+   "verseNo": 2,
+   "verseNoEnd": null,
+   "source": "ai",
+   "text": "Mal biriktiren ve onu sayan."
+  },
+  {
+   "verseNo": 3,
+   "verseNoEnd": null,
+   "source": "ai",
+   "text": "Malının onu ebedî kılacağını sanıyor."
+  },
+  {
+   "verseNo": 4,
+   "verseNoEnd": null,
+   "source": "ai",
+   "text": "Hayır; o, mutlaka paramparça eden ateşe atılacaktır."
+  },
+  {
+   "verseNo": 5,
+   "verseNoEnd": null,
+   "source": "ai",
+   "text": "Peki sana paramparça eden ateşin ne olduğunu kim bildirdi?"
+  },
+  {
+   "verseNo": 6,
+   "verseNoEnd": null,
+   "source": "ai",
+   "text": "Allah'ın tutuşturduğu ateştir."
+  },
+  {
+   "verseNo": 7,
+   "verseNoEnd": null,
+   "source": "ai",
+   "text": "O ateş kalplere ulaşır."
+  },
+  {
+   "verseNo": 8,
+   "verseNoEnd": null,
+   "source": "ai",
+   "text": "Şüphesiz o ateş üzerlerine kapatılmıştır."
+  },
+  {
+   "verseNo": 9,
+   "verseNoEnd": null,
+   "source": "ai",
+   "text": "Uzatılmış direkler üzerindedir."
+  }
+ ],
+ "aiParagraph": "Birini küçümsemenin ne kadar az şey gerektirdiğini hepimiz biliriz: bir bakış, yarım bırakılmış bir cümle, arkadan söylenen bir söz. Metin tam da bu ikiliyle açılıyor — hemz ve lemz — biri yüzle, biri arkadan yapılan küçümseme. Ve bu küçümsemenin hemen yanına, neredeyse aynı nefeste, bir şeyi biriktirip saymayı yerleştiriyor: mal toplamak, onu defalarca saymak, adeta onu sayarak teselli bulmak. İki şey arasındaki bağ tesadüf değil; elindekini bilen, onu defalarca sayan adam, başkasını küçük görmeye de hazır hâle geliyor. Asıl yara ise şu cümlede: o mal onu ölümsüz kılacakmış gibi davranıyor. \"Kılacakmış gibi\" değil, metinde fiil geçmiş zamanda — sanki o ölümsüzlük zaten gerçekleşmiş, adam buna inanmış ve ona göre yaşıyor. Sonra metin sert bir \"hayır\" kesiyor bu inancı; ve ardından gelen tasvir, cezanın mekânını değil, tam olarak neye dokunduğunu anlatıyor: kalplere ulaşan, içten yakan bir şey. Dışarıdan değil, tam ortadan. İnsan kendi biriktirdiklerinin ve başkasına bakışının kendisini içten nasıl kemirdiğini belki de en son fark eder."
 }

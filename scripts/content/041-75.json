@@ -1,1084 +1,1284 @@
 {
-  "stationNo": 41,
-  "surahNo": 75,
-  "name": "Kıyâmet",
-  "nameArabic": "",
-  "nameMeaning": "",
-  "verseCount": 40,
-  "nuzulOrderOkuyan": 33,
-  "periodDiyanet": "Mekke",
-  "periodOkuyan": "Mekke",
-  "revelationTiming": "",
-  "stationTitle": "Ölümden Sonra Diriliş ve Kendini Kınayan Nefis",
-  "introduction": "Kıyâmet Suresi, adını ilk ayetinde geçen ve ölümden sonra dirilmeyi ifade eden 'kıyâme' kelimesinden alır. Kırk ayetten oluşan bu sure, Mekke döneminde, Kāria suresinden sonra inmiştir. Surenin ana ekseni, ölümden sonra dirilişin kesinliği, insanın bu dünyadaki sorumlulukları ve ahiret hayatındaki durumudur.\n\nSure, dört ana bölümden oluşur. Birinci bölümde kıyamet gününe ve kendini kınayan nefse yemin edilerek, Allah'ın insanı yeniden yaratmaya kadir olduğu vurgulanır. İkinci bölümde, Hz. Peygamber'in vahyi alma ve koruma konusundaki endişeleri giderilir. Üçüncü bölümde, insanların dünya hayatına kapılıp ahireti ihmal etmeleri eleştirilir ve müminlerin ahiretteki sevinçli halleri ile inkarcıların korkuları tasvir edilir. Dördüncü ve son bölümde ise, insanın yaratılış safhalarına dikkat çekilerek, onu yoktan var eden Allah'ın ölümden sonra da diriltmeye gücünün yeteceği belirtilir.\n\nSurenin temel mesajı, insanın başıboş bırakılmadığı, yaptıklarından hesaba çekileceği ve ölümden sonraki hayatın kaçınılmaz bir gerçek olduğudur. İnsanın kendi nefsini sorgulaması ve ahiret bilinciyle yaşaması gerektiği vurgulanır.",
-  "occasionOfRevelation": "Kıyâmet Suresi, Mekke döneminde inmiştir. Surenin nüzul sebebi olarak kaynaklarda genellikle şu olay nakledilir: Müşriklerden Adî b. Rebîa, bir gün Hz. Peygamber'e gelerek kıyametten bahsetmesini ister. Hz. Peygamber'in anlattıklarını dinledikten sonra, gözleriyle görse bile inanmayacağını, çürümüş kemiklerin toplanıp yeniden bir beden oluşturmasının imkânsız olduğunu söyler. Bunun üzerine surenin ilk ayetleri nazil olur.\n\nBu olay, surenin inişine somut bir vesile teşkil etse de, surenin asıl amacı, kıyamet gibi Kur'an'ın getirdiği temel inanç esaslarından biriyle ilgili olarak inananların inancını pekiştirmek ve inanmayanları imana davet etmektir. Surenin Mekke döneminin ilk yıllarında, risaletin 2. veya 3. yıllarında indiği tahmin edilmektedir.",
-  "occasionSources": "TDV İslâm Ansiklopedisi, \"Kıyâme Sûresi\" maddesi; Diyanet İşleri Başkanlığı Kur'an Yolu Tefsiri, Kıyâmet 1-4 ayet tefsiri; kuranokuyan.com, Kıyâmet suresi girişi (Prof. Dr. Mehmet Okuyan).",
-  "keyTerms": [
-    {
-      "term": "kıyâme",
-      "arabic": "الْقِيَامَةِ",
-      "verseRef": "75:1",
-      "meaning": "Ayağa kalkmak, dirilmek. Ayette ölümden sonraki diriliş gününü ifade eder."
-    },
-    {
-      "term": "nefs-i levvâme",
-      "arabic": "النَّفْسِ اللَّوَّامَةِ",
-      "verseRef": "75:2",
-      "meaning": "Kendini kınayan, yaptığı kötülüklerden pişmanlık duyan nefis. İnsanın vicdani sorgulamasını temsil eder."
-    },
-    {
-      "term": "tesviye",
-      "arabic": "نُسَوِّيَ",
-      "verseRef": "75:4",
-      "meaning": "Düzeltmek, eksiksiz yaratmak. Ayette insanın parmak uçlarına kadar kusursuzca yeniden yaratılacağını belirtir."
-    },
-    {
-      "term": "bennân",
-      "arabic": "بَنَانَهُ",
-      "verseRef": "75:4",
-      "meaning": "Parmak uçları. İnsanın benzersiz kimliğine ve Allah'ın yaratma gücünün inceliğine işaret eder."
-    },
-    {
-      "term": "südâ",
-      "arabic": "سُدًى",
-      "verseRef": "75:36",
-      "meaning": "Başıboş, sorumsuz. İnsanın dünyada amaçsız ve hesapsız bırakılmadığını vurgular."
-    }
-  ],
-  "themes": [
-    {
-      "label": "Öz Eleştiri ve Vicdan",
-      "body": "İnsanın kendi hatalarını görmesi ve kendini kınaması (nefs-i levvâme), ahlaki gelişimin temelidir. Hatalarla yüzleşmek, insanı olgunlaştırır."
-    },
-    {
-      "label": "Sorumluluk Bilinci",
-      "body": "İnsan başıboş yaratılmamıştır. Her eyleminin bir karşılığı vardır ve bu bilinç, hayata anlam katar."
-    },
-    {
-      "label": "Yeniden Yaratılış ve Umut",
-      "body": "Ölüm bir son değil, yeni bir başlangıçtır. Allah'ın yaratma gücü, insana adalet ve sonsuzluk umudu verir."
-    }
-  ],
-  "questions": [
-    "Kendi hatalarımı örtbas etmek yerine, onlarla dürüstçe yüzleşip kendimi kınayabiliyor muyum?",
-    "Hayatımı başıboş ve sorumsuz bir şekilde mi yaşıyorum, yoksa her anımın hesabını vereceğim bilinciyle mi hareket ediyorum?"
-  ],
-  "contemporaryMeaning": "Bu sure, insanın kendi içindeki en keskin mahkemeyi ve kendi gerçeğinden kaçma eğilimini merkeze alır. Metin, insanın sürekli mazeretler üreterek kendini haklı çıkarma çabası ile içten içe kendi kusurlarını bilen o sarsılmaz farkındalık arasındaki gerilimi anlatır. İnsanın başıboş bırakılmadığı gerçeği, her eylemin bir ağırlığı olduğu anlamına gelir.\n\nBugünün diliyle: Sürekli \"kendinle barışık ol\" diyerek kusurları örten bir kültürde, sure tam tersi bir yöne işaret eder. Kendi hatalarıyla yüzleşebilen, içindeki o rahatsız edici sesi susturmayan zihin, aslında en sahici uyanışı yaşar. Kariyer hırslarından ilişkilerdeki bencilliklere, sosyal medyadaki kusursuz vitrinlerden ekonomik kaygılara kadar her alanda üretilen bahaneler, insanın kendi gerçeğini bilmesini engellemez. İnsan, kendi aleyhine şahitlik edecek kadar kendini tanır.\n\nHemen elde edilecek olana, yani anlık hazlara ve hızlı başarılara duyulan aşırı iştah, uzun vadeli anlamı gölgeler. Bitmek bilmeyen onay arayışının veya statü kaygısının ardında, insanın kendi boşluk hissini uyuşturma çabası yatar. Metin, bu uyuşukluk halini yırtarak, insanın kendi aleyhine bile olsa hakikate şahitlik etmesinin, onu başıboşluk yanılsamasından kurtaracak tek yol olduğunu gösterir.",
-  "scholarlyNotes": [
-    {
-      "kind": "rivayet",
-      "body": "Bazı tefsirlerde yer alan \"Kim Kıyâme sûresini okursa kıyamet gününde ben ve Cebrâil onun mümin olduğuna şahitlik ederiz\" şeklindeki rivayet uydurma (mevzû) kabul edilir; güvenilir hadis kaynaklarında yer almaz ve dinî bir hüküm için itibar edilmemelidir.",
-      "label": "Surenin Fazileti Hakkında Uydurma Hadis"
-    },
-    {
-      "kind": "nuans",
-      "body": "Surenin 4. ayetinde parmak uçlarının düzeltileceğine dair ifade, insanların parmak uçlarının birbirinden farklı olduğu tesbitine dayanan ve suçluların bulunmasında yaygın biçimde kullanılan daktiloskopiye işaret olarak da açıklanmıştır.",
-      "label": "Parmak Uçları ve Daktiloskopi"
-    }
-  ],
-  "verses": [
-    {
-      "verseNo": 1,
-      "textArabic": "بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ لَآ أُقْسِمُ بِيَوْمِ ٱلْقِيَٰمَةِ"
-    },
-    {
-      "verseNo": 2,
-      "textArabic": "وَلَآ أُقْسِمُ بِٱلنَّفْسِ ٱللَّوَّامَةِ"
-    },
-    {
-      "verseNo": 3,
-      "textArabic": "أَيَحْسَبُ ٱلْإِنسَٰنُ أَلَّن نَّجْمَعَ عِظَامَهُۥ"
-    },
-    {
-      "verseNo": 4,
-      "textArabic": "بَلَىٰ قَٰدِرِينَ عَلَىٰٓ أَن نُّسَوِّىَ بَنَانَهُۥ"
-    },
-    {
-      "verseNo": 5,
-      "textArabic": "بَلْ يُرِيدُ ٱلْإِنسَٰنُ لِيَفْجُرَ أَمَامَهُۥ"
-    },
-    {
-      "verseNo": 6,
-      "textArabic": "يَسْـَٔلُ أَيَّانَ يَوْمُ ٱلْقِيَٰمَةِ"
-    },
-    {
-      "verseNo": 7,
-      "textArabic": "فَإِذَا بَرِقَ ٱلْبَصَرُ"
-    },
-    {
-      "verseNo": 8,
-      "textArabic": "وَخَسَفَ ٱلْقَمَرُ"
-    },
-    {
-      "verseNo": 9,
-      "textArabic": "وَجُمِعَ ٱلشَّمْسُ وَٱلْقَمَرُ"
-    },
-    {
-      "verseNo": 10,
-      "textArabic": "يَقُولُ ٱلْإِنسَٰنُ يَوْمَئِذٍ أَيْنَ ٱلْمَفَرُّ"
-    },
-    {
-      "verseNo": 11,
-      "textArabic": "كَلَّا لَا وَزَرَ"
-    },
-    {
-      "verseNo": 12,
-      "textArabic": "إِلَىٰ رَبِّكَ يَوْمَئِذٍ ٱلْمُسْتَقَرُّ"
-    },
-    {
-      "verseNo": 13,
-      "textArabic": "يُنَبَّؤُا۟ ٱلْإِنسَٰنُ يَوْمَئِذٍۭ بِمَا قَدَّمَ وَأَخَّرَ"
-    },
-    {
-      "verseNo": 14,
-      "textArabic": "بَلِ ٱلْإِنسَٰنُ عَلَىٰ نَفْسِهِۦ بَصِيرَةٌۭ"
-    },
-    {
-      "verseNo": 15,
-      "textArabic": "وَلَوْ أَلْقَىٰ مَعَاذِيرَهُۥ"
-    },
-    {
-      "verseNo": 16,
-      "textArabic": "لَا تُحَرِّكْ بِهِۦ لِسَانَكَ لِتَعْجَلَ بِهِۦٓ"
-    },
-    {
-      "verseNo": 17,
-      "textArabic": "إِنَّ عَلَيْنَا جَمْعَهُۥ وَقُرْءَانَهُۥ"
-    },
-    {
-      "verseNo": 18,
-      "textArabic": "فَإِذَا قَرَأْنَٰهُ فَٱتَّبِعْ قُرْءَانَهُۥ"
-    },
-    {
-      "verseNo": 19,
-      "textArabic": "ثُمَّ إِنَّ عَلَيْنَا بَيَانَهُۥ"
-    },
-    {
-      "verseNo": 20,
-      "textArabic": "كَلَّا بَلْ تُحِبُّونَ ٱلْعَاجِلَةَ"
-    },
-    {
-      "verseNo": 21,
-      "textArabic": "وَتَذَرُونَ ٱلْءَاخِرَةَ"
-    },
-    {
-      "verseNo": 22,
-      "textArabic": "وُجُوهٌۭ يَوْمَئِذٍۢ نَّاضِرَةٌ"
-    },
-    {
-      "verseNo": 23,
-      "textArabic": "إِلَىٰ رَبِّهَا نَاظِرَةٌۭ"
-    },
-    {
-      "verseNo": 24,
-      "textArabic": "وَوُجُوهٌۭ يَوْمَئِذٍۭ بَاسِرَةٌۭ"
-    },
-    {
-      "verseNo": 25,
-      "textArabic": "تَظُنُّ أَن يُفْعَلَ بِهَا فَاقِرَةٌۭ"
-    },
-    {
-      "verseNo": 26,
-      "textArabic": "كَلَّآ إِذَا بَلَغَتِ ٱلتَّرَاقِىَ"
-    },
-    {
-      "verseNo": 27,
-      "textArabic": "وَقِيلَ مَنْ ۜ رَاقٍۢ"
-    },
-    {
-      "verseNo": 28,
-      "textArabic": "وَظَنَّ أَنَّهُ ٱلْفِرَاقُ"
-    },
-    {
-      "verseNo": 29,
-      "textArabic": "وَٱلْتَفَّتِ ٱلسَّاقُ بِٱلسَّاقِ"
-    },
-    {
-      "verseNo": 30,
-      "textArabic": "إِلَىٰ رَبِّكَ يَوْمَئِذٍ ٱلْمَسَاقُ"
-    },
-    {
-      "verseNo": 31,
-      "textArabic": "فَلَا صَدَّقَ وَلَا صَلَّىٰ"
-    },
-    {
-      "verseNo": 32,
-      "textArabic": "وَلَٰكِن كَذَّبَ وَتَوَلَّىٰ"
-    },
-    {
-      "verseNo": 33,
-      "textArabic": "ثُمَّ ذَهَبَ إِلَىٰٓ أَهْلِهِۦ يَتَمَطَّىٰٓ"
-    },
-    {
-      "verseNo": 34,
-      "textArabic": "أَوْلَىٰ لَكَ فَأَوْلَىٰ"
-    },
-    {
-      "verseNo": 35,
-      "textArabic": "ثُمَّ أَوْلَىٰ لَكَ فَأَوْلَىٰٓ"
-    },
-    {
-      "verseNo": 36,
-      "textArabic": "أَيَحْسَبُ ٱلْإِنسَٰنُ أَن يُتْرَكَ سُدًى"
-    },
-    {
-      "verseNo": 37,
-      "textArabic": "أَلَمْ يَكُ نُطْفَةًۭ مِّن مَّنِىٍّۢ يُمْنَىٰ"
-    },
-    {
-      "verseNo": 38,
-      "textArabic": "ثُمَّ كَانَ عَلَقَةًۭ فَخَلَقَ فَسَوَّىٰ"
-    },
-    {
-      "verseNo": 39,
-      "textArabic": "فَجَعَلَ مِنْهُ ٱلزَّوْجَيْنِ ٱلذَّكَرَ وَٱلْأُنثَىٰٓ"
-    },
-    {
-      "verseNo": 40,
-      "textArabic": "أَلَيْسَ ذَٰلِكَ بِقَٰدِرٍ عَلَىٰٓ أَن يُحْۦِىَ ٱلْمَوْتَىٰ"
-    }
-  ],
-  "translations": [
-    {
-      "verseNo": 1,
-      "verseNoEnd": null,
-      "source": "ai",
-      "text": "Kıyamet gününe andolsun."
-    },
-    {
-      "verseNo": 1,
-      "source": "diyanet",
-      "text": "Kıyamet gününe yemin ederim."
-    },
-    {
-      "verseNo": 1,
-      "source": "esed",
-      "text": "Kıyamet Günü´nü tanıklığa çağırırım"
-    },
-    {
-      "verseNo": 1,
-      "source": "okuyan",
-      "text": "Hayır! Kıyamet gününe yemin ederim."
-    },
-    {
-      "verseNo": 2,
-      "verseNoEnd": null,
-      "source": "ai",
-      "text": "Kendini kınayan nefse andolsun."
-    },
-    {
-      "verseNo": 2,
-      "source": "diyanet",
-      "text": "(Kusurlarından dolayı kendini) kınayan nefse de yemin ederim (ki diriltilip hesaba çekileceksiniz)."
-    },
-    {
-      "verseNo": 2,
-      "source": "esed",
-      "text": "İnsan vicdanının kınayan sesini tanıklığa çağırırım"
-    },
-    {
-      "verseNo": 2,
-      "source": "okuyan",
-      "text": "Hayır! (Kendini) kınayan nefse (insana) da yemin ederim."
-    },
-    {
-      "verseNo": 3,
-      "verseNoEnd": null,
-      "source": "ai",
-      "text": "İnsan, kemiklerini toplayamayacağımızı mı sanıyor?"
-    },
-    {
-      "verseNo": 3,
-      "source": "diyanet",
-      "text": "İnsan, kendisinin kemiklerini bir araya getiremeyeceğimizi mi sanır?"
-    },
-    {
-      "verseNo": 3,
-      "source": "esed",
-      "text": "İnsan, (onu tekrar diriltip) kemiklerini yeniden bir araya getiremeyeceğimizi mi sanıyor"
-    },
-    {
-      "verseNo": 3,
-      "source": "okuyan",
-      "text": "(İnkarcı) insan, kemiklerini asla bir araya toplayamayacağımızı mı sanıyor!"
-    },
-    {
-      "verseNo": 4,
-      "verseNoEnd": null,
-      "source": "ai",
-      "text": "Hayır; parmak uçlarını bile düzeltebilecek güçteyiz."
-    },
-    {
-      "verseNo": 4,
-      "source": "diyanet",
-      "text": "Evet bizim, onun parmak uçlarını bile düzenlemeye gücümüz yeter."
-    },
-    {
-      "verseNo": 4,
-      "source": "esed",
-      "text": "Hayır, kesinlikle! Onu parmak uçlarına kadar yeniden var etmeye kadiriz"
-    },
-    {
-      "verseNo": 4,
-      "source": "okuyan",
-      "text": "Evet! Biz onun parmak uçlarını bile düzenlemeye gücü yetenleriz."
-    },
-    {
-      "verseNo": 5,
-      "verseNoEnd": null,
-      "source": "ai",
-      "text": "Bilakis insan, önünde daha çok günah işlemeyi ister."
-    },
-    {
-      "verseNo": 5,
-      "source": "diyanet",
-      "text": "Fakat insan önünü (geleceğini, kıyameti) yalanlamak ister."
-    },
-    {
-      "verseNo": 5,
-      "source": "esed",
-      "text": "Ama yine de insan, önüne serilmiş olan şeyi inkara kalkışır"
-    },
-    {
-      "verseNo": 5,
-      "source": "okuyan",
-      "text": "5-6 . Aslında (inkârcı) insan, “Kıyamet günü de ne zamanmış!” diye sorarak, önündekini (ahireti) yalanlamak ister."
-    },
-    {
-      "verseNo": 6,
-      "verseNoEnd": null,
-      "source": "ai",
-      "text": "O, \"Kıyamet günü ne zaman?\" diye sorar."
-    },
-    {
-      "verseNo": 6,
-      "source": "diyanet",
-      "text": "\"O kıyamet günü ne zaman?\" diye sorar."
-    },
-    {
-      "verseNo": 6,
-      "source": "esed",
-      "text": "ve (istihza ile) sorar: \"Şu Kıyamet Günü ne zaman gelecekmiş"
-    },
-    {
-      "verseNo": 6,
-      "source": "okuyan",
-      "text": "5-6 . Aslında (inkârcı) insan, “Kıyamet günü de ne zamanmış!” diye sorarak, önündekini (ahireti) yalanlamak ister."
-    },
-    {
-      "verseNo": 7,
-      "verseNoEnd": null,
-      "source": "ai",
-      "text": "O zaman göz kamaşır."
-    },
-    {
-      "verseNo": 7,
-      "source": "diyanet",
-      "text": "Gözler kamaştığı, ay karanlığa gömüldüğü, güneş ve ay bir araya getirildiği zaman, o gün insan \"kaçış nereye?\" diyecektir."
-    },
-    {
-      "verseNo": 7,
-      "source": "esed",
-      "text": "Ama (o Gün,) gözler korku ile açıldığında"
-    },
-    {
-      "verseNo": 7,
-      "source": "okuyan",
-      "text": "7-10 . İşte göz(ler kamaşıp) şimşek çaktığı, ay karardığı, güneş ve ay bir araya getirildiği zaman, işte o gün (inkârcı) insan “(Acaba) nereye kaçmalı(yım)?” diyecektir."
-    },
-    {
-      "verseNo": 8,
-      "verseNoEnd": null,
-      "source": "ai",
-      "text": "Ve ay tutulur."
-    },
-    {
-      "verseNo": 8,
-      "source": "diyanet",
-      "text": "Gözler kamaştığı, ay karanlığa gömüldüğü, güneş ve ay bir araya getirildiği zaman, o gün insan \"kaçış nereye?\" diyecektir."
-    },
-    {
-      "verseNo": 8,
-      "source": "esed",
-      "text": "ve ay karanlığa gömüldüğünde"
-    },
-    {
-      "verseNo": 8,
-      "source": "okuyan",
-      "text": "7-10 . İşte göz(ler kamaşıp) şimşek çaktığı, ay karardığı, güneş ve ay bir araya getirildiği zaman, işte o gün (inkârcı) insan “(Acaba) nereye kaçmalı(yım)?” diyecektir."
-    },
-    {
-      "verseNo": 9,
-      "verseNoEnd": null,
-      "source": "ai",
-      "text": "Güneş ve ay bir araya getirilir."
-    },
-    {
-      "verseNo": 9,
-      "source": "diyanet",
-      "text": "Gözler kamaştığı, ay karanlığa gömüldüğü, güneş ve ay bir araya getirildiği zaman, o gün insan \"kaçış nereye?\" diyecektir."
-    },
-    {
-      "verseNo": 9,
-      "source": "esed",
-      "text": "ve güneş ile ay bir araya getirildiğinde"
-    },
-    {
-      "verseNo": 9,
-      "source": "okuyan",
-      "text": "7-10 . İşte göz(ler kamaşıp) şimşek çaktığı, ay karardığı, güneş ve ay bir araya getirildiği zaman, işte o gün (inkârcı) insan “(Acaba) nereye kaçmalı(yım)?” diyecektir."
-    },
-    {
-      "verseNo": 10,
-      "verseNoEnd": null,
-      "source": "ai",
-      "text": "O gün insan der: \"Nerede kaçacak yer?\""
-    },
-    {
-      "verseNo": 10,
-      "source": "diyanet",
-      "text": "Gözler kamaştığı, ay karanlığa gömüldüğü, güneş ve ay bir araya getirildiği zaman, o gün insan \"kaçış nereye?\" diyecektir."
-    },
-    {
-      "verseNo": 10,
-      "source": "esed",
-      "text": "o Gün insan haykıracak: \"(Eyvah!) Nereye kaçayım"
-    },
-    {
-      "verseNo": 10,
-      "source": "okuyan",
-      "text": "7-10 . İşte göz(ler kamaşıp) şimşek çaktığı, ay karardığı, güneş ve ay bir araya getirildiği zaman, işte o gün (inkârcı) insan “(Acaba) nereye kaçmalı(yım)?” diyecektir."
-    },
-    {
-      "verseNo": 11,
-      "verseNoEnd": null,
-      "source": "ai",
-      "text": "Hayır, hiçbir yük yoktur."
-    },
-    {
-      "verseNo": 11,
-      "source": "diyanet",
-      "text": "Hayır, hiçbir sığınacak yer yoktur."
-    },
-    {
-      "verseNo": 11,
-      "source": "esed",
-      "text": "Hayır! Bir sığınak yok (senin için, ey insan)"
-    },
-    {
-      "verseNo": 11,
-      "source": "okuyan",
-      "text": "Hayır! Sığınacak (bir) yer yoktur!"
-    },
-    {
-      "verseNo": 12,
-      "verseNoEnd": null,
-      "source": "ai",
-      "text": "O gün dönüş Rabbinedir."
-    },
-    {
-      "verseNo": 12,
-      "source": "diyanet",
-      "text": "O gün varıp durulacak yer, sadece Rabbinin huzurudur."
-    },
-    {
-      "verseNo": 12,
-      "source": "esed",
-      "text": "O Gün bütün yolların varış yeri, Rabbinin katı olacak"
-    },
-    {
-      "verseNo": 12,
-      "source": "okuyan",
-      "text": "O gün varılacak yer sadece Rabbinin huzurudur."
-    },
-    {
-      "verseNo": 13,
-      "verseNoEnd": null,
-      "source": "ai",
-      "text": "İnsan o gün yaptıkları ve erteledikleri ile haber verilir."
-    },
-    {
-      "verseNo": 13,
-      "source": "diyanet",
-      "text": "O gün insana, yapıp önden gönderdiği ve yapmayıp geri bıraktığı şeyler haber verilir."
-    },
-    {
-      "verseNo": 13,
-      "source": "esed",
-      "text": "O Gün insana, yaptığı ve yapmadığı her şey bildirilecek"
-    },
-    {
-      "verseNo": 13,
-      "source": "okuyan",
-      "text": "O gün, (dünyada yapıp) öne sürdüğü ve (yapmayıp) geride bıraktığı ne varsa insana bildirilecektir."
-    },
-    {
-      "verseNo": 14,
-      "verseNoEnd": null,
-      "source": "ai",
-      "text": "Bilakis insan kendi hakkında gözcüdür."
-    },
-    {
-      "verseNo": 14,
-      "source": "diyanet",
-      "text": "Hatta, mazeretlerini ortaya koysa da, o gün insan kendi aleyhine şahittir."
-    },
-    {
-      "verseNo": 14,
-      "source": "esed",
-      "text": "hayır, aslında insan, kendi aleyhine şahitlik yapacak"
-    },
-    {
-      "verseNo": 14,
-      "source": "okuyan",
-      "text": "Esasında insanoğlu kendi kendinin şahididir."
-    },
-    {
-      "verseNo": 15,
-      "verseNoEnd": null,
-      "source": "ai",
-      "text": "Ve eğer mazeretlerini öne sürse."
-    },
-    {
-      "verseNo": 15,
-      "source": "diyanet",
-      "text": "Hatta, mazeretlerini ortaya koysa da, o gün insan kendi aleyhine şahittir."
-    },
-    {
-      "verseNo": 15,
-      "source": "esed",
-      "text": "mazeretler bulup kendi (yaptıkları)nı gizlemeye çalışsa bile"
-    },
-    {
-      "verseNo": 15,
-      "source": "okuyan",
-      "text": "15-16 . (Birtakım) mazeretler ileri sürmeye kalkışacak olsaydı bile (ona şöyle denecektir: Ey suçlu kişi)! Artık onu (hakkındaki hükmü) çabucak almak için dilini kımıldatma!"
-    },
-    {
-      "verseNo": 16,
-      "verseNoEnd": null,
-      "source": "ai",
-      "text": "Acele etmek için dilini onunla oynatma."
-    },
-    {
-      "verseNo": 16,
-      "source": "diyanet",
-      "text": "(Ey Muhammed!) Onu (vahyi) çarçabuk almak için dilini kımıldatma."
-    },
-    {
-      "verseNo": 16,
-      "source": "esed",
-      "text": "(Vahyin sözlerini tekrarlarken) dilini hızla oynatıp durma"
-    },
-    {
-      "verseNo": 16,
-      "source": "okuyan",
-      "text": "15-16 . (Birtakım) mazeretler ileri sürmeye kalkışacak olsaydı bile (ona şöyle denecektir: Ey suçlu kişi)! Artık onu (hakkındaki hükmü) çabucak almak için dilini kımıldatma!"
-    },
-    {
-      "verseNo": 17,
-      "verseNoEnd": null,
-      "source": "ai",
-      "text": "Gerçekten onun toplanması ve Kur'an'ı bizim üzerimizdedir."
-    },
-    {
-      "verseNo": 17,
-      "source": "diyanet",
-      "text": "Şüphesiz onu toplamak ve okumak bize aittir."
-    },
-    {
-      "verseNo": 17,
-      "source": "esed",
-      "text": "çünkü onu (senin kalbine) yerleştirmek ve (gerektiğinde) okutturmak Bizim işimizdir"
-    },
-    {
-      "verseNo": 17,
-      "source": "okuyan",
-      "text": "Şüphesiz ki onun toplanması ve okunması sadece bize aittir."
-    },
-    {
-      "verseNo": 18,
-      "verseNoEnd": null,
-      "source": "ai",
-      "text": "Onu okuduğumuzda onun okunuşunu takip et."
-    },
-    {
-      "verseNo": 18,
-      "source": "diyanet",
-      "text": "O halde, biz onu okuduğumuz zaman, onun okunuşuna uy."
-    },
-    {
-      "verseNo": 18,
-      "source": "esed",
-      "text": "Böylece, onu telaffuz ettiğimiz zaman, kelimelerini (bütün zihnini vererek) takip et"
-    },
-    {
-      "verseNo": 18,
-      "source": "okuyan",
-      "text": "Biz onu okuduğumuz zaman okunuşunu takip et!"
-    },
-    {
-      "verseNo": 19,
-      "verseNoEnd": null,
-      "source": "ai",
-      "text": "Sonra onun açıklaması bizim üzerimizdedir."
-    },
-    {
-      "verseNo": 19,
-      "source": "diyanet",
-      "text": "Sonra onu açıklamak da bize aittir."
-    },
-    {
-      "verseNo": 19,
-      "source": "esed",
-      "text": "sonra onun anlamını açıklamak da Bize düşer"
-    },
-    {
-      "verseNo": 19,
-      "source": "okuyan",
-      "text": "Sonra onu açıklamak da sadece bize aittir."
-    },
-    {
-      "verseNo": 20,
-      "verseNoEnd": null,
-      "source": "ai",
-      "text": "Hayır, bilakis siz aceleyi seversiniz."
-    },
-    {
-      "verseNo": 20,
-      "source": "diyanet",
-      "text": "Hayır! Siz dünyayı seviyorsunuz ve ahireti bırakıyorsunuz."
-    },
-    {
-      "verseNo": 20,
-      "source": "esed",
-      "text": "(Çoğunuz) bu geçici hayatı seviyorsunuz"
-    },
-    {
-      "verseNo": 20,
-      "source": "okuyan",
-      "text": "Hayır! Doğrusu siz çabucak geçeni (dünyayı) seviyorsunuz."
-    },
-    {
-      "verseNo": 21,
-      "verseNoEnd": null,
-      "source": "ai",
-      "text": "Ve ahireti bırakırsınız."
-    },
-    {
-      "verseNo": 21,
-      "source": "diyanet",
-      "text": "Hayır! Siz dünyayı seviyorsunuz ve ahireti bırakıyorsunuz."
-    },
-    {
-      "verseNo": 21,
-      "source": "esed",
-      "text": "ama öteki dünyayı (ve Hesap Günü´nü) hiç düşünmüyorsunuz"
-    },
-    {
-      "verseNo": 21,
-      "source": "okuyan",
-      "text": "Ahireti bırakıyorsunuz."
-    },
-    {
-      "verseNo": 22,
-      "verseNoEnd": null,
-      "source": "ai",
-      "text": "O gün yüzler aydınlık olacaktır."
-    },
-    {
-      "verseNo": 22,
-      "source": "diyanet",
-      "text": "O gün bir takım yüzler aydındır."
-    },
-    {
-      "verseNo": 22,
-      "source": "esed",
-      "text": "Bazı yüzler o Gün mutlulukla parlayacak"
-    },
-    {
-      "verseNo": 22,
-      "source": "okuyan",
-      "text": "22-23 . O gün bazı yüzler, Rablerini(n kararını) beklerken ışıl ışıl olacaktır."
-    },
-    {
-      "verseNo": 23,
-      "verseNoEnd": null,
-      "source": "ai",
-      "text": "Rablerine bakacaklardır."
-    },
-    {
-      "verseNo": 23,
-      "source": "diyanet",
-      "text": "Rablerine bakarlar."
-    },
-    {
-      "verseNo": 23,
-      "source": "esed",
-      "text": "Rablerine bakarken"
-    },
-    {
-      "verseNo": 23,
-      "source": "okuyan",
-      "text": "22-23 . O gün bazı yüzler, Rablerini(n kararını) beklerken ışıl ışıl olacaktır."
-    },
-    {
-      "verseNo": 24,
-      "verseNoEnd": null,
-      "source": "ai",
-      "text": "O gün bir takım yüzler de asıktır."
-    },
-    {
-      "verseNo": 24,
-      "source": "diyanet",
-      "text": "O gün bir takım yüzler de asıktır."
-    },
-    {
-      "verseNo": 24,
-      "source": "esed",
-      "text": "ve o Gün bazı yüzler ümitsizlikle kararacak"
-    },
-    {
-      "verseNo": 24,
-      "source": "okuyan",
-      "text": "24-25 . O gün bazı asık yüzler de vardır ki bel kemiklerini kıran bir felakete uğratılacağını anlayacaktır."
-    },
-    {
-      "verseNo": 25,
-      "verseNoEnd": null,
-      "source": "ai",
-      "text": "Bel kemiklerini kıran bir felakete uğratılacaklarını anlarlar."
-    },
-    {
-      "verseNo": 25,
-      "source": "diyanet",
-      "text": "Bel kemiklerini kıran bir felakete uğratılacaklarını anlarlar."
-    },
-    {
-      "verseNo": 25,
-      "source": "esed",
-      "text": "çatırdatan bir felaketin başlarına gelmek üzere olduğunu bilerek"
-    },
-    {
-      "verseNo": 25,
-      "source": "okuyan",
-      "text": "24-25 . O gün bazı asık yüzler de vardır ki bel kemiklerini kıran bir felakete uğratılacağını anlayacaktır."
-    },
-    {
-      "verseNo": 26,
-      "verseNoEnd": null,
-      "source": "ai",
-      "text": "Hayır! Can boğaza dayandığı zaman."
-    },
-    {
-      "verseNo": 26,
-      "source": "diyanet",
-      "text": "Hayır, can boğaza dayandığı, \"Kimdir (bunu) iyi edecek?\" dendiği, (ölmek üzere olanın da) bunun ayrılış olduğunu bildiği, bacakların birbirine dolandığı zaman, işte o gün sevkediliş Rabbinedir."
-    },
-    {
-      "verseNo": 26,
-      "source": "esed",
-      "text": "Ne zaman ki, (son nefes, ölen birinin) boğazına gelip düğümlenir"
-    },
-    {
-      "verseNo": 26,
-      "source": "okuyan",
-      "text": "26-30 . Doğrusu (can), köprücük kemiğine dayanıp “Tedavi edebilecek kimdir?” dendiğinde, bunun gerçek bir ayrılık olduğunu anlayıp bacak(lar) birbirine dolaştığında, işte o gün varılacak yer sadece Rabbinin huzuru olacaktır."
-    },
-    {
-      "verseNo": 27,
-      "verseNoEnd": null,
-      "source": "ai",
-      "text": "Ve denildi: \"Kim onu iyileştirecek?\""
-    },
-    {
-      "verseNo": 27,
-      "source": "diyanet",
-      "text": "Hayır, can boğaza dayandığı, \"Kimdir (bunu) iyi edecek?\" dendiği, (ölmek üzere olanın da) bunun ayrılış olduğunu bildiği, bacakların birbirine dolandığı zaman, işte o gün sevkediliş Rabbinedir."
-    },
-    {
-      "verseNo": 27,
-      "source": "esed",
-      "text": "ve insanlar: \"(onu kurtaracak) bir hekim yok mu?\" diye sorarlar"
-    },
-    {
-      "verseNo": 27,
-      "source": "okuyan",
-      "text": "26-30 . Doğrusu (can), köprücük kemiğine dayanıp “Tedavi edebilecek kimdir?” dendiğinde, bunun gerçek bir ayrılık olduğunu anlayıp bacak(lar) birbirine dolaştığında, işte o gün varılacak yer sadece Rabbinin huzuru olacaktır."
-    },
-    {
-      "verseNo": 28,
-      "verseNoEnd": null,
-      "source": "ai",
-      "text": "Ve bunun ayrılık olduğunu sandı."
-    },
-    {
-      "verseNo": 28,
-      "source": "diyanet",
-      "text": "Hayır, can boğaza dayandığı, \"Kimdir (bunu) iyi edecek?\" dendiği, (ölmek üzere olanın da) bunun ayrılış olduğunu bildiği, bacakların birbirine dolandığı zaman, işte o gün sevkediliş Rabbinedir."
-    },
-    {
-      "verseNo": 28,
-      "source": "esed",
-      "text": "kendisi de bilir ki bu ayrılma vaktidir"
-    },
-    {
-      "verseNo": 28,
-      "source": "okuyan",
-      "text": "26-30 . Doğrusu (can), köprücük kemiğine dayanıp “Tedavi edebilecek kimdir?” dendiğinde, bunun gerçek bir ayrılık olduğunu anlayıp bacak(lar) birbirine dolaştığında, işte o gün varılacak yer sadece Rabbinin huzuru olacaktır."
-    },
-    {
-      "verseNo": 29,
-      "verseNoEnd": null,
-      "source": "ai",
-      "text": "Ve bacaklar birbirine dolandı."
-    },
-    {
-      "verseNo": 29,
-      "source": "diyanet",
-      "text": "Hayır, can boğaza dayandığı, \"Kimdir (bunu) iyi edecek?\" dendiği, (ölmek üzere olanın da) bunun ayrılış olduğunu bildiği, bacakların birbirine dolandığı zaman, işte o gün sevkediliş Rabbinedir."
-    },
-    {
-      "verseNo": 29,
-      "source": "esed",
-      "text": "ve ölüm sancıları ile örülmektedir"
-    },
-    {
-      "verseNo": 29,
-      "source": "okuyan",
-      "text": "26-30 . Doğrusu (can), köprücük kemiğine dayanıp “Tedavi edebilecek kimdir?” dendiğinde, bunun gerçek bir ayrılık olduğunu anlayıp bacak(lar) birbirine dolaştığında, işte o gün varılacak yer sadece Rabbinin huzuru olacaktır."
-    },
-    {
-      "verseNo": 30,
-      "verseNoEnd": null,
-      "source": "ai",
-      "text": "İşte o gün sevkediliş Rabbinedir."
-    },
-    {
-      "verseNo": 30,
-      "source": "diyanet",
-      "text": "Hayır, can boğaza dayandığı, \"Kimdir (bunu) iyi edecek?\" dendiği, (ölmek üzere olanın da) bunun ayrılış olduğunu bildiği, bacakların birbirine dolandığı zaman, işte o gün sevkediliş Rabbinedir."
-    },
-    {
-      "verseNo": 30,
-      "source": "esed",
-      "text": "işte o zaman gidişinin Rabbine doğru olduğunu hisseder"
-    },
-    {
-      "verseNo": 30,
-      "source": "okuyan",
-      "text": "26-30 . Doğrusu (can), köprücük kemiğine dayanıp “Tedavi edebilecek kimdir?” dendiğinde, bunun gerçek bir ayrılık olduğunu anlayıp bacak(lar) birbirine dolaştığında, işte o gün varılacak yer sadece Rabbinin huzuru olacaktır."
-    },
-    {
-      "verseNo": 31,
-      "verseNoEnd": null,
-      "source": "ai",
-      "text": "Ne inandı ne de namaz kıldı."
-    },
-    {
-      "verseNo": 31,
-      "source": "diyanet",
-      "text": "O, (Peygamberi) doğrulamamış, namaz da kılmamıştı."
-    },
-    {
-      "verseNo": 31,
-      "source": "esed",
-      "text": "(Artık son pişmanlık fayda etmez) çünkü (yaşadığı sürece) hakikati kabul etmedi ve (aydınlığa kavuşmak için) namaz kılmadı"
-    },
-    {
-      "verseNo": 31,
-      "source": "okuyan",
-      "text": "(İnkârcı kişi, hem gerçeği) onaylamamıştı; (hem de Allah’ın dinine) destek olmamıştı."
-    },
-    {
-      "verseNo": 32,
-      "verseNoEnd": null,
-      "source": "ai",
-      "text": "Ama inkâr etti ve yüz çevirdi."
-    },
-    {
-      "verseNo": 32,
-      "source": "diyanet",
-      "text": "Fakat yalanlamış ve yüz çevirmişti."
-    },
-    {
-      "verseNo": 32,
-      "source": "esed",
-      "text": "tam tersine, hakikati yalanladı ve (ondan) uzaklaştı"
-    },
-    {
-      "verseNo": 32,
-      "source": "okuyan",
-      "text": "Aksine yalanlamış ve yüz çevirmişti."
-    },
-    {
-      "verseNo": 33,
-      "verseNoEnd": null,
-      "source": "ai",
-      "text": "Sonra evine gitti, kendini göstererek."
-    },
-    {
-      "verseNo": 33,
-      "source": "diyanet",
-      "text": "Sonra da kasıla kasıla ailesine gitmişti."
-    },
-    {
-      "verseNo": 33,
-      "source": "esed",
-      "text": "ve sonra böbürlenerek geldiği yere döndü"
-    },
-    {
-      "verseNo": 33,
-      "source": "okuyan",
-      "text": "Sonra da kibirlenerek kendi ailesine gitmişti."
-    },
-    {
-      "verseNo": 34,
-      "verseNoEnd": null,
-      "source": "ai",
-      "text": "Sana daha uygundu, daha uygundu."
-    },
-    {
-      "verseNo": 34,
-      "source": "diyanet",
-      "text": "\"Bu azap sana layıktır, layık! Evet, layıktır sana, layık!\" denecektir."
-    },
-    {
-      "verseNo": 34,
-      "source": "esed",
-      "text": "(Ama ey insan, akibetin geliyor her dakika) yakınına, daha da yakınına"
-    },
-    {
-      "verseNo": 34,
-      "source": "okuyan",
-      "text": "Yazıklar olsun sana, yazıklar olsun!"
-    },
-    {
-      "verseNo": 35,
-      "verseNoEnd": null,
-      "source": "ai",
-      "text": "Sonra sana daha da uygundu, daha da uygundu."
-    },
-    {
-      "verseNo": 35,
-      "source": "diyanet",
-      "text": "\"Bu azap sana layıktır, layık! Evet, layıktır sana, layık!\" denecektir."
-    },
-    {
-      "verseNo": 35,
-      "source": "esed",
-      "text": "yakınına, daha da yakınına"
-    },
-    {
-      "verseNo": 35,
-      "source": "okuyan",
-      "text": "Sonra (tekrar) yazıklar olsun sana, yazıklar olsun!"
-    },
-    {
-      "verseNo": 36,
-      "verseNoEnd": null,
-      "source": "ai",
-      "text": "İnsan, başıboş bırakılacağını mı sanır?"
-    },
-    {
-      "verseNo": 36,
-      "source": "diyanet",
-      "text": "İnsan, kendisinin başıboş bırakılacağını mı zanneder."
-    },
-    {
-      "verseNo": 36,
-      "source": "esed",
-      "text": "İnsan, başıboş bırakılacağını ve dilediği gibi hareket edebileceğini mi sanır"
-    },
-    {
-      "verseNo": 36,
-      "source": "okuyan",
-      "text": "İnsan, kendisinin başıboş bırakılacağını mı sanıyor!"
-    },
-    {
-      "verseNo": 37,
-      "verseNoEnd": null,
-      "source": "ai",
-      "text": "O, sağdan atılan bir meni damlası değildi mi?"
-    },
-    {
-      "verseNo": 37,
-      "source": "diyanet",
-      "text": "O dökülen meniden ibaret az bir su değil miydi?"
-    },
-    {
-      "verseNo": 37,
-      "source": "esed",
-      "text": "O, bir zamanlar (sadece) akıtılan bir meni damlası değil miydi"
-    },
-    {
-      "verseNo": 37,
-      "source": "okuyan",
-      "text": "(İnsan) akıtılan meninin (spermin) bir kısmından (oluşan) bir nutfe (zigot) değil miydi!"
-    },
-    {
-      "verseNo": 38,
-      "verseNoEnd": null,
-      "source": "ai",
-      "text": "Sonra bir kan pıhtısı oldu; sonra yarattı ve biçim verdi."
-    },
-    {
-      "verseNo": 38,
-      "source": "diyanet",
-      "text": "Sonra bu, bir \"alaka\" oldu. Derken Allah onu yaratıp güzelce şekillendirdi."
-    },
-    {
-      "verseNo": 38,
-      "source": "esed",
-      "text": "ve sonra döllenmiş hücre; bu safhada Allah (onu) yaratmış ve olması gerektiği gibi şekil vermişti"
-    },
-    {
-      "verseNo": 38,
-      "source": "okuyan",
-      "text": "Sonra bu (zigot) ‘alakaya (embriyoya) dönüşmüş, (Allah) onu (insan biçiminde) yaratıp şekillendirmiştir."
-    },
-    {
-      "verseNo": 39,
-      "verseNoEnd": null,
-      "source": "ai",
-      "text": "Sonra ondan erkek ve dişi çiftler yarattı."
-    },
-    {
-      "verseNo": 39,
-      "source": "diyanet",
-      "text": "Nihayet ondan da erkek ve dişi iki eşi var etti."
-    },
-    {
-      "verseNo": 39,
-      "source": "esed",
-      "text": "ve ondan iki cinsi, erkeği ve dişiyi var etmişti"
-    },
-    {
-      "verseNo": 39,
-      "source": "okuyan",
-      "text": "(Allah) o (meni)den de iki eşi, yani erkek ve dişiyi var etmiştir."
-    },
-    {
-      "verseNo": 40,
-      "verseNoEnd": null,
-      "source": "ai",
-      "text": "Bunları yapmaya gücü yeten, ölüleri diriltmeye de gücü yetmez mi?"
-    },
-    {
-      "verseNo": 40,
-      "source": "diyanet",
-      "text": "Şimdi, bunları yapan Allah'ın ölüleri diriltmeye gücü yetmez mi?"
-    },
-    {
-      "verseNo": 40,
-      "source": "esed",
-      "text": "Öyleyse, Allah, ölüyü hayata yeniden döndüremez mi"
-    },
-    {
-      "verseNo": 40,
-      "source": "okuyan",
-      "text": "(Bunu yapan kudretin), ölüleri diriltmeye hiç gücü yetmez mi!"
-    }
-  ],
-  "aiParagraph": "Kaçmak için yer aradığında, kaçacak yer kalmadığını fark etmek insanı tuhaf bir yere bırakır — hem korkar hem de içten içe zaten bilir. Bu sure tam oraya dokunuyor: insanın kendini kendine karşı savunma refleksine, yaptıklarının hesabını ertelemek için ürettiği bahanelerin arkasına sığınma alışkanlığına. Metin açıkça söylüyor: insan kendi içinde şahididir, ne kadar mazeret üretirse üretsin. Hesap sorulup sorulmayacağını değil, ne zaman sorulacağını sorarak zaman kazanmaya çalışmak — bu, hayatını önüne sürerek yaşamak istemenin başka bir adı. Ölüm anı tarif ediliyor; can köprücük kemiğine dayandığında, \"onu kim kurtarır?\" diye sorulduğunda, iki bacağın birbirine dolandığı o anda kaçış kapıları teker teker kapanıyor. Sonra beklenmedik bir soru geliyor: İnsan başıboş bırakılacağını mı sanıyor? Henüz bir damla su iken şekillendirildi, dişi ve erkek kılındı — bu kadar ince bir başlangıçtan geçen biri, ölümden sonrasının olmayacağına nasıl karar verdi? Sure bir iddia değil, bir ayna tutuyor: insan zaten her şeyi biliyor, sadece bilmek istememeyi tercih ediyor."
+ "stationNo": 41,
+ "surahNo": 75,
+ "name": "Kıyâmet",
+ "nameArabic": "",
+ "nameMeaning": "",
+ "verseCount": 40,
+ "nuzulOrderOkuyan": 33,
+ "periodDiyanet": "Mekke",
+ "periodOkuyan": "Mekke",
+ "revelationTiming": "",
+ "stationTitle": "Ölümden Sonra Diriliş ve Kendini Kınayan Nefis",
+ "introduction": "Kıyâmet Suresi, adını ilk ayetinde geçen ve ölümden sonra dirilmeyi ifade eden 'kıyâme' kelimesinden alır. Kırk ayetten oluşan bu sure, Mekke döneminde, Kāria suresinden sonra inmiştir. Surenin ana ekseni, ölümden sonra dirilişin kesinliği, insanın bu dünyadaki sorumlulukları ve ahiret hayatındaki durumudur.\n\nSure, dört ana bölümden oluşur. Birinci bölümde kıyamet gününe ve kendini kınayan nefse yemin edilerek, Allah'ın insanı yeniden yaratmaya kadir olduğu vurgulanır. İkinci bölümde, Hz. Peygamber'in vahyi alma ve koruma konusundaki endişeleri giderilir. Üçüncü bölümde, insanların dünya hayatına kapılıp ahireti ihmal etmeleri eleştirilir ve müminlerin ahiretteki sevinçli halleri ile inkarcıların korkuları tasvir edilir. Dördüncü ve son bölümde ise, insanın yaratılış safhalarına dikkat çekilerek, onu yoktan var eden Allah'ın ölümden sonra da diriltmeye gücünün yeteceği belirtilir.\n\nSurenin temel mesajı, insanın başıboş bırakılmadığı, yaptıklarından hesaba çekileceği ve ölümden sonraki hayatın kaçınılmaz bir gerçek olduğudur. İnsanın kendi nefsini sorgulaması ve ahiret bilinciyle yaşaması gerektiği vurgulanır.",
+ "occasionOfRevelation": "Kıyâmet Suresi, Mekke döneminde inmiştir. Surenin nüzul sebebi olarak kaynaklarda genellikle şu olay nakledilir: Müşriklerden Adî b. Rebîa, bir gün Hz. Peygamber'e gelerek kıyametten bahsetmesini ister. Hz. Peygamber'in anlattıklarını dinledikten sonra, gözleriyle görse bile inanmayacağını, çürümüş kemiklerin toplanıp yeniden bir beden oluşturmasının imkânsız olduğunu söyler. Bunun üzerine surenin ilk ayetleri nazil olur.\n\nBu olay, surenin inişine somut bir vesile teşkil etse de, surenin asıl amacı, kıyamet gibi Kur'an'ın getirdiği temel inanç esaslarından biriyle ilgili olarak inananların inancını pekiştirmek ve inanmayanları imana davet etmektir. Surenin Mekke döneminin ilk yıllarında, risaletin 2. veya 3. yıllarında indiği tahmin edilmektedir.",
+ "occasionSources": "TDV İslâm Ansiklopedisi, \"Kıyâme Sûresi\" maddesi; Diyanet İşleri Başkanlığı Kur'an Yolu Tefsiri, Kıyâmet 1-4 ayet tefsiri; kuranokuyan.com, Kıyâmet suresi girişi (Prof. Dr. Mehmet Okuyan).",
+ "keyTerms": [
+  {
+   "term": "kıyâme",
+   "arabic": "الْقِيَامَةِ",
+   "verseRef": "75:1",
+   "meaning": "Ayağa kalkmak, dirilmek. Ayette ölümden sonraki diriliş gününü ifade eder."
+  },
+  {
+   "term": "nefs-i levvâme",
+   "arabic": "النَّفْسِ اللَّوَّامَةِ",
+   "verseRef": "75:2",
+   "meaning": "Kendini kınayan, yaptığı kötülüklerden pişmanlık duyan nefis. İnsanın vicdani sorgulamasını temsil eder."
+  },
+  {
+   "term": "tesviye",
+   "arabic": "نُسَوِّيَ",
+   "verseRef": "75:4",
+   "meaning": "Düzeltmek, eksiksiz yaratmak. Ayette insanın parmak uçlarına kadar kusursuzca yeniden yaratılacağını belirtir."
+  },
+  {
+   "term": "bennân",
+   "arabic": "بَنَانَهُ",
+   "verseRef": "75:4",
+   "meaning": "Parmak uçları. İnsanın benzersiz kimliğine ve Allah'ın yaratma gücünün inceliğine işaret eder."
+  },
+  {
+   "term": "südâ",
+   "arabic": "سُدًى",
+   "verseRef": "75:36",
+   "meaning": "Başıboş, sorumsuz. İnsanın dünyada amaçsız ve hesapsız bırakılmadığını vurgular."
+  }
+ ],
+ "themes": [
+  {
+   "label": "Öz Eleştiri ve Vicdan",
+   "body": "İnsanın kendi hatalarını görmesi ve kendini kınaması (nefs-i levvâme), ahlaki gelişimin temelidir. Hatalarla yüzleşmek, insanı olgunlaştırır."
+  },
+  {
+   "label": "Sorumluluk Bilinci",
+   "body": "İnsan başıboş yaratılmamıştır. Her eyleminin bir karşılığı vardır ve bu bilinç, hayata anlam katar."
+  },
+  {
+   "label": "Yeniden Yaratılış ve Umut",
+   "body": "Ölüm bir son değil, yeni bir başlangıçtır. Allah'ın yaratma gücü, insana adalet ve sonsuzluk umudu verir."
+  }
+ ],
+ "questions": [
+  "Kendi hatalarımı örtbas etmek yerine, onlarla dürüstçe yüzleşip kendimi kınayabiliyor muyum?",
+  "Hayatımı başıboş ve sorumsuz bir şekilde mi yaşıyorum, yoksa her anımın hesabını vereceğim bilinciyle mi hareket ediyorum?"
+ ],
+ "contemporaryMeaning": "Bu sure, insanın kendi içindeki en keskin mahkemeyi ve kendi gerçeğinden kaçma eğilimini merkeze alır. Metin, insanın sürekli mazeretler üreterek kendini haklı çıkarma çabası ile içten içe kendi kusurlarını bilen o sarsılmaz farkındalık arasındaki gerilimi anlatır. İnsanın başıboş bırakılmadığı gerçeği, her eylemin bir ağırlığı olduğu anlamına gelir.\n\nBugünün diliyle: Sürekli \"kendinle barışık ol\" diyerek kusurları örten bir kültürde, sure tam tersi bir yöne işaret eder. Kendi hatalarıyla yüzleşebilen, içindeki o rahatsız edici sesi susturmayan zihin, aslında en sahici uyanışı yaşar. Kariyer hırslarından ilişkilerdeki bencilliklere, sosyal medyadaki kusursuz vitrinlerden ekonomik kaygılara kadar her alanda üretilen bahaneler, insanın kendi gerçeğini bilmesini engellemez. İnsan, kendi aleyhine şahitlik edecek kadar kendini tanır.\n\nHemen elde edilecek olana, yani anlık hazlara ve hızlı başarılara duyulan aşırı iştah, uzun vadeli anlamı gölgeler. Bitmek bilmeyen onay arayışının veya statü kaygısının ardında, insanın kendi boşluk hissini uyuşturma çabası yatar. Metin, bu uyuşukluk halini yırtarak, insanın kendi aleyhine bile olsa hakikate şahitlik etmesinin, onu başıboşluk yanılsamasından kurtaracak tek yol olduğunu gösterir.",
+ "scholarlyNotes": [
+  {
+   "kind": "rivayet",
+   "body": "Bazı tefsirlerde yer alan \"Kim Kıyâme sûresini okursa kıyamet gününde ben ve Cebrâil onun mümin olduğuna şahitlik ederiz\" şeklindeki rivayet uydurma (mevzû) kabul edilir; güvenilir hadis kaynaklarında yer almaz ve dinî bir hüküm için itibar edilmemelidir.",
+   "label": "Surenin Fazileti Hakkında Uydurma Hadis"
+  },
+  {
+   "kind": "nuans",
+   "body": "Surenin 4. ayetinde parmak uçlarının düzeltileceğine dair ifade, insanların parmak uçlarının birbirinden farklı olduğu tesbitine dayanan ve suçluların bulunmasında yaygın biçimde kullanılan daktiloskopiye işaret olarak da açıklanmıştır.",
+   "label": "Parmak Uçları ve Daktiloskopi"
+  }
+ ],
+ "verses": [
+  {
+   "verseNo": 1,
+   "textArabic": "بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ لَآ أُقْسِمُ بِيَوْمِ ٱلْقِيَٰمَةِ"
+  },
+  {
+   "verseNo": 2,
+   "textArabic": "وَلَآ أُقْسِمُ بِٱلنَّفْسِ ٱللَّوَّامَةِ"
+  },
+  {
+   "verseNo": 3,
+   "textArabic": "أَيَحْسَبُ ٱلْإِنسَٰنُ أَلَّن نَّجْمَعَ عِظَامَهُۥ"
+  },
+  {
+   "verseNo": 4,
+   "textArabic": "بَلَىٰ قَٰدِرِينَ عَلَىٰٓ أَن نُّسَوِّىَ بَنَانَهُۥ"
+  },
+  {
+   "verseNo": 5,
+   "textArabic": "بَلْ يُرِيدُ ٱلْإِنسَٰنُ لِيَفْجُرَ أَمَامَهُۥ"
+  },
+  {
+   "verseNo": 6,
+   "textArabic": "يَسْـَٔلُ أَيَّانَ يَوْمُ ٱلْقِيَٰمَةِ"
+  },
+  {
+   "verseNo": 7,
+   "textArabic": "فَإِذَا بَرِقَ ٱلْبَصَرُ"
+  },
+  {
+   "verseNo": 8,
+   "textArabic": "وَخَسَفَ ٱلْقَمَرُ"
+  },
+  {
+   "verseNo": 9,
+   "textArabic": "وَجُمِعَ ٱلشَّمْسُ وَٱلْقَمَرُ"
+  },
+  {
+   "verseNo": 10,
+   "textArabic": "يَقُولُ ٱلْإِنسَٰنُ يَوْمَئِذٍ أَيْنَ ٱلْمَفَرُّ"
+  },
+  {
+   "verseNo": 11,
+   "textArabic": "كَلَّا لَا وَزَرَ"
+  },
+  {
+   "verseNo": 12,
+   "textArabic": "إِلَىٰ رَبِّكَ يَوْمَئِذٍ ٱلْمُسْتَقَرُّ"
+  },
+  {
+   "verseNo": 13,
+   "textArabic": "يُنَبَّؤُا۟ ٱلْإِنسَٰنُ يَوْمَئِذٍۭ بِمَا قَدَّمَ وَأَخَّرَ"
+  },
+  {
+   "verseNo": 14,
+   "textArabic": "بَلِ ٱلْإِنسَٰنُ عَلَىٰ نَفْسِهِۦ بَصِيرَةٌۭ"
+  },
+  {
+   "verseNo": 15,
+   "textArabic": "وَلَوْ أَلْقَىٰ مَعَاذِيرَهُۥ"
+  },
+  {
+   "verseNo": 16,
+   "textArabic": "لَا تُحَرِّكْ بِهِۦ لِسَانَكَ لِتَعْجَلَ بِهِۦٓ"
+  },
+  {
+   "verseNo": 17,
+   "textArabic": "إِنَّ عَلَيْنَا جَمْعَهُۥ وَقُرْءَانَهُۥ"
+  },
+  {
+   "verseNo": 18,
+   "textArabic": "فَإِذَا قَرَأْنَٰهُ فَٱتَّبِعْ قُرْءَانَهُۥ"
+  },
+  {
+   "verseNo": 19,
+   "textArabic": "ثُمَّ إِنَّ عَلَيْنَا بَيَانَهُۥ"
+  },
+  {
+   "verseNo": 20,
+   "textArabic": "كَلَّا بَلْ تُحِبُّونَ ٱلْعَاجِلَةَ"
+  },
+  {
+   "verseNo": 21,
+   "textArabic": "وَتَذَرُونَ ٱلْءَاخِرَةَ"
+  },
+  {
+   "verseNo": 22,
+   "textArabic": "وُجُوهٌۭ يَوْمَئِذٍۢ نَّاضِرَةٌ"
+  },
+  {
+   "verseNo": 23,
+   "textArabic": "إِلَىٰ رَبِّهَا نَاظِرَةٌۭ"
+  },
+  {
+   "verseNo": 24,
+   "textArabic": "وَوُجُوهٌۭ يَوْمَئِذٍۭ بَاسِرَةٌۭ"
+  },
+  {
+   "verseNo": 25,
+   "textArabic": "تَظُنُّ أَن يُفْعَلَ بِهَا فَاقِرَةٌۭ"
+  },
+  {
+   "verseNo": 26,
+   "textArabic": "كَلَّآ إِذَا بَلَغَتِ ٱلتَّرَاقِىَ"
+  },
+  {
+   "verseNo": 27,
+   "textArabic": "وَقِيلَ مَنْ ۜ رَاقٍۢ"
+  },
+  {
+   "verseNo": 28,
+   "textArabic": "وَظَنَّ أَنَّهُ ٱلْفِرَاقُ"
+  },
+  {
+   "verseNo": 29,
+   "textArabic": "وَٱلْتَفَّتِ ٱلسَّاقُ بِٱلسَّاقِ"
+  },
+  {
+   "verseNo": 30,
+   "textArabic": "إِلَىٰ رَبِّكَ يَوْمَئِذٍ ٱلْمَسَاقُ"
+  },
+  {
+   "verseNo": 31,
+   "textArabic": "فَلَا صَدَّقَ وَلَا صَلَّىٰ"
+  },
+  {
+   "verseNo": 32,
+   "textArabic": "وَلَٰكِن كَذَّبَ وَتَوَلَّىٰ"
+  },
+  {
+   "verseNo": 33,
+   "textArabic": "ثُمَّ ذَهَبَ إِلَىٰٓ أَهْلِهِۦ يَتَمَطَّىٰٓ"
+  },
+  {
+   "verseNo": 34,
+   "textArabic": "أَوْلَىٰ لَكَ فَأَوْلَىٰ"
+  },
+  {
+   "verseNo": 35,
+   "textArabic": "ثُمَّ أَوْلَىٰ لَكَ فَأَوْلَىٰٓ"
+  },
+  {
+   "verseNo": 36,
+   "textArabic": "أَيَحْسَبُ ٱلْإِنسَٰنُ أَن يُتْرَكَ سُدًى"
+  },
+  {
+   "verseNo": 37,
+   "textArabic": "أَلَمْ يَكُ نُطْفَةًۭ مِّن مَّنِىٍّۢ يُمْنَىٰ"
+  },
+  {
+   "verseNo": 38,
+   "textArabic": "ثُمَّ كَانَ عَلَقَةًۭ فَخَلَقَ فَسَوَّىٰ"
+  },
+  {
+   "verseNo": 39,
+   "textArabic": "فَجَعَلَ مِنْهُ ٱلزَّوْجَيْنِ ٱلذَّكَرَ وَٱلْأُنثَىٰٓ"
+  },
+  {
+   "verseNo": 40,
+   "textArabic": "أَلَيْسَ ذَٰلِكَ بِقَٰدِرٍ عَلَىٰٓ أَن يُحْۦِىَ ٱلْمَوْتَىٰ"
+  }
+ ],
+ "translations": [
+  {
+   "verseNo": 1,
+   "source": "diyanet",
+   "text": "Kıyamet gününe yemin ederim."
+  },
+  {
+   "verseNo": 1,
+   "source": "okuyan",
+   "text": "Hayır! Kıyamet gününe yemin ederim."
+  },
+  {
+   "verseNo": 1,
+   "source": "islamoglu",
+   "text": "Ötesi yok, Kıyamet Günü’ne Ben yemin ediyorum!"
+  },
+  {
+   "verseNo": 1,
+   "source": "esed",
+   "text": "Kıyamet Günü´nü tanıklığa çağırırım"
+  },
+  {
+   "verseNo": 2,
+   "source": "diyanet",
+   "text": "(Kusurlarından dolayı kendini) kınayan nefse de yemin ederim (ki diriltilip hesaba çekileceksiniz)."
+  },
+  {
+   "verseNo": 2,
+   "source": "okuyan",
+   "text": "Hayır! (Kendini) kınayan nefse (insana) da yemin ederim."
+  },
+  {
+   "verseNo": 2,
+   "source": "islamoglu",
+   "text": "Yine ötesi yok, kendini kınayan nefse Ben yemin ediyorum!"
+  },
+  {
+   "verseNo": 2,
+   "source": "esed",
+   "text": "İnsan vicdanının kınayan sesini tanıklığa çağırırım"
+  },
+  {
+   "verseNo": 3,
+   "source": "diyanet",
+   "text": "İnsan, kendisinin kemiklerini bir araya getiremeyeceğimizi mi sanır?"
+  },
+  {
+   "verseNo": 3,
+   "source": "okuyan",
+   "text": "(İnkarcı) insan, kemiklerini asla bir araya toplayamayacağımızı mı sanıyor!"
+  },
+  {
+   "verseNo": 3,
+   "source": "islamoglu",
+   "text": "İnsanoğlu kendisini (yeniden diriltip) kemiklerini bir araya getiremeyeceğimizi mi sanıyor?"
+  },
+  {
+   "verseNo": 3,
+   "source": "esed",
+   "text": "İnsan, (onu tekrar diriltip) kemiklerini yeniden bir araya getiremeyeceğimizi mi sanıyor"
+  },
+  {
+   "verseNo": 4,
+   "source": "diyanet",
+   "text": "Evet bizim, onun parmak uçlarını bile düzenlemeye gücümüz yeter."
+  },
+  {
+   "verseNo": 4,
+   "source": "okuyan",
+   "text": "Evet! Biz onun parmak uçlarını bile düzenlemeye gücü yetenleriz."
+  },
+  {
+   "verseNo": 4,
+   "source": "islamoglu",
+   "text": "Bilakis onu parmak uçlarına kadar yeniden diriltmeye kadiriz."
+  },
+  {
+   "verseNo": 4,
+   "source": "esed",
+   "text": "Hayır, kesinlikle! Onu parmak uçlarına kadar yeniden var etmeye kadiriz"
+  },
+  {
+   "verseNo": 5,
+   "source": "diyanet",
+   "text": "Fakat insan önünü (geleceğini, kıyameti) yalanlamak ister."
+  },
+  {
+   "verseNo": 5,
+   "source": "okuyan",
+   "text": "5-6 . Aslında (inkârcı) insan, “Kıyamet günü de ne zamanmış!” diye sorarak, önündekini (ahireti) yalanlamak ister."
+  },
+  {
+   "verseNo": 5,
+   "source": "islamoglu",
+   "text": "Ne var ki genellikle (inkârcı) insan, önündeki (hakikati) yalanlamaya bayılır;"
+  },
+  {
+   "verseNo": 5,
+   "source": "esed",
+   "text": "Ama yine de insan, önüne serilmiş olan şeyi inkara kalkışır"
+  },
+  {
+   "verseNo": 6,
+   "source": "diyanet",
+   "text": "\"O kıyamet günü ne zaman?\" diye sorar."
+  },
+  {
+   "verseNo": 6,
+   "source": "okuyan",
+   "text": "5-6 . Aslında (inkârcı) insan, “Kıyamet günü de ne zamanmış!” diye sorarak, önündekini (ahireti) yalanlamak ister."
+  },
+  {
+   "verseNo": 6,
+   "source": "islamoglu",
+   "text": "o şöyle sorar: “Şu kıyamet dediğiniz şey ne zaman kopacak?”"
+  },
+  {
+   "verseNo": 6,
+   "source": "esed",
+   "text": "ve (istihza ile) sorar: \"Şu Kıyamet Günü ne zaman gelecekmiş"
+  },
+  {
+   "verseNo": 7,
+   "source": "diyanet",
+   "text": "Gözler kamaştığı, ay karanlığa gömüldüğü, güneş ve ay bir araya getirildiği zaman, o gün insan \"kaçış nereye?\" diyecektir."
+  },
+  {
+   "verseNo": 7,
+   "source": "okuyan",
+   "text": "7-10 . İşte göz(ler kamaşıp) şimşek çaktığı, ay karardığı, güneş ve ay bir araya getirildiği zaman, işte o gün (inkârcı) insan “(Acaba) nereye kaçmalı(yım)?” diyecektir."
+  },
+  {
+   "verseNo": 7,
+   "source": "islamoglu",
+   "text": "Bakın: o zaman gözler şimşek şimşek çakacak;"
+  },
+  {
+   "verseNo": 7,
+   "source": "esed",
+   "text": "Ama (o Gün,) gözler korku ile açıldığında"
+  },
+  {
+   "verseNo": 8,
+   "source": "diyanet",
+   "text": "Gözler kamaştığı, ay karanlığa gömüldüğü, güneş ve ay bir araya getirildiği zaman, o gün insan \"kaçış nereye?\" diyecektir."
+  },
+  {
+   "verseNo": 8,
+   "source": "okuyan",
+   "text": "7-10 . İşte göz(ler kamaşıp) şimşek çaktığı, ay karardığı, güneş ve ay bir araya getirildiği zaman, işte o gün (inkârcı) insan “(Acaba) nereye kaçmalı(yım)?” diyecektir."
+  },
+  {
+   "verseNo": 8,
+   "source": "islamoglu",
+   "text": "ve Ay sönüp gidecek;"
+  },
+  {
+   "verseNo": 8,
+   "source": "esed",
+   "text": "ve ay karanlığa gömüldüğünde"
+  },
+  {
+   "verseNo": 9,
+   "source": "diyanet",
+   "text": "Gözler kamaştığı, ay karanlığa gömüldüğü, güneş ve ay bir araya getirildiği zaman, o gün insan \"kaçış nereye?\" diyecektir."
+  },
+  {
+   "verseNo": 9,
+   "source": "okuyan",
+   "text": "7-10 . İşte göz(ler kamaşıp) şimşek çaktığı, ay karardığı, güneş ve ay bir araya getirildiği zaman, işte o gün (inkârcı) insan “(Acaba) nereye kaçmalı(yım)?” diyecektir."
+  },
+  {
+   "verseNo": 9,
+   "source": "islamoglu",
+   "text": "çünkü güneş ve Ay birleştirilecek;"
+  },
+  {
+   "verseNo": 9,
+   "source": "esed",
+   "text": "ve güneş ile ay bir araya getirildiğinde"
+  },
+  {
+   "verseNo": 10,
+   "source": "diyanet",
+   "text": "Gözler kamaştığı, ay karanlığa gömüldüğü, güneş ve ay bir araya getirildiği zaman, o gün insan \"kaçış nereye?\" diyecektir."
+  },
+  {
+   "verseNo": 10,
+   "source": "okuyan",
+   "text": "7-10 . İşte göz(ler kamaşıp) şimşek çaktığı, ay karardığı, güneş ve ay bir araya getirildiği zaman, işte o gün (inkârcı) insan “(Acaba) nereye kaçmalı(yım)?” diyecektir."
+  },
+  {
+   "verseNo": 10,
+   "source": "islamoglu",
+   "text": "insan o gün şöyle diyecek: “Nereye kaçmalı?”"
+  },
+  {
+   "verseNo": 10,
+   "source": "esed",
+   "text": "o Gün insan haykıracak: \"(Eyvah!) Nereye kaçayım"
+  },
+  {
+   "verseNo": 11,
+   "source": "diyanet",
+   "text": "Hayır, hiçbir sığınacak yer yoktur."
+  },
+  {
+   "verseNo": 11,
+   "source": "okuyan",
+   "text": "Hayır! Sığınacak (bir) yer yoktur!"
+  },
+  {
+   "verseNo": 11,
+   "source": "islamoglu",
+   "text": "Yoo! Hiçbir sığınak yok!"
+  },
+  {
+   "verseNo": 11,
+   "source": "esed",
+   "text": "Hayır! Bir sığınak yok (senin için, ey insan)"
+  },
+  {
+   "verseNo": 12,
+   "source": "diyanet",
+   "text": "O gün varıp durulacak yer, sadece Rabbinin huzurudur."
+  },
+  {
+   "verseNo": 12,
+   "source": "okuyan",
+   "text": "O gün varılacak yer sadece Rabbinin huzurudur."
+  },
+  {
+   "verseNo": 12,
+   "source": "islamoglu",
+   "text": "O gün, yolların sonu Rabbinin katına çıkacak;"
+  },
+  {
+   "verseNo": 12,
+   "source": "esed",
+   "text": "O Gün bütün yolların varış yeri, Rabbinin katı olacak"
+  },
+  {
+   "verseNo": 13,
+   "source": "diyanet",
+   "text": "O gün insana, yapıp önden gönderdiği ve yapmayıp geri bıraktığı şeyler haber verilir."
+  },
+  {
+   "verseNo": 13,
+   "source": "okuyan",
+   "text": "O gün, (dünyada yapıp) öne sürdüğü ve (yapmayıp) geride bıraktığı ne varsa insana bildirilecektir."
+  },
+  {
+   "verseNo": 13,
+   "source": "islamoglu",
+   "text": "o gün insanoğluna önceledikleri ve erteledikleri bir bir haber verilecek;"
+  },
+  {
+   "verseNo": 13,
+   "source": "esed",
+   "text": "O Gün insana, yaptığı ve yapmadığı her şey bildirilecek"
+  },
+  {
+   "verseNo": 14,
+   "source": "diyanet",
+   "text": "Hatta, mazeretlerini ortaya koysa da, o gün insan kendi aleyhine şahittir."
+  },
+  {
+   "verseNo": 14,
+   "source": "okuyan",
+   "text": "Esasında insanoğlu kendi kendinin şahididir."
+  },
+  {
+   "verseNo": 14,
+   "source": "islamoglu",
+   "text": "bilakis insan kendi benliğine şahit olacak;"
+  },
+  {
+   "verseNo": 14,
+   "source": "esed",
+   "text": "hayır, aslında insan, kendi aleyhine şahitlik yapacak"
+  },
+  {
+   "verseNo": 15,
+   "source": "diyanet",
+   "text": "Hatta, mazeretlerini ortaya koysa da, o gün insan kendi aleyhine şahittir."
+  },
+  {
+   "verseNo": 15,
+   "source": "okuyan",
+   "text": "15-16 . (Birtakım) mazeretler ileri sürmeye kalkışacak olsaydı bile (ona şöyle denecektir: Ey suçlu kişi)! Artık onu (hakkındaki hükmü) çabucak almak için dilini kımıldatma!"
+  },
+  {
+   "verseNo": 15,
+   "source": "islamoglu",
+   "text": "türlü mazeretler ortaya koymuş olsa bile…"
+  },
+  {
+   "verseNo": 15,
+   "source": "esed",
+   "text": "mazeretler bulup kendi (yaptıkları)nı gizlemeye çalışsa bile"
+  },
+  {
+   "verseNo": 16,
+   "source": "diyanet",
+   "text": "(Ey Muhammed!) Onu (vahyi) çarçabuk almak için dilini kımıldatma."
+  },
+  {
+   "verseNo": 16,
+   "source": "okuyan",
+   "text": "15-16 . (Birtakım) mazeretler ileri sürmeye kalkışacak olsaydı bile (ona şöyle denecektir: Ey suçlu kişi)! Artık onu (hakkındaki hükmü) çabucak almak için dilini kımıldatma!"
+  },
+  {
+   "verseNo": 16,
+   "source": "islamoglu",
+   "text": "O sebeple aceleyle dilini oynatıp durma:"
+  },
+  {
+   "verseNo": 16,
+   "source": "esed",
+   "text": "(Vahyin sözlerini tekrarlarken) dilini hızla oynatıp durma"
+  },
+  {
+   "verseNo": 17,
+   "source": "diyanet",
+   "text": "Şüphesiz onu toplamak ve okumak bize aittir."
+  },
+  {
+   "verseNo": 17,
+   "source": "okuyan",
+   "text": "Şüphesiz ki onun toplanması ve okunması sadece bize aittir."
+  },
+  {
+   "verseNo": 17,
+   "source": "islamoglu",
+   "text": "Şüphesiz onun toplanması da, okunuşu da bize düşer;"
+  },
+  {
+   "verseNo": 17,
+   "source": "esed",
+   "text": "çünkü onu (senin kalbine) yerleştirmek ve (gerektiğinde) okutturmak Bizim işimizdir"
+  },
+  {
+   "verseNo": 18,
+   "source": "diyanet",
+   "text": "O halde, biz onu okuduğumuz zaman, onun okunuşuna uy."
+  },
+  {
+   "verseNo": 18,
+   "source": "okuyan",
+   "text": "Biz onu okuduğumuz zaman okunuşunu takip et!"
+  },
+  {
+   "verseNo": 18,
+   "source": "islamoglu",
+   "text": "artık Biz onu okuduğumuzda sen sadece onun okunuşunu izle;"
+  },
+  {
+   "verseNo": 18,
+   "source": "esed",
+   "text": "Böylece, onu telaffuz ettiğimiz zaman, kelimelerini (bütün zihnini vererek) takip et"
+  },
+  {
+   "verseNo": 19,
+   "source": "diyanet",
+   "text": "Sonra onu açıklamak da bize aittir."
+  },
+  {
+   "verseNo": 19,
+   "source": "okuyan",
+   "text": "Sonra onu açıklamak da sadece bize aittir."
+  },
+  {
+   "verseNo": 19,
+   "source": "islamoglu",
+   "text": "sonra elbet onu beyan etmek de yine Bize düşer."
+  },
+  {
+   "verseNo": 19,
+   "source": "esed",
+   "text": "sonra onun anlamını açıklamak da Bize düşer"
+  },
+  {
+   "verseNo": 20,
+   "source": "diyanet",
+   "text": "Hayır! Siz dünyayı seviyorsunuz ve ahireti bırakıyorsunuz."
+  },
+  {
+   "verseNo": 20,
+   "source": "okuyan",
+   "text": "Hayır! Doğrusu siz çabucak geçeni (dünyayı) seviyorsunuz."
+  },
+  {
+   "verseNo": 20,
+   "source": "islamoglu",
+   "text": "Yoo! Bilakis siz hemen şimdi ve burada olanı seviyor"
+  },
+  {
+   "verseNo": 20,
+   "source": "esed",
+   "text": "(Çoğunuz) bu geçici hayatı seviyorsunuz"
+  },
+  {
+   "verseNo": 21,
+   "source": "diyanet",
+   "text": "Hayır! Siz dünyayı seviyorsunuz ve ahireti bırakıyorsunuz."
+  },
+  {
+   "verseNo": 21,
+   "source": "okuyan",
+   "text": "Ahireti bırakıyorsunuz."
+  },
+  {
+   "verseNo": 21,
+   "source": "islamoglu",
+   "text": "ve öteki dünyayı göz ardı ediyorsunuz."
+  },
+  {
+   "verseNo": 21,
+   "source": "esed",
+   "text": "ama öteki dünyayı (ve Hesap Günü´nü) hiç düşünmüyorsunuz"
+  },
+  {
+   "verseNo": 22,
+   "source": "diyanet",
+   "text": "O gün bir takım yüzler aydındır."
+  },
+  {
+   "verseNo": 22,
+   "source": "okuyan",
+   "text": "22-23 . O gün bazı yüzler, Rablerini(n kararını) beklerken ışıl ışıl olacaktır."
+  },
+  {
+   "verseNo": 22,
+   "source": "islamoglu",
+   "text": "O gün bazı yüzler mutluluktan ışıl ışıl, ap aktır;"
+  },
+  {
+   "verseNo": 22,
+   "source": "esed",
+   "text": "Bazı yüzler o Gün mutlulukla parlayacak"
+  },
+  {
+   "verseNo": 23,
+   "source": "diyanet",
+   "text": "Rablerine bakarlar."
+  },
+  {
+   "verseNo": 23,
+   "source": "okuyan",
+   "text": "22-23 . O gün bazı yüzler, Rablerini(n kararını) beklerken ışıl ışıl olacaktır."
+  },
+  {
+   "verseNo": 23,
+   "source": "islamoglu",
+   "text": "Rablerine tarifsiz bir biçimde nazar edecek."
+  },
+  {
+   "verseNo": 23,
+   "source": "esed",
+   "text": "Rablerine bakarken"
+  },
+  {
+   "verseNo": 24,
+   "source": "diyanet",
+   "text": "O gün bir takım yüzler de asıktır."
+  },
+  {
+   "verseNo": 24,
+   "source": "okuyan",
+   "text": "24-25 . O gün bazı asık yüzler de vardır ki bel kemiklerini kıran bir felakete uğratılacağını anlayacaktır."
+  },
+  {
+   "verseNo": 24,
+   "source": "islamoglu",
+   "text": "O gün bazı yüzler asık ve kapkaradır;"
+  },
+  {
+   "verseNo": 24,
+   "source": "esed",
+   "text": "ve o Gün bazı yüzler ümitsizlikle kararacak"
+  },
+  {
+   "verseNo": 25,
+   "source": "diyanet",
+   "text": "Bel kemiklerini kıran bir felakete uğratılacaklarını anlarlar."
+  },
+  {
+   "verseNo": 25,
+   "source": "okuyan",
+   "text": "24-25 . O gün bazı asık yüzler de vardır ki bel kemiklerini kıran bir felakete uğratılacağını anlayacaktır."
+  },
+  {
+   "verseNo": 25,
+   "source": "islamoglu",
+   "text": "başlarına dehşet bir felaketin geldiğine iyice kâni olacaklar."
+  },
+  {
+   "verseNo": 25,
+   "source": "esed",
+   "text": "çatırdatan bir felaketin başlarına gelmek üzere olduğunu bilerek"
+  },
+  {
+   "verseNo": 26,
+   "source": "diyanet",
+   "text": "Hayır, can boğaza dayandığı, \"Kimdir (bunu) iyi edecek?\" dendiği, (ölmek üzere olanın da) bunun ayrılış olduğunu bildiği, bacakların birbirine dolandığı zaman, işte o gün sevkediliş Rabbinedir."
+  },
+  {
+   "verseNo": 26,
+   "source": "okuyan",
+   "text": "26-30 . Doğrusu (can), köprücük kemiğine dayanıp “Tedavi edebilecek kimdir?” dendiğinde, bunun gerçek bir ayrılık olduğunu anlayıp bacak(lar) birbirine dolaştığında, işte o gün varılacak yer sadece Rabbinin huzuru olacaktır."
+  },
+  {
+   "verseNo": 26,
+   "source": "islamoglu",
+   "text": "EVET, can boğaza gelip dayandığı zaman"
+  },
+  {
+   "verseNo": 26,
+   "source": "esed",
+   "text": "Ne zaman ki, (son nefes, ölen birinin) boğazına gelip düğümlenir"
+  },
+  {
+   "verseNo": 27,
+   "source": "diyanet",
+   "text": "Hayır, can boğaza dayandığı, \"Kimdir (bunu) iyi edecek?\" dendiği, (ölmek üzere olanın da) bunun ayrılış olduğunu bildiği, bacakların birbirine dolandığı zaman, işte o gün sevkediliş Rabbinedir."
+  },
+  {
+   "verseNo": 27,
+   "source": "okuyan",
+   "text": "26-30 . Doğrusu (can), köprücük kemiğine dayanıp “Tedavi edebilecek kimdir?” dendiğinde, bunun gerçek bir ayrılık olduğunu anlayıp bacak(lar) birbirine dolaştığında, işte o gün varılacak yer sadece Rabbinin huzuru olacaktır."
+  },
+  {
+   "verseNo": 27,
+   "source": "islamoglu",
+   "text": "bir çığlık koparılacak: “Kim…şifacı?”"
+  },
+  {
+   "verseNo": 27,
+   "source": "esed",
+   "text": "ve insanlar: \"(onu kurtaracak) bir hekim yok mu?\" diye sorarlar"
+  },
+  {
+   "verseNo": 28,
+   "source": "diyanet",
+   "text": "Hayır, can boğaza dayandığı, \"Kimdir (bunu) iyi edecek?\" dendiği, (ölmek üzere olanın da) bunun ayrılış olduğunu bildiği, bacakların birbirine dolandığı zaman, işte o gün sevkediliş Rabbinedir."
+  },
+  {
+   "verseNo": 28,
+   "source": "okuyan",
+   "text": "26-30 . Doğrusu (can), köprücük kemiğine dayanıp “Tedavi edebilecek kimdir?” dendiğinde, bunun gerçek bir ayrılık olduğunu anlayıp bacak(lar) birbirine dolaştığında, işte o gün varılacak yer sadece Rabbinin huzuru olacaktır."
+  },
+  {
+   "verseNo": 28,
+   "source": "islamoglu",
+   "text": "Artık ayrılık vaktinin gelip çattığına aklı iyice yatmıştır;"
+  },
+  {
+   "verseNo": 28,
+   "source": "esed",
+   "text": "kendisi de bilir ki bu ayrılma vaktidir"
+  },
+  {
+   "verseNo": 29,
+   "source": "diyanet",
+   "text": "Hayır, can boğaza dayandığı, \"Kimdir (bunu) iyi edecek?\" dendiği, (ölmek üzere olanın da) bunun ayrılış olduğunu bildiği, bacakların birbirine dolandığı zaman, işte o gün sevkediliş Rabbinedir."
+  },
+  {
+   "verseNo": 29,
+   "source": "okuyan",
+   "text": "26-30 . Doğrusu (can), köprücük kemiğine dayanıp “Tedavi edebilecek kimdir?” dendiğinde, bunun gerçek bir ayrılık olduğunu anlayıp bacak(lar) birbirine dolaştığında, işte o gün varılacak yer sadece Rabbinin huzuru olacaktır."
+  },
+  {
+   "verseNo": 29,
+   "source": "islamoglu",
+   "text": "ayaklar birbirine dolaşmıştır:"
+  },
+  {
+   "verseNo": 29,
+   "source": "esed",
+   "text": "ve ölüm sancıları ile örülmektedir"
+  },
+  {
+   "verseNo": 30,
+   "source": "diyanet",
+   "text": "Hayır, can boğaza dayandığı, \"Kimdir (bunu) iyi edecek?\" dendiği, (ölmek üzere olanın da) bunun ayrılış olduğunu bildiği, bacakların birbirine dolandığı zaman, işte o gün sevkediliş Rabbinedir."
+  },
+  {
+   "verseNo": 30,
+   "source": "okuyan",
+   "text": "26-30 . Doğrusu (can), köprücük kemiğine dayanıp “Tedavi edebilecek kimdir?” dendiğinde, bunun gerçek bir ayrılık olduğunu anlayıp bacak(lar) birbirine dolaştığında, işte o gün varılacak yer sadece Rabbinin huzuru olacaktır."
+  },
+  {
+   "verseNo": 30,
+   "source": "islamoglu",
+   "text": "o gün sürüklenip götürülüş Rabbine doğrudur."
+  },
+  {
+   "verseNo": 30,
+   "source": "esed",
+   "text": "işte o zaman gidişinin Rabbine doğru olduğunu hisseder"
+  },
+  {
+   "verseNo": 31,
+   "source": "diyanet",
+   "text": "O, (Peygamberi) doğrulamamış, namaz da kılmamıştı."
+  },
+  {
+   "verseNo": 31,
+   "source": "okuyan",
+   "text": "(İnkârcı kişi, hem gerçeği) onaylamamıştı; (hem de Allah’ın dinine) destek olmamıştı."
+  },
+  {
+   "verseNo": 31,
+   "source": "islamoglu",
+   "text": "Fakat o (insan) hakikati tasdik etmedi ve yönünü Allah’a dönmedi;"
+  },
+  {
+   "verseNo": 31,
+   "source": "esed",
+   "text": "(Artık son pişmanlık fayda etmez) çünkü (yaşadığı sürece) hakikati kabul etmedi ve (aydınlığa kavuşmak için) namaz kılmadı"
+  },
+  {
+   "verseNo": 32,
+   "source": "diyanet",
+   "text": "Fakat yalanlamış ve yüz çevirmişti."
+  },
+  {
+   "verseNo": 32,
+   "source": "okuyan",
+   "text": "Aksine yalanlamış ve yüz çevirmişti."
+  },
+  {
+   "verseNo": 32,
+   "source": "islamoglu",
+   "text": "fakat yalanladı ve sırt döndü;"
+  },
+  {
+   "verseNo": 32,
+   "source": "esed",
+   "text": "tam tersine, hakikati yalanladı ve (ondan) uzaklaştı"
+  },
+  {
+   "verseNo": 33,
+   "source": "diyanet",
+   "text": "Sonra da kasıla kasıla ailesine gitmişti."
+  },
+  {
+   "verseNo": 33,
+   "source": "okuyan",
+   "text": "Sonra da kibirlenerek kendi ailesine gitmişti."
+  },
+  {
+   "verseNo": 33,
+   "source": "islamoglu",
+   "text": "sonra çalım satarak aşiretine sığındı:"
+  },
+  {
+   "verseNo": 33,
+   "source": "esed",
+   "text": "ve sonra böbürlenerek geldiği yere döndü"
+  },
+  {
+   "verseNo": 34,
+   "source": "diyanet",
+   "text": "\"Bu azap sana layıktır, layık! Evet, layıktır sana, layık!\" denecektir."
+  },
+  {
+   "verseNo": 34,
+   "source": "okuyan",
+   "text": "Yazıklar olsun sana, yazıklar olsun!"
+  },
+  {
+   "verseNo": 34,
+   "source": "islamoglu",
+   "text": "İşte yaklaşmakta olan, hem de çok yakınında!"
+  },
+  {
+   "verseNo": 34,
+   "source": "esed",
+   "text": "(Ama ey insan, akibetin geliyor her dakika) yakınına, daha da yakınına"
+  },
+  {
+   "verseNo": 35,
+   "source": "diyanet",
+   "text": "\"Bu azap sana layıktır, layık! Evet, layıktır sana, layık!\" denecektir."
+  },
+  {
+   "verseNo": 35,
+   "source": "okuyan",
+   "text": "Sonra (tekrar) yazıklar olsun sana, yazıklar olsun!"
+  },
+  {
+   "verseNo": 35,
+   "source": "islamoglu",
+   "text": "Tekrar (duy ey insan), yaklaşmakta olan hemen yanıbaşında!"
+  },
+  {
+   "verseNo": 35,
+   "source": "esed",
+   "text": "yakınına, daha da yakınına"
+  },
+  {
+   "verseNo": 36,
+   "source": "diyanet",
+   "text": "İnsan, kendisinin başıboş bırakılacağını mı zanneder."
+  },
+  {
+   "verseNo": 36,
+   "source": "okuyan",
+   "text": "İnsan, kendisinin başıboş bırakılacağını mı sanıyor!"
+  },
+  {
+   "verseNo": 36,
+   "source": "islamoglu",
+   "text": "NE YANİ, insanoğlu başıboş bırakılacağını mı sanıyor?"
+  },
+  {
+   "verseNo": 36,
+   "source": "esed",
+   "text": "İnsan, başıboş bırakılacağını ve dilediği gibi hareket edebileceğini mi sanır"
+  },
+  {
+   "verseNo": 37,
+   "source": "diyanet",
+   "text": "O dökülen meniden ibaret az bir su değil miydi?"
+  },
+  {
+   "verseNo": 37,
+   "source": "okuyan",
+   "text": "(İnsan) akıtılan meninin (spermin) bir kısmından (oluşan) bir nutfe (zigot) değil miydi!"
+  },
+  {
+   "verseNo": 37,
+   "source": "islamoglu",
+   "text": "O, bir zamanlar akıtılan bir damlacık sıvı değil miydi?"
+  },
+  {
+   "verseNo": 37,
+   "source": "esed",
+   "text": "O, bir zamanlar (sadece) akıtılan bir meni damlası değil miydi"
+  },
+  {
+   "verseNo": 38,
+   "source": "diyanet",
+   "text": "Sonra bu, bir \"alaka\" oldu. Derken Allah onu yaratıp güzelce şekillendirdi."
+  },
+  {
+   "verseNo": 38,
+   "source": "okuyan",
+   "text": "Sonra bu (zigot) ‘alakaya (embriyoya) dönüşmüş, (Allah) onu (insan biçiminde) yaratıp şekillendirmiştir."
+  },
+  {
+   "verseNo": 38,
+   "source": "islamoglu",
+   "text": "Sonra bir parçacık pıhtı olmuş; bu safhada (Allah) onu yarattığı (gibi) şekil de vermişti;"
+  },
+  {
+   "verseNo": 38,
+   "source": "esed",
+   "text": "ve sonra döllenmiş hücre; bu safhada Allah (onu) yaratmış ve olması gerektiği gibi şekil vermişti"
+  },
+  {
+   "verseNo": 39,
+   "source": "diyanet",
+   "text": "Nihayet ondan da erkek ve dişi iki eşi var etti."
+  },
+  {
+   "verseNo": 39,
+   "source": "okuyan",
+   "text": "(Allah) o (meni)den de iki eşi, yani erkek ve dişiyi var etmiştir."
+  },
+  {
+   "verseNo": 39,
+   "source": "islamoglu",
+   "text": "nihayet ondan erkek ve dişi cinsler var etmişti."
+  },
+  {
+   "verseNo": 39,
+   "source": "esed",
+   "text": "ve ondan iki cinsi, erkeği ve dişiyi var etmişti"
+  },
+  {
+   "verseNo": 40,
+   "source": "diyanet",
+   "text": "Şimdi, bunları yapan Allah'ın ölüleri diriltmeye gücü yetmez mi?"
+  },
+  {
+   "verseNo": 40,
+   "source": "okuyan",
+   "text": "(Bunu yapan kudretin), ölüleri diriltmeye hiç gücü yetmez mi!"
+  },
+  {
+   "verseNo": 40,
+   "source": "islamoglu",
+   "text": "Şu halde aynı (Allah) ölüye hayat vermeye kadir değil midir?"
+  },
+  {
+   "verseNo": 40,
+   "source": "esed",
+   "text": "Öyleyse, Allah, ölüyü hayata yeniden döndüremez mi"
+  },
+  {
+   "verseNo": 1,
+   "verseNoEnd": null,
+   "source": "ai",
+   "text": "Kıyamet gününe andolsun."
+  },
+  {
+   "verseNo": 2,
+   "verseNoEnd": null,
+   "source": "ai",
+   "text": "Kendini kınayan nefse andolsun."
+  },
+  {
+   "verseNo": 3,
+   "verseNoEnd": null,
+   "source": "ai",
+   "text": "İnsan, kemiklerini toplayamayacağımızı mı sanıyor?"
+  },
+  {
+   "verseNo": 4,
+   "verseNoEnd": null,
+   "source": "ai",
+   "text": "Hayır; parmak uçlarını bile düzeltebilecek güçteyiz."
+  },
+  {
+   "verseNo": 5,
+   "verseNoEnd": null,
+   "source": "ai",
+   "text": "Bilakis insan, önünde daha çok günah işlemeyi ister."
+  },
+  {
+   "verseNo": 6,
+   "verseNoEnd": null,
+   "source": "ai",
+   "text": "O, \"Kıyamet günü ne zaman?\" diye sorar."
+  },
+  {
+   "verseNo": 7,
+   "verseNoEnd": null,
+   "source": "ai",
+   "text": "O zaman göz kamaşır."
+  },
+  {
+   "verseNo": 8,
+   "verseNoEnd": null,
+   "source": "ai",
+   "text": "Ve ay tutulur."
+  },
+  {
+   "verseNo": 9,
+   "verseNoEnd": null,
+   "source": "ai",
+   "text": "Güneş ve ay bir araya getirilir."
+  },
+  {
+   "verseNo": 10,
+   "verseNoEnd": null,
+   "source": "ai",
+   "text": "O gün insan der: \"Nerede kaçacak yer?\""
+  },
+  {
+   "verseNo": 11,
+   "verseNoEnd": null,
+   "source": "ai",
+   "text": "Hayır, hiçbir yük yoktur."
+  },
+  {
+   "verseNo": 12,
+   "verseNoEnd": null,
+   "source": "ai",
+   "text": "O gün dönüş Rabbinedir."
+  },
+  {
+   "verseNo": 13,
+   "verseNoEnd": null,
+   "source": "ai",
+   "text": "İnsan o gün yaptıkları ve erteledikleri ile haber verilir."
+  },
+  {
+   "verseNo": 14,
+   "verseNoEnd": null,
+   "source": "ai",
+   "text": "Bilakis insan kendi hakkında gözcüdür."
+  },
+  {
+   "verseNo": 15,
+   "verseNoEnd": null,
+   "source": "ai",
+   "text": "Ve eğer mazeretlerini öne sürse."
+  },
+  {
+   "verseNo": 16,
+   "verseNoEnd": null,
+   "source": "ai",
+   "text": "Acele etmek için dilini onunla oynatma."
+  },
+  {
+   "verseNo": 17,
+   "verseNoEnd": null,
+   "source": "ai",
+   "text": "Gerçekten onun toplanması ve Kur'an'ı bizim üzerimizdedir."
+  },
+  {
+   "verseNo": 18,
+   "verseNoEnd": null,
+   "source": "ai",
+   "text": "Onu okuduğumuzda onun okunuşunu takip et."
+  },
+  {
+   "verseNo": 19,
+   "verseNoEnd": null,
+   "source": "ai",
+   "text": "Sonra onun açıklaması bizim üzerimizdedir."
+  },
+  {
+   "verseNo": 20,
+   "verseNoEnd": null,
+   "source": "ai",
+   "text": "Hayır, bilakis siz aceleyi seversiniz."
+  },
+  {
+   "verseNo": 21,
+   "verseNoEnd": null,
+   "source": "ai",
+   "text": "Ve ahireti bırakırsınız."
+  },
+  {
+   "verseNo": 22,
+   "verseNoEnd": null,
+   "source": "ai",
+   "text": "O gün yüzler aydınlık olacaktır."
+  },
+  {
+   "verseNo": 23,
+   "verseNoEnd": null,
+   "source": "ai",
+   "text": "Rablerine bakacaklardır."
+  },
+  {
+   "verseNo": 24,
+   "verseNoEnd": null,
+   "source": "ai",
+   "text": "O gün bir takım yüzler de asıktır."
+  },
+  {
+   "verseNo": 25,
+   "verseNoEnd": null,
+   "source": "ai",
+   "text": "Bel kemiklerini kıran bir felakete uğratılacaklarını anlarlar."
+  },
+  {
+   "verseNo": 26,
+   "verseNoEnd": null,
+   "source": "ai",
+   "text": "Hayır! Can boğaza dayandığı zaman."
+  },
+  {
+   "verseNo": 27,
+   "verseNoEnd": null,
+   "source": "ai",
+   "text": "Ve denildi: \"Kim onu iyileştirecek?\""
+  },
+  {
+   "verseNo": 28,
+   "verseNoEnd": null,
+   "source": "ai",
+   "text": "Ve bunun ayrılık olduğunu sandı."
+  },
+  {
+   "verseNo": 29,
+   "verseNoEnd": null,
+   "source": "ai",
+   "text": "Ve bacaklar birbirine dolandı."
+  },
+  {
+   "verseNo": 30,
+   "verseNoEnd": null,
+   "source": "ai",
+   "text": "İşte o gün sevkediliş Rabbinedir."
+  },
+  {
+   "verseNo": 31,
+   "verseNoEnd": null,
+   "source": "ai",
+   "text": "Ne inandı ne de namaz kıldı."
+  },
+  {
+   "verseNo": 32,
+   "verseNoEnd": null,
+   "source": "ai",
+   "text": "Ama inkâr etti ve yüz çevirdi."
+  },
+  {
+   "verseNo": 33,
+   "verseNoEnd": null,
+   "source": "ai",
+   "text": "Sonra evine gitti, kendini göstererek."
+  },
+  {
+   "verseNo": 34,
+   "verseNoEnd": null,
+   "source": "ai",
+   "text": "Sana daha uygundu, daha uygundu."
+  },
+  {
+   "verseNo": 35,
+   "verseNoEnd": null,
+   "source": "ai",
+   "text": "Sonra sana daha da uygundu, daha da uygundu."
+  },
+  {
+   "verseNo": 36,
+   "verseNoEnd": null,
+   "source": "ai",
+   "text": "İnsan, başıboş bırakılacağını mı sanır?"
+  },
+  {
+   "verseNo": 37,
+   "verseNoEnd": null,
+   "source": "ai",
+   "text": "O, sağdan atılan bir meni damlası değildi mi?"
+  },
+  {
+   "verseNo": 38,
+   "verseNoEnd": null,
+   "source": "ai",
+   "text": "Sonra bir kan pıhtısı oldu; sonra yarattı ve biçim verdi."
+  },
+  {
+   "verseNo": 39,
+   "verseNoEnd": null,
+   "source": "ai",
+   "text": "Sonra ondan erkek ve dişi çiftler yarattı."
+  },
+  {
+   "verseNo": 40,
+   "verseNoEnd": null,
+   "source": "ai",
+   "text": "Bunları yapmaya gücü yeten, ölüleri diriltmeye de gücü yetmez mi?"
+  }
+ ],
+ "aiParagraph": "Kaçmak için yer aradığında, kaçacak yer kalmadığını fark etmek insanı tuhaf bir yere bırakır — hem korkar hem de içten içe zaten bilir. Bu sure tam oraya dokunuyor: insanın kendini kendine karşı savunma refleksine, yaptıklarının hesabını ertelemek için ürettiği bahanelerin arkasına sığınma alışkanlığına. Metin açıkça söylüyor: insan kendi içinde şahididir, ne kadar mazeret üretirse üretsin. Hesap sorulup sorulmayacağını değil, ne zaman sorulacağını sorarak zaman kazanmaya çalışmak — bu, hayatını önüne sürerek yaşamak istemenin başka bir adı. Ölüm anı tarif ediliyor; can köprücük kemiğine dayandığında, \"onu kim kurtarır?\" diye sorulduğunda, iki bacağın birbirine dolandığı o anda kaçış kapıları teker teker kapanıyor. Sonra beklenmedik bir soru geliyor: İnsan başıboş bırakılacağını mı sanıyor? Henüz bir damla su iken şekillendirildi, dişi ve erkek kılındı — bu kadar ince bir başlangıçtan geçen biri, ölümden sonrasının olmayacağına nasıl karar verdi? Sure bir iddia değil, bir ayna tutuyor: insan zaten her şeyi biliyor, sadece bilmek istememeyi tercih ediyor."
 }

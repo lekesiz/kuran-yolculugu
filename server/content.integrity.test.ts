@@ -73,7 +73,9 @@ describe("content integrity", () => {
     const complete = SOURCES.filter(s => (perSource.get(s) ?? 0) === totalVerses);
 
     expect(totalVerses).toBeGreaterThan(0);
-    for (const core of ["diyanet", "okuyan", "esed"] as const) {
+    // All four published meals are now complete; a drop below full coverage is
+    // a regression, not "collection still running".
+    for (const core of SOURCES) {
       expect(
         complete,
         `${core} meali eksik: ${perSource.get(core) ?? 0}/${totalVerses}`,
@@ -97,21 +99,41 @@ describe("content integrity", () => {
     expect(incomplete, incomplete.slice(0, 10).join(" · ")).toEqual([]);
   });
 
-  it("the İslamoğlu meal is either absent or growing toward completeness", async () => {
+  it("the İslamoğlu meal covers every verse with real text", async () => {
     const db = await getDb();
     if (!db) return;
 
-    // Guards against a silent regression: partial coverage is acceptable while
-    // collection runs, but the rows that exist must be real text, not blanks.
+    // This meal was the last to finish collection, and it finished by being
+    // fetched one verse at a time from a rate-limited source. A truncated
+    // re-import would show blank cells beside the other three, so both the
+    // count and the text are checked.
     const rows = await db
-      .select({ text: translations.text })
+      .select({
+        surahId: translations.surahId,
+        verseNo: translations.verseNo,
+        text: translations.text,
+      })
       .from(translations)
-      .where(eq(translations.source, "islamoglu"))
-      .limit(500);
+      .where(eq(translations.source, "islamoglu"));
 
-    for (const r of rows) {
-      expect(r.text.trim().length).toBeGreaterThan(0);
-    }
+    const verseRows = await db
+      .select({ surahId: verses.surahId, verseNo: verses.verseNo })
+      .from(verses);
+    if (!verseRows.length) return;
+
+    expect(rows.length, "İslamoğlu meali ayet sayısıyla eşleşmiyor").toBe(verseRows.length);
+
+    const blank = rows
+      .filter(r => r.text.trim().length === 0)
+      .map(r => `sure#${r.surahId} ayet ${r.verseNo}`);
+    expect(blank, blank.slice(0, 10).join(" · ")).toEqual([]);
+
+    // The source throttles scrapers and answers with a wait page; that text
+    // must never have been stored as if it were a translation.
+    const throttled = rows
+      .filter(r => /bir dakika|yoğunluk/i.test(r.text))
+      .map(r => `sure#${r.surahId} ayet ${r.verseNo}`);
+    expect(throttled, throttled.slice(0, 10).join(" · ")).toEqual([]);
   });
 
   it("translation sources are limited to the declared set", async () => {

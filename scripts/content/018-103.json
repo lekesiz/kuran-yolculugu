@@ -1,157 +1,157 @@
 {
-  "stationNo": 18,
-  "surahNo": 103,
-  "nuzulOrderOkuyan": 13,
-  "name": "Asr",
-  "nameArabic": "العصر",
-  "nameMeaning": "Zaman, ikindi vakti, çağ",
-  "verseCount": 3,
-  "periodDiyanet": "Mekke",
-  "periodOkuyan": "Mekke",
-  "revelationTiming": "Mekke dönemi",
-  "stationTitle": "Üç ayette bir hayat özeti: insan ziyandadır, dört şey hariç.",
-  "introduction": "Asr suresi, adını birinci ayetteki \"asr\" kelimesinden alır; zaman, ikindi vakti, çağ anlamlarını taşır. Üç ayetlik sure Mekke döneminde inmiştir ve Kur'an'ın en kısa bölümlerinden biridir.\n\nYapısı son derece sıkıdır: zamana yemin, insanın ziyanda olduğu beyanı, ardından dört istisna — iman etmek, salih amel işlemek, birbirine hakkı tavsiye etmek, birbirine sabrı tavsiye etmek. Klasik kaynaklar bu sureyi Kur'an'ın özeti sayan değerlendirmeler aktarır.",
-  "occasionOfRevelation": "Sure Mekke döneminde inmiştir; nüzulüne dair belirli bir olay anlatısı yoktur.\n\n\"Asr\" kelimesi üzerine tefsirlerde geniş bir yorum yelpazesi vardır: mutlak zaman, ikindi vakti, belirli bir tarihsel çağ, insan ömrü. Kelimenin kökü sıkıp suyunu çıkarmak anlamı taşır; bu yüzden zamanın insanı sıkıp tükettiği çağrışımı da vardır.\n\nSurenin yapısal özelliği, olumsuz bir genel hükümle başlayıp istisnalarla devam etmesidir: bütün insanlık ziyandadır, şu dört şeyi yapanlar hariç. Bu kurgu, kurtuluşu istisna, kaybı ise varsayılan hâl olarak konumlandırır.",
-  "occasionSources": "Diyanet İşleri Başkanlığı Kur'an Yolu Tefsiri, Asr suresi girişi; TDV İslâm Ansiklopedisi, \"Asr Sûresi\" maddesi.",
-  "contemporaryMeaning": "Bu surenin en dikkat çekici yanı, dört şartın ikisinin toplumsal olmasıdır. İman ve salih amel bireyseldir; ancak \"birbirine hakkı tavsiye etmek\" ve \"birbirine sabrı tavsiye etmek\" karşılıklılık gerektirir. Yani sure, tek başına kurtulmayı bir seçenek olarak sunmaz.\n\nBu, bireysel dindarlığın yeterli sayıldığı her yaklaşıma karşı bir itirazdır. Kişi kendi ibadetini ve ahlakını düzeltse bile, çevresiyle hakikat ve dayanıklılık alışverişi kurmadığı sürece listenin yarısı eksik kalır.\n\n\"Zamanın insanı tükettiği\" çağrışımı ise bugün ayrıca anlamlıdır. Ömür geçerken bir şey üretilmiyorsa, geçen zamanın kendisi kayıptır — surenin diliyle, insan varsayılan olarak ziyandadır.",
-  "keyTerms": [
-    {
-      "term": "asr",
-      "arabic": "الْعَصْر",
-      "verseRef": "103:1",
-      "meaning": "Zaman, ikindi vakti, çağ. Kökü sıkıp suyunu çıkarmak anlamı taşır; zamanın tüketiciliğini çağrıştırır."
-    },
-    {
-      "term": "husr",
-      "arabic": "خُسْرٍ",
-      "verseRef": "103:2",
-      "meaning": "Ziyan, zarar, kayıp. Ticarî bir terim; sermayenin eksilmesini anlatır."
-    },
-    {
-      "term": "tevâsî bi'l-hakk",
-      "arabic": "تَوَاصَوْا بِالْحَقّ",
-      "verseRef": "103:3",
-      "meaning": "Birbirine hakkı tavsiye etmek. Karşılıklılık kalıbındadır: tek yönlü öğüt değil, karşılıklı hatırlatma."
-    },
-    {
-      "term": "tevâsî bi's-sabr",
-      "arabic": "تَوَاصَوْا بِالصَّبْر",
-      "verseRef": "103:3",
-      "meaning": "Birbirine sabrı tavsiye etmek. Dayanıklılığın da ortak üretildiğini gösterir."
-    }
-  ],
-  "themes": [
-    {
-      "label": "Varsayılan hâl: kayıp",
-      "body": "Sure kurtuluşu istisna, ziyanı ise varsayılan olarak kurar. Bir şey yapılmıyorsa geçen zamanın kendisi zarardır."
-    },
-    {
-      "label": "Dört şartın ikisi toplumsaldır",
-      "body": "İman ve amel bireysel; hakkı ve sabrı karşılıklı tavsiye etmek ise ilişki gerektirir. Tek başına kurtulmak listede yok."
-    },
-    {
-      "label": "Sabır da paylaşılır",
-      "body": "Dayanıklılık bireysel bir yetenek olarak değil, birbirine hatırlatılan bir ortak kaynak olarak sunulur."
-    }
-  ],
-  "questions": [
-    "Geçen haftamı düşününce, geriye ne kaldı? Zamanım bir şey üretti mi?",
-    "Çevremde bana doğruyu söyleyebilen biri var mı? Ben kime söyleyebiliyorum?",
-    "Zorlanan birine sabır hatırlatmak yerine sadece acıyıp geçtiğim oluyor mu?"
-  ],
-  "verses": [
-    {
-      "verseNo": 1,
-      "textArabic": "بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ وَٱلْعَصْرِ"
-    },
-    {
-      "verseNo": 2,
-      "textArabic": "إِنَّ ٱلْإِنسَٰنَ لَفِى خُسْرٍ"
-    },
-    {
-      "verseNo": 3,
-      "textArabic": "إِلَّا ٱلَّذِينَ ءَامَنُوا۟ وَعَمِلُوا۟ ٱلصَّٰلِحَٰتِ وَتَوَاصَوْا۟ بِٱلْحَقِّ وَتَوَاصَوْا۟ بِٱلصَّبْرِ"
-    }
-  ],
-  "translations": [
-    {
-      "verseNo": 1,
-      "verseNoEnd": null,
-      "source": "ai",
-      "text": "Zamana yemin ederim."
-    },
-    {
-      "verseNo": 1,
-      "source": "diyanet",
-      "text": "Andolsun zamana ki, insan gerçekten ziyan içindedir."
-    },
-    {
-      "verseNo": 1,
-      "source": "esed",
-      "text": "Düşün zamanın akıp gidişini"
-    },
-    {
-      "verseNo": 1,
-      "source": "islamoglu",
-      "text": "SU GİBİ akıp giden zamana andolsun ki;"
-    },
-    {
-      "verseNo": 1,
-      "source": "okuyan",
-      "text": "[Asr]a yemin olsun ki"
-    },
-    {
-      "verseNo": 2,
-      "verseNoEnd": null,
-      "source": "ai",
-      "text": "İnsan gerçekten zarardadır."
-    },
-    {
-      "verseNo": 2,
-      "source": "diyanet",
-      "text": "Andolsun zamana ki, insan gerçekten ziyan içindedir."
-    },
-    {
-      "verseNo": 2,
-      "source": "esed",
-      "text": "Gerçek şu ki, insan ziyandadır"
-    },
-    {
-      "verseNo": 2,
-      "source": "islamoglu",
-      "text": "(ömrünü israf eden) insan tarifsiz bir ziyandadır."
-    },
-    {
-      "verseNo": 2,
-      "source": "okuyan",
-      "text": "Şüphesiz insan zarardadır."
-    },
-    {
-      "verseNo": 3,
-      "verseNoEnd": null,
-      "source": "ai",
-      "text": "Ancak iman edenler, iyi işler yapanlar, birbirlerine hakkı tavsiye edenler ve birbirlerine sabrı tavsiye edenler."
-    },
-    {
-      "verseNo": 3,
-      "source": "diyanet",
-      "text": "Ancak, iman edip de sâlih ameller işleyenler, birbirlerine hakkı tavsiye edenler, birbirlerine sabrı tavsiye edenler başka (Onlar ziyanda değillerdir)."
-    },
-    {
-      "verseNo": 3,
-      "source": "esed",
-      "text": "meğer ki imana erip doğru ve yararlı işler yapanlardan olsun ve birbirlerine hakkı tavsiye edenlerden, birbirlerine sabrı tavsiye edenlerden"
-    },
-    {
-      "verseNo": 3,
-      "source": "islamoglu",
-      "text": "Ancak, iman edenler, salih amel işleyenler; ve birbirlerine hakkı tavsiye edenler ve sabrı tavsiye edenler müstesna..."
-    },
-    {
-      "verseNo": 3,
-      "source": "okuyan",
-      "text": "İman edip iyi işler yapanlar, birbirlerine doğruyu tavsiye edenler ve birbirlerine sabrı tavsiye edenler hariç."
-    }
-  ],
-  "aiParagraph": "Zaman akıp gidiyor — dur desen durmuyor, geri ister, geri gelmiyor. Ve insan bu akış içinde, farkında olsun ya da olmasın, bir şeyler yitiriyor; bu yitim sadece yıllar değil, daha derin bir şey, kendini bütün harcayıp hiçbir şeye dönüşmemek gibi bir şey. Metin bunu açık yüreklilikle söylüyor: kayıp, insanın doğasına sinmiş bir hal. Ama hemen ardından, bu kaderin dışında duranları gösteriyor: içten inananlar, ellerinden bir şeyler gelenler, birbirlerine gerçeği hatırlatanlar ve sabretmeyi birlikte taşıyanlar. Dikkat çekici olan şu: bu dışarıda kalış, tek başına değil, birlikte mümkün. Gerçeği söylemek de, dayanmak da, burada çoğul bir eylem — biri diğerine fısıldıyor, biri diğerini tutuyor. Belki asıl kayıp, zamanın geçmesi değil; geçerken yanında kimsenin olmaması, ya da yanındakine hiçbir şey söylememek."
+ "stationNo": 18,
+ "surahNo": 103,
+ "nuzulOrderOkuyan": 13,
+ "name": "Asr",
+ "nameArabic": "العصر",
+ "nameMeaning": "Zaman, ikindi vakti, çağ",
+ "verseCount": 3,
+ "periodDiyanet": "Mekke",
+ "periodOkuyan": "Mekke",
+ "revelationTiming": "Mekke dönemi",
+ "stationTitle": "Üç ayette bir hayat özeti: insan ziyandadır, dört şey hariç.",
+ "introduction": "Asr suresi, adını birinci ayetteki \"asr\" kelimesinden alır; zaman, ikindi vakti, çağ anlamlarını taşır. Üç ayetlik sure Mekke döneminde inmiştir ve Kur'an'ın en kısa bölümlerinden biridir.\n\nYapısı son derece sıkıdır: zamana yemin, insanın ziyanda olduğu beyanı, ardından dört istisna — iman etmek, salih amel işlemek, birbirine hakkı tavsiye etmek, birbirine sabrı tavsiye etmek. Klasik kaynaklar bu sureyi Kur'an'ın özeti sayan değerlendirmeler aktarır.",
+ "occasionOfRevelation": "Sure Mekke döneminde inmiştir; nüzulüne dair belirli bir olay anlatısı yoktur.\n\n\"Asr\" kelimesi üzerine tefsirlerde geniş bir yorum yelpazesi vardır: mutlak zaman, ikindi vakti, belirli bir tarihsel çağ, insan ömrü. Kelimenin kökü sıkıp suyunu çıkarmak anlamı taşır; bu yüzden zamanın insanı sıkıp tükettiği çağrışımı da vardır.\n\nSurenin yapısal özelliği, olumsuz bir genel hükümle başlayıp istisnalarla devam etmesidir: bütün insanlık ziyandadır, şu dört şeyi yapanlar hariç. Bu kurgu, kurtuluşu istisna, kaybı ise varsayılan hâl olarak konumlandırır.",
+ "occasionSources": "Diyanet İşleri Başkanlığı Kur'an Yolu Tefsiri, Asr suresi girişi; TDV İslâm Ansiklopedisi, \"Asr Sûresi\" maddesi.",
+ "contemporaryMeaning": "Bu surenin en dikkat çekici yanı, dört şartın ikisinin toplumsal olmasıdır. İman ve salih amel bireyseldir; ancak \"birbirine hakkı tavsiye etmek\" ve \"birbirine sabrı tavsiye etmek\" karşılıklılık gerektirir. Yani sure, tek başına kurtulmayı bir seçenek olarak sunmaz.\n\nBu, bireysel dindarlığın yeterli sayıldığı her yaklaşıma karşı bir itirazdır. Kişi kendi ibadetini ve ahlakını düzeltse bile, çevresiyle hakikat ve dayanıklılık alışverişi kurmadığı sürece listenin yarısı eksik kalır.\n\n\"Zamanın insanı tükettiği\" çağrışımı ise bugün ayrıca anlamlıdır. Ömür geçerken bir şey üretilmiyorsa, geçen zamanın kendisi kayıptır — surenin diliyle, insan varsayılan olarak ziyandadır.",
+ "keyTerms": [
+  {
+   "term": "asr",
+   "arabic": "الْعَصْر",
+   "verseRef": "103:1",
+   "meaning": "Zaman, ikindi vakti, çağ. Kökü sıkıp suyunu çıkarmak anlamı taşır; zamanın tüketiciliğini çağrıştırır."
+  },
+  {
+   "term": "husr",
+   "arabic": "خُسْرٍ",
+   "verseRef": "103:2",
+   "meaning": "Ziyan, zarar, kayıp. Ticarî bir terim; sermayenin eksilmesini anlatır."
+  },
+  {
+   "term": "tevâsî bi'l-hakk",
+   "arabic": "تَوَاصَوْا بِالْحَقّ",
+   "verseRef": "103:3",
+   "meaning": "Birbirine hakkı tavsiye etmek. Karşılıklılık kalıbındadır: tek yönlü öğüt değil, karşılıklı hatırlatma."
+  },
+  {
+   "term": "tevâsî bi's-sabr",
+   "arabic": "تَوَاصَوْا بِالصَّبْر",
+   "verseRef": "103:3",
+   "meaning": "Birbirine sabrı tavsiye etmek. Dayanıklılığın da ortak üretildiğini gösterir."
+  }
+ ],
+ "themes": [
+  {
+   "label": "Varsayılan hâl: kayıp",
+   "body": "Sure kurtuluşu istisna, ziyanı ise varsayılan olarak kurar. Bir şey yapılmıyorsa geçen zamanın kendisi zarardır."
+  },
+  {
+   "label": "Dört şartın ikisi toplumsaldır",
+   "body": "İman ve amel bireysel; hakkı ve sabrı karşılıklı tavsiye etmek ise ilişki gerektirir. Tek başına kurtulmak listede yok."
+  },
+  {
+   "label": "Sabır da paylaşılır",
+   "body": "Dayanıklılık bireysel bir yetenek olarak değil, birbirine hatırlatılan bir ortak kaynak olarak sunulur."
+  }
+ ],
+ "questions": [
+  "Geçen haftamı düşününce, geriye ne kaldı? Zamanım bir şey üretti mi?",
+  "Çevremde bana doğruyu söyleyebilen biri var mı? Ben kime söyleyebiliyorum?",
+  "Zorlanan birine sabır hatırlatmak yerine sadece acıyıp geçtiğim oluyor mu?"
+ ],
+ "verses": [
+  {
+   "verseNo": 1,
+   "textArabic": "بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ وَٱلْعَصْرِ"
+  },
+  {
+   "verseNo": 2,
+   "textArabic": "إِنَّ ٱلْإِنسَٰنَ لَفِى خُسْرٍ"
+  },
+  {
+   "verseNo": 3,
+   "textArabic": "إِلَّا ٱلَّذِينَ ءَامَنُوا۟ وَعَمِلُوا۟ ٱلصَّٰلِحَٰتِ وَتَوَاصَوْا۟ بِٱلْحَقِّ وَتَوَاصَوْا۟ بِٱلصَّبْرِ"
+  }
+ ],
+ "translations": [
+  {
+   "verseNo": 1,
+   "source": "diyanet",
+   "text": "Andolsun zamana ki, insan gerçekten ziyan içindedir."
+  },
+  {
+   "verseNo": 1,
+   "source": "islamoglu",
+   "text": "SU GİBİ akıp giden zamana andolsun ki;"
+  },
+  {
+   "verseNo": 1,
+   "source": "esed",
+   "text": "Düşün zamanın akıp gidişini"
+  },
+  {
+   "verseNo": 1,
+   "source": "okuyan",
+   "text": "[Asr]a yemin olsun ki"
+  },
+  {
+   "verseNo": 2,
+   "source": "diyanet",
+   "text": "Andolsun zamana ki, insan gerçekten ziyan içindedir."
+  },
+  {
+   "verseNo": 2,
+   "source": "islamoglu",
+   "text": "(ömrünü israf eden) insan tarifsiz bir ziyandadır."
+  },
+  {
+   "verseNo": 2,
+   "source": "esed",
+   "text": "Gerçek şu ki, insan ziyandadır"
+  },
+  {
+   "verseNo": 2,
+   "source": "okuyan",
+   "text": "Şüphesiz insan zarardadır."
+  },
+  {
+   "verseNo": 3,
+   "source": "diyanet",
+   "text": "Ancak, iman edip de sâlih ameller işleyenler, birbirlerine hakkı tavsiye edenler, birbirlerine sabrı tavsiye edenler başka (Onlar ziyanda değillerdir)."
+  },
+  {
+   "verseNo": 3,
+   "source": "islamoglu",
+   "text": "Ancak, iman edenler, salih amel işleyenler; ve birbirlerine hakkı tavsiye edenler ve sabrı tavsiye edenler müstesna..."
+  },
+  {
+   "verseNo": 3,
+   "source": "esed",
+   "text": "meğer ki imana erip doğru ve yararlı işler yapanlardan olsun ve birbirlerine hakkı tavsiye edenlerden, birbirlerine sabrı tavsiye edenlerden"
+  },
+  {
+   "verseNo": 3,
+   "source": "okuyan",
+   "text": "İman edip iyi işler yapanlar, birbirlerine doğruyu tavsiye edenler ve birbirlerine sabrı tavsiye edenler hariç."
+  },
+  {
+   "verseNo": 1,
+   "verseNoEnd": null,
+   "source": "ai",
+   "text": "Zamana yemin ederim."
+  },
+  {
+   "verseNo": 2,
+   "verseNoEnd": null,
+   "source": "ai",
+   "text": "İnsan gerçekten zarardadır."
+  },
+  {
+   "verseNo": 3,
+   "verseNoEnd": null,
+   "source": "ai",
+   "text": "Ancak iman edenler, iyi işler yapanlar, birbirlerine hakkı tavsiye edenler ve birbirlerine sabrı tavsiye edenler."
+  }
+ ],
+ "aiParagraph": "Zaman akıp gidiyor — dur desen durmuyor, geri ister, geri gelmiyor. Ve insan bu akış içinde, farkında olsun ya da olmasın, bir şeyler yitiriyor; bu yitim sadece yıllar değil, daha derin bir şey, kendini bütün harcayıp hiçbir şeye dönüşmemek gibi bir şey. Metin bunu açık yüreklilikle söylüyor: kayıp, insanın doğasına sinmiş bir hal. Ama hemen ardından, bu kaderin dışında duranları gösteriyor: içten inananlar, ellerinden bir şeyler gelenler, birbirlerine gerçeği hatırlatanlar ve sabretmeyi birlikte taşıyanlar. Dikkat çekici olan şu: bu dışarıda kalış, tek başına değil, birlikte mümkün. Gerçeği söylemek de, dayanmak da, burada çoğul bir eylem — biri diğerine fısıldıyor, biri diğerini tutuyor. Belki asıl kayıp, zamanın geçmesi değil; geçerken yanında kimsenin olmaması, ya da yanındakine hiçbir şey söylememek."
 }

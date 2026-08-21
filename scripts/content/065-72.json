@@ -1,789 +1,929 @@
 {
-  "stationNo": 65,
-  "surahNo": 72,
-  "name": "Cinn",
-  "nameArabic": "",
-  "nameMeaning": "",
-  "verseCount": 28,
-  "nuzulOrderOkuyan": 63,
-  "periodDiyanet": "Mekke",
-  "periodOkuyan": "Mekke",
-  "revelationTiming": "Nüzul yılı konusunda kaynaklar arasında ihtilaf vardır. İbn Hişâm hicretten 3 yıl önce (Tâif dönüşü) derken, Prof. Dr. Mehmet Okuyan risaletin 10. yılı ihtimali üzerinde durmaktadır.",
-  "stationTitle": "Görünmeyenin Sınırları ve İnsanın Kibri",
-  "introduction": "Cinn suresi, adını ilk ayetinde geçen ve 'gizli, örtülü varlık' anlamına gelen 'cin' kelimesinden alır. 28 ayetten oluşan bu sure, Kur'an'ın 72. suresidir ve Mekke döneminde inmiştir. Surenin temel ekseni, görünmeyen varlıklar olan cinlerin Kur'an'ı dinleyip etkilenmeleri üzerinden, insanın kendi sınırlarını ve kibrini sorgulamasıdır.\n\nSure, cinlerin Kur'an'ı dinledikten sonra kendi aralarında yaptıkları konuşmaları aktararak başlar. Bu konuşmalarda, cinlerin de insanlar gibi iyileri ve kötüleri olduğu, göklerin sırlarına ulaşmaya çalıştıkları ancak engellendikleri anlatılır. Surenin ikinci yarısında ise tevhid inancı, Allah'ın eşsizliği ve gayb bilgisinin yalnızca O'na ait olduğu vurgulanır.\n\nCinn suresi, insanın bilmediği ve göremediği varlıklar karşısındaki tutumunu eleştirir. Cinlere sığınarak güç devşirmeye çalışanların aslında kendi zayıflıklarını artırdıklarını belirtir. Sure, insanın kendi sınırlarını bilmesi ve yalnızca Allah'a yönelmesi gerektiğini hatırlatır.",
-  "occasionOfRevelation": "Cinn suresinin nüzul sebebi hakkında kaynaklarda farklı rivayetler bulunmaktadır. İbn Hişâm'ın rivayetine göre, cinlerin Hz. Peygamber'in Kur'an okuyuşunu dinlemeleri, hicretten üç yıl önce Tâif dönüşü sırasında vuku bulmuştur.\n\nAbdullah b. Abbas'tan nakledilen diğer bir rivayete göre ise, şeytanların semadan haber almaktan menedildiği bir dönemde Hz. Peygamber ashabından birkaç kişiyle birlikte Ukâz panayırına doğru gidiyordu. Nahle denilen yerde sabah namazı kıldırırken, semadan kovulan ve bunun sebebini araştıran bir grup cin, okunan Kur'an'ı işitmiş ve etkilenerek iman etmişlerdir.\n\nProf. Dr. Mehmet Okuyan ise surenin Mekke döneminin sonlarına yakın bir tarihte, risaletin 10. yılında indirilmiş olmasının muhtemel olduğunu belirtmektedir. Bu farklı rivayetler, surenin nüzul zamanı ve ortamı hakkında çeşitli görüşlerin olduğunu göstermektedir.",
-  "occasionSources": "TDV İslâm Ansiklopedisi, \"Cin Sûresi\" maddesi; Diyanet İşleri Başkanlığı Kur'an Yolu Tefsiri, Cin Suresi girişi; kuranokuyan.com, Cinn suresi girişi (Prof. Dr. Mehmet Okuyan).",
-  "keyTerms": [
-    {
-      "term": "cin",
-      "arabic": "جِنّ",
-      "verseRef": "72:1",
-      "meaning": "Örtülü, gizli varlık. Ayette, insanların duyu organlarıyla algılayamadığı, ancak irade ve sorumluluk sahibi varlıkları ifade eder."
-    },
-    {
-      "term": "rüşd",
-      "arabic": "رُشْد",
-      "verseRef": "72:2",
-      "meaning": "Doğru yol, olgunluk, isabetli karar. Ayette, Kur'an'ın insanı ve cinleri ulaştırdığı hakikat ve aydınlık yol anlamındadır."
-    },
-    {
-      "term": "şatat",
-      "arabic": "شَطَط",
-      "verseRef": "72:4",
-      "meaning": "Haddi aşmak, saçmalamak, aşırı gitmek. Ayette, Allah hakkında söylenen asılsız ve ölçüsüz sözleri tanımlar."
-    },
-    {
-      "term": "raşed",
-      "arabic": "رَشَد",
-      "verseRef": "72:10",
-      "meaning": "İyilik, doğruluk, fayda. Ayette, Allah'ın yeryüzündekiler için dilediği hayır ve hidayet anlamında kullanılmıştır."
-    },
-    {
-      "term": "gayb",
-      "arabic": "غَيْب",
-      "verseRef": "72:26",
-      "meaning": "Görünmeyen, gizli olan, duyularla algılanamayan. Ayette, mutlak bilgisinin yalnızca Allah'a ait olduğu vurgulanır."
-    }
-  ],
-  "themes": [
-    {
-      "label": "Sınırların İhlali ve Kibir",
-      "body": "İnsan, bilmediği ve kontrol edemediği alanlara hükmetme arzusuyla çoğu zaman haddini aşar. Cinlere sığınmak veya gaybı bilme iddiası, insanın kendi acizliğini örtbas etme çabasıdır."
-    },
-    {
-      "label": "Hakikatin Evrenselliği",
-      "body": "Kur'an'ın mesajı sadece insanlara değil, irade sahibi diğer varlıklara da hitap eder. Hakikat, kimden veya nereden gelirse gelsin, kalbi açık olan herkesi etkiler ve dönüştürür."
-    },
-    {
-      "label": "Sorumluluğun Bireyselliği",
-      "body": "Ne cinler ne de başka güçler insanı kurtarabilir veya ona zarar verebilir. İnsan, kendi eylemlerinden ve yönelimlerinden bizzat sorumludur."
-    }
-  ],
-  "questions": [
-    "Hayatımda kontrol edemediğim belirsizliklerle başa çıkmak için, gerçekte hiçbir gücü olmayan hangi sahte sığınaklara veya inançlara tutunuyorum?",
-    "Kendi eksikliklerimi ve hatalarımı kabul etmek yerine, suçu benden bağımsız 'görünmez' dış etkenlere (şans, kader, başkalarının kötülüğü) atarak sorumluluktan kaçtığım oluyor mu?"
-  ],
-  "contemporaryMeaning": "Bu sure, insanın belirsizliğe tahammülsüzlüğünü ve bilinmeyeni kontrol etme arzusunu merkeze alır. İnsanın kendi sınırlarını aşarak, hayatın akışını manipüle etmek veya geleceği güvence altına almak için gizemli, karanlık ya da dışsal güçlere sığınması, metnin temel eleştirisidir. Bu sığınma hâli, kişiye güç kazandırmak yerine onun kaygısını ve acizliğini derinleştiren bir yanılsama olarak sunulur.\n\nBugünün diliyle: Ekonomik dalgalanmalar, kariyer krizleri veya ilişkilerdeki tıkanıklıklar karşısında kişinin sorumluluk almak yerine komplo teorilerine, astrolojik kehanetlere veya gizli ajandalara sığınması, bu zaafın güncel bir yansımasıdır. İnsan, kendi iradesiyle çözemediği sorunları, kendisinin dışındaki görünmez güçlerin bir oyunu olarak okumaya eğilimlidir. Bu eğilim, kişiyi kendi eylemlerinin ağırlığından kurtarıyor gibi görünse de, onu sürekli bir korku ve bağımlılık döngüsüne hapseder.\n\nMutlak bir garanti arayışı, verilerin ve algoritmaların her adımı tahmin etmeye çalıştığı bir düzende bile insanın içsel güvensizliğini yatıştıramaz. Finansal kararlarda veya statü arayışında kestirme yollar bulma çabası, kişiyi çoğu zaman asılsız vaatlerin ve sahte otoritelerin müşterisi yapar. Metin, insanın kendi sınırlarını ve bilgisizliğini kabul etmesinin bir zayıflık değil, aksine onu görünmez prangalardan özgürleştiren yegâne zemin olduğunu gösterir.",
-  "scholarlyNotes": [
-    {
-      "kind": "ihtilaf",
-      "body": "İbn Hişâm'a göre sure hicretten 3 yıl önce Tâif dönüşü inmiştir. İbn Abbas rivayetine göre ise Ukâz panayırına giderken Nahle'de inmiştir. Prof. Dr. Mehmet Okuyan ise risaletin 10. yılında inmiş olabileceğini belirtir.",
-      "label": "Nüzul Zamanı ve Sebebi"
-    },
-    {
-      "kind": "rivayet",
-      "body": "Sa'lebî ve Vâhidî gibi müfessirlerce Übey b. Kâ'b'dan rivayet edilen 'Kim Cin sûresini okursa kendisine Hz. Muhammed'in peygamberliğine inanan ve inanmayan bütün cinlerin sayısınca köle âzat etmişçesine sevap verilir' şeklindeki hadis mevzûdur (uydurmadır).",
-      "label": "Surenin Fazileti Hakkında Uydurma Hadis"
-    },
-    {
-      "kind": "nuans",
-      "body": "Halk arasında cin şerrine karşı bu surenin 41 defa okunması gibi uygulamalar bulunsa da, İslâm literatüründe bununla ilgili güvenilir bir kayıt yoktur.",
-      "label": "Cin Suresi Okuma Adeti"
-    }
-  ],
-  "verses": [
-    {
-      "verseNo": 1,
-      "textArabic": "بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ قُلْ أُوحِىَ إِلَىَّ أَنَّهُ ٱسْتَمَعَ نَفَرٌۭ مِّنَ ٱلْجِنِّ فَقَالُوٓا۟ إِنَّا سَمِعْنَا قُرْءَانًا عَجَبًۭا"
-    },
-    {
-      "verseNo": 2,
-      "textArabic": "يَهْدِىٓ إِلَى ٱلرُّشْدِ فَـَٔامَنَّا بِهِۦ ۖ وَلَن نُّشْرِكَ بِرَبِّنَآ أَحَدًۭا"
-    },
-    {
-      "verseNo": 3,
-      "textArabic": "وَأَنَّهُۥ تَعَٰلَىٰ جَدُّ رَبِّنَا مَا ٱتَّخَذَ صَٰحِبَةًۭ وَلَا وَلَدًۭا"
-    },
-    {
-      "verseNo": 4,
-      "textArabic": "وَأَنَّهُۥ كَانَ يَقُولُ سَفِيهُنَا عَلَى ٱللَّهِ شَطَطًۭا"
-    },
-    {
-      "verseNo": 5,
-      "textArabic": "وَأَنَّا ظَنَنَّآ أَن لَّن تَقُولَ ٱلْإِنسُ وَٱلْجِنُّ عَلَى ٱللَّهِ كَذِبًۭا"
-    },
-    {
-      "verseNo": 6,
-      "textArabic": "وَأَنَّهُۥ كَانَ رِجَالٌۭ مِّنَ ٱلْإِنسِ يَعُوذُونَ بِرِجَالٍۢ مِّنَ ٱلْجِنِّ فَزَادُوهُمْ رَهَقًۭا"
-    },
-    {
-      "verseNo": 7,
-      "textArabic": "وَأَنَّهُمْ ظَنُّوا۟ كَمَا ظَنَنتُمْ أَن لَّن يَبْعَثَ ٱللَّهُ أَحَدًۭا"
-    },
-    {
-      "verseNo": 8,
-      "textArabic": "وَأَنَّا لَمَسْنَا ٱلسَّمَآءَ فَوَجَدْنَٰهَا مُلِئَتْ حَرَسًۭا شَدِيدًۭا وَشُهُبًۭا"
-    },
-    {
-      "verseNo": 9,
-      "textArabic": "وَأَنَّا كُنَّا نَقْعُدُ مِنْهَا مَقَٰعِدَ لِلسَّمْعِ ۖ فَمَن يَسْتَمِعِ ٱلْءَانَ يَجِدْ لَهُۥ شِهَابًۭا رَّصَدًۭا"
-    },
-    {
-      "verseNo": 10,
-      "textArabic": "وَأَنَّا لَا نَدْرِىٓ أَشَرٌّ أُرِيدَ بِمَن فِى ٱلْأَرْضِ أَمْ أَرَادَ بِهِمْ رَبُّهُمْ رَشَدًۭا"
-    },
-    {
-      "verseNo": 11,
-      "textArabic": "وَأَنَّا مِنَّا ٱلصَّٰلِحُونَ وَمِنَّا دُونَ ذَٰلِكَ ۖ كُنَّا طَرَآئِقَ قِدَدًۭا"
-    },
-    {
-      "verseNo": 12,
-      "textArabic": "وَأَنَّا ظَنَنَّآ أَن لَّن نُّعْجِزَ ٱللَّهَ فِى ٱلْأَرْضِ وَلَن نُّعْجِزَهُۥ هَرَبًۭا"
-    },
-    {
-      "verseNo": 13,
-      "textArabic": "وَأَنَّا لَمَّا سَمِعْنَا ٱلْهُدَىٰٓ ءَامَنَّا بِهِۦ ۖ فَمَن يُؤْمِنۢ بِرَبِّهِۦ فَلَا يَخَافُ بَخْسًۭا وَلَا رَهَقًۭا"
-    },
-    {
-      "verseNo": 14,
-      "textArabic": "وَأَنَّا مِنَّا ٱلْمُسْلِمُونَ وَمِنَّا ٱلْقَٰسِطُونَ ۖ فَمَنْ أَسْلَمَ فَأُو۟لَٰٓئِكَ تَحَرَّوْا۟ رَشَدًۭا"
-    },
-    {
-      "verseNo": 15,
-      "textArabic": "وَأَمَّا ٱلْقَٰسِطُونَ فَكَانُوا۟ لِجَهَنَّمَ حَطَبًۭا"
-    },
-    {
-      "verseNo": 16,
-      "textArabic": "وَأَلَّوِ ٱسْتَقَٰمُوا۟ عَلَى ٱلطَّرِيقَةِ لَأَسْقَيْنَٰهُم مَّآءً غَدَقًۭا"
-    },
-    {
-      "verseNo": 17,
-      "textArabic": "لِّنَفْتِنَهُمْ فِيهِ ۚ وَمَن يُعْرِضْ عَن ذِكْرِ رَبِّهِۦ يَسْلُكْهُ عَذَابًۭا صَعَدًۭا"
-    },
-    {
-      "verseNo": 18,
-      "textArabic": "وَأَنَّ ٱلْمَسَٰجِدَ لِلَّهِ فَلَا تَدْعُوا۟ مَعَ ٱللَّهِ أَحَدًۭا"
-    },
-    {
-      "verseNo": 19,
-      "textArabic": "وَأَنَّهُۥ لَمَّا قَامَ عَبْدُ ٱللَّهِ يَدْعُوهُ كَادُوا۟ يَكُونُونَ عَلَيْهِ لِبَدًۭا"
-    },
-    {
-      "verseNo": 20,
-      "textArabic": "قُلْ إِنَّمَآ أَدْعُوا۟ رَبِّى وَلَآ أُشْرِكُ بِهِۦٓ أَحَدًۭا"
-    },
-    {
-      "verseNo": 21,
-      "textArabic": "قُلْ إِنِّى لَآ أَمْلِكُ لَكُمْ ضَرًّۭا وَلَا رَشَدًۭا"
-    },
-    {
-      "verseNo": 22,
-      "textArabic": "قُلْ إِنِّى لَن يُجِيرَنِى مِنَ ٱللَّهِ أَحَدٌۭ وَلَنْ أَجِدَ مِن دُونِهِۦ مُلْتَحَدًا"
-    },
-    {
-      "verseNo": 23,
-      "textArabic": "إِلَّا بَلَٰغًۭا مِّنَ ٱللَّهِ وَرِسَٰلَٰتِهِۦ ۚ وَمَن يَعْصِ ٱللَّهَ وَرَسُولَهُۥ فَإِنَّ لَهُۥ نَارَ جَهَنَّمَ خَٰلِدِينَ فِيهَآ أَبَدًا"
-    },
-    {
-      "verseNo": 24,
-      "textArabic": "حَتَّىٰٓ إِذَا رَأَوْا۟ مَا يُوعَدُونَ فَسَيَعْلَمُونَ مَنْ أَضْعَفُ نَاصِرًۭا وَأَقَلُّ عَدَدًۭا"
-    },
-    {
-      "verseNo": 25,
-      "textArabic": "قُلْ إِنْ أَدْرِىٓ أَقَرِيبٌۭ مَّا تُوعَدُونَ أَمْ يَجْعَلُ لَهُۥ رَبِّىٓ أَمَدًا"
-    },
-    {
-      "verseNo": 26,
-      "textArabic": "عَٰلِمُ ٱلْغَيْبِ فَلَا يُظْهِرُ عَلَىٰ غَيْبِهِۦٓ أَحَدًا"
-    },
-    {
-      "verseNo": 27,
-      "textArabic": "إِلَّا مَنِ ٱرْتَضَىٰ مِن رَّسُولٍۢ فَإِنَّهُۥ يَسْلُكُ مِنۢ بَيْنِ يَدَيْهِ وَمِنْ خَلْفِهِۦ رَصَدًۭا"
-    },
-    {
-      "verseNo": 28,
-      "textArabic": "لِّيَعْلَمَ أَن قَدْ أَبْلَغُوا۟ رِسَٰلَٰتِ رَبِّهِمْ وَأَحَاطَ بِمَا لَدَيْهِمْ وَأَحْصَىٰ كُلَّ شَىْءٍ عَدَدًۢا"
-    }
-  ],
-  "translations": [
-    {
-      "verseNo": 1,
-      "verseNoEnd": null,
-      "source": "ai",
-      "text": "De ki: Bana vahyedildi ki cinlerden bir topluluk işitti; onlar: 'Biz hayret verici bir Kur'an işittik' dediler."
-    },
-    {
-      "verseNo": 1,
-      "source": "diyanet",
-      "text": "(Ey Muhammed!) De ki: \"Bana cinlerden bir topluluğun (Kur'an'ı) dinleyip şöyle dedikleri vahyedildi: \"Şüphesiz biz doğruya ileten hayranlık verici bir Kur'an dinledik de ona inandık. Artık Rabbimize hiç kimseyi asla ortak koşmayacağız.\""
-    },
-    {
-      "verseNo": 1,
-      "source": "esed",
-      "text": "De ki: \"Tanınmayan/bilinmeyen varlıklardan bir kısmının (bu ilahi kelama) kulak verdikleri ve sonra (arkadaşlarına şöyle) söyledikleri bana vahyedildi: ´Biz olağanüstü güzellikte bir hitabe dinledik"
-    },
-    {
-      "verseNo": 1,
-      "source": "okuyan",
-      "text": "1-2 . De ki: “Cinlerden bir grubun (beni) dinlediği ve şöyle söyledikleri bana vahyolunmuştur: Şüphesiz ki doğruya götüren harikulade bir Kur’an dinledik ve ona inandık. Artık Rabbimize hiç kimseyi ortak koşmayacağız."
-    },
-    {
-      "verseNo": 2,
-      "verseNoEnd": null,
-      "source": "ai",
-      "text": "O doğru yola götürür; bu yüzden ona inandık ve Rabbimizle asla kimseyi ortak koşmayacağız."
-    },
-    {
-      "verseNo": 2,
-      "source": "diyanet",
-      "text": "(Ey Muhammed!) De ki: \"Bana cinlerden bir topluluğun (Kur'an'ı) dinleyip şöyle dedikleri vahyedildi: \"Şüphesiz biz doğruya ileten hayranlık verici bir Kur'an dinledik de ona inandık. Artık Rabbimize hiç kimseyi asla ortak koşmayacağız.\""
-    },
-    {
-      "verseNo": 2,
-      "source": "esed",
-      "text": "doğru ile eğriyi ayırd etme bilincine bizi ulaştıran (bir hitabe); ve böylece ona iman ettik. Ve artık Rabbimizden başka kimseye asla ilahlık yakıştırmayacağız"
-    },
-    {
-      "verseNo": 2,
-      "source": "okuyan",
-      "text": "1-2 . De ki: “Cinlerden bir grubun (beni) dinlediği ve şöyle söyledikleri bana vahyolunmuştur: Şüphesiz ki doğruya götüren harikulade bir Kur’an dinledik ve ona inandık. Artık Rabbimize hiç kimseyi ortak koşmayacağız."
-    },
-    {
-      "verseNo": 3,
-      "verseNoEnd": null,
-      "source": "ai",
-      "text": "Ve 'Rabbimizin yüceliği; O ne bir eş edinmiştir ne de bir çocuğu vardır'."
-    },
-    {
-      "verseNo": 3,
-      "source": "diyanet",
-      "text": "\"Doğrusu Rabbimizin şanı çok yücedir; ne bir eş edinmiştir, ne de bir çocuk.\""
-    },
-    {
-      "verseNo": 3,
-      "source": "esed",
-      "text": "çünkü (biliriz ki) Rabbimizin şanı yücedir: O, kendisine ne bir eş, ne de bir erkek çocuk edinmiştir"
-    },
-    {
-      "verseNo": 3,
-      "source": "okuyan",
-      "text": "Eşi de çocuğu da olmayan Rabbimizin şanı çok yücedir."
-    },
-    {
-      "verseNo": 4,
-      "verseNoEnd": null,
-      "source": "ai",
-      "text": "Ve 'Ahmaklarımız Allah hakkında aşırı sözler söylüyordu'."
-    },
-    {
-      "verseNo": 4,
-      "source": "diyanet",
-      "text": "\"Demek bizim beyinsiz olanımız Allah hakkında doğruluktan uzak sözler söylüyormuş.\""
-    },
-    {
-      "verseNo": 4,
-      "source": "esed",
-      "text": "Ve (şimdi öğreniyoruz ki) aramızdaki beyinsiz (kişi), Allah hakkında asılsız şeyler söylüyordu"
-    },
-    {
-      "verseNo": 4,
-      "source": "okuyan",
-      "text": "Şüphesiz ki içimizden bir beyinsiz, Allah hakkında asılsız (saçma) sözler söylerdi."
-    },
-    {
-      "verseNo": 5,
-      "verseNoEnd": null,
-      "source": "ai",
-      "text": "Ve 'Biz sandık ki insanlar da cinler de Allah hakkında asla yalan söylemeyecekler'."
-    },
-    {
-      "verseNo": 5,
-      "source": "diyanet",
-      "text": "\"Şüphesiz biz, insanların ve cinlerin Allah hakkında asla yalan söylemeyeceklerini sanıyorduk.\""
-    },
-    {
-      "verseNo": 5,
-      "source": "esed",
-      "text": "ve ne insanın ne de (hiçbir) görünmez gücün Allah hakkında yalan uydurmayacağını düşün(mekte yanılmış)tık"
-    },
-    {
-      "verseNo": 5,
-      "source": "okuyan",
-      "text": "Biz hiçbir insanın ve cinin Allah hakkında kesinlikle yalan söylemeyeceğini sanmıştık."
-    },
-    {
-      "verseNo": 6,
-      "verseNoEnd": null,
-      "source": "ai",
-      "text": "Ve 'İnsanlardan bazı erkekler cinlerden bazılarına sığınıyordu; onlar da onları daha çok yüklediler'."
-    },
-    {
-      "verseNo": 6,
-      "source": "diyanet",
-      "text": "\"Doğrusu insanlardan bazı kimseler, cinlerden bazılarına sığınırlardı da, cinler onların taşkınlıklarını artırırlardı.\""
-    },
-    {
-      "verseNo": 6,
-      "source": "esed",
-      "text": "Gerçi bazı insanların (bu tür) görünmez güçlere sığındığı (her zaman vaki) olurdu; ama bunlar yalnızca onların şaşkınlığını arttırdı"
-    },
-    {
-      "verseNo": 6,
-      "source": "okuyan",
-      "text": "İnsanlardan bazı erkekler, cinlerden bazı erkeklere sığınıyordu da (bu durum, onların) sadece azgınlığını artırıyordu."
-    },
-    {
-      "verseNo": 7,
-      "verseNoEnd": null,
-      "source": "ai",
-      "text": "Ve 'Onlar, sizinkine benzer şekilde sandılar ki Allah hiç kimseyi diriltmeyecek'."
-    },
-    {
-      "verseNo": 7,
-      "source": "diyanet",
-      "text": "\"Gerçekten onlar da, sizin sandığınız gibi, Allah'ın hiç kimseyi öldükten sonra tekrar diriltmeyeceğini sanmışlardı.\""
-    },
-    {
-      "verseNo": 7,
-      "source": "esed",
-      "text": "O kadar ki, sizin (vaktiyle) düşündüğünüz gibi, onlar da Allah´ın hiç kimseyi (yeniden) asla (elçi olarak) göndermeyeceğini düşünmeye başladılar"
-    },
-    {
-      "verseNo": 7,
-      "source": "okuyan",
-      "text": "Onlar da sizin sandığınız gibi, Allah’ın kimseyi kesinlikle (elçi) olarak göndermeyeceğini sanmışlardı."
-    },
-    {
-      "verseNo": 8,
-      "verseNoEnd": null,
-      "source": "ai",
-      "text": "Ve 'Biz göğe dokunduk; onu sağlam bekçiler ve ateşli yıldızlarla dolu bulduk'."
-    },
-    {
-      "verseNo": 8,
-      "source": "diyanet",
-      "text": "\"Kuşkusuz biz göğe ulaşmak istedik, fakat onu çetin bekçilerle ve yakıcı ışıklarla dolu bulduk.\""
-    },
-    {
-      "verseNo": 8,
-      "source": "esed",
-      "text": "Ve (zaman oldu) biz göğe uzandık ama onu güçlü muhafızlar ve alevlerle dolu bulduk"
-    },
-    {
-      "verseNo": 8,
-      "source": "okuyan",
-      "text": "Biz göğü de yokladık fakat onu güçlü koruyucularla, ışık huzmeleriyle doldurulmuş bulduk."
-    },
-    {
-      "verseNo": 9,
-      "verseNoEnd": null,
-      "source": "ai",
-      "text": "Ve 'Oradan dinlemek için oturaklarımız olurdu; şimdi kim dinlemeye kalkarsa kendisi için gözetlenen ateşli bir yıldız bulur'."
-    },
-    {
-      "verseNo": 9,
-      "source": "diyanet",
-      "text": "\"Halbuki biz, (daha önce) göğün bazı yerlerinde gayb haberlerini dinlemek için otururduk. Fakat şimdi her kim dinlemeye kalkacak olursa, kendini gözetleyen yakıcı bir ışık bulur.\""
-    },
-    {
-      "verseNo": 9,
-      "source": "esed",
-      "text": "halbuki onu(n gizlediği her sırrı) dinleyebileceğimiz (uygun) yerlere kurulmuştuk ve şimdi (veya başka zaman) onu dinlemeye çalışan herkes (aynı şekilde) kendisini bekleyen bir alev ile karşılaşacaktır"
-    },
-    {
-      "verseNo": 9,
-      "source": "okuyan",
-      "text": "(Oysa) biz (haber) dinlemek için göğün (çeşitli) yerlerinde oturuyorduk; (fakat) şimdi kim (haber) dinlemek isterse, kendisini takip eden bir alev huzmesi bulu(yo)r."
-    },
-    {
-      "verseNo": 10,
-      "verseNoEnd": null,
-      "source": "ai",
-      "text": "Ve 'Biz bilmiyoruz: Yerdekiler için kötü bir amaç mı istendi, yoksa Rableri onların doğru yolu bulmasını mı istedi'."
-    },
-    {
-      "verseNo": 10,
-      "source": "diyanet",
-      "text": "\"Hakikaten biz bilmiyoruz, yeryüzündekilere kötülük mü istendi, yoksa Rableri onlara bir hayır mı diledi?\""
-    },
-    {
-      "verseNo": 10,
-      "source": "esed",
-      "text": "Ve (şimdi anladık ki) biz (yaratılmış varlıklar,) yeryüzünde yaşayanlar için kötü bir akibetin hazırlanıp hazırlanmadığını, yahut Rablerinin onları doğru ile eğriyi ayırd etme bilinciyle donatmak isteyip istemediğini bilmiyoruz"
-    },
-    {
-      "verseNo": 10,
-      "source": "okuyan",
-      "text": "(Artık) yeryüzündekilere kötülük mü edildiğini, yoksa Rablerinin onlara bir hayır mı dilediğini bilemiyoruz."
-    },
-    {
-      "verseNo": 11,
-      "verseNoEnd": null,
-      "source": "ai",
-      "text": "İçimizde salih olanlar da vardı, içimizde bundan başka olanlar da; biz çeşitli yollar üzerindeydik."
-    },
-    {
-      "verseNo": 11,
-      "source": "diyanet",
-      "text": "\"Doğrusu içimizde salih olanlar da var, olmayanlar da. Ayrı ayrı yollar tutmuşuz.\""
-    },
-    {
-      "verseNo": 11,
-      "source": "esed",
-      "text": "tıpkı, içimizden bazıları (nasıl) dürüst ve erdemli olurken bazılarımızın da bunun (çok çok) aşağısında kaldı(ğını bilmediğimiz gibi). Biz her zaman birbirinden çok farklı yollar/yöntemler izledik"
-    },
-    {
-      "verseNo": 11,
-      "source": "okuyan",
-      "text": "İçimizden iyiler de başkaları (kötüler) de var. Hepimiz türlü türlü yollar tutmuştuk."
-    },
-    {
-      "verseNo": 12,
-      "verseNoEnd": null,
-      "source": "ai",
-      "text": "Biz, Allah'ı yeryüzünde asla aciz bırakamayacağımızı ve O'ndan asla kaçıp kurtulamayacağımızı sandık."
-    },
-    {
-      "verseNo": 12,
-      "source": "diyanet",
-      "text": "\"Muhakkak ki biz Allah'ı yeryüzünde aciz bırakamayacağımızı, kaçarak da onu aciz bırakamayacağımızı anladık.\""
-    },
-    {
-      "verseNo": 12,
-      "source": "esed",
-      "text": "Ve sonunda anladık ki yeryüzünde (hayat sürerken) Allah´a asla üstün gelemeyiz ve (yine anladık ki) (hayattan) kaçarak da O´nun hükmünden kurtulamayız"
-    },
-    {
-      "verseNo": 12,
-      "source": "okuyan",
-      "text": "Allah’ı yeryüzünde asla aciz bırakamayacağımızı ve başka yere kaçmakla da O’nu aciz bırakamayacağımızı (kurtulamayacağımızı) iyice anladık."
-    },
-    {
-      "verseNo": 13,
-      "verseNoEnd": null,
-      "source": "ai",
-      "text": "Hidayeti işittiğimizde ona iman ettik; kim Rabbine iman ederse ne bir eksiklikten ne de bir eziyetten korkmaz."
-    },
-    {
-      "verseNo": 13,
-      "source": "diyanet",
-      "text": "\"Gerçekten biz hidayet rehberini (Kur'an'ı) işitince ona inandık. Kim Rabbine inanırsa, artık ne hakkının eksik verilmesinden, ne de haksızlığa uğramaktan korkar.\""
-    },
-    {
-      "verseNo": 13,
-      "source": "esed",
-      "text": "Bu nedenle, (Allah´ın) rehberliği(ne çağrıyı) duyar duymaz ona inanmaya başladık. Rabbine inanan kimse hiçbir zaman ziyana veya haksızlığa uğrama korkusu duymaz"
-    },
-    {
-      "verseNo": 13,
-      "source": "okuyan",
-      "text": "Şüphesiz ki artık biz o rehberi (Kur’an’ı) duyunca ona iman ettik. Rabbine güvenen kişi, kendisine herhangi bir zarar verilmesinden de haksızlığa uğratılmaktan da korkmaz."
-    },
-    {
-      "verseNo": 14,
-      "verseNoEnd": null,
-      "source": "ai",
-      "text": "İçimizden kimileri müslüman oldu, kimileri adaletsizdi; müslüman olanlar doğru yolu aradılar."
-    },
-    {
-      "verseNo": 14,
-      "source": "diyanet",
-      "text": "\"Kuşkusuz içimizde müslüman olanlar da var, hak yoldan sapanlar da var. Kim müslüman olursa, işte onlar doğruyu arayıp bulmuşlardır.\""
-    },
-    {
-      "verseNo": 14,
-      "source": "esed",
-      "text": "Ama içimizde kendilerini Allah´a teslim edenler bulun(duğu doğrud)ur, tıpkı kendilerini zulme kaptıranlar bulunduğu gibi. Kendilerini Allah´a teslim edenler doğru ile eğriyi ayırd etme bilincine ulaşanlardır"
-    },
-    {
-      "verseNo": 14,
-      "source": "okuyan",
-      "text": "İçimizden (Allah’a) teslim olanlar da yoldan sapanlar da var. (Allah’a) teslim olanlar, doğru yolu arayıp (bulmuş olan)lardır."
-    },
-    {
-      "verseNo": 15,
-      "verseNoEnd": null,
-      "source": "ai",
-      "text": "Adaletsiz olanlar ise cehennemin yakıtı oldular."
-    },
-    {
-      "verseNo": 15,
-      "source": "diyanet",
-      "text": "\"Hak yoldan sapanlara gelince, onlar cehenneme odun olmuşlardır.\""
-    },
-    {
-      "verseNo": 15,
-      "source": "esed",
-      "text": "ama kendilerini zulme kaptıranlar yalnızca cehennem (ateşi) için yakıt oldular!´"
-    },
-    {
-      "verseNo": 15,
-      "source": "okuyan",
-      "text": "Yoldan sapanlar ise cehennem için yakıt olmuş (olacaklardır).”"
-    },
-    {
-      "verseNo": 16,
-      "verseNoEnd": null,
-      "source": "ai",
-      "text": "Eğer doğru yolda sabit kalsalardı, onlara bol su verirdik."
-    },
-    {
-      "verseNo": 16,
-      "source": "diyanet",
-      "text": "Yine de ki: \"Bana şöyle de vahyedildi: ‘Eğer yolda dosdoğru olurlarsa mutlaka onlara bol yağmur yağdırırız ki bununla onları imtihan edelim. Kim Rabbinin zikrinden (Kur'an'dan) yüz çevirirse, Rabbi onu gittikçe yükselen bir azaba sokar.\""
-    },
-    {
-      "verseNo": 16,
-      "source": "esed",
-      "text": "Öyleyse, (bilin ki) onlar, (çağrımızı duyanlar,) şaşmadan (doğru) yoldan gidecek olurlarsa kendilerine sınırsız nimetler yağdıracağız"
-    },
-    {
-      "verseNo": 16,
-      "source": "okuyan",
-      "text": "16-17 . Doğru yolda olsalardı, kendilerini nimetler içerisinde imtihan edelim diye onlara elbette bol su verirdik. Zaten kim Rabbinin zikrinden (Kur’an’dan) yüz çevirirse, (Allah) onu şiddeti artan bir azaba sürükler."
-    },
-    {
-      "verseNo": 17,
-      "verseNoEnd": null,
-      "source": "ai",
-      "text": "Onları bunda denemek içindir. Kim Rabbini anmasından yüz çevirirse, onu şiddetli bir azaba sokar."
-    },
-    {
-      "verseNo": 17,
-      "source": "diyanet",
-      "text": "Yine de ki: \"Bana şöyle de vahyedildi: ‘Eğer yolda dosdoğru olurlarsa mutlaka onlara bol yağmur yağdırırız ki bununla onları imtihan edelim. Kim Rabbinin zikrinden (Kur'an'dan) yüz çevirirse, Rabbi onu gittikçe yükselen bir azaba sokar.\""
-    },
-    {
-      "verseNo": 17,
-      "source": "esed",
-      "text": "ve onları bu yolla deneyeceğiz çünkü Rabbini anmaktan uzaklaşanı Allah, en şiddetli azaba uğratır"
-    },
-    {
-      "verseNo": 17,
-      "source": "okuyan",
-      "text": "16-17 . Doğru yolda olsalardı, kendilerini nimetler içerisinde imtihan edelim diye onlara elbette bol su verirdik. Zaten kim Rabbinin zikrinden (Kur’an’dan) yüz çevirirse, (Allah) onu şiddeti artan bir azaba sürükler."
-    },
-    {
-      "verseNo": 18,
-      "verseNoEnd": null,
-      "source": "ai",
-      "text": "Mescitler Allah'a aittir; Allah ile birlikte hiç kimseyi çağırmayın."
-    },
-    {
-      "verseNo": 18,
-      "source": "diyanet",
-      "text": "\"Şüphesiz mescitler, Allah'ındır. O halde, Allah ile birlikte hiç kimseye kulluk etmeyin."
-    },
-    {
-      "verseNo": 18,
-      "source": "esed",
-      "text": "Ve (bilin ki) kulluk (yalnızca) Allah´a mahsustur. O halde Allah´ın yanısıra başka hiç kimseye yalvarıp yakarmayın"
-    },
-    {
-      "verseNo": 18,
-      "source": "okuyan",
-      "text": "Şüphesiz ki mescitler Allah’a aittir. Allah ile birlikte kimseye yalvarmayın!"
-    },
-    {
-      "verseNo": 19,
-      "verseNoEnd": null,
-      "source": "ai",
-      "text": "Bir kul Allah'ı çağırdığında, neredeyse hepsi onun üzerine topluca üşüşecek oluyordu."
-    },
-    {
-      "verseNo": 19,
-      "source": "diyanet",
-      "text": "\"Allah'ın kulu (Muhammed), O'na ibadet etmek için kalktığında cinler nerede ise (Kur'an'ı dinlemek için kalabalıktan) onun etrafında birbirlerine geçiyorlardı.\""
-    },
-    {
-      "verseNo": 19,
-      "source": "esed",
-      "text": "Ama ne zaman Allah´ın bir kulu O´na ibadet etmek için ayağa kalksa, o (hakikati inkar ede)nler hep birlikte etrafını telaşla kuşatırlardı"
-    },
-    {
-      "verseNo": 19,
-      "source": "okuyan",
-      "text": "Allah’ın kulu, O’na davet için kalktığında (yoldan sapanlar) neredeyse onun üzerine çullanırlardı."
-    },
-    {
-      "verseNo": 20,
-      "verseNoEnd": null,
-      "source": "ai",
-      "text": "De ki: Ben ancak Rabbimi çağırırım ve O'na hiç kimseyi ortak koşmam."
-    },
-    {
-      "verseNo": 20,
-      "source": "diyanet",
-      "text": "De ki: \"Şüphesiz ben ancak Rabbime ibadet ederim ve O'na hiç kimseyi ortak koşmam.\""
-    },
-    {
-      "verseNo": 20,
-      "source": "esed",
-      "text": "De ki: \"Ben yalnız Rabbime yalvarırım ve O´ndan başka hiç kimseye ilahlık yakıştırmam"
-    },
-    {
-      "verseNo": 20,
-      "source": "okuyan",
-      "text": "De ki: “Ben sadece Rabbime dua ederim (O’na çağırırım) ve O’na kimseyi ortak koşmam.”"
-    },
-    {
-      "verseNo": 21,
-      "verseNoEnd": null,
-      "source": "ai",
-      "text": "De ki: Benim sizin için zarar verme ya da doğru yolu gösterme yetkim yok."
-    },
-    {
-      "verseNo": 21,
-      "source": "diyanet",
-      "text": "De ki: \"Şüphesiz ben, size ne zarar verebilir ne de fayda sağlayabilirim.\""
-    },
-    {
-      "verseNo": 21,
-      "source": "esed",
-      "text": "De ki: \"Size zarar vermek yahut doğruyu eğriden ayırd etme bilinciyle sizi donatmak benim elimde değildir"
-    },
-    {
-      "verseNo": 21,
-      "source": "okuyan",
-      "text": "De ki: “Ben size zarar verme ve doğru yola getirme gücüne de sahip değilim.”"
-    },
-    {
-      "verseNo": 22,
-      "verseNoEnd": null,
-      "source": "ai",
-      "text": "De ki: Allah'tan beni koruyacak hiç kimse yoktur; O'ndan başka sığınacak bir yer bulamam."
-    },
-    {
-      "verseNo": 22,
-      "source": "diyanet",
-      "text": "De ki: \"Gerçekten beni Allah'a karşı hiç kimse asla koruyamaz ve yine asla O'ndan başka sığınacak kimse de bulamam.\""
-    },
-    {
-      "verseNo": 22,
-      "source": "esed",
-      "text": "De ki: \"Gerçek şu ki hiç kimse beni Allah´a karşı koruyamazdı ve O´ndan kaçıp saklanacak hiçbir yer bulamazdım"
-    },
-    {
-      "verseNo": 22,
-      "source": "okuyan",
-      "text": "De ki: “Allah’tan (gelecek bir azaba karşı) beni asla kimse koruyamaz. O’ndan başka bir sığınak da asla bulamam.\""
-    },
-    {
-      "verseNo": 23,
-      "verseNoEnd": null,
-      "source": "ai",
-      "text": "Ancak bu, Allah'tan ve O'nun mesajlarından bir tebliğdir. Kim Allah'a ve peygamberine isyan ederse, onun için cehennem ateşi vardır; ebediyen orada kalacaktır."
-    },
-    {
-      "verseNo": 23,
-      "source": "diyanet",
-      "text": "\"Ancak Allah'tan gelenleri tebliğ edebilirim ve O'nun vahiylerini açıklayabilirim. Kim Allah'a ve Resülüne karşı gelirse, şüphesiz onlar için, içinde ebedi kalacakları cehennem ateşi vardır.\""
-    },
-    {
-      "verseNo": 23,
-      "source": "esed",
-      "text": "eğer Allah´ın mesajlarını ve O´ndan (bana ulaşan aydınlığı dünyaya) duyurmamış olsaydım.\" Allah´a ve Elçisi´ne isyan edenlere gelince, şüphe yok ki onları içinde sonsuza dek kalacakları cehennem ateşi beklemektedir"
-    },
-    {
-      "verseNo": 23,
-      "source": "okuyan",
-      "text": "\"(Benim görevim), Allah’tan gelen ve O’nun mesajlarından oluşan (emirleri) sadece tebliğdir. Allah’a ve Elçisine isyan eden kişi için ebedî kalacakları cehennem ateşi vardır.\""
-    },
-    {
-      "verseNo": 24,
-      "verseNoEnd": null,
-      "source": "ai",
-      "text": "Vaat edildikleri şeyi gördüklerinde, kimlerin daha zayıf destekçiye ve daha az sayıya sahip olduğunu bilecekler."
-    },
-    {
-      "verseNo": 24,
-      "source": "diyanet",
-      "text": "Nihayet uyarıldıkları şeyi gördüklerinde kimin yardımcısı daha zayıf, kimin sayısı daha azmış, bilecekler."
-    },
-    {
-      "verseNo": 24,
-      "source": "esed",
-      "text": "(Öyleyse bırak,) önceden uyarıldıkları (akibet)i görecekleri an gelinceye kadar (beklesinler), o zaman anlayacaklar kim, hangi (tür) insan daha çaresiz ve daha kimsesizdir"
-    },
-    {
-      "verseNo": 24,
-      "source": "okuyan",
-      "text": "Sonunda, kendilerine vadedilen şeyi gördükleri zaman, kimin yardımcısının daha zayıf ve sayısının daha az olduğunu ileride bileceklerdir."
-    },
-    {
-      "verseNo": 25,
-      "verseNoEnd": null,
-      "source": "ai",
-      "text": "De ki: Sizin vaat edilen şeyin yakın olup olmadığını bilmiyorum; belki Rabbim ona bir süre tayin eder."
-    },
-    {
-      "verseNo": 25,
-      "source": "diyanet",
-      "text": "De ki: \"Sizin uyarıldığınız şey yakın mıdır, yoksa Rabbim ona uzun bir süre mi koyacaktır, bilemem.\""
-    },
-    {
-      "verseNo": 25,
-      "source": "esed",
-      "text": "De ki: \"Önceden uyarıldığınız bu (akibet)in yakın olup olmadığını yahut Rabbimin onun için uzun bir vade koyup koymadığını bilemem"
-    },
-    {
-      "verseNo": 25,
-      "source": "okuyan",
-      "text": "De ki: “Size vadedilen (gün) yakın mıdır, yoksa Rabbim onun için uzun bir süre mi koyar, onu ben bilemem.”"
-    },
-    {
-      "verseNo": 26,
-      "verseNoEnd": null,
-      "source": "ai",
-      "text": "O gaybı bilendir; gaybını hiç kimseye açmaz."
-    },
-    {
-      "verseNo": 26,
-      "source": "diyanet",
-      "text": "O gaybı bilendir. Hiç kimseye gaybını bildirmez."
-    },
-    {
-      "verseNo": 26,
-      "source": "esed",
-      "text": "(Yalnız) O bilir yaratılmışların kavrayış sınırlarının ötesindekini ve hiç kimseye açmaz Kendi erişilmez derinlikteki sırlarını"
-    },
-    {
-      "verseNo": 26,
-      "source": "okuyan",
-      "text": "Gaybı (bilinemeyeni) bilen (Allah) gaybını (bilinemeyeni) kimseye açmaz."
-    },
-    {
-      "verseNo": 27,
-      "verseNoEnd": null,
-      "source": "ai",
-      "text": "Ancak O, hoşnut olduğu bir peygamberi seçer; onun önünden ve arkasından bir gözetleyici yollar."
-    },
-    {
-      "verseNo": 27,
-      "source": "diyanet",
-      "text": "Ancak seçtiği resüller başka. (Onlara bildirir.) Fakat O, Resülün önünde ve arkasında gözetleyici (melek)ler yürütür ki resüllerin, Rablerinin vahiylerini tebliğ ettiklerini bilsin. Allah onların her halini kuşatmış ve her şeyi inceden inceye sayıp dökmüştür."
-    },
-    {
-      "verseNo": 27,
-      "source": "esed",
-      "text": "seçmekten hoşnutluk duyduğu elçisi hariç. O zaman Allah hem onun gözü önüne serilmiş olan her konuda, hem de aklının ermeyeceği her alanda onu gözetlemek için (semavi güçler) gönderir"
-    },
-    {
-      "verseNo": 27,
-      "source": "okuyan",
-      "text": "27-28 . Ancak dilediği elçi(ler) bunun dışındadır. Rablerinin mesajlarını onların (meleklerin) tebliğ ettiğini bilsin diye, şüphesiz o (elçinin) önünden ve arkasından gözetleyici(ler) gönderir. (Allah) onların beraberinde bulunanı kuşatmış ve her şeyi bir bir sayıp kaydetmiştir."
-    },
-    {
-      "verseNo": 28,
-      "verseNoEnd": null,
-      "source": "ai",
-      "text": "Böylece Rablerinin mesajlarını ulaştırdıklarını, ellerindekileri kuşattığını ve her şeyi sayı olarak saydığını bilsin."
-    },
-    {
-      "verseNo": 28,
-      "source": "diyanet",
-      "text": "Ancak seçtiği resüller başka. (Onlara bildirir.) Fakat O, Resülün önünde ve arkasında gözetleyici (melek)ler yürütür ki resüllerin, Rablerinin vahiylerini tebliğ ettiklerini bilsin. Allah onların her halini kuşatmış ve her şeyi inceden inceye sayıp dökmüştür."
-    },
-    {
-      "verseNo": 28,
-      "source": "esed",
-      "text": "böylece bu (elçi)lerin tebliğ ettikleri şeyin (yalnızca) Rablerinin mesajları olduğunu açıkça gösterir, çünkü onların (söyleyebilecekleri) her şeyi (bilgisi ile) kuşatan O´dur; ve (mevcut olan) her şeyi bir bir hesaplayandır"
-    },
-    {
-      "verseNo": 28,
-      "source": "okuyan",
-      "text": "27-28 . Ancak dilediği elçi(ler) bunun dışındadır. Rablerinin mesajlarını onların (meleklerin) tebliğ ettiğini bilsin diye, şüphesiz o (elçinin) önünden ve arkasından gözetleyici(ler) gönderir. (Allah) onların beraberinde bulunanı kuşatmış ve her şeyi bir bir sayıp kaydetmiştir."
-    }
-  ],
-  "aiParagraph": "Görünmez bir kalabalık sessizce dinliyor — ve duyduklarında bir hakikat seziyorlar. İşte bu sure, tam da bu noktadan açılıyor: kendilerinden beklenmedik bir yerde, beklenmedik varlıklarda beliren bir uyanış anı. Bu varlıklar kendi aralarında konuşurken şunu itiraf ediyorlar: daha önce yanlış bildiler, yanlış yönlendirdiler, kimi zaman sığınak arayanları daha da bunaltıp ağırlaştırdılar. Ve şimdi açıkça söylüyorlar — içlerinde iyiler de var, yanlış gidenler de; hepsi aynı yolda değil, hiçbir zaman da olmadı. Bu itiraf küçük değil; çünkü grubun ya da sürünün içinde kaybolmak, \"biz hep böyleydik\" demek çok daha kolay. Surenin seslendiği insana gelince: o da bir sığınak arıyor, o da kimi zaman kendinden güçlü zannettiği kapılara vuruyor. Ama metin soruyor — ya o kapılar seni daha da içine çekiyorsa? Öte yandan elçinin ağzından gelen şey, şaşırtıcı derecede alçakgönüllü: \"Sizin için ne bir zarara, ne de bir doğruya sahip değilim.\" Güç iddiasından sıyrılmış bir ses, sığınak olmak yerine yalnızca iletmek için orada. Bilginin sınırı da aynı netlikte çiziliyor: görünmeyenin anahtarı kimsenin elinde değil. Bir şeyin ne zaman geleceğini bilmemek, insanı hem küçümseyen hem de garip biçimde özgür bırakan bir gerçek."
+ "stationNo": 65,
+ "surahNo": 72,
+ "name": "Cinn",
+ "nameArabic": "",
+ "nameMeaning": "",
+ "verseCount": 28,
+ "nuzulOrderOkuyan": 63,
+ "periodDiyanet": "Mekke",
+ "periodOkuyan": "Mekke",
+ "revelationTiming": "Nüzul yılı konusunda kaynaklar arasında ihtilaf vardır. İbn Hişâm hicretten 3 yıl önce (Tâif dönüşü) derken, Prof. Dr. Mehmet Okuyan risaletin 10. yılı ihtimali üzerinde durmaktadır.",
+ "stationTitle": "Görünmeyenin Sınırları ve İnsanın Kibri",
+ "introduction": "Cinn suresi, adını ilk ayetinde geçen ve 'gizli, örtülü varlık' anlamına gelen 'cin' kelimesinden alır. 28 ayetten oluşan bu sure, Kur'an'ın 72. suresidir ve Mekke döneminde inmiştir. Surenin temel ekseni, görünmeyen varlıklar olan cinlerin Kur'an'ı dinleyip etkilenmeleri üzerinden, insanın kendi sınırlarını ve kibrini sorgulamasıdır.\n\nSure, cinlerin Kur'an'ı dinledikten sonra kendi aralarında yaptıkları konuşmaları aktararak başlar. Bu konuşmalarda, cinlerin de insanlar gibi iyileri ve kötüleri olduğu, göklerin sırlarına ulaşmaya çalıştıkları ancak engellendikleri anlatılır. Surenin ikinci yarısında ise tevhid inancı, Allah'ın eşsizliği ve gayb bilgisinin yalnızca O'na ait olduğu vurgulanır.\n\nCinn suresi, insanın bilmediği ve göremediği varlıklar karşısındaki tutumunu eleştirir. Cinlere sığınarak güç devşirmeye çalışanların aslında kendi zayıflıklarını artırdıklarını belirtir. Sure, insanın kendi sınırlarını bilmesi ve yalnızca Allah'a yönelmesi gerektiğini hatırlatır.",
+ "occasionOfRevelation": "Cinn suresinin nüzul sebebi hakkında kaynaklarda farklı rivayetler bulunmaktadır. İbn Hişâm'ın rivayetine göre, cinlerin Hz. Peygamber'in Kur'an okuyuşunu dinlemeleri, hicretten üç yıl önce Tâif dönüşü sırasında vuku bulmuştur.\n\nAbdullah b. Abbas'tan nakledilen diğer bir rivayete göre ise, şeytanların semadan haber almaktan menedildiği bir dönemde Hz. Peygamber ashabından birkaç kişiyle birlikte Ukâz panayırına doğru gidiyordu. Nahle denilen yerde sabah namazı kıldırırken, semadan kovulan ve bunun sebebini araştıran bir grup cin, okunan Kur'an'ı işitmiş ve etkilenerek iman etmişlerdir.\n\nProf. Dr. Mehmet Okuyan ise surenin Mekke döneminin sonlarına yakın bir tarihte, risaletin 10. yılında indirilmiş olmasının muhtemel olduğunu belirtmektedir. Bu farklı rivayetler, surenin nüzul zamanı ve ortamı hakkında çeşitli görüşlerin olduğunu göstermektedir.",
+ "occasionSources": "TDV İslâm Ansiklopedisi, \"Cin Sûresi\" maddesi; Diyanet İşleri Başkanlığı Kur'an Yolu Tefsiri, Cin Suresi girişi; kuranokuyan.com, Cinn suresi girişi (Prof. Dr. Mehmet Okuyan).",
+ "keyTerms": [
+  {
+   "term": "cin",
+   "arabic": "جِنّ",
+   "verseRef": "72:1",
+   "meaning": "Örtülü, gizli varlık. Ayette, insanların duyu organlarıyla algılayamadığı, ancak irade ve sorumluluk sahibi varlıkları ifade eder."
+  },
+  {
+   "term": "rüşd",
+   "arabic": "رُشْد",
+   "verseRef": "72:2",
+   "meaning": "Doğru yol, olgunluk, isabetli karar. Ayette, Kur'an'ın insanı ve cinleri ulaştırdığı hakikat ve aydınlık yol anlamındadır."
+  },
+  {
+   "term": "şatat",
+   "arabic": "شَطَط",
+   "verseRef": "72:4",
+   "meaning": "Haddi aşmak, saçmalamak, aşırı gitmek. Ayette, Allah hakkında söylenen asılsız ve ölçüsüz sözleri tanımlar."
+  },
+  {
+   "term": "raşed",
+   "arabic": "رَشَد",
+   "verseRef": "72:10",
+   "meaning": "İyilik, doğruluk, fayda. Ayette, Allah'ın yeryüzündekiler için dilediği hayır ve hidayet anlamında kullanılmıştır."
+  },
+  {
+   "term": "gayb",
+   "arabic": "غَيْب",
+   "verseRef": "72:26",
+   "meaning": "Görünmeyen, gizli olan, duyularla algılanamayan. Ayette, mutlak bilgisinin yalnızca Allah'a ait olduğu vurgulanır."
+  }
+ ],
+ "themes": [
+  {
+   "label": "Sınırların İhlali ve Kibir",
+   "body": "İnsan, bilmediği ve kontrol edemediği alanlara hükmetme arzusuyla çoğu zaman haddini aşar. Cinlere sığınmak veya gaybı bilme iddiası, insanın kendi acizliğini örtbas etme çabasıdır."
+  },
+  {
+   "label": "Hakikatin Evrenselliği",
+   "body": "Kur'an'ın mesajı sadece insanlara değil, irade sahibi diğer varlıklara da hitap eder. Hakikat, kimden veya nereden gelirse gelsin, kalbi açık olan herkesi etkiler ve dönüştürür."
+  },
+  {
+   "label": "Sorumluluğun Bireyselliği",
+   "body": "Ne cinler ne de başka güçler insanı kurtarabilir veya ona zarar verebilir. İnsan, kendi eylemlerinden ve yönelimlerinden bizzat sorumludur."
+  }
+ ],
+ "questions": [
+  "Hayatımda kontrol edemediğim belirsizliklerle başa çıkmak için, gerçekte hiçbir gücü olmayan hangi sahte sığınaklara veya inançlara tutunuyorum?",
+  "Kendi eksikliklerimi ve hatalarımı kabul etmek yerine, suçu benden bağımsız 'görünmez' dış etkenlere (şans, kader, başkalarının kötülüğü) atarak sorumluluktan kaçtığım oluyor mu?"
+ ],
+ "contemporaryMeaning": "Bu sure, insanın belirsizliğe tahammülsüzlüğünü ve bilinmeyeni kontrol etme arzusunu merkeze alır. İnsanın kendi sınırlarını aşarak, hayatın akışını manipüle etmek veya geleceği güvence altına almak için gizemli, karanlık ya da dışsal güçlere sığınması, metnin temel eleştirisidir. Bu sığınma hâli, kişiye güç kazandırmak yerine onun kaygısını ve acizliğini derinleştiren bir yanılsama olarak sunulur.\n\nBugünün diliyle: Ekonomik dalgalanmalar, kariyer krizleri veya ilişkilerdeki tıkanıklıklar karşısında kişinin sorumluluk almak yerine komplo teorilerine, astrolojik kehanetlere veya gizli ajandalara sığınması, bu zaafın güncel bir yansımasıdır. İnsan, kendi iradesiyle çözemediği sorunları, kendisinin dışındaki görünmez güçlerin bir oyunu olarak okumaya eğilimlidir. Bu eğilim, kişiyi kendi eylemlerinin ağırlığından kurtarıyor gibi görünse de, onu sürekli bir korku ve bağımlılık döngüsüne hapseder.\n\nMutlak bir garanti arayışı, verilerin ve algoritmaların her adımı tahmin etmeye çalıştığı bir düzende bile insanın içsel güvensizliğini yatıştıramaz. Finansal kararlarda veya statü arayışında kestirme yollar bulma çabası, kişiyi çoğu zaman asılsız vaatlerin ve sahte otoritelerin müşterisi yapar. Metin, insanın kendi sınırlarını ve bilgisizliğini kabul etmesinin bir zayıflık değil, aksine onu görünmez prangalardan özgürleştiren yegâne zemin olduğunu gösterir.",
+ "scholarlyNotes": [
+  {
+   "kind": "ihtilaf",
+   "body": "İbn Hişâm'a göre sure hicretten 3 yıl önce Tâif dönüşü inmiştir. İbn Abbas rivayetine göre ise Ukâz panayırına giderken Nahle'de inmiştir. Prof. Dr. Mehmet Okuyan ise risaletin 10. yılında inmiş olabileceğini belirtir.",
+   "label": "Nüzul Zamanı ve Sebebi"
+  },
+  {
+   "kind": "rivayet",
+   "body": "Sa'lebî ve Vâhidî gibi müfessirlerce Übey b. Kâ'b'dan rivayet edilen 'Kim Cin sûresini okursa kendisine Hz. Muhammed'in peygamberliğine inanan ve inanmayan bütün cinlerin sayısınca köle âzat etmişçesine sevap verilir' şeklindeki hadis mevzûdur (uydurmadır).",
+   "label": "Surenin Fazileti Hakkında Uydurma Hadis"
+  },
+  {
+   "kind": "nuans",
+   "body": "Halk arasında cin şerrine karşı bu surenin 41 defa okunması gibi uygulamalar bulunsa da, İslâm literatüründe bununla ilgili güvenilir bir kayıt yoktur.",
+   "label": "Cin Suresi Okuma Adeti"
+  }
+ ],
+ "verses": [
+  {
+   "verseNo": 1,
+   "textArabic": "بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ قُلْ أُوحِىَ إِلَىَّ أَنَّهُ ٱسْتَمَعَ نَفَرٌۭ مِّنَ ٱلْجِنِّ فَقَالُوٓا۟ إِنَّا سَمِعْنَا قُرْءَانًا عَجَبًۭا"
+  },
+  {
+   "verseNo": 2,
+   "textArabic": "يَهْدِىٓ إِلَى ٱلرُّشْدِ فَـَٔامَنَّا بِهِۦ ۖ وَلَن نُّشْرِكَ بِرَبِّنَآ أَحَدًۭا"
+  },
+  {
+   "verseNo": 3,
+   "textArabic": "وَأَنَّهُۥ تَعَٰلَىٰ جَدُّ رَبِّنَا مَا ٱتَّخَذَ صَٰحِبَةًۭ وَلَا وَلَدًۭا"
+  },
+  {
+   "verseNo": 4,
+   "textArabic": "وَأَنَّهُۥ كَانَ يَقُولُ سَفِيهُنَا عَلَى ٱللَّهِ شَطَطًۭا"
+  },
+  {
+   "verseNo": 5,
+   "textArabic": "وَأَنَّا ظَنَنَّآ أَن لَّن تَقُولَ ٱلْإِنسُ وَٱلْجِنُّ عَلَى ٱللَّهِ كَذِبًۭا"
+  },
+  {
+   "verseNo": 6,
+   "textArabic": "وَأَنَّهُۥ كَانَ رِجَالٌۭ مِّنَ ٱلْإِنسِ يَعُوذُونَ بِرِجَالٍۢ مِّنَ ٱلْجِنِّ فَزَادُوهُمْ رَهَقًۭا"
+  },
+  {
+   "verseNo": 7,
+   "textArabic": "وَأَنَّهُمْ ظَنُّوا۟ كَمَا ظَنَنتُمْ أَن لَّن يَبْعَثَ ٱللَّهُ أَحَدًۭا"
+  },
+  {
+   "verseNo": 8,
+   "textArabic": "وَأَنَّا لَمَسْنَا ٱلسَّمَآءَ فَوَجَدْنَٰهَا مُلِئَتْ حَرَسًۭا شَدِيدًۭا وَشُهُبًۭا"
+  },
+  {
+   "verseNo": 9,
+   "textArabic": "وَأَنَّا كُنَّا نَقْعُدُ مِنْهَا مَقَٰعِدَ لِلسَّمْعِ ۖ فَمَن يَسْتَمِعِ ٱلْءَانَ يَجِدْ لَهُۥ شِهَابًۭا رَّصَدًۭا"
+  },
+  {
+   "verseNo": 10,
+   "textArabic": "وَأَنَّا لَا نَدْرِىٓ أَشَرٌّ أُرِيدَ بِمَن فِى ٱلْأَرْضِ أَمْ أَرَادَ بِهِمْ رَبُّهُمْ رَشَدًۭا"
+  },
+  {
+   "verseNo": 11,
+   "textArabic": "وَأَنَّا مِنَّا ٱلصَّٰلِحُونَ وَمِنَّا دُونَ ذَٰلِكَ ۖ كُنَّا طَرَآئِقَ قِدَدًۭا"
+  },
+  {
+   "verseNo": 12,
+   "textArabic": "وَأَنَّا ظَنَنَّآ أَن لَّن نُّعْجِزَ ٱللَّهَ فِى ٱلْأَرْضِ وَلَن نُّعْجِزَهُۥ هَرَبًۭا"
+  },
+  {
+   "verseNo": 13,
+   "textArabic": "وَأَنَّا لَمَّا سَمِعْنَا ٱلْهُدَىٰٓ ءَامَنَّا بِهِۦ ۖ فَمَن يُؤْمِنۢ بِرَبِّهِۦ فَلَا يَخَافُ بَخْسًۭا وَلَا رَهَقًۭا"
+  },
+  {
+   "verseNo": 14,
+   "textArabic": "وَأَنَّا مِنَّا ٱلْمُسْلِمُونَ وَمِنَّا ٱلْقَٰسِطُونَ ۖ فَمَنْ أَسْلَمَ فَأُو۟لَٰٓئِكَ تَحَرَّوْا۟ رَشَدًۭا"
+  },
+  {
+   "verseNo": 15,
+   "textArabic": "وَأَمَّا ٱلْقَٰسِطُونَ فَكَانُوا۟ لِجَهَنَّمَ حَطَبًۭا"
+  },
+  {
+   "verseNo": 16,
+   "textArabic": "وَأَلَّوِ ٱسْتَقَٰمُوا۟ عَلَى ٱلطَّرِيقَةِ لَأَسْقَيْنَٰهُم مَّآءً غَدَقًۭا"
+  },
+  {
+   "verseNo": 17,
+   "textArabic": "لِّنَفْتِنَهُمْ فِيهِ ۚ وَمَن يُعْرِضْ عَن ذِكْرِ رَبِّهِۦ يَسْلُكْهُ عَذَابًۭا صَعَدًۭا"
+  },
+  {
+   "verseNo": 18,
+   "textArabic": "وَأَنَّ ٱلْمَسَٰجِدَ لِلَّهِ فَلَا تَدْعُوا۟ مَعَ ٱللَّهِ أَحَدًۭا"
+  },
+  {
+   "verseNo": 19,
+   "textArabic": "وَأَنَّهُۥ لَمَّا قَامَ عَبْدُ ٱللَّهِ يَدْعُوهُ كَادُوا۟ يَكُونُونَ عَلَيْهِ لِبَدًۭا"
+  },
+  {
+   "verseNo": 20,
+   "textArabic": "قُلْ إِنَّمَآ أَدْعُوا۟ رَبِّى وَلَآ أُشْرِكُ بِهِۦٓ أَحَدًۭا"
+  },
+  {
+   "verseNo": 21,
+   "textArabic": "قُلْ إِنِّى لَآ أَمْلِكُ لَكُمْ ضَرًّۭا وَلَا رَشَدًۭا"
+  },
+  {
+   "verseNo": 22,
+   "textArabic": "قُلْ إِنِّى لَن يُجِيرَنِى مِنَ ٱللَّهِ أَحَدٌۭ وَلَنْ أَجِدَ مِن دُونِهِۦ مُلْتَحَدًا"
+  },
+  {
+   "verseNo": 23,
+   "textArabic": "إِلَّا بَلَٰغًۭا مِّنَ ٱللَّهِ وَرِسَٰلَٰتِهِۦ ۚ وَمَن يَعْصِ ٱللَّهَ وَرَسُولَهُۥ فَإِنَّ لَهُۥ نَارَ جَهَنَّمَ خَٰلِدِينَ فِيهَآ أَبَدًا"
+  },
+  {
+   "verseNo": 24,
+   "textArabic": "حَتَّىٰٓ إِذَا رَأَوْا۟ مَا يُوعَدُونَ فَسَيَعْلَمُونَ مَنْ أَضْعَفُ نَاصِرًۭا وَأَقَلُّ عَدَدًۭا"
+  },
+  {
+   "verseNo": 25,
+   "textArabic": "قُلْ إِنْ أَدْرِىٓ أَقَرِيبٌۭ مَّا تُوعَدُونَ أَمْ يَجْعَلُ لَهُۥ رَبِّىٓ أَمَدًا"
+  },
+  {
+   "verseNo": 26,
+   "textArabic": "عَٰلِمُ ٱلْغَيْبِ فَلَا يُظْهِرُ عَلَىٰ غَيْبِهِۦٓ أَحَدًا"
+  },
+  {
+   "verseNo": 27,
+   "textArabic": "إِلَّا مَنِ ٱرْتَضَىٰ مِن رَّسُولٍۢ فَإِنَّهُۥ يَسْلُكُ مِنۢ بَيْنِ يَدَيْهِ وَمِنْ خَلْفِهِۦ رَصَدًۭا"
+  },
+  {
+   "verseNo": 28,
+   "textArabic": "لِّيَعْلَمَ أَن قَدْ أَبْلَغُوا۟ رِسَٰلَٰتِ رَبِّهِمْ وَأَحَاطَ بِمَا لَدَيْهِمْ وَأَحْصَىٰ كُلَّ شَىْءٍ عَدَدًۢا"
+  }
+ ],
+ "translations": [
+  {
+   "verseNo": 1,
+   "source": "diyanet",
+   "text": "(Ey Muhammed!) De ki: \"Bana cinlerden bir topluluğun (Kur'an'ı) dinleyip şöyle dedikleri vahyedildi: \"Şüphesiz biz doğruya ileten hayranlık verici bir Kur'an dinledik de ona inandık. Artık Rabbimize hiç kimseyi asla ortak koşmayacağız.\""
+  },
+  {
+   "verseNo": 1,
+   "source": "okuyan",
+   "text": "1-2 . De ki: “Cinlerden bir grubun (beni) dinlediği ve şöyle söyledikleri bana vahyolunmuştur: Şüphesiz ki doğruya götüren harikulade bir Kur’an dinledik ve ona inandık. Artık Rabbimize hiç kimseyi ortak koşmayacağız."
+  },
+  {
+   "verseNo": 1,
+   "source": "islamoglu",
+   "text": "De ki: “Bana vahyedildi ki, cinlerden bir kısmı (bu mesaja) kulak vererek, (dostlarına) şöyle dediler: “Gerçekten de biz olağanüstü güzellikte bir hitap dinledik;"
+  },
+  {
+   "verseNo": 1,
+   "source": "esed",
+   "text": "De ki: \"Tanınmayan/bilinmeyen varlıklardan bir kısmının (bu ilahi kelama) kulak verdikleri ve sonra (arkadaşlarına şöyle) söyledikleri bana vahyedildi: ´Biz olağanüstü güzellikte bir hitabe dinledik"
+  },
+  {
+   "verseNo": 2,
+   "source": "diyanet",
+   "text": "(Ey Muhammed!) De ki: \"Bana cinlerden bir topluluğun (Kur'an'ı) dinleyip şöyle dedikleri vahyedildi: \"Şüphesiz biz doğruya ileten hayranlık verici bir Kur'an dinledik de ona inandık. Artık Rabbimize hiç kimseyi asla ortak koşmayacağız.\""
+  },
+  {
+   "verseNo": 2,
+   "source": "okuyan",
+   "text": "1-2 . De ki: “Cinlerden bir grubun (beni) dinlediği ve şöyle söyledikleri bana vahyolunmuştur: Şüphesiz ki doğruya götüren harikulade bir Kur’an dinledik ve ona inandık. Artık Rabbimize hiç kimseyi ortak koşmayacağız."
+  },
+  {
+   "verseNo": 2,
+   "source": "islamoglu",
+   "text": "doğru bir bilinç İnşâ eden (bir hitab)… Böylece ona iman ettik: artık asla Rabbimizden başkasına ilâhlık yakıştırmayacağız;"
+  },
+  {
+   "verseNo": 2,
+   "source": "esed",
+   "text": "doğru ile eğriyi ayırd etme bilincine bizi ulaştıran (bir hitabe); ve böylece ona iman ettik. Ve artık Rabbimizden başka kimseye asla ilahlık yakıştırmayacağız"
+  },
+  {
+   "verseNo": 3,
+   "source": "diyanet",
+   "text": "\"Doğrusu Rabbimizin şanı çok yücedir; ne bir eş edinmiştir, ne de bir çocuk.\""
+  },
+  {
+   "verseNo": 3,
+   "source": "okuyan",
+   "text": "Eşi de çocuğu da olmayan Rabbimizin şanı çok yücedir."
+  },
+  {
+   "verseNo": 3,
+   "source": "islamoglu",
+   "text": "ve şu bir hakikat ki, Rabbimizin şanı pek yücedir: O kendisine ne bir eş ne de çocuk edinmiştir."
+  },
+  {
+   "verseNo": 3,
+   "source": "esed",
+   "text": "çünkü (biliriz ki) Rabbimizin şanı yücedir: O, kendisine ne bir eş, ne de bir erkek çocuk edinmiştir"
+  },
+  {
+   "verseNo": 4,
+   "source": "diyanet",
+   "text": "\"Demek bizim beyinsiz olanımız Allah hakkında doğruluktan uzak sözler söylüyormuş.\""
+  },
+  {
+   "verseNo": 4,
+   "source": "okuyan",
+   "text": "Şüphesiz ki içimizden bir beyinsiz, Allah hakkında asılsız (saçma) sözler söylerdi."
+  },
+  {
+   "verseNo": 4,
+   "source": "islamoglu",
+   "text": "Bir başka gerçek de, içimizdeki beyinsiz (kişilerin) Allah’a karşı sorumsuzca konuşması olmuştu."
+  },
+  {
+   "verseNo": 4,
+   "source": "esed",
+   "text": "Ve (şimdi öğreniyoruz ki) aramızdaki beyinsiz (kişi), Allah hakkında asılsız şeyler söylüyordu"
+  },
+  {
+   "verseNo": 5,
+   "source": "diyanet",
+   "text": "\"Şüphesiz biz, insanların ve cinlerin Allah hakkında asla yalan söylemeyeceklerini sanıyorduk.\""
+  },
+  {
+   "verseNo": 5,
+   "source": "okuyan",
+   "text": "Biz hiçbir insanın ve cinin Allah hakkında kesinlikle yalan söylemeyeceğini sanmıştık."
+  },
+  {
+   "verseNo": 5,
+   "source": "islamoglu",
+   "text": "Halbuki biz, ne insanların ne de cinlerin Allah’a iftira edeceğine asla ihtimal vermezdik.”"
+  },
+  {
+   "verseNo": 5,
+   "source": "esed",
+   "text": "ve ne insanın ne de (hiçbir) görünmez gücün Allah hakkında yalan uydurmayacağını düşün(mekte yanılmış)tık"
+  },
+  {
+   "verseNo": 6,
+   "source": "diyanet",
+   "text": "\"Doğrusu insanlardan bazı kimseler, cinlerden bazılarına sığınırlardı da, cinler onların taşkınlıklarını artırırlardı.\""
+  },
+  {
+   "verseNo": 6,
+   "source": "okuyan",
+   "text": "İnsanlardan bazı erkekler, cinlerden bazı erkeklere sığınıyordu da (bu durum, onların) sadece azgınlığını artırıyordu."
+  },
+  {
+   "verseNo": 6,
+   "source": "islamoglu",
+   "text": "Hiç kuşku yok ki insanlardan bazıları cinlerden bazılarına sığınırlar, bu da onların (cinler karşısındaki) zillet verici edilgenliğini artırır."
+  },
+  {
+   "verseNo": 6,
+   "source": "esed",
+   "text": "Gerçi bazı insanların (bu tür) görünmez güçlere sığındığı (her zaman vaki) olurdu; ama bunlar yalnızca onların şaşkınlığını arttırdı"
+  },
+  {
+   "verseNo": 7,
+   "source": "diyanet",
+   "text": "\"Gerçekten onlar da, sizin sandığınız gibi, Allah'ın hiç kimseyi öldükten sonra tekrar diriltmeyeceğini sanmışlardı.\""
+  },
+  {
+   "verseNo": 7,
+   "source": "okuyan",
+   "text": "Onlar da sizin sandığınız gibi, Allah’ın kimseyi kesinlikle (elçi) olarak göndermeyeceğini sanmışlardı."
+  },
+  {
+   "verseNo": 7,
+   "source": "islamoglu",
+   "text": "Öyle ki o sapık insanlar, tıpkı sizin sandığınız gibi Allah’ın hiç kimseyi elçi göndermeyeceğini sanmışlardı."
+  },
+  {
+   "verseNo": 7,
+   "source": "esed",
+   "text": "O kadar ki, sizin (vaktiyle) düşündüğünüz gibi, onlar da Allah´ın hiç kimseyi (yeniden) asla (elçi olarak) göndermeyeceğini düşünmeye başladılar"
+  },
+  {
+   "verseNo": 8,
+   "source": "diyanet",
+   "text": "\"Kuşkusuz biz göğe ulaşmak istedik, fakat onu çetin bekçilerle ve yakıcı ışıklarla dolu bulduk.\""
+  },
+  {
+   "verseNo": 8,
+   "source": "okuyan",
+   "text": "Biz göğü de yokladık fakat onu güçlü koruyucularla, ışık huzmeleriyle doldurulmuş bulduk."
+  },
+  {
+   "verseNo": 8,
+   "source": "islamoglu",
+   "text": "(Yine cinler şöyle dediler): “Gerçek şu ki biz göğü yokladık, ama onu tam donanımlı bir koruma ordusu ve tarifsiz bir göktaşı sağanağıyla dopdolu bulduk;"
+  },
+  {
+   "verseNo": 8,
+   "source": "esed",
+   "text": "Ve (zaman oldu) biz göğe uzandık ama onu güçlü muhafızlar ve alevlerle dolu bulduk"
+  },
+  {
+   "verseNo": 9,
+   "source": "diyanet",
+   "text": "\"Halbuki biz, (daha önce) göğün bazı yerlerinde gayb haberlerini dinlemek için otururduk. Fakat şimdi her kim dinlemeye kalkacak olursa, kendini gözetleyen yakıcı bir ışık bulur.\""
+  },
+  {
+   "verseNo": 9,
+   "source": "okuyan",
+   "text": "(Oysa) biz (haber) dinlemek için göğün (çeşitli) yerlerinde oturuyorduk; (fakat) şimdi kim (haber) dinlemek isterse, kendisini takip eden bir alev huzmesi bulu(yo)r."
+  },
+  {
+   "verseNo": 9,
+   "source": "islamoglu",
+   "text": "halbuki vaktiyle biz onun uygun yerlerinde (haber) dinlemek için otururduk; ne var ki şimdi (bizden) her kim dinlemeye kalksa, derhal karşısında hedefe kilitli bir ateş topu buluyor."
+  },
+  {
+   "verseNo": 9,
+   "source": "esed",
+   "text": "halbuki onu(n gizlediği her sırrı) dinleyebileceğimiz (uygun) yerlere kurulmuştuk ve şimdi (veya başka zaman) onu dinlemeye çalışan herkes (aynı şekilde) kendisini bekleyen bir alev ile karşılaşacaktır"
+  },
+  {
+   "verseNo": 10,
+   "source": "diyanet",
+   "text": "\"Hakikaten biz bilmiyoruz, yeryüzündekilere kötülük mü istendi, yoksa Rableri onlara bir hayır mı diledi?\""
+  },
+  {
+   "verseNo": 10,
+   "source": "okuyan",
+   "text": "(Artık) yeryüzündekilere kötülük mü edildiğini, yoksa Rablerinin onlara bir hayır mı dilediğini bilemiyoruz."
+  },
+  {
+   "verseNo": 10,
+   "source": "islamoglu",
+   "text": "Ve anladık ki, gerçekte biz (gaybı) bilmiyormuşuz; (mesela) şu yerdekilere şer mi murad edilmiş, yoksa Rableri onları doğru bir bilince ulaştırmayı mı murad etmiş?"
+  },
+  {
+   "verseNo": 10,
+   "source": "esed",
+   "text": "Ve (şimdi anladık ki) biz (yaratılmış varlıklar,) yeryüzünde yaşayanlar için kötü bir akibetin hazırlanıp hazırlanmadığını, yahut Rablerinin onları doğru ile eğriyi ayırd etme bilinciyle donatmak isteyip istemediğini bilmiyoruz"
+  },
+  {
+   "verseNo": 11,
+   "source": "diyanet",
+   "text": "\"Doğrusu içimizde salih olanlar da var, olmayanlar da. Ayrı ayrı yollar tutmuşuz.\""
+  },
+  {
+   "verseNo": 11,
+   "source": "okuyan",
+   "text": "İçimizden iyiler de başkaları (kötüler) de var. Hepimiz türlü türlü yollar tutmuştuk."
+  },
+  {
+   "verseNo": 11,
+   "source": "islamoglu",
+   "text": "Nitekim bizden iyi olanlar var, ama bizden öyle olmayanlar da var: zaten öteden beri biz hep birbirine aykırı yollar izlemişiz."
+  },
+  {
+   "verseNo": 11,
+   "source": "esed",
+   "text": "tıpkı, içimizden bazıları (nasıl) dürüst ve erdemli olurken bazılarımızın da bunun (çok çok) aşağısında kaldı(ğını bilmediğimiz gibi). Biz her zaman birbirinden çok farklı yollar/yöntemler izledik"
+  },
+  {
+   "verseNo": 12,
+   "source": "diyanet",
+   "text": "\"Muhakkak ki biz Allah'ı yeryüzünde aciz bırakamayacağımızı, kaçarak da onu aciz bırakamayacağımızı anladık.\""
+  },
+  {
+   "verseNo": 12,
+   "source": "okuyan",
+   "text": "Allah’ı yeryüzünde asla aciz bırakamayacağımızı ve başka yere kaçmakla da O’nu aciz bırakamayacağımızı (kurtulamayacağımızı) iyice anladık."
+  },
+  {
+   "verseNo": 12,
+   "source": "islamoglu",
+   "text": "Ve nihayet aklımız kesti ki, yeryüzünde asla Allah’a üstün gelemeyiz ve O’ndan asla kaçıp kurtulamayız."
+  },
+  {
+   "verseNo": 12,
+   "source": "esed",
+   "text": "Ve sonunda anladık ki yeryüzünde (hayat sürerken) Allah´a asla üstün gelemeyiz ve (yine anladık ki) (hayattan) kaçarak da O´nun hükmünden kurtulamayız"
+  },
+  {
+   "verseNo": 13,
+   "source": "diyanet",
+   "text": "\"Gerçekten biz hidayet rehberini (Kur'an'ı) işitince ona inandık. Kim Rabbine inanırsa, artık ne hakkının eksik verilmesinden, ne de haksızlığa uğramaktan korkar.\""
+  },
+  {
+   "verseNo": 13,
+   "source": "okuyan",
+   "text": "Şüphesiz ki artık biz o rehberi (Kur’an’ı) duyunca ona iman ettik. Rabbine güvenen kişi, kendisine herhangi bir zarar verilmesinden de haksızlığa uğratılmaktan da korkmaz."
+  },
+  {
+   "verseNo": 13,
+   "source": "islamoglu",
+   "text": "İşte tam da bu yüzden biz, ilâhî rehberliği işitir işitmez ona inandık; artık kim Rabbine inanırsa, o ne bir ziyana uğrar, ne de gazaba."
+  },
+  {
+   "verseNo": 13,
+   "source": "esed",
+   "text": "Bu nedenle, (Allah´ın) rehberliği(ne çağrıyı) duyar duymaz ona inanmaya başladık. Rabbine inanan kimse hiçbir zaman ziyana veya haksızlığa uğrama korkusu duymaz"
+  },
+  {
+   "verseNo": 14,
+   "source": "diyanet",
+   "text": "\"Kuşkusuz içimizde müslüman olanlar da var, hak yoldan sapanlar da var. Kim müslüman olursa, işte onlar doğruyu arayıp bulmuşlardır.\""
+  },
+  {
+   "verseNo": 14,
+   "source": "okuyan",
+   "text": "İçimizden (Allah’a) teslim olanlar da yoldan sapanlar da var. (Allah’a) teslim olanlar, doğru yolu arayıp (bulmuş olan)lardır."
+  },
+  {
+   "verseNo": 14,
+   "source": "islamoglu",
+   "text": "Bununla beraber, içimizden Allah’a tam teslim olanlar da var, kendisine kötülük edenler de; ama her kim Allah’a teslim olursa, işte onlar doğru bir bilinç İnşâ etmenin hakkını verenlerdir."
+  },
+  {
+   "verseNo": 14,
+   "source": "esed",
+   "text": "Ama içimizde kendilerini Allah´a teslim edenler bulun(duğu doğrud)ur, tıpkı kendilerini zulme kaptıranlar bulunduğu gibi. Kendilerini Allah´a teslim edenler doğru ile eğriyi ayırd etme bilincine ulaşanlardır"
+  },
+  {
+   "verseNo": 15,
+   "source": "diyanet",
+   "text": "\"Hak yoldan sapanlara gelince, onlar cehenneme odun olmuşlardır.\""
+  },
+  {
+   "verseNo": 15,
+   "source": "okuyan",
+   "text": "Yoldan sapanlar ise cehennem için yakıt olmuş (olacaklardır).”"
+  },
+  {
+   "verseNo": 15,
+   "source": "islamoglu",
+   "text": "Kendisine kötülük edenlere gelince: sonunda onlar cehenneme odun olacaklar.”"
+  },
+  {
+   "verseNo": 15,
+   "source": "esed",
+   "text": "ama kendilerini zulme kaptıranlar yalnızca cehennem (ateşi) için yakıt oldular!´"
+  },
+  {
+   "verseNo": 16,
+   "source": "diyanet",
+   "text": "Yine de ki: \"Bana şöyle de vahyedildi: ‘Eğer yolda dosdoğru olurlarsa mutlaka onlara bol yağmur yağdırırız ki bununla onları imtihan edelim. Kim Rabbinin zikrinden (Kur'an'dan) yüz çevirirse, Rabbi onu gittikçe yükselen bir azaba sokar.\""
+  },
+  {
+   "verseNo": 16,
+   "source": "okuyan",
+   "text": "16-17 . Doğru yolda olsalardı, kendilerini nimetler içerisinde imtihan edelim diye onlara elbette bol su verirdik. Zaten kim Rabbinin zikrinden (Kur’an’dan) yüz çevirirse, (Allah) onu şiddeti artan bir azaba sürükler."
+  },
+  {
+   "verseNo": 16,
+   "source": "islamoglu",
+   "text": "İmdi, eğer onlar yolda doğru dürüst giderlerse, elbet Biz de onları bitimsiz bir suyla sularız;"
+  },
+  {
+   "verseNo": 16,
+   "source": "esed",
+   "text": "Öyleyse, (bilin ki) onlar, (çağrımızı duyanlar,) şaşmadan (doğru) yoldan gidecek olurlarsa kendilerine sınırsız nimetler yağdıracağız"
+  },
+  {
+   "verseNo": 17,
+   "source": "diyanet",
+   "text": "Yine de ki: \"Bana şöyle de vahyedildi: ‘Eğer yolda dosdoğru olurlarsa mutlaka onlara bol yağmur yağdırırız ki bununla onları imtihan edelim. Kim Rabbinin zikrinden (Kur'an'dan) yüz çevirirse, Rabbi onu gittikçe yükselen bir azaba sokar.\""
+  },
+  {
+   "verseNo": 17,
+   "source": "okuyan",
+   "text": "16-17 . Doğru yolda olsalardı, kendilerini nimetler içerisinde imtihan edelim diye onlara elbette bol su verirdik. Zaten kim Rabbinin zikrinden (Kur’an’dan) yüz çevirirse, (Allah) onu şiddeti artan bir azaba sürükler."
+  },
+  {
+   "verseNo": 17,
+   "source": "islamoglu",
+   "text": "(bunu, nimet) içinde yüzdürerek sınamak için (yaparız); ama Rabbinin vahyinden yüz çeviren kimseyi de pek zorlu bir mahrumiyete mahkûm ederiz."
+  },
+  {
+   "verseNo": 17,
+   "source": "esed",
+   "text": "ve onları bu yolla deneyeceğiz çünkü Rabbini anmaktan uzaklaşanı Allah, en şiddetli azaba uğratır"
+  },
+  {
+   "verseNo": 18,
+   "source": "diyanet",
+   "text": "\"Şüphesiz mescitler, Allah'ındır. O halde, Allah ile birlikte hiç kimseye kulluk etmeyin."
+  },
+  {
+   "verseNo": 18,
+   "source": "okuyan",
+   "text": "Şüphesiz ki mescitler Allah’a aittir. Allah ile birlikte kimseye yalvarmayın!"
+  },
+  {
+   "verseNo": 18,
+   "source": "islamoglu",
+   "text": "“Yine (bana vahyedildi ki), kesinlikle ibadethaneler Allah’a mahsustur; öyleyse Allah’ın yanı sıra başka hiç kimseye yalvarıp yakarmayın!”"
+  },
+  {
+   "verseNo": 18,
+   "source": "esed",
+   "text": "Ve (bilin ki) kulluk (yalnızca) Allah´a mahsustur. O halde Allah´ın yanısıra başka hiç kimseye yalvarıp yakarmayın"
+  },
+  {
+   "verseNo": 19,
+   "source": "diyanet",
+   "text": "\"Allah'ın kulu (Muhammed), O'na ibadet etmek için kalktığında cinler nerede ise (Kur'an'ı dinlemek için kalabalıktan) onun etrafında birbirlerine geçiyorlardı.\""
+  },
+  {
+   "verseNo": 19,
+   "source": "okuyan",
+   "text": "Allah’ın kulu, O’na davet için kalktığında (yoldan sapanlar) neredeyse onun üzerine çullanırlardı."
+  },
+  {
+   "verseNo": 19,
+   "source": "islamoglu",
+   "text": "Ne var ki Allah’ın kulu O’na davete kalkmayagörsün; hemen yek vücut olup üzerine çullanıverirlerdi."
+  },
+  {
+   "verseNo": 19,
+   "source": "esed",
+   "text": "Ama ne zaman Allah´ın bir kulu O´na ibadet etmek için ayağa kalksa, o (hakikati inkar ede)nler hep birlikte etrafını telaşla kuşatırlardı"
+  },
+  {
+   "verseNo": 20,
+   "source": "diyanet",
+   "text": "De ki: \"Şüphesiz ben ancak Rabbime ibadet ederim ve O'na hiç kimseyi ortak koşmam.\""
+  },
+  {
+   "verseNo": 20,
+   "source": "okuyan",
+   "text": "De ki: “Ben sadece Rabbime dua ederim (O’na çağırırım) ve O’na kimseyi ortak koşmam.”"
+  },
+  {
+   "verseNo": 20,
+   "source": "islamoglu",
+   "text": "Oysa onun söylediği (sadece) şuydu: “Ben yalnızca Rabbime yalvarıp yakarırım ve O’ndan başka hiç kimseye ilâhlık yakıştırmam.”"
+  },
+  {
+   "verseNo": 20,
+   "source": "esed",
+   "text": "De ki: \"Ben yalnız Rabbime yalvarırım ve O´ndan başka hiç kimseye ilahlık yakıştırmam"
+  },
+  {
+   "verseNo": 21,
+   "source": "diyanet",
+   "text": "De ki: \"Şüphesiz ben, size ne zarar verebilir ne de fayda sağlayabilirim.\""
+  },
+  {
+   "verseNo": 21,
+   "source": "okuyan",
+   "text": "De ki: “Ben size zarar verme ve doğru yola getirme gücüne de sahip değilim.”"
+  },
+  {
+   "verseNo": 21,
+   "source": "islamoglu",
+   "text": "DE Kİ: “Ne zarar (ve yarar) verebilirim, ne de hidayet (ve dalâlete) götürebilirim.”"
+  },
+  {
+   "verseNo": 21,
+   "source": "esed",
+   "text": "De ki: \"Size zarar vermek yahut doğruyu eğriden ayırd etme bilinciyle sizi donatmak benim elimde değildir"
+  },
+  {
+   "verseNo": 22,
+   "source": "diyanet",
+   "text": "De ki: \"Gerçekten beni Allah'a karşı hiç kimse asla koruyamaz ve yine asla O'ndan başka sığınacak kimse de bulamam.\""
+  },
+  {
+   "verseNo": 22,
+   "source": "okuyan",
+   "text": "De ki: “Allah’tan (gelecek bir azaba karşı) beni asla kimse koruyamaz. O’ndan başka bir sığınak da asla bulamam.\""
+  },
+  {
+   "verseNo": 22,
+   "source": "islamoglu",
+   "text": "De ki: “Şu bir gerçek ki, ne beni Allah’a karşı kimse koruyabilir ne de ben O’nun dışında bir sığınak bulabilirim;"
+  },
+  {
+   "verseNo": 22,
+   "source": "esed",
+   "text": "De ki: \"Gerçek şu ki hiç kimse beni Allah´a karşı koruyamazdı ve O´ndan kaçıp saklanacak hiçbir yer bulamazdım"
+  },
+  {
+   "verseNo": 23,
+   "source": "diyanet",
+   "text": "\"Ancak Allah'tan gelenleri tebliğ edebilirim ve O'nun vahiylerini açıklayabilirim. Kim Allah'a ve Resülüne karşı gelirse, şüphesiz onlar için, içinde ebedi kalacakları cehennem ateşi vardır.\""
+  },
+  {
+   "verseNo": 23,
+   "source": "okuyan",
+   "text": "\"(Benim görevim), Allah’tan gelen ve O’nun mesajlarından oluşan (emirleri) sadece tebliğdir. Allah’a ve Elçisine isyan eden kişi için ebedî kalacakları cehennem ateşi vardır.\""
+  },
+  {
+   "verseNo": 23,
+   "source": "islamoglu",
+   "text": "tabii Allah’tan gelen görevi ve O’nun mesajlarını iletme hali başka…” Artık kim Allah’a ve Elçi’sine karşı gelirse, iyi bilsin ki onun payına içinde ebedî kalacağı Cehennem düşecektir."
+  },
+  {
+   "verseNo": 23,
+   "source": "esed",
+   "text": "eğer Allah´ın mesajlarını ve O´ndan (bana ulaşan aydınlığı dünyaya) duyurmamış olsaydım.\" Allah´a ve Elçisi´ne isyan edenlere gelince, şüphe yok ki onları içinde sonsuza dek kalacakları cehennem ateşi beklemektedir"
+  },
+  {
+   "verseNo": 24,
+   "source": "diyanet",
+   "text": "Nihayet uyarıldıkları şeyi gördüklerinde kimin yardımcısı daha zayıf, kimin sayısı daha azmış, bilecekler."
+  },
+  {
+   "verseNo": 24,
+   "source": "okuyan",
+   "text": "Sonunda, kendilerine vadedilen şeyi gördükleri zaman, kimin yardımcısının daha zayıf ve sayısının daha az olduğunu ileride bileceklerdir."
+  },
+  {
+   "verseNo": 24,
+   "source": "islamoglu",
+   "text": "TEHDİT edildikleri azabı görünceye kadar yolları var; işte o zaman, kimin yardıma daha muhtaç ve sayıca az olduğunu anlayacaklar."
+  },
+  {
+   "verseNo": 24,
+   "source": "esed",
+   "text": "(Öyleyse bırak,) önceden uyarıldıkları (akibet)i görecekleri an gelinceye kadar (beklesinler), o zaman anlayacaklar kim, hangi (tür) insan daha çaresiz ve daha kimsesizdir"
+  },
+  {
+   "verseNo": 25,
+   "source": "diyanet",
+   "text": "De ki: \"Sizin uyarıldığınız şey yakın mıdır, yoksa Rabbim ona uzun bir süre mi koyacaktır, bilemem.\""
+  },
+  {
+   "verseNo": 25,
+   "source": "okuyan",
+   "text": "De ki: “Size vadedilen (gün) yakın mıdır, yoksa Rabbim onun için uzun bir süre mi koyar, onu ben bilemem.”"
+  },
+  {
+   "verseNo": 25,
+   "source": "islamoglu",
+   "text": "De ki: “Keşke bilseydim tehdit edildiğiniz azap yakın mı, yoksa Rabbim onu bir müddet daha erteledi mi?”"
+  },
+  {
+   "verseNo": 25,
+   "source": "esed",
+   "text": "De ki: \"Önceden uyarıldığınız bu (akibet)in yakın olup olmadığını yahut Rabbimin onun için uzun bir vade koyup koymadığını bilemem"
+  },
+  {
+   "verseNo": 26,
+   "source": "diyanet",
+   "text": "O gaybı bilendir. Hiç kimseye gaybını bildirmez."
+  },
+  {
+   "verseNo": 26,
+   "source": "okuyan",
+   "text": "Gaybı (bilinemeyeni) bilen (Allah) gaybını (bilinemeyeni) kimseye açmaz."
+  },
+  {
+   "verseNo": 26,
+   "source": "islamoglu",
+   "text": "Gaybı (sadece) O bilir ve O gaybına kimseyi bütünüyle muttali kılmaz;"
+  },
+  {
+   "verseNo": 26,
+   "source": "esed",
+   "text": "(Yalnız) O bilir yaratılmışların kavrayış sınırlarının ötesindekini ve hiç kimseye açmaz Kendi erişilmez derinlikteki sırlarını"
+  },
+  {
+   "verseNo": 27,
+   "source": "diyanet",
+   "text": "Ancak seçtiği resüller başka. (Onlara bildirir.) Fakat O, Resülün önünde ve arkasında gözetleyici (melek)ler yürütür ki resüllerin, Rablerinin vahiylerini tebliğ ettiklerini bilsin. Allah onların her halini kuşatmış ve her şeyi inceden inceye sayıp dökmüştür."
+  },
+  {
+   "verseNo": 27,
+   "source": "okuyan",
+   "text": "27-28 . Ancak dilediği elçi(ler) bunun dışındadır. Rablerinin mesajlarını onların (meleklerin) tebliğ ettiğini bilsin diye, şüphesiz o (elçinin) önünden ve arkasından gözetleyici(ler) gönderir. (Allah) onların beraberinde bulunanı kuşatmış ve her şeyi bir bir sayıp kaydetmiştir."
+  },
+  {
+   "verseNo": 27,
+   "source": "islamoglu",
+   "text": "razı olduğu elçi müstesna… Bu takdirde de O, önünden ve arkasından o (vahyi) koruma altına alarak hedefine ulaştırır."
+  },
+  {
+   "verseNo": 27,
+   "source": "esed",
+   "text": "seçmekten hoşnutluk duyduğu elçisi hariç. O zaman Allah hem onun gözü önüne serilmiş olan her konuda, hem de aklının ermeyeceği her alanda onu gözetlemek için (semavi güçler) gönderir"
+  },
+  {
+   "verseNo": 28,
+   "source": "diyanet",
+   "text": "Ancak seçtiği resüller başka. (Onlara bildirir.) Fakat O, Resülün önünde ve arkasında gözetleyici (melek)ler yürütür ki resüllerin, Rablerinin vahiylerini tebliğ ettiklerini bilsin. Allah onların her halini kuşatmış ve her şeyi inceden inceye sayıp dökmüştür."
+  },
+  {
+   "verseNo": 28,
+   "source": "okuyan",
+   "text": "27-28 . Ancak dilediği elçi(ler) bunun dışındadır. Rablerinin mesajlarını onların (meleklerin) tebliğ ettiğini bilsin diye, şüphesiz o (elçinin) önünden ve arkasından gözetleyici(ler) gönderir. (Allah) onların beraberinde bulunanı kuşatmış ve her şeyi bir bir sayıp kaydetmiştir."
+  },
+  {
+   "verseNo": 28,
+   "source": "islamoglu",
+   "text": "O’nun böyle yapması, (rasullerin) tebliğ ettiklerinin Rablerinin risaleti olduğunu; dahası ellerindeki (vahyi) çepeçevre kuşattığını ve her şeyi tek tek sayarak muhafaza altına aldığını belirtmek içindir."
+  },
+  {
+   "verseNo": 28,
+   "source": "esed",
+   "text": "böylece bu (elçi)lerin tebliğ ettikleri şeyin (yalnızca) Rablerinin mesajları olduğunu açıkça gösterir, çünkü onların (söyleyebilecekleri) her şeyi (bilgisi ile) kuşatan O´dur; ve (mevcut olan) her şeyi bir bir hesaplayandır"
+  },
+  {
+   "verseNo": 1,
+   "verseNoEnd": null,
+   "source": "ai",
+   "text": "De ki: Bana vahyedildi ki cinlerden bir topluluk işitti; onlar: 'Biz hayret verici bir Kur'an işittik' dediler."
+  },
+  {
+   "verseNo": 2,
+   "verseNoEnd": null,
+   "source": "ai",
+   "text": "O doğru yola götürür; bu yüzden ona inandık ve Rabbimizle asla kimseyi ortak koşmayacağız."
+  },
+  {
+   "verseNo": 3,
+   "verseNoEnd": null,
+   "source": "ai",
+   "text": "Ve 'Rabbimizin yüceliği; O ne bir eş edinmiştir ne de bir çocuğu vardır'."
+  },
+  {
+   "verseNo": 4,
+   "verseNoEnd": null,
+   "source": "ai",
+   "text": "Ve 'Ahmaklarımız Allah hakkında aşırı sözler söylüyordu'."
+  },
+  {
+   "verseNo": 5,
+   "verseNoEnd": null,
+   "source": "ai",
+   "text": "Ve 'Biz sandık ki insanlar da cinler de Allah hakkında asla yalan söylemeyecekler'."
+  },
+  {
+   "verseNo": 6,
+   "verseNoEnd": null,
+   "source": "ai",
+   "text": "Ve 'İnsanlardan bazı erkekler cinlerden bazılarına sığınıyordu; onlar da onları daha çok yüklediler'."
+  },
+  {
+   "verseNo": 7,
+   "verseNoEnd": null,
+   "source": "ai",
+   "text": "Ve 'Onlar, sizinkine benzer şekilde sandılar ki Allah hiç kimseyi diriltmeyecek'."
+  },
+  {
+   "verseNo": 8,
+   "verseNoEnd": null,
+   "source": "ai",
+   "text": "Ve 'Biz göğe dokunduk; onu sağlam bekçiler ve ateşli yıldızlarla dolu bulduk'."
+  },
+  {
+   "verseNo": 9,
+   "verseNoEnd": null,
+   "source": "ai",
+   "text": "Ve 'Oradan dinlemek için oturaklarımız olurdu; şimdi kim dinlemeye kalkarsa kendisi için gözetlenen ateşli bir yıldız bulur'."
+  },
+  {
+   "verseNo": 10,
+   "verseNoEnd": null,
+   "source": "ai",
+   "text": "Ve 'Biz bilmiyoruz: Yerdekiler için kötü bir amaç mı istendi, yoksa Rableri onların doğru yolu bulmasını mı istedi'."
+  },
+  {
+   "verseNo": 11,
+   "verseNoEnd": null,
+   "source": "ai",
+   "text": "İçimizde salih olanlar da vardı, içimizde bundan başka olanlar da; biz çeşitli yollar üzerindeydik."
+  },
+  {
+   "verseNo": 12,
+   "verseNoEnd": null,
+   "source": "ai",
+   "text": "Biz, Allah'ı yeryüzünde asla aciz bırakamayacağımızı ve O'ndan asla kaçıp kurtulamayacağımızı sandık."
+  },
+  {
+   "verseNo": 13,
+   "verseNoEnd": null,
+   "source": "ai",
+   "text": "Hidayeti işittiğimizde ona iman ettik; kim Rabbine iman ederse ne bir eksiklikten ne de bir eziyetten korkmaz."
+  },
+  {
+   "verseNo": 14,
+   "verseNoEnd": null,
+   "source": "ai",
+   "text": "İçimizden kimileri müslüman oldu, kimileri adaletsizdi; müslüman olanlar doğru yolu aradılar."
+  },
+  {
+   "verseNo": 15,
+   "verseNoEnd": null,
+   "source": "ai",
+   "text": "Adaletsiz olanlar ise cehennemin yakıtı oldular."
+  },
+  {
+   "verseNo": 16,
+   "verseNoEnd": null,
+   "source": "ai",
+   "text": "Eğer doğru yolda sabit kalsalardı, onlara bol su verirdik."
+  },
+  {
+   "verseNo": 17,
+   "verseNoEnd": null,
+   "source": "ai",
+   "text": "Onları bunda denemek içindir. Kim Rabbini anmasından yüz çevirirse, onu şiddetli bir azaba sokar."
+  },
+  {
+   "verseNo": 18,
+   "verseNoEnd": null,
+   "source": "ai",
+   "text": "Mescitler Allah'a aittir; Allah ile birlikte hiç kimseyi çağırmayın."
+  },
+  {
+   "verseNo": 19,
+   "verseNoEnd": null,
+   "source": "ai",
+   "text": "Bir kul Allah'ı çağırdığında, neredeyse hepsi onun üzerine topluca üşüşecek oluyordu."
+  },
+  {
+   "verseNo": 20,
+   "verseNoEnd": null,
+   "source": "ai",
+   "text": "De ki: Ben ancak Rabbimi çağırırım ve O'na hiç kimseyi ortak koşmam."
+  },
+  {
+   "verseNo": 21,
+   "verseNoEnd": null,
+   "source": "ai",
+   "text": "De ki: Benim sizin için zarar verme ya da doğru yolu gösterme yetkim yok."
+  },
+  {
+   "verseNo": 22,
+   "verseNoEnd": null,
+   "source": "ai",
+   "text": "De ki: Allah'tan beni koruyacak hiç kimse yoktur; O'ndan başka sığınacak bir yer bulamam."
+  },
+  {
+   "verseNo": 23,
+   "verseNoEnd": null,
+   "source": "ai",
+   "text": "Ancak bu, Allah'tan ve O'nun mesajlarından bir tebliğdir. Kim Allah'a ve peygamberine isyan ederse, onun için cehennem ateşi vardır; ebediyen orada kalacaktır."
+  },
+  {
+   "verseNo": 24,
+   "verseNoEnd": null,
+   "source": "ai",
+   "text": "Vaat edildikleri şeyi gördüklerinde, kimlerin daha zayıf destekçiye ve daha az sayıya sahip olduğunu bilecekler."
+  },
+  {
+   "verseNo": 25,
+   "verseNoEnd": null,
+   "source": "ai",
+   "text": "De ki: Sizin vaat edilen şeyin yakın olup olmadığını bilmiyorum; belki Rabbim ona bir süre tayin eder."
+  },
+  {
+   "verseNo": 26,
+   "verseNoEnd": null,
+   "source": "ai",
+   "text": "O gaybı bilendir; gaybını hiç kimseye açmaz."
+  },
+  {
+   "verseNo": 27,
+   "verseNoEnd": null,
+   "source": "ai",
+   "text": "Ancak O, hoşnut olduğu bir peygamberi seçer; onun önünden ve arkasından bir gözetleyici yollar."
+  },
+  {
+   "verseNo": 28,
+   "verseNoEnd": null,
+   "source": "ai",
+   "text": "Böylece Rablerinin mesajlarını ulaştırdıklarını, ellerindekileri kuşattığını ve her şeyi sayı olarak saydığını bilsin."
+  }
+ ],
+ "aiParagraph": "Görünmez bir kalabalık sessizce dinliyor — ve duyduklarında bir hakikat seziyorlar. İşte bu sure, tam da bu noktadan açılıyor: kendilerinden beklenmedik bir yerde, beklenmedik varlıklarda beliren bir uyanış anı. Bu varlıklar kendi aralarında konuşurken şunu itiraf ediyorlar: daha önce yanlış bildiler, yanlış yönlendirdiler, kimi zaman sığınak arayanları daha da bunaltıp ağırlaştırdılar. Ve şimdi açıkça söylüyorlar — içlerinde iyiler de var, yanlış gidenler de; hepsi aynı yolda değil, hiçbir zaman da olmadı. Bu itiraf küçük değil; çünkü grubun ya da sürünün içinde kaybolmak, \"biz hep böyleydik\" demek çok daha kolay. Surenin seslendiği insana gelince: o da bir sığınak arıyor, o da kimi zaman kendinden güçlü zannettiği kapılara vuruyor. Ama metin soruyor — ya o kapılar seni daha da içine çekiyorsa? Öte yandan elçinin ağzından gelen şey, şaşırtıcı derecede alçakgönüllü: \"Sizin için ne bir zarara, ne de bir doğruya sahip değilim.\" Güç iddiasından sıyrılmış bir ses, sığınak olmak yerine yalnızca iletmek için orada. Bilginin sınırı da aynı netlikte çiziliyor: görünmeyenin anahtarı kimsenin elinde değil. Bir şeyin ne zaman geleceğini bilmemek, insanı hem küçümseyen hem de garip biçimde özgür bırakan bir gerçek."
 }

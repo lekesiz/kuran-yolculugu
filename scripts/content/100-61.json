@@ -1,444 +1,514 @@
 {
-  "stationNo": 100,
-  "surahNo": 61,
-  "name": "Saff",
-  "nameArabic": "",
-  "nameMeaning": "",
-  "verseCount": 14,
-  "nuzulOrderOkuyan": 99,
-  "periodDiyanet": "Medine",
-  "periodOkuyan": "Medine",
-  "revelationTiming": "",
-  "stationTitle": "Söz ve Eylem Tutarlılığı: İman İddiasının Sınanması",
-  "introduction": "Saff Suresi, inananların sözleri ile eylemleri arasındaki tutarlılığı sorgulayan, iman iddiasının bedelini ve sorumluluğunu hatırlatan sarsıcı bir Medine suresidir. Sure, evrendeki her şeyin Allah'ı tesbih ettiği gerçeğiyle başlar ve bu muazzam kozmik uyuma insanın da eylemleriyle katılması gerektiğini vurgular.\n\nSurenin merkezinde, yapmayacağı şeyleri söyleyenlerin Allah katında ne kadar büyük bir vebal altında oldukları uyarısı yer alır. İman, sadece dilde kalan bir iddia değil, gerektiğinde can ve mal ile ispatlanması gereken bir eylemdir. Bu bağlamda sure, inananları kurşunla kenetlenmiş sağlam bir bina gibi omuz omuza durmaya ve hakikati savunmaya çağırır.\n\nTarihsel süreçten Hz. Musa ve Hz. İsa'nın mücadelelerinden örnekler sunan sure, elçilere verilen sözlerin tutulmamasının ve hakikatin inkar edilmesinin doğurduğu sonuçları gözler önüne serer. Sonuç olarak, inananlara ebedi kurtuluşu sağlayacak en kârlı ticaretin, Allah ve elçisine güvenip bu yolda fedakarlık yapmak olduğu müjdelenir.",
-  "occasionOfRevelation": "Saff Suresi'nin nüzul sebebi hakkında kaynaklarda öne çıkan temel rivayet, bazı Müslümanların cihad farz kılınmadan önce 'Allah'ın en sevdiği ameli bilsek de onu yapsak' şeklindeki temennileriyle ilgilidir. Ancak savaş ve mücadele emredildiğinde, bu sözü söyleyenlerden bazılarının geri durması ve isteksiz davranması üzerine surenin ilk ayetleri inmiştir.\n\nBu durum, insanın kendisini sınanmadan önce ne kadar cesur ve fedakar zannettiğini, ancak gerçek bir zorlukla karşılaştığında verdiği sözün arkasında durmasının ne kadar zor olduğunu gösteren evrensel bir insanlık durumudur. Sure, bu vesileyle söz ve eylem tutarlılığının iman açısından ne kadar hayati olduğunu vurgulamak için inmiştir.\n\nAyrıca surenin, Uhud Savaşı sonrasında yaşanan bazı zaaflar ve verilen sözlerin tutulmaması gibi olaylarla da bağlantılı olduğu, inananların saflarını sıklaştırmaları ve kenetlenmeleri gerektiği bir dönemde indiği değerlendirilmektedir.",
-  "occasionSources": "Tirmizî, Tefsir 61; Dârimî, Cihad 1; Fahreddin er-Râzî, Mefâtîhu'l-gayb, XXIX, 269.",
-  "keyTerms": [
-    {
-      "term": "saff",
-      "arabic": "صَفًّا",
-      "verseRef": "61:4",
-      "meaning": "Sıra, dizi, omuz omuza durmak. Ayette, inananların hak yolda birbirine kenetlenmiş sağlam bir bina gibi duruşunu ifade eder."
-    },
-    {
-      "term": "tesbîh",
-      "arabic": "سَبَّحَ",
-      "verseRef": "61:1",
-      "meaning": "Allah'ı her türlü eksiklikten tenzih etmek, O'nun adına hareket etmek. Evrendeki her şeyin kendi varlık amacıyla Allah'ı yüceltmesidir."
-    },
-    {
-      "term": "makt",
-      "arabic": "مَقْتًا",
-      "verseRef": "61:3",
-      "meaning": "Şiddetli öfke, büyük kızgınlık ve nefret. Ayette, yapmayacağı şeyi söylemenin Allah katında ne kadar çirkin görüldüğünü belirtir."
-    },
-    {
-      "term": "bünyânün mersûs",
-      "arabic": "بُنْيَانٌ مَرْصُوصٌ",
-      "verseRef": "61:4",
-      "meaning": "Kurşunla kenetlenmiş, taşları birbirine iyice geçirilmiş sağlam bina. İnananların dayanışma ve birliğini simgeler."
-    },
-    {
-      "term": "ticâret",
-      "arabic": "تِجَارَةٍ",
-      "verseRef": "61:10",
-      "meaning": "Alışveriş, kazançlı iş. Ayette, insanı acı azaptan kurtaracak en kârlı eylemin Allah yolunda fedakarlık yapmak olduğu mecazıyla kullanılır."
-    }
-  ],
-  "themes": [
-    {
-      "label": "Söz ve Eylem Tutarlılığı",
-      "body": "İnsanın dildeki iddiaları ile pratik hayattaki eylemleri arasındaki uyumun gerekliliği. Yapılmayacak şeylerin söylenmesinin ahlaki ve inançsal boyuttaki yıkıcılığı."
-    },
-    {
-      "label": "Dayanışma ve Birliktelik",
-      "body": "Zorluklar karşısında bireysel çabaların ötesinde, birbirine kenetlenmiş bir topluluk olmanın önemi. Hakikati savunurken omuz omuza durabilme erdemi."
-    },
-    {
-      "label": "İman ve Fedakarlık",
-      "body": "İmanın sadece zihinsel bir kabul değil, gerektiğinde sahip olunan en değerli şeylerden (can ve mal) vazgeçebilmeyi gerektiren bir adanmışlık olduğu gerçeği."
-    },
-    {
-      "label": "Hakikatin Engellenemezliği",
-      "body": "İnkarcıların tüm çabalarına ve karalama kampanyalarına rağmen, ilahi nurun ve hakikatin eninde sonunda tamamlanacağı ve üstün geleceği inancı."
-    }
-  ],
-  "questions": [
-    "Söylediğim sözler ile yaptığım eylemler arasında ne kadar tutarlılık var? Yapmayacağım şeyleri söyleyerek kendimi kandırıyor olabilir miyim?",
-    "İnandığım değerler uğruna gerektiğinde konfor alanımdan çıkıp fedakarlık yapabiliyor muyum, yoksa imanım sadece dilde mi kalıyor?",
-    "Zorluklar karşısında inananlarla omuz omuza, 'kurşunla kenetlenmiş bir bina' gibi durabiliyor muyum, yoksa bireysel çıkarlarımı mı önceliyorum?"
-  ],
-  "contemporaryMeaning": "Bu sure, insanın kimliği ile eylemi arasındaki yarığı işaret eder ve inancın bir performans değil, bir varoluş biçimi olduğunu söyler. Surenin merkezindeki mesele, dildeki iddiaların pratik hayatta karşılık bulmaması, yani insanın kendi söyleminin altında ezilmesidir. Söylem ile eylem arasındaki bu kopukluk, sadece bireysel bir tutarsızlık değil, aynı zamanda insanın kendi hakikatine ihanetidir.\n\nBugünün diliyle: sosyal medyada paylaşılan erdemli sözlerin, iş hayatındaki acımasız rekabetle çelişmesi; ekranda savunulan adaletin, ev içindeki adaletsizlikle yan yana durması; profil biyografilerine yazılan yüce değerlerin, günlük tüketim alışkanlıklarında sıfırlanması, surenin tam kalbinden vurduğu çelişkilerdir. İnsan, dijital dünyada inşa ettiği kusursuz vitrin ile gerçek hayattaki zaafları arasına sıkışmıştır. Algoritmaların alkışladığı \"söylem\", eyleme dönüşmediğinde, insan kendi yarattığı sanal kimliğin esiri olur.\n\nSure, bu parçalanmışlığa karşı \"kurşunla kenetlenmiş bir bina\" metaforunu sunar. Bu, sadece toplumsal bir dayanışma değil, aynı zamanda insanın kendi içindeki bütünlüğün, sözüyle özünün birleşmesinin resmidir. Konfor alanından çıkmadan, bedel ödemeden, sadece konuşarak hakikate ulaşılamayacağı gerçeği, gösteri çağının insanına yöneltilmiş en keskin itirazdır.",
-  "scholarlyNotes": [
-    {
-      "kind": "ihtilaf",
-      "body": "Surenin nüzul zamanı konusunda genel kabul Medine dönemi olduğu yönündedir. Ancak bazı müfessirler, içerdiği mesajların Mekke dönemindeki baskı ortamına da hitap edebileceğini düşünerek Mekke'de inmiş olabileceği ihtimalini de dile getirmişlerdir. Çoğunluk ise Uhud Savaşı sonrasındaki olaylara işaret ettiği için Medine'de indiğinde ittifak eder.",
-      "label": "Surenin Nüzul Zamanı"
-    },
-    {
-      "kind": "nuans",
-      "body": "Saff Suresi, Kur'an'da 'Sebbeha' veya 'Yüsebbihu' (tesbih eder) fiiliyle başlayan ve 'Müsebbihât' olarak adlandırılan sureler grubunun bir parçasıdır. Bu sureler, evrensel tesbih gerçeğini vurgulayarak başlar.",
-      "label": "Müsebbihât Sureleri"
-    },
-    {
-      "kind": "rivayet",
-      "body": "Bazı tefsir kaynaklarında yer alan 'Kim Saff suresini okursa, İsa (a.s.) dünyada kaldığı sürece ona dua eder ve kıyamet gününde ona şahitlik yapar' şeklindeki rivayet, hadis alimlerince zayıftır ve asılsızdır.",
-      "label": "Surenin Fazileti Hakkında"
-    }
-  ],
-  "verses": [
-    {
-      "verseNo": 1,
-      "textArabic": "بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ سَبَّحَ لِلَّهِ مَا فِى ٱلسَّمَٰوَٰتِ وَمَا فِى ٱلْأَرْضِ ۖ وَهُوَ ٱلْعَزِيزُ ٱلْحَكِيمُ"
-    },
-    {
-      "verseNo": 2,
-      "textArabic": "يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ لِمَ تَقُولُونَ مَا لَا تَفْعَلُونَ"
-    },
-    {
-      "verseNo": 3,
-      "textArabic": "كَبُرَ مَقْتًا عِندَ ٱللَّهِ أَن تَقُولُوا۟ مَا لَا تَفْعَلُونَ"
-    },
-    {
-      "verseNo": 4,
-      "textArabic": "إِنَّ ٱللَّهَ يُحِبُّ ٱلَّذِينَ يُقَٰتِلُونَ فِى سَبِيلِهِۦ صَفًّۭا كَأَنَّهُم بُنْيَٰنٌۭ مَّرْصُوصٌۭ"
-    },
-    {
-      "verseNo": 5,
-      "textArabic": "وَإِذْ قَالَ مُوسَىٰ لِقَوْمِهِۦ يَٰقَوْمِ لِمَ تُؤْذُونَنِى وَقَد تَّعْلَمُونَ أَنِّى رَسُولُ ٱللَّهِ إِلَيْكُمْ ۖ فَلَمَّا زَاغُوٓا۟ أَزَاغَ ٱللَّهُ قُلُوبَهُمْ ۚ وَٱللَّهُ لَا يَهْدِى ٱلْقَوْمَ ٱلْفَٰسِقِينَ"
-    },
-    {
-      "verseNo": 6,
-      "textArabic": "وَإِذْ قَالَ عِيسَى ٱبْنُ مَرْيَمَ يَٰبَنِىٓ إِسْرَٰٓءِيلَ إِنِّى رَسُولُ ٱللَّهِ إِلَيْكُم مُّصَدِّقًۭا لِّمَا بَيْنَ يَدَىَّ مِنَ ٱلتَّوْرَىٰةِ وَمُبَشِّرًۢا بِرَسُولٍۢ يَأْتِى مِنۢ بَعْدِى ٱسْمُهُۥٓ أَحْمَدُ ۖ فَلَمَّا جَآءَهُم بِٱلْبَيِّنَٰتِ قَالُوا۟ هَٰذَا سِحْرٌۭ مُّبِينٌۭ"
-    },
-    {
-      "verseNo": 7,
-      "textArabic": "وَمَنْ أَظْلَمُ مِمَّنِ ٱفْتَرَىٰ عَلَى ٱللَّهِ ٱلْكَذِبَ وَهُوَ يُدْعَىٰٓ إِلَى ٱلْإِسْلَٰمِ ۚ وَٱللَّهُ لَا يَهْدِى ٱلْقَوْمَ ٱلظَّٰلِمِينَ"
-    },
-    {
-      "verseNo": 8,
-      "textArabic": "يُرِيدُونَ لِيُطْفِـُٔوا۟ نُورَ ٱللَّهِ بِأَفْوَٰهِهِمْ وَٱللَّهُ مُتِمُّ نُورِهِۦ وَلَوْ كَرِهَ ٱلْكَٰفِرُونَ"
-    },
-    {
-      "verseNo": 9,
-      "textArabic": "هُوَ ٱلَّذِىٓ أَرْسَلَ رَسُولَهُۥ بِٱلْهُدَىٰ وَدِينِ ٱلْحَقِّ لِيُظْهِرَهُۥ عَلَى ٱلدِّينِ كُلِّهِۦ وَلَوْ كَرِهَ ٱلْمُشْرِكُونَ"
-    },
-    {
-      "verseNo": 10,
-      "textArabic": "يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ هَلْ أَدُلُّكُمْ عَلَىٰ تِجَٰرَةٍۢ تُنجِيكُم مِّنْ عَذَابٍ أَلِيمٍۢ"
-    },
-    {
-      "verseNo": 11,
-      "textArabic": "تُؤْمِنُونَ بِٱللَّهِ وَرَسُولِهِۦ وَتُجَٰهِدُونَ فِى سَبِيلِ ٱللَّهِ بِأَمْوَٰلِكُمْ وَأَنفُسِكُمْ ۚ ذَٰلِكُمْ خَيْرٌۭ لَّكُمْ إِن كُنتُمْ تَعْلَمُونَ"
-    },
-    {
-      "verseNo": 12,
-      "textArabic": "يَغْفِرْ لَكُمْ ذُنُوبَكُمْ وَيُدْخِلْكُمْ جَنَّٰتٍۢ تَجْرِى مِن تَحْتِهَا ٱلْأَنْهَٰرُ وَمَسَٰكِنَ طَيِّبَةًۭ فِى جَنَّٰتِ عَدْنٍۢ ۚ ذَٰلِكَ ٱلْفَوْزُ ٱلْعَظِيمُ"
-    },
-    {
-      "verseNo": 13,
-      "textArabic": "وَأُخْرَىٰ تُحِبُّونَهَا ۖ نَصْرٌۭ مِّنَ ٱللَّهِ وَفَتْحٌۭ قَرِيبٌۭ ۗ وَبَشِّرِ ٱلْمُؤْمِنِينَ"
-    },
-    {
-      "verseNo": 14,
-      "textArabic": "يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ كُونُوٓا۟ أَنصَارَ ٱللَّهِ كَمَا قَالَ عِيسَى ٱبْنُ مَرْيَمَ لِلْحَوَارِيِّۦنَ مَنْ أَنصَارِىٓ إِلَى ٱللَّهِ ۖ قَالَ ٱلْحَوَارِيُّونَ نَحْنُ أَنصَارُ ٱللَّهِ ۖ فَـَٔامَنَت طَّآئِفَةٌۭ مِّنۢ بَنِىٓ إِسْرَٰٓءِيلَ وَكَفَرَت طَّآئِفَةٌۭ ۖ فَأَيَّدْنَا ٱلَّذِينَ ءَامَنُوا۟ عَلَىٰ عَدُوِّهِمْ فَأَصْبَحُوا۟ ظَٰهِرِينَ"
-    }
-  ],
-  "translations": [
-    {
-      "verseNo": 1,
-      "verseNoEnd": null,
-      "source": "ai",
-      "text": "Göklerde ve yerde olan her şey Allah'ı tesbih eder. O, güçlü ve hikmet sahibidir."
-    },
-    {
-      "verseNo": 1,
-      "source": "diyanet",
-      "text": "Göklerdeki ve yerdeki her şey Allah'ı tespih eder. O, mutlak güç sahibidir, hüküm ve hikmet sahibidir."
-    },
-    {
-      "verseNo": 1,
-      "source": "esed",
-      "text": "Göklerde ve yerde ne varsa tümü Allah´ın sınırsız şanını yüceltir çünkü yalnız O´dur kudret ve hikmet sahibi"
-    },
-    {
-      "verseNo": 1,
-      "source": "okuyan",
-      "text": "Göklerde ve yerde ne varsa hepsi Allah’ı tesbih eder (yüceltir). O güçlüdür, doğru hüküm verendir."
-    },
-    {
-      "verseNo": 2,
-      "verseNoEnd": null,
-      "source": "ai",
-      "text": "Ey iman edenler! Yapmadığınız şeyi neden söylüyorsunuz?"
-    },
-    {
-      "verseNo": 2,
-      "source": "diyanet",
-      "text": "Ey iman edenler! Yapmayacağınız şeyleri niçin söylüyorsunuz?"
-    },
-    {
-      "verseNo": 2,
-      "source": "esed",
-      "text": "Siz ey imana ermiş olanlar! Niçin bir türlü söylüyor, başka türlü yapıyorsunuz"
-    },
-    {
-      "verseNo": 2,
-      "source": "okuyan",
-      "text": "Ey iman edenler! Yapmayacağınız şeyleri niçin söylüyorsunuz?"
-    },
-    {
-      "verseNo": 3,
-      "verseNoEnd": null,
-      "source": "ai",
-      "text": "Söyleyip de yapmamanız Allah katında büyük bir tiksintidir."
-    },
-    {
-      "verseNo": 3,
-      "source": "diyanet",
-      "text": "Yapmayacağınız şeyleri söylemeniz, Allah katında büyük gazap gerektiren bir iştir."
-    },
-    {
-      "verseNo": 3,
-      "source": "esed",
-      "text": "yapmayacağınız şeyi söylemeniz Allah nazarında en tiksinti verici şeydir"
-    },
-    {
-      "verseNo": 3,
-      "source": "okuyan",
-      "text": "Yapmayacağınız şeyleri söylemeniz, Allah katında büyük bir öfkeyle karşılanır."
-    },
-    {
-      "verseNo": 4,
-      "verseNoEnd": null,
-      "source": "ai",
-      "text": "Allah, yolunda safta savaşanları sever; sanki birbirine sımsıkı kenetlenmiş bir bina gibidirler."
-    },
-    {
-      "verseNo": 4,
-      "source": "diyanet",
-      "text": "Hiç şüphe yok ki Allah, kendi yolunda, duvarları birbirine kenetlenmiş bir bina gibi saf bağlayarak çarpışanları sever."
-    },
-    {
-      "verseNo": 4,
-      "source": "esed",
-      "text": "Gerçek şu ki Allah (yalnızca) kendi davası uğrunda, sağlam ve yekpare bir bina gibi, kenetlenmiş saflar halinde savaşanları sever"
-    },
-    {
-      "verseNo": 4,
-      "source": "okuyan",
-      "text": "Şüphesiz ki Allah kendi yolunda kenetlenmiş bir bina gibi sıra halinde savaşanları sever."
-    },
-    {
-      "verseNo": 5,
-      "verseNoEnd": null,
-      "source": "ai",
-      "text": "Musa kavmine dedi ki: “Ey kavmim, beni neden incitiyorsunuz? Bilirsiniz ki ben size Allah'ın elçisiyim.” Onlar sapınca Allah kalplerini saptırdı. Allah, isyan eden topluluğu doğru yola erdirmez."
-    },
-    {
-      "verseNo": 5,
-      "source": "diyanet",
-      "text": "Hani Mûsâ kavmine, \"Ey kavmim! Allah'ın size gönderdiği peygamberi olduğumu bilip durduğunuz halde niçin bana eziyet ediyorsunuz?\" demişti. Onlar yoldan sapınca, Allah da kalplerini (doğru yoldan) saptırdı. Allah fasıklar topluluğunu hidayete erdirmez."
-    },
-    {
-      "verseNo": 5,
-      "source": "esed",
-      "text": "Vaktiyle Musa, kavmine: \"Size Allah tarafından gönderilmiş bir elçi olduğumu bildiğiniz halde neden beni üzüyorsunuz?\" dedi(ğinde kasdettiği şey işte bu gerçekti). Böylece onlar doğru yoldan saptıklarında Allah da kalplerinin hakikatten sapmasına izin verdi; çünkü Allah günaha gömülüp gitmiş bir toplumu doğru yola çıkarmaz"
-    },
-    {
-      "verseNo": 5,
-      "source": "okuyan",
-      "text": "Hani Musa, kavmine “Ey kavmim! Benim, Allah’ın size (gönderdiği) elçisi olduğumu bildiğiniz hâlde niçin bana eziyet ediyorsunuz?” demişti. Onlar (gerçeklerden sapıp) kayınca, Allah da kalplerini kaydırmıştı. Allah yoldan çıkanlar topluluğunu doğru yola ulaştırmaz."
-    },
-    {
-      "verseNo": 6,
-      "verseNoEnd": null,
-      "source": "ai",
-      "text": "Meryem oğlu Îsâ dedi ki: “Ey İsrail oğulları, ben sizin için Allah'ın elçisiyim; benden önceki Tevrat'ı doğrulayan ve benden sonra gelecek, adı Ahmed olan bir elçinin müjdecisiyim.” O, apaçık delillerle onlara gelince dediler ki: “Bu apaçık bir sihirdir.”"
-    },
-    {
-      "verseNo": 6,
-      "source": "diyanet",
-      "text": "Hani, Meryem oğlu İsa, \"Ey İsrailoğulları! Şüphesiz ben, Allah'ın size, benden önce gelen Tevrat'ı doğrulayıcı ve benden sonra gelecek, Ahmed adında bir peygamberi müjdeleyici (olarak gönderdiği) peygamberiyim\" demişti. Fakat (İsa) onlara apaçık mucizeleri getirince, \"Bu, apaçık bir sihirdir\" dediler."
-    },
-    {
-      "verseNo": 6,
-      "source": "esed",
-      "text": "Ve vaktiyle Meryem oğlu İsa: \"Ey İsrailoğulları! Şüphesiz, ben, Tevrat´tan geriye kalmış hakikat adına ne varsa hepsini doğrulamak ve benden sonra gelecek olan Ahmed adındaki bir elçiyi müjdelemek için size gönderilmiş olan Allah´ın elçisiyim\" dedi(ğinde de aynı şey geçerliydi.) Ama, (gelişini İsa´nın önceden haber verdiği) elçi hakikatin bütün kanıtlarıyla onlara geldiğinde: \"Bu (doğruluğunu iddia ettiğin mesaj), göz boyayan bir büyü(den başka bir şey değil)!\" demişlerdi"
-    },
-    {
-      "verseNo": 6,
-      "source": "okuyan",
-      "text": "Hani Meryem oğlu İsa “Ey İsrailoğulları! Şüphesiz ki ben size önümdeki Tevrat’ı(n aslını) doğrulayıcı, adı Ahmet olup benden sonra gelecek elçiyi de müjdeleyici olarak Allah’ın (gönderdiği) elçiyim.” demişti. Ne zaman ki o, kendilerine apaçık deliller getirince “Bu(nlar) apaçık bir büyüdür!” demişlerdi."
-    },
-    {
-      "verseNo": 7,
-      "verseNoEnd": null,
-      "source": "ai",
-      "text": "Allah hakkında yalan uyduran ve İslam'a çağrılırken buna rağmen onu reddeden kimden daha zalim olabilir? Allah zalimleri doğru yola erdirmez."
-    },
-    {
-      "verseNo": 7,
-      "source": "diyanet",
-      "text": "Kim, İslam'a davet olunduğu halde Allah'a karşı yalan uydurandan daha zalimdir? Allah, zalimler topluluğunu hidayete erdirmez."
-    },
-    {
-      "verseNo": 7,
-      "source": "esed",
-      "text": "(Yalnızca) Allah´a teslim olması istendiği halde Allah(ın mesajı) hakkında (böyle) yalanlar uydurandan daha zalim kim olabilir? Ama Allah zalim halka rehberliğini bağışlamaz"
-    },
-    {
-      "verseNo": 7,
-      "source": "okuyan",
-      "text": "İslam’a çağrıldığı hâlde Allah’a iftira edenden daha zalim kim olabilir ki! Allah zalimler topluluğunu doğru yola ulaştırmaz."
-    },
-    {
-      "verseNo": 8,
-      "verseNoEnd": null,
-      "source": "ai",
-      "text": "Ağızlarıyla Allah'ın nurunu söndürmek isterler; Allah nurunu tamamlayandır; kâfirler istemese de."
-    },
-    {
-      "verseNo": 8,
-      "source": "diyanet",
-      "text": "Onlar ağızlarıyla Allah'ın nurunu söndürmek istiyorlar. Halbuki kafirler istemeseler de Allah nurunu tamamlayacaktır."
-    },
-    {
-      "verseNo": 8,
-      "source": "esed",
-      "text": "Onlar Allah´ın nurunu boş laflarıyla söndürmek isterler ama Allah, hakikati inkar edenler ne kadar öfkelenseler de, nurunu bütün parlaklığıyla yaymaya devam edecektir"
-    },
-    {
-      "verseNo": 8,
-      "source": "okuyan",
-      "text": "Onlar Allah’ın nurunu (ışığını/Kur’an’ı) ağızlarıyla söndürmek istiyorlar. Kâfirler istemeseler de Allah nurunu (Kur’an’ı) tamamlayıcıdır."
-    },
-    {
-      "verseNo": 9,
-      "verseNoEnd": null,
-      "source": "ai",
-      "text": "O, elçisini hidayet ve hakkın diniyle gönderendir ki onu bütün din üzerinde üstün kılsın; müşrikler istemese de."
-    },
-    {
-      "verseNo": 9,
-      "source": "diyanet",
-      "text": "O, kendisine ortak koşanlar hoşlanmasa da, dinini bütün dinlere üstün kılmak için peygamberini hidayet ve hak din ile gönderendir."
-    },
-    {
-      "verseNo": 9,
-      "source": "esed",
-      "text": "Allah´tan başka şeylere ilahlık yakıştıranlar ne kadar öfkelense de, elçisini, bütün (batıl) dinlere üstün kılmak üzere rehberliği ve hakikat dinini yaymak (görevi) ile gönderen O´dur"
-    },
-    {
-      "verseNo": 9,
-      "source": "okuyan",
-      "text": "Müşrikler istemese de (dinini) bütün din(ler)e üstün kılmak için Elçisini bir rehber ve gerçek din ile gönderen O’dur."
-    },
-    {
-      "verseNo": 10,
-      "verseNoEnd": null,
-      "source": "ai",
-      "text": "Ey iman edenler! Size, sizi şiddetli bir azaptan kurtaracak bir ticareti göstereyim mi?"
-    },
-    {
-      "verseNo": 10,
-      "source": "diyanet",
-      "text": "Ey iman edenler! Sizi elem dolu bir azaptan kurtaracak bir ticaret göstereyim mi size?"
-    },
-    {
-      "verseNo": 10,
-      "source": "esed",
-      "text": "Siz ey imana ermiş olanlar! (Hem bu dünyada hem de öteki dünyada) şiddetli bir azaptan sizi koruyacak bir alışveriş göstereyim mi size"
-    },
-    {
-      "verseNo": 10,
-      "source": "okuyan",
-      "text": "Ey iman edenler! Sizi elem verici bir azaptan kurtaracak ticaret (yolunu) size göstereyim mi?"
-    },
-    {
-      "verseNo": 11,
-      "verseNoEnd": null,
-      "source": "ai",
-      "text": "Allah'a ve peygamberine iman eder, Allah yolunda mallarınızla ve canlarınızla mücadele edersiniz; bu, sizin için daha hayırlıdır, eğer bilirsiniz."
-    },
-    {
-      "verseNo": 11,
-      "source": "diyanet",
-      "text": "Allah'a ve peygamberine inanır, mallarınızla ve canlarınızla Allah yolunda cihat edersiniz. Eğer bilirseniz, bu sizin için çok hayırlıdır."
-    },
-    {
-      "verseNo": 11,
-      "source": "esed",
-      "text": "Allah´a ve Peygamberi´ne inanır ve Allah yolunda malınız ve canınızla gayret gösterirsiniz; bu sizin kendi iyiliğinizedir, keşke bilseydiniz"
-    },
-    {
-      "verseNo": 11,
-      "source": "okuyan",
-      "text": "Allah’a ve Elçisine inanıp güvenirsiniz; mallarınızla ve canlarınızla Allah yolunda cihad edersiniz (fedakârlık yaparsınız). Bilirseniz bu, sizin için hayırlı olandır."
-    },
-    {
-      "verseNo": 12,
-      "verseNoEnd": null,
-      "source": "ai",
-      "text": "Günahlarınızı bağışlar ve sizi altından nehirler akan cennetlere ve ebedî cennetlerde güzel konutlara koyar. İşte bu büyük kurtuluştur."
-    },
-    {
-      "verseNo": 12,
-      "source": "diyanet",
-      "text": "(Bunu yapınız ki) Allah, günahlarınızı bağışlasın, sizi içinden ırmaklar akan cennetlere ve Adn cennetlerindeki güzel meskenlere koysun. İşte bu büyük başarıdır."
-    },
-    {
-      "verseNo": 12,
-      "source": "esed",
-      "text": "(Eğer böyle yaparsanız,) Allah günahlarınızı bağışlayacak ve sizi (öteki dünyada) içinden ırmaklar akan bahçelere ve bu sonsuz mutluluk bahçelerindeki güzel köşklere koyacaktır. Bu büyük bir mazhariyettir"
-    },
-    {
-      "verseNo": 12,
-      "source": "okuyan",
-      "text": "O, günahlarınızı bağışlar; sizi altlarından ırmaklar akan cennetlere, durmaya değer cennetlerdeki güzel meskenlere yerleştirir. İşte bu, büyük kurtuluştur."
-    },
-    {
-      "verseNo": 13,
-      "verseNoEnd": null,
-      "source": "ai",
-      "text": "Ve başka birini seversiniz: Allah'tan bir yardım ve yakın bir fetih. Müminleri müjdele."
-    },
-    {
-      "verseNo": 13,
-      "source": "diyanet",
-      "text": "Seveceğiniz başka bir kazanç daha var: Allah'tan bir yardım ve yakın bir fetih (Mekke'nin fethi). (Ey Muhammed!) Mü'minleri müjdele!"
-    },
-    {
-      "verseNo": 13,
-      "source": "esed",
-      "text": "Ve (bakın, Allah size) gönülden seveceğiniz başka bir şey daha (bağışlayacak): (bu dünyada) Allah´ın yardımı ve yakında gerçekleşecek bir zafer; (ey Peygamber, bunu) bütün inananlara müjdele"
-    },
-    {
-      "verseNo": 13,
-      "source": "okuyan",
-      "text": "Seveceğiniz başka (bir ticaret) daha var: Allah’tan yardım ve yakın bir zafer. Müminleri (bunlarla) da müjdele!"
-    },
-    {
-      "verseNo": 14,
-      "verseNoEnd": null,
-      "source": "ai",
-      "text": "Ey iman edenler! Allah'ın yardımcıları olun, tıpkı İsa, Meryem oğlu'nun havarilerine dediği gibi: “Benim Allah yolundaki yardımcılarım kimdir?” Havariler: “Biz Allah'ın yardımcılarıyız” dediler. Bunun üzerine İsrailoğullarından bir grup iman etti, bir grup inkar etti. Biz iman edenleri düşmanlarına karşı destekledik; böylece onlar açıkça üstün oldular."
-    },
-    {
-      "verseNo": 14,
-      "source": "diyanet",
-      "text": "Ey iman edenler! Allah'ın yardımcıları olun. Nasıl ki Meryem oğlu İsa da havarilere, \"Allah'a giden yolda benim yardımcılarım kimdir?\" demişti. Havariler de, \"Biz Allah'ın yardımcılarıyız\" demişlerdi. Bunun üzerine İsrailoğullarından bir kesim inanmış, bir kesim de inkar etmişti. Nihayet biz inananları, düşmanlarına karşı destekledik. Böylece üstün geldiler."
-    },
-    {
-      "verseNo": 14,
-      "source": "esed",
-      "text": "Siz ey imana ermiş olanlar! Meryem oğlu İsa gibi, siz de Allah´ın (davasının) hizmetçileri olun! Hani o, beyaz giysililere, \"Kim Allah(ın davası) uğrunda benim yardımcılarım olacak?\" diye sormuştu. Bunun üzerine beyaz giysili (havari)ler \"Allah (yolunda) yardımcılar(ın) biz olacağız!\" diye cevap vermişlerdi. Ve böylece İsrailoğulları´ndan bir kısmı (İsa´nın peygamberliğine) inanmaya başladı, diğerleri ise hakikati inkar ettiler. Ama (şimdi) Biz, (gerçekten) imana kavuşmuş olanları düşmanlarına karşı koruyup destekledik ve onlar üstün gelenlerden oldular"
-    },
-    {
-      "verseNo": 14,
-      "source": "okuyan",
-      "text": "Ey iman edenler! Allah’ın (yolunun) yardımcıları olun! Nitekim Meryem oğlu İsa, Havarilere “Allah’a doğru (giden yolda) kim bana yardımcı olacak?” demişti. Havariler de “Biz Allah’ın (yolunun) yardımcılarıyız!” demişlerdi.İsrailoğulları’ndan bir grup inanmış, bir grup ise inkâr etmişti. Sonunda biz, inananları düşmanlarına karşı desteklemiştik. Böylece galip gelmişlerdi."
-    }
-  ],
-  "aiParagraph": "Söylediğin şeyi yapıp yapmadığın, bu metnin en sert ve en doğrudan açtığı yaradır: Neden söylediklerini yapmıyorsun? Bu soru havada asılı kalıyor, çünkü metin hemen ardından aynı sorunun tarihsel yankısını getiriyor — Musa'nın \"beni neden incitiyorsunuz, biliyorsunuz ki size gönderildim\" çaresizliği, İsa'nın \"benden sonra gelecek\" müjdesinin \"bu büyü\" diye reddedilmesi. Bir şeyi kabul etmemek için akla gelen her bahanenin bu kadar eski olduğunu görmek tuhaf bir his bırakıyor. Metin, bu reddin bir anda değil yavaş yavaş gerçekleştiğini de söylüyor: önce sapma, sonra kalbin o yönde katılaşması. Öte yandan metnin içinde beklenmedik bir alışveriş teklifi var — kişinin hem malını hem kendini ortaya koyduğu, karşılığında büyük bir kurtuluş ve yakın bir zafer vaat edilen bir takas. Ama metnin belki de en ağır imgesi şu: Ağzıyla bir ışığı söndürmeye çalışmak. Kim ne kadar uğraşırsa uğraşsın, ışık tamamlanıyor. Ve İsa'nın havarilere sorduğu soru — \"Allah yolunda kim benim yanımda?\" — bütün bu anlatının üzerinde asılı kalıyor; çünkü o soruya \"biz\" diyenler kazandı, susmayı seçenler tarihin dışında kaldı."
+ "stationNo": 100,
+ "surahNo": 61,
+ "name": "Saff",
+ "nameArabic": "",
+ "nameMeaning": "",
+ "verseCount": 14,
+ "nuzulOrderOkuyan": 99,
+ "periodDiyanet": "Medine",
+ "periodOkuyan": "Medine",
+ "revelationTiming": "",
+ "stationTitle": "Söz ve Eylem Tutarlılığı: İman İddiasının Sınanması",
+ "introduction": "Saff Suresi, inananların sözleri ile eylemleri arasındaki tutarlılığı sorgulayan, iman iddiasının bedelini ve sorumluluğunu hatırlatan sarsıcı bir Medine suresidir. Sure, evrendeki her şeyin Allah'ı tesbih ettiği gerçeğiyle başlar ve bu muazzam kozmik uyuma insanın da eylemleriyle katılması gerektiğini vurgular.\n\nSurenin merkezinde, yapmayacağı şeyleri söyleyenlerin Allah katında ne kadar büyük bir vebal altında oldukları uyarısı yer alır. İman, sadece dilde kalan bir iddia değil, gerektiğinde can ve mal ile ispatlanması gereken bir eylemdir. Bu bağlamda sure, inananları kurşunla kenetlenmiş sağlam bir bina gibi omuz omuza durmaya ve hakikati savunmaya çağırır.\n\nTarihsel süreçten Hz. Musa ve Hz. İsa'nın mücadelelerinden örnekler sunan sure, elçilere verilen sözlerin tutulmamasının ve hakikatin inkar edilmesinin doğurduğu sonuçları gözler önüne serer. Sonuç olarak, inananlara ebedi kurtuluşu sağlayacak en kârlı ticaretin, Allah ve elçisine güvenip bu yolda fedakarlık yapmak olduğu müjdelenir.",
+ "occasionOfRevelation": "Saff Suresi'nin nüzul sebebi hakkında kaynaklarda öne çıkan temel rivayet, bazı Müslümanların cihad farz kılınmadan önce 'Allah'ın en sevdiği ameli bilsek de onu yapsak' şeklindeki temennileriyle ilgilidir. Ancak savaş ve mücadele emredildiğinde, bu sözü söyleyenlerden bazılarının geri durması ve isteksiz davranması üzerine surenin ilk ayetleri inmiştir.\n\nBu durum, insanın kendisini sınanmadan önce ne kadar cesur ve fedakar zannettiğini, ancak gerçek bir zorlukla karşılaştığında verdiği sözün arkasında durmasının ne kadar zor olduğunu gösteren evrensel bir insanlık durumudur. Sure, bu vesileyle söz ve eylem tutarlılığının iman açısından ne kadar hayati olduğunu vurgulamak için inmiştir.\n\nAyrıca surenin, Uhud Savaşı sonrasında yaşanan bazı zaaflar ve verilen sözlerin tutulmaması gibi olaylarla da bağlantılı olduğu, inananların saflarını sıklaştırmaları ve kenetlenmeleri gerektiği bir dönemde indiği değerlendirilmektedir.",
+ "occasionSources": "Tirmizî, Tefsir 61; Dârimî, Cihad 1; Fahreddin er-Râzî, Mefâtîhu'l-gayb, XXIX, 269.",
+ "keyTerms": [
+  {
+   "term": "saff",
+   "arabic": "صَفًّا",
+   "verseRef": "61:4",
+   "meaning": "Sıra, dizi, omuz omuza durmak. Ayette, inananların hak yolda birbirine kenetlenmiş sağlam bir bina gibi duruşunu ifade eder."
+  },
+  {
+   "term": "tesbîh",
+   "arabic": "سَبَّحَ",
+   "verseRef": "61:1",
+   "meaning": "Allah'ı her türlü eksiklikten tenzih etmek, O'nun adına hareket etmek. Evrendeki her şeyin kendi varlık amacıyla Allah'ı yüceltmesidir."
+  },
+  {
+   "term": "makt",
+   "arabic": "مَقْتًا",
+   "verseRef": "61:3",
+   "meaning": "Şiddetli öfke, büyük kızgınlık ve nefret. Ayette, yapmayacağı şeyi söylemenin Allah katında ne kadar çirkin görüldüğünü belirtir."
+  },
+  {
+   "term": "bünyânün mersûs",
+   "arabic": "بُنْيَانٌ مَرْصُوصٌ",
+   "verseRef": "61:4",
+   "meaning": "Kurşunla kenetlenmiş, taşları birbirine iyice geçirilmiş sağlam bina. İnananların dayanışma ve birliğini simgeler."
+  },
+  {
+   "term": "ticâret",
+   "arabic": "تِجَارَةٍ",
+   "verseRef": "61:10",
+   "meaning": "Alışveriş, kazançlı iş. Ayette, insanı acı azaptan kurtaracak en kârlı eylemin Allah yolunda fedakarlık yapmak olduğu mecazıyla kullanılır."
+  }
+ ],
+ "themes": [
+  {
+   "label": "Söz ve Eylem Tutarlılığı",
+   "body": "İnsanın dildeki iddiaları ile pratik hayattaki eylemleri arasındaki uyumun gerekliliği. Yapılmayacak şeylerin söylenmesinin ahlaki ve inançsal boyuttaki yıkıcılığı."
+  },
+  {
+   "label": "Dayanışma ve Birliktelik",
+   "body": "Zorluklar karşısında bireysel çabaların ötesinde, birbirine kenetlenmiş bir topluluk olmanın önemi. Hakikati savunurken omuz omuza durabilme erdemi."
+  },
+  {
+   "label": "İman ve Fedakarlık",
+   "body": "İmanın sadece zihinsel bir kabul değil, gerektiğinde sahip olunan en değerli şeylerden (can ve mal) vazgeçebilmeyi gerektiren bir adanmışlık olduğu gerçeği."
+  },
+  {
+   "label": "Hakikatin Engellenemezliği",
+   "body": "İnkarcıların tüm çabalarına ve karalama kampanyalarına rağmen, ilahi nurun ve hakikatin eninde sonunda tamamlanacağı ve üstün geleceği inancı."
+  }
+ ],
+ "questions": [
+  "Söylediğim sözler ile yaptığım eylemler arasında ne kadar tutarlılık var? Yapmayacağım şeyleri söyleyerek kendimi kandırıyor olabilir miyim?",
+  "İnandığım değerler uğruna gerektiğinde konfor alanımdan çıkıp fedakarlık yapabiliyor muyum, yoksa imanım sadece dilde mi kalıyor?",
+  "Zorluklar karşısında inananlarla omuz omuza, 'kurşunla kenetlenmiş bir bina' gibi durabiliyor muyum, yoksa bireysel çıkarlarımı mı önceliyorum?"
+ ],
+ "contemporaryMeaning": "Bu sure, insanın kimliği ile eylemi arasındaki yarığı işaret eder ve inancın bir performans değil, bir varoluş biçimi olduğunu söyler. Surenin merkezindeki mesele, dildeki iddiaların pratik hayatta karşılık bulmaması, yani insanın kendi söyleminin altında ezilmesidir. Söylem ile eylem arasındaki bu kopukluk, sadece bireysel bir tutarsızlık değil, aynı zamanda insanın kendi hakikatine ihanetidir.\n\nBugünün diliyle: sosyal medyada paylaşılan erdemli sözlerin, iş hayatındaki acımasız rekabetle çelişmesi; ekranda savunulan adaletin, ev içindeki adaletsizlikle yan yana durması; profil biyografilerine yazılan yüce değerlerin, günlük tüketim alışkanlıklarında sıfırlanması, surenin tam kalbinden vurduğu çelişkilerdir. İnsan, dijital dünyada inşa ettiği kusursuz vitrin ile gerçek hayattaki zaafları arasına sıkışmıştır. Algoritmaların alkışladığı \"söylem\", eyleme dönüşmediğinde, insan kendi yarattığı sanal kimliğin esiri olur.\n\nSure, bu parçalanmışlığa karşı \"kurşunla kenetlenmiş bir bina\" metaforunu sunar. Bu, sadece toplumsal bir dayanışma değil, aynı zamanda insanın kendi içindeki bütünlüğün, sözüyle özünün birleşmesinin resmidir. Konfor alanından çıkmadan, bedel ödemeden, sadece konuşarak hakikate ulaşılamayacağı gerçeği, gösteri çağının insanına yöneltilmiş en keskin itirazdır.",
+ "scholarlyNotes": [
+  {
+   "kind": "ihtilaf",
+   "body": "Surenin nüzul zamanı konusunda genel kabul Medine dönemi olduğu yönündedir. Ancak bazı müfessirler, içerdiği mesajların Mekke dönemindeki baskı ortamına da hitap edebileceğini düşünerek Mekke'de inmiş olabileceği ihtimalini de dile getirmişlerdir. Çoğunluk ise Uhud Savaşı sonrasındaki olaylara işaret ettiği için Medine'de indiğinde ittifak eder.",
+   "label": "Surenin Nüzul Zamanı"
+  },
+  {
+   "kind": "nuans",
+   "body": "Saff Suresi, Kur'an'da 'Sebbeha' veya 'Yüsebbihu' (tesbih eder) fiiliyle başlayan ve 'Müsebbihât' olarak adlandırılan sureler grubunun bir parçasıdır. Bu sureler, evrensel tesbih gerçeğini vurgulayarak başlar.",
+   "label": "Müsebbihât Sureleri"
+  },
+  {
+   "kind": "rivayet",
+   "body": "Bazı tefsir kaynaklarında yer alan 'Kim Saff suresini okursa, İsa (a.s.) dünyada kaldığı sürece ona dua eder ve kıyamet gününde ona şahitlik yapar' şeklindeki rivayet, hadis alimlerince zayıftır ve asılsızdır.",
+   "label": "Surenin Fazileti Hakkında"
+  }
+ ],
+ "verses": [
+  {
+   "verseNo": 1,
+   "textArabic": "بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ سَبَّحَ لِلَّهِ مَا فِى ٱلسَّمَٰوَٰتِ وَمَا فِى ٱلْأَرْضِ ۖ وَهُوَ ٱلْعَزِيزُ ٱلْحَكِيمُ"
+  },
+  {
+   "verseNo": 2,
+   "textArabic": "يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ لِمَ تَقُولُونَ مَا لَا تَفْعَلُونَ"
+  },
+  {
+   "verseNo": 3,
+   "textArabic": "كَبُرَ مَقْتًا عِندَ ٱللَّهِ أَن تَقُولُوا۟ مَا لَا تَفْعَلُونَ"
+  },
+  {
+   "verseNo": 4,
+   "textArabic": "إِنَّ ٱللَّهَ يُحِبُّ ٱلَّذِينَ يُقَٰتِلُونَ فِى سَبِيلِهِۦ صَفًّۭا كَأَنَّهُم بُنْيَٰنٌۭ مَّرْصُوصٌۭ"
+  },
+  {
+   "verseNo": 5,
+   "textArabic": "وَإِذْ قَالَ مُوسَىٰ لِقَوْمِهِۦ يَٰقَوْمِ لِمَ تُؤْذُونَنِى وَقَد تَّعْلَمُونَ أَنِّى رَسُولُ ٱللَّهِ إِلَيْكُمْ ۖ فَلَمَّا زَاغُوٓا۟ أَزَاغَ ٱللَّهُ قُلُوبَهُمْ ۚ وَٱللَّهُ لَا يَهْدِى ٱلْقَوْمَ ٱلْفَٰسِقِينَ"
+  },
+  {
+   "verseNo": 6,
+   "textArabic": "وَإِذْ قَالَ عِيسَى ٱبْنُ مَرْيَمَ يَٰبَنِىٓ إِسْرَٰٓءِيلَ إِنِّى رَسُولُ ٱللَّهِ إِلَيْكُم مُّصَدِّقًۭا لِّمَا بَيْنَ يَدَىَّ مِنَ ٱلتَّوْرَىٰةِ وَمُبَشِّرًۢا بِرَسُولٍۢ يَأْتِى مِنۢ بَعْدِى ٱسْمُهُۥٓ أَحْمَدُ ۖ فَلَمَّا جَآءَهُم بِٱلْبَيِّنَٰتِ قَالُوا۟ هَٰذَا سِحْرٌۭ مُّبِينٌۭ"
+  },
+  {
+   "verseNo": 7,
+   "textArabic": "وَمَنْ أَظْلَمُ مِمَّنِ ٱفْتَرَىٰ عَلَى ٱللَّهِ ٱلْكَذِبَ وَهُوَ يُدْعَىٰٓ إِلَى ٱلْإِسْلَٰمِ ۚ وَٱللَّهُ لَا يَهْدِى ٱلْقَوْمَ ٱلظَّٰلِمِينَ"
+  },
+  {
+   "verseNo": 8,
+   "textArabic": "يُرِيدُونَ لِيُطْفِـُٔوا۟ نُورَ ٱللَّهِ بِأَفْوَٰهِهِمْ وَٱللَّهُ مُتِمُّ نُورِهِۦ وَلَوْ كَرِهَ ٱلْكَٰفِرُونَ"
+  },
+  {
+   "verseNo": 9,
+   "textArabic": "هُوَ ٱلَّذِىٓ أَرْسَلَ رَسُولَهُۥ بِٱلْهُدَىٰ وَدِينِ ٱلْحَقِّ لِيُظْهِرَهُۥ عَلَى ٱلدِّينِ كُلِّهِۦ وَلَوْ كَرِهَ ٱلْمُشْرِكُونَ"
+  },
+  {
+   "verseNo": 10,
+   "textArabic": "يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ هَلْ أَدُلُّكُمْ عَلَىٰ تِجَٰرَةٍۢ تُنجِيكُم مِّنْ عَذَابٍ أَلِيمٍۢ"
+  },
+  {
+   "verseNo": 11,
+   "textArabic": "تُؤْمِنُونَ بِٱللَّهِ وَرَسُولِهِۦ وَتُجَٰهِدُونَ فِى سَبِيلِ ٱللَّهِ بِأَمْوَٰلِكُمْ وَأَنفُسِكُمْ ۚ ذَٰلِكُمْ خَيْرٌۭ لَّكُمْ إِن كُنتُمْ تَعْلَمُونَ"
+  },
+  {
+   "verseNo": 12,
+   "textArabic": "يَغْفِرْ لَكُمْ ذُنُوبَكُمْ وَيُدْخِلْكُمْ جَنَّٰتٍۢ تَجْرِى مِن تَحْتِهَا ٱلْأَنْهَٰرُ وَمَسَٰكِنَ طَيِّبَةًۭ فِى جَنَّٰتِ عَدْنٍۢ ۚ ذَٰلِكَ ٱلْفَوْزُ ٱلْعَظِيمُ"
+  },
+  {
+   "verseNo": 13,
+   "textArabic": "وَأُخْرَىٰ تُحِبُّونَهَا ۖ نَصْرٌۭ مِّنَ ٱللَّهِ وَفَتْحٌۭ قَرِيبٌۭ ۗ وَبَشِّرِ ٱلْمُؤْمِنِينَ"
+  },
+  {
+   "verseNo": 14,
+   "textArabic": "يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ كُونُوٓا۟ أَنصَارَ ٱللَّهِ كَمَا قَالَ عِيسَى ٱبْنُ مَرْيَمَ لِلْحَوَارِيِّۦنَ مَنْ أَنصَارِىٓ إِلَى ٱللَّهِ ۖ قَالَ ٱلْحَوَارِيُّونَ نَحْنُ أَنصَارُ ٱللَّهِ ۖ فَـَٔامَنَت طَّآئِفَةٌۭ مِّنۢ بَنِىٓ إِسْرَٰٓءِيلَ وَكَفَرَت طَّآئِفَةٌۭ ۖ فَأَيَّدْنَا ٱلَّذِينَ ءَامَنُوا۟ عَلَىٰ عَدُوِّهِمْ فَأَصْبَحُوا۟ ظَٰهِرِينَ"
+  }
+ ],
+ "translations": [
+  {
+   "verseNo": 1,
+   "source": "diyanet",
+   "text": "Göklerdeki ve yerdeki her şey Allah'ı tespih eder. O, mutlak güç sahibidir, hüküm ve hikmet sahibidir."
+  },
+  {
+   "verseNo": 1,
+   "source": "okuyan",
+   "text": "Göklerde ve yerde ne varsa hepsi Allah’ı tesbih eder (yüceltir). O güçlüdür, doğru hüküm verendir."
+  },
+  {
+   "verseNo": 1,
+   "source": "islamoglu",
+   "text": "GÖKLERDE olan her şey ve yerde olan her şey Allah adına hareket ettiler (de, bu kozmik düzen öyle oluştu): zira O’dur her işinde tek mükemmel olan, her hükmünde tam isabet kaydeden O’dur."
+  },
+  {
+   "verseNo": 1,
+   "source": "esed",
+   "text": "Göklerde ve yerde ne varsa tümü Allah´ın sınırsız şanını yüceltir çünkü yalnız O´dur kudret ve hikmet sahibi"
+  },
+  {
+   "verseNo": 2,
+   "source": "diyanet",
+   "text": "Ey iman edenler! Yapmayacağınız şeyleri niçin söylüyorsunuz?"
+  },
+  {
+   "verseNo": 2,
+   "source": "okuyan",
+   "text": "Ey iman edenler! Yapmayacağınız şeyleri niçin söylüyorsunuz?"
+  },
+  {
+   "verseNo": 2,
+   "source": "islamoglu",
+   "text": "Siz ey iman edenler! Yapmadığınız/yapmayacağınız şeyleri niçin söylersiniz!"
+  },
+  {
+   "verseNo": 2,
+   "source": "esed",
+   "text": "Siz ey imana ermiş olanlar! Niçin bir türlü söylüyor, başka türlü yapıyorsunuz"
+  },
+  {
+   "verseNo": 3,
+   "source": "diyanet",
+   "text": "Yapmayacağınız şeyleri söylemeniz, Allah katında büyük gazap gerektiren bir iştir."
+  },
+  {
+   "verseNo": 3,
+   "source": "okuyan",
+   "text": "Yapmayacağınız şeyleri söylemeniz, Allah katında büyük bir öfkeyle karşılanır."
+  },
+  {
+   "verseNo": 3,
+   "source": "islamoglu",
+   "text": "Yapmadığınız/yapmayacağınız şeyleri söylemeniz, Allah katında ağır (sonuçları) olan pek dehşetli bir davranıştır."
+  },
+  {
+   "verseNo": 3,
+   "source": "esed",
+   "text": "yapmayacağınız şeyi söylemeniz Allah nazarında en tiksinti verici şeydir"
+  },
+  {
+   "verseNo": 4,
+   "source": "diyanet",
+   "text": "Hiç şüphe yok ki Allah, kendi yolunda, duvarları birbirine kenetlenmiş bir bina gibi saf bağlayarak çarpışanları sever."
+  },
+  {
+   "verseNo": 4,
+   "source": "okuyan",
+   "text": "Şüphesiz ki Allah kendi yolunda kenetlenmiş bir bina gibi sıra halinde savaşanları sever."
+  },
+  {
+   "verseNo": 4,
+   "source": "islamoglu",
+   "text": "Şüphesiz Allah, dâvâsı uğrunda sanki yekpare çelikten bir bina gibi saf disiplini içerisinde savaşanları sever."
+  },
+  {
+   "verseNo": 4,
+   "source": "esed",
+   "text": "Gerçek şu ki Allah (yalnızca) kendi davası uğrunda, sağlam ve yekpare bir bina gibi, kenetlenmiş saflar halinde savaşanları sever"
+  },
+  {
+   "verseNo": 5,
+   "source": "diyanet",
+   "text": "Hani Mûsâ kavmine, \"Ey kavmim! Allah'ın size gönderdiği peygamberi olduğumu bilip durduğunuz halde niçin bana eziyet ediyorsunuz?\" demişti. Onlar yoldan sapınca, Allah da kalplerini (doğru yoldan) saptırdı. Allah fasıklar topluluğunu hidayete erdirmez."
+  },
+  {
+   "verseNo": 5,
+   "source": "okuyan",
+   "text": "Hani Musa, kavmine “Ey kavmim! Benim, Allah’ın size (gönderdiği) elçisi olduğumu bildiğiniz hâlde niçin bana eziyet ediyorsunuz?” demişti. Onlar (gerçeklerden sapıp) kayınca, Allah da kalplerini kaydırmıştı. Allah yoldan çıkanlar topluluğunu doğru yola ulaştırmaz."
+  },
+  {
+   "verseNo": 5,
+   "source": "islamoglu",
+   "text": "(Sizin bu durumunuz), Musa’nın kavmine “Ey kavmim! Benim Allah’ın elçisi olduğumu çok iyi bildiğiniz halde niçin bana eziyet ediyorsunuz?” (dediği) zamanki durumu hatırlatıyor. Ve onlar ne zaman yoldan saptılarsa, Allah da onların kalplerinin sapmasına izin verdi: zira yoldan sapmış bir topluluğa Allah, (onların iradesi hilafına) asla rehberliğini bahşetmez."
+  },
+  {
+   "verseNo": 5,
+   "source": "esed",
+   "text": "Vaktiyle Musa, kavmine: \"Size Allah tarafından gönderilmiş bir elçi olduğumu bildiğiniz halde neden beni üzüyorsunuz?\" dedi(ğinde kasdettiği şey işte bu gerçekti). Böylece onlar doğru yoldan saptıklarında Allah da kalplerinin hakikatten sapmasına izin verdi; çünkü Allah günaha gömülüp gitmiş bir toplumu doğru yola çıkarmaz"
+  },
+  {
+   "verseNo": 6,
+   "source": "diyanet",
+   "text": "Hani, Meryem oğlu İsa, \"Ey İsrailoğulları! Şüphesiz ben, Allah'ın size, benden önce gelen Tevrat'ı doğrulayıcı ve benden sonra gelecek, Ahmed adında bir peygamberi müjdeleyici (olarak gönderdiği) peygamberiyim\" demişti. Fakat (İsa) onlara apaçık mucizeleri getirince, \"Bu, apaçık bir sihirdir\" dediler."
+  },
+  {
+   "verseNo": 6,
+   "source": "okuyan",
+   "text": "Hani Meryem oğlu İsa “Ey İsrailoğulları! Şüphesiz ki ben size önümdeki Tevrat’ı(n aslını) doğrulayıcı, adı Ahmet olup benden sonra gelecek elçiyi de müjdeleyici olarak Allah’ın (gönderdiği) elçiyim.” demişti. Ne zaman ki o, kendilerine apaçık deliller getirince “Bu(nlar) apaçık bir büyüdür!” demişlerdi."
+  },
+  {
+   "verseNo": 6,
+   "source": "islamoglu",
+   "text": "Yine bir zamanlar Meryem oğlu İsa’nın; “Ey İsrâiloğulları! Elbet ben, Tevrat’tan bana kadar gelen tüm hakikatleri doğrulamak ve benden sonra gelecek Ahmet adındaki bir elçiyi müjdelemek için size gönderilen Allah elçisiyim” dediğini hatırlatıyor. O onlara hakikatin apaçık belgeleriyle geldiğinde, “Bu ayan açık bir sihirdir!” dediler."
+  },
+  {
+   "verseNo": 6,
+   "source": "esed",
+   "text": "Ve vaktiyle Meryem oğlu İsa: \"Ey İsrailoğulları! Şüphesiz, ben, Tevrat´tan geriye kalmış hakikat adına ne varsa hepsini doğrulamak ve benden sonra gelecek olan Ahmed adındaki bir elçiyi müjdelemek için size gönderilmiş olan Allah´ın elçisiyim\" dedi(ğinde de aynı şey geçerliydi.) Ama, (gelişini İsa´nın önceden haber verdiği) elçi hakikatin bütün kanıtlarıyla onlara geldiğinde: \"Bu (doğruluğunu iddia ettiğin mesaj), göz boyayan bir büyü(den başka bir şey değil)!\" demişlerdi"
+  },
+  {
+   "verseNo": 7,
+   "source": "diyanet",
+   "text": "Kim, İslam'a davet olunduğu halde Allah'a karşı yalan uydurandan daha zalimdir? Allah, zalimler topluluğunu hidayete erdirmez."
+  },
+  {
+   "verseNo": 7,
+   "source": "okuyan",
+   "text": "İslam’a çağrıldığı hâlde Allah’a iftira edenden daha zalim kim olabilir ki! Allah zalimler topluluğunu doğru yola ulaştırmaz."
+  },
+  {
+   "verseNo": 7,
+   "source": "islamoglu",
+   "text": "İslâm’a davet edildiği halde, uydurduğu yalanı Allah’a isnat edenden daha zalim biri olabilir mi? Zaten Allah, zulme gömülmüş bir topluluğa asla rehberliğini bahşetmez."
+  },
+  {
+   "verseNo": 7,
+   "source": "esed",
+   "text": "(Yalnızca) Allah´a teslim olması istendiği halde Allah(ın mesajı) hakkında (böyle) yalanlar uydurandan daha zalim kim olabilir? Ama Allah zalim halka rehberliğini bağışlamaz"
+  },
+  {
+   "verseNo": 8,
+   "source": "diyanet",
+   "text": "Onlar ağızlarıyla Allah'ın nurunu söndürmek istiyorlar. Halbuki kafirler istemeseler de Allah nurunu tamamlayacaktır."
+  },
+  {
+   "verseNo": 8,
+   "source": "okuyan",
+   "text": "Onlar Allah’ın nurunu (ışığını/Kur’an’ı) ağızlarıyla söndürmek istiyorlar. Kâfirler istemeseler de Allah nurunu (Kur’an’ı) tamamlayıcıdır."
+  },
+  {
+   "verseNo": 8,
+   "source": "islamoglu",
+   "text": "Onlar Allah’ın (hidayet) nurunu üfürükleriyle söndürmek için can atıyorlar; kâfirler istemese de Allah nurunu tamamlayacaktır."
+  },
+  {
+   "verseNo": 8,
+   "source": "esed",
+   "text": "Onlar Allah´ın nurunu boş laflarıyla söndürmek isterler ama Allah, hakikati inkar edenler ne kadar öfkelenseler de, nurunu bütün parlaklığıyla yaymaya devam edecektir"
+  },
+  {
+   "verseNo": 9,
+   "source": "diyanet",
+   "text": "O, kendisine ortak koşanlar hoşlanmasa da, dinini bütün dinlere üstün kılmak için peygamberini hidayet ve hak din ile gönderendir."
+  },
+  {
+   "verseNo": 9,
+   "source": "okuyan",
+   "text": "Müşrikler istemese de (dinini) bütün din(ler)e üstün kılmak için Elçisini bir rehber ve gerçek din ile gönderen O’dur."
+  },
+  {
+   "verseNo": 9,
+   "source": "islamoglu",
+   "text": "Allah’tan başkasına ilâhlık yakıştıranlar hoşlanmasa da O, Elçi’sini hidayet (kitabı Kur’an) ve hak dini tebliğ ile görevlendirmiştir ki, böylece Hak dini diğer tüm dinlere üstün kılsın."
+  },
+  {
+   "verseNo": 9,
+   "source": "esed",
+   "text": "Allah´tan başka şeylere ilahlık yakıştıranlar ne kadar öfkelense de, elçisini, bütün (batıl) dinlere üstün kılmak üzere rehberliği ve hakikat dinini yaymak (görevi) ile gönderen O´dur"
+  },
+  {
+   "verseNo": 10,
+   "source": "diyanet",
+   "text": "Ey iman edenler! Sizi elem dolu bir azaptan kurtaracak bir ticaret göstereyim mi size?"
+  },
+  {
+   "verseNo": 10,
+   "source": "okuyan",
+   "text": "Ey iman edenler! Sizi elem verici bir azaptan kurtaracak ticaret (yolunu) size göstereyim mi?"
+  },
+  {
+   "verseNo": 10,
+   "source": "islamoglu",
+   "text": "SİZ ey iman edenler! Sizi elem vericibir azaptan kurtaracak bir alışverişe yönlendireyim mi?"
+  },
+  {
+   "verseNo": 10,
+   "source": "esed",
+   "text": "Siz ey imana ermiş olanlar! (Hem bu dünyada hem de öteki dünyada) şiddetli bir azaptan sizi koruyacak bir alışveriş göstereyim mi size"
+  },
+  {
+   "verseNo": 11,
+   "source": "diyanet",
+   "text": "Allah'a ve peygamberine inanır, mallarınızla ve canlarınızla Allah yolunda cihat edersiniz. Eğer bilirseniz, bu sizin için çok hayırlıdır."
+  },
+  {
+   "verseNo": 11,
+   "source": "okuyan",
+   "text": "Allah’a ve Elçisine inanıp güvenirsiniz; mallarınızla ve canlarınızla Allah yolunda cihad edersiniz (fedakârlık yaparsınız). Bilirseniz bu, sizin için hayırlı olandır."
+  },
+  {
+   "verseNo": 11,
+   "source": "islamoglu",
+   "text": "Allah’a ve Elçi’sine güvenirsiniz, Allah dâvâsı uğrunda mallarınızla ve canlarınızla cihad edersiniz: böyle yapmanız sizin için daha hayırlıdır; tabi ki eğer bilgiyle (hareket) ederseniz."
+  },
+  {
+   "verseNo": 11,
+   "source": "esed",
+   "text": "Allah´a ve Peygamberi´ne inanır ve Allah yolunda malınız ve canınızla gayret gösterirsiniz; bu sizin kendi iyiliğinizedir, keşke bilseydiniz"
+  },
+  {
+   "verseNo": 12,
+   "source": "diyanet",
+   "text": "(Bunu yapınız ki) Allah, günahlarınızı bağışlasın, sizi içinden ırmaklar akan cennetlere ve Adn cennetlerindeki güzel meskenlere koysun. İşte bu büyük başarıdır."
+  },
+  {
+   "verseNo": 12,
+   "source": "okuyan",
+   "text": "O, günahlarınızı bağışlar; sizi altlarından ırmaklar akan cennetlere, durmaya değer cennetlerdeki güzel meskenlere yerleştirir. İşte bu, büyük kurtuluştur."
+  },
+  {
+   "verseNo": 12,
+   "source": "islamoglu",
+   "text": "(Böyle yaparsanız) O sizin günahlarınızı bağışlayacak ve sizi zemininden ırmakların aktığı cennetlere koyacaktır; kalıcı güzelliğin merkezi olan cennetlerdeki tarifsiz huzur köşklerine: işte gerçek büyük başarı budur!"
+  },
+  {
+   "verseNo": 12,
+   "source": "esed",
+   "text": "(Eğer böyle yaparsanız,) Allah günahlarınızı bağışlayacak ve sizi (öteki dünyada) içinden ırmaklar akan bahçelere ve bu sonsuz mutluluk bahçelerindeki güzel köşklere koyacaktır. Bu büyük bir mazhariyettir"
+  },
+  {
+   "verseNo": 13,
+   "source": "diyanet",
+   "text": "Seveceğiniz başka bir kazanç daha var: Allah'tan bir yardım ve yakın bir fetih (Mekke'nin fethi). (Ey Muhammed!) Mü'minleri müjdele!"
+  },
+  {
+   "verseNo": 13,
+   "source": "okuyan",
+   "text": "Seveceğiniz başka (bir ticaret) daha var: Allah’tan yardım ve yakın bir zafer. Müminleri (bunlarla) da müjdele!"
+  },
+  {
+   "verseNo": 13,
+   "source": "islamoglu",
+   "text": "Ve kendisiyle sevineceğiniz bir şey daha var: Allah’tan bir yardım ve görünen bir zafer. Artık mü’minlere müjde ver!"
+  },
+  {
+   "verseNo": 13,
+   "source": "esed",
+   "text": "Ve (bakın, Allah size) gönülden seveceğiniz başka bir şey daha (bağışlayacak): (bu dünyada) Allah´ın yardımı ve yakında gerçekleşecek bir zafer; (ey Peygamber, bunu) bütün inananlara müjdele"
+  },
+  {
+   "verseNo": 14,
+   "source": "diyanet",
+   "text": "Ey iman edenler! Allah'ın yardımcıları olun. Nasıl ki Meryem oğlu İsa da havarilere, \"Allah'a giden yolda benim yardımcılarım kimdir?\" demişti. Havariler de, \"Biz Allah'ın yardımcılarıyız\" demişlerdi. Bunun üzerine İsrailoğullarından bir kesim inanmış, bir kesim de inkar etmişti. Nihayet biz inananları, düşmanlarına karşı destekledik. Böylece üstün geldiler."
+  },
+  {
+   "verseNo": 14,
+   "source": "okuyan",
+   "text": "Ey iman edenler! Allah’ın (yolunun) yardımcıları olun! Nitekim Meryem oğlu İsa, Havarilere “Allah’a doğru (giden yolda) kim bana yardımcı olacak?” demişti. Havariler de “Biz Allah’ın (yolunun) yardımcılarıyız!” demişlerdi.İsrailoğulları’ndan bir grup inanmış, bir grup ise inkâr etmişti. Sonunda biz, inananları düşmanlarına karşı desteklemiştik. Böylece galip gelmişlerdi."
+  },
+  {
+   "verseNo": 14,
+   "source": "islamoglu",
+   "text": "SİZ ey iman edenler! Allah’ın destekçileri olun! Tıpkı Meryem oğlu İsa’nın, havarilerine “Allah’a giden yolda kim bana var gücüyle destek olur?” deyince, havarilerin “Biziz Allah dâvâsının gönüllü destekçileri!” demeleri gibi… Nitekim İsrâiloğullarından bir gurup (ona) inandı, bir gurup da inkâr etti. Bunun üzerine Biz de iman edenleri düşmanlarına karşı dirençli kıldık: Sonunda galip gelenler onlar oldu."
+  },
+  {
+   "verseNo": 14,
+   "source": "esed",
+   "text": "Siz ey imana ermiş olanlar! Meryem oğlu İsa gibi, siz de Allah´ın (davasının) hizmetçileri olun! Hani o, beyaz giysililere, \"Kim Allah(ın davası) uğrunda benim yardımcılarım olacak?\" diye sormuştu. Bunun üzerine beyaz giysili (havari)ler \"Allah (yolunda) yardımcılar(ın) biz olacağız!\" diye cevap vermişlerdi. Ve böylece İsrailoğulları´ndan bir kısmı (İsa´nın peygamberliğine) inanmaya başladı, diğerleri ise hakikati inkar ettiler. Ama (şimdi) Biz, (gerçekten) imana kavuşmuş olanları düşmanlarına karşı koruyup destekledik ve onlar üstün gelenlerden oldular"
+  },
+  {
+   "verseNo": 1,
+   "verseNoEnd": null,
+   "source": "ai",
+   "text": "Göklerde ve yerde olan her şey Allah'ı tesbih eder. O, güçlü ve hikmet sahibidir."
+  },
+  {
+   "verseNo": 2,
+   "verseNoEnd": null,
+   "source": "ai",
+   "text": "Ey iman edenler! Yapmadığınız şeyi neden söylüyorsunuz?"
+  },
+  {
+   "verseNo": 3,
+   "verseNoEnd": null,
+   "source": "ai",
+   "text": "Söyleyip de yapmamanız Allah katında büyük bir tiksintidir."
+  },
+  {
+   "verseNo": 4,
+   "verseNoEnd": null,
+   "source": "ai",
+   "text": "Allah, yolunda safta savaşanları sever; sanki birbirine sımsıkı kenetlenmiş bir bina gibidirler."
+  },
+  {
+   "verseNo": 5,
+   "verseNoEnd": null,
+   "source": "ai",
+   "text": "Musa kavmine dedi ki: “Ey kavmim, beni neden incitiyorsunuz? Bilirsiniz ki ben size Allah'ın elçisiyim.” Onlar sapınca Allah kalplerini saptırdı. Allah, isyan eden topluluğu doğru yola erdirmez."
+  },
+  {
+   "verseNo": 6,
+   "verseNoEnd": null,
+   "source": "ai",
+   "text": "Meryem oğlu Îsâ dedi ki: “Ey İsrail oğulları, ben sizin için Allah'ın elçisiyim; benden önceki Tevrat'ı doğrulayan ve benden sonra gelecek, adı Ahmed olan bir elçinin müjdecisiyim.” O, apaçık delillerle onlara gelince dediler ki: “Bu apaçık bir sihirdir.”"
+  },
+  {
+   "verseNo": 7,
+   "verseNoEnd": null,
+   "source": "ai",
+   "text": "Allah hakkında yalan uyduran ve İslam'a çağrılırken buna rağmen onu reddeden kimden daha zalim olabilir? Allah zalimleri doğru yola erdirmez."
+  },
+  {
+   "verseNo": 8,
+   "verseNoEnd": null,
+   "source": "ai",
+   "text": "Ağızlarıyla Allah'ın nurunu söndürmek isterler; Allah nurunu tamamlayandır; kâfirler istemese de."
+  },
+  {
+   "verseNo": 9,
+   "verseNoEnd": null,
+   "source": "ai",
+   "text": "O, elçisini hidayet ve hakkın diniyle gönderendir ki onu bütün din üzerinde üstün kılsın; müşrikler istemese de."
+  },
+  {
+   "verseNo": 10,
+   "verseNoEnd": null,
+   "source": "ai",
+   "text": "Ey iman edenler! Size, sizi şiddetli bir azaptan kurtaracak bir ticareti göstereyim mi?"
+  },
+  {
+   "verseNo": 11,
+   "verseNoEnd": null,
+   "source": "ai",
+   "text": "Allah'a ve peygamberine iman eder, Allah yolunda mallarınızla ve canlarınızla mücadele edersiniz; bu, sizin için daha hayırlıdır, eğer bilirsiniz."
+  },
+  {
+   "verseNo": 12,
+   "verseNoEnd": null,
+   "source": "ai",
+   "text": "Günahlarınızı bağışlar ve sizi altından nehirler akan cennetlere ve ebedî cennetlerde güzel konutlara koyar. İşte bu büyük kurtuluştur."
+  },
+  {
+   "verseNo": 13,
+   "verseNoEnd": null,
+   "source": "ai",
+   "text": "Ve başka birini seversiniz: Allah'tan bir yardım ve yakın bir fetih. Müminleri müjdele."
+  },
+  {
+   "verseNo": 14,
+   "verseNoEnd": null,
+   "source": "ai",
+   "text": "Ey iman edenler! Allah'ın yardımcıları olun, tıpkı İsa, Meryem oğlu'nun havarilerine dediği gibi: “Benim Allah yolundaki yardımcılarım kimdir?” Havariler: “Biz Allah'ın yardımcılarıyız” dediler. Bunun üzerine İsrailoğullarından bir grup iman etti, bir grup inkar etti. Biz iman edenleri düşmanlarına karşı destekledik; böylece onlar açıkça üstün oldular."
+  }
+ ],
+ "aiParagraph": "Söylediğin şeyi yapıp yapmadığın, bu metnin en sert ve en doğrudan açtığı yaradır: Neden söylediklerini yapmıyorsun? Bu soru havada asılı kalıyor, çünkü metin hemen ardından aynı sorunun tarihsel yankısını getiriyor — Musa'nın \"beni neden incitiyorsunuz, biliyorsunuz ki size gönderildim\" çaresizliği, İsa'nın \"benden sonra gelecek\" müjdesinin \"bu büyü\" diye reddedilmesi. Bir şeyi kabul etmemek için akla gelen her bahanenin bu kadar eski olduğunu görmek tuhaf bir his bırakıyor. Metin, bu reddin bir anda değil yavaş yavaş gerçekleştiğini de söylüyor: önce sapma, sonra kalbin o yönde katılaşması. Öte yandan metnin içinde beklenmedik bir alışveriş teklifi var — kişinin hem malını hem kendini ortaya koyduğu, karşılığında büyük bir kurtuluş ve yakın bir zafer vaat edilen bir takas. Ama metnin belki de en ağır imgesi şu: Ağzıyla bir ışığı söndürmeye çalışmak. Kim ne kadar uğraşırsa uğraşsın, ışık tamamlanıyor. Ve İsa'nın havarilere sorduğu soru — \"Allah yolunda kim benim yanımda?\" — bütün bu anlatının üzerinde asılı kalıyor; çünkü o soruya \"biz\" diyenler kazandı, susmayı seçenler tarihin dışında kaldı."
 }

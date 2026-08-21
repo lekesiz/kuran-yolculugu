@@ -1,1234 +1,1464 @@
 {
-  "stationNo": 53,
-  "surahNo": 79,
-  "name": "Nâziât",
-  "nameArabic": "",
-  "nameMeaning": "",
-  "verseCount": 46,
-  "nuzulOrderOkuyan": 48,
-  "periodDiyanet": "Mekke",
-  "periodOkuyan": "Mekke",
-  "revelationTiming": "",
-  "stationTitle": "İkisi de içinde: bozma da, arınma da.",
-  "introduction": "Nâziât suresi, adını ilk ayetinde geçen ve 'şiddetle çekip alanlar' anlamına gelen 'nâziât' kelimesinden alır. Kırk altı ayetten oluşan bu sure, Mekke döneminin sonlarında inmiştir. Surenin temel ekseni, kıyametin kopuşu, diriliş gerçeği ve insanın bu dünyadaki tercihlerinin ahiretteki karşılığıdır.\n\nSure, yemin ifadeleriyle başlar ve bu yeminler, evrendeki ilahi düzenin işleyişine dikkat çeker. Ardından, kıyametin sarsıcı sahneleri tasvir edilir ve inkârcıların dirilişi alaya alan tavırlarına değinilir. Surenin devamında, Hz. Musa ile Firavun arasındaki mücadele anlatılarak, kibrin ve ilahi sınırları aşmanın getirdiği feci son gözler önüne serilir.\n\nSurenin son bölümünde ise, evrenin yaratılışındaki muazzam düzene işaret edilerek, yeniden dirilişin Allah için ne kadar kolay olduğu vurgulanır. Kıyamet saatinin ne zaman geleceği sorusuna, bu bilginin yalnızca Allah'a ait olduğu cevabı verilir ve insanın asıl odaklanması gerekenin, o gün gelmeden önce sorumluluk bilinciyle yaşamak olduğu hatırlatılır.",
-  "occasionOfRevelation": "Nâziât suresi, Mekke döneminin sonlarında, Müslümanların müşrikler tarafından yoğun baskı ve zulme maruz kaldığı bir süreçte inmiştir. Bu dönemde, Mekkeli müşrikler ahiret inancını şiddetle reddediyor, çürümüş kemiklerin yeniden diriltileceği fikrini alaya alıyorlardı.\n\nSurenin nüzul sebebi olarak belirli ve tek bir olaydan ziyade, Mekke toplumunun genel inkârcı tutumu ve dirilişi imkânsız görmeleri gösterilir. Müşriklerin, 'Biz çürümüş kemikler haline geldikten sonra mı diriltileceğiz?' şeklindeki alaycı sorularına karşı, sure evrendeki yaratılış delillerini sunarak cevap verir.\n\nKaynaklarda surenin nüzul yılı ile ilgili kesin bir tarih verilmemekle birlikte, genel kabul Mekke döneminin sonlarına doğru indiği yönündedir. Surenin içerdiği Firavun kıssası da, Mekkeli zorbalara üstü kapalı bir uyarı niteliği taşır; gücüne güvenerek ilahi mesaja karşı çıkanların sonunun hüsran olacağı mesajını verir.",
-  "occasionSources": "TDV İslâm Ansiklopedisi, \"Nâziât Sûresi\" maddesi; Diyanet İşleri Başkanlığı Kur'an Yolu Tefsiri, Nâziât 1-5 ayet tefsiri; kuranokuyan.com, Nâziât suresi girişi (Prof. Dr. Mehmet Okuyan).",
-  "keyTerms": [
-    {
-      "term": "nâziât",
-      "arabic": "نَازِعَات",
-      "verseRef": "79:1",
-      "meaning": "Şiddetle söküp çıkaranlar. Ayette, ruhları bedenlerden ayıran melekler veya evrendeki çekim kuvvetleri anlamında kullanılır."
-    },
-    {
-      "term": "tâmme",
-      "arabic": "طَامَّة",
-      "verseRef": "79:34",
-      "meaning": "Her şeyi kuşatan, baskın gelen büyük felâket. Ayette, kıyamet gününün dehşetini ifade eder."
-    },
-    {
-      "term": "sâhire",
-      "arabic": "سَاهِرَة",
-      "verseRef": "79:14",
-      "meaning": "Uykusuz kalınan yer, mahşer meydanı. İnsanların diriltilip toplanacağı alanı tanımlar."
-    },
-    {
-      "term": "tuğyân",
-      "arabic": "طُغْيَان",
-      "verseRef": "79:17",
-      "meaning": "Sınırı aşmak, azgınlık etmek. Firavun'un ilahi otoriteyi reddedip kendini ilahlaştırmasını ifade eder."
-    },
-    {
-      "term": "hevâ",
-      "arabic": "هَوَى",
-      "verseRef": "79:40",
-      "meaning": "Nefsin aşırı ve temelsiz arzuları. İnsanı hakikatten saptıran bencil istekleri tanımlar."
-    }
-  ],
-  "themes": [
-    {
-      "label": "Kibrin Yıkıcılığı",
-      "body": "Firavun örneği üzerinden, insanın güce ve makama güvenerek sınırlarını aşmasının, eninde sonunda kendi felaketini hazırlayacağı gerçeği vurgulanır."
-    },
-    {
-      "label": "Sorumluluk Bilinci",
-      "body": "Kıyametin ne zaman kopacağından ziyade, insanın o güne nasıl hazırlandığı ve nefsani arzularına karşı nasıl bir duruş sergilediği öne çıkarılır."
-    },
-    {
-      "label": "Evrendeki Düzen ve Diriliş",
-      "body": "Gökyüzünün ve yeryüzünün yaratılışındaki ihtişam, insanın yeniden yaratılmasının Allah için zor olmadığına dair somut bir delil olarak sunulur."
-    }
-  ],
-  "questions": [
-    "Sahip olduğum güç, makam veya imkânlar, beni başkalarına karşı kibre ve sınırları aşmaya sürüklüyor mu?",
-    "Hayatımı yönlendiren temel motivasyon, ilahi rızaya uygun yaşamak mı, yoksa anlık heveslerimin peşinden gitmek mi?"
-  ],
-  "contemporaryMeaning": "Bu sure, insanın kendi sınırlarını unutarak mutlak bir kontrol vehmine kapılmasının yarattığı körlüğü ele alır. Temel mesele, elindeki gücü ve imkânları bir ayrıcalık değil, bir tahakküm aracına dönüştüren insanın, kendi kurduğu yapay hiyerarşiler içinde tanrılaşma eğilimidir. İnsan, doğaya ve diğer insanlara hükmedebildiğini gördükçe, kendi sonluluğunu inkâr eden bir kibre sürüklenir.\n\nBugünün diliyle: Algoritmalarla kitlelerin tüketim alışkanlıklarını yönlendiren bir teknoloji şirketinin, devasa bütçelerle ekolojik yıkıma yol açan bir endüstrinin veya çalışanlarını sadece birer veri noktası olarak gören bir yönetim anlayışının temelinde aynı kontrol saplantısı yatar. Kredi borçlarıyla insanları sisteme bağımlı kılan ekonomik yapılar veya sosyal medyada ulaşılan takipçi sayısıyla başkalarını yargılama hakkını kendinde bulan bireysel kibir, metnin işaret ettiği o kadim sınır ihlalinin güncel formlarıdır.\n\nKendi arzularını tek geçerli yasa kabul eden bu yaklaşım, evrenin devasa ölçeği karşısında insanın ne kadar kırılgan bir varlık olduğunu unutturur. Mesele, sistemlerin veya gezegenin ne zaman çökeceği değil, insanın kendi elleriyle inşa ettiği ve mutlak sandığı bu iktidar alanlarının, aslında onun en büyük yanılgısı olmasıdır. İnsan, her şeyi kontrol edebileceğini sanırken, kendi hırslarının esiri haline gelir.",
-  "scholarlyNotes": [
-    {
-      "kind": "rivayet",
-      "body": "TDV İslâm Ansiklopedisi'nde belirtildiğine göre, 'Allah, Ve'n-Nâziât sûresini okuyan kimseyi kabrinde ve kıyamet gününde farz bir namazı kılacak kadar tuttuktan sonra cennete koyar' meâlindeki hadis mevzûdur (uydurmadır).",
-      "label": "Surenin Fazileti Hakkındaki Uydurma Hadis"
-    },
-    {
-      "kind": "nuans",
-      "body": "Diyanet Kur'an Yolu Tefsiri'nde, ilk ayetlerde üzerine yemin edilen varlıkların melekler, insanların ruhları, gaziler veya yıldızlar olabileceği şeklinde farklı yorumlar aktarılmaktadır. Prof. Dr. Mehmet Okuyan ise bu yeminlerin 'vahiy' ve 'Kur'an ayetleri' ile ilişkili olabileceği görüşünü de öne sürmektedir.",
-      "label": "İlk Ayetlerdeki Yeminlerin Yorumu"
-    }
-  ],
-  "verses": [
-    {
-      "verseNo": 1,
-      "textArabic": "بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ وَٱلنَّٰزِعَٰتِ غَرْقًۭا"
-    },
-    {
-      "verseNo": 2,
-      "textArabic": "وَٱلنَّٰشِطَٰتِ نَشْطًۭا"
-    },
-    {
-      "verseNo": 3,
-      "textArabic": "وَٱلسَّٰبِحَٰتِ سَبْحًۭا"
-    },
-    {
-      "verseNo": 4,
-      "textArabic": "فَٱلسَّٰبِقَٰتِ سَبْقًۭا"
-    },
-    {
-      "verseNo": 5,
-      "textArabic": "فَٱلْمُدَبِّرَٰتِ أَمْرًۭا"
-    },
-    {
-      "verseNo": 6,
-      "textArabic": "يَوْمَ تَرْجُفُ ٱلرَّاجِفَةُ"
-    },
-    {
-      "verseNo": 7,
-      "textArabic": "تَتْبَعُهَا ٱلرَّادِفَةُ"
-    },
-    {
-      "verseNo": 8,
-      "textArabic": "قُلُوبٌۭ يَوْمَئِذٍۢ وَاجِفَةٌ"
-    },
-    {
-      "verseNo": 9,
-      "textArabic": "أَبْصَٰرُهَا خَٰشِعَةٌۭ"
-    },
-    {
-      "verseNo": 10,
-      "textArabic": "يَقُولُونَ أَءِنَّا لَمَرْدُودُونَ فِى ٱلْحَافِرَةِ"
-    },
-    {
-      "verseNo": 11,
-      "textArabic": "أَءِذَا كُنَّا عِظَٰمًۭا نَّخِرَةًۭ"
-    },
-    {
-      "verseNo": 12,
-      "textArabic": "قَالُوا۟ تِلْكَ إِذًۭا كَرَّةٌ خَاسِرَةٌۭ"
-    },
-    {
-      "verseNo": 13,
-      "textArabic": "فَإِنَّمَا هِىَ زَجْرَةٌۭ وَٰحِدَةٌۭ"
-    },
-    {
-      "verseNo": 14,
-      "textArabic": "فَإِذَا هُم بِٱلسَّاهِرَةِ"
-    },
-    {
-      "verseNo": 15,
-      "textArabic": "هَلْ أَتَىٰكَ حَدِيثُ مُوسَىٰٓ"
-    },
-    {
-      "verseNo": 16,
-      "textArabic": "إِذْ نَادَىٰهُ رَبُّهُۥ بِٱلْوَادِ ٱلْمُقَدَّسِ طُوًى"
-    },
-    {
-      "verseNo": 17,
-      "textArabic": "ٱذْهَبْ إِلَىٰ فِرْعَوْنَ إِنَّهُۥ طَغَىٰ"
-    },
-    {
-      "verseNo": 18,
-      "textArabic": "فَقُلْ هَل لَّكَ إِلَىٰٓ أَن تَزَكَّىٰ"
-    },
-    {
-      "verseNo": 19,
-      "textArabic": "وَأَهْدِيَكَ إِلَىٰ رَبِّكَ فَتَخْشَىٰ"
-    },
-    {
-      "verseNo": 20,
-      "textArabic": "فَأَرَىٰهُ ٱلْءَايَةَ ٱلْكُبْرَىٰ"
-    },
-    {
-      "verseNo": 21,
-      "textArabic": "فَكَذَّبَ وَعَصَىٰ"
-    },
-    {
-      "verseNo": 22,
-      "textArabic": "ثُمَّ أَدْبَرَ يَسْعَىٰ"
-    },
-    {
-      "verseNo": 23,
-      "textArabic": "فَحَشَرَ فَنَادَىٰ"
-    },
-    {
-      "verseNo": 24,
-      "textArabic": "فَقَالَ أَنَا۠ رَبُّكُمُ ٱلْأَعْلَىٰ"
-    },
-    {
-      "verseNo": 25,
-      "textArabic": "فَأَخَذَهُ ٱللَّهُ نَكَالَ ٱلْءَاخِرَةِ وَٱلْأُولَىٰٓ"
-    },
-    {
-      "verseNo": 26,
-      "textArabic": "إِنَّ فِى ذَٰلِكَ لَعِبْرَةًۭ لِّمَن يَخْشَىٰٓ"
-    },
-    {
-      "verseNo": 27,
-      "textArabic": "ءَأَنتُمْ أَشَدُّ خَلْقًا أَمِ ٱلسَّمَآءُ ۚ بَنَىٰهَا"
-    },
-    {
-      "verseNo": 28,
-      "textArabic": "رَفَعَ سَمْكَهَا فَسَوَّىٰهَا"
-    },
-    {
-      "verseNo": 29,
-      "textArabic": "وَأَغْطَشَ لَيْلَهَا وَأَخْرَجَ ضُحَىٰهَا"
-    },
-    {
-      "verseNo": 30,
-      "textArabic": "وَٱلْأَرْضَ بَعْدَ ذَٰلِكَ دَحَىٰهَآ"
-    },
-    {
-      "verseNo": 31,
-      "textArabic": "أَخْرَجَ مِنْهَا مَآءَهَا وَمَرْعَىٰهَا"
-    },
-    {
-      "verseNo": 32,
-      "textArabic": "وَٱلْجِبَالَ أَرْسَىٰهَا"
-    },
-    {
-      "verseNo": 33,
-      "textArabic": "مَتَٰعًۭا لَّكُمْ وَلِأَنْعَٰمِكُمْ"
-    },
-    {
-      "verseNo": 34,
-      "textArabic": "فَإِذَا جَآءَتِ ٱلطَّآمَّةُ ٱلْكُبْرَىٰ"
-    },
-    {
-      "verseNo": 35,
-      "textArabic": "يَوْمَ يَتَذَكَّرُ ٱلْإِنسَٰنُ مَا سَعَىٰ"
-    },
-    {
-      "verseNo": 36,
-      "textArabic": "وَبُرِّزَتِ ٱلْجَحِيمُ لِمَن يَرَىٰ"
-    },
-    {
-      "verseNo": 37,
-      "textArabic": "فَأَمَّا مَن طَغَىٰ"
-    },
-    {
-      "verseNo": 38,
-      "textArabic": "وَءَاثَرَ ٱلْحَيَوٰةَ ٱلدُّنْيَا"
-    },
-    {
-      "verseNo": 39,
-      "textArabic": "فَإِنَّ ٱلْجَحِيمَ هِىَ ٱلْمَأْوَىٰ"
-    },
-    {
-      "verseNo": 40,
-      "textArabic": "وَأَمَّا مَنْ خَافَ مَقَامَ رَبِّهِۦ وَنَهَى ٱلنَّفْسَ عَنِ ٱلْهَوَىٰ"
-    },
-    {
-      "verseNo": 41,
-      "textArabic": "فَإِنَّ ٱلْجَنَّةَ هِىَ ٱلْمَأْوَىٰ"
-    },
-    {
-      "verseNo": 42,
-      "textArabic": "يَسْـَٔلُونَكَ عَنِ ٱلسَّاعَةِ أَيَّانَ مُرْسَىٰهَا"
-    },
-    {
-      "verseNo": 43,
-      "textArabic": "فِيمَ أَنتَ مِن ذِكْرَىٰهَآ"
-    },
-    {
-      "verseNo": 44,
-      "textArabic": "إِلَىٰ رَبِّكَ مُنتَهَىٰهَآ"
-    },
-    {
-      "verseNo": 45,
-      "textArabic": "إِنَّمَآ أَنتَ مُنذِرُ مَن يَخْشَىٰهَا"
-    },
-    {
-      "verseNo": 46,
-      "textArabic": "كَأَنَّهُمْ يَوْمَ يَرَوْنَهَا لَمْ يَلْبَثُوٓا۟ إِلَّا عَشِيَّةً أَوْ ضُحَىٰهَا"
-    }
-  ],
-  "translations": [
-    {
-      "verseNo": 1,
-      "verseNoEnd": null,
-      "source": "ai",
-      "text": "Şiddetle çekenler"
-    },
-    {
-      "verseNo": 1,
-      "source": "diyanet",
-      "text": "Andolsun (kâfirlerin ruhlarını) şiddetle çekip çıkaranlara,"
-    },
-    {
-      "verseNo": 1,
-      "source": "esed",
-      "text": "Düşün bu (yıldız)ları, batmak üzere yükselen"
-    },
-    {
-      "verseNo": 1,
-      "source": "okuyan",
-      "text": "Yemin olsun: Söküp çıkaranlara,"
-    },
-    {
-      "verseNo": 2,
-      "verseNoEnd": null,
-      "source": "ai",
-      "text": "Hızla çalışanlar"
-    },
-    {
-      "verseNo": 2,
-      "source": "diyanet",
-      "text": "Andolsun (mü'minlerin ruhlarını) kolaylıkla alanlara,"
-    },
-    {
-      "verseNo": 2,
-      "source": "esed",
-      "text": "ve (yörüngelerinde) istikrarlı şekilde hareket eden"
-    },
-    {
-      "verseNo": 2,
-      "source": "okuyan",
-      "text": "Kolayca çekenlere,"
-    },
-    {
-      "verseNo": 3,
-      "verseNoEnd": null,
-      "source": "ai",
-      "text": "Yüzerek ilerleyenler"
-    },
-    {
-      "verseNo": 3,
-      "source": "diyanet",
-      "text": "Andolsun yüzüp yüzüp gidenlere,"
-    },
-    {
-      "verseNo": 3,
-      "source": "esed",
-      "text": "ve (uzayda) sakin sakin yüzen"
-    },
-    {
-      "verseNo": 3,
-      "source": "okuyan",
-      "text": "Yüzdükçe yüzenlere,"
-    },
-    {
-      "verseNo": 4,
-      "verseNoEnd": null,
-      "source": "ai",
-      "text": "Öne geçenler"
-    },
-    {
-      "verseNo": 4,
-      "source": "diyanet",
-      "text": "Derken, öne geçenlere,"
-    },
-    {
-      "verseNo": 4,
-      "source": "esed",
-      "text": "ve hızlı şekilde (birbirini) izleyen"
-    },
-    {
-      "verseNo": 4,
-      "source": "okuyan",
-      "text": "Yarışıp geçenlere,"
-    },
-    {
-      "verseNo": 5,
-      "verseNoEnd": null,
-      "source": "ai",
-      "text": "İşleri düzenleyenler"
-    },
-    {
-      "verseNo": 5,
-      "source": "diyanet",
-      "text": "Nihayet işi çekip çevirenlere (ki, mutlaka tekrar diriltileceksiniz)."
-    },
-    {
-      "verseNo": 5,
-      "source": "esed",
-      "text": "böylece (Yaratıcı´nın) buyruğunu yerine getiren"
-    },
-    {
-      "verseNo": 5,
-      "source": "okuyan",
-      "text": "İşleri düzenleyenlere ki"
-    },
-    {
-      "verseNo": 6,
-      "verseNoEnd": null,
-      "source": "ai",
-      "text": "Sarsıntının titreyeceği gün"
-    },
-    {
-      "verseNo": 6,
-      "source": "diyanet",
-      "text": "Büyük bir sarsıntının olacağı o günde o sarsıntıyı, peşinden gelen başka bir sarsıntı izleyecektir."
-    },
-    {
-      "verseNo": 6,
-      "source": "esed",
-      "text": "(O halde, düşün) şiddetli bir sarsıntının (dünyayı) sarstığı Gün(ü)"
-    },
-    {
-      "verseNo": 6,
-      "source": "okuyan",
-      "text": "O gün o sarsıcı (deprem) sarsacak."
-    },
-    {
-      "verseNo": 7,
-      "verseNoEnd": null,
-      "source": "ai",
-      "text": "Onu takip eden sarsıntı"
-    },
-    {
-      "verseNo": 7,
-      "source": "diyanet",
-      "text": "Büyük bir sarsıntının olacağı o günde o sarsıntıyı, peşinden gelen başka bir sarsıntı izleyecektir."
-    },
-    {
-      "verseNo": 7,
-      "source": "esed",
-      "text": "daha büyük (sarsıntı)ların ardından geleceği (Günü)"
-    },
-    {
-      "verseNo": 7,
-      "source": "okuyan",
-      "text": "(Ardından onu) artçısı takip edecek."
-    },
-    {
-      "verseNo": 8,
-      "verseNoEnd": null,
-      "source": "ai",
-      "text": "O gün titreyen kalpler"
-    },
-    {
-      "verseNo": 8,
-      "source": "diyanet",
-      "text": "O gün birtakım kalpler (tedirginlik içinde) şiddetle çarpacaktır."
-    },
-    {
-      "verseNo": 8,
-      "source": "esed",
-      "text": "O Gün (insanların) kalpleri titreyerek çarpacak"
-    },
-    {
-      "verseNo": 8,
-      "source": "okuyan",
-      "text": "Kalpler o gün (korkudan) titreyecek."
-    },
-    {
-      "verseNo": 9,
-      "verseNoEnd": null,
-      "source": "ai",
-      "text": "Gözleri eğilmiş"
-    },
-    {
-      "verseNo": 9,
-      "source": "diyanet",
-      "text": "Onların gözleri (korku ile) inecektir."
-    },
-    {
-      "verseNo": 9,
-      "source": "esed",
-      "text": "(ve) gözleri yere bakacak"
-    },
-    {
-      "verseNo": 9,
-      "source": "okuyan",
-      "text": "Gözleri (korkudan) aşağı kayacaktır."
-    },
-    {
-      "verseNo": 10,
-      "verseNoEnd": null,
-      "source": "ai",
-      "text": "Onlar söyleyecekler: Acaba biz gerçekten çukura mı geri döndürüleceğiz?"
-    },
-    {
-      "verseNo": 10,
-      "source": "diyanet",
-      "text": "Şöyle derler: \"Biz gerçekten gerisingeriye eski halimize mi döndürüleceğiz?\""
-    },
-    {
-      "verseNo": 10,
-      "source": "esed",
-      "text": "(Ama hala) bazıları: \"Ne yani!\" diyorlar, \"Biz gerçekten eski halimize mi döndürüleceğiz"
-    },
-    {
-      "verseNo": 10,
-      "source": "okuyan",
-      "text": "10-11 . (İnkarcılar) “Çürümüş kemik olduğumuz zaman mı, çukurda (mezarda) daha önceki hâlimize mi döndürüleceğiz” derler."
-    },
-    {
-      "verseNo": 11,
-      "verseNoEnd": null,
-      "source": "ai",
-      "text": "Acaba biz ufalanmış kemikler olduğumuzda mı?"
-    },
-    {
-      "verseNo": 11,
-      "source": "diyanet",
-      "text": "\"Bizler çürümüş kemiklere döndükten sonra mı?\""
-    },
-    {
-      "verseNo": 11,
-      "source": "esed",
-      "text": "çürüyen kemik (yığını) olsak bile"
-    },
-    {
-      "verseNo": 11,
-      "source": "okuyan",
-      "text": "10-11 . (İnkarcılar) “Çürümüş kemik olduğumuz zaman mı, çukurda (mezarda) daha önceki hâlimize mi döndürüleceğiz” derler."
-    },
-    {
-      "verseNo": 12,
-      "verseNoEnd": null,
-      "source": "ai",
-      "text": "Onlar: \"O zaman bu, zararlı bir dönüş olacaktır.\" derler."
-    },
-    {
-      "verseNo": 12,
-      "source": "diyanet",
-      "text": "\"Öyle ise bu hüsran dolu bir dönüştür\" dediler."
-    },
-    {
-      "verseNo": 12,
-      "source": "esed",
-      "text": "(Ve) ilave ediyorlar: \"Öyleyse bu, zararlı bir dönüş olur"
-    },
-    {
-      "verseNo": 12,
-      "source": "okuyan",
-      "text": "“O takdirde, o (diriltiliş) zararlı bir dönüş olur!” derler."
-    },
-    {
-      "verseNo": 13,
-      "verseNoEnd": null,
-      "source": "ai",
-      "text": "O aslında yalnızca tek bir çığlıktır."
-    },
-    {
-      "verseNo": 13,
-      "source": "diyanet",
-      "text": "Halbuki o, bir haykırıştan (sûr'un üfürülmesinden) ibarettir."
-    },
-    {
-      "verseNo": 13,
-      "source": "esed",
-      "text": "(Ama) o zaman, (Son Saat), bir tek çığlık (gibi ansızın onların üzerine) kopacak"
-    },
-    {
-      "verseNo": 13,
-      "source": "okuyan",
-      "text": "(Oysa) bu dönüş, tek bir ses(ten ibarettir)."
-    },
-    {
-      "verseNo": 14,
-      "verseNoEnd": null,
-      "source": "ai",
-      "text": "O zaman onlar seher vaktinde olacaklar."
-    },
-    {
-      "verseNo": 14,
-      "source": "diyanet",
-      "text": "Birdenbire kendilerini mahşerde buluverirler."
-    },
-    {
-      "verseNo": 14,
-      "source": "esed",
-      "text": "işte o zaman (hakikati) anlayacaklar"
-    },
-    {
-      "verseNo": 14,
-      "source": "okuyan",
-      "text": "Bir de bakarsın ki onlar, mahşerdedir."
-    },
-    {
-      "verseNo": 15,
-      "verseNoEnd": null,
-      "source": "ai",
-      "text": "Sana Mûsâ'nın haberi ulaşmış mı?"
-    },
-    {
-      "verseNo": 15,
-      "source": "diyanet",
-      "text": "(Ey Muhammed!) Mûsâ'nın haberi sana geldi mi?"
-    },
-    {
-      "verseNo": 15,
-      "source": "esed",
-      "text": "Musa´nın kıssasından hiç haberin oldu mu"
-    },
-    {
-      "verseNo": 15,
-      "source": "okuyan",
-      "text": "Musa’nın haberi sana geldi, (değil) mi?"
-    },
-    {
-      "verseNo": 16,
-      "verseNoEnd": null,
-      "source": "ai",
-      "text": "Rabbi onu mukaddes vadi Tû'da seslendiği zaman."
-    },
-    {
-      "verseNo": 16,
-      "source": "diyanet",
-      "text": "Hani, Rabbi ona mukaddes Tuvâ vadisinde şöyle seslenmişti:"
-    },
-    {
-      "verseNo": 16,
-      "source": "esed",
-      "text": "Hani kutsal bir vadide Rabbi o´na şöyle seslenmişti"
-    },
-    {
-      "verseNo": 16,
-      "source": "okuyan",
-      "text": "Hani Rabbi kutsal Tuvâ Vadisi’nde ona şöyle seslenmişti:"
-    },
-    {
-      "verseNo": 17,
-      "verseNoEnd": null,
-      "source": "ai",
-      "text": "\"Firavun'a git, çünkü o azdı\"."
-    },
-    {
-      "verseNo": 17,
-      "source": "diyanet",
-      "text": "\"Haydi Firavun'a git! Çünkü o azmıştır.\""
-    },
-    {
-      "verseNo": 17,
-      "source": "esed",
-      "text": "Sen, Firavun´a git -çünkü o hak ve adalet sınırlarını ihlal ediyor"
-    },
-    {
-      "verseNo": 17,
-      "source": "okuyan",
-      "text": "“Firavun’a git! Şüphesiz ki o iyice azdı."
-    },
-    {
-      "verseNo": 18,
-      "verseNoEnd": null,
-      "source": "ai",
-      "text": "De ki: \"Arınmak ister misin?\""
-    },
-    {
-      "verseNo": 18,
-      "source": "diyanet",
-      "text": "\"Ona de ki: İster misin (küfür ve isyanından) temizlenesin?"
-    },
-    {
-      "verseNo": 18,
-      "source": "esed",
-      "text": "ve (ona) söyle: ´Arınmaya istekli misin"
-    },
-    {
-      "verseNo": 18,
-      "source": "okuyan",
-      "text": "(Ona) de ki: Arınmak ister misin?"
-    },
-    {
-      "verseNo": 19,
-      "verseNoEnd": null,
-      "source": "ai",
-      "text": "Ve seni Rabbine yönlendireyim de O'ndan korkasın."
-    },
-    {
-      "verseNo": 19,
-      "source": "diyanet",
-      "text": "Seni Rabbine ileteyim de ona karşı derinden saygı duyup korkasın!\""
-    },
-    {
-      "verseNo": 19,
-      "source": "esed",
-      "text": "(Eğer istekliysen) o zaman seni Rabbin(i tanıma mertebesin)e ulaştıracağım ki (bundan sonra) O´nun korkusunu duyasın.´"
-    },
-    {
-      "verseNo": 19,
-      "source": "okuyan",
-      "text": "(İstiyorsan) seni Rabbine yönlendireyim. (Böylece O’na) saygı duyarsın.”"
-    },
-    {
-      "verseNo": 20,
-      "verseNoEnd": null,
-      "source": "ai",
-      "text": "Ve ona en büyük mucizeyi gösterdim."
-    },
-    {
-      "verseNo": 20,
-      "source": "diyanet",
-      "text": "Derken Mûsâ O'na en büyük mucizeyi gösterdi."
-    },
-    {
-      "verseNo": 20,
-      "source": "esed",
-      "text": "Bunun üzerine (Musa), (Firavun´a gitti ve) ona (Rabbinin rahmetinin eseri olan) büyük mucizeyi anlattı"
-    },
-    {
-      "verseNo": 20,
-      "source": "okuyan",
-      "text": "Sonunda ona en büyük ayeti (mucizeyi) göstermişti."
-    },
-    {
-      "verseNo": 21,
-      "verseNoEnd": null,
-      "source": "ai",
-      "text": "Bunun üzerine inkâr etti ve isyan etti."
-    },
-    {
-      "verseNo": 21,
-      "source": "diyanet",
-      "text": "Fakat o, Mûsâ'yı yalanladı ve isyan etti."
-    },
-    {
-      "verseNo": 21,
-      "source": "esed",
-      "text": "Ama (Firavun) o´nu yalanladı ve (hidayeti) şiddetle reddetti"
-    },
-    {
-      "verseNo": 21,
-      "source": "okuyan",
-      "text": "(Ancak Firavun, gerçeği) yalanlamış ve isyan etmişti."
-    },
-    {
-      "verseNo": 22,
-      "verseNoEnd": null,
-      "source": "ai",
-      "text": "Sonra arkasını döndü, aceleyle uzaklaştı."
-    },
-    {
-      "verseNo": 22,
-      "source": "diyanet",
-      "text": "Sonra sırt dönüp koşarak gitti."
-    },
-    {
-      "verseNo": 22,
-      "source": "esed",
-      "text": "sonra da kaba bir şekilde (Musa´ya) sırtını döndü"
-    },
-    {
-      "verseNo": 22,
-      "source": "okuyan",
-      "text": "Sonra hızlıca arkasını dönüp gitmişti."
-    },
-    {
-      "verseNo": 23,
-      "verseNoEnd": null,
-      "source": "ai",
-      "text": "Sonra toplandı ve seslendi."
-    },
-    {
-      "verseNo": 23,
-      "source": "diyanet",
-      "text": "Hemen (adamlarını) topladı ve onlara seslendi:"
-    },
-    {
-      "verseNo": 23,
-      "source": "esed",
-      "text": "daha sonra (ileri gelen adamlarını) topladı ve (halkını) çağırdı"
-    },
-    {
-      "verseNo": 23,
-      "source": "okuyan",
-      "text": "23-24 . (Yandaşlarını) toplamış, onlara seslenmiş ve demişti ki: “Ben sizin yüce rabbinizim.”"
-    },
-    {
-      "verseNo": 24,
-      "verseNoEnd": null,
-      "source": "ai",
-      "text": "Dedi: \"Ben sizin en yüce Rabbinizim.\""
-    },
-    {
-      "verseNo": 24,
-      "source": "diyanet",
-      "text": "\"Ben, sizin en yüce Rabbinizim!\" dedi."
-    },
-    {
-      "verseNo": 24,
-      "source": "esed",
-      "text": "ve onlara \"Ben sizin en yüce rabbinizim!\" dedi"
-    },
-    {
-      "verseNo": 24,
-      "source": "okuyan",
-      "text": "23-24 . (Yandaşlarını) toplamış, onlara seslenmiş ve demişti ki: “Ben sizin yüce rabbinizim.”"
-    },
-    {
-      "verseNo": 25,
-      "verseNoEnd": null,
-      "source": "ai",
-      "text": "Bunun üzerine Allah onu ahiretin ve dünyanın ibretlik cezasıyla yakaladı."
-    },
-    {
-      "verseNo": 25,
-      "source": "diyanet",
-      "text": "Allah onu, ibret verici şekilde dünya ve âhiret cezasıyla cezalandırdı."
-    },
-    {
-      "verseNo": 25,
-      "source": "esed",
-      "text": "Bunun üzerine Allah onu yakalayıp hesaba çekti (ve bunu) hem bu dünyada hem de öteki dünyada uyarıcı bir örnek yaptı"
-    },
-    {
-      "verseNo": 25,
-      "source": "okuyan",
-      "text": "(Bunun üzerine) Allah onu ahiret ve dünya azabıyla yakalamıştı."
-    },
-    {
-      "verseNo": 26,
-      "verseNoEnd": null,
-      "source": "ai",
-      "text": "Şüphesiz bunda sakınanlar için bir öğüt vardır."
-    },
-    {
-      "verseNo": 26,
-      "source": "diyanet",
-      "text": "Şüphesiz bunda Allah'tan sakınıp korkan kimseler için büyük bir ibret vardır."
-    },
-    {
-      "verseNo": 26,
-      "source": "esed",
-      "text": "Bunda, şüphesiz, (Allah´ın) ürperti ve korkusunu duyanlar için bir ibret vardır"
-    },
-    {
-      "verseNo": 26,
-      "source": "okuyan",
-      "text": "Şüphesiz ki bu (kıssa)da saygı duyacak olanlar için ibret(ler) vardır."
-    },
-    {
-      "verseNo": 27,
-      "verseNoEnd": null,
-      "source": "ai",
-      "text": "Siz mi yaratılış bakımından daha güçlüsünüz yoksa gök mü? O göğü kurdu."
-    },
-    {
-      "verseNo": 27,
-      "source": "diyanet",
-      "text": "(Ey inkarcılar!) Sizi yaratmak mı daha zor, yoksa göğü yaratmak mı? Onu Allah kurmuştur."
-    },
-    {
-      "verseNo": 27,
-      "source": "esed",
-      "text": "(Ey insanlar!) Sizi yaratmak, göğü yaratmış olan Allah için daha mı zordur"
-    },
-    {
-      "verseNo": 27,
-      "source": "okuyan",
-      "text": "Sizin yaratılışınız mı daha güçlüdür, yoksa (Allah’ın) oluşturduğu gök mü?"
-    },
-    {
-      "verseNo": 28,
-      "verseNoEnd": null,
-      "source": "ai",
-      "text": "Onun yüksekliğini artırdı ve onu düzenledi."
-    },
-    {
-      "verseNo": 28,
-      "source": "diyanet",
-      "text": "Onu yükseltmiş ve ona düzen ve âhenk vermiştir."
-    },
-    {
-      "verseNo": 28,
-      "source": "esed",
-      "text": "O, gökkubbeyi yükseltmiş ve ona gerektiği gibi biçim vermiştir"
-    },
-    {
-      "verseNo": 28,
-      "source": "okuyan",
-      "text": "(Göğün) cisimlerini yükseltmiş ve onları düzene kavuşturmuştur."
-    },
-    {
-      "verseNo": 29,
-      "verseNoEnd": null,
-      "source": "ai",
-      "text": "Gecesini kararttı ve gündüzünü ortaya çıkardı."
-    },
-    {
-      "verseNo": 29,
-      "source": "diyanet",
-      "text": "O göğün gecesini karanlık yaptı, ışığını da çıkardı."
-    },
-    {
-      "verseNo": 29,
-      "source": "esed",
-      "text": "onun gecesini karanlık yapmış ve gündüzünü aydınlatmıştır"
-    },
-    {
-      "verseNo": 29,
-      "source": "okuyan",
-      "text": "Gecesini karanlık yapmış, (gündüz) ışığını çıkarıp var etmiştir."
-    },
-    {
-      "verseNo": 30,
-      "verseNoEnd": null,
-      "source": "ai",
-      "text": "Ardından yeri yaydı."
-    },
-    {
-      "verseNo": 30,
-      "source": "diyanet",
-      "text": "Ardından yeri düzenleyip döşedi."
-    },
-    {
-      "verseNo": 30,
-      "source": "esed",
-      "text": "Ve ardından yeri düzenleyip yaymıştır"
-    },
-    {
-      "verseNo": 30,
-      "source": "okuyan",
-      "text": "Daha sonra da yeri yaymıştır."
-    },
-    {
-      "verseNo": 31,
-      "verseNoEnd": null,
-      "source": "ai",
-      "text": "Oradan suyunu ve otlağını çıkardı."
-    },
-    {
-      "verseNo": 31,
-      "source": "diyanet",
-      "text": "Ondan suyunu ve merasını çıkardı."
-    },
-    {
-      "verseNo": 31,
-      "source": "esed",
-      "text": "yerden suyu ve bitki örtüsünü çıkartmış"
-    },
-    {
-      "verseNo": 31,
-      "source": "okuyan",
-      "text": "Ondan (yerden) suyunu ve bitki örtüsünü de O çıkarmıştır."
-    },
-    {
-      "verseNo": 32,
-      "verseNoEnd": null,
-      "source": "ai",
-      "text": "Dağları yerleştirdi."
-    },
-    {
-      "verseNo": 32,
-      "source": "diyanet",
-      "text": "Dağları sağlam bir şekilde yerleştirdi."
-    },
-    {
-      "verseNo": 32,
-      "source": "esed",
-      "text": "ve dağları sağlam şekilde yerleştirmiştir"
-    },
-    {
-      "verseNo": 32,
-      "source": "okuyan",
-      "text": "Dağları (yere) O çakmıştır."
-    },
-    {
-      "verseNo": 33,
-      "verseNoEnd": null,
-      "source": "ai",
-      "text": "Sizin ve hayvanlarınız için geçimliktir."
-    },
-    {
-      "verseNo": 33,
-      "source": "diyanet",
-      "text": "Bunları sizin için ve hayvanlarınız için bir yarar kaynağı yaptı."
-    },
-    {
-      "verseNo": 33,
-      "source": "esed",
-      "text": "(bütün bunlar) sizin ve hayvanlarınızın geçinmesi için(dir)"
-    },
-    {
-      "verseNo": 33,
-      "source": "okuyan",
-      "text": "Sizin ve hayvanlarınızın yararlanması için (böyle yapmıştır)."
-    },
-    {
-      "verseNo": 34,
-      "verseNoEnd": null,
-      "source": "ai",
-      "text": "Büyük felaket geldiği zaman."
-    },
-    {
-      "verseNo": 34,
-      "source": "diyanet",
-      "text": "En büyük felaket (kıyamet) geldiği zaman, o gün insan yaptıklarını hatırlar."
-    },
-    {
-      "verseNo": 34,
-      "source": "esed",
-      "text": "Ve böylece, büyük, sarsıcı (yeniden dirilme) olayı gelip çattığında"
-    },
-    {
-      "verseNo": 34,
-      "source": "okuyan",
-      "text": "34-35 . O büyük olay gerçekleştiğinde, işte o gün insan (dünyada) neler yaptığını hatırlayacaktır."
-    },
-    {
-      "verseNo": 35,
-      "verseNoEnd": null,
-      "source": "ai",
-      "text": "İnsan ne için çabaladığını hatırladığı gündür."
-    },
-    {
-      "verseNo": 35,
-      "source": "diyanet",
-      "text": "En büyük felaket (kıyamet) geldiği zaman, o gün insan yaptıklarını hatırlar."
-    },
-    {
-      "verseNo": 35,
-      "source": "esed",
-      "text": "o Gün insan yaptığı her şeyi (açıkça) hatırlayacak"
-    },
-    {
-      "verseNo": 35,
-      "source": "okuyan",
-      "text": "34-35 . O büyük olay gerçekleştiğinde, işte o gün insan (dünyada) neler yaptığını hatırlayacaktır."
-    },
-    {
-      "verseNo": 36,
-      "verseNoEnd": null,
-      "source": "ai",
-      "text": "Cehennem görenlere gösterilecektir."
-    },
-    {
-      "verseNo": 36,
-      "source": "diyanet",
-      "text": "Cehennem, görenler için apaçık bir şekilde gösterilir."
-    },
-    {
-      "verseNo": 36,
-      "source": "esed",
-      "text": "ve (cehennemin) yakıcı ateşi, onu gör(meye mahkum edil)en herkesin karşısına getirilecektir"
-    },
-    {
-      "verseNo": 36,
-      "source": "okuyan",
-      "text": "Gör(mesi gerek)enler için cehennem ortaya çıkartılmış (olacak)tır."
-    },
-    {
-      "verseNo": 37,
-      "verseNoEnd": null,
-      "source": "ai",
-      "text": "Aşırı davranan kimse."
-    },
-    {
-      "verseNo": 37,
-      "source": "diyanet",
-      "text": "Kim azgınlık eder ve dünya hayatını tercih ederse, şüphesiz, cehennem onun sığınağıdır."
-    },
-    {
-      "verseNo": 37,
-      "source": "esed",
-      "text": "Çünkü, hak ve adalet sınırlarını ihlal eden"
-    },
-    {
-      "verseNo": 37,
-      "source": "okuyan",
-      "text": "37-39 . Kim azgınlık yapmış ve dünya hayatını tercih etmişse cehennem (onların) barınağıdır."
-    },
-    {
-      "verseNo": 38,
-      "verseNoEnd": null,
-      "source": "ai",
-      "text": "Ve dünya hayatını tercih eden."
-    },
-    {
-      "verseNo": 38,
-      "source": "diyanet",
-      "text": "Kim azgınlık eder ve dünya hayatını tercih ederse, şüphesiz, cehennem onun sığınağıdır."
-    },
-    {
-      "verseNo": 38,
-      "source": "esed",
-      "text": "ve bu dünya hayatını (ruh temizliğine) tercih eden(in)"
-    },
-    {
-      "verseNo": 38,
-      "source": "okuyan",
-      "text": "37-39 . Kim azgınlık yapmış ve dünya hayatını tercih etmişse cehennem (onların) barınağıdır."
-    },
-    {
-      "verseNo": 39,
-      "verseNoEnd": null,
-      "source": "ai",
-      "text": "İşte cehennem onun barınağıdır."
-    },
-    {
-      "verseNo": 39,
-      "source": "diyanet",
-      "text": "Kim azgınlık eder ve dünya hayatını tercih ederse, şüphesiz, cehennem onun sığınağıdır."
-    },
-    {
-      "verseNo": 39,
-      "source": "esed",
-      "text": "varacağı yer o yakıcı ateştir"
-    },
-    {
-      "verseNo": 39,
-      "source": "okuyan",
-      "text": "37-39 . Kim azgınlık yapmış ve dünya hayatını tercih etmişse cehennem (onların) barınağıdır."
-    },
-    {
-      "verseNo": 40,
-      "verseNoEnd": null,
-      "source": "ai",
-      "text": "Rabbinin huzurunda durmaktan korkan ve nefsini tutkudan alıkoyan ise."
-    },
-    {
-      "verseNo": 40,
-      "source": "diyanet",
-      "text": "Kim de, Rabbinin huzurunda duracağından korkar ve nefsini arzularından alıkoyarsa, şüphesiz, cennet onun sığınağıdır."
-    },
-    {
-      "verseNo": 40,
-      "source": "esed",
-      "text": "Ama Rabbinin huzurunda korku ile duranın ve nefsini kötü arzulardan alıkoyanın"
-    },
-    {
-      "verseNo": 40,
-      "source": "okuyan",
-      "text": "40-41 . Rabbinin makamından korkan ve kendisini arzulara (uymaktan) alıkoyanlara gelince, şüphesiz ki böylelerinin barınağı da cennettir."
-    },
-    {
-      "verseNo": 41,
-      "verseNoEnd": null,
-      "source": "ai",
-      "text": "Çünkü cennet sığınma yeridir."
-    },
-    {
-      "verseNo": 41,
-      "source": "diyanet",
-      "text": "Kim de, Rabbinin huzurunda duracağından korkar ve nefsini arzularından alıkoyarsa, şüphesiz, cennet onun sığınağıdır."
-    },
-    {
-      "verseNo": 41,
-      "source": "esed",
-      "text": "varacağı yer cennettir"
-    },
-    {
-      "verseNo": 41,
-      "source": "okuyan",
-      "text": "40-41 . Rabbinin makamından korkan ve kendisini arzulara (uymaktan) alıkoyanlara gelince, şüphesiz ki böylelerinin barınağı da cennettir."
-    },
-    {
-      "verseNo": 42,
-      "verseNoEnd": null,
-      "source": "ai",
-      "text": "Sana saat hakkında soruyorlar: 'Ne zaman gerçekleşecek?'"
-    },
-    {
-      "verseNo": 42,
-      "source": "diyanet",
-      "text": "Sana, kıyametin ne zaman kopacağını soruyorlar."
-    },
-    {
-      "verseNo": 42,
-      "source": "esed",
-      "text": "(Ey peygamber!) Sana Son Saat´i soruyorlar: \"Ne zaman gelip çatacak"
-    },
-    {
-      "verseNo": 42,
-      "source": "okuyan",
-      "text": "Sana o (Son) Saat’in demir atma zamanından soruyorlar."
-    },
-    {
-      "verseNo": 43,
-      "verseNoEnd": null,
-      "source": "ai",
-      "text": "Onun anılması konusunda senin durumun nedir?"
-    },
-    {
-      "verseNo": 43,
-      "source": "diyanet",
-      "text": "Onu bilip söylemek nerede, sen nerede?"
-    },
-    {
-      "verseNo": 43,
-      "source": "esed",
-      "text": "Sen onun hakkında ne söyleyebilirsin ki"
-    },
-    {
-      "verseNo": 43,
-      "source": "okuyan",
-      "text": "Sen onu nerden hatırlayabilirsin ki!"
-    },
-    {
-      "verseNo": 44,
-      "verseNoEnd": null,
-      "source": "ai",
-      "text": "Onun nihai varış yeri Rabbindir."
-    },
-    {
-      "verseNo": 44,
-      "source": "diyanet",
-      "text": "Onun nihai bilgisi yalnız Rabbine âittir."
-    },
-    {
-      "verseNo": 44,
-      "source": "esed",
-      "text": "(Çünkü) onun (bilgisinin) başı ve sonu yalnız Rabbinin katındadır"
-    },
-    {
-      "verseNo": 44,
-      "source": "okuyan",
-      "text": "Sonu(nun nihai bilgisi) yalnızca Rabbine aittir."
-    },
-    {
-      "verseNo": 45,
-      "verseNoEnd": null,
-      "source": "ai",
-      "text": "Sen yalnızca ondan korkanları uyaran birisin."
-    },
-    {
-      "verseNo": 45,
-      "source": "diyanet",
-      "text": "Sen, ancak ondan korkanları uyarıcısın."
-    },
-    {
-      "verseNo": 45,
-      "source": "esed",
-      "text": "Sen ancak ondan korkanları uyar(mak için gönderil)mişsin"
-    },
-    {
-      "verseNo": 45,
-      "source": "okuyan",
-      "text": "Sen sadece ondan (Son Saat’ten) saygı ile korkanları uyarıcısın."
-    },
-    {
-      "verseNo": 46,
-      "verseNoEnd": null,
-      "source": "ai",
-      "text": "Sanki onu gördükleri gün, yalnızca bir akşam ya da bir sabah kalmışlardı."
-    },
-    {
-      "verseNo": 46,
-      "source": "diyanet",
-      "text": "Kıyameti gördükleri gün onlar, sanki dünyada ancak bir akşam, yahut bir kuşluk vakti kadar kalmış gibidirler."
-    },
-    {
-      "verseNo": 46,
-      "source": "esed",
-      "text": "Onu anladıkları Gün (onlara, bu dünyada) bir akşamdan ya da kuşluğuyla (birlikte sona eren bir gece)den fazla kalmamışlar (gibi gelecek)"
-    },
-    {
-      "verseNo": 46,
-      "source": "okuyan",
-      "text": "Onu (mahşeri) gördükleri gün, (dünyada sanki) bir yatsı vakti veya (gündüzün) kuşluğu kadar kalmış gibi olacaklar."
-    }
-  ],
-  "aiParagraph": "Bir gün her şeyin hesabı sorulacak — buna inanmak ya da inanmamak kişinin seçimi, ama metnin tonu bu soruyu ciddiye almayı hak edecek kadar ağır. Sure, görünmez ama kaçınılmaz bir çekim gücünden söz ederek açılıyor; kimi ruhları derinliklerden koparıp alan, kimi başkalarını serbest bırakan bu gücün arkasından dünya bir sarsıntıyla değişiyor ve o an kalpler titreyip gözler yere düşüyor. Sonra Firavun geliyor: kendisini halkının üstünde, hatta her şeyin üstünde gören, açık bir uyarıyla karşılaşmasına rağmen küçümseyerek sırtını dönen, sonunda toplayıp bağıranlar arasında \"en yüce rab benim\" diyebilecek kadar ileri giden biri. Bu sahne tarihî bir anekdot gibi değil, tanıdık bir insan portresi gibi duruyor: kimseye cevap vermediğine inanan, sınırlarını kendisinin çizdiğini sanan, ta ki çizmediği bir sonla yüzleşene kadar. Arkasından metin, insanı gökyüzüne, yere, suya, dağlara bakmasını sağlıyor — bunların hiçbirini sen kurmadın, ama hepsinden besleniyorsun diyor sessizce. Ve bir gün her şeyin durduğu o anda, insanın aklına yalnızca kendi emeği ve niyeti gelecek. Sure, zamanın ne kadar kısa sürdüğünü hatırlatarak bitiyor: o gün geldiğinde, geçen bütün ömür bir öğleden sonra kadar bile uzun gelmeyecek."
+ "stationNo": 53,
+ "surahNo": 79,
+ "name": "Nâziât",
+ "nameArabic": "",
+ "nameMeaning": "",
+ "verseCount": 46,
+ "nuzulOrderOkuyan": 48,
+ "periodDiyanet": "Mekke",
+ "periodOkuyan": "Mekke",
+ "revelationTiming": "",
+ "stationTitle": "İkisi de içinde: bozma da, arınma da.",
+ "introduction": "Nâziât suresi, adını ilk ayetinde geçen ve 'şiddetle çekip alanlar' anlamına gelen 'nâziât' kelimesinden alır. Kırk altı ayetten oluşan bu sure, Mekke döneminin sonlarında inmiştir. Surenin temel ekseni, kıyametin kopuşu, diriliş gerçeği ve insanın bu dünyadaki tercihlerinin ahiretteki karşılığıdır.\n\nSure, yemin ifadeleriyle başlar ve bu yeminler, evrendeki ilahi düzenin işleyişine dikkat çeker. Ardından, kıyametin sarsıcı sahneleri tasvir edilir ve inkârcıların dirilişi alaya alan tavırlarına değinilir. Surenin devamında, Hz. Musa ile Firavun arasındaki mücadele anlatılarak, kibrin ve ilahi sınırları aşmanın getirdiği feci son gözler önüne serilir.\n\nSurenin son bölümünde ise, evrenin yaratılışındaki muazzam düzene işaret edilerek, yeniden dirilişin Allah için ne kadar kolay olduğu vurgulanır. Kıyamet saatinin ne zaman geleceği sorusuna, bu bilginin yalnızca Allah'a ait olduğu cevabı verilir ve insanın asıl odaklanması gerekenin, o gün gelmeden önce sorumluluk bilinciyle yaşamak olduğu hatırlatılır.",
+ "occasionOfRevelation": "Nâziât suresi, Mekke döneminin sonlarında, Müslümanların müşrikler tarafından yoğun baskı ve zulme maruz kaldığı bir süreçte inmiştir. Bu dönemde, Mekkeli müşrikler ahiret inancını şiddetle reddediyor, çürümüş kemiklerin yeniden diriltileceği fikrini alaya alıyorlardı.\n\nSurenin nüzul sebebi olarak belirli ve tek bir olaydan ziyade, Mekke toplumunun genel inkârcı tutumu ve dirilişi imkânsız görmeleri gösterilir. Müşriklerin, 'Biz çürümüş kemikler haline geldikten sonra mı diriltileceğiz?' şeklindeki alaycı sorularına karşı, sure evrendeki yaratılış delillerini sunarak cevap verir.\n\nKaynaklarda surenin nüzul yılı ile ilgili kesin bir tarih verilmemekle birlikte, genel kabul Mekke döneminin sonlarına doğru indiği yönündedir. Surenin içerdiği Firavun kıssası da, Mekkeli zorbalara üstü kapalı bir uyarı niteliği taşır; gücüne güvenerek ilahi mesaja karşı çıkanların sonunun hüsran olacağı mesajını verir.",
+ "occasionSources": "TDV İslâm Ansiklopedisi, \"Nâziât Sûresi\" maddesi; Diyanet İşleri Başkanlığı Kur'an Yolu Tefsiri, Nâziât 1-5 ayet tefsiri; kuranokuyan.com, Nâziât suresi girişi (Prof. Dr. Mehmet Okuyan).",
+ "keyTerms": [
+  {
+   "term": "nâziât",
+   "arabic": "نَازِعَات",
+   "verseRef": "79:1",
+   "meaning": "Şiddetle söküp çıkaranlar. Ayette, ruhları bedenlerden ayıran melekler veya evrendeki çekim kuvvetleri anlamında kullanılır."
+  },
+  {
+   "term": "tâmme",
+   "arabic": "طَامَّة",
+   "verseRef": "79:34",
+   "meaning": "Her şeyi kuşatan, baskın gelen büyük felâket. Ayette, kıyamet gününün dehşetini ifade eder."
+  },
+  {
+   "term": "sâhire",
+   "arabic": "سَاهِرَة",
+   "verseRef": "79:14",
+   "meaning": "Uykusuz kalınan yer, mahşer meydanı. İnsanların diriltilip toplanacağı alanı tanımlar."
+  },
+  {
+   "term": "tuğyân",
+   "arabic": "طُغْيَان",
+   "verseRef": "79:17",
+   "meaning": "Sınırı aşmak, azgınlık etmek. Firavun'un ilahi otoriteyi reddedip kendini ilahlaştırmasını ifade eder."
+  },
+  {
+   "term": "hevâ",
+   "arabic": "هَوَى",
+   "verseRef": "79:40",
+   "meaning": "Nefsin aşırı ve temelsiz arzuları. İnsanı hakikatten saptıran bencil istekleri tanımlar."
+  }
+ ],
+ "themes": [
+  {
+   "label": "Kibrin Yıkıcılığı",
+   "body": "Firavun örneği üzerinden, insanın güce ve makama güvenerek sınırlarını aşmasının, eninde sonunda kendi felaketini hazırlayacağı gerçeği vurgulanır."
+  },
+  {
+   "label": "Sorumluluk Bilinci",
+   "body": "Kıyametin ne zaman kopacağından ziyade, insanın o güne nasıl hazırlandığı ve nefsani arzularına karşı nasıl bir duruş sergilediği öne çıkarılır."
+  },
+  {
+   "label": "Evrendeki Düzen ve Diriliş",
+   "body": "Gökyüzünün ve yeryüzünün yaratılışındaki ihtişam, insanın yeniden yaratılmasının Allah için zor olmadığına dair somut bir delil olarak sunulur."
+  }
+ ],
+ "questions": [
+  "Sahip olduğum güç, makam veya imkânlar, beni başkalarına karşı kibre ve sınırları aşmaya sürüklüyor mu?",
+  "Hayatımı yönlendiren temel motivasyon, ilahi rızaya uygun yaşamak mı, yoksa anlık heveslerimin peşinden gitmek mi?"
+ ],
+ "contemporaryMeaning": "Bu sure, insanın kendi sınırlarını unutarak mutlak bir kontrol vehmine kapılmasının yarattığı körlüğü ele alır. Temel mesele, elindeki gücü ve imkânları bir ayrıcalık değil, bir tahakküm aracına dönüştüren insanın, kendi kurduğu yapay hiyerarşiler içinde tanrılaşma eğilimidir. İnsan, doğaya ve diğer insanlara hükmedebildiğini gördükçe, kendi sonluluğunu inkâr eden bir kibre sürüklenir.\n\nBugünün diliyle: Algoritmalarla kitlelerin tüketim alışkanlıklarını yönlendiren bir teknoloji şirketinin, devasa bütçelerle ekolojik yıkıma yol açan bir endüstrinin veya çalışanlarını sadece birer veri noktası olarak gören bir yönetim anlayışının temelinde aynı kontrol saplantısı yatar. Kredi borçlarıyla insanları sisteme bağımlı kılan ekonomik yapılar veya sosyal medyada ulaşılan takipçi sayısıyla başkalarını yargılama hakkını kendinde bulan bireysel kibir, metnin işaret ettiği o kadim sınır ihlalinin güncel formlarıdır.\n\nKendi arzularını tek geçerli yasa kabul eden bu yaklaşım, evrenin devasa ölçeği karşısında insanın ne kadar kırılgan bir varlık olduğunu unutturur. Mesele, sistemlerin veya gezegenin ne zaman çökeceği değil, insanın kendi elleriyle inşa ettiği ve mutlak sandığı bu iktidar alanlarının, aslında onun en büyük yanılgısı olmasıdır. İnsan, her şeyi kontrol edebileceğini sanırken, kendi hırslarının esiri haline gelir.",
+ "scholarlyNotes": [
+  {
+   "kind": "rivayet",
+   "body": "TDV İslâm Ansiklopedisi'nde belirtildiğine göre, 'Allah, Ve'n-Nâziât sûresini okuyan kimseyi kabrinde ve kıyamet gününde farz bir namazı kılacak kadar tuttuktan sonra cennete koyar' meâlindeki hadis mevzûdur (uydurmadır).",
+   "label": "Surenin Fazileti Hakkındaki Uydurma Hadis"
+  },
+  {
+   "kind": "nuans",
+   "body": "Diyanet Kur'an Yolu Tefsiri'nde, ilk ayetlerde üzerine yemin edilen varlıkların melekler, insanların ruhları, gaziler veya yıldızlar olabileceği şeklinde farklı yorumlar aktarılmaktadır. Prof. Dr. Mehmet Okuyan ise bu yeminlerin 'vahiy' ve 'Kur'an ayetleri' ile ilişkili olabileceği görüşünü de öne sürmektedir.",
+   "label": "İlk Ayetlerdeki Yeminlerin Yorumu"
+  }
+ ],
+ "verses": [
+  {
+   "verseNo": 1,
+   "textArabic": "بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ وَٱلنَّٰزِعَٰتِ غَرْقًۭا"
+  },
+  {
+   "verseNo": 2,
+   "textArabic": "وَٱلنَّٰشِطَٰتِ نَشْطًۭا"
+  },
+  {
+   "verseNo": 3,
+   "textArabic": "وَٱلسَّٰبِحَٰتِ سَبْحًۭا"
+  },
+  {
+   "verseNo": 4,
+   "textArabic": "فَٱلسَّٰبِقَٰتِ سَبْقًۭا"
+  },
+  {
+   "verseNo": 5,
+   "textArabic": "فَٱلْمُدَبِّرَٰتِ أَمْرًۭا"
+  },
+  {
+   "verseNo": 6,
+   "textArabic": "يَوْمَ تَرْجُفُ ٱلرَّاجِفَةُ"
+  },
+  {
+   "verseNo": 7,
+   "textArabic": "تَتْبَعُهَا ٱلرَّادِفَةُ"
+  },
+  {
+   "verseNo": 8,
+   "textArabic": "قُلُوبٌۭ يَوْمَئِذٍۢ وَاجِفَةٌ"
+  },
+  {
+   "verseNo": 9,
+   "textArabic": "أَبْصَٰرُهَا خَٰشِعَةٌۭ"
+  },
+  {
+   "verseNo": 10,
+   "textArabic": "يَقُولُونَ أَءِنَّا لَمَرْدُودُونَ فِى ٱلْحَافِرَةِ"
+  },
+  {
+   "verseNo": 11,
+   "textArabic": "أَءِذَا كُنَّا عِظَٰمًۭا نَّخِرَةًۭ"
+  },
+  {
+   "verseNo": 12,
+   "textArabic": "قَالُوا۟ تِلْكَ إِذًۭا كَرَّةٌ خَاسِرَةٌۭ"
+  },
+  {
+   "verseNo": 13,
+   "textArabic": "فَإِنَّمَا هِىَ زَجْرَةٌۭ وَٰحِدَةٌۭ"
+  },
+  {
+   "verseNo": 14,
+   "textArabic": "فَإِذَا هُم بِٱلسَّاهِرَةِ"
+  },
+  {
+   "verseNo": 15,
+   "textArabic": "هَلْ أَتَىٰكَ حَدِيثُ مُوسَىٰٓ"
+  },
+  {
+   "verseNo": 16,
+   "textArabic": "إِذْ نَادَىٰهُ رَبُّهُۥ بِٱلْوَادِ ٱلْمُقَدَّسِ طُوًى"
+  },
+  {
+   "verseNo": 17,
+   "textArabic": "ٱذْهَبْ إِلَىٰ فِرْعَوْنَ إِنَّهُۥ طَغَىٰ"
+  },
+  {
+   "verseNo": 18,
+   "textArabic": "فَقُلْ هَل لَّكَ إِلَىٰٓ أَن تَزَكَّىٰ"
+  },
+  {
+   "verseNo": 19,
+   "textArabic": "وَأَهْدِيَكَ إِلَىٰ رَبِّكَ فَتَخْشَىٰ"
+  },
+  {
+   "verseNo": 20,
+   "textArabic": "فَأَرَىٰهُ ٱلْءَايَةَ ٱلْكُبْرَىٰ"
+  },
+  {
+   "verseNo": 21,
+   "textArabic": "فَكَذَّبَ وَعَصَىٰ"
+  },
+  {
+   "verseNo": 22,
+   "textArabic": "ثُمَّ أَدْبَرَ يَسْعَىٰ"
+  },
+  {
+   "verseNo": 23,
+   "textArabic": "فَحَشَرَ فَنَادَىٰ"
+  },
+  {
+   "verseNo": 24,
+   "textArabic": "فَقَالَ أَنَا۠ رَبُّكُمُ ٱلْأَعْلَىٰ"
+  },
+  {
+   "verseNo": 25,
+   "textArabic": "فَأَخَذَهُ ٱللَّهُ نَكَالَ ٱلْءَاخِرَةِ وَٱلْأُولَىٰٓ"
+  },
+  {
+   "verseNo": 26,
+   "textArabic": "إِنَّ فِى ذَٰلِكَ لَعِبْرَةًۭ لِّمَن يَخْشَىٰٓ"
+  },
+  {
+   "verseNo": 27,
+   "textArabic": "ءَأَنتُمْ أَشَدُّ خَلْقًا أَمِ ٱلسَّمَآءُ ۚ بَنَىٰهَا"
+  },
+  {
+   "verseNo": 28,
+   "textArabic": "رَفَعَ سَمْكَهَا فَسَوَّىٰهَا"
+  },
+  {
+   "verseNo": 29,
+   "textArabic": "وَأَغْطَشَ لَيْلَهَا وَأَخْرَجَ ضُحَىٰهَا"
+  },
+  {
+   "verseNo": 30,
+   "textArabic": "وَٱلْأَرْضَ بَعْدَ ذَٰلِكَ دَحَىٰهَآ"
+  },
+  {
+   "verseNo": 31,
+   "textArabic": "أَخْرَجَ مِنْهَا مَآءَهَا وَمَرْعَىٰهَا"
+  },
+  {
+   "verseNo": 32,
+   "textArabic": "وَٱلْجِبَالَ أَرْسَىٰهَا"
+  },
+  {
+   "verseNo": 33,
+   "textArabic": "مَتَٰعًۭا لَّكُمْ وَلِأَنْعَٰمِكُمْ"
+  },
+  {
+   "verseNo": 34,
+   "textArabic": "فَإِذَا جَآءَتِ ٱلطَّآمَّةُ ٱلْكُبْرَىٰ"
+  },
+  {
+   "verseNo": 35,
+   "textArabic": "يَوْمَ يَتَذَكَّرُ ٱلْإِنسَٰنُ مَا سَعَىٰ"
+  },
+  {
+   "verseNo": 36,
+   "textArabic": "وَبُرِّزَتِ ٱلْجَحِيمُ لِمَن يَرَىٰ"
+  },
+  {
+   "verseNo": 37,
+   "textArabic": "فَأَمَّا مَن طَغَىٰ"
+  },
+  {
+   "verseNo": 38,
+   "textArabic": "وَءَاثَرَ ٱلْحَيَوٰةَ ٱلدُّنْيَا"
+  },
+  {
+   "verseNo": 39,
+   "textArabic": "فَإِنَّ ٱلْجَحِيمَ هِىَ ٱلْمَأْوَىٰ"
+  },
+  {
+   "verseNo": 40,
+   "textArabic": "وَأَمَّا مَنْ خَافَ مَقَامَ رَبِّهِۦ وَنَهَى ٱلنَّفْسَ عَنِ ٱلْهَوَىٰ"
+  },
+  {
+   "verseNo": 41,
+   "textArabic": "فَإِنَّ ٱلْجَنَّةَ هِىَ ٱلْمَأْوَىٰ"
+  },
+  {
+   "verseNo": 42,
+   "textArabic": "يَسْـَٔلُونَكَ عَنِ ٱلسَّاعَةِ أَيَّانَ مُرْسَىٰهَا"
+  },
+  {
+   "verseNo": 43,
+   "textArabic": "فِيمَ أَنتَ مِن ذِكْرَىٰهَآ"
+  },
+  {
+   "verseNo": 44,
+   "textArabic": "إِلَىٰ رَبِّكَ مُنتَهَىٰهَآ"
+  },
+  {
+   "verseNo": 45,
+   "textArabic": "إِنَّمَآ أَنتَ مُنذِرُ مَن يَخْشَىٰهَا"
+  },
+  {
+   "verseNo": 46,
+   "textArabic": "كَأَنَّهُمْ يَوْمَ يَرَوْنَهَا لَمْ يَلْبَثُوٓا۟ إِلَّا عَشِيَّةً أَوْ ضُحَىٰهَا"
+  }
+ ],
+ "translations": [
+  {
+   "verseNo": 1,
+   "source": "diyanet",
+   "text": "Andolsun (kâfirlerin ruhlarını) şiddetle çekip çıkaranlara,"
+  },
+  {
+   "verseNo": 1,
+   "source": "okuyan",
+   "text": "Yemin olsun: Söküp çıkaranlara,"
+  },
+  {
+   "verseNo": 1,
+   "source": "islamoglu",
+   "text": "ŞAHİT olsun (muhatabın yüreğine) dalıp (küfrü oradan) şiddetle söküp çıkaran (uyarı âyetleri)!"
+  },
+  {
+   "verseNo": 1,
+   "source": "esed",
+   "text": "Düşün bu (yıldız)ları, batmak üzere yükselen"
+  },
+  {
+   "verseNo": 2,
+   "source": "diyanet",
+   "text": "Andolsun (mü'minlerin ruhlarını) kolaylıkla alanlara,"
+  },
+  {
+   "verseNo": 2,
+   "source": "okuyan",
+   "text": "Kolayca çekenlere,"
+  },
+  {
+   "verseNo": 2,
+   "source": "islamoglu",
+   "text": "Ve (mü’min gönüllere) müjde dolu bir umudu usulca getirip bırakan (rahmet âyetleri)!"
+  },
+  {
+   "verseNo": 2,
+   "source": "esed",
+   "text": "ve (yörüngelerinde) istikrarlı şekilde hareket eden"
+  },
+  {
+   "verseNo": 3,
+   "source": "diyanet",
+   "text": "Andolsun yüzüp yüzüp gidenlere,"
+  },
+  {
+   "verseNo": 3,
+   "source": "okuyan",
+   "text": "Yüzdükçe yüzenlere,"
+  },
+  {
+   "verseNo": 3,
+   "source": "islamoglu",
+   "text": "Ve (o umutla hayat denizine) açılıp yüzdükçe yüzen (mü’min)ler!"
+  },
+  {
+   "verseNo": 3,
+   "source": "esed",
+   "text": "ve (uzayda) sakin sakin yüzen"
+  },
+  {
+   "verseNo": 4,
+   "source": "diyanet",
+   "text": "Derken, öne geçenlere,"
+  },
+  {
+   "verseNo": 4,
+   "source": "okuyan",
+   "text": "Yarışıp geçenlere,"
+  },
+  {
+   "verseNo": 4,
+   "source": "islamoglu",
+   "text": "Ve (hayır yolunda) birbirleriyle yarışan öncüler!"
+  },
+  {
+   "verseNo": 4,
+   "source": "esed",
+   "text": "ve hızlı şekilde (birbirini) izleyen"
+  },
+  {
+   "verseNo": 5,
+   "source": "diyanet",
+   "text": "Nihayet işi çekip çevirenlere (ki, mutlaka tekrar diriltileceksiniz)."
+  },
+  {
+   "verseNo": 5,
+   "source": "okuyan",
+   "text": "İşleri düzenleyenlere ki"
+  },
+  {
+   "verseNo": 5,
+   "source": "islamoglu",
+   "text": "Derken, onların peşinden işleri yoluna koyan artçılar (şuna şahit olsun):"
+  },
+  {
+   "verseNo": 5,
+   "source": "esed",
+   "text": "böylece (Yaratıcı´nın) buyruğunu yerine getiren"
+  },
+  {
+   "verseNo": 6,
+   "source": "diyanet",
+   "text": "Büyük bir sarsıntının olacağı o günde o sarsıntıyı, peşinden gelen başka bir sarsıntı izleyecektir."
+  },
+  {
+   "verseNo": 6,
+   "source": "okuyan",
+   "text": "O gün o sarsıcı (deprem) sarsacak."
+  },
+  {
+   "verseNo": 6,
+   "source": "islamoglu",
+   "text": "O gün, şiddetle sarsan güç her şeyi sarsacak;"
+  },
+  {
+   "verseNo": 6,
+   "source": "esed",
+   "text": "(O halde, düşün) şiddetli bir sarsıntının (dünyayı) sarstığı Gün(ü)"
+  },
+  {
+   "verseNo": 7,
+   "source": "diyanet",
+   "text": "Büyük bir sarsıntının olacağı o günde o sarsıntıyı, peşinden gelen başka bir sarsıntı izleyecektir."
+  },
+  {
+   "verseNo": 7,
+   "source": "okuyan",
+   "text": "(Ardından onu) artçısı takip edecek."
+  },
+  {
+   "verseNo": 7,
+   "source": "islamoglu",
+   "text": "onun peşinden daha büyük sarsıntılar gelecek;"
+  },
+  {
+   "verseNo": 7,
+   "source": "esed",
+   "text": "daha büyük (sarsıntı)ların ardından geleceği (Günü)"
+  },
+  {
+   "verseNo": 8,
+   "source": "diyanet",
+   "text": "O gün birtakım kalpler (tedirginlik içinde) şiddetle çarpacaktır."
+  },
+  {
+   "verseNo": 8,
+   "source": "okuyan",
+   "text": "Kalpler o gün (korkudan) titreyecek."
+  },
+  {
+   "verseNo": 8,
+   "source": "islamoglu",
+   "text": "işte o gün kalpler çarpılmış (gibi) titreyecek;"
+  },
+  {
+   "verseNo": 8,
+   "source": "esed",
+   "text": "O Gün (insanların) kalpleri titreyerek çarpacak"
+  },
+  {
+   "verseNo": 9,
+   "source": "diyanet",
+   "text": "Onların gözleri (korku ile) inecektir."
+  },
+  {
+   "verseNo": 9,
+   "source": "okuyan",
+   "text": "Gözleri (korkudan) aşağı kayacaktır."
+  },
+  {
+   "verseNo": 9,
+   "source": "islamoglu",
+   "text": "onların gözleri yıkılmışlığı, bitmişliği temsil edecek."
+  },
+  {
+   "verseNo": 9,
+   "source": "esed",
+   "text": "(ve) gözleri yere bakacak"
+  },
+  {
+   "verseNo": 10,
+   "source": "diyanet",
+   "text": "Şöyle derler: \"Biz gerçekten gerisingeriye eski halimize mi döndürüleceğiz?\""
+  },
+  {
+   "verseNo": 10,
+   "source": "okuyan",
+   "text": "10-11 . (İnkarcılar) “Çürümüş kemik olduğumuz zaman mı, çukurda (mezarda) daha önceki hâlimize mi döndürüleceğiz” derler."
+  },
+  {
+   "verseNo": 10,
+   "source": "islamoglu",
+   "text": "Onlar (hâlâ) diyorlar ki: “Ne yani, şimdi biz çukuru boyladıktan sonra yeniden eski halimize mi döneceğiz?"
+  },
+  {
+   "verseNo": 10,
+   "source": "esed",
+   "text": "(Ama hala) bazıları: \"Ne yani!\" diyorlar, \"Biz gerçekten eski halimize mi döndürüleceğiz"
+  },
+  {
+   "verseNo": 11,
+   "source": "diyanet",
+   "text": "\"Bizler çürümüş kemiklere döndükten sonra mı?\""
+  },
+  {
+   "verseNo": 11,
+   "source": "okuyan",
+   "text": "10-11 . (İnkarcılar) “Çürümüş kemik olduğumuz zaman mı, çukurda (mezarda) daha önceki hâlimize mi döndürüleceğiz” derler."
+  },
+  {
+   "verseNo": 11,
+   "source": "islamoglu",
+   "text": "Tamamen çürüyüp bir külçe kemik haline gelsek de mi?”"
+  },
+  {
+   "verseNo": 11,
+   "source": "esed",
+   "text": "çürüyen kemik (yığını) olsak bile"
+  },
+  {
+   "verseNo": 12,
+   "source": "diyanet",
+   "text": "\"Öyle ise bu hüsran dolu bir dönüştür\" dediler."
+  },
+  {
+   "verseNo": 12,
+   "source": "okuyan",
+   "text": "“O takdirde, o (diriltiliş) zararlı bir dönüş olur!” derler."
+  },
+  {
+   "verseNo": 12,
+   "source": "islamoglu",
+   "text": "(Ve) ekliyorlar: “O zaman desene bu ikinci bir hüsran olacak!”"
+  },
+  {
+   "verseNo": 12,
+   "source": "esed",
+   "text": "(Ve) ilave ediyorlar: \"Öyleyse bu, zararlı bir dönüş olur"
+  },
+  {
+   "verseNo": 13,
+   "source": "diyanet",
+   "text": "Halbuki o, bir haykırıştan (sûr'un üfürülmesinden) ibarettir."
+  },
+  {
+   "verseNo": 13,
+   "source": "okuyan",
+   "text": "(Oysa) bu dönüş, tek bir ses(ten ibarettir)."
+  },
+  {
+   "verseNo": 13,
+   "source": "islamoglu",
+   "text": "Sözün özü: o (kalk emri), sert ve kesin bir komuttan ibarettir."
+  },
+  {
+   "verseNo": 13,
+   "source": "esed",
+   "text": "(Ama) o zaman, (Son Saat), bir tek çığlık (gibi ansızın onların üzerine) kopacak"
+  },
+  {
+   "verseNo": 14,
+   "source": "diyanet",
+   "text": "Birdenbire kendilerini mahşerde buluverirler."
+  },
+  {
+   "verseNo": 14,
+   "source": "okuyan",
+   "text": "Bir de bakarsın ki onlar, mahşerdedir."
+  },
+  {
+   "verseNo": 14,
+   "source": "islamoglu",
+   "text": "İşte o zaman onlar, faltaşı gibi açılmış gözlerle mahşer meydanında beliriverecek."
+  },
+  {
+   "verseNo": 14,
+   "source": "esed",
+   "text": "işte o zaman (hakikati) anlayacaklar"
+  },
+  {
+   "verseNo": 15,
+   "source": "diyanet",
+   "text": "(Ey Muhammed!) Mûsâ'nın haberi sana geldi mi?"
+  },
+  {
+   "verseNo": 15,
+   "source": "okuyan",
+   "text": "Musa’nın haberi sana geldi, (değil) mi?"
+  },
+  {
+   "verseNo": 15,
+   "source": "islamoglu",
+   "text": "MÛSA kıssasından haberin var mı?"
+  },
+  {
+   "verseNo": 15,
+   "source": "esed",
+   "text": "Musa´nın kıssasından hiç haberin oldu mu"
+  },
+  {
+   "verseNo": 16,
+   "source": "diyanet",
+   "text": "Hani, Rabbi ona mukaddes Tuvâ vadisinde şöyle seslenmişti:"
+  },
+  {
+   "verseNo": 16,
+   "source": "okuyan",
+   "text": "Hani Rabbi kutsal Tuvâ Vadisi’nde ona şöyle seslenmişti:"
+  },
+  {
+   "verseNo": 16,
+   "source": "islamoglu",
+   "text": "Hani Rabbi, iki kat kutsal kılınmış bir vadide ona şöyle seslenmişti:"
+  },
+  {
+   "verseNo": 16,
+   "source": "esed",
+   "text": "Hani kutsal bir vadide Rabbi o´na şöyle seslenmişti"
+  },
+  {
+   "verseNo": 17,
+   "source": "diyanet",
+   "text": "\"Haydi Firavun'a git! Çünkü o azmıştır.\""
+  },
+  {
+   "verseNo": 17,
+   "source": "okuyan",
+   "text": "“Firavun’a git! Şüphesiz ki o iyice azdı."
+  },
+  {
+   "verseNo": 17,
+   "source": "islamoglu",
+   "text": "“Firavuna git, çünkü o haddini aştı;"
+  },
+  {
+   "verseNo": 17,
+   "source": "esed",
+   "text": "Sen, Firavun´a git -çünkü o hak ve adalet sınırlarını ihlal ediyor"
+  },
+  {
+   "verseNo": 18,
+   "source": "diyanet",
+   "text": "\"Ona de ki: İster misin (küfür ve isyanından) temizlenesin?"
+  },
+  {
+   "verseNo": 18,
+   "source": "okuyan",
+   "text": "(Ona) de ki: Arınmak ister misin?"
+  },
+  {
+   "verseNo": 18,
+   "source": "islamoglu",
+   "text": "ve ona de ki: ‘Gönlün var mı arınmaya?"
+  },
+  {
+   "verseNo": 18,
+   "source": "esed",
+   "text": "ve (ona) söyle: ´Arınmaya istekli misin"
+  },
+  {
+   "verseNo": 19,
+   "source": "diyanet",
+   "text": "Seni Rabbine ileteyim de ona karşı derinden saygı duyup korkasın!\""
+  },
+  {
+   "verseNo": 19,
+   "source": "okuyan",
+   "text": "(İstiyorsan) seni Rabbine yönlendireyim. (Böylece O’na) saygı duyarsın.”"
+  },
+  {
+   "verseNo": 19,
+   "source": "islamoglu",
+   "text": "İmdi (cevabın evetse), ben seni Rabbine doğru yönelteceğim ve sen de kendine çekidüzen vereceksin!’"
+  },
+  {
+   "verseNo": 19,
+   "source": "esed",
+   "text": "(Eğer istekliysen) o zaman seni Rabbin(i tanıma mertebesin)e ulaştıracağım ki (bundan sonra) O´nun korkusunu duyasın.´"
+  },
+  {
+   "verseNo": 20,
+   "source": "diyanet",
+   "text": "Derken Mûsâ O'na en büyük mucizeyi gösterdi."
+  },
+  {
+   "verseNo": 20,
+   "source": "okuyan",
+   "text": "Sonunda ona en büyük ayeti (mucizeyi) göstermişti."
+  },
+  {
+   "verseNo": 20,
+   "source": "islamoglu",
+   "text": "Nihayet ona o ilâhî kudret delilini gösterdi;"
+  },
+  {
+   "verseNo": 20,
+   "source": "esed",
+   "text": "Bunun üzerine (Musa), (Firavun´a gitti ve) ona (Rabbinin rahmetinin eseri olan) büyük mucizeyi anlattı"
+  },
+  {
+   "verseNo": 21,
+   "source": "diyanet",
+   "text": "Fakat o, Mûsâ'yı yalanladı ve isyan etti."
+  },
+  {
+   "verseNo": 21,
+   "source": "okuyan",
+   "text": "(Ancak Firavun, gerçeği) yalanlamış ve isyan etmişti."
+  },
+  {
+   "verseNo": 21,
+   "source": "islamoglu",
+   "text": "fakat o yalanladı ve sert çıktı;"
+  },
+  {
+   "verseNo": 21,
+   "source": "esed",
+   "text": "Ama (Firavun) o´nu yalanladı ve (hidayeti) şiddetle reddetti"
+  },
+  {
+   "verseNo": 22,
+   "source": "diyanet",
+   "text": "Sonra sırt dönüp koşarak gitti."
+  },
+  {
+   "verseNo": 22,
+   "source": "okuyan",
+   "text": "Sonra hızlıca arkasını dönüp gitmişti."
+  },
+  {
+   "verseNo": 22,
+   "source": "islamoglu",
+   "text": "sonra hışımla orayı terk etti;"
+  },
+  {
+   "verseNo": 22,
+   "source": "esed",
+   "text": "sonra da kaba bir şekilde (Musa´ya) sırtını döndü"
+  },
+  {
+   "verseNo": 23,
+   "source": "diyanet",
+   "text": "Hemen (adamlarını) topladı ve onlara seslendi:"
+  },
+  {
+   "verseNo": 23,
+   "source": "okuyan",
+   "text": "23-24 . (Yandaşlarını) toplamış, onlara seslenmiş ve demişti ki: “Ben sizin yüce rabbinizim.”"
+  },
+  {
+   "verseNo": 23,
+   "source": "islamoglu",
+   "text": "derken (adamlarını) topladı ve bağırıp çağırdı;"
+  },
+  {
+   "verseNo": 23,
+   "source": "esed",
+   "text": "daha sonra (ileri gelen adamlarını) topladı ve (halkını) çağırdı"
+  },
+  {
+   "verseNo": 24,
+   "source": "diyanet",
+   "text": "\"Ben, sizin en yüce Rabbinizim!\" dedi."
+  },
+  {
+   "verseNo": 24,
+   "source": "okuyan",
+   "text": "23-24 . (Yandaşlarını) toplamış, onlara seslenmiş ve demişti ki: “Ben sizin yüce rabbinizim.”"
+  },
+  {
+   "verseNo": 24,
+   "source": "islamoglu",
+   "text": "üstelik (bir de) “Ben sizin en büyük rabbinizim!” dedi."
+  },
+  {
+   "verseNo": 24,
+   "source": "esed",
+   "text": "ve onlara \"Ben sizin en yüce rabbinizim!\" dedi"
+  },
+  {
+   "verseNo": 25,
+   "source": "diyanet",
+   "text": "Allah onu, ibret verici şekilde dünya ve âhiret cezasıyla cezalandırdı."
+  },
+  {
+   "verseNo": 25,
+   "source": "okuyan",
+   "text": "(Bunun üzerine) Allah onu ahiret ve dünya azabıyla yakalamıştı."
+  },
+  {
+   "verseNo": 25,
+   "source": "islamoglu",
+   "text": "Allah da onu kıskıvrak enseleyip dünya ve âhirette ibretlik bir cezaya çarptırdı."
+  },
+  {
+   "verseNo": 25,
+   "source": "esed",
+   "text": "Bunun üzerine Allah onu yakalayıp hesaba çekti (ve bunu) hem bu dünyada hem de öteki dünyada uyarıcı bir örnek yaptı"
+  },
+  {
+   "verseNo": 26,
+   "source": "diyanet",
+   "text": "Şüphesiz bunda Allah'tan sakınıp korkan kimseler için büyük bir ibret vardır."
+  },
+  {
+   "verseNo": 26,
+   "source": "okuyan",
+   "text": "Şüphesiz ki bu (kıssa)da saygı duyacak olanlar için ibret(ler) vardır."
+  },
+  {
+   "verseNo": 26,
+   "source": "islamoglu",
+   "text": "Şüphesiz bunda Allah’a karşı içten bir saygı duyanlar için sayısız ibret vardır."
+  },
+  {
+   "verseNo": 26,
+   "source": "esed",
+   "text": "Bunda, şüphesiz, (Allah´ın) ürperti ve korkusunu duyanlar için bir ibret vardır"
+  },
+  {
+   "verseNo": 27,
+   "source": "diyanet",
+   "text": "(Ey inkarcılar!) Sizi yaratmak mı daha zor, yoksa göğü yaratmak mı? Onu Allah kurmuştur."
+  },
+  {
+   "verseNo": 27,
+   "source": "okuyan",
+   "text": "Sizin yaratılışınız mı daha güçlüdür, yoksa (Allah’ın) oluşturduğu gök mü?"
+  },
+  {
+   "verseNo": 27,
+   "source": "islamoglu",
+   "text": "YARATILIŞ açısından siz mi daha zorlusunuz, yoksa gök kubbe mi? Göğü O İnşâ etti;"
+  },
+  {
+   "verseNo": 27,
+   "source": "esed",
+   "text": "(Ey insanlar!) Sizi yaratmak, göğü yaratmış olan Allah için daha mı zordur"
+  },
+  {
+   "verseNo": 28,
+   "source": "diyanet",
+   "text": "Onu yükseltmiş ve ona düzen ve âhenk vermiştir."
+  },
+  {
+   "verseNo": 28,
+   "source": "okuyan",
+   "text": "(Göğün) cisimlerini yükseltmiş ve onları düzene kavuşturmuştur."
+  },
+  {
+   "verseNo": 28,
+   "source": "islamoglu",
+   "text": "onu (içinde gök cisimleri) yüzecek şekilde yükseltti ve dengeli bir iç düzene kavuşturdu;"
+  },
+  {
+   "verseNo": 28,
+   "source": "esed",
+   "text": "O, gökkubbeyi yükseltmiş ve ona gerektiği gibi biçim vermiştir"
+  },
+  {
+   "verseNo": 29,
+   "source": "diyanet",
+   "text": "O göğün gecesini karanlık yaptı, ışığını da çıkardı."
+  },
+  {
+   "verseNo": 29,
+   "source": "okuyan",
+   "text": "Gecesini karanlık yapmış, (gündüz) ışığını çıkarıp var etmiştir."
+  },
+  {
+   "verseNo": 29,
+   "source": "islamoglu",
+   "text": "onun gecesini adım adım kararttı, aydınlığını kıvamında çıkardı."
+  },
+  {
+   "verseNo": 29,
+   "source": "esed",
+   "text": "onun gecesini karanlık yapmış ve gündüzünü aydınlatmıştır"
+  },
+  {
+   "verseNo": 30,
+   "source": "diyanet",
+   "text": "Ardından yeri düzenleyip döşedi."
+  },
+  {
+   "verseNo": 30,
+   "source": "okuyan",
+   "text": "Daha sonra da yeri yaymıştır."
+  },
+  {
+   "verseNo": 30,
+   "source": "islamoglu",
+   "text": "Ve onun ardından yeryüzünü yuvarlatarak bir düzene koydu;"
+  },
+  {
+   "verseNo": 30,
+   "source": "esed",
+   "text": "Ve ardından yeri düzenleyip yaymıştır"
+  },
+  {
+   "verseNo": 31,
+   "source": "diyanet",
+   "text": "Ondan suyunu ve merasını çıkardı."
+  },
+  {
+   "verseNo": 31,
+   "source": "okuyan",
+   "text": "Ondan (yerden) suyunu ve bitki örtüsünü de O çıkarmıştır."
+  },
+  {
+   "verseNo": 31,
+   "source": "islamoglu",
+   "text": "oradan suyunu ve bitki örtüsünü çıkarttı;"
+  },
+  {
+   "verseNo": 31,
+   "source": "esed",
+   "text": "yerden suyu ve bitki örtüsünü çıkartmış"
+  },
+  {
+   "verseNo": 32,
+   "source": "diyanet",
+   "text": "Dağları sağlam bir şekilde yerleştirdi."
+  },
+  {
+   "verseNo": 32,
+   "source": "okuyan",
+   "text": "Dağları (yere) O çakmıştır."
+  },
+  {
+   "verseNo": 32,
+   "source": "islamoglu",
+   "text": "ve dağları sağlamca yerleştirdi;"
+  },
+  {
+   "verseNo": 32,
+   "source": "esed",
+   "text": "ve dağları sağlam şekilde yerleştirmiştir"
+  },
+  {
+   "verseNo": 33,
+   "source": "diyanet",
+   "text": "Bunları sizin için ve hayvanlarınız için bir yarar kaynağı yaptı."
+  },
+  {
+   "verseNo": 33,
+   "source": "okuyan",
+   "text": "Sizin ve hayvanlarınızın yararlanması için (böyle yapmıştır)."
+  },
+  {
+   "verseNo": 33,
+   "source": "islamoglu",
+   "text": "siz ve hayvanlarınız için geçim aracı olsun diye."
+  },
+  {
+   "verseNo": 33,
+   "source": "esed",
+   "text": "(bütün bunlar) sizin ve hayvanlarınızın geçinmesi için(dir)"
+  },
+  {
+   "verseNo": 34,
+   "source": "diyanet",
+   "text": "En büyük felaket (kıyamet) geldiği zaman, o gün insan yaptıklarını hatırlar."
+  },
+  {
+   "verseNo": 34,
+   "source": "okuyan",
+   "text": "34-35 . O büyük olay gerçekleştiğinde, işte o gün insan (dünyada) neler yaptığını hatırlayacaktır."
+  },
+  {
+   "verseNo": 34,
+   "source": "islamoglu",
+   "text": "AMA o muazzam olay gerçekleştiği zaman;"
+  },
+  {
+   "verseNo": 34,
+   "source": "esed",
+   "text": "Ve böylece, büyük, sarsıcı (yeniden dirilme) olayı gelip çattığında"
+  },
+  {
+   "verseNo": 35,
+   "source": "diyanet",
+   "text": "En büyük felaket (kıyamet) geldiği zaman, o gün insan yaptıklarını hatırlar."
+  },
+  {
+   "verseNo": 35,
+   "source": "okuyan",
+   "text": "34-35 . O büyük olay gerçekleştiğinde, işte o gün insan (dünyada) neler yaptığını hatırlayacaktır."
+  },
+  {
+   "verseNo": 35,
+   "source": "islamoglu",
+   "text": "(evet) işte o gün, insan neyin peşinden koştuğunu hatırlayacak;"
+  },
+  {
+   "verseNo": 35,
+   "source": "esed",
+   "text": "o Gün insan yaptığı her şeyi (açıkça) hatırlayacak"
+  },
+  {
+   "verseNo": 36,
+   "source": "diyanet",
+   "text": "Cehennem, görenler için apaçık bir şekilde gösterilir."
+  },
+  {
+   "verseNo": 36,
+   "source": "okuyan",
+   "text": "Gör(mesi gerek)enler için cehennem ortaya çıkartılmış (olacak)tır."
+  },
+  {
+   "verseNo": 36,
+   "source": "islamoglu",
+   "text": "zira gözleri faltaşı gibi açacak olan ateş, herkesin göreceği şekilde ortaya çıkarılır."
+  },
+  {
+   "verseNo": 36,
+   "source": "esed",
+   "text": "ve (cehennemin) yakıcı ateşi, onu gör(meye mahkum edil)en herkesin karşısına getirilecektir"
+  },
+  {
+   "verseNo": 37,
+   "source": "diyanet",
+   "text": "Kim azgınlık eder ve dünya hayatını tercih ederse, şüphesiz, cehennem onun sığınağıdır."
+  },
+  {
+   "verseNo": 37,
+   "source": "okuyan",
+   "text": "37-39 . Kim azgınlık yapmış ve dünya hayatını tercih etmişse cehennem (onların) barınağıdır."
+  },
+  {
+   "verseNo": 37,
+   "source": "islamoglu",
+   "text": "Ne var ki, işin sonunda haddini bilmeyen"
+  },
+  {
+   "verseNo": 37,
+   "source": "esed",
+   "text": "Çünkü, hak ve adalet sınırlarını ihlal eden"
+  },
+  {
+   "verseNo": 38,
+   "source": "diyanet",
+   "text": "Kim azgınlık eder ve dünya hayatını tercih ederse, şüphesiz, cehennem onun sığınağıdır."
+  },
+  {
+   "verseNo": 38,
+   "source": "okuyan",
+   "text": "37-39 . Kim azgınlık yapmış ve dünya hayatını tercih etmişse cehennem (onların) barınağıdır."
+  },
+  {
+   "verseNo": 38,
+   "source": "islamoglu",
+   "text": "ve dünya hayatını tercih edenler var ya:"
+  },
+  {
+   "verseNo": 38,
+   "source": "esed",
+   "text": "ve bu dünya hayatını (ruh temizliğine) tercih eden(in)"
+  },
+  {
+   "verseNo": 39,
+   "source": "diyanet",
+   "text": "Kim azgınlık eder ve dünya hayatını tercih ederse, şüphesiz, cehennem onun sığınağıdır."
+  },
+  {
+   "verseNo": 39,
+   "source": "okuyan",
+   "text": "37-39 . Kim azgınlık yapmış ve dünya hayatını tercih etmişse cehennem (onların) barınağıdır."
+  },
+  {
+   "verseNo": 39,
+   "source": "islamoglu",
+   "text": "işte gözleri faltaşı gibi açacak olan o ateştir tek sığınak."
+  },
+  {
+   "verseNo": 39,
+   "source": "esed",
+   "text": "varacağı yer o yakıcı ateştir"
+  },
+  {
+   "verseNo": 40,
+   "source": "diyanet",
+   "text": "Kim de, Rabbinin huzurunda duracağından korkar ve nefsini arzularından alıkoyarsa, şüphesiz, cennet onun sığınağıdır."
+  },
+  {
+   "verseNo": 40,
+   "source": "okuyan",
+   "text": "40-41 . Rabbinin makamından korkan ve kendisini arzulara (uymaktan) alıkoyanlara gelince, şüphesiz ki böylelerinin barınağı da cennettir."
+  },
+  {
+   "verseNo": 40,
+   "source": "islamoglu",
+   "text": "Ama Rabbinin yüce makamından korkan ve kendini nefsine (kulluktan) alıkoyan kimseler var ya:"
+  },
+  {
+   "verseNo": 40,
+   "source": "esed",
+   "text": "Ama Rabbinin huzurunda korku ile duranın ve nefsini kötü arzulardan alıkoyanın"
+  },
+  {
+   "verseNo": 41,
+   "source": "diyanet",
+   "text": "Kim de, Rabbinin huzurunda duracağından korkar ve nefsini arzularından alıkoyarsa, şüphesiz, cennet onun sığınağıdır."
+  },
+  {
+   "verseNo": 41,
+   "source": "okuyan",
+   "text": "40-41 . Rabbinin makamından korkan ve kendisini arzulara (uymaktan) alıkoyanlara gelince, şüphesiz ki böylelerinin barınağı da cennettir."
+  },
+  {
+   "verseNo": 41,
+   "source": "islamoglu",
+   "text": "işte onların varacağı yer de Cennet’tir."
+  },
+  {
+   "verseNo": 41,
+   "source": "esed",
+   "text": "varacağı yer cennettir"
+  },
+  {
+   "verseNo": 42,
+   "source": "diyanet",
+   "text": "Sana, kıyametin ne zaman kopacağını soruyorlar."
+  },
+  {
+   "verseNo": 42,
+   "source": "okuyan",
+   "text": "Sana o (Son) Saat’in demir atma zamanından soruyorlar."
+  },
+  {
+   "verseNo": 42,
+   "source": "islamoglu",
+   "text": "(EY RASUL!) Sana “Kıyamet ne zaman kopacak?” diye soruyorlar."
+  },
+  {
+   "verseNo": 42,
+   "source": "esed",
+   "text": "(Ey peygamber!) Sana Son Saat´i soruyorlar: \"Ne zaman gelip çatacak"
+  },
+  {
+   "verseNo": 43,
+   "source": "diyanet",
+   "text": "Onu bilip söylemek nerede, sen nerede?"
+  },
+  {
+   "verseNo": 43,
+   "source": "okuyan",
+   "text": "Sen onu nerden hatırlayabilirsin ki!"
+  },
+  {
+   "verseNo": 43,
+   "source": "islamoglu",
+   "text": "Sen kim onun vaktini bilmek kim!"
+  },
+  {
+   "verseNo": 43,
+   "source": "esed",
+   "text": "Sen onun hakkında ne söyleyebilirsin ki"
+  },
+  {
+   "verseNo": 44,
+   "source": "diyanet",
+   "text": "Onun nihai bilgisi yalnız Rabbine âittir."
+  },
+  {
+   "verseNo": 44,
+   "source": "okuyan",
+   "text": "Sonu(nun nihai bilgisi) yalnızca Rabbine aittir."
+  },
+  {
+   "verseNo": 44,
+   "source": "islamoglu",
+   "text": "Onun nihai ilmi yalnızca Rabbine malum."
+  },
+  {
+   "verseNo": 44,
+   "source": "esed",
+   "text": "(Çünkü) onun (bilgisinin) başı ve sonu yalnız Rabbinin katındadır"
+  },
+  {
+   "verseNo": 45,
+   "source": "diyanet",
+   "text": "Sen, ancak ondan korkanları uyarıcısın."
+  },
+  {
+   "verseNo": 45,
+   "source": "okuyan",
+   "text": "Sen sadece ondan (Son Saat’ten) saygı ile korkanları uyarıcısın."
+  },
+  {
+   "verseNo": 45,
+   "source": "islamoglu",
+   "text": "Sen sadece (kıyametten) korkanlara hatırlatıcısın."
+  },
+  {
+   "verseNo": 45,
+   "source": "esed",
+   "text": "Sen ancak ondan korkanları uyar(mak için gönderil)mişsin"
+  },
+  {
+   "verseNo": 46,
+   "source": "diyanet",
+   "text": "Kıyameti gördükleri gün onlar, sanki dünyada ancak bir akşam, yahut bir kuşluk vakti kadar kalmış gibidirler."
+  },
+  {
+   "verseNo": 46,
+   "source": "okuyan",
+   "text": "Onu (mahşeri) gördükleri gün, (dünyada sanki) bir yatsı vakti veya (gündüzün) kuşluğu kadar kalmış gibi olacaklar."
+  },
+  {
+   "verseNo": 46,
+   "source": "islamoglu",
+   "text": "(Kâfirler) bu hakikati bizzat gördükleri gün, onlara sanki (bu dünyada) bir akşam veya bir kuşluktan fazla kalmamışlar gibi gelecek."
+  },
+  {
+   "verseNo": 46,
+   "source": "esed",
+   "text": "Onu anladıkları Gün (onlara, bu dünyada) bir akşamdan ya da kuşluğuyla (birlikte sona eren bir gece)den fazla kalmamışlar (gibi gelecek)"
+  },
+  {
+   "verseNo": 1,
+   "verseNoEnd": null,
+   "source": "ai",
+   "text": "Şiddetle çekenler"
+  },
+  {
+   "verseNo": 2,
+   "verseNoEnd": null,
+   "source": "ai",
+   "text": "Hızla çalışanlar"
+  },
+  {
+   "verseNo": 3,
+   "verseNoEnd": null,
+   "source": "ai",
+   "text": "Yüzerek ilerleyenler"
+  },
+  {
+   "verseNo": 4,
+   "verseNoEnd": null,
+   "source": "ai",
+   "text": "Öne geçenler"
+  },
+  {
+   "verseNo": 5,
+   "verseNoEnd": null,
+   "source": "ai",
+   "text": "İşleri düzenleyenler"
+  },
+  {
+   "verseNo": 6,
+   "verseNoEnd": null,
+   "source": "ai",
+   "text": "Sarsıntının titreyeceği gün"
+  },
+  {
+   "verseNo": 7,
+   "verseNoEnd": null,
+   "source": "ai",
+   "text": "Onu takip eden sarsıntı"
+  },
+  {
+   "verseNo": 8,
+   "verseNoEnd": null,
+   "source": "ai",
+   "text": "O gün titreyen kalpler"
+  },
+  {
+   "verseNo": 9,
+   "verseNoEnd": null,
+   "source": "ai",
+   "text": "Gözleri eğilmiş"
+  },
+  {
+   "verseNo": 10,
+   "verseNoEnd": null,
+   "source": "ai",
+   "text": "Onlar söyleyecekler: Acaba biz gerçekten çukura mı geri döndürüleceğiz?"
+  },
+  {
+   "verseNo": 11,
+   "verseNoEnd": null,
+   "source": "ai",
+   "text": "Acaba biz ufalanmış kemikler olduğumuzda mı?"
+  },
+  {
+   "verseNo": 12,
+   "verseNoEnd": null,
+   "source": "ai",
+   "text": "Onlar: \"O zaman bu, zararlı bir dönüş olacaktır.\" derler."
+  },
+  {
+   "verseNo": 13,
+   "verseNoEnd": null,
+   "source": "ai",
+   "text": "O aslında yalnızca tek bir çığlıktır."
+  },
+  {
+   "verseNo": 14,
+   "verseNoEnd": null,
+   "source": "ai",
+   "text": "O zaman onlar seher vaktinde olacaklar."
+  },
+  {
+   "verseNo": 15,
+   "verseNoEnd": null,
+   "source": "ai",
+   "text": "Sana Mûsâ'nın haberi ulaşmış mı?"
+  },
+  {
+   "verseNo": 16,
+   "verseNoEnd": null,
+   "source": "ai",
+   "text": "Rabbi onu mukaddes vadi Tû'da seslendiği zaman."
+  },
+  {
+   "verseNo": 17,
+   "verseNoEnd": null,
+   "source": "ai",
+   "text": "\"Firavun'a git, çünkü o azdı\"."
+  },
+  {
+   "verseNo": 18,
+   "verseNoEnd": null,
+   "source": "ai",
+   "text": "De ki: \"Arınmak ister misin?\""
+  },
+  {
+   "verseNo": 19,
+   "verseNoEnd": null,
+   "source": "ai",
+   "text": "Ve seni Rabbine yönlendireyim de O'ndan korkasın."
+  },
+  {
+   "verseNo": 20,
+   "verseNoEnd": null,
+   "source": "ai",
+   "text": "Ve ona en büyük mucizeyi gösterdim."
+  },
+  {
+   "verseNo": 21,
+   "verseNoEnd": null,
+   "source": "ai",
+   "text": "Bunun üzerine inkâr etti ve isyan etti."
+  },
+  {
+   "verseNo": 22,
+   "verseNoEnd": null,
+   "source": "ai",
+   "text": "Sonra arkasını döndü, aceleyle uzaklaştı."
+  },
+  {
+   "verseNo": 23,
+   "verseNoEnd": null,
+   "source": "ai",
+   "text": "Sonra toplandı ve seslendi."
+  },
+  {
+   "verseNo": 24,
+   "verseNoEnd": null,
+   "source": "ai",
+   "text": "Dedi: \"Ben sizin en yüce Rabbinizim.\""
+  },
+  {
+   "verseNo": 25,
+   "verseNoEnd": null,
+   "source": "ai",
+   "text": "Bunun üzerine Allah onu ahiretin ve dünyanın ibretlik cezasıyla yakaladı."
+  },
+  {
+   "verseNo": 26,
+   "verseNoEnd": null,
+   "source": "ai",
+   "text": "Şüphesiz bunda sakınanlar için bir öğüt vardır."
+  },
+  {
+   "verseNo": 27,
+   "verseNoEnd": null,
+   "source": "ai",
+   "text": "Siz mi yaratılış bakımından daha güçlüsünüz yoksa gök mü? O göğü kurdu."
+  },
+  {
+   "verseNo": 28,
+   "verseNoEnd": null,
+   "source": "ai",
+   "text": "Onun yüksekliğini artırdı ve onu düzenledi."
+  },
+  {
+   "verseNo": 29,
+   "verseNoEnd": null,
+   "source": "ai",
+   "text": "Gecesini kararttı ve gündüzünü ortaya çıkardı."
+  },
+  {
+   "verseNo": 30,
+   "verseNoEnd": null,
+   "source": "ai",
+   "text": "Ardından yeri yaydı."
+  },
+  {
+   "verseNo": 31,
+   "verseNoEnd": null,
+   "source": "ai",
+   "text": "Oradan suyunu ve otlağını çıkardı."
+  },
+  {
+   "verseNo": 32,
+   "verseNoEnd": null,
+   "source": "ai",
+   "text": "Dağları yerleştirdi."
+  },
+  {
+   "verseNo": 33,
+   "verseNoEnd": null,
+   "source": "ai",
+   "text": "Sizin ve hayvanlarınız için geçimliktir."
+  },
+  {
+   "verseNo": 34,
+   "verseNoEnd": null,
+   "source": "ai",
+   "text": "Büyük felaket geldiği zaman."
+  },
+  {
+   "verseNo": 35,
+   "verseNoEnd": null,
+   "source": "ai",
+   "text": "İnsan ne için çabaladığını hatırladığı gündür."
+  },
+  {
+   "verseNo": 36,
+   "verseNoEnd": null,
+   "source": "ai",
+   "text": "Cehennem görenlere gösterilecektir."
+  },
+  {
+   "verseNo": 37,
+   "verseNoEnd": null,
+   "source": "ai",
+   "text": "Aşırı davranan kimse."
+  },
+  {
+   "verseNo": 38,
+   "verseNoEnd": null,
+   "source": "ai",
+   "text": "Ve dünya hayatını tercih eden."
+  },
+  {
+   "verseNo": 39,
+   "verseNoEnd": null,
+   "source": "ai",
+   "text": "İşte cehennem onun barınağıdır."
+  },
+  {
+   "verseNo": 40,
+   "verseNoEnd": null,
+   "source": "ai",
+   "text": "Rabbinin huzurunda durmaktan korkan ve nefsini tutkudan alıkoyan ise."
+  },
+  {
+   "verseNo": 41,
+   "verseNoEnd": null,
+   "source": "ai",
+   "text": "Çünkü cennet sığınma yeridir."
+  },
+  {
+   "verseNo": 42,
+   "verseNoEnd": null,
+   "source": "ai",
+   "text": "Sana saat hakkında soruyorlar: 'Ne zaman gerçekleşecek?'"
+  },
+  {
+   "verseNo": 43,
+   "verseNoEnd": null,
+   "source": "ai",
+   "text": "Onun anılması konusunda senin durumun nedir?"
+  },
+  {
+   "verseNo": 44,
+   "verseNoEnd": null,
+   "source": "ai",
+   "text": "Onun nihai varış yeri Rabbindir."
+  },
+  {
+   "verseNo": 45,
+   "verseNoEnd": null,
+   "source": "ai",
+   "text": "Sen yalnızca ondan korkanları uyaran birisin."
+  },
+  {
+   "verseNo": 46,
+   "verseNoEnd": null,
+   "source": "ai",
+   "text": "Sanki onu gördükleri gün, yalnızca bir akşam ya da bir sabah kalmışlardı."
+  }
+ ],
+ "aiParagraph": "Bir gün her şeyin hesabı sorulacak — buna inanmak ya da inanmamak kişinin seçimi, ama metnin tonu bu soruyu ciddiye almayı hak edecek kadar ağır. Sure, görünmez ama kaçınılmaz bir çekim gücünden söz ederek açılıyor; kimi ruhları derinliklerden koparıp alan, kimi başkalarını serbest bırakan bu gücün arkasından dünya bir sarsıntıyla değişiyor ve o an kalpler titreyip gözler yere düşüyor. Sonra Firavun geliyor: kendisini halkının üstünde, hatta her şeyin üstünde gören, açık bir uyarıyla karşılaşmasına rağmen küçümseyerek sırtını dönen, sonunda toplayıp bağıranlar arasında \"en yüce rab benim\" diyebilecek kadar ileri giden biri. Bu sahne tarihî bir anekdot gibi değil, tanıdık bir insan portresi gibi duruyor: kimseye cevap vermediğine inanan, sınırlarını kendisinin çizdiğini sanan, ta ki çizmediği bir sonla yüzleşene kadar. Arkasından metin, insanı gökyüzüne, yere, suya, dağlara bakmasını sağlıyor — bunların hiçbirini sen kurmadın, ama hepsinden besleniyorsun diyor sessizce. Ve bir gün her şeyin durduğu o anda, insanın aklına yalnızca kendi emeği ve niyeti gelecek. Sure, zamanın ne kadar kısa sürdüğünü hatırlatarak bitiyor: o gün geldiğinde, geçen bütün ömür bir öğleden sonra kadar bile uzun gelmeyecek."
 }

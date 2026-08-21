@@ -1,179 +1,179 @@
 {
-  "stationNo": 111,
-  "surahNo": 110,
-  "name": "Nasr",
-  "nameArabic": "",
-  "nameMeaning": "",
-  "verseCount": 3,
-  "nuzulOrderOkuyan": 111,
-  "periodDiyanet": "Medine",
-  "periodOkuyan": "Medine",
-  "revelationTiming": "Nüzul yılı konusunda ihtilaf vardır. Ağırlıklı görüş Veda Haccı sırasında (hicri 10) indiği yönünde olsa da, hicri 7 veya 8. yıllarda indiğini belirten görüşler de mevcuttur.",
-  "stationTitle": "Zirvede Gelen Uyarı: Zaferin Sahibi Kim?",
-  "introduction": "Nasr suresi, Kur'an-ı Kerim'in 110. suresidir ve üç ayetten oluşur. Adını ilk ayetinde geçen ve 'yardım' anlamına gelen 'nasr' kelimesinden alır. Tamamı bir bütün olarak indirilen son sure olma özelliğini taşır. İçerdiği mesajlar ve Hz. Peygamber'in vefatına işaret etmesi sebebiyle 'Tevdî' (vedalaşma) suresi olarak da anılmıştır.\n\nSure, yirmi yıla yaklaşan zorlu bir mücadelenin ardından gelen ilahi yardımı, fethi ve insanların kitleler halinde İslam'a girişini konu edinir. Ancak bu büyük başarıyı bir kutlama veya gurur vesilesi olarak değil, derin bir kulluk bilinciyle karşılamayı emreder.\n\nSurenin ana ekseni, insanın elde ettiği başarılar karşısındaki duruşudur. Zaferin ve başarının asıl sahibinin Allah olduğunu hatırlatarak, en görkemli anlarda bile insanın kendi sınırlarını bilmesi, Rabbini yüceltmesi ve eksiklikleri için bağışlanma dilemesi gerektiğini vurgular.",
-  "occasionOfRevelation": "Nasr suresi Medine döneminde nazil olmuştur. Nüzul zamanı konusunda kaynaklarda farklı görüşler bulunmaktadır. Ağırlıklı görüş, surenin Veda Haccı sırasında (Zilhicce 10 / Mart 632) indiği yönündedir. Ancak İslamiyet'in hızla yayılmaya başladığı hicri 7. veya 8. (miladi 628 veya 629) yıllarda indiğini kabul edenler de vardır.\n\nSurenin nüzul ortamı, Müslümanların Mekke dönemindeki zayıf ve ezilen konumlarından kurtulup, büyük bir güce ulaştıkları ve Mekke'nin fethinin gerçekleştiği veya ufukta göründüğü günlerdir. Yıllarca süren çileli tebliğ sürecinin ardından Arap kabileleri savaşmaksızın akın akın İslam'a girmeye başlamıştır.\n\nSahabeden bazıları, özellikle Hz. Ebû Bekir ve Hz. Ömer gibi önde gelen isimler, bu suredeki 'yardım geldi, fetih gerçekleşti ve görev tamamlandı' vurgusundan Hz. Peygamber'in vefatının yaklaştığı sonucunu çıkarmışlardır. Nitekim rivayetlere göre Hz. Peygamber bu surenin nüzulünden sonra namazlarında ve diğer zamanlarında Allah'ı tesbih etmeyi ve istiğfarda bulunmayı çokça artırmıştır.",
-  "occasionSources": "TDV İslâm Ansiklopedisi, \"Nasr Sûresi\" maddesi; Diyanet İşleri Başkanlığı Kur'an Yolu Tefsiri, Nasr 1-3 ayet tefsiri; kuranokuyan.com, Nasr suresi tefsiri (Prof. Dr. Mehmet Okuyan).",
-  "keyTerms": [
-    {
-      "term": "nasr",
-      "arabic": "نَصْر",
-      "verseRef": "110:1",
-      "meaning": "Yardım etmek, zafere ulaştırmak. Ayette, zorlu mücadelelerin ardından gelen ilahi destek ve nihai başarı anlamında kullanılmıştır."
-    },
-    {
-      "term": "feth",
-      "arabic": "فَتْح",
-      "verseRef": "110:1",
-      "meaning": "Açmak, kapalı bir şeyi gidermek, zafer kazanmak. Burada başta Mekke'nin fethi olmak üzere, kalplerin ve yolların hakikate açılmasını ifade eder."
-    },
-    {
-      "term": "efvâc",
-      "arabic": "أَفْوَاج",
-      "verseRef": "110:2",
-      "meaning": "Bölükler, gruplar, kitleler. İnsanların tek tük değil, dalgalar halinde ve topluluklar olarak hakikate yönelişini tasvir eder."
-    },
-    {
-      "term": "tesbîh",
-      "arabic": "سَبِّحْ",
-      "verseRef": "110:3",
-      "meaning": "Allah'ı her türlü eksiklikten tenzih etmek. Başarının sarhoşluğuna kapılmadan, kusursuzluğun sadece Allah'a ait olduğunu ilân etmektir."
-    },
-    {
-      "term": "istiğfâr",
-      "arabic": "اسْتَغْفِرْ",
-      "verseRef": "110:3",
-      "meaning": "Bağışlanma dilemek. En büyük başarı anında bile insanın kendi eksikliğini fark edip Rabbine sığınmasıdır."
-    }
-  ],
-  "themes": [
-    {
-      "label": "Başarının Asıl Sahibi",
-      "body": "İnsan, uzun çabalar sonucu bir başarı elde ettiğinde bunu kendi yeteneğine ve gücüne bağlama eğilimindedir. Sure, en büyük zaferlerin bile kendi eserimiz değil, ilahi bir lütuf olduğunu hatırlatır."
-    },
-    {
-      "label": "Zirvede İstiğfar",
-      "body": "Genellikle hata yapıldığında veya başarısız olunduğunda bağışlanma dilenir. Ancak bu sure, insanın en başarılı, en güçlü ve en haklı göründüğü anda bile kibre düşme tehlikesine karşı istiğfara sarılması gerektiğini öğretir."
-    },
-    {
-      "label": "Görevin Tamamlanması ve Dönüş",
-      "body": "Dünyevi başarılar bir son değil, asıl yurda dönüşün habercisidir. Elde edilen her sonuç, bizi asıl kaynağa, yani Allah'a bir adım daha yaklaştırmalıdır."
-    }
-  ],
-  "questions": [
-    "Elde ettiğim başarıları, kazandığım statüyü veya aştığım zorlukları anlatırken, içten içe 'Bunu ben başardım, ben hak ettim' diyerek asıl kaynağı unuttuğum oluyor mu?",
-    "Kendimi en güçlü, en haklı ve en başarılı hissettiğim anlarda, kibre kapılmamak için kendi eksikliklerimle yüzleşip istiğfar edebiliyor muyum?"
-  ],
-  "contemporaryMeaning": "Bu sure, insanın başarı, güç ve haklılık karşısında yaşadığı zehirlenmeyi ve zafer anının getirdiği gizli tehlikeyi teşhis eder. Uzun süren çabaların ardından gelen o zirve noktası, insanın kendi sınırlarını en çok unuttuğu yerdir. Metin, tam da her şeyin yolunda gittiği, hedeflere ulaşıldığı ve alkışların yükseldiği o anda devreye girerek, başarıyı bir kutlama nesnesi olmaktan çıkarıp bir yüzleşme zeminine dönüştürür.\n\nBugünün diliyle: Zorlu bir girişimin ardından gelen şirket satışı, yıllarca çalışılarak elde edilen akademik bir unvan veya sosyal medyada aniden ulaşılan devasa görünürlük, insana kendi gücünün mutlak olduğu yanılsamasını verir. Kariyer basamaklarının en üstüne çıkıldığında veya bir tartışmada kesin bir galibiyet elde edildiğinde beliren o \"ben yaptım\" duygusu, aslında en kırılgan andır. Sure, tam bu tatmin anında insanın kendi eksikliğine bakmasını, ulaşılan hedefin bir son değil, asıl kaynağa karşı bir mahcubiyet vesilesi olduğunu işaret eder.\n\nHer kazanımın bir kişisel marka inşasına dönüştüğü bir düzende, zirvedeyken af dilemek radikal bir eylemdir. İnsanın en haklı, en yenilmez hissettiği anda kendi yetersizliğini kabullenmesi, başarıyı bir mülkiyet değil, geçici bir emanet olarak konumlandırır. Bu yaklaşım, başarıyı kibre dönüşmeden önce yalıtır ve insanı kendi zaferinin altında ezilmekten korur.",
-  "scholarlyNotes": [
-    {
-      "kind": "ihtilaf",
-      "body": "Surenin nüzul zamanı hakkında kaynaklarda farklı görüşler vardır. TDV İslam Ansiklopedisi ve Diyanet tefsiri ağırlıklı olarak Veda Haccı sırasında (Zilhicce 10 / Mart 632) indiği görüşünü aktarırken, aynı zamanda İslamiyet'in hızla yayılmaya başladığı 7 veya 8 (628 veya 629) yılında indiğini kabul edenlerin de olduğunu belirtir. Mehmet Okuyan ise hicri 8 veya 9. yılda indirilmiş olmasının muhtemel olduğunu ifade eder.",
-      "label": "Nüzul Zamanı İhtilafı"
-    },
-    {
-      "kind": "rivayet",
-      "body": "Bazı kaynaklarda nakledilen, 'İzâ câe nasrullah sûresini okuyan kimseye Mekke'nin fethedildiği gün Muhammed'le birlikte bulunan gazilerin sevabı verilir' mealindeki hadisin mevzû (uydurma) olduğu TDV İslam Ansiklopedisi'nde (Muhammed et-Trablusî'ye dayandırılarak) açıkça belirtilmiştir.",
-      "label": "Fazilet Rivayeti Uyarısı"
-    },
-    {
-      "kind": "nuans",
-      "body": "Surenin, Hz. Peygamber'in vefatının yaklaştığına işaret etmesi ve sahabenin önde gelenlerinin bundan bu anlamı çıkarması sebebiyle 'Tevdî' (vedalaşma) suresi olarak da isimlendirildiği kaynaklarda özellikle vurgulanmaktadır.",
-      "label": "Tevdî (Vedalaşma) İsmi"
-    }
-  ],
-  "verses": [
-    {
-      "verseNo": 1,
-      "textArabic": "بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ إِذَا جَآءَ نَصْرُ ٱللَّهِ وَٱلْفَتْحُ"
-    },
-    {
-      "verseNo": 2,
-      "textArabic": "وَرَأَيْتَ ٱلنَّاسَ يَدْخُلُونَ فِى دِينِ ٱللَّهِ أَفْوَاجًۭا"
-    },
-    {
-      "verseNo": 3,
-      "textArabic": "فَسَبِّحْ بِحَمْدِ رَبِّكَ وَٱسْتَغْفِرْهُ ۚ إِنَّهُۥ كَانَ تَوَّابًۢا"
-    }
-  ],
-  "translations": [
-    {
-      "verseNo": 1,
-      "verseNoEnd": null,
-      "source": "ai",
-      "text": "Allah'ın yardımı ve fetih geldiğinde"
-    },
-    {
-      "verseNo": 1,
-      "source": "diyanet",
-      "text": "De ki: \"Ey Kâfirler!\""
-    },
-    {
-      "verseNo": 1,
-      "source": "esed",
-      "text": "Allah´ın yardımı ve zafer geldiğinde"
-    },
-    {
-      "verseNo": 1,
-      "source": "islamoglu",
-      "text": "ALLAH’IN zafer garantili yardımı ve Fetih geldiğinde,"
-    },
-    {
-      "verseNo": 1,
-      "source": "okuyan",
-      "text": "Allah’ın yardımı ve zafer geldiği zaman,"
-    },
-    {
-      "verseNo": 2,
-      "verseNoEnd": null,
-      "source": "ai",
-      "text": "Ve insanların Allah'ın dinine topluluklar halinde girdiklerini görürsün."
-    },
-    {
-      "verseNo": 2,
-      "source": "diyanet",
-      "text": "\"Ben sizin kulluk ettiklerinize kulluk etmem.\""
-    },
-    {
-      "verseNo": 2,
-      "source": "esed",
-      "text": "ve insanların Allah´ın dinine dalga dalga girdiklerini gördüğünde"
-    },
-    {
-      "verseNo": 2,
-      "source": "islamoglu",
-      "text": "ve insanların kitleler halinde Allah’ın dinine gireceklerini gördüğünde, (senin görevin de tamamlandı demektir):"
-    },
-    {
-      "verseNo": 2,
-      "source": "okuyan",
-      "text": "İnsanların Allah’ın dinine akın akın girdiğini gördüğün (zaman),"
-    },
-    {
-      "verseNo": 3,
-      "verseNoEnd": null,
-      "source": "ai",
-      "text": "O halde Rabbinin övgüsüyle O'nu tesbih et ve O'ndan bağışlanma dile. Şüphesiz O çok tövbe kabul edendir."
-    },
-    {
-      "verseNo": 3,
-      "source": "diyanet",
-      "text": "\"Siz de benim kulluk ettiğime kulluk edecek değilsiniz.\""
-    },
-    {
-      "verseNo": 3,
-      "source": "esed",
-      "text": "Rabbinin sınırsız şanını yücelt, O´na hamdet ve O´ndan mağfiret dile çünkü O, her zaman tevbeleri kabul edendir"
-    },
-    {
-      "verseNo": 3,
-      "source": "islamoglu",
-      "text": "Artık durma, tesbih et Rabbini hamd ile birlikte ve O’ndan bağışlanma dile; zira O, tüm içten tevbeleri kabul edendir!"
-    },
-    {
-      "verseNo": 3,
-      "source": "okuyan",
-      "text": "Rabbini hamd (övgü) ile tesbih et (yücelt) ve O’ndan bağışlanma dile. Şüphesiz ki O, tevbeleri çok kabul edendir."
-    }
-  ],
-  "aiParagraph": "Bir şeyin sonunda geldiğini bilmek, insanı iki türlü karşılayabilir: ya zaferle şişer ya da içinde bir şeyin bittiğini hissederek durur. Bu kısa metin tam o eşiği anlatıyor — beklenen nihayet gelmiş, kapılar açılmış, kalabalıklar akın akın geliyor; ama metnin sesi tam burada tuhaf bir yöne dönüyor. Beklenen kutlama, gövde gösterisi ya da \"işte başardık\" coşkusu yok. Bunun yerine sessizce eğilmek, minneti içe döndürmek ve \"ben de yanıldım, ben de eksik kaldım\" diyebilmek geliyor. Sanki büyük bir başarının tam ortasında söylenenler bunlar: Kazanan tarafta olmak seni arındırmaz, hedefe ulaşmak seni tamamlamaz. Bir insan en çok neyi başardığında kendini haklı ve tam hisseder? İşte o an, bu metnin tam da orada bir soru bıraktığı yer."
+ "stationNo": 111,
+ "surahNo": 110,
+ "name": "Nasr",
+ "nameArabic": "",
+ "nameMeaning": "",
+ "verseCount": 3,
+ "nuzulOrderOkuyan": 111,
+ "periodDiyanet": "Medine",
+ "periodOkuyan": "Medine",
+ "revelationTiming": "Nüzul yılı konusunda ihtilaf vardır. Ağırlıklı görüş Veda Haccı sırasında (hicri 10) indiği yönünde olsa da, hicri 7 veya 8. yıllarda indiğini belirten görüşler de mevcuttur.",
+ "stationTitle": "Zirvede Gelen Uyarı: Zaferin Sahibi Kim?",
+ "introduction": "Nasr suresi, Kur'an-ı Kerim'in 110. suresidir ve üç ayetten oluşur. Adını ilk ayetinde geçen ve 'yardım' anlamına gelen 'nasr' kelimesinden alır. Tamamı bir bütün olarak indirilen son sure olma özelliğini taşır. İçerdiği mesajlar ve Hz. Peygamber'in vefatına işaret etmesi sebebiyle 'Tevdî' (vedalaşma) suresi olarak da anılmıştır.\n\nSure, yirmi yıla yaklaşan zorlu bir mücadelenin ardından gelen ilahi yardımı, fethi ve insanların kitleler halinde İslam'a girişini konu edinir. Ancak bu büyük başarıyı bir kutlama veya gurur vesilesi olarak değil, derin bir kulluk bilinciyle karşılamayı emreder.\n\nSurenin ana ekseni, insanın elde ettiği başarılar karşısındaki duruşudur. Zaferin ve başarının asıl sahibinin Allah olduğunu hatırlatarak, en görkemli anlarda bile insanın kendi sınırlarını bilmesi, Rabbini yüceltmesi ve eksiklikleri için bağışlanma dilemesi gerektiğini vurgular.",
+ "occasionOfRevelation": "Nasr suresi Medine döneminde nazil olmuştur. Nüzul zamanı konusunda kaynaklarda farklı görüşler bulunmaktadır. Ağırlıklı görüş, surenin Veda Haccı sırasında (Zilhicce 10 / Mart 632) indiği yönündedir. Ancak İslamiyet'in hızla yayılmaya başladığı hicri 7. veya 8. (miladi 628 veya 629) yıllarda indiğini kabul edenler de vardır.\n\nSurenin nüzul ortamı, Müslümanların Mekke dönemindeki zayıf ve ezilen konumlarından kurtulup, büyük bir güce ulaştıkları ve Mekke'nin fethinin gerçekleştiği veya ufukta göründüğü günlerdir. Yıllarca süren çileli tebliğ sürecinin ardından Arap kabileleri savaşmaksızın akın akın İslam'a girmeye başlamıştır.\n\nSahabeden bazıları, özellikle Hz. Ebû Bekir ve Hz. Ömer gibi önde gelen isimler, bu suredeki 'yardım geldi, fetih gerçekleşti ve görev tamamlandı' vurgusundan Hz. Peygamber'in vefatının yaklaştığı sonucunu çıkarmışlardır. Nitekim rivayetlere göre Hz. Peygamber bu surenin nüzulünden sonra namazlarında ve diğer zamanlarında Allah'ı tesbih etmeyi ve istiğfarda bulunmayı çokça artırmıştır.",
+ "occasionSources": "TDV İslâm Ansiklopedisi, \"Nasr Sûresi\" maddesi; Diyanet İşleri Başkanlığı Kur'an Yolu Tefsiri, Nasr 1-3 ayet tefsiri; kuranokuyan.com, Nasr suresi tefsiri (Prof. Dr. Mehmet Okuyan).",
+ "keyTerms": [
+  {
+   "term": "nasr",
+   "arabic": "نَصْر",
+   "verseRef": "110:1",
+   "meaning": "Yardım etmek, zafere ulaştırmak. Ayette, zorlu mücadelelerin ardından gelen ilahi destek ve nihai başarı anlamında kullanılmıştır."
+  },
+  {
+   "term": "feth",
+   "arabic": "فَتْح",
+   "verseRef": "110:1",
+   "meaning": "Açmak, kapalı bir şeyi gidermek, zafer kazanmak. Burada başta Mekke'nin fethi olmak üzere, kalplerin ve yolların hakikate açılmasını ifade eder."
+  },
+  {
+   "term": "efvâc",
+   "arabic": "أَفْوَاج",
+   "verseRef": "110:2",
+   "meaning": "Bölükler, gruplar, kitleler. İnsanların tek tük değil, dalgalar halinde ve topluluklar olarak hakikate yönelişini tasvir eder."
+  },
+  {
+   "term": "tesbîh",
+   "arabic": "سَبِّحْ",
+   "verseRef": "110:3",
+   "meaning": "Allah'ı her türlü eksiklikten tenzih etmek. Başarının sarhoşluğuna kapılmadan, kusursuzluğun sadece Allah'a ait olduğunu ilân etmektir."
+  },
+  {
+   "term": "istiğfâr",
+   "arabic": "اسْتَغْفِرْ",
+   "verseRef": "110:3",
+   "meaning": "Bağışlanma dilemek. En büyük başarı anında bile insanın kendi eksikliğini fark edip Rabbine sığınmasıdır."
+  }
+ ],
+ "themes": [
+  {
+   "label": "Başarının Asıl Sahibi",
+   "body": "İnsan, uzun çabalar sonucu bir başarı elde ettiğinde bunu kendi yeteneğine ve gücüne bağlama eğilimindedir. Sure, en büyük zaferlerin bile kendi eserimiz değil, ilahi bir lütuf olduğunu hatırlatır."
+  },
+  {
+   "label": "Zirvede İstiğfar",
+   "body": "Genellikle hata yapıldığında veya başarısız olunduğunda bağışlanma dilenir. Ancak bu sure, insanın en başarılı, en güçlü ve en haklı göründüğü anda bile kibre düşme tehlikesine karşı istiğfara sarılması gerektiğini öğretir."
+  },
+  {
+   "label": "Görevin Tamamlanması ve Dönüş",
+   "body": "Dünyevi başarılar bir son değil, asıl yurda dönüşün habercisidir. Elde edilen her sonuç, bizi asıl kaynağa, yani Allah'a bir adım daha yaklaştırmalıdır."
+  }
+ ],
+ "questions": [
+  "Elde ettiğim başarıları, kazandığım statüyü veya aştığım zorlukları anlatırken, içten içe 'Bunu ben başardım, ben hak ettim' diyerek asıl kaynağı unuttuğum oluyor mu?",
+  "Kendimi en güçlü, en haklı ve en başarılı hissettiğim anlarda, kibre kapılmamak için kendi eksikliklerimle yüzleşip istiğfar edebiliyor muyum?"
+ ],
+ "contemporaryMeaning": "Bu sure, insanın başarı, güç ve haklılık karşısında yaşadığı zehirlenmeyi ve zafer anının getirdiği gizli tehlikeyi teşhis eder. Uzun süren çabaların ardından gelen o zirve noktası, insanın kendi sınırlarını en çok unuttuğu yerdir. Metin, tam da her şeyin yolunda gittiği, hedeflere ulaşıldığı ve alkışların yükseldiği o anda devreye girerek, başarıyı bir kutlama nesnesi olmaktan çıkarıp bir yüzleşme zeminine dönüştürür.\n\nBugünün diliyle: Zorlu bir girişimin ardından gelen şirket satışı, yıllarca çalışılarak elde edilen akademik bir unvan veya sosyal medyada aniden ulaşılan devasa görünürlük, insana kendi gücünün mutlak olduğu yanılsamasını verir. Kariyer basamaklarının en üstüne çıkıldığında veya bir tartışmada kesin bir galibiyet elde edildiğinde beliren o \"ben yaptım\" duygusu, aslında en kırılgan andır. Sure, tam bu tatmin anında insanın kendi eksikliğine bakmasını, ulaşılan hedefin bir son değil, asıl kaynağa karşı bir mahcubiyet vesilesi olduğunu işaret eder.\n\nHer kazanımın bir kişisel marka inşasına dönüştüğü bir düzende, zirvedeyken af dilemek radikal bir eylemdir. İnsanın en haklı, en yenilmez hissettiği anda kendi yetersizliğini kabullenmesi, başarıyı bir mülkiyet değil, geçici bir emanet olarak konumlandırır. Bu yaklaşım, başarıyı kibre dönüşmeden önce yalıtır ve insanı kendi zaferinin altında ezilmekten korur.",
+ "scholarlyNotes": [
+  {
+   "kind": "ihtilaf",
+   "body": "Surenin nüzul zamanı hakkında kaynaklarda farklı görüşler vardır. TDV İslam Ansiklopedisi ve Diyanet tefsiri ağırlıklı olarak Veda Haccı sırasında (Zilhicce 10 / Mart 632) indiği görüşünü aktarırken, aynı zamanda İslamiyet'in hızla yayılmaya başladığı 7 veya 8 (628 veya 629) yılında indiğini kabul edenlerin de olduğunu belirtir. Mehmet Okuyan ise hicri 8 veya 9. yılda indirilmiş olmasının muhtemel olduğunu ifade eder.",
+   "label": "Nüzul Zamanı İhtilafı"
+  },
+  {
+   "kind": "rivayet",
+   "body": "Bazı kaynaklarda nakledilen, 'İzâ câe nasrullah sûresini okuyan kimseye Mekke'nin fethedildiği gün Muhammed'le birlikte bulunan gazilerin sevabı verilir' mealindeki hadisin mevzû (uydurma) olduğu TDV İslam Ansiklopedisi'nde (Muhammed et-Trablusî'ye dayandırılarak) açıkça belirtilmiştir.",
+   "label": "Fazilet Rivayeti Uyarısı"
+  },
+  {
+   "kind": "nuans",
+   "body": "Surenin, Hz. Peygamber'in vefatının yaklaştığına işaret etmesi ve sahabenin önde gelenlerinin bundan bu anlamı çıkarması sebebiyle 'Tevdî' (vedalaşma) suresi olarak da isimlendirildiği kaynaklarda özellikle vurgulanmaktadır.",
+   "label": "Tevdî (Vedalaşma) İsmi"
+  }
+ ],
+ "verses": [
+  {
+   "verseNo": 1,
+   "textArabic": "بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ إِذَا جَآءَ نَصْرُ ٱللَّهِ وَٱلْفَتْحُ"
+  },
+  {
+   "verseNo": 2,
+   "textArabic": "وَرَأَيْتَ ٱلنَّاسَ يَدْخُلُونَ فِى دِينِ ٱللَّهِ أَفْوَاجًۭا"
+  },
+  {
+   "verseNo": 3,
+   "textArabic": "فَسَبِّحْ بِحَمْدِ رَبِّكَ وَٱسْتَغْفِرْهُ ۚ إِنَّهُۥ كَانَ تَوَّابًۢا"
+  }
+ ],
+ "translations": [
+  {
+   "verseNo": 1,
+   "source": "diyanet",
+   "text": "De ki: \"Ey Kâfirler!\""
+  },
+  {
+   "verseNo": 1,
+   "source": "okuyan",
+   "text": "Allah’ın yardımı ve zafer geldiği zaman,"
+  },
+  {
+   "verseNo": 1,
+   "source": "islamoglu",
+   "text": "ALLAH’IN zafer garantili yardımı ve Fetih geldiğinde,"
+  },
+  {
+   "verseNo": 1,
+   "source": "esed",
+   "text": "Allah´ın yardımı ve zafer geldiğinde"
+  },
+  {
+   "verseNo": 2,
+   "source": "diyanet",
+   "text": "\"Ben sizin kulluk ettiklerinize kulluk etmem.\""
+  },
+  {
+   "verseNo": 2,
+   "source": "okuyan",
+   "text": "İnsanların Allah’ın dinine akın akın girdiğini gördüğün (zaman),"
+  },
+  {
+   "verseNo": 2,
+   "source": "islamoglu",
+   "text": "ve insanların kitleler halinde Allah’ın dinine gireceklerini gördüğünde, (senin görevin de tamamlandı demektir):"
+  },
+  {
+   "verseNo": 2,
+   "source": "esed",
+   "text": "ve insanların Allah´ın dinine dalga dalga girdiklerini gördüğünde"
+  },
+  {
+   "verseNo": 3,
+   "source": "diyanet",
+   "text": "\"Siz de benim kulluk ettiğime kulluk edecek değilsiniz.\""
+  },
+  {
+   "verseNo": 3,
+   "source": "okuyan",
+   "text": "Rabbini hamd (övgü) ile tesbih et (yücelt) ve O’ndan bağışlanma dile. Şüphesiz ki O, tevbeleri çok kabul edendir."
+  },
+  {
+   "verseNo": 3,
+   "source": "islamoglu",
+   "text": "Artık durma, tesbih et Rabbini hamd ile birlikte ve O’ndan bağışlanma dile; zira O, tüm içten tevbeleri kabul edendir!"
+  },
+  {
+   "verseNo": 3,
+   "source": "esed",
+   "text": "Rabbinin sınırsız şanını yücelt, O´na hamdet ve O´ndan mağfiret dile çünkü O, her zaman tevbeleri kabul edendir"
+  },
+  {
+   "verseNo": 1,
+   "verseNoEnd": null,
+   "source": "ai",
+   "text": "Allah'ın yardımı ve fetih geldiğinde"
+  },
+  {
+   "verseNo": 2,
+   "verseNoEnd": null,
+   "source": "ai",
+   "text": "Ve insanların Allah'ın dinine topluluklar halinde girdiklerini görürsün."
+  },
+  {
+   "verseNo": 3,
+   "verseNoEnd": null,
+   "source": "ai",
+   "text": "O halde Rabbinin övgüsüyle O'nu tesbih et ve O'ndan bağışlanma dile. Şüphesiz O çok tövbe kabul edendir."
+  }
+ ],
+ "aiParagraph": "Bir şeyin sonunda geldiğini bilmek, insanı iki türlü karşılayabilir: ya zaferle şişer ya da içinde bir şeyin bittiğini hissederek durur. Bu kısa metin tam o eşiği anlatıyor — beklenen nihayet gelmiş, kapılar açılmış, kalabalıklar akın akın geliyor; ama metnin sesi tam burada tuhaf bir yöne dönüyor. Beklenen kutlama, gövde gösterisi ya da \"işte başardık\" coşkusu yok. Bunun yerine sessizce eğilmek, minneti içe döndürmek ve \"ben de yanıldım, ben de eksik kaldım\" diyebilmek geliyor. Sanki büyük bir başarının tam ortasında söylenenler bunlar: Kazanan tarafta olmak seni arındırmaz, hedefe ulaşmak seni tamamlamaz. Bir insan en çok neyi başardığında kendini haklı ve tam hisseder? İşte o an, bu metnin tam da orada bir soru bıraktığı yer."
 }

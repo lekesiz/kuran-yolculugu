@@ -1,297 +1,322 @@
 {
- "stationNo": 5,
- "surahNo": 1,
- "nuzulOrderOkuyan": 1,
- "name": "Fâtiha",
- "nameArabic": "الفاتحة",
- "nameMeaning": "Açan, açılış",
- "verseCount": 7,
- "periodDiyanet": "Mekke",
- "periodOkuyan": "Mekke",
- "revelationTiming": "Mekke dönemi — namazın ilk çerçevesi",
- "stationTitle": "Yedi ayetlik bir çerçeve: kim olduğumuzu, kimden ne istediğimizi söyleyen bir dil.",
- "introduction": "Fâtiha, mushafın ilk suresidir ve adı \"açan, açılış\" anlamına gelir. Yedi ayetlik sure, Mehmet Okuyan'ın tertibinde nüzul sırasının ilk halkası olarak yer alır — bu tasnif, surenin namazın çerçevesini kuran işleviyle ilişkilidir.\n\nSurenin yapısı iki yarıdan oluşur: ilk üç ayet Allah'ı niteler, son üç ayet insanın talebini dile getirir, ortadaki dördüncü ayet (\"Yalnız sana kulluk eder, yalnız senden yardım dileriz\") ikisini birbirine bağlayan menteşedir. Kur'an'ın tamamında insanın ağzından konuştuğu en yoğun bölümdür.",
- "occasionOfRevelation": "Fâtiha'nın nüzulüne dair belirli bir olay anlatısı yoktur; sure, namazın kurucu metni olarak Mekke döneminin erken evresine tarihlenir. Diyanet İşleri Başkanlığı sureyi Mekke dönemine yerleştirir.\n\nSurenin tarihsel bağlamı, bir olaydan çok bir ihtiyaçtır: yeni bir topluluğun Tanrı'yla kuracağı ilişkinin dilini bulması. Mekke'nin çok tanrılı ortamında her tanrının belirli bir işlev için çağrıldığı bir dua kültürü vardı. Fâtiha bunun yerine tek bir muhataba yönelen, tek bir talep etrafında toplanan bir dil kurar: doğru yolu göster.\n\nSure hakkında en çok tartışılan nokta, son ayetteki iki grubun kim olduğudur. Bazı rivayetler bunları belirli topluluklarla eşleştirir; ancak Kur'an metni isim vermez ve tanımı davranış üzerinden yapar: gazaba uğrayanlar ve sapanlar.",
- "occasionSources": "Diyanet İşleri Başkanlığı Kur'an Yolu Tefsiri, Fâtiha suresi girişi; TDV İslâm Ansiklopedisi, \"Fâtiha Sûresi\" maddesi.",
- "contemporaryMeaning": "Fâtiha'nın en dikkat çekici yanı, ne istediğidir. Yedi ayette servet, sağlık, başarı ya da korunma talebi yoktur. Tek talep yön bilgisidir: \"Bizi doğru yola ilet.\"\n\nBu, insanın en temel sorununu yeniden tanımlar. Metne göre asıl eksik güç ya da imkân değil, istikamettir. Yanlış yönde ilerleyen birinin hızı, sorunu büyütmekten başka bir şey yapmaz.\n\nİkinci dikkat çekici nokta çoğul kullanımıdır. \"Bizi ilet\" der, \"beni\" demez. Tek başına okunduğunda bile sure insanı bir topluluğun içinde konumlandırır; bireysel kurtuluşu değil ortak yolu ister.",
- "keyTerms": [
-  {
-   "term": "rabbü'l-âlemîn",
-   "arabic": "رَبِّ الْعَالَمِينَ",
-   "verseRef": "1:2",
-   "meaning": "Âlemlerin Rabbi. \"Rab\" kelimesi sahip olmayı değil, terbiye edip olgunlaştırmayı, ihtiyacını görmeyi ifade eder."
-  },
-  {
-   "term": "ihdinâ",
-   "arabic": "اهْدِنَا",
-   "verseRef": "1:6",
-   "meaning": "\"Bize yol göster\" — surenin tek talebi. Çoğul kip, isteğin bireysel değil ortak olduğunu gösterir."
-  },
-  {
-   "term": "sırâtu'l-müstakîm",
-   "arabic": "الصِّرَاطَ الْمُسْتَقِيمَ",
-   "verseRef": "1:6",
-   "meaning": "Dosdoğru yol. \"Sırât\" geniş ve açık ana yol demektir; sapmaya değil yürümeye elverişli olanı imler."
-  }
- ],
- "themes": [
-  {
-   "label": "İstenen şey: yön, güç değil",
-   "body": "Yedi ayetlik dua servet, zafer ya da şifa istemez. Tek talebi istikamettir. Metne göre insanın asıl eksiği imkân değil doğru yöndür."
-  },
-  {
-   "label": "\"Ben\" değil \"biz\"",
-   "body": "Sure yalnız okunurken de çoğul konuşur. Kurtuluşu bireysel bir başarı olarak değil, ortak bir yürüyüş olarak tasavvur eder."
-  },
-  {
-   "label": "Rahmetin öne alınması",
-   "body": "Allah'ı niteleyen sıfatlar arasında merhamet, hesap gününden önce gelir. Sıralamanın kendisi bir anlam taşır."
-  },
-  {
-   "label": "Sapmanın iki biçimi",
-   "body": "Son ayet iki olumsuz durumu ayırır: bildiği halde yanlışta ısrar etmek ve bilmediği için yolunu kaybetmek. Metin isim vermez, davranış tanımlar."
-  }
- ],
- "questions": [
-  "Dua ettiğimde ne istiyorum? İsteklerimin kaçı sonuç, kaçı yön hakkında?",
-  "Hızlı ilerlediğim ama yönünden emin olmadığım bir alan var mı hayatımda?",
-  "\"Bizi\" derken kimi kastediyorum? Kurtuluşumu başkalarından ayrı düşünüyor muyum?"
- ],
- "scholarlyNotes": [
-  {
-   "kind": "nuans",
-   "label": "Mekkî oluşunun delili",
-   "body": "Surenin Mekke döneminde indiğinin en güçlü dayanağı, Mekkî bir sure olan Hicr suresinin 87. ayetinde geçen \"es-seb'u'l-mesânî\" (tekrarlanan yedi) ifadesidir; bu ifade Fâtiha'ya işaret sayılır. Muteber kaynaklar surenin Mekke'de bir defada bütün olarak indiği konusunda birleşir."
-  },
-  {
-   "kind": "ihtilaf",
-   "label": "Besmele surenin bir ayeti mi?",
-   "body": "Şâfiî mezhebine göre besmele Fâtiha'nın ilk ayetidir; Hanefî mezhebine göre sureye dahil değildir ve ilk ayet \"elhamdülillâh\" ile başlar. Kuranokuyan.com besmeleyi ilk ayet kabul eden görüşü benimser. Bu, ayet numaralandırmasında farklılık doğurur."
-  },
-  {
-   "kind": "rivayet",
-   "label": "Medine'de indiği rivayetleri",
-   "body": "Surenin Medine'de ya da hem Mekke hem Medine'de iki defa nâzil olduğuna dair rivayetler kaynaklarda zikredilir; ancak TDV İslâm Ansiklopedisi bu rivayetlere itibar edilmediğini, zayıf sayıldığını kaydeder."
-  },
-  {
-   "kind": "nuans",
-   "label": "Surenin diğer adları",
-   "body": "Fâtiha, kaynaklarda Ümmü'l-Kur'ân, Ümmü'l-Kitâb, es-Seb'u'l-mesânî, el-Esâs, el-Vâfiye, el-Kâfiye, el-Kenz, eş-Şifâ, eş-Şükr ve es-Salât adlarıyla da anılır. \"Fâtiha\" kelimesi \"açmak, başlamak\" anlamındaki feth kökünden gelir ve \"hâtime\"nin (son bölüm) karşıtıdır."
-  }
- ],
- "verses": [
-  {
-   "verseNo": 1,
-   "textArabic": "﻿بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ"
-  },
-  {
-   "verseNo": 2,
-   "textArabic": "ٱلْحَمْدُ لِلَّهِ رَبِّ ٱلْعَٰلَمِينَ"
-  },
-  {
-   "verseNo": 3,
-   "textArabic": "ٱلرَّحْمَٰنِ ٱلرَّحِيمِ"
-  },
-  {
-   "verseNo": 4,
-   "textArabic": "مَٰلِكِ يَوْمِ ٱلدِّينِ"
-  },
-  {
-   "verseNo": 5,
-   "textArabic": "إِيَّاكَ نَعْبُدُ وَإِيَّاكَ نَسْتَعِينُ"
-  },
-  {
-   "verseNo": 6,
-   "textArabic": "ٱهْدِنَا ٱلصِّرَٰطَ ٱلْمُسْتَقِيمَ"
-  },
-  {
-   "verseNo": 7,
-   "textArabic": "صِرَٰطَ ٱلَّذِينَ أَنْعَمْتَ عَلَيْهِمْ غَيْرِ ٱلْمَغْضُوبِ عَلَيْهِمْ وَلَا ٱلضَّآلِّينَ"
-  }
- ],
- "translations": [
-  {
-   "verseNo": 1,
-   "source": "diyanet",
-   "text": "Bismillahirrahmânirrahîm"
-  },
-  {
-   "verseNo": 1,
-   "source": "islamoglu",
-   "text": "RAHMÂN RAHÎM ALLAH’IN ADIYLA"
-  },
-  {
-   "verseNo": 1,
-   "source": "esed",
-   "text": "RAHMAN, RAHİM ALLAH ADINA"
-  },
-  {
-   "verseNo": 1,
-   "source": "okuyan",
-   "text": "[Rahmân], [Rahîm] olan Allah’ın adıyla."
-  },
-  {
-   "verseNo": 2,
-   "source": "diyanet",
-   "text": "Hamd, Âlemlerin Rabbi, Rahmân, Rahîm, hesap ve ceza gününün (ahiret gününün) maliki Allah'a mahsustur."
-  },
-  {
-   "verseNo": 2,
-   "source": "islamoglu",
-   "text": "BÜTÜN ÖVGÜLER, bütün âlemlerin Rabbi Allah’a mahsustur."
-  },
-  {
-   "verseNo": 2,
-   "source": "esed",
-   "text": "Her türlü övgü yalnızca Allah´a özgüdür, bütün alemlerin Rabbi"
-  },
-  {
-   "verseNo": 2,
-   "source": "okuyan",
-   "text": "2,3,4. [Hamd] (övgü); [Rahmân], [Rahîm], hesap gününün sahibi, âlemlerin de Rabbi olan Allah içindir."
-  },
-  {
-   "verseNo": 3,
-   "source": "diyanet",
-   "text": "Hamd, Âlemlerin Rabbi, Rahmân, Rahîm, hesap ve ceza gününün (ahiret gününün) maliki Allah'a mahsustur."
-  },
-  {
-   "verseNo": 3,
-   "source": "islamoglu",
-   "text": "O özünde rahmet sahibi, işinde rahmet sahibidir."
-  },
-  {
-   "verseNo": 3,
-   "source": "esed",
-   "text": "Rahman, Rahim"
-  },
-  {
-   "verseNo": 3,
-   "source": "okuyan",
-   "text": "2,3,4. [Hamd] (övgü); [Rahmân], [Rahîm], hesap gününün sahibi, âlemlerin de Rabbi olan Allah içindir."
-  },
-  {
-   "verseNo": 4,
-   "source": "diyanet",
-   "text": "Hamd, Âlemlerin Rabbi, Rahmân, Rahîm, hesap ve ceza gününün (ahiret gününün) maliki Allah'a mahsustur."
-  },
-  {
-   "verseNo": 4,
-   "source": "islamoglu",
-   "text": "O, Hesap Günü’nün hâkimidir."
-  },
-  {
-   "verseNo": 4,
-   "source": "esed",
-   "text": "Hesap Günü´nün Hakimi"
-  },
-  {
-   "verseNo": 4,
-   "source": "okuyan",
-   "text": "2,3,4. [Hamd] (övgü); [Rahmân], [Rahîm], hesap gününün sahibi, âlemlerin de Rabbi olan Allah içindir."
-  },
-  {
-   "verseNo": 5,
-   "source": "diyanet",
-   "text": "(Allahım!) Yalnız sana ibadet ederiz ve yalnız senden yardım dileriz."
-  },
-  {
-   "verseNo": 5,
-   "source": "islamoglu",
-   "text": "(Rabbimiz!) Yalnız sana kulluk eder ve yalnız senden yardım isteriz!"
-  },
-  {
-   "verseNo": 5,
-   "source": "esed",
-   "text": "Yalnız Sana kulluk eder; ve yalnız senden yardım dileriz"
-  },
-  {
-   "verseNo": 5,
-   "source": "okuyan",
-   "text": "(Rabbimiz)! Yalnız sana kulluk ederiz ve yalnız senden yardım dileriz."
-  },
-  {
-   "verseNo": 6,
-   "source": "diyanet",
-   "text": "Bizi doğru yola, kendilerine nimet verdiklerinin yoluna ilet; gazaba uğrayanlarınkine ve sapıklarınkine değil."
-  },
-  {
-   "verseNo": 6,
-   "source": "islamoglu",
-   "text": "Bizi yönelt Dosdoğru Yol’a;"
-  },
-  {
-   "verseNo": 6,
-   "source": "esed",
-   "text": "Bizi dosdoğru yola ilet"
-  },
-  {
-   "verseNo": 6,
-   "source": "okuyan",
-   "text": "6,7. Bizi doğru yola, nimet verdiklerinin yoluna ulaştır; gazaba uğratılmışların ve sapkınların yoluna değil."
-  },
-  {
-   "verseNo": 7,
-   "source": "diyanet",
-   "text": "Bizi doğru yola, kendilerine nimet verdiklerinin yoluna ilet; gazaba uğrayanlarınkine ve sapıklarınkine değil."
-  },
-  {
-   "verseNo": 7,
-   "source": "islamoglu",
-   "text": "Nimet verdiklerinin yoluna; gazaba uğrayanların ve sapıtanların yoluna değil!"
-  },
-  {
-   "verseNo": 7,
-   "source": "esed",
-   "text": "Nimet bahşettiklerinin yoluna; gazab(ın)a uğrayanların ve sapkınlarınkine değil"
-  },
-  {
-   "verseNo": 7,
-   "source": "okuyan",
-   "text": "6,7. Bizi doğru yola, nimet verdiklerinin yoluna ulaştır; gazaba uğratılmışların ve sapkınların yoluna değil."
-  },
-  {
-   "verseNo": 1,
-   "verseNoEnd": null,
-   "source": "ai",
-   "text": "Rahmân ve Rahîm olan Allah'ın adıyla."
-  },
-  {
-   "verseNo": 2,
-   "verseNoEnd": null,
-   "source": "ai",
-   "text": "Hamd, alemlerin Rabbi Allah’adır."
-  },
-  {
-   "verseNo": 3,
-   "verseNoEnd": null,
-   "source": "ai",
-   "text": "O, Rahmân ve Rahîm'dir."
-  },
-  {
-   "verseNo": 4,
-   "verseNoEnd": null,
-   "source": "ai",
-   "text": "Din gününün sahibidir."
-  },
-  {
-   "verseNo": 5,
-   "verseNoEnd": null,
-   "source": "ai",
-   "text": "Yalnız sana ibadet ederiz ve yalnız senden yardım dileriz."
-  },
-  {
-   "verseNo": 6,
-   "verseNoEnd": null,
-   "source": "ai",
-   "text": "Bizi doğru yola ilet."
-  },
-  {
-   "verseNo": 7,
-   "verseNoEnd": null,
-   "source": "ai",
-   "text": "Nimet verdiğin kimselerin yoluna; gazaba uğramışların ve sapmışların yoluna değil."
-  }
- ],
- "aiParagraph": "Bir insan düşünün: elindeki her şeyin gerçekte kime ait olduğunu biliyor, ama sabah kalktığında sanki hepsini kendi kazanmış gibi davranıyor. Fâtiha tam da bu noktada devreye giriyor — metnin dokusu baştan sona bir itirafa, bir teslimiyete doğru akıyor. Her şeyin sahibi, her merhametin kaynağı tek bir varlık; ve o varlık hem esirgeyici hem bağışlayıcı, ama aynı zamanda hesabın tutulduğu bir günün de sahibi. Metin burada çok keskin bir gerilim kuruyor: Sonsuz merhamet ile mutlak hesap yan yana duruyor, birini alıp diğerini bırakmana izin vermiyor. Sonra ses değişiyor — \"O'na yöneliyoruz, O'ndan yardım istiyoruz\" deniyor — ve bu cümle içinde derin bir çelişkiyi barındırıyor: Kimseye muhtaç olmak istemiyoruz, ama bir yerden güç almak zorunda olduğumuzu da biliyoruz. Metnin kapanışında ise yol imgesi beliriyor: Doğru yol, azıp kaymayanların, öfkeyi hak etmeyenlerin yolu. Peki o yolda olmak ne anlama geliyor — bunu metin söylemiyor, sormakla yetiniyor."
+  "stationNo": 5,
+  "surahNo": 1,
+  "nuzulOrderOkuyan": 1,
+  "name": "Fâtiha",
+  "nameArabic": "الفاتحة",
+  "nameMeaning": "Açan, açılış",
+  "verseCount": 7,
+  "periodDiyanet": "Mekke",
+  "periodOkuyan": "Mekke",
+  "revelationTiming": "Mekke dönemi — namazın ilk çerçevesi",
+  "stationTitle": "Yedi ayetlik bir çerçeve: kim olduğumuzu, kimden ne istediğimizi söyleyen bir dil.",
+  "introduction": "Fâtiha, mushafın ilk suresidir ve adı \"açan, açılış\" anlamına gelir. Yedi ayetlik sure, Mehmet Okuyan'ın tertibinde nüzul sırasının ilk halkası olarak yer alır — bu tasnif, surenin namazın çerçevesini kuran işleviyle ilişkilidir.\n\nSurenin yapısı iki yarıdan oluşur: ilk üç ayet Allah'ı niteler, son üç ayet insanın talebini dile getirir, ortadaki dördüncü ayet (\"Yalnız sana kulluk eder, yalnız senden yardım dileriz\") ikisini birbirine bağlayan menteşedir. Kur'an'ın tamamında insanın ağzından konuştuğu en yoğun bölümdür.",
+  "occasionOfRevelation": "Fâtiha'nın nüzulüne dair belirli bir olay anlatısı yoktur; sure, namazın kurucu metni olarak Mekke döneminin erken evresine tarihlenir. Diyanet İşleri Başkanlığı sureyi Mekke dönemine yerleştirir.\n\nSurenin tarihsel bağlamı, bir olaydan çok bir ihtiyaçtır: yeni bir topluluğun Tanrı'yla kuracağı ilişkinin dilini bulması. Mekke'nin çok tanrılı ortamında her tanrının belirli bir işlev için çağrıldığı bir dua kültürü vardı. Fâtiha bunun yerine tek bir muhataba yönelen, tek bir talep etrafında toplanan bir dil kurar: doğru yolu göster.\n\nSure hakkında en çok tartışılan nokta, son ayetteki iki grubun kim olduğudur. Bazı rivayetler bunları belirli topluluklarla eşleştirir; ancak Kur'an metni isim vermez ve tanımı davranış üzerinden yapar: gazaba uğrayanlar ve sapanlar.",
+  "occasionSources": "Diyanet İşleri Başkanlığı Kur'an Yolu Tefsiri, Fâtiha suresi girişi; TDV İslâm Ansiklopedisi, \"Fâtiha Sûresi\" maddesi.",
+  "contemporaryMeaning": "Fâtiha'nın en dikkat çekici yanı, ne istediğidir. Yedi ayette servet, sağlık, başarı ya da korunma talebi yoktur. Tek talep yön bilgisidir: \"Bizi doğru yola ilet.\"\n\nBu, insanın en temel sorununu yeniden tanımlar. Metne göre asıl eksik güç ya da imkân değil, istikamettir. Yanlış yönde ilerleyen birinin hızı, sorunu büyütmekten başka bir şey yapmaz.\n\nİkinci dikkat çekici nokta çoğul kullanımıdır. \"Bizi ilet\" der, \"beni\" demez. Tek başına okunduğunda bile sure insanı bir topluluğun içinde konumlandırır; bireysel kurtuluşu değil ortak yolu ister.",
+  "keyTerms": [
+    {
+      "term": "rabbü'l-âlemîn",
+      "arabic": "رَبِّ الْعَالَمِينَ",
+      "verseRef": "1:2",
+      "meaning": "Âlemlerin Rabbi. \"Rab\" kelimesi sahip olmayı değil, terbiye edip olgunlaştırmayı, ihtiyacını görmeyi ifade eder."
+    },
+    {
+      "term": "ihdinâ",
+      "arabic": "اهْدِنَا",
+      "verseRef": "1:6",
+      "meaning": "\"Bize yol göster\" — surenin tek talebi. Çoğul kip, isteğin bireysel değil ortak olduğunu gösterir."
+    },
+    {
+      "term": "sırâtu'l-müstakîm",
+      "arabic": "الصِّرَاطَ الْمُسْتَقِيمَ",
+      "verseRef": "1:6",
+      "meaning": "Dosdoğru yol. \"Sırât\" geniş ve açık ana yol demektir; sapmaya değil yürümeye elverişli olanı imler."
+    }
+  ],
+  "themes": [
+    {
+      "label": "İstenen şey: yön, güç değil",
+      "body": "Yedi ayetlik dua servet, zafer ya da şifa istemez. Tek talebi istikamettir. Metne göre insanın asıl eksiği imkân değil doğru yöndür."
+    },
+    {
+      "label": "\"Ben\" değil \"biz\"",
+      "body": "Sure yalnız okunurken de çoğul konuşur. Kurtuluşu bireysel bir başarı olarak değil, ortak bir yürüyüş olarak tasavvur eder."
+    },
+    {
+      "label": "Rahmetin öne alınması",
+      "body": "Allah'ı niteleyen sıfatlar arasında merhamet, hesap gününden önce gelir. Sıralamanın kendisi bir anlam taşır."
+    },
+    {
+      "label": "Sapmanın iki biçimi",
+      "body": "Son ayet iki olumsuz durumu ayırır: bildiği halde yanlışta ısrar etmek ve bilmediği için yolunu kaybetmek. Metin isim vermez, davranış tanımlar."
+    }
+  ],
+  "questions": [
+    "Dua ettiğimde ne istiyorum? İsteklerimin kaçı sonuç, kaçı yön hakkında?",
+    "Hızlı ilerlediğim ama yönünden emin olmadığım bir alan var mı hayatımda?",
+    "\"Bizi\" derken kimi kastediyorum? Kurtuluşumu başkalarından ayrı düşünüyor muyum?"
+  ],
+  "scholarlyNotes": [
+    {
+      "kind": "nuans",
+      "label": "Mekkî oluşunun delili",
+      "body": "Surenin Mekke döneminde indiğinin en güçlü dayanağı, Mekkî bir sure olan Hicr suresinin 87. ayetinde geçen \"es-seb'u'l-mesânî\" (tekrarlanan yedi) ifadesidir; bu ifade Fâtiha'ya işaret sayılır. Muteber kaynaklar surenin Mekke'de bir defada bütün olarak indiği konusunda birleşir."
+    },
+    {
+      "kind": "ihtilaf",
+      "label": "Besmele surenin bir ayeti mi?",
+      "body": "Şâfiî mezhebine göre besmele Fâtiha'nın ilk ayetidir; Hanefî mezhebine göre sureye dahil değildir ve ilk ayet \"elhamdülillâh\" ile başlar. Kuranokuyan.com besmeleyi ilk ayet kabul eden görüşü benimser. Bu, ayet numaralandırmasında farklılık doğurur."
+    },
+    {
+      "kind": "rivayet",
+      "label": "Medine'de indiği rivayetleri",
+      "body": "Surenin Medine'de ya da hem Mekke hem Medine'de iki defa nâzil olduğuna dair rivayetler kaynaklarda zikredilir; ancak TDV İslâm Ansiklopedisi bu rivayetlere itibar edilmediğini, zayıf sayıldığını kaydeder."
+    },
+    {
+      "kind": "nuans",
+      "label": "Surenin diğer adları",
+      "body": "Fâtiha, kaynaklarda Ümmü'l-Kur'ân, Ümmü'l-Kitâb, es-Seb'u'l-mesânî, el-Esâs, el-Vâfiye, el-Kâfiye, el-Kenz, eş-Şifâ, eş-Şükr ve es-Salât adlarıyla da anılır. \"Fâtiha\" kelimesi \"açmak, başlamak\" anlamındaki feth kökünden gelir ve \"hâtime\"nin (son bölüm) karşıtıdır."
+    }
+  ],
+  "verses": [
+    {
+      "verseNo": 1,
+      "textArabic": "﻿بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ"
+    },
+    {
+      "verseNo": 2,
+      "textArabic": "ٱلْحَمْدُ لِلَّهِ رَبِّ ٱلْعَٰلَمِينَ"
+    },
+    {
+      "verseNo": 3,
+      "textArabic": "ٱلرَّحْمَٰنِ ٱلرَّحِيمِ"
+    },
+    {
+      "verseNo": 4,
+      "textArabic": "مَٰلِكِ يَوْمِ ٱلدِّينِ"
+    },
+    {
+      "verseNo": 5,
+      "textArabic": "إِيَّاكَ نَعْبُدُ وَإِيَّاكَ نَسْتَعِينُ"
+    },
+    {
+      "verseNo": 6,
+      "textArabic": "ٱهْدِنَا ٱلصِّرَٰطَ ٱلْمُسْتَقِيمَ"
+    },
+    {
+      "verseNo": 7,
+      "textArabic": "صِرَٰطَ ٱلَّذِينَ أَنْعَمْتَ عَلَيْهِمْ غَيْرِ ٱلْمَغْضُوبِ عَلَيْهِمْ وَلَا ٱلضَّآلِّينَ"
+    }
+  ],
+  "translations": [
+    {
+      "verseNo": 1,
+      "source": "diyanet",
+      "text": "Bismillahirrahmânirrahîm"
+    },
+    {
+      "verseNo": 1,
+      "source": "islamoglu",
+      "text": "RAHMÂN RAHÎM ALLAH’IN ADIYLA"
+    },
+    {
+      "verseNo": 1,
+      "source": "esed",
+      "text": "RAHMAN, RAHİM ALLAH ADINA"
+    },
+    {
+      "verseNo": 1,
+      "source": "okuyan",
+      "text": "[Rahmân], [Rahîm] olan Allah’ın adıyla."
+    },
+    {
+      "verseNo": 2,
+      "source": "diyanet",
+      "text": "Hamd, Âlemlerin Rabbi, Rahmân, Rahîm, hesap ve ceza gününün (ahiret gününün) maliki Allah'a mahsustur."
+    },
+    {
+      "verseNo": 2,
+      "source": "islamoglu",
+      "text": "BÜTÜN ÖVGÜLER, bütün âlemlerin Rabbi Allah’a mahsustur."
+    },
+    {
+      "verseNo": 2,
+      "source": "esed",
+      "text": "Her türlü övgü yalnızca Allah´a özgüdür, bütün alemlerin Rabbi"
+    },
+    {
+      "verseNo": 2,
+      "source": "okuyan",
+      "text": "2,3,4. [Hamd] (övgü); [Rahmân], [Rahîm], hesap gününün sahibi, âlemlerin de Rabbi olan Allah içindir."
+    },
+    {
+      "verseNo": 3,
+      "source": "diyanet",
+      "text": "Hamd, Âlemlerin Rabbi, Rahmân, Rahîm, hesap ve ceza gününün (ahiret gününün) maliki Allah'a mahsustur."
+    },
+    {
+      "verseNo": 3,
+      "source": "islamoglu",
+      "text": "O özünde rahmet sahibi, işinde rahmet sahibidir."
+    },
+    {
+      "verseNo": 3,
+      "source": "esed",
+      "text": "Rahman, Rahim"
+    },
+    {
+      "verseNo": 3,
+      "source": "okuyan",
+      "text": "2,3,4. [Hamd] (övgü); [Rahmân], [Rahîm], hesap gününün sahibi, âlemlerin de Rabbi olan Allah içindir."
+    },
+    {
+      "verseNo": 4,
+      "source": "diyanet",
+      "text": "Hamd, Âlemlerin Rabbi, Rahmân, Rahîm, hesap ve ceza gününün (ahiret gününün) maliki Allah'a mahsustur."
+    },
+    {
+      "verseNo": 4,
+      "source": "islamoglu",
+      "text": "O, Hesap Günü’nün hâkimidir."
+    },
+    {
+      "verseNo": 4,
+      "source": "esed",
+      "text": "Hesap Günü´nün Hakimi"
+    },
+    {
+      "verseNo": 4,
+      "source": "okuyan",
+      "text": "2,3,4. [Hamd] (övgü); [Rahmân], [Rahîm], hesap gününün sahibi, âlemlerin de Rabbi olan Allah içindir."
+    },
+    {
+      "verseNo": 5,
+      "source": "diyanet",
+      "text": "(Allahım!) Yalnız sana ibadet ederiz ve yalnız senden yardım dileriz."
+    },
+    {
+      "verseNo": 5,
+      "source": "islamoglu",
+      "text": "(Rabbimiz!) Yalnız sana kulluk eder ve yalnız senden yardım isteriz!"
+    },
+    {
+      "verseNo": 5,
+      "source": "esed",
+      "text": "Yalnız Sana kulluk eder; ve yalnız senden yardım dileriz"
+    },
+    {
+      "verseNo": 5,
+      "source": "okuyan",
+      "text": "(Rabbimiz)! Yalnız sana kulluk ederiz ve yalnız senden yardım dileriz."
+    },
+    {
+      "verseNo": 6,
+      "source": "diyanet",
+      "text": "Bizi doğru yola, kendilerine nimet verdiklerinin yoluna ilet; gazaba uğrayanlarınkine ve sapıklarınkine değil."
+    },
+    {
+      "verseNo": 6,
+      "source": "islamoglu",
+      "text": "Bizi yönelt Dosdoğru Yol’a;"
+    },
+    {
+      "verseNo": 6,
+      "source": "esed",
+      "text": "Bizi dosdoğru yola ilet"
+    },
+    {
+      "verseNo": 6,
+      "source": "okuyan",
+      "text": "6,7. Bizi doğru yola, nimet verdiklerinin yoluna ulaştır; gazaba uğratılmışların ve sapkınların yoluna değil."
+    },
+    {
+      "verseNo": 7,
+      "source": "diyanet",
+      "text": "Bizi doğru yola, kendilerine nimet verdiklerinin yoluna ilet; gazaba uğrayanlarınkine ve sapıklarınkine değil."
+    },
+    {
+      "verseNo": 7,
+      "source": "islamoglu",
+      "text": "Nimet verdiklerinin yoluna; gazaba uğrayanların ve sapıtanların yoluna değil!"
+    },
+    {
+      "verseNo": 7,
+      "source": "esed",
+      "text": "Nimet bahşettiklerinin yoluna; gazab(ın)a uğrayanların ve sapkınlarınkine değil"
+    },
+    {
+      "verseNo": 7,
+      "source": "okuyan",
+      "text": "6,7. Bizi doğru yola, nimet verdiklerinin yoluna ulaştır; gazaba uğratılmışların ve sapkınların yoluna değil."
+    },
+    {
+      "verseNo": 1,
+      "verseNoEnd": null,
+      "source": "ai",
+      "text": "Rahmân ve Rahîm olan Allah'ın adıyla."
+    },
+    {
+      "verseNo": 2,
+      "verseNoEnd": null,
+      "source": "ai",
+      "text": "Hamd, alemlerin Rabbi Allah’adır."
+    },
+    {
+      "verseNo": 3,
+      "verseNoEnd": null,
+      "source": "ai",
+      "text": "O, Rahmân ve Rahîm'dir."
+    },
+    {
+      "verseNo": 4,
+      "verseNoEnd": null,
+      "source": "ai",
+      "text": "Din gününün sahibidir."
+    },
+    {
+      "verseNo": 5,
+      "verseNoEnd": null,
+      "source": "ai",
+      "text": "Yalnız sana ibadet ederiz ve yalnız senden yardım dileriz."
+    },
+    {
+      "verseNo": 6,
+      "verseNoEnd": null,
+      "source": "ai",
+      "text": "Bizi doğru yola ilet."
+    },
+    {
+      "verseNo": 7,
+      "verseNoEnd": null,
+      "source": "ai",
+      "text": "Nimet verdiğin kimselerin yoluna; gazaba uğramışların ve sapmışların yoluna değil."
+    }
+  ],
+  "aiParagraph": "Bir insan düşünün: elindeki her şeyin gerçekte kime ait olduğunu biliyor, ama sabah kalktığında sanki hepsini kendi kazanmış gibi davranıyor. Fâtiha tam da bu noktada devreye giriyor — metnin dokusu baştan sona bir itirafa, bir teslimiyete doğru akıyor. Her şeyin sahibi, her merhametin kaynağı tek bir varlık; ve o varlık hem esirgeyici hem bağışlayıcı, ama aynı zamanda hesabın tutulduğu bir günün de sahibi. Metin burada çok keskin bir gerilim kuruyor: Sonsuz merhamet ile mutlak hesap yan yana duruyor, birini alıp diğerini bırakmana izin vermiyor. Sonra ses değişiyor — \"O'na yöneliyoruz, O'ndan yardım istiyoruz\" deniyor — ve bu cümle içinde derin bir çelişkiyi barındırıyor: Kimseye muhtaç olmak istemiyoruz, ama bir yerden güç almak zorunda olduğumuzu da biliyoruz. Metnin kapanışında ise yol imgesi beliriyor: Doğru yol, azıp kaymayanların, öfkeyi hak etmeyenlerin yolu. Peki o yolda olmak ne anlama geliyor — bunu metin söylemiyor, sormakla yetiniyor.",
+  "audienceContext": "Bu söz ilk kimin kulaklarına düştü? Mekke'nin erken peygamberlik yıllarında, putlarla dolu bir şehirde yaşayan insanların. Ama bu insanlar, yaygın sanılanın aksine, tanrısız değildi. Araştırmacıların aktardığına göre cahiliye Mekke'sinde Allah'ın varlığı zaten kabul görüyordu; reddedilen şey Allah'ın tekliği ya da ona doğrudan yönelmekti. Putlar, Allah ile kul arasına konmuş aracılardı; dilekler, adaklar, dualar bu aracılar üzerinden işliyordu. Yani Fâtiha'nın ilk muhatabı için sorun inanç yokluğu değil, inanç mimarisinin bozulmasıydı.\n\nO dünyada her tanrının ayrı bir işlevi vardı: biri savaşta, biri ticarette, biri yolculukta çağrılırdı. Dua belirli bir ihtiyaç için belirli bir kapıya yapılan başvuruydu. Fâtiha bunun yerine bambaşka bir dil önerdi: tek bir muhatap, tek bir talep — \"bize doğru yolu göster.\" Bu hem pratik hem de siyasi bir devrimdi. Çünkü her putun arkasında bir kabile, her kabilenin arkasında bir ekonomik çıkar vardı.\n\nDirenç, anlayamamazlıktan değil, kaybedecek olanların öfkesinden geldi. Kâbe'nin çevresindeki ticaret, put kültüyle iç içeydi; hac mevsimi aynı zamanda pazar mevsimiydi. Yeni bir dil, yeni bir muhatap, yeni bir yol talep etmek; mevcut düzenin kâr kapılarını kapatmak anlamına geliyordu. Mekke ileri gelenlerinin yeni sese bu denli sert tepki göstermesi bundandı.\n\nBir ayrıntı daha: cahiliye terimi, dönemin araştırmacılarının aktardığı biçimiyle \"bilgisizlik\" değil, \"zorbaca bir hal\"i karşılar. O kültürde yumuşaklık zayıflıktı; güç sahibi olmak ve bunu kullanmak erdemdi. Fâtiha'nın dili ise tamamen tersine akar: insan küçük, yol karanlık, rehber gerekli. Bu, o toplumun kabul ettiği güç imgesiyle doğrudan çelişen bir konuşma biçimiydi.",
+  "eventMessageMap": [
+    {
+      "situation": "Her tanrının ayrı bir işlevi olduğu bir dua kültüründe, insanlar ihtiyaçlarına göre farklı putlara yöneliyordu.",
+      "response": "Sure, tüm nitelikleri tek bir muhataba — âlemlerin Rabbi'ne — yükleyerek o çok kapılı yapıyı çöktürdü.",
+      "shift": "Dua bir pazarlık değil, tek bir ilişkinin içinde dile getirilen bir talep hâline geldi."
+    },
+    {
+      "situation": "Putlar, Allah ile kul arasına konmuş zorunlu aracılar olarak görülüyordu; Allah'a doğrudan seslenme düşünülemezdi.",
+      "response": "\"Yalnız sana kulluk eder, yalnız senden yardım dileriz\" cümlesi aracısız ve doğrudan bir hitap kurdu.",
+      "shift": "Tanrı ile insan arasındaki mesafeyi dolduran aracı katmanın meşruiyeti sorgulanır hâle geldi."
+    },
+    {
+      "situation": "Hesap ve ölüm sonrasına inanılmıyordu; güçlünün haklı olduğu anlık düzen tek gerçekti.",
+      "response": "Sure, hesap gününün sahibi olarak tanımladığı bir figüre her namazda yeniden yönelmeyi ritüelin merkezine koydu.",
+      "shift": "Anlık güç dengesi yerine, her eylemin kayıt altında tutulduğu bir perspektif gündelik hayata girdi."
+    },
+    {
+      "situation": "Cahiliye kültüründe yol bulmak kabilenin geçmişine, soyuna, güçlüye tabi olmakla mümkündü.",
+      "response": "\"Bize doğru yolu göster\" talebi çoğul kipte kuruldu: bireysel bir istek değil, ortak bir yönelme.",
+      "shift": "Rehberliğin kaynağı kabile büyüklüğünden ya da statüden alınıp dışsal bir otorite olarak yeniden tanımlandı."
+    }
+  ],
+  "apophaticReading": "\"Fâtiha yalnızca bir dua metnidir\" okuması metnin kendi mantığıyla çelişir. Çünkü aynı sure hem Allah'ı niteler hem insanın talebini dile getirir hem de ikisini tek bir anahtar cümlede birleştirir; bu yapı bir ritüel ezberini değil, taraflar arasında kurulan canlı bir ilişkiyi imler. Bir ezber metni kendi içinde bu denli işlevsel bir menteşe kurmaz.\n\n\"Son ayetteki iki grup belirli tarihsel topluluklara işaret eder\" okuması metnin kendi mantığıyla çelişir. Çünkü aynı sure bu grupları isim değil davranış üzerinden tanımlar: gazaba uğrayanlar ve sapanlar. Metnin kendisi isim vermekten kaçınır; tanımı tarihsel bir kimliğe sabitlemek, metnin bilerek açık bıraktığı kapıyı zorla kapamak olur.\n\nGeriye kalan yönelim şu alanda toplanıyor: Sure, kimin kötü olduğunu değil, doğru yolun nasıl talep edileceğini anlatıyor. Odak nokta suçlamak değil yönelmek. İki olumsuz grubun zikredilmesi bile bir tehdit olarak değil, yolun sınırlarını işaret eden bir harita notu olarak okunmaya daha elverişli.\n\nBugüne kadar az bakılmış açı: Sure, Arapçada çoğul kipte konuşuyor — \"ihdinâ\", yani \"bize göster\", \"ben\" değil \"biz\". Oysa namaz çoğu zaman bireysel bir pratik olarak yaşanıyor. Bu çoğul kip, verilen editoryal içerikte de not düşülen bir ayrıntı: talep bireysel değil ortaktır. Eğer yol bireysel bir koordinat değil de paylaşılan bir zemin ise, bu dua aynı anda hem kişisel hem kolektif bir yönelme olarak okunabilir. Birinin yolu bulması diğerinin de yolda kalmasıyla bağlantılı hâle gelir.\n\nSusma: *Doğru yolun içeriği — neye benzediği, günlük hayatta nasıl göründüğü — buradan görünmez.*",
+  "aiCommentary": "Bu dört bölüm, yapay zekâ tarafından üretilmiştir. Kullanılan kaynaklar şunlardır: Fâtiha suresinin Arapça metni, TDV İslâm Ansiklopedisi'nin \"Câhiliye\" ve \"Fâtiha Sûresi\" maddeleri, editoryal içerik olarak sunulan doğrulanmış bilgiler ve Mehmet Okuyan'ın nüzul sıralaması tasnifleri. Tarihsel bağlama ilişkin her iddia bu kaynaklara dayandırılmıştır; kaynaksız sosyolojik genelleme yapılmamıştır.\n\nApofatik okuma bölümü olumsuzlama yöntemiyle kurulmuştur. Bu tercih rastlantısal değil: bir metnin neyi söylemediğini tespit etmek, neyi söylediğini iddia etmekten daha dürüst bir zemin sunar. Yaratanın maksadına dair her söz nihayetinde insanın tahminidir; olumsuzlama bu tahminin sınırını görünür kılar ve okuyucuya kendi yorumunu kurma alanı bırakır.\n\nBu metin bir tefsir, meal ya da fetva değildir. Herhangi bir amel hükmü çıkarılamaz, \"şu helal, şu haramdır\" anlamı taşıyan bir ifade içermez. Yeni araştırmalar, farklı kaynak okumaları ya da tarihsel bulgular geldiğinde bu yorumun değişmesi beklenir ve bu değişkenlik bir kusur değil, yöntemin doğal parçasıdır."
 }

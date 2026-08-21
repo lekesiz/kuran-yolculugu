@@ -1,251 +1,276 @@
 {
- "stationNo": 26,
- "surahNo": 114,
- "nuzulOrderOkuyan": 24,
- "name": "Nâs",
- "nameArabic": "الناس",
- "nameMeaning": "İnsanlar",
- "verseCount": 6,
- "periodDiyanet": "Mekke",
- "periodOkuyan": "Mekke",
- "revelationTiming": "Mekke dönemi",
- "stationTitle": "En tehlikeli tehdit dışarıdan değil, göğsüne fısıldayandan gelir.",
- "introduction": "Nâs suresi, adını birinci ayetteki \"nâs\" (insanlar) kelimesinden alır. Altı ayetlik sure, mushafın son bölümüdür ve Felak suresiyle birlikte \"muavvizeteyn\" olarak anılır.\n\nSure üç niteleme ile başlar: insanların Rabbi, insanların Meliki, insanların İlâhı. Ardından sığınılan şey belirtilir: sinsice fısıldayan vesvesecinin şerri. Kapanışta bu fısıltının kaynağı iki gruba ayrılır: cinlerden ve insanlardan.",
- "occasionOfRevelation": "Sure hakkında Felak suresiyle benzer nüzul rivayetleri nakledilir; kaynaklar hem Mekke hem Medine dönemine dair kayıtlar aktarır. Diyanet İşleri Başkanlığı sureyi Mekke dönemine yerleştirir.\n\nSurenin en dikkat çekici yanı, tehdidin konumudur. Felak suresinde dışsal zararlar sayılırken burada tek bir şey anılır: \"göğüslere fısıldayan\" vesvese. Yani tehdit içeriye taşınmıştır.\n\nKapanış ayeti bu fısıltının kaynağını \"cinlerden ve insanlardan\" olarak belirtir. Bu, vesvesenin yalnızca doğaüstü bir kaynağa atfedilmediğini gösterir: insanlar da birbirine vesvese verir. Kaynaklar bu ifadeyi, kötü telkin ve yönlendirmenin insanî boyutunu kapsayacak biçimde yorumlar.",
- "occasionSources": "Diyanet İşleri Başkanlığı Kur'an Yolu Tefsiri, Nâs suresi girişi; TDV İslâm Ansiklopedisi, \"Nâs Sûresi\" ve \"Muavvizeteyn\" maddeleri. Nüzul dönemine dair rivayetler farklılık gösterir.",
- "contemporaryMeaning": "Kur'an'ın son suresinin son tehdidi bir dış düşman değil, bir fısıltıdır. Bu sıralama kendi başına anlamlıdır: en zorlu mücadele içeride, zihinde geçer.\n\n\"Hannâs\" kelimesi geri çekilen, sinen, sonra tekrar gelen anlamındadır. Vesvesenin davranışı böyle tarif edilir: bastırılır, geri çekilir, gafleti bekler, döner. Bu, bir kez kazanılıp bitmeyen bir mücadeledir.\n\nKapanıştaki \"insanlardan\" kaydı ise bugün özellikle önemlidir. Fısıltı bir haber akışından, bir reklamdan, bir arkadaş çevresinden de gelebilir. Sure kötü telkini insanî bir olgu olarak da kaydeder — yani insan, başkası için vesvese kaynağı olabilir.",
- "keyTerms": [
-  {
-   "term": "melik",
-   "arabic": "مَلِك",
-   "verseRef": "114:2",
-   "meaning": "Egemen, hükümdar. İnsanların gerçek egemeninin kim olduğunu belirten niteleme."
-  },
-  {
-   "term": "el-vesvâs",
-   "arabic": "الْوَسْوَاس",
-   "verseRef": "114:4",
-   "meaning": "Sinsice fısıldayan, gizli telkin veren. Kökü, duyulmayacak kadar hafif ses anlamındadır."
-  },
-  {
-   "term": "el-hannâs",
-   "arabic": "الْخَنَّاس",
-   "verseRef": "114:4",
-   "meaning": "Geri çekilen, sinen, sonra dönen. Vesvesenin davranış kalıbı: bastırılır, bekler, tekrar gelir."
-  },
-  {
-   "term": "mine'l-cinneti ve'n-nâs",
-   "arabic": "مِنَ الْجِنَّةِ وَالنَّاس",
-   "verseRef": "114:6",
-   "meaning": "Cinlerden ve insanlardan. Vesvesenin kaynağının insanî boyutunu da kapsadığının açık beyanı."
-  }
- ],
- "themes": [
-  {
-   "label": "Son tehdit içeridedir",
-   "body": "Kur'an'ın son suresi bir dış düşmanla değil bir fısıltıyla kapanır. En zorlu mücadelenin yeri zihindir."
-  },
-  {
-   "label": "Bitmeyen mücadele",
-   "body": "\"Hannâs\" geri çekilip tekrar gelen demektir. Vesvese bir kez yenilip bitmez; gafleti bekler."
-  },
-  {
-   "label": "İnsan da vesvese kaynağıdır",
-   "body": "Kapanış \"insanlardan\" der. Kötü telkin doğaüstü bir olguya indirgenmez; insanlar birbirine fısıldar."
-  },
-  {
-   "label": "Üç nitelemenin işlevi",
-   "body": "Rab, Melik, İlâh — sığınılan tarafın üç yönü sıralanır: yetiştiren, egemen olan, yönelinen."
-  }
- ],
- "questions": [
-  "Zihnimde tekrar tekrar dönen olumsuz bir fısıltı var mı? Nereden geliyor?",
-  "Kimin sözleri bana sürekli kuşku ve huzursuzluk taşıyor? O sesi neden dinlemeye devam ediyorum?",
-  "Ben başkası için bir vesvese kaynağı oluyor muyum? Söylediğim hangi söz birini huzursuzlaştırıyor olabilir?"
- ],
- "verses": [
-  {
-   "verseNo": 1,
-   "textArabic": "بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ قُلْ أَعُوذُ بِرَبِّ ٱلنَّاسِ"
-  },
-  {
-   "verseNo": 2,
-   "textArabic": "مَلِكِ ٱلنَّاسِ"
-  },
-  {
-   "verseNo": 3,
-   "textArabic": "إِلَٰهِ ٱلنَّاسِ"
-  },
-  {
-   "verseNo": 4,
-   "textArabic": "مِن شَرِّ ٱلْوَسْوَاسِ ٱلْخَنَّاسِ"
-  },
-  {
-   "verseNo": 5,
-   "textArabic": "ٱلَّذِى يُوَسْوِسُ فِى صُدُورِ ٱلنَّاسِ"
-  },
-  {
-   "verseNo": 6,
-   "textArabic": "مِنَ ٱلْجِنَّةِ وَٱلنَّاسِ"
-  }
- ],
- "translations": [
-  {
-   "verseNo": 1,
-   "source": "diyanet",
-   "text": "De ki: \"O, Allah'tır, bir tektir.\""
-  },
-  {
-   "verseNo": 1,
-   "source": "islamoglu",
-   "text": "(EY muhatap!) De ki: “Sığınırım ben Rabbine insanlığın;"
-  },
-  {
-   "verseNo": 1,
-   "source": "esed",
-   "text": "De ki: \"Sığınırım ben insanların Rabbine"
-  },
-  {
-   "verseNo": 1,
-   "source": "okuyan",
-   "text": "De ki: “İnsanların Rabbine sığınırım."
-  },
-  {
-   "verseNo": 2,
-   "source": "diyanet",
-   "text": "\"Allah Samed'dir. (Her şey O'na muhtaçtır, o, hiçbir şeye muhtaç değildir.)\""
-  },
-  {
-   "verseNo": 2,
-   "source": "islamoglu",
-   "text": "Sahibine insanlığın;"
-  },
-  {
-   "verseNo": 2,
-   "source": "esed",
-   "text": "insanların Hakimine"
-  },
-  {
-   "verseNo": 2,
-   "source": "okuyan",
-   "text": "İnsanların hükümdarına,"
-  },
-  {
-   "verseNo": 3,
-   "source": "diyanet",
-   "text": "Ondan çocuk olmamıştır (Kimsenin babası değildir). Kendisi de doğmamıştır (kimsenin çocuğu değildir).\""
-  },
-  {
-   "verseNo": 3,
-   "source": "islamoglu",
-   "text": "İlahına insanlığın:"
-  },
-  {
-   "verseNo": 3,
-   "source": "esed",
-   "text": "insanların İlahına"
-  },
-  {
-   "verseNo": 3,
-   "source": "okuyan",
-   "text": "İnsanların ilahına."
-  },
-  {
-   "verseNo": 4,
-   "source": "diyanet",
-   "text": "\"Hiçbir şey O'na denk ve benzer değildir.\""
-  },
-  {
-   "verseNo": 4,
-   "source": "islamoglu",
-   "text": "Sinsi ve sinik vesvese kaynağının şerrinden;"
-  },
-  {
-   "verseNo": 4,
-   "source": "esed",
-   "text": "fısıldayan sinsi ayartıcının şerrinden"
-  },
-  {
-   "verseNo": 4,
-   "source": "okuyan",
-   "text": "4,5,6. İnsanların göğüslerine (kalplerine) vesveseler fısıldayan, cinlerden ve insanlardan (olan o) sinsi vesvesecinin şerrinden (Allah’a sığınırım).”"
-  },
-  {
-   "verseNo": 5,
-   "source": "diyanet",
-   "text": "De ki: \"Yarattığı şeylerin kötülüğünden, karanlığı çöktüğü zaman gecenin kötülüğünden, düğümlere üfleyenlerin kötülüğünden, haset ettiği zaman hasetçinin kötülüğünden, sabah aydınlığının Rabbine sığınırım.\""
-  },
-  {
-   "verseNo": 5,
-   "source": "islamoglu",
-   "text": "o ki, sürekli kalplerine fısıldıyor insanların;"
-  },
-  {
-   "verseNo": 5,
-   "source": "esed",
-   "text": "insanların kalbine fısıldayan"
-  },
-  {
-   "verseNo": 5,
-   "source": "okuyan",
-   "text": "4,5,6. İnsanların göğüslerine (kalplerine) vesveseler fısıldayan, cinlerden ve insanlardan (olan o) sinsi vesvesecinin şerrinden (Allah’a sığınırım).”"
-  },
-  {
-   "verseNo": 6,
-   "source": "diyanet",
-   "text": "De ki: \"Cinlerden ve insanlardan; insanların kalplerine vesvese veren sinsi vesvesecinin kötülüğünden, insanların Rabbine, insanların Melik'ine, insanların İlah'ına sığınırım.\""
-  },
-  {
-   "verseNo": 6,
-   "source": "islamoglu",
-   "text": "İster görünmeyen-bilinmeyen, ister görünen-bilinen türden."
-  },
-  {
-   "verseNo": 6,
-   "source": "esed",
-   "text": "görünmez güçler(in) ve insanlar(ın bütün ayartmaların)dan"
-  },
-  {
-   "verseNo": 6,
-   "source": "okuyan",
-   "text": "4,5,6. İnsanların göğüslerine (kalplerine) vesveseler fısıldayan, cinlerden ve insanlardan (olan o) sinsi vesvesecinin şerrinden (Allah’a sığınırım).”"
-  },
-  {
-   "verseNo": 1,
-   "verseNoEnd": null,
-   "source": "ai",
-   "text": "De ki: İnsanların Rabbine sığınırım."
-  },
-  {
-   "verseNo": 2,
-   "verseNoEnd": null,
-   "source": "ai",
-   "text": "İnsanların hükümdarı."
-  },
-  {
-   "verseNo": 3,
-   "verseNoEnd": null,
-   "source": "ai",
-   "text": "İnsanların ilahı."
-  },
-  {
-   "verseNo": 4,
-   "verseNoEnd": null,
-   "source": "ai",
-   "text": "Fısıldayıp kaçan vesvesecinin şerrinden."
-  },
-  {
-   "verseNo": 5,
-   "verseNoEnd": null,
-   "source": "ai",
-   "text": "İnsanların göğüslerine fısıldayan."
-  },
-  {
-   "verseNo": 6,
-   "verseNoEnd": null,
-   "source": "ai",
-   "text": "Cinnlerden ve insanlardan."
-  }
- ],
- "aiParagraph": "Bazı sesler dışarıdan gelmez — içeriden fısıldar. O ses bazen bir şüphe kıvılcımı yakar, bazen geç kalmışlık hissi olarak çöker, bazen yaptığın bir iyiliği \"gerçekten neden yaptın ki\" diye kemirmeye başlar. Bu fısıltının tuhaf bir özelliği vardır: yakalanmak üzere olduğunu sezince çekilir, iz bırakmadan kaybolur — ama bir sonraki boş anda yeniden belirir. Metnin dikkat çekici olan şeyi, bu karanlık telkinin yalnızca görünmez varlıklardan değil, insanların birbirinden de gelebileceğini söylemesidir; komşudan, ekrandan, kulağa eğilen bir ağızdan. Ve metinde bu fısıltıya karşı önerilen şey bir iradeyi toparlama çabası ya da kendi kendini ikna etme değil — insanlığın tamamını tutan, onlara hükmeden ve onların tek gerçek sığınağı olan bir varlığa yönelmektir. Rab, melik, ilah: üç ayrı sözcük, üç ayrı kucaklayış — bakım, otorite, anlam. Belki de asıl soru şu: İnsanın içindeki o fısıltıyı bastırmak için her gün neyin sesini yükselttiği."
+  "stationNo": 26,
+  "surahNo": 114,
+  "nuzulOrderOkuyan": 24,
+  "name": "Nâs",
+  "nameArabic": "الناس",
+  "nameMeaning": "İnsanlar",
+  "verseCount": 6,
+  "periodDiyanet": "Mekke",
+  "periodOkuyan": "Mekke",
+  "revelationTiming": "Mekke dönemi",
+  "stationTitle": "En tehlikeli tehdit dışarıdan değil, göğsüne fısıldayandan gelir.",
+  "introduction": "Nâs suresi, adını birinci ayetteki \"nâs\" (insanlar) kelimesinden alır. Altı ayetlik sure, mushafın son bölümüdür ve Felak suresiyle birlikte \"muavvizeteyn\" olarak anılır.\n\nSure üç niteleme ile başlar: insanların Rabbi, insanların Meliki, insanların İlâhı. Ardından sığınılan şey belirtilir: sinsice fısıldayan vesvesecinin şerri. Kapanışta bu fısıltının kaynağı iki gruba ayrılır: cinlerden ve insanlardan.",
+  "occasionOfRevelation": "Sure hakkında Felak suresiyle benzer nüzul rivayetleri nakledilir; kaynaklar hem Mekke hem Medine dönemine dair kayıtlar aktarır. Diyanet İşleri Başkanlığı sureyi Mekke dönemine yerleştirir.\n\nSurenin en dikkat çekici yanı, tehdidin konumudur. Felak suresinde dışsal zararlar sayılırken burada tek bir şey anılır: \"göğüslere fısıldayan\" vesvese. Yani tehdit içeriye taşınmıştır.\n\nKapanış ayeti bu fısıltının kaynağını \"cinlerden ve insanlardan\" olarak belirtir. Bu, vesvesenin yalnızca doğaüstü bir kaynağa atfedilmediğini gösterir: insanlar da birbirine vesvese verir. Kaynaklar bu ifadeyi, kötü telkin ve yönlendirmenin insanî boyutunu kapsayacak biçimde yorumlar.",
+  "occasionSources": "Diyanet İşleri Başkanlığı Kur'an Yolu Tefsiri, Nâs suresi girişi; TDV İslâm Ansiklopedisi, \"Nâs Sûresi\" ve \"Muavvizeteyn\" maddeleri. Nüzul dönemine dair rivayetler farklılık gösterir.",
+  "contemporaryMeaning": "Kur'an'ın son suresinin son tehdidi bir dış düşman değil, bir fısıltıdır. Bu sıralama kendi başına anlamlıdır: en zorlu mücadele içeride, zihinde geçer.\n\n\"Hannâs\" kelimesi geri çekilen, sinen, sonra tekrar gelen anlamındadır. Vesvesenin davranışı böyle tarif edilir: bastırılır, geri çekilir, gafleti bekler, döner. Bu, bir kez kazanılıp bitmeyen bir mücadeledir.\n\nKapanıştaki \"insanlardan\" kaydı ise bugün özellikle önemlidir. Fısıltı bir haber akışından, bir reklamdan, bir arkadaş çevresinden de gelebilir. Sure kötü telkini insanî bir olgu olarak da kaydeder — yani insan, başkası için vesvese kaynağı olabilir.",
+  "keyTerms": [
+    {
+      "term": "melik",
+      "arabic": "مَلِك",
+      "verseRef": "114:2",
+      "meaning": "Egemen, hükümdar. İnsanların gerçek egemeninin kim olduğunu belirten niteleme."
+    },
+    {
+      "term": "el-vesvâs",
+      "arabic": "الْوَسْوَاس",
+      "verseRef": "114:4",
+      "meaning": "Sinsice fısıldayan, gizli telkin veren. Kökü, duyulmayacak kadar hafif ses anlamındadır."
+    },
+    {
+      "term": "el-hannâs",
+      "arabic": "الْخَنَّاس",
+      "verseRef": "114:4",
+      "meaning": "Geri çekilen, sinen, sonra dönen. Vesvesenin davranış kalıbı: bastırılır, bekler, tekrar gelir."
+    },
+    {
+      "term": "mine'l-cinneti ve'n-nâs",
+      "arabic": "مِنَ الْجِنَّةِ وَالنَّاس",
+      "verseRef": "114:6",
+      "meaning": "Cinlerden ve insanlardan. Vesvesenin kaynağının insanî boyutunu da kapsadığının açık beyanı."
+    }
+  ],
+  "themes": [
+    {
+      "label": "Son tehdit içeridedir",
+      "body": "Kur'an'ın son suresi bir dış düşmanla değil bir fısıltıyla kapanır. En zorlu mücadelenin yeri zihindir."
+    },
+    {
+      "label": "Bitmeyen mücadele",
+      "body": "\"Hannâs\" geri çekilip tekrar gelen demektir. Vesvese bir kez yenilip bitmez; gafleti bekler."
+    },
+    {
+      "label": "İnsan da vesvese kaynağıdır",
+      "body": "Kapanış \"insanlardan\" der. Kötü telkin doğaüstü bir olguya indirgenmez; insanlar birbirine fısıldar."
+    },
+    {
+      "label": "Üç nitelemenin işlevi",
+      "body": "Rab, Melik, İlâh — sığınılan tarafın üç yönü sıralanır: yetiştiren, egemen olan, yönelinen."
+    }
+  ],
+  "questions": [
+    "Zihnimde tekrar tekrar dönen olumsuz bir fısıltı var mı? Nereden geliyor?",
+    "Kimin sözleri bana sürekli kuşku ve huzursuzluk taşıyor? O sesi neden dinlemeye devam ediyorum?",
+    "Ben başkası için bir vesvese kaynağı oluyor muyum? Söylediğim hangi söz birini huzursuzlaştırıyor olabilir?"
+  ],
+  "verses": [
+    {
+      "verseNo": 1,
+      "textArabic": "بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ قُلْ أَعُوذُ بِرَبِّ ٱلنَّاسِ"
+    },
+    {
+      "verseNo": 2,
+      "textArabic": "مَلِكِ ٱلنَّاسِ"
+    },
+    {
+      "verseNo": 3,
+      "textArabic": "إِلَٰهِ ٱلنَّاسِ"
+    },
+    {
+      "verseNo": 4,
+      "textArabic": "مِن شَرِّ ٱلْوَسْوَاسِ ٱلْخَنَّاسِ"
+    },
+    {
+      "verseNo": 5,
+      "textArabic": "ٱلَّذِى يُوَسْوِسُ فِى صُدُورِ ٱلنَّاسِ"
+    },
+    {
+      "verseNo": 6,
+      "textArabic": "مِنَ ٱلْجِنَّةِ وَٱلنَّاسِ"
+    }
+  ],
+  "translations": [
+    {
+      "verseNo": 1,
+      "source": "diyanet",
+      "text": "De ki: \"O, Allah'tır, bir tektir.\""
+    },
+    {
+      "verseNo": 1,
+      "source": "islamoglu",
+      "text": "(EY muhatap!) De ki: “Sığınırım ben Rabbine insanlığın;"
+    },
+    {
+      "verseNo": 1,
+      "source": "esed",
+      "text": "De ki: \"Sığınırım ben insanların Rabbine"
+    },
+    {
+      "verseNo": 1,
+      "source": "okuyan",
+      "text": "De ki: “İnsanların Rabbine sığınırım."
+    },
+    {
+      "verseNo": 2,
+      "source": "diyanet",
+      "text": "\"Allah Samed'dir. (Her şey O'na muhtaçtır, o, hiçbir şeye muhtaç değildir.)\""
+    },
+    {
+      "verseNo": 2,
+      "source": "islamoglu",
+      "text": "Sahibine insanlığın;"
+    },
+    {
+      "verseNo": 2,
+      "source": "esed",
+      "text": "insanların Hakimine"
+    },
+    {
+      "verseNo": 2,
+      "source": "okuyan",
+      "text": "İnsanların hükümdarına,"
+    },
+    {
+      "verseNo": 3,
+      "source": "diyanet",
+      "text": "Ondan çocuk olmamıştır (Kimsenin babası değildir). Kendisi de doğmamıştır (kimsenin çocuğu değildir).\""
+    },
+    {
+      "verseNo": 3,
+      "source": "islamoglu",
+      "text": "İlahına insanlığın:"
+    },
+    {
+      "verseNo": 3,
+      "source": "esed",
+      "text": "insanların İlahına"
+    },
+    {
+      "verseNo": 3,
+      "source": "okuyan",
+      "text": "İnsanların ilahına."
+    },
+    {
+      "verseNo": 4,
+      "source": "diyanet",
+      "text": "\"Hiçbir şey O'na denk ve benzer değildir.\""
+    },
+    {
+      "verseNo": 4,
+      "source": "islamoglu",
+      "text": "Sinsi ve sinik vesvese kaynağının şerrinden;"
+    },
+    {
+      "verseNo": 4,
+      "source": "esed",
+      "text": "fısıldayan sinsi ayartıcının şerrinden"
+    },
+    {
+      "verseNo": 4,
+      "source": "okuyan",
+      "text": "4,5,6. İnsanların göğüslerine (kalplerine) vesveseler fısıldayan, cinlerden ve insanlardan (olan o) sinsi vesvesecinin şerrinden (Allah’a sığınırım).”"
+    },
+    {
+      "verseNo": 5,
+      "source": "diyanet",
+      "text": "De ki: \"Yarattığı şeylerin kötülüğünden, karanlığı çöktüğü zaman gecenin kötülüğünden, düğümlere üfleyenlerin kötülüğünden, haset ettiği zaman hasetçinin kötülüğünden, sabah aydınlığının Rabbine sığınırım.\""
+    },
+    {
+      "verseNo": 5,
+      "source": "islamoglu",
+      "text": "o ki, sürekli kalplerine fısıldıyor insanların;"
+    },
+    {
+      "verseNo": 5,
+      "source": "esed",
+      "text": "insanların kalbine fısıldayan"
+    },
+    {
+      "verseNo": 5,
+      "source": "okuyan",
+      "text": "4,5,6. İnsanların göğüslerine (kalplerine) vesveseler fısıldayan, cinlerden ve insanlardan (olan o) sinsi vesvesecinin şerrinden (Allah’a sığınırım).”"
+    },
+    {
+      "verseNo": 6,
+      "source": "diyanet",
+      "text": "De ki: \"Cinlerden ve insanlardan; insanların kalplerine vesvese veren sinsi vesvesecinin kötülüğünden, insanların Rabbine, insanların Melik'ine, insanların İlah'ına sığınırım.\""
+    },
+    {
+      "verseNo": 6,
+      "source": "islamoglu",
+      "text": "İster görünmeyen-bilinmeyen, ister görünen-bilinen türden."
+    },
+    {
+      "verseNo": 6,
+      "source": "esed",
+      "text": "görünmez güçler(in) ve insanlar(ın bütün ayartmaların)dan"
+    },
+    {
+      "verseNo": 6,
+      "source": "okuyan",
+      "text": "4,5,6. İnsanların göğüslerine (kalplerine) vesveseler fısıldayan, cinlerden ve insanlardan (olan o) sinsi vesvesecinin şerrinden (Allah’a sığınırım).”"
+    },
+    {
+      "verseNo": 1,
+      "verseNoEnd": null,
+      "source": "ai",
+      "text": "De ki: İnsanların Rabbine sığınırım."
+    },
+    {
+      "verseNo": 2,
+      "verseNoEnd": null,
+      "source": "ai",
+      "text": "İnsanların hükümdarı."
+    },
+    {
+      "verseNo": 3,
+      "verseNoEnd": null,
+      "source": "ai",
+      "text": "İnsanların ilahı."
+    },
+    {
+      "verseNo": 4,
+      "verseNoEnd": null,
+      "source": "ai",
+      "text": "Fısıldayıp kaçan vesvesecinin şerrinden."
+    },
+    {
+      "verseNo": 5,
+      "verseNoEnd": null,
+      "source": "ai",
+      "text": "İnsanların göğüslerine fısıldayan."
+    },
+    {
+      "verseNo": 6,
+      "verseNoEnd": null,
+      "source": "ai",
+      "text": "Cinnlerden ve insanlardan."
+    }
+  ],
+  "aiParagraph": "Bazı sesler dışarıdan gelmez — içeriden fısıldar. O ses bazen bir şüphe kıvılcımı yakar, bazen geç kalmışlık hissi olarak çöker, bazen yaptığın bir iyiliği \"gerçekten neden yaptın ki\" diye kemirmeye başlar. Bu fısıltının tuhaf bir özelliği vardır: yakalanmak üzere olduğunu sezince çekilir, iz bırakmadan kaybolur — ama bir sonraki boş anda yeniden belirir. Metnin dikkat çekici olan şeyi, bu karanlık telkinin yalnızca görünmez varlıklardan değil, insanların birbirinden de gelebileceğini söylemesidir; komşudan, ekrandan, kulağa eğilen bir ağızdan. Ve metinde bu fısıltıya karşı önerilen şey bir iradeyi toparlama çabası ya da kendi kendini ikna etme değil — insanlığın tamamını tutan, onlara hükmeden ve onların tek gerçek sığınağı olan bir varlığa yönelmektir. Rab, melik, ilah: üç ayrı sözcük, üç ayrı kucaklayış — bakım, otorite, anlam. Belki de asıl soru şu: İnsanın içindeki o fısıltıyı bastırmak için her gün neyin sesini yükselttiği.",
+  "audienceContext": "Bu söz ilk kimin kulağına çarptı? Mekke'nin erken döneminde yaşayan, gündelik hayatını kabile hukukuyla, ticaretle ve kişisel onuruyla örülmüş bir insanın. O insanın dünyasında şeref dışarıdan gelirdi: bağlı olduğun kabile, taşıdığın isim, mecliste yer buldurduğun ses. İçerisi, yani göğüs kafesi, konuşulmayan bir alandı. Güçlü adam duyguyu bastıran adamdı. Korku kabul edilmezdi, tereddüt zayıflık sayılırdı. Cahiliye kültüründe 'cahil' sözcüğü bilgisizliği değil, öfkeye ve arzularına yenik düşeni tanımlıyordu; yumuşaklık ise ahmakların vasfıydı.\n\nBu ortamda Nâs suresi tuhaf bir şey yapıyor: tehdidin adresini dışarıdan içeriye taşıyor. Felak suresi düşman büyücüleri, haset edenleri, dışsal karanlıkları sayıyordu. Nâs'ta ise sahne boşalıyor. Dışarıda ne var ne yoktur; ortada yalnızca göğsün içi var. Sure muhatabına şunu söylüyor: asıl mesele orada, sesi duyulmayan fısıltıda. Kabile düzeninin kibriyle büyümüş, duygusunu bastırmayı erdem sayan bir adam için bu, alışılmadık bir tanıdır. Düşmanı içinde aramak, o kültürün sözdağarında yoktu.\n\nO ilk muhatap Allah'ın varlığını zaten reddeden biri değildi. Yaratıcının var olduğunu, göklerin ve yerin sahibinin bulunduğunu kabul ediyordu. Direnci başka bir yerden geliyordu: bir insanın peygamber olabileceğine, ölüm sonrası bir hesabın beklendiğine, aracı putların işe yaramayacağına inanmıyordu. Mevcut düzenden çıkarı olanlar, yani ticaret ve nüfuzlarını o putlar etrafında kurmuş olanlar, mesajın yayılmasından en çok rahatsız olanlardı. Sure ise onların diliyle konuşmak yerine ortak zeminden giriyor: 'insanların Rabbi', 'insanların Meliki (egemeni)', 'insanların İlâhı'. Üç nitelemenin üçü de muhatabın daha baştan kabul ettiği gerçekliklere dayanıyor. İtiraz için zemin bırakmıyor.\n\nDirenç ise anlamayandan değil, kaybedecek olanlardan geliyordu. Nüfuz, kalabalıkların kafasındaki fısıltıyı şekillendirmekten geçiyordu: kimin değerli, kimin değersiz olduğunu, kimin sesi duyulacağını, kimin susacağını. Sure tam bu mekanizmayı görünür kılıyor. 'Göğüslere fısıldayan' şeyin kaynakları arasında insanlar da sayılıyor. Bu, iktidarın iç telkin yoluyla nasıl işlediğini teşhis eden bir cümle. Mevcut düzenin fısıltıyla ayakta durduğunu söylemek, o düzeni yönetenlere doğrudan bir tanı koymaktır.",
+  "eventMessageMap": [
+    {
+      "situation": "Kabile düzeninde itibar dışarıdan, yani soydan ve kuvvetten geliyordu; içsel çatışma ve şüphe dile getirilecek şeyler değildi.",
+      "response": "Sure tehdidin adresini dışarıdan içeriye, 'göğüslere fısıldayan' şeye taşıdı.",
+      "shift": "Asıl kırılganlığın güç göstergesinde değil, göğsün içinde olduğu kabul edilebilir hale geldi."
+    },
+    {
+      "situation": "Mekke'nin önde gelenleri putlar etrafında örgütlenmiş ticaret ve nüfuz düzenini sürdürüyordu.",
+      "response": "Sure egemeni, meliki ve ilahı tek bir kaynakta topladı; aracı otorite yapılarına zemin kalmadı.",
+      "shift": "Nüfuzun meşruiyetini putlardan devşiren bir düzenin içinde, egemenlik iddiası yeniden tanımlandı."
+    },
+    {
+      "situation": "Vesvese yalnızca doğaüstü bir kaynağa, cin ve şeytana atfediliyordu; insanlar bu süreçte nötr sayılıyordu.",
+      "response": "Kapanış ayeti fısıltının kaynağını hem cinlerden hem insanlardan olarak belirledi.",
+      "shift": "Kötü telkin ve yönlendirme insanî bir eylem olarak görünür kılındı; toplumsal baskı anonimliğini yitirdi."
+    },
+    {
+      "situation": "Cahiliye kültüründe 'cahil' olan, öfkesine ve arzularına yenik düşendi; bu zaafı kabul etmek aşağılayıcıydı.",
+      "response": "Sure sığınmayı bir zayıflık olarak değil, var olan bir tehdidin tanınması olarak kurdu.",
+      "shift": "İç kırılganlığı adlandırmak, utanç gerektiren bir itiraf olmaktan çıkıp bir farkındalık eylemine dönüştü."
+    }
+  ],
+  "apophaticReading": "'Bu sure bir koruma büyüsüdür' okuması metnin kendi mantığıyla çelişir. Çünkü aynı sure sığınılan şeyi tanımlarken 'göğüslere fısıldayan' der; yani failin içeride, idrak düzeyinde çalıştığını söyler. Bir nesneye ya da ritüele havale edilebilecek dışsal bir tehdit değil, dikkat ve tanıma gerektiren bir süreç tarif edilmektedir. 'El-hannâs' nitelemesi bu çelişkiyi daha da keskinleştirir: geri çekilen, bekleyen, sonra dönen bir şey. Bir kez atlatılan tehditten değil, kalıcı bir dinamikten söz edilmektedir.\n\n'Bu sure münhasıran cin ve şeytan konusundadır' okuması da metnin kendi mantığıyla çelişir. Çünkü aynı sure son ayette 'mine'l-cinneti ve'n-nâs', yani 'cinlerden ve insanlardan' der. Fısıltının kaynağı için insanlar açıkça sayılmaktadır. Kaynağı yalnızca görünmez varlıklara indirgemek, metnin bu son cümlesini boşa çıkarır.\n\nGeriye kalan yönelim, tehdidin nerede işlediğine dair bir konumlandırmadır. Sure 'südûr', yani göğüsler der; kaynaklar bu sözcüğün kalpten önce gelen bir alan olduğunu aktarır, düşüncelerin önce orada toplandığını, oradan içeriye geçtiğini. Bu durumda fısıltı, bir insanın dışında başlayıp içine sızan bir şeydir; kaynağı dışarıda bir insan da olabilir, görünmez bir varlık da. Elimizde kalan şu yönelim: tehdit soyuttur ama yeri somuttur, göğsün içidir; ve bu yer, hem doğaüstü hem insanî etkinin geçiş noktasıdır.\n\nBugüne kadar az bakılmış açı şudur: sure 'hannâs' nitelemesini kullanırken bir davranış kalıbını tanımlar, bir kimliği değil. El-hannâs, 'geri çekilen ve geride kalmayı âdet edinen'dir. Bu, sürekli bir eylem kipidir. Yani surenin öngördüğü tehdit bir varlık değil, bir hareket biçimidir: sokulur, bastırılır, bekler, döner. Bu kalıp cahiliye zeminindeki karşılıkla birleşince ilginç bir şey ortaya çıkar. Cahiliye anlayışında 'cahil' olan, arzularının ve öfkesinin önünde süründürülen insandı. El-hannâs'ın tarif ettiği hareket de tam bu kırılganlıktan beslenir: bastırıldığında bekler, gaflet anında geri gelir. Sure dolaylı olarak hangi anın en açık kapıyı oluşturduğunu söylüyor: öfkenin ya da arzunun öne geçtiği, teenniyi devre dışı bıraktığı an.\n\nSusma: *Sığındıktan sonra insanın içinde ne değişeceği buradan görünmez.*",
+  "aiCommentary": "Bu dört bölüm, yapay zekâ tarafından üretilmiştir. Kullanılan kaynaklar şunlardır: surenin Arapça metni; TDV İslâm Ansiklopedisi'nin 'Câhiliye' maddesinden alınan ve editöryal içerikte doğrulanmış dönem zemini; Diyanet İşleri Başkanlığı Kur'an Yolu Tefsiri'ndeki ilgili ayet açıklamaları; 'el-hannâs' ve 'el-vesvâs' kavramlarına ilişkin Arapça leksikografik bilgi. Her iddia bu kaynaklarda karşılığı olan ifadelere dayandırılmış, dayanağı olmayan sosyolojik çıkarım yapılmamıştır.\n\nApofatik okuma bölümü kasıtlı olarak olumsuzlama yöntemiyle kurulmuştur. Bunun nedeni, bir metnin yaratıcısının maksadına dair her olumlu iddianın aslında bir insanın tahmini olmasıdır. Neyin söylenmediğini, neyin metnin kendi iç mantığıyla çürütüldüğünü göstermek, yanlış olma riskini azaltır ve okuyucuya yorumu kapatmak yerine açık bırakır.\n\nBu metin bir tefsir, meal ya da fetva değildir. Herhangi bir dini otorite adına konuşmaz; amel hükmü içermez, 'şu helaldir, şu haramdır' türünden bir yargıya varmaz. Yeni araştırma verileri, dilbilimsel bulgular ya da tarihsel belgeler ışığında bu değerlendirmelerin herhangi bir bölümü değişebilir."
 }

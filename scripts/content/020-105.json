@@ -1,229 +1,254 @@
 {
- "stationNo": 20,
- "surahNo": 105,
- "nuzulOrderOkuyan": 20,
- "name": "Fîl",
- "nameArabic": "الفيل",
- "nameMeaning": "Fil",
- "verseCount": 5,
- "periodDiyanet": "Mekke",
- "periodOkuyan": "Mekke",
- "revelationTiming": "Mekke dönemi",
- "stationTitle": "Aşılamaz sanılan bir ordu, kimsenin beklemediği bir biçimde dağıldı.",
- "introduction": "Fîl suresi, adını birinci ayetteki \"fîl\" (fil) kelimesinden alır. Beş ayetlik sure Mekke döneminde inmiştir.\n\nSure, Mekke'ye saldırıp Kâbe'yi yıkmayı amaçlayan fil sahiplerinin ordusunun akıbetini hatırlatır. Anlatı ayrıntı vermez; \"planlarını boşa çıkardı\", \"sürü sürü kuşlar gönderdi\", \"yenilmiş ekin yaprağı gibi yaptı\" ifadeleriyle özetler. Hitap bir bilgi verme değil, hatırlatma biçimindedir: \"Görmedin mi?\"",
- "occasionOfRevelation": "Sure, Mekke tarihinde \"Fil Vakası\" olarak bilinen olaya atıfta bulunur. Tarihî kaynakların naklettiğine göre Ebrehe — aslen Habeşli olup Habeş Krallığı adına Yemen valiliği yapan komutan — büyük bir orduyla, içinde fillerin de bulunduğu bir güçle Mekke'ye yürüyerek Kâbe'yi yıkmayı amaçladı; ancak ordu Mekke'ye ulaşmadan dağıldı. Kaynaklar seferin gerekçesi olarak Ebrehe'nin San'a'da yaptırdığı büyük kilisenin — İslâm kaynaklarında \"Kulleys\" ya da \"Kalîs\" adıyla geçer; kelime Yunanca \"ekklesia\"nın Arapçalaşmış hâlidir — hac merkezi olarak Kâbe'nin yerini alamamasını kaydeder. Ordudaki en büyük filin adı kaynaklarda \"Mahmûd\" olarak anılır.\n\nBu olay Arap toplumunun kolektif hafızasında güçlü bir yer edinmişti; öyle ki o yıl \"Âmü'l-fîl\" (Fil Yılı) diye anılmış ve bir dönem tarih hesabında başlangıç noktası olarak kullanılmıştır. Kaynaklar Hz. Muhammed'in doğumunun bu olayla aynı yıla denk geldiğini kaydeder; bu tarihlendirme rivayete dayanır ve kesinlik iddiası taşımaz.\n\nSurenin muhatabına \"görmedin mi?\" diye hitap etmesi, olayın bilinen ve tartışmasız kabul edilen bir vaka olduğunu gösterir. Sure yeni bir bilgi vermez, bilinen bir olaydan bir sonuç çıkarmayı ister.",
- "occasionSources": "Diyanet İşleri Başkanlığı Kur'an Yolu Tefsiri, Fîl suresi girişi; TDV İslâm Ansiklopedisi, \"Fîl Sûresi\" ve \"Fil Vak'ası\" maddeleri. Doğum yılıyla ilgili tarihlendirme rivayete dayanır.",
- "contemporaryMeaning": "Surenin taşıdığı ders, gücün mutlaklığına dair bir itirazdır. Dönemin en gelişmiş askerî teknolojisi — fil — bir sonuç üretmedi. Metin, ordunun nasıl dağıldığını ayrıntılamak yerine sonucu bildirir: plan boşa çıktı.\n\nİkinci nokta ölçek farkıdır. Büyük bir orduyu dağıtan şey büyük bir ordu değildir. Sure kuşlardan söz eder. Bu, güç dengesinin göründüğü gibi işlemediğini anlatan bir imgedir.\n\nBugünün diliyle: aşılamaz görünen bir yapının çöküşü genellikle kendisiyle aynı ölçekte bir güçten değil, hesaba katılmamış küçük bir etkenden gelir.",
- "keyTerms": [
-  {
-   "term": "ashâbü'l-fîl",
-   "arabic": "أَصْحَابِ الْفِيل",
-   "verseRef": "105:1",
-   "meaning": "Fil sahipleri. Mekke'ye yürüyen orduyu niteleyen ifade."
-  },
-  {
-   "term": "keydehüm",
-   "arabic": "كَيْدَهُمْ",
-   "verseRef": "105:2",
-   "meaning": "Tuzakları, planları, kurdukları düzen. Boşa çıkarıldığı bildirilir."
-  },
-  {
-   "term": "tayran ebâbîl",
-   "arabic": "طَيْرًا أَبَابِيل",
-   "verseRef": "105:3",
-   "meaning": "Sürü sürü kuşlar. Tefsirlerde kelimenin tam anlamı tartışmalıdır; \"öbek öbek, katar katar\" anlamı öne çıkar."
-  },
-  {
-   "term": "asfin me'kûl",
-   "arabic": "عَصْفٍ مَّأْكُول",
-   "verseRef": "105:5",
-   "meaning": "Yenilmiş ekin yaprağı, çiğnenmiş saman. Dağılmanın tamlığını anlatan benzetme."
-  }
- ],
- "themes": [
-  {
-   "label": "Gücün mutlaklığına itiraz",
-   "body": "Dönemin en gelişmiş askerî imkânı bir sonuç üretmedi. Sure, üstün gücün otomatik olarak kazanmadığını hatırlatır."
-  },
-  {
-   "label": "Ölçek farkı",
-   "body": "Büyük bir orduyu dağıtan şey aynı ölçekte bir ordu değildir. Metin, güç dengesinin göründüğü gibi işlemediğini imler."
-  },
-  {
-   "label": "Hatırlatma, bilgi verme değil",
-   "body": "\"Görmedin mi?\" hitabı, olayın bilinen bir vaka olduğunu gösterir. İstenen şey yeni bilgi değil, bilinen olaydan sonuç çıkarmaktır."
-  }
- ],
- "questions": [
-  "Karşımda aşılamaz gördüğüm bir yapı ya da durum var mı? Onu aşılamaz kılan gerçekten gücü mü, benim varsayımım mı?",
-  "Kendi gücüme güvendiğim bir alanda, hesaba katmadığım küçük etkenler neler olabilir?",
-  "Geçmişte kesin çökeceğini düşündüğüm ama çökmeyen — ya da tersi — bir durum oldu mu? Ne öğrendim?"
- ],
- "scholarlyNotes": [
-  {
-   "kind": "ihtilaf",
-   "label": "Fil Vakası ne zaman oldu?",
-   "body": "Yaygın kabul, olayın Hz. Muhammed'in doğum yılına (M.S. 569-571 aralığı) denk geldiğidir; kaynaklar doğumdan elli-elli beş gün ya da üç ay önce gerçekleştiğini kaydeder. Bununla birlikte 547, 552 ve 563 yıllarını veren rivayetler de bulunur. Tarih kesin değildir."
-  },
-  {
-   "kind": "ihtilaf",
-   "label": "Olayın mahiyeti nasıl açıklanır?",
-   "body": "Klasik tefsirler ordunun helâkini bütünüyle bir mucize olarak değerlendirir. Muhammed Abduh gibi bazı çağdaş müfessirler ise olayı çiçek veya kızamık türü bulaşıcı bir hastalık salgını olarak yorumlamıştır; bu pozitivist yaklaşım diğer birçok müfessir tarafından eleştirilmiştir. \"Ebâbîl\" kelimesinin bir kuş türünün özel adı mı yoksa \"sürü sürü\" anlamında bir sıfat mı olduğu da tartışmalıdır."
-  }
- ],
- "verses": [
-  {
-   "verseNo": 1,
-   "textArabic": "بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ أَلَمْ تَرَ كَيْفَ فَعَلَ رَبُّكَ بِأَصْحَٰبِ ٱلْفِيلِ"
-  },
-  {
-   "verseNo": 2,
-   "textArabic": "أَلَمْ يَجْعَلْ كَيْدَهُمْ فِى تَضْلِيلٍۢ"
-  },
-  {
-   "verseNo": 3,
-   "textArabic": "وَأَرْسَلَ عَلَيْهِمْ طَيْرًا أَبَابِيلَ"
-  },
-  {
-   "verseNo": 4,
-   "textArabic": "تَرْمِيهِم بِحِجَارَةٍۢ مِّن سِجِّيلٍۢ"
-  },
-  {
-   "verseNo": 5,
-   "textArabic": "فَجَعَلَهُمْ كَعَصْفٍۢ مَّأْكُولٍۭ"
-  }
- ],
- "translations": [
-  {
-   "verseNo": 1,
-   "source": "diyanet",
-   "text": "Andolsun zamana ki, insan gerçekten ziyan içindedir."
-  },
-  {
-   "verseNo": 1,
-   "source": "islamoglu",
-   "text": "GÖZÜNDE canlandırabilir misin Rabbinin fil ordusuna ne yaptığını?"
-  },
-  {
-   "verseNo": 1,
-   "source": "esed",
-   "text": "Haberin yok mu Rabbin Fil Ordusu´na ne yaptı"
-  },
-  {
-   "verseNo": 1,
-   "source": "okuyan",
-   "text": "Rabbinin fil sahiplerine ne yaptığını görmedin mi?"
-  },
-  {
-   "verseNo": 2,
-   "source": "diyanet",
-   "text": "Andolsun zamana ki, insan gerçekten ziyan içindedir."
-  },
-  {
-   "verseNo": 2,
-   "source": "islamoglu",
-   "text": "Başlarına geçirmedi mi onların ince tasarlanmış haince hilesini?"
-  },
-  {
-   "verseNo": 2,
-   "source": "esed",
-   "text": "Onların kurnazca planlarını tamamen bozmadı mı"
-  },
-  {
-   "verseNo": 2,
-   "source": "okuyan",
-   "text": "Onların tuzaklarını boşa çıkarmadı mı?"
-  },
-  {
-   "verseNo": 3,
-   "source": "diyanet",
-   "text": "Ancak, iman edip de sâlih ameller işleyenler, birbirlerine hakkı tavsiye edenler, birbirlerine sabrı tavsiye edenler başka (Onlar ziyanda değillerdir)."
-  },
-  {
-   "verseNo": 3,
-   "source": "islamoglu",
-   "text": "Onların üzerine katar katar bilinmeyen nitelikte uçan taşıyıcı varlıklar saldı;"
-  },
-  {
-   "verseNo": 3,
-   "source": "esed",
-   "text": "Üzerlerine kalabalık sürüler halinde uçan varlıklar saldı"
-  },
-  {
-   "verseNo": 3,
-   "source": "okuyan",
-   "text": "Üzerlerine sürü sürü kuşlar göndermişti."
-  },
-  {
-   "verseNo": 4,
-   "source": "diyanet",
-   "text": "Hayır! Andolsun ki o, Hutâme'ye atılacaktır."
-  },
-  {
-   "verseNo": 4,
-   "source": "islamoglu",
-   "text": "onlara taş kesilmiş balçık türü tanımlanamayan (şeyler) atıyorlardı."
-  },
-  {
-   "verseNo": 4,
-   "source": "esed",
-   "text": "onlara önceden tesbit edilmiş taş gibi sert azap darbeleri vurdular"
-  },
-  {
-   "verseNo": 4,
-   "source": "okuyan",
-   "text": "Onlara çamurdan sertleşmiş taşlar atıyorlar(dı)."
-  },
-  {
-   "verseNo": 5,
-   "source": "diyanet",
-   "text": "Hutame'nin ne olduğunu sen ne bileceksin?"
-  },
-  {
-   "verseNo": 5,
-   "source": "islamoglu",
-   "text": "Derken (Rabbin) onları, yenil(erek delik deşik edil)miş yapraklara benzetti."
-  },
-  {
-   "verseNo": 5,
-   "source": "esed",
-   "text": "ve onları yalnız sap dipleri kalasıya yenmiş bir ekin tarlasına benzettiler"
-  },
-  {
-   "verseNo": 5,
-   "source": "okuyan",
-   "text": "Böylece, onları yenilmiş ekin (tarlası) gibi yapmıştı."
-  },
-  {
-   "verseNo": 1,
-   "verseNoEnd": null,
-   "source": "ai",
-   "text": "Rabbinin fil sahiplerine ne yaptığını görmedin mi?"
-  },
-  {
-   "verseNo": 2,
-   "verseNoEnd": null,
-   "source": "ai",
-   "text": "Onların hilelerini boşa çıkarmadı mı?"
-  },
-  {
-   "verseNo": 3,
-   "verseNoEnd": null,
-   "source": "ai",
-   "text": "Onların üzerine sürüler halinde kuşlar gönderdi."
-  },
-  {
-   "verseNo": 4,
-   "verseNoEnd": null,
-   "source": "ai",
-   "text": "Onlara pişmiş çamurdan taşlar attı."
-  },
-  {
-   "verseNo": 5,
-   "verseNoEnd": null,
-   "source": "ai",
-   "text": "Onları yenmiş bir saman parçası gibi yaptı."
-  }
- ],
- "aiParagraph": "Tarihin en büyük güç gösterilerinden biri, aynı zamanda tarihin en sessiz çöküşlerinden biridir: ordu yürür, filler gürler, hesaplar yapılmış, zafer neredeyse cebe konulmuştur — ama sabah olmaz. Metinde sorulan şey bir bilgi sorusu değil; \"görmedin mi?\" diye başlayan o soru, aslında bir davet — olanı gerçekten görüyor musun, yoksa yalnızca yüzeyi mi görüyorsun? Hazırlık eksiksizdi, sayı üstündü, karşı tarafın savunacak neredeyse hiçbir şeyi yoktu. Oysa tam da bu noktada, insanın hesaba katmadığı bir şey devreye girer; küçük, sıradan, gözden kaçan bir şey — ve o devasa tertip, yenilmiş ekinlerin çürük sapı gibi dağılır. Metnin kastettiği yalnızca o ordu değil; her türlü büyük plan, her türlü \"artık kimse durduramaz\" anıdır. İnsan, gücünün doruk noktasında bile kendisini kuşatan bilinmezleri göremez — ve işte o bilinmezler çoğu zaman en ince yerden çeker götürür."
+  "stationNo": 20,
+  "surahNo": 105,
+  "nuzulOrderOkuyan": 20,
+  "name": "Fîl",
+  "nameArabic": "الفيل",
+  "nameMeaning": "Fil",
+  "verseCount": 5,
+  "periodDiyanet": "Mekke",
+  "periodOkuyan": "Mekke",
+  "revelationTiming": "Mekke dönemi",
+  "stationTitle": "Aşılamaz sanılan bir ordu, kimsenin beklemediği bir biçimde dağıldı.",
+  "introduction": "Fîl suresi, adını birinci ayetteki \"fîl\" (fil) kelimesinden alır. Beş ayetlik sure Mekke döneminde inmiştir.\n\nSure, Mekke'ye saldırıp Kâbe'yi yıkmayı amaçlayan fil sahiplerinin ordusunun akıbetini hatırlatır. Anlatı ayrıntı vermez; \"planlarını boşa çıkardı\", \"sürü sürü kuşlar gönderdi\", \"yenilmiş ekin yaprağı gibi yaptı\" ifadeleriyle özetler. Hitap bir bilgi verme değil, hatırlatma biçimindedir: \"Görmedin mi?\"",
+  "occasionOfRevelation": "Sure, Mekke tarihinde \"Fil Vakası\" olarak bilinen olaya atıfta bulunur. Tarihî kaynakların naklettiğine göre Ebrehe — aslen Habeşli olup Habeş Krallığı adına Yemen valiliği yapan komutan — büyük bir orduyla, içinde fillerin de bulunduğu bir güçle Mekke'ye yürüyerek Kâbe'yi yıkmayı amaçladı; ancak ordu Mekke'ye ulaşmadan dağıldı. Kaynaklar seferin gerekçesi olarak Ebrehe'nin San'a'da yaptırdığı büyük kilisenin — İslâm kaynaklarında \"Kulleys\" ya da \"Kalîs\" adıyla geçer; kelime Yunanca \"ekklesia\"nın Arapçalaşmış hâlidir — hac merkezi olarak Kâbe'nin yerini alamamasını kaydeder. Ordudaki en büyük filin adı kaynaklarda \"Mahmûd\" olarak anılır.\n\nBu olay Arap toplumunun kolektif hafızasında güçlü bir yer edinmişti; öyle ki o yıl \"Âmü'l-fîl\" (Fil Yılı) diye anılmış ve bir dönem tarih hesabında başlangıç noktası olarak kullanılmıştır. Kaynaklar Hz. Muhammed'in doğumunun bu olayla aynı yıla denk geldiğini kaydeder; bu tarihlendirme rivayete dayanır ve kesinlik iddiası taşımaz.\n\nSurenin muhatabına \"görmedin mi?\" diye hitap etmesi, olayın bilinen ve tartışmasız kabul edilen bir vaka olduğunu gösterir. Sure yeni bir bilgi vermez, bilinen bir olaydan bir sonuç çıkarmayı ister.",
+  "occasionSources": "Diyanet İşleri Başkanlığı Kur'an Yolu Tefsiri, Fîl suresi girişi; TDV İslâm Ansiklopedisi, \"Fîl Sûresi\" ve \"Fil Vak'ası\" maddeleri. Doğum yılıyla ilgili tarihlendirme rivayete dayanır.",
+  "contemporaryMeaning": "Surenin taşıdığı ders, gücün mutlaklığına dair bir itirazdır. Dönemin en gelişmiş askerî teknolojisi — fil — bir sonuç üretmedi. Metin, ordunun nasıl dağıldığını ayrıntılamak yerine sonucu bildirir: plan boşa çıktı.\n\nİkinci nokta ölçek farkıdır. Büyük bir orduyu dağıtan şey büyük bir ordu değildir. Sure kuşlardan söz eder. Bu, güç dengesinin göründüğü gibi işlemediğini anlatan bir imgedir.\n\nBugünün diliyle: aşılamaz görünen bir yapının çöküşü genellikle kendisiyle aynı ölçekte bir güçten değil, hesaba katılmamış küçük bir etkenden gelir.",
+  "keyTerms": [
+    {
+      "term": "ashâbü'l-fîl",
+      "arabic": "أَصْحَابِ الْفِيل",
+      "verseRef": "105:1",
+      "meaning": "Fil sahipleri. Mekke'ye yürüyen orduyu niteleyen ifade."
+    },
+    {
+      "term": "keydehüm",
+      "arabic": "كَيْدَهُمْ",
+      "verseRef": "105:2",
+      "meaning": "Tuzakları, planları, kurdukları düzen. Boşa çıkarıldığı bildirilir."
+    },
+    {
+      "term": "tayran ebâbîl",
+      "arabic": "طَيْرًا أَبَابِيل",
+      "verseRef": "105:3",
+      "meaning": "Sürü sürü kuşlar. Tefsirlerde kelimenin tam anlamı tartışmalıdır; \"öbek öbek, katar katar\" anlamı öne çıkar."
+    },
+    {
+      "term": "asfin me'kûl",
+      "arabic": "عَصْفٍ مَّأْكُول",
+      "verseRef": "105:5",
+      "meaning": "Yenilmiş ekin yaprağı, çiğnenmiş saman. Dağılmanın tamlığını anlatan benzetme."
+    }
+  ],
+  "themes": [
+    {
+      "label": "Gücün mutlaklığına itiraz",
+      "body": "Dönemin en gelişmiş askerî imkânı bir sonuç üretmedi. Sure, üstün gücün otomatik olarak kazanmadığını hatırlatır."
+    },
+    {
+      "label": "Ölçek farkı",
+      "body": "Büyük bir orduyu dağıtan şey aynı ölçekte bir ordu değildir. Metin, güç dengesinin göründüğü gibi işlemediğini imler."
+    },
+    {
+      "label": "Hatırlatma, bilgi verme değil",
+      "body": "\"Görmedin mi?\" hitabı, olayın bilinen bir vaka olduğunu gösterir. İstenen şey yeni bilgi değil, bilinen olaydan sonuç çıkarmaktır."
+    }
+  ],
+  "questions": [
+    "Karşımda aşılamaz gördüğüm bir yapı ya da durum var mı? Onu aşılamaz kılan gerçekten gücü mü, benim varsayımım mı?",
+    "Kendi gücüme güvendiğim bir alanda, hesaba katmadığım küçük etkenler neler olabilir?",
+    "Geçmişte kesin çökeceğini düşündüğüm ama çökmeyen — ya da tersi — bir durum oldu mu? Ne öğrendim?"
+  ],
+  "scholarlyNotes": [
+    {
+      "kind": "ihtilaf",
+      "label": "Fil Vakası ne zaman oldu?",
+      "body": "Yaygın kabul, olayın Hz. Muhammed'in doğum yılına (M.S. 569-571 aralığı) denk geldiğidir; kaynaklar doğumdan elli-elli beş gün ya da üç ay önce gerçekleştiğini kaydeder. Bununla birlikte 547, 552 ve 563 yıllarını veren rivayetler de bulunur. Tarih kesin değildir."
+    },
+    {
+      "kind": "ihtilaf",
+      "label": "Olayın mahiyeti nasıl açıklanır?",
+      "body": "Klasik tefsirler ordunun helâkini bütünüyle bir mucize olarak değerlendirir. Muhammed Abduh gibi bazı çağdaş müfessirler ise olayı çiçek veya kızamık türü bulaşıcı bir hastalık salgını olarak yorumlamıştır; bu pozitivist yaklaşım diğer birçok müfessir tarafından eleştirilmiştir. \"Ebâbîl\" kelimesinin bir kuş türünün özel adı mı yoksa \"sürü sürü\" anlamında bir sıfat mı olduğu da tartışmalıdır."
+    }
+  ],
+  "verses": [
+    {
+      "verseNo": 1,
+      "textArabic": "بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ أَلَمْ تَرَ كَيْفَ فَعَلَ رَبُّكَ بِأَصْحَٰبِ ٱلْفِيلِ"
+    },
+    {
+      "verseNo": 2,
+      "textArabic": "أَلَمْ يَجْعَلْ كَيْدَهُمْ فِى تَضْلِيلٍۢ"
+    },
+    {
+      "verseNo": 3,
+      "textArabic": "وَأَرْسَلَ عَلَيْهِمْ طَيْرًا أَبَابِيلَ"
+    },
+    {
+      "verseNo": 4,
+      "textArabic": "تَرْمِيهِم بِحِجَارَةٍۢ مِّن سِجِّيلٍۢ"
+    },
+    {
+      "verseNo": 5,
+      "textArabic": "فَجَعَلَهُمْ كَعَصْفٍۢ مَّأْكُولٍۭ"
+    }
+  ],
+  "translations": [
+    {
+      "verseNo": 1,
+      "source": "diyanet",
+      "text": "Andolsun zamana ki, insan gerçekten ziyan içindedir."
+    },
+    {
+      "verseNo": 1,
+      "source": "islamoglu",
+      "text": "GÖZÜNDE canlandırabilir misin Rabbinin fil ordusuna ne yaptığını?"
+    },
+    {
+      "verseNo": 1,
+      "source": "esed",
+      "text": "Haberin yok mu Rabbin Fil Ordusu´na ne yaptı"
+    },
+    {
+      "verseNo": 1,
+      "source": "okuyan",
+      "text": "Rabbinin fil sahiplerine ne yaptığını görmedin mi?"
+    },
+    {
+      "verseNo": 2,
+      "source": "diyanet",
+      "text": "Andolsun zamana ki, insan gerçekten ziyan içindedir."
+    },
+    {
+      "verseNo": 2,
+      "source": "islamoglu",
+      "text": "Başlarına geçirmedi mi onların ince tasarlanmış haince hilesini?"
+    },
+    {
+      "verseNo": 2,
+      "source": "esed",
+      "text": "Onların kurnazca planlarını tamamen bozmadı mı"
+    },
+    {
+      "verseNo": 2,
+      "source": "okuyan",
+      "text": "Onların tuzaklarını boşa çıkarmadı mı?"
+    },
+    {
+      "verseNo": 3,
+      "source": "diyanet",
+      "text": "Ancak, iman edip de sâlih ameller işleyenler, birbirlerine hakkı tavsiye edenler, birbirlerine sabrı tavsiye edenler başka (Onlar ziyanda değillerdir)."
+    },
+    {
+      "verseNo": 3,
+      "source": "islamoglu",
+      "text": "Onların üzerine katar katar bilinmeyen nitelikte uçan taşıyıcı varlıklar saldı;"
+    },
+    {
+      "verseNo": 3,
+      "source": "esed",
+      "text": "Üzerlerine kalabalık sürüler halinde uçan varlıklar saldı"
+    },
+    {
+      "verseNo": 3,
+      "source": "okuyan",
+      "text": "Üzerlerine sürü sürü kuşlar göndermişti."
+    },
+    {
+      "verseNo": 4,
+      "source": "diyanet",
+      "text": "Hayır! Andolsun ki o, Hutâme'ye atılacaktır."
+    },
+    {
+      "verseNo": 4,
+      "source": "islamoglu",
+      "text": "onlara taş kesilmiş balçık türü tanımlanamayan (şeyler) atıyorlardı."
+    },
+    {
+      "verseNo": 4,
+      "source": "esed",
+      "text": "onlara önceden tesbit edilmiş taş gibi sert azap darbeleri vurdular"
+    },
+    {
+      "verseNo": 4,
+      "source": "okuyan",
+      "text": "Onlara çamurdan sertleşmiş taşlar atıyorlar(dı)."
+    },
+    {
+      "verseNo": 5,
+      "source": "diyanet",
+      "text": "Hutame'nin ne olduğunu sen ne bileceksin?"
+    },
+    {
+      "verseNo": 5,
+      "source": "islamoglu",
+      "text": "Derken (Rabbin) onları, yenil(erek delik deşik edil)miş yapraklara benzetti."
+    },
+    {
+      "verseNo": 5,
+      "source": "esed",
+      "text": "ve onları yalnız sap dipleri kalasıya yenmiş bir ekin tarlasına benzettiler"
+    },
+    {
+      "verseNo": 5,
+      "source": "okuyan",
+      "text": "Böylece, onları yenilmiş ekin (tarlası) gibi yapmıştı."
+    },
+    {
+      "verseNo": 1,
+      "verseNoEnd": null,
+      "source": "ai",
+      "text": "Rabbinin fil sahiplerine ne yaptığını görmedin mi?"
+    },
+    {
+      "verseNo": 2,
+      "verseNoEnd": null,
+      "source": "ai",
+      "text": "Onların hilelerini boşa çıkarmadı mı?"
+    },
+    {
+      "verseNo": 3,
+      "verseNoEnd": null,
+      "source": "ai",
+      "text": "Onların üzerine sürüler halinde kuşlar gönderdi."
+    },
+    {
+      "verseNo": 4,
+      "verseNoEnd": null,
+      "source": "ai",
+      "text": "Onlara pişmiş çamurdan taşlar attı."
+    },
+    {
+      "verseNo": 5,
+      "verseNoEnd": null,
+      "source": "ai",
+      "text": "Onları yenmiş bir saman parçası gibi yaptı."
+    }
+  ],
+  "aiParagraph": "Tarihin en büyük güç gösterilerinden biri, aynı zamanda tarihin en sessiz çöküşlerinden biridir: ordu yürür, filler gürler, hesaplar yapılmış, zafer neredeyse cebe konulmuştur — ama sabah olmaz. Metinde sorulan şey bir bilgi sorusu değil; \"görmedin mi?\" diye başlayan o soru, aslında bir davet — olanı gerçekten görüyor musun, yoksa yalnızca yüzeyi mi görüyorsun? Hazırlık eksiksizdi, sayı üstündü, karşı tarafın savunacak neredeyse hiçbir şeyi yoktu. Oysa tam da bu noktada, insanın hesaba katmadığı bir şey devreye girer; küçük, sıradan, gözden kaçan bir şey — ve o devasa tertip, yenilmiş ekinlerin çürük sapı gibi dağılır. Metnin kastettiği yalnızca o ordu değil; her türlü büyük plan, her türlü \"artık kimse durduramaz\" anıdır. İnsan, gücünün doruk noktasında bile kendisini kuşatan bilinmezleri göremez — ve işte o bilinmezler çoğu zaman en ince yerden çeker götürür.",
+  "audienceContext": "Bu sure ilk olarak Mekke'de, Kâbe hizmetini ve Hicaz ticaret ağını elinde tutan bir topluluğa seslendi. O topluluğun kimliği büyük ölçüde Kâbe'ye bağlıydı: Kâbe'nin komşusu olmak, kervanları korumasız bölgelerde bile dokunulmaz kılıyordu. Başka bir anlatımla, Kâbe yalnızca dini bir yapı değil, siyasi dokunulmazlığın ve ticari güvenin kaynağıydı. Fil suresinin ilk muhatabı, bu düzeni soluyarak büyümüş insanlardı.\n\nOlayın kolektif hafızadaki ağırlığı olağandışıydı. Fil Vakası, Arap toplumu için o denli belirleyici bir kırılma noktasına dönüşmüştü ki o yıl \"Âmü'l-fîl\" — Fil Yılı — adıyla anılmış ve bir dönem tarih hesabının başlangıcı olarak kullanılmıştır. Bu, anlatının dışarıdan dayatılmış bir din söylemi olmadığını gösterir; tam tersine, muhatap o olayı zaten biliyordu ve ona toplumsal bir anlam yüklemişti. Sure bunu fark eder: \"Görmedin mi?\" diye sorar, yeni bir bilgi vermez. Ortak zeminden konuşur.\n\nO muhatabın zaten kabul ettiği şey buydu: Kâbe'yi yaratan ve koruyan bir güç vardır. Ebrehe bir ordu kurmuştu; Hicaz'daki dinî ve ticari üstünlüğü ele geçirmek, San'a'daki kilisesini hac merkezi hâline getirmek ve Kâbe'yi devre dışı bırakmak istiyordu. Buna rağmen ordu erimişti. Mekke'nin ileri gelenleri bu sonucu kendi çıkarları açısından zaten olumlu buluyordu; çünkü Kâbe'nin korunması, onların statüsünün de korunması demekti.\n\nDirenç tam da burada düğümleniyordu. Sure, bu vakayı hatırlatarak dolaylı bir soru sorar: Kâbe'yi koruyan güç aynı güçse, o gücün adına konuşan bir peygambere neden karşı çıkılıyor? Mevcut düzenden kazançlı çıkanlar — kervan güvenliğini Kâbe'nin prestijine borçlu olanlar, hac sezonunun ticaretini yönetenler — bu soruyu duymak istemiyordu. Çünkü cevabı kabul etmek, düzenin kendisini sorgulamak anlamına geliyordu.",
+  "eventMessageMap": [
+    {
+      "situation": "Ebrehe, içinde fillerin de bulunduğu büyük bir orduyla Kâbe'yi yıkmak için Mekke'ye yürüdü; Mekke'liler savunacak askerî güçten yoksundu.",
+      "response": "Metin, orduya karşı bir savaş anlatısı sunmaz; planın kendi içinde nasıl boşa çıktığını kaydeder — \"keydehüm fi tadlîl\", tuzakları şaşırtıldı, şaşırıp gitti.",
+      "shift": "Güç dengesini belirleyenin sayı ya da silah olmadığı; kurulmuş planın bizzat kendisinin nasıl dağılabileceği zemine oturur."
+    },
+    {
+      "situation": "Fillerle güçlendirilmiş bir ordu, o dönemin en ağır askerî araçlarını taşıyordu ve Arap kabileleri için filin simgelediği yenilmezlik algısı gerçekti.",
+      "response": "Metin, karşı güç olarak \"tayran ebâbîl\" — sürü sürü kuşlar — gösterir; yani kalabalık ve donanımlı olanın küçük ve önemsiz sayılanla çözüldüğünü somutlaştırır.",
+      "shift": "Güç gösterisi ile fiilî sonuç arasındaki mesafeyi görünür kılar: büyüklük, kalıcılığı garanti etmez."
+    },
+    {
+      "situation": "Ebrehe'nin San'a'daki kilisesi hac trafiğini Kâbe'den çekmeye yönelik bir projeydi; bu proje Kureyş'in hem dinî hem ticari konumunu doğrudan tehdit ediyordu.",
+      "response": "Sure bu gerekçeye hiç girmez; olayı yalnızca \"Rabbinin ne yaptığı\" çerçevesine koyar ve gerekçeyi değil sonucu öne çıkarır.",
+      "shift": "Muhatabın aklındaki \"kim haklı, kim kazandı\" sorusu, \"bu sonuç nereden geldi\" sorusuna dönüştürülür."
+    },
+    {
+      "situation": "\"Asfin me'kûl\" — yenilmiş ekin yaprağı — benzetmesi, ordunun dağılışını tasvir eder; Arap şiirinde yıkım anlatıları genellikle zafer kazananın adını öne çıkarır.",
+      "response": "Metin kazananı adlandırmaz, kazanan bir insan ya da kabile değildir; benzetme yalnızca geri kalanın ne olduğunu gösterir: çiğnenmiş, savrulan kırıntılar.",
+      "shift": "Zafer söyleminin alışıldık kahramanını ortadan kaldırır; geriye yalnızca bir akıbet kalır."
+    }
+  ],
+  "apophaticReading": "'Bu sure Kâbe'nin fiziksel olarak korunduğunu müjdeliyor' okuması metnin kendi mantığıyla çelişir. Çünkü sure ne Kâbe'yi ne de onun geleceğini konuşmaz; konuştuğu şey bir planın nasıl boşa çıktığıdır. \"Keydehüm\" — onların tuzağı, planı — kelimesi merkezdedir. Odak yapı değil, kurulan düzenin akıbetidir. Kâbe'nin korunacağını garanti eden bir vaad burada yoktur; olan şey, o kurulmuş planın çözülüşünün hatırlatılmasıdır.\n\n'Bu sure İslam'ın düşmanlarına verilen bir uyarı, siyasi bir tehdit mesajıdır' okuması da metnin kendi yapısıyla çelişir. Çünkü hitap kipi uyarı değil, sorudur: \"elem ter\" — görmedin mi? Bu yapı, bir tehdidi değil hatırlatma davetini kurar. Muhatap suçlanmıyor, bir sonuç görmek için çağrılıyor. Tehdit dili sürekli gelecek zaman kurar; bu metin geçmişte kalmış bir vakayı hatırlatır.\n\n'Bu sure yalnızca tarihsel bir mucize kaydıdır, günümüzle bağı yoktur' okuması ise metnin hitap biçimiyle çelişir. Doğrulanmış editoryal içerikte yer aldığı gibi, cahiliye bir dönem değil bir hâldir — her çağda yeniden ortaya çıkabilen, azgınlığın erdem sayıldığı, güçlünün zayıfı ezdiği bir durum. Metin bu hâle işaret eden bir soruyu açık bırakır.\n\nGeriye kalan yönelim şu alana işaret eder: Sure, büyük bir planın nasıl boşa çıkabileceğini, hem kurucusu hem izleyicisi açısından görünmez kılan bir anlatı sunar. \"Keyd\" — tuzak, kurulmuş düzen — kelimesi, insanın kendi örgüsünün kendi üstüne kapanmasına dair bir yönelimi taşır. Bu yönelim kişiye ya da topluma özel değildir; kurulmuş her plana açık bir sorudur.\n\nBugüne kadar az bakılmış açı şuradadır: Arapça metinde planın boşa çıkarılması \"fi tadlîl\" — şaşırtılma, yolunu yitirme — fiiliyle karşılanır; yok edilme ya da ezilme değil. Bu, fiziksel bir çöküşten önce bir yön kaybını, bir şaşkınlığı tanımlar. Ebrehe'nin ordusuna dair kaynaklar da bu ayrıntıyı destekler: filller önce durdu, sonra geri döndü; yani dağılma savaş alanında değil, hareketsizlikle başladı. \"Tadlîl\" kelimesi, gücün birden çökmesini değil, güvenle ilerlenen bir yolun nasıl aniden belirsizleşebildiğini gösterir. Bu, çok az incelenen bir ayrıntıdır.\n\nSusma: *Bu orduda kimin emriyle, hangi baskıyla, belki de ne kadar gönülsüzlükle yürüdüğü — buradan görünmez.*",
+  "aiCommentary": "Bu dört bölüm yapay zekâ tarafından yazılmıştır. Kullanılan kaynaklar şunlardır: suredeki Arapça metin (özellikle \"keydehüm\", \"tadlîl\", \"tayran ebâbîl\" ve \"asfin me'kûl\" kavramları); doğrulanmış editoryal içerik (Fil Vakası'nın tarihsel bağlamı, Ebrehe'nin San'a kilisesi projesi, \"Âmü'l-fîl\" geleneği); TDV İslâm Ansiklopedisi \"Câhiliye\" maddesinden derlenen dönem zemini; TDV İslâm Ansiklopedisi \"Ebrehe\" ve \"Kureyş\" maddeleri; Diyanet tefsir kaynakları. Tarihsel kesinlik iddiası taşıyan hiçbir ayrıntı, kaynaklarda tartışmalı olarak işaretlenen bilgilerden türetilmemiştir.\n\nApofatik okuma bölümü bilinçli olarak olumsuzlama yöntemiyle kurulmuştur. Bunun nedeni şudur: yaratanın maksadına dair her söz, insanın kendi çerçevesinden yapılmış bir tahmindir. \"Metin şunu söylüyor\" demek bu tahmini gizler; \"bu okuma metnin kendi mantığıyla çelişir\" demek ise tahminin nerede devreye girdiğini görünür kılar. Geriye kalan, daha az iddia taşıyan bir yönelimdir — kesinlik değil.\n\nBu metin tefsir, meal ya da fetva değildir. Amel hükmü çıkarılamaz, hiçbir pratik yükümlülük bu metinden elde edilemez. Kaynaklar hakkında yeni bilgi geldikçe, tarihsel bağlam netleştikçe ya da Arapça metin farklı bir filolojik okumaya konu oldukça bu bölümlerin içeriği değişecektir. Metin, bir tartışmayı kapatmak için değil açık tutmak için yazılmıştır."
 }

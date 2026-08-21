@@ -1,945 +1,970 @@
 {
- "stationNo": 7,
- "surahNo": 81,
- "nuzulOrderOkuyan": 8,
- "name": "Tekvîr",
- "nameArabic": "التكوير",
- "nameMeaning": "Dürmek, sarmak",
- "verseCount": 29,
- "periodDiyanet": "Mekke",
- "periodOkuyan": "Mekke",
- "revelationTiming": "Mekke'nin erken yılları",
- "stationTitle": "Bütün kozmik düzen çözülürken sorulan tek soru: nereye gidiyorsunuz?",
- "introduction": "Tekvîr suresi, adını birinci ayetteki \"küvviret\" fiilinden alır; tekvîr \"dürmek, sarmak\" demektir. Yirmi dokuz ayetlik sure, Mekke'nin erken yıllarında inmiştir.\n\nSurenin yapısı üç bölümlüdür. İlk on üç ayet kozmik çözülmeyi sıralar. Ortadaki bölüm vahyin güvenilirliğini savunur. Kapanış ise insanın özgür seçimini ve bu seçimin sınırını birlikte anar. Dili ritmik, imgesel ve sinematografiktir.",
- "occasionOfRevelation": "Sure, Mekke'nin erken döneminde, ahiret fikrinin en sert direnişle karşılaştığı yıllarda inmiştir. Mekke toplumu ticaretin, kabile gücünün ve kozmik düzenin sarsılmazlığına güveniyordu; sure tam bu güvenceleri hedef alır.\n\nSekizinci ve dokuzuncu ayetler, cahiliye Arap toplumunda görülen kız çocuklarını diri diri toprağa gömme (mev'ûde) uygulamasına atıfta bulunur ve öldürülen çocuğa \"hangi günahtan ötürü öldürüldüğü\" sorulacağını bildirir. Kaynaklar bu uygulamanın yaygınlık derecesi konusunda farklı değerlendirmeler yapar; ancak Kur'an'ın konuyu birkaç yerde gündeme getirmesi, meselenin bilinen bir vaka olduğunu gösterir.\n\nSurenin ikinci yarısında vahyin \"bir cinnet ürünü\" ya da şeytani bir fısıltı olmadığı savunulur (81:22-25). Bu, Mekke ileri gelenlerinin çağrıyı itibarsızlaştırma girişimlerine verilen doğrudan bir cevaptır.",
- "occasionSources": "Diyanet İşleri Başkanlığı Kur'an Yolu Tefsiri, Tekvîr suresi girişi; TDV İslâm Ansiklopedisi, \"Tekvîr Sûresi\" ve \"Mev'ûde\" maddeleri.",
- "contemporaryMeaning": "Bu surenin kalbi yirmi altıncı ayettedir: \"Öyleyse nereye gidiyorsunuz?\" Bütün kozmik yıkım tasviri, aslında bu soruyu sorulabilir kılmak için kurulmuştur. İnsanın üzerine hayat kurduğu bütün sabitler kaldırıldığında geriye ne kalır?\n\nİkinci dikkat çekici nokta şudur: evrenin çözülüşünün tam ortasında, en küçük ve en savunmasız kurbanın davası açılır. Gömülen kız çocuğuna hesap sorulmaz; onun adına hesap sorulur. Metin, kozmik ölçekten en özel mağduriyete inerek adaletin ölçeğini gösterir.\n\nKapanıştaki denge de önemlidir: insan dileyebilir, ama dileme kudretinin kendisi de bir armağandır (81:28-29). Sorumluluk ile tevazu aynı cümlede durur.",
- "keyTerms": [
-  {
-   "term": "küvviret",
-   "arabic": "كُوِّرَتْ",
-   "verseRef": "81:1",
-   "meaning": "Dürüldü, sarıldı, toplandı. Bir sarığın sarılması gibi; güneşin ışığının toplanıp söndürülmesini imler."
-  },
-  {
-   "term": "inkederat",
-   "arabic": "انكَدَرَتْ",
-   "verseRef": "81:2",
-   "meaning": "Sönüp karardı, bulandı. Yıldızların ışığını yitirmesi. Dökülme anlamı İnfitâr 2'de geçer; bu ayette kararma vurgusu vardır."
-  },
-  {
-   "term": "el-mev'ûde",
-   "arabic": "الْمَوْءُودَة",
-   "verseRef": "81:8",
-   "meaning": "Diri diri toprağa gömülen kız çocuğu. Cahiliye dönemi uygulamasına atıf; ayette onun adına hesap sorulur."
-  },
-  {
-   "term": "fe eyne tezhebûn",
-   "arabic": "فَأَيْنَ تَذْهَبُونَ",
-   "verseRef": "81:26",
-   "meaning": "\"Öyleyse nereye gidiyorsunuz?\" Surenin zirve sorusu; yön ve amaç sorgusu."
-  }
- ],
- "themes": [
-  {
-   "label": "Sabit sandığımız her şeyin kırılganlığı",
-   "body": "Güneşin dürülmesinden gebe develerin salıverilmesine uzanan dizi, en büyük kozmik göstergeden en gündelik güvenceye iner. İnsanın medeniyetini üzerine kurduğu çerçevenin geçiciliği anlatılır."
-  },
-  {
-   "label": "En savunmasızın davası",
-   "body": "Evrensel yıkımın ortasında gömülen kız çocuğunun hesabı sorulur. Adalet, büyük olanla değil en küçük mağdurla ölçülür."
-  },
-  {
-   "label": "Geriye kalan: getirdiğin şey",
-   "body": "Sayfalar açıldığında herkes \"önceden hazırlayıp getirdiğini\" bilecektir. Etiketler ve unvanlar değil, üretilmiş eylemler kalır."
-  },
-  {
-   "label": "Nereye gidiyorsunuz?",
-   "body": "Surenin merkezindeki soru, bir bilgi sorusu değil bir yön sorusudur. Koşan ama nereye koştuğunu bilmeyen insana yöneltilir."
-  },
-  {
-   "label": "Seçme özgürlüğü ve sınırı",
-   "body": "Mesaj \"dürüst olmak isteyenler için\" bir öğüttür; hemen ardından dilemenin de bir bağışlanmış kudret olduğu hatırlatılır. Sorumluluk ve tevazu birlikte durur."
-  }
- ],
- "questions": [
-  "Son bir haftada durup \"nereye gidiyorum?\" diye sordum mu? Yoksa yalnızca sıradaki işe mi koştum?",
-  "Hayatımın sabit sandığım hangi dayanağı aslında geçici? Onu kaybetsem ne kalırdı?",
-  "Çevremdeki en savunmasız kişinin — çocuk, yaşlı, işçi, göçmen — hakkını gözetiyor muyum, yoksa görmemeyi mi seçiyorum?"
- ],
- "verses": [
-  {
-   "verseNo": 1,
-   "textArabic": "بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ إِذَا ٱلشَّمْسُ كُوِّرَتْ"
-  },
-  {
-   "verseNo": 2,
-   "textArabic": "وَإِذَا ٱلنُّجُومُ ٱنكَدَرَتْ"
-  },
-  {
-   "verseNo": 3,
-   "textArabic": "وَإِذَا ٱلْجِبَالُ سُيِّرَتْ"
-  },
-  {
-   "verseNo": 4,
-   "textArabic": "وَإِذَا ٱلْعِشَارُ عُطِّلَتْ"
-  },
-  {
-   "verseNo": 5,
-   "textArabic": "وَإِذَا ٱلْوُحُوشُ حُشِرَتْ"
-  },
-  {
-   "verseNo": 6,
-   "textArabic": "وَإِذَا ٱلْبِحَارُ سُجِّرَتْ"
-  },
-  {
-   "verseNo": 7,
-   "textArabic": "وَإِذَا ٱلنُّفُوسُ زُوِّجَتْ"
-  },
-  {
-   "verseNo": 8,
-   "textArabic": "وَإِذَا ٱلْمَوْءُۥدَةُ سُئِلَتْ"
-  },
-  {
-   "verseNo": 9,
-   "textArabic": "بِأَىِّ ذَنۢبٍۢ قُتِلَتْ"
-  },
-  {
-   "verseNo": 10,
-   "textArabic": "وَإِذَا ٱلصُّحُفُ نُشِرَتْ"
-  },
-  {
-   "verseNo": 11,
-   "textArabic": "وَإِذَا ٱلسَّمَآءُ كُشِطَتْ"
-  },
-  {
-   "verseNo": 12,
-   "textArabic": "وَإِذَا ٱلْجَحِيمُ سُعِّرَتْ"
-  },
-  {
-   "verseNo": 13,
-   "textArabic": "وَإِذَا ٱلْجَنَّةُ أُزْلِفَتْ"
-  },
-  {
-   "verseNo": 14,
-   "textArabic": "عَلِمَتْ نَفْسٌۭ مَّآ أَحْضَرَتْ"
-  },
-  {
-   "verseNo": 15,
-   "textArabic": "فَلَآ أُقْسِمُ بِٱلْخُنَّسِ"
-  },
-  {
-   "verseNo": 16,
-   "textArabic": "ٱلْجَوَارِ ٱلْكُنَّسِ"
-  },
-  {
-   "verseNo": 17,
-   "textArabic": "وَٱلَّيْلِ إِذَا عَسْعَسَ"
-  },
-  {
-   "verseNo": 18,
-   "textArabic": "وَٱلصُّبْحِ إِذَا تَنَفَّسَ"
-  },
-  {
-   "verseNo": 19,
-   "textArabic": "إِنَّهُۥ لَقَوْلُ رَسُولٍۢ كَرِيمٍۢ"
-  },
-  {
-   "verseNo": 20,
-   "textArabic": "ذِى قُوَّةٍ عِندَ ذِى ٱلْعَرْشِ مَكِينٍۢ"
-  },
-  {
-   "verseNo": 21,
-   "textArabic": "مُّطَاعٍۢ ثَمَّ أَمِينٍۢ"
-  },
-  {
-   "verseNo": 22,
-   "textArabic": "وَمَا صَاحِبُكُم بِمَجْنُونٍۢ"
-  },
-  {
-   "verseNo": 23,
-   "textArabic": "وَلَقَدْ رَءَاهُ بِٱلْأُفُقِ ٱلْمُبِينِ"
-  },
-  {
-   "verseNo": 24,
-   "textArabic": "وَمَا هُوَ عَلَى ٱلْغَيْبِ بِضَنِينٍۢ"
-  },
-  {
-   "verseNo": 25,
-   "textArabic": "وَمَا هُوَ بِقَوْلِ شَيْطَٰنٍۢ رَّجِيمٍۢ"
-  },
-  {
-   "verseNo": 26,
-   "textArabic": "فَأَيْنَ تَذْهَبُونَ"
-  },
-  {
-   "verseNo": 27,
-   "textArabic": "إِنْ هُوَ إِلَّا ذِكْرٌۭ لِّلْعَٰلَمِينَ"
-  },
-  {
-   "verseNo": 28,
-   "textArabic": "لِمَن شَآءَ مِنكُمْ أَن يَسْتَقِيمَ"
-  },
-  {
-   "verseNo": 29,
-   "textArabic": "وَمَا تَشَآءُونَ إِلَّآ أَن يَشَآءَ ٱللَّهُ رَبُّ ٱلْعَٰلَمِينَ"
-  }
- ],
- "translations": [
-  {
-   "verseNo": 1,
-   "source": "diyanet",
-   "text": "Güneş, dürüldüğü zaman,"
-  },
-  {
-   "verseNo": 1,
-   "source": "islamoglu",
-   "text": "GÜNEŞ(İN defteri) dürüldüğünde,"
-  },
-  {
-   "verseNo": 1,
-   "source": "esed",
-   "text": "Güneş, karanlığa gömüldüğünde"
-  },
-  {
-   "verseNo": 1,
-   "source": "okuyan",
-   "text": "Güneş dürüldüğünde,"
-  },
-  {
-   "verseNo": 2,
-   "source": "diyanet",
-   "text": "Yıldızlar, bulanıp söndüğü zaman,"
-  },
-  {
-   "verseNo": 2,
-   "source": "islamoglu",
-   "text": "yıldızlar sönüp döküldüğünde,"
-  },
-  {
-   "verseNo": 2,
-   "source": "esed",
-   "text": "ve yıldızlar ışıklarını yitirdiğinde"
-  },
-  {
-   "verseNo": 2,
-   "source": "okuyan",
-   "text": "Yıldızlar (sönüp) döküldüğünde,"
-  },
-  {
-   "verseNo": 3,
-   "source": "diyanet",
-   "text": "Dağlar, yürütüldüğü zaman,"
-  },
-  {
-   "verseNo": 3,
-   "source": "islamoglu",
-   "text": "dağlar yürütüldüğünde,"
-  },
-  {
-   "verseNo": 3,
-   "source": "esed",
-   "text": "dağlar kaybolup gittiğinde"
-  },
-  {
-   "verseNo": 3,
-   "source": "okuyan",
-   "text": "Dağlar yürütüldüğünde,"
-  },
-  {
-   "verseNo": 4,
-   "source": "diyanet",
-   "text": "Gebe develer salıverildiği zaman."
-  },
-  {
-   "verseNo": 4,
-   "source": "islamoglu",
-   "text": "doğumu yakın develer terk edildiğinde,"
-  },
-  {
-   "verseNo": 4,
-   "source": "esed",
-   "text": "ve doğurmak üzere olan dişi develer başıboş bırakıldığında"
-  },
-  {
-   "verseNo": 4,
-   "source": "okuyan",
-   "text": "On aylık (değerli) gebe develer bırakıldığında,"
-  },
-  {
-   "verseNo": 5,
-   "source": "diyanet",
-   "text": "Yaban hayatı yaşayan (irili ufaklı) tüm canlılar toplandığı zaman,"
-  },
-  {
-   "verseNo": 5,
-   "source": "islamoglu",
-   "text": "bütün yabanî hayvanlar birbirine sokulduğunda,"
-  },
-  {
-   "verseNo": 5,
-   "source": "esed",
-   "text": "bütün hayvanlar bir araya toplandığında"
-  },
-  {
-   "verseNo": 5,
-   "source": "okuyan",
-   "text": "Yabani hayvanlar bir araya toplandığında,"
-  },
-  {
-   "verseNo": 6,
-   "source": "diyanet",
-   "text": "Denizler kaynatıldığı zaman,"
-  },
-  {
-   "verseNo": 6,
-   "source": "islamoglu",
-   "text": "denizler fokur fokur kaynatıldığında,"
-  },
-  {
-   "verseNo": 6,
-   "source": "esed",
-   "text": "ve denizler kaynadığında"
-  },
-  {
-   "verseNo": 6,
-   "source": "okuyan",
-   "text": "Denizler kaynatıldığında (Son Saat gerçekleşmiş olacaktır)."
-  },
-  {
-   "verseNo": 7,
-   "source": "diyanet",
-   "text": "Ruhlar (bedenlerle) eşleştirildiği zaman."
-  },
-  {
-   "verseNo": 7,
-   "source": "islamoglu",
-   "text": "herkes (iman ve amellerine göre) tasnif edildiğinde,"
-  },
-  {
-   "verseNo": 7,
-   "source": "esed",
-   "text": "bütün insanlar (yaptıklarıyla) eşleştirildiğinde"
-  },
-  {
-   "verseNo": 7,
-   "source": "okuyan",
-   "text": "Ruhlar (bedenlerle) eşleştirildiğinde,"
-  },
-  {
-   "verseNo": 8,
-   "source": "diyanet",
-   "text": "Diri diri gömülen kız çocuğunun, hangi günahtan ötürü öldürüldüğü sorulduğu zaman,"
-  },
-  {
-   "verseNo": 8,
-   "source": "islamoglu",
-   "text": "diri diri gömülen kız çocukları sorduğunda"
-  },
-  {
-   "verseNo": 8,
-   "source": "esed",
-   "text": "ve diri diri gömülen kız çocuklarına sorulduğunda"
-  },
-  {
-   "verseNo": 8,
-   "source": "okuyan",
-   "text": "8,9. Diri diri gömülen kız çocuğuna hangi günah(ı) yüzünden öldürüldüğü sorulduğunda,"
-  },
-  {
-   "verseNo": 9,
-   "source": "diyanet",
-   "text": "Diri diri gömülen kız çocuğunun, hangi günahtan ötürü öldürüldüğü sorulduğu zaman,"
-  },
-  {
-   "verseNo": 9,
-   "source": "islamoglu",
-   "text": "hangi suçtan dolayı öldürüldüklerinin hesabını,"
-  },
-  {
-   "verseNo": 9,
-   "source": "esed",
-   "text": "hangi suçtan dolayı öldürüldükleri"
-  },
-  {
-   "verseNo": 9,
-   "source": "okuyan",
-   "text": "8,9. Diri diri gömülen kız çocuğuna hangi günah(ı) yüzünden öldürüldüğü sorulduğunda,"
-  },
-  {
-   "verseNo": 10,
-   "source": "diyanet",
-   "text": "Amel defterleri açıldığı zaman,"
-  },
-  {
-   "verseNo": 10,
-   "source": "islamoglu",
-   "text": "(insanların) amel defterleri açıldığında,"
-  },
-  {
-   "verseNo": 10,
-   "source": "esed",
-   "text": "(insanların yapıp ettiklerinin) dosyaları açıldığında"
-  },
-  {
-   "verseNo": 10,
-   "source": "okuyan",
-   "text": "(Amel) defterler(i) açıldığında,"
-  },
-  {
-   "verseNo": 11,
-   "source": "diyanet",
-   "text": "Gökyüzü (yerinden) sıyrılıp koparıldığı zaman,"
-  },
-  {
-   "verseNo": 11,
-   "source": "islamoglu",
-   "text": "gök, (bir gövdenin derisi gibi) soyulduğunda,"
-  },
-  {
-   "verseNo": 11,
-   "source": "esed",
-   "text": "ve gökyüzü açılıp ortaya serildiğinde"
-  },
-  {
-   "verseNo": 11,
-   "source": "okuyan",
-   "text": "Gök sıyrıldığında,"
-  },
-  {
-   "verseNo": 12,
-   "source": "diyanet",
-   "text": "Cehennem alevlendirildiği zaman,"
-  },
-  {
-   "verseNo": 12,
-   "source": "islamoglu",
-   "text": "Cehennem kışkırtıldığında,"
-  },
-  {
-   "verseNo": 12,
-   "source": "esed",
-   "text": "(cehennemin) yakıcı ateşi parladığında"
-  },
-  {
-   "verseNo": 12,
-   "source": "okuyan",
-   "text": "Cehennem alevlendirildiğinde,"
-  },
-  {
-   "verseNo": 13,
-   "source": "diyanet",
-   "text": "Cennet yaklaştırıldığı zaman,"
-  },
-  {
-   "verseNo": 13,
-   "source": "islamoglu",
-   "text": "ve Cennet(in görüntüsü) yakın plan sunulduğunda;"
-  },
-  {
-   "verseNo": 13,
-   "source": "esed",
-   "text": "ve cennet gözler önüne getirildiğinde"
-  },
-  {
-   "verseNo": 13,
-   "source": "okuyan",
-   "text": "Cennet yaklaştırıldığında"
-  },
-  {
-   "verseNo": 14,
-   "source": "diyanet",
-   "text": "Herkes önceden hazırlayıp getirdiği şeyleri bilecektir."
-  },
-  {
-   "verseNo": 14,
-   "source": "islamoglu",
-   "text": "(işte o zaman) her can ne hazırladığını (yakînen) bilir."
-  },
-  {
-   "verseNo": 14,
-   "source": "esed",
-   "text": "(o Gün) her insan, (kendisi için) ne hazırlamış olduğunu görecektir"
-  },
-  {
-   "verseNo": 14,
-   "source": "okuyan",
-   "text": "Her can (ahiret için dünyada) neler hazırladığını bilmiş (olacak)tır."
-  },
-  {
-   "verseNo": 15,
-   "source": "diyanet",
-   "text": "Andolsun, bir görünüp bir sinenlere, akıp gidip kaybolanlara,"
-  },
-  {
-   "verseNo": 15,
-   "source": "islamoglu",
-   "text": "BUNDAN ötesi yok! İşte Ben yemin ederim gizlenenlere,"
-  },
-  {
-   "verseNo": 15,
-   "source": "esed",
-   "text": "Hayır! Hayır! Dönüp duran yıldızları tanıklığa çağırırım"
-  },
-  {
-   "verseNo": 15,
-   "source": "okuyan",
-   "text": "Hayır! Yemin ederim: Kaybolan (yıldız)lara,"
-  },
-  {
-   "verseNo": 16,
-   "source": "diyanet",
-   "text": "Andolsun, bir görünüp bir sinenlere, akıp gidip kaybolanlara,"
-  },
-  {
-   "verseNo": 16,
-   "source": "islamoglu",
-   "text": "yuvalarına giren yıldız ve gezegenlere,"
-  },
-  {
-   "verseNo": 16,
-   "source": "esed",
-   "text": "yörüngelerinde akan ve kaybolan gezegenleri"
-  },
-  {
-   "verseNo": 16,
-   "source": "okuyan",
-   "text": "(Yörüngelerinde) akıp gizlenen (gezegen)lere,"
-  },
-  {
-   "verseNo": 17,
-   "source": "diyanet",
-   "text": "Andolsun, yöneldiği zaman geceye,"
-  },
-  {
-   "verseNo": 17,
-   "source": "islamoglu",
-   "text": "ve (yokluğun) zifiri karanlığına (zaman ve mekân) geri döndüğünde;"
-  },
-  {
-   "verseNo": 17,
-   "source": "esed",
-   "text": "ve kararan geceyi"
-  },
-  {
-   "verseNo": 17,
-   "source": "okuyan",
-   "text": "Kararmaya başlayan geceye,"
-  },
-  {
-   "verseNo": 18,
-   "source": "diyanet",
-   "text": "Andolsun, aydınlandığı zaman sabaha ki,"
-  },
-  {
-   "verseNo": 18,
-   "source": "islamoglu",
-   "text": "ve henüz soluk almaya başlayan sabaha (yemin ederim)!"
-  },
-  {
-   "verseNo": 18,
-   "source": "esed",
-   "text": "ve soluk almaya başlayan sabahı"
-  },
-  {
-   "verseNo": 18,
-   "source": "okuyan",
-   "text": "Nefes almaya (aydınlanmaya) başlayan sabaha ki"
-  },
-  {
-   "verseNo": 19,
-   "source": "diyanet",
-   "text": "O (Kur'an), şüphesiz değerli, güçlü ve arşın sahibi katında itibarlı, orada (meleklerce) itaat edilen, güvenilir bir elçinin (Cebrail'in) getirdiği sözdür."
-  },
-  {
-   "verseNo": 19,
-   "source": "islamoglu",
-   "text": "Ki elbet bu (Kur’an), türünün en seçkini olan bir elçi (meleğin) ilettiği sözdür;"
-  },
-  {
-   "verseNo": 19,
-   "source": "esed",
-   "text": "bakın, bu (ilahi kelam), gerçekten soylu bir elçinin (vahyedilmiş) sözüdür"
-  },
-  {
-   "verseNo": 19,
-   "source": "okuyan",
-   "text": "Şüphesiz o (Kur’an), değerli bir elçinin (Cebrail’in ulaştırdığı) sözüdür."
-  },
-  {
-   "verseNo": 20,
-   "source": "diyanet",
-   "text": "O (Kur'an), şüphesiz değerli, güçlü ve arşın sahibi katında itibarlı, orada (meleklerce) itaat edilen, güvenilir bir elçinin (Cebrail'in) getirdiği sözdür."
-  },
-  {
-   "verseNo": 20,
-   "source": "islamoglu",
-   "text": "Arş’ın sahibi katından ona hem güç hem de makam bahşedilmiştir;"
-  },
-  {
-   "verseNo": 20,
-   "source": "esed",
-   "text": "güç bahşedilmiş, kudret ve egemenlik tahtının Sahibi nezdinde emin kılınmış"
-  },
-  {
-   "verseNo": 20,
-   "source": "okuyan",
-   "text": "(O elçi), [arş]ın sahibi (olan Allah) katında çok itibarlıdır."
-  },
-  {
-   "verseNo": 21,
-   "source": "diyanet",
-   "text": "O (Kur'an), şüphesiz değerli, güçlü ve arşın sahibi katında itibarlı, orada (meleklerce) itaat edilen, güvenilir bir elçinin (Cebrail'in) getirdiği sözdür."
-  },
-  {
-   "verseNo": 21,
-   "source": "islamoglu",
-   "text": "orada kendisine itaat edilir; üstelik kendisine güven duyulur."
-  },
-  {
-   "verseNo": 21,
-   "source": "esed",
-   "text": "itaat edilen ve güvene layık birinin (sözü)"
-  },
-  {
-   "verseNo": 21,
-   "source": "okuyan",
-   "text": "Orada (kendisine) itaat edilen, güvenilendir."
-  },
-  {
-   "verseNo": 22,
-   "source": "diyanet",
-   "text": "(Ey Kureyşliler!) Sizin arkadaşınız (Muhammed) bir deli değildir."
-  },
-  {
-   "verseNo": 22,
-   "source": "islamoglu",
-   "text": "Arkadaşınız da cin musallat olmuş biri değildir."
-  },
-  {
-   "verseNo": 22,
-   "source": "esed",
-   "text": "Çünkü, bu arkadaşınız bir deli değil"
-  },
-  {
-   "verseNo": 22,
-   "source": "okuyan",
-   "text": "Arkadaşınız asla cinlenmiş değildir."
-  },
-  {
-   "verseNo": 23,
-   "source": "diyanet",
-   "text": "Andolsun o, Cebrâil'i apaçık ufukta gördü."
-  },
-  {
-   "verseNo": 23,
-   "source": "islamoglu",
-   "text": "Doğrusu o, meleği berrak bir ufukta görmüştür;"
-  },
-  {
-   "verseNo": 23,
-   "source": "esed",
-   "text": "o gerçekten (meleği) gördü, berrak bir ufukta (gördü) onu"
-  },
-  {
-   "verseNo": 23,
-   "source": "okuyan",
-   "text": "Yemin olsun ki onu (Cebrail’i) apaçık ufukta görmüştü."
-  },
-  {
-   "verseNo": 24,
-   "source": "diyanet",
-   "text": "O, gayb hakkında cimri değildir."
-  },
-  {
-   "verseNo": 24,
-   "source": "islamoglu",
-   "text": "kaldı ki o, görünmeyenin bilgisi üzerinde tekel kurup (onu saklayan) biri de değildir;"
-  },
-  {
-   "verseNo": 24,
-   "source": "esed",
-   "text": "o, (başka birine vahyedilmiş olan) insan kavrayışının ötesindeki şeylerin bilgisinden dolayı onları kıskanan biri değildir"
-  },
-  {
-   "verseNo": 24,
-   "source": "okuyan",
-   "text": "O, [gayb] (bilinemeyenler) hakkında cimri değildir."
-  },
-  {
-   "verseNo": 25,
-   "source": "diyanet",
-   "text": "Kur'an, kovulmuş şeytanın sözü değildir."
-  },
-  {
-   "verseNo": 25,
-   "source": "islamoglu",
-   "text": "dahası bu kelâm, Allah’ın kendisine sığınanları şerrinden emin kıldığı şeytanın sözü de değildir."
-  },
-  {
-   "verseNo": 25,
-   "source": "esed",
-   "text": "Bu (mesaj), lanetlenmiş bir şeytani gücün sözü de değildir"
-  },
-  {
-   "verseNo": 25,
-   "source": "okuyan",
-   "text": "O (Kur’an), asla kovulmuş şeytanın sözü değildir."
-  },
-  {
-   "verseNo": 26,
-   "source": "diyanet",
-   "text": "(Hal böyle iken) nereye gidiyorsunuz?"
-  },
-  {
-   "verseNo": 26,
-   "source": "islamoglu",
-   "text": "Hakikat buyken (ey insanlar), nereye gidiyorsunuz!"
-  },
-  {
-   "verseNo": 26,
-   "source": "esed",
-   "text": "Öyleyse nereye gidiyorsunuz"
-  },
-  {
-   "verseNo": 26,
-   "source": "okuyan",
-   "text": "Gidişiniz nereye!"
-  },
-  {
-   "verseNo": 27,
-   "source": "diyanet",
-   "text": "O, âlemler için, içinizden dürüst olmak isteyenler için, ancak bir öğüttür."
-  },
-  {
-   "verseNo": 27,
-   "source": "islamoglu",
-   "text": "Bu vahiy, tüm insanlık için bir uyarı ve öğütten ibarettir;"
-  },
-  {
-   "verseNo": 27,
-   "source": "esed",
-   "text": "Bu (mesaj), bütün insanlık için bir öğüt ve hatırlatmadan başka bir şey değildir"
-  },
-  {
-   "verseNo": 27,
-   "source": "okuyan",
-   "text": "27,28. O (Kur’an) âlemler için, yani içinizden doğru yolda gitmek isteyenler için ancak bir hatırla(t)madır."
-  },
-  {
-   "verseNo": 28,
-   "source": "diyanet",
-   "text": "O, âlemler için, içinizden dürüst olmak isteyenler için, ancak bir öğüttür."
-  },
-  {
-   "verseNo": 28,
-   "source": "islamoglu",
-   "text": "sonuçta içinizden doğru yolda yürümeyi tercih edenler (öğüt alır)."
-  },
-  {
-   "verseNo": 28,
-   "source": "esed",
-   "text": "doğru yolda yürümek isteyen her biriniz için"
-  },
-  {
-   "verseNo": 28,
-   "source": "okuyan",
-   "text": "27,28. O (Kur’an) âlemler için, yani içinizden doğru yolda gitmek isteyenler için ancak bir hatırla(t)madır."
-  },
-  {
-   "verseNo": 29,
-   "source": "diyanet",
-   "text": "Âlemlerin Rabbi olan Allah dilemedikçe siz dileyemezsiniz."
-  },
-  {
-   "verseNo": 29,
-   "source": "islamoglu",
-   "text": "Zaten âlemlerin Rabbi Allah (size irade vermeyi) tercih etmese, siz hiçbir şey tercih edemezdiniz."
-  },
-  {
-   "verseNo": 29,
-   "source": "esed",
-   "text": "Ama Allah, bütün alemlerin Rabbi, (o yolu size göstermeyi) istemedikçe siz onu isteyemezsiniz"
-  },
-  {
-   "verseNo": 29,
-   "source": "okuyan",
-   "text": "(Böylece), âlemlerin Rabbi olan Allah’ın dilediğinden başkasını dilememiş olursunuz."
-  },
-  {
-   "verseNo": 1,
-   "verseNoEnd": null,
-   "source": "ai",
-   "text": "Güneş dürüldüğü zaman"
-  },
-  {
-   "verseNo": 2,
-   "verseNoEnd": null,
-   "source": "ai",
-   "text": "Yıldızlar söndüğü zaman"
-  },
-  {
-   "verseNo": 3,
-   "verseNoEnd": null,
-   "source": "ai",
-   "text": "Dağlar yerlerinden oynatıldığı zaman"
-  },
-  {
-   "verseNo": 4,
-   "verseNoEnd": null,
-   "source": "ai",
-   "text": "Hamile develer ihmal edildiği zaman"
-  },
-  {
-   "verseNo": 5,
-   "verseNoEnd": null,
-   "source": "ai",
-   "text": "Vahşi hayvanlar toplanıp getirildiği zaman"
-  },
-  {
-   "verseNo": 6,
-   "verseNoEnd": null,
-   "source": "ai",
-   "text": "Denizler alevlendiği zaman"
-  },
-  {
-   "verseNo": 7,
-   "verseNoEnd": null,
-   "source": "ai",
-   "text": "Ruhlar eşleştirildiği zaman"
-  },
-  {
-   "verseNo": 8,
-   "verseNoEnd": null,
-   "source": "ai",
-   "text": "Toprağa gömülen kız çocuğu sorulduğu zaman"
-  },
-  {
-   "verseNo": 9,
-   "verseNoEnd": null,
-   "source": "ai",
-   "text": "Hangi suçla öldürüldü?"
-  },
-  {
-   "verseNo": 10,
-   "verseNoEnd": null,
-   "source": "ai",
-   "text": "Sayfalar açıldığı zaman"
-  },
-  {
-   "verseNo": 11,
-   "verseNoEnd": null,
-   "source": "ai",
-   "text": "Ve gökyüzü soyulduğunda."
-  },
-  {
-   "verseNo": 12,
-   "verseNoEnd": null,
-   "source": "ai",
-   "text": "Ve cehennem kızıştırıldığında."
-  },
-  {
-   "verseNo": 13,
-   "verseNoEnd": null,
-   "source": "ai",
-   "text": "Ve cennet yaklaştırıldığında."
-  },
-  {
-   "verseNo": 14,
-   "verseNoEnd": null,
-   "source": "ai",
-   "text": "Her nefis ne getirdiğini bilecektir."
-  },
-  {
-   "verseNo": 15,
-   "verseNoEnd": null,
-   "source": "ai",
-   "text": "Ben gerileyenlere yemin ederim."
-  },
-  {
-   "verseNo": 16,
-   "verseNoEnd": null,
-   "source": "ai",
-   "text": "Gezen, saklananlar."
-  },
-  {
-   "verseNo": 17,
-   "verseNoEnd": null,
-   "source": "ai",
-   "text": "Ve gece koyulaşınca."
-  },
-  {
-   "verseNo": 18,
-   "verseNoEnd": null,
-   "source": "ai",
-   "text": "Ve sabah nefeslenince."
-  },
-  {
-   "verseNo": 19,
-   "verseNoEnd": null,
-   "source": "ai",
-   "text": "Gerçekten o, şerefli bir elçinin sözüdür."
-  },
-  {
-   "verseNo": 20,
-   "verseNoEnd": null,
-   "source": "ai",
-   "text": "Güç sahibi, Arş sahibi yanında makamı sağlam olandır."
-  },
-  {
-   "verseNo": 21,
-   "verseNoEnd": null,
-   "source": "ai",
-   "text": "İtaat edilen, sonra güvenilirdir."
-  },
-  {
-   "verseNo": 22,
-   "verseNoEnd": null,
-   "source": "ai",
-   "text": "Sizin arkadaşınız deli değildir."
-  },
-  {
-   "verseNo": 23,
-   "verseNoEnd": null,
-   "source": "ai",
-   "text": "Kesinlikle onu açık ufukta gördü."
-  },
-  {
-   "verseNo": 24,
-   "verseNoEnd": null,
-   "source": "ai",
-   "text": "Ve o, bilinmeyen konusunda cimri değildir."
-  },
-  {
-   "verseNo": 25,
-   "verseNoEnd": null,
-   "source": "ai",
-   "text": "O, kovulmuş bir şeytanın sözü değildir."
-  },
-  {
-   "verseNo": 26,
-   "verseNoEnd": null,
-   "source": "ai",
-   "text": "Peki nereye gidiyorsunuz?"
-  },
-  {
-   "verseNo": 27,
-   "verseNoEnd": null,
-   "source": "ai",
-   "text": "O, sadece âlemler için bir hatırlatmadır."
-  },
-  {
-   "verseNo": 28,
-   "verseNoEnd": null,
-   "source": "ai",
-   "text": "İçinizden kim doğru yola gelmek isterse."
-  },
-  {
-   "verseNo": 29,
-   "verseNoEnd": null,
-   "source": "ai",
-   "text": "Siz istemezsiniz; ancak Allah diler. O, âlemlerin Rabbidir."
-  }
- ],
- "aiParagraph": "Güneşin ışığını yitirip büküldüğü, yıldızların söndüğü, dağların yerinden koptuğu o anı hayal edin — bu sure, önce sizi tam da oraya, her şeyin çözüldüğü o eşiğe götürür; çünkü ancak o noktada insan neye tutunduğunu gerçekten görür. Sıradan bir günde görmezden gelinen şeyler vardır: diri diri toprağa gömülen kız çocuğu hangi suçla öldürüldü diye sorulacaktır — bu soru, tarihin herhangi bir köşesinde sessizce bastırılan her hayatı kapsar, adı konulmamış her şiddeti. Sonra sure döner, gecenin karardığı ve sabahın ilk nefesini verdiği o kırılgan ana yemin eder; sanki \"gören gözün tam da bu eşikte açıldığını\" söyler. Getirilen sözün ne bir cinnet ne de bir vesvese olduğunu, tam tersine güvenilir bir kaynaktan geldiğini ısrarla vurgular — çünkü insanın ilk içgüdüsü, kendisini rahatsız eden bir sesi delirtilmiş ya da yanıltılmış biri olarak etiketlemektir. En sonunda ise sur bir soru bırakır ortaya: \"Nereye gidiyorsunuz?\" Cevap istemez bu soru; aynada görmek istemediğimiz yönü gösterir."
+  "stationNo": 7,
+  "surahNo": 81,
+  "nuzulOrderOkuyan": 8,
+  "name": "Tekvîr",
+  "nameArabic": "التكوير",
+  "nameMeaning": "Dürmek, sarmak",
+  "verseCount": 29,
+  "periodDiyanet": "Mekke",
+  "periodOkuyan": "Mekke",
+  "revelationTiming": "Mekke'nin erken yılları",
+  "stationTitle": "Bütün kozmik düzen çözülürken sorulan tek soru: nereye gidiyorsunuz?",
+  "introduction": "Tekvîr suresi, adını birinci ayetteki \"küvviret\" fiilinden alır; tekvîr \"dürmek, sarmak\" demektir. Yirmi dokuz ayetlik sure, Mekke'nin erken yıllarında inmiştir.\n\nSurenin yapısı üç bölümlüdür. İlk on üç ayet kozmik çözülmeyi sıralar. Ortadaki bölüm vahyin güvenilirliğini savunur. Kapanış ise insanın özgür seçimini ve bu seçimin sınırını birlikte anar. Dili ritmik, imgesel ve sinematografiktir.",
+  "occasionOfRevelation": "Sure, Mekke'nin erken döneminde, ahiret fikrinin en sert direnişle karşılaştığı yıllarda inmiştir. Mekke toplumu ticaretin, kabile gücünün ve kozmik düzenin sarsılmazlığına güveniyordu; sure tam bu güvenceleri hedef alır.\n\nSekizinci ve dokuzuncu ayetler, cahiliye Arap toplumunda görülen kız çocuklarını diri diri toprağa gömme (mev'ûde) uygulamasına atıfta bulunur ve öldürülen çocuğa \"hangi günahtan ötürü öldürüldüğü\" sorulacağını bildirir. Kaynaklar bu uygulamanın yaygınlık derecesi konusunda farklı değerlendirmeler yapar; ancak Kur'an'ın konuyu birkaç yerde gündeme getirmesi, meselenin bilinen bir vaka olduğunu gösterir.\n\nSurenin ikinci yarısında vahyin \"bir cinnet ürünü\" ya da şeytani bir fısıltı olmadığı savunulur (81:22-25). Bu, Mekke ileri gelenlerinin çağrıyı itibarsızlaştırma girişimlerine verilen doğrudan bir cevaptır.",
+  "occasionSources": "Diyanet İşleri Başkanlığı Kur'an Yolu Tefsiri, Tekvîr suresi girişi; TDV İslâm Ansiklopedisi, \"Tekvîr Sûresi\" ve \"Mev'ûde\" maddeleri.",
+  "contemporaryMeaning": "Bu surenin kalbi yirmi altıncı ayettedir: \"Öyleyse nereye gidiyorsunuz?\" Bütün kozmik yıkım tasviri, aslında bu soruyu sorulabilir kılmak için kurulmuştur. İnsanın üzerine hayat kurduğu bütün sabitler kaldırıldığında geriye ne kalır?\n\nİkinci dikkat çekici nokta şudur: evrenin çözülüşünün tam ortasında, en küçük ve en savunmasız kurbanın davası açılır. Gömülen kız çocuğuna hesap sorulmaz; onun adına hesap sorulur. Metin, kozmik ölçekten en özel mağduriyete inerek adaletin ölçeğini gösterir.\n\nKapanıştaki denge de önemlidir: insan dileyebilir, ama dileme kudretinin kendisi de bir armağandır (81:28-29). Sorumluluk ile tevazu aynı cümlede durur.",
+  "keyTerms": [
+    {
+      "term": "küvviret",
+      "arabic": "كُوِّرَتْ",
+      "verseRef": "81:1",
+      "meaning": "Dürüldü, sarıldı, toplandı. Bir sarığın sarılması gibi; güneşin ışığının toplanıp söndürülmesini imler."
+    },
+    {
+      "term": "inkederat",
+      "arabic": "انكَدَرَتْ",
+      "verseRef": "81:2",
+      "meaning": "Sönüp karardı, bulandı. Yıldızların ışığını yitirmesi. Dökülme anlamı İnfitâr 2'de geçer; bu ayette kararma vurgusu vardır."
+    },
+    {
+      "term": "el-mev'ûde",
+      "arabic": "الْمَوْءُودَة",
+      "verseRef": "81:8",
+      "meaning": "Diri diri toprağa gömülen kız çocuğu. Cahiliye dönemi uygulamasına atıf; ayette onun adına hesap sorulur."
+    },
+    {
+      "term": "fe eyne tezhebûn",
+      "arabic": "فَأَيْنَ تَذْهَبُونَ",
+      "verseRef": "81:26",
+      "meaning": "\"Öyleyse nereye gidiyorsunuz?\" Surenin zirve sorusu; yön ve amaç sorgusu."
+    }
+  ],
+  "themes": [
+    {
+      "label": "Sabit sandığımız her şeyin kırılganlığı",
+      "body": "Güneşin dürülmesinden gebe develerin salıverilmesine uzanan dizi, en büyük kozmik göstergeden en gündelik güvenceye iner. İnsanın medeniyetini üzerine kurduğu çerçevenin geçiciliği anlatılır."
+    },
+    {
+      "label": "En savunmasızın davası",
+      "body": "Evrensel yıkımın ortasında gömülen kız çocuğunun hesabı sorulur. Adalet, büyük olanla değil en küçük mağdurla ölçülür."
+    },
+    {
+      "label": "Geriye kalan: getirdiğin şey",
+      "body": "Sayfalar açıldığında herkes \"önceden hazırlayıp getirdiğini\" bilecektir. Etiketler ve unvanlar değil, üretilmiş eylemler kalır."
+    },
+    {
+      "label": "Nereye gidiyorsunuz?",
+      "body": "Surenin merkezindeki soru, bir bilgi sorusu değil bir yön sorusudur. Koşan ama nereye koştuğunu bilmeyen insana yöneltilir."
+    },
+    {
+      "label": "Seçme özgürlüğü ve sınırı",
+      "body": "Mesaj \"dürüst olmak isteyenler için\" bir öğüttür; hemen ardından dilemenin de bir bağışlanmış kudret olduğu hatırlatılır. Sorumluluk ve tevazu birlikte durur."
+    }
+  ],
+  "questions": [
+    "Son bir haftada durup \"nereye gidiyorum?\" diye sordum mu? Yoksa yalnızca sıradaki işe mi koştum?",
+    "Hayatımın sabit sandığım hangi dayanağı aslında geçici? Onu kaybetsem ne kalırdı?",
+    "Çevremdeki en savunmasız kişinin — çocuk, yaşlı, işçi, göçmen — hakkını gözetiyor muyum, yoksa görmemeyi mi seçiyorum?"
+  ],
+  "verses": [
+    {
+      "verseNo": 1,
+      "textArabic": "بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ إِذَا ٱلشَّمْسُ كُوِّرَتْ"
+    },
+    {
+      "verseNo": 2,
+      "textArabic": "وَإِذَا ٱلنُّجُومُ ٱنكَدَرَتْ"
+    },
+    {
+      "verseNo": 3,
+      "textArabic": "وَإِذَا ٱلْجِبَالُ سُيِّرَتْ"
+    },
+    {
+      "verseNo": 4,
+      "textArabic": "وَإِذَا ٱلْعِشَارُ عُطِّلَتْ"
+    },
+    {
+      "verseNo": 5,
+      "textArabic": "وَإِذَا ٱلْوُحُوشُ حُشِرَتْ"
+    },
+    {
+      "verseNo": 6,
+      "textArabic": "وَإِذَا ٱلْبِحَارُ سُجِّرَتْ"
+    },
+    {
+      "verseNo": 7,
+      "textArabic": "وَإِذَا ٱلنُّفُوسُ زُوِّجَتْ"
+    },
+    {
+      "verseNo": 8,
+      "textArabic": "وَإِذَا ٱلْمَوْءُۥدَةُ سُئِلَتْ"
+    },
+    {
+      "verseNo": 9,
+      "textArabic": "بِأَىِّ ذَنۢبٍۢ قُتِلَتْ"
+    },
+    {
+      "verseNo": 10,
+      "textArabic": "وَإِذَا ٱلصُّحُفُ نُشِرَتْ"
+    },
+    {
+      "verseNo": 11,
+      "textArabic": "وَإِذَا ٱلسَّمَآءُ كُشِطَتْ"
+    },
+    {
+      "verseNo": 12,
+      "textArabic": "وَإِذَا ٱلْجَحِيمُ سُعِّرَتْ"
+    },
+    {
+      "verseNo": 13,
+      "textArabic": "وَإِذَا ٱلْجَنَّةُ أُزْلِفَتْ"
+    },
+    {
+      "verseNo": 14,
+      "textArabic": "عَلِمَتْ نَفْسٌۭ مَّآ أَحْضَرَتْ"
+    },
+    {
+      "verseNo": 15,
+      "textArabic": "فَلَآ أُقْسِمُ بِٱلْخُنَّسِ"
+    },
+    {
+      "verseNo": 16,
+      "textArabic": "ٱلْجَوَارِ ٱلْكُنَّسِ"
+    },
+    {
+      "verseNo": 17,
+      "textArabic": "وَٱلَّيْلِ إِذَا عَسْعَسَ"
+    },
+    {
+      "verseNo": 18,
+      "textArabic": "وَٱلصُّبْحِ إِذَا تَنَفَّسَ"
+    },
+    {
+      "verseNo": 19,
+      "textArabic": "إِنَّهُۥ لَقَوْلُ رَسُولٍۢ كَرِيمٍۢ"
+    },
+    {
+      "verseNo": 20,
+      "textArabic": "ذِى قُوَّةٍ عِندَ ذِى ٱلْعَرْشِ مَكِينٍۢ"
+    },
+    {
+      "verseNo": 21,
+      "textArabic": "مُّطَاعٍۢ ثَمَّ أَمِينٍۢ"
+    },
+    {
+      "verseNo": 22,
+      "textArabic": "وَمَا صَاحِبُكُم بِمَجْنُونٍۢ"
+    },
+    {
+      "verseNo": 23,
+      "textArabic": "وَلَقَدْ رَءَاهُ بِٱلْأُفُقِ ٱلْمُبِينِ"
+    },
+    {
+      "verseNo": 24,
+      "textArabic": "وَمَا هُوَ عَلَى ٱلْغَيْبِ بِضَنِينٍۢ"
+    },
+    {
+      "verseNo": 25,
+      "textArabic": "وَمَا هُوَ بِقَوْلِ شَيْطَٰنٍۢ رَّجِيمٍۢ"
+    },
+    {
+      "verseNo": 26,
+      "textArabic": "فَأَيْنَ تَذْهَبُونَ"
+    },
+    {
+      "verseNo": 27,
+      "textArabic": "إِنْ هُوَ إِلَّا ذِكْرٌۭ لِّلْعَٰلَمِينَ"
+    },
+    {
+      "verseNo": 28,
+      "textArabic": "لِمَن شَآءَ مِنكُمْ أَن يَسْتَقِيمَ"
+    },
+    {
+      "verseNo": 29,
+      "textArabic": "وَمَا تَشَآءُونَ إِلَّآ أَن يَشَآءَ ٱللَّهُ رَبُّ ٱلْعَٰلَمِينَ"
+    }
+  ],
+  "translations": [
+    {
+      "verseNo": 1,
+      "source": "diyanet",
+      "text": "Güneş, dürüldüğü zaman,"
+    },
+    {
+      "verseNo": 1,
+      "source": "islamoglu",
+      "text": "GÜNEŞ(İN defteri) dürüldüğünde,"
+    },
+    {
+      "verseNo": 1,
+      "source": "esed",
+      "text": "Güneş, karanlığa gömüldüğünde"
+    },
+    {
+      "verseNo": 1,
+      "source": "okuyan",
+      "text": "Güneş dürüldüğünde,"
+    },
+    {
+      "verseNo": 2,
+      "source": "diyanet",
+      "text": "Yıldızlar, bulanıp söndüğü zaman,"
+    },
+    {
+      "verseNo": 2,
+      "source": "islamoglu",
+      "text": "yıldızlar sönüp döküldüğünde,"
+    },
+    {
+      "verseNo": 2,
+      "source": "esed",
+      "text": "ve yıldızlar ışıklarını yitirdiğinde"
+    },
+    {
+      "verseNo": 2,
+      "source": "okuyan",
+      "text": "Yıldızlar (sönüp) döküldüğünde,"
+    },
+    {
+      "verseNo": 3,
+      "source": "diyanet",
+      "text": "Dağlar, yürütüldüğü zaman,"
+    },
+    {
+      "verseNo": 3,
+      "source": "islamoglu",
+      "text": "dağlar yürütüldüğünde,"
+    },
+    {
+      "verseNo": 3,
+      "source": "esed",
+      "text": "dağlar kaybolup gittiğinde"
+    },
+    {
+      "verseNo": 3,
+      "source": "okuyan",
+      "text": "Dağlar yürütüldüğünde,"
+    },
+    {
+      "verseNo": 4,
+      "source": "diyanet",
+      "text": "Gebe develer salıverildiği zaman."
+    },
+    {
+      "verseNo": 4,
+      "source": "islamoglu",
+      "text": "doğumu yakın develer terk edildiğinde,"
+    },
+    {
+      "verseNo": 4,
+      "source": "esed",
+      "text": "ve doğurmak üzere olan dişi develer başıboş bırakıldığında"
+    },
+    {
+      "verseNo": 4,
+      "source": "okuyan",
+      "text": "On aylık (değerli) gebe develer bırakıldığında,"
+    },
+    {
+      "verseNo": 5,
+      "source": "diyanet",
+      "text": "Yaban hayatı yaşayan (irili ufaklı) tüm canlılar toplandığı zaman,"
+    },
+    {
+      "verseNo": 5,
+      "source": "islamoglu",
+      "text": "bütün yabanî hayvanlar birbirine sokulduğunda,"
+    },
+    {
+      "verseNo": 5,
+      "source": "esed",
+      "text": "bütün hayvanlar bir araya toplandığında"
+    },
+    {
+      "verseNo": 5,
+      "source": "okuyan",
+      "text": "Yabani hayvanlar bir araya toplandığında,"
+    },
+    {
+      "verseNo": 6,
+      "source": "diyanet",
+      "text": "Denizler kaynatıldığı zaman,"
+    },
+    {
+      "verseNo": 6,
+      "source": "islamoglu",
+      "text": "denizler fokur fokur kaynatıldığında,"
+    },
+    {
+      "verseNo": 6,
+      "source": "esed",
+      "text": "ve denizler kaynadığında"
+    },
+    {
+      "verseNo": 6,
+      "source": "okuyan",
+      "text": "Denizler kaynatıldığında (Son Saat gerçekleşmiş olacaktır)."
+    },
+    {
+      "verseNo": 7,
+      "source": "diyanet",
+      "text": "Ruhlar (bedenlerle) eşleştirildiği zaman."
+    },
+    {
+      "verseNo": 7,
+      "source": "islamoglu",
+      "text": "herkes (iman ve amellerine göre) tasnif edildiğinde,"
+    },
+    {
+      "verseNo": 7,
+      "source": "esed",
+      "text": "bütün insanlar (yaptıklarıyla) eşleştirildiğinde"
+    },
+    {
+      "verseNo": 7,
+      "source": "okuyan",
+      "text": "Ruhlar (bedenlerle) eşleştirildiğinde,"
+    },
+    {
+      "verseNo": 8,
+      "source": "diyanet",
+      "text": "Diri diri gömülen kız çocuğunun, hangi günahtan ötürü öldürüldüğü sorulduğu zaman,"
+    },
+    {
+      "verseNo": 8,
+      "source": "islamoglu",
+      "text": "diri diri gömülen kız çocukları sorduğunda"
+    },
+    {
+      "verseNo": 8,
+      "source": "esed",
+      "text": "ve diri diri gömülen kız çocuklarına sorulduğunda"
+    },
+    {
+      "verseNo": 8,
+      "source": "okuyan",
+      "text": "8,9. Diri diri gömülen kız çocuğuna hangi günah(ı) yüzünden öldürüldüğü sorulduğunda,"
+    },
+    {
+      "verseNo": 9,
+      "source": "diyanet",
+      "text": "Diri diri gömülen kız çocuğunun, hangi günahtan ötürü öldürüldüğü sorulduğu zaman,"
+    },
+    {
+      "verseNo": 9,
+      "source": "islamoglu",
+      "text": "hangi suçtan dolayı öldürüldüklerinin hesabını,"
+    },
+    {
+      "verseNo": 9,
+      "source": "esed",
+      "text": "hangi suçtan dolayı öldürüldükleri"
+    },
+    {
+      "verseNo": 9,
+      "source": "okuyan",
+      "text": "8,9. Diri diri gömülen kız çocuğuna hangi günah(ı) yüzünden öldürüldüğü sorulduğunda,"
+    },
+    {
+      "verseNo": 10,
+      "source": "diyanet",
+      "text": "Amel defterleri açıldığı zaman,"
+    },
+    {
+      "verseNo": 10,
+      "source": "islamoglu",
+      "text": "(insanların) amel defterleri açıldığında,"
+    },
+    {
+      "verseNo": 10,
+      "source": "esed",
+      "text": "(insanların yapıp ettiklerinin) dosyaları açıldığında"
+    },
+    {
+      "verseNo": 10,
+      "source": "okuyan",
+      "text": "(Amel) defterler(i) açıldığında,"
+    },
+    {
+      "verseNo": 11,
+      "source": "diyanet",
+      "text": "Gökyüzü (yerinden) sıyrılıp koparıldığı zaman,"
+    },
+    {
+      "verseNo": 11,
+      "source": "islamoglu",
+      "text": "gök, (bir gövdenin derisi gibi) soyulduğunda,"
+    },
+    {
+      "verseNo": 11,
+      "source": "esed",
+      "text": "ve gökyüzü açılıp ortaya serildiğinde"
+    },
+    {
+      "verseNo": 11,
+      "source": "okuyan",
+      "text": "Gök sıyrıldığında,"
+    },
+    {
+      "verseNo": 12,
+      "source": "diyanet",
+      "text": "Cehennem alevlendirildiği zaman,"
+    },
+    {
+      "verseNo": 12,
+      "source": "islamoglu",
+      "text": "Cehennem kışkırtıldığında,"
+    },
+    {
+      "verseNo": 12,
+      "source": "esed",
+      "text": "(cehennemin) yakıcı ateşi parladığında"
+    },
+    {
+      "verseNo": 12,
+      "source": "okuyan",
+      "text": "Cehennem alevlendirildiğinde,"
+    },
+    {
+      "verseNo": 13,
+      "source": "diyanet",
+      "text": "Cennet yaklaştırıldığı zaman,"
+    },
+    {
+      "verseNo": 13,
+      "source": "islamoglu",
+      "text": "ve Cennet(in görüntüsü) yakın plan sunulduğunda;"
+    },
+    {
+      "verseNo": 13,
+      "source": "esed",
+      "text": "ve cennet gözler önüne getirildiğinde"
+    },
+    {
+      "verseNo": 13,
+      "source": "okuyan",
+      "text": "Cennet yaklaştırıldığında"
+    },
+    {
+      "verseNo": 14,
+      "source": "diyanet",
+      "text": "Herkes önceden hazırlayıp getirdiği şeyleri bilecektir."
+    },
+    {
+      "verseNo": 14,
+      "source": "islamoglu",
+      "text": "(işte o zaman) her can ne hazırladığını (yakînen) bilir."
+    },
+    {
+      "verseNo": 14,
+      "source": "esed",
+      "text": "(o Gün) her insan, (kendisi için) ne hazırlamış olduğunu görecektir"
+    },
+    {
+      "verseNo": 14,
+      "source": "okuyan",
+      "text": "Her can (ahiret için dünyada) neler hazırladığını bilmiş (olacak)tır."
+    },
+    {
+      "verseNo": 15,
+      "source": "diyanet",
+      "text": "Andolsun, bir görünüp bir sinenlere, akıp gidip kaybolanlara,"
+    },
+    {
+      "verseNo": 15,
+      "source": "islamoglu",
+      "text": "BUNDAN ötesi yok! İşte Ben yemin ederim gizlenenlere,"
+    },
+    {
+      "verseNo": 15,
+      "source": "esed",
+      "text": "Hayır! Hayır! Dönüp duran yıldızları tanıklığa çağırırım"
+    },
+    {
+      "verseNo": 15,
+      "source": "okuyan",
+      "text": "Hayır! Yemin ederim: Kaybolan (yıldız)lara,"
+    },
+    {
+      "verseNo": 16,
+      "source": "diyanet",
+      "text": "Andolsun, bir görünüp bir sinenlere, akıp gidip kaybolanlara,"
+    },
+    {
+      "verseNo": 16,
+      "source": "islamoglu",
+      "text": "yuvalarına giren yıldız ve gezegenlere,"
+    },
+    {
+      "verseNo": 16,
+      "source": "esed",
+      "text": "yörüngelerinde akan ve kaybolan gezegenleri"
+    },
+    {
+      "verseNo": 16,
+      "source": "okuyan",
+      "text": "(Yörüngelerinde) akıp gizlenen (gezegen)lere,"
+    },
+    {
+      "verseNo": 17,
+      "source": "diyanet",
+      "text": "Andolsun, yöneldiği zaman geceye,"
+    },
+    {
+      "verseNo": 17,
+      "source": "islamoglu",
+      "text": "ve (yokluğun) zifiri karanlığına (zaman ve mekân) geri döndüğünde;"
+    },
+    {
+      "verseNo": 17,
+      "source": "esed",
+      "text": "ve kararan geceyi"
+    },
+    {
+      "verseNo": 17,
+      "source": "okuyan",
+      "text": "Kararmaya başlayan geceye,"
+    },
+    {
+      "verseNo": 18,
+      "source": "diyanet",
+      "text": "Andolsun, aydınlandığı zaman sabaha ki,"
+    },
+    {
+      "verseNo": 18,
+      "source": "islamoglu",
+      "text": "ve henüz soluk almaya başlayan sabaha (yemin ederim)!"
+    },
+    {
+      "verseNo": 18,
+      "source": "esed",
+      "text": "ve soluk almaya başlayan sabahı"
+    },
+    {
+      "verseNo": 18,
+      "source": "okuyan",
+      "text": "Nefes almaya (aydınlanmaya) başlayan sabaha ki"
+    },
+    {
+      "verseNo": 19,
+      "source": "diyanet",
+      "text": "O (Kur'an), şüphesiz değerli, güçlü ve arşın sahibi katında itibarlı, orada (meleklerce) itaat edilen, güvenilir bir elçinin (Cebrail'in) getirdiği sözdür."
+    },
+    {
+      "verseNo": 19,
+      "source": "islamoglu",
+      "text": "Ki elbet bu (Kur’an), türünün en seçkini olan bir elçi (meleğin) ilettiği sözdür;"
+    },
+    {
+      "verseNo": 19,
+      "source": "esed",
+      "text": "bakın, bu (ilahi kelam), gerçekten soylu bir elçinin (vahyedilmiş) sözüdür"
+    },
+    {
+      "verseNo": 19,
+      "source": "okuyan",
+      "text": "Şüphesiz o (Kur’an), değerli bir elçinin (Cebrail’in ulaştırdığı) sözüdür."
+    },
+    {
+      "verseNo": 20,
+      "source": "diyanet",
+      "text": "O (Kur'an), şüphesiz değerli, güçlü ve arşın sahibi katında itibarlı, orada (meleklerce) itaat edilen, güvenilir bir elçinin (Cebrail'in) getirdiği sözdür."
+    },
+    {
+      "verseNo": 20,
+      "source": "islamoglu",
+      "text": "Arş’ın sahibi katından ona hem güç hem de makam bahşedilmiştir;"
+    },
+    {
+      "verseNo": 20,
+      "source": "esed",
+      "text": "güç bahşedilmiş, kudret ve egemenlik tahtının Sahibi nezdinde emin kılınmış"
+    },
+    {
+      "verseNo": 20,
+      "source": "okuyan",
+      "text": "(O elçi), [arş]ın sahibi (olan Allah) katında çok itibarlıdır."
+    },
+    {
+      "verseNo": 21,
+      "source": "diyanet",
+      "text": "O (Kur'an), şüphesiz değerli, güçlü ve arşın sahibi katında itibarlı, orada (meleklerce) itaat edilen, güvenilir bir elçinin (Cebrail'in) getirdiği sözdür."
+    },
+    {
+      "verseNo": 21,
+      "source": "islamoglu",
+      "text": "orada kendisine itaat edilir; üstelik kendisine güven duyulur."
+    },
+    {
+      "verseNo": 21,
+      "source": "esed",
+      "text": "itaat edilen ve güvene layık birinin (sözü)"
+    },
+    {
+      "verseNo": 21,
+      "source": "okuyan",
+      "text": "Orada (kendisine) itaat edilen, güvenilendir."
+    },
+    {
+      "verseNo": 22,
+      "source": "diyanet",
+      "text": "(Ey Kureyşliler!) Sizin arkadaşınız (Muhammed) bir deli değildir."
+    },
+    {
+      "verseNo": 22,
+      "source": "islamoglu",
+      "text": "Arkadaşınız da cin musallat olmuş biri değildir."
+    },
+    {
+      "verseNo": 22,
+      "source": "esed",
+      "text": "Çünkü, bu arkadaşınız bir deli değil"
+    },
+    {
+      "verseNo": 22,
+      "source": "okuyan",
+      "text": "Arkadaşınız asla cinlenmiş değildir."
+    },
+    {
+      "verseNo": 23,
+      "source": "diyanet",
+      "text": "Andolsun o, Cebrâil'i apaçık ufukta gördü."
+    },
+    {
+      "verseNo": 23,
+      "source": "islamoglu",
+      "text": "Doğrusu o, meleği berrak bir ufukta görmüştür;"
+    },
+    {
+      "verseNo": 23,
+      "source": "esed",
+      "text": "o gerçekten (meleği) gördü, berrak bir ufukta (gördü) onu"
+    },
+    {
+      "verseNo": 23,
+      "source": "okuyan",
+      "text": "Yemin olsun ki onu (Cebrail’i) apaçık ufukta görmüştü."
+    },
+    {
+      "verseNo": 24,
+      "source": "diyanet",
+      "text": "O, gayb hakkında cimri değildir."
+    },
+    {
+      "verseNo": 24,
+      "source": "islamoglu",
+      "text": "kaldı ki o, görünmeyenin bilgisi üzerinde tekel kurup (onu saklayan) biri de değildir;"
+    },
+    {
+      "verseNo": 24,
+      "source": "esed",
+      "text": "o, (başka birine vahyedilmiş olan) insan kavrayışının ötesindeki şeylerin bilgisinden dolayı onları kıskanan biri değildir"
+    },
+    {
+      "verseNo": 24,
+      "source": "okuyan",
+      "text": "O, [gayb] (bilinemeyenler) hakkında cimri değildir."
+    },
+    {
+      "verseNo": 25,
+      "source": "diyanet",
+      "text": "Kur'an, kovulmuş şeytanın sözü değildir."
+    },
+    {
+      "verseNo": 25,
+      "source": "islamoglu",
+      "text": "dahası bu kelâm, Allah’ın kendisine sığınanları şerrinden emin kıldığı şeytanın sözü de değildir."
+    },
+    {
+      "verseNo": 25,
+      "source": "esed",
+      "text": "Bu (mesaj), lanetlenmiş bir şeytani gücün sözü de değildir"
+    },
+    {
+      "verseNo": 25,
+      "source": "okuyan",
+      "text": "O (Kur’an), asla kovulmuş şeytanın sözü değildir."
+    },
+    {
+      "verseNo": 26,
+      "source": "diyanet",
+      "text": "(Hal böyle iken) nereye gidiyorsunuz?"
+    },
+    {
+      "verseNo": 26,
+      "source": "islamoglu",
+      "text": "Hakikat buyken (ey insanlar), nereye gidiyorsunuz!"
+    },
+    {
+      "verseNo": 26,
+      "source": "esed",
+      "text": "Öyleyse nereye gidiyorsunuz"
+    },
+    {
+      "verseNo": 26,
+      "source": "okuyan",
+      "text": "Gidişiniz nereye!"
+    },
+    {
+      "verseNo": 27,
+      "source": "diyanet",
+      "text": "O, âlemler için, içinizden dürüst olmak isteyenler için, ancak bir öğüttür."
+    },
+    {
+      "verseNo": 27,
+      "source": "islamoglu",
+      "text": "Bu vahiy, tüm insanlık için bir uyarı ve öğütten ibarettir;"
+    },
+    {
+      "verseNo": 27,
+      "source": "esed",
+      "text": "Bu (mesaj), bütün insanlık için bir öğüt ve hatırlatmadan başka bir şey değildir"
+    },
+    {
+      "verseNo": 27,
+      "source": "okuyan",
+      "text": "27,28. O (Kur’an) âlemler için, yani içinizden doğru yolda gitmek isteyenler için ancak bir hatırla(t)madır."
+    },
+    {
+      "verseNo": 28,
+      "source": "diyanet",
+      "text": "O, âlemler için, içinizden dürüst olmak isteyenler için, ancak bir öğüttür."
+    },
+    {
+      "verseNo": 28,
+      "source": "islamoglu",
+      "text": "sonuçta içinizden doğru yolda yürümeyi tercih edenler (öğüt alır)."
+    },
+    {
+      "verseNo": 28,
+      "source": "esed",
+      "text": "doğru yolda yürümek isteyen her biriniz için"
+    },
+    {
+      "verseNo": 28,
+      "source": "okuyan",
+      "text": "27,28. O (Kur’an) âlemler için, yani içinizden doğru yolda gitmek isteyenler için ancak bir hatırla(t)madır."
+    },
+    {
+      "verseNo": 29,
+      "source": "diyanet",
+      "text": "Âlemlerin Rabbi olan Allah dilemedikçe siz dileyemezsiniz."
+    },
+    {
+      "verseNo": 29,
+      "source": "islamoglu",
+      "text": "Zaten âlemlerin Rabbi Allah (size irade vermeyi) tercih etmese, siz hiçbir şey tercih edemezdiniz."
+    },
+    {
+      "verseNo": 29,
+      "source": "esed",
+      "text": "Ama Allah, bütün alemlerin Rabbi, (o yolu size göstermeyi) istemedikçe siz onu isteyemezsiniz"
+    },
+    {
+      "verseNo": 29,
+      "source": "okuyan",
+      "text": "(Böylece), âlemlerin Rabbi olan Allah’ın dilediğinden başkasını dilememiş olursunuz."
+    },
+    {
+      "verseNo": 1,
+      "verseNoEnd": null,
+      "source": "ai",
+      "text": "Güneş dürüldüğü zaman"
+    },
+    {
+      "verseNo": 2,
+      "verseNoEnd": null,
+      "source": "ai",
+      "text": "Yıldızlar söndüğü zaman"
+    },
+    {
+      "verseNo": 3,
+      "verseNoEnd": null,
+      "source": "ai",
+      "text": "Dağlar yerlerinden oynatıldığı zaman"
+    },
+    {
+      "verseNo": 4,
+      "verseNoEnd": null,
+      "source": "ai",
+      "text": "Hamile develer ihmal edildiği zaman"
+    },
+    {
+      "verseNo": 5,
+      "verseNoEnd": null,
+      "source": "ai",
+      "text": "Vahşi hayvanlar toplanıp getirildiği zaman"
+    },
+    {
+      "verseNo": 6,
+      "verseNoEnd": null,
+      "source": "ai",
+      "text": "Denizler alevlendiği zaman"
+    },
+    {
+      "verseNo": 7,
+      "verseNoEnd": null,
+      "source": "ai",
+      "text": "Ruhlar eşleştirildiği zaman"
+    },
+    {
+      "verseNo": 8,
+      "verseNoEnd": null,
+      "source": "ai",
+      "text": "Toprağa gömülen kız çocuğu sorulduğu zaman"
+    },
+    {
+      "verseNo": 9,
+      "verseNoEnd": null,
+      "source": "ai",
+      "text": "Hangi suçla öldürüldü?"
+    },
+    {
+      "verseNo": 10,
+      "verseNoEnd": null,
+      "source": "ai",
+      "text": "Sayfalar açıldığı zaman"
+    },
+    {
+      "verseNo": 11,
+      "verseNoEnd": null,
+      "source": "ai",
+      "text": "Ve gökyüzü soyulduğunda."
+    },
+    {
+      "verseNo": 12,
+      "verseNoEnd": null,
+      "source": "ai",
+      "text": "Ve cehennem kızıştırıldığında."
+    },
+    {
+      "verseNo": 13,
+      "verseNoEnd": null,
+      "source": "ai",
+      "text": "Ve cennet yaklaştırıldığında."
+    },
+    {
+      "verseNo": 14,
+      "verseNoEnd": null,
+      "source": "ai",
+      "text": "Her nefis ne getirdiğini bilecektir."
+    },
+    {
+      "verseNo": 15,
+      "verseNoEnd": null,
+      "source": "ai",
+      "text": "Ben gerileyenlere yemin ederim."
+    },
+    {
+      "verseNo": 16,
+      "verseNoEnd": null,
+      "source": "ai",
+      "text": "Gezen, saklananlar."
+    },
+    {
+      "verseNo": 17,
+      "verseNoEnd": null,
+      "source": "ai",
+      "text": "Ve gece koyulaşınca."
+    },
+    {
+      "verseNo": 18,
+      "verseNoEnd": null,
+      "source": "ai",
+      "text": "Ve sabah nefeslenince."
+    },
+    {
+      "verseNo": 19,
+      "verseNoEnd": null,
+      "source": "ai",
+      "text": "Gerçekten o, şerefli bir elçinin sözüdür."
+    },
+    {
+      "verseNo": 20,
+      "verseNoEnd": null,
+      "source": "ai",
+      "text": "Güç sahibi, Arş sahibi yanında makamı sağlam olandır."
+    },
+    {
+      "verseNo": 21,
+      "verseNoEnd": null,
+      "source": "ai",
+      "text": "İtaat edilen, sonra güvenilirdir."
+    },
+    {
+      "verseNo": 22,
+      "verseNoEnd": null,
+      "source": "ai",
+      "text": "Sizin arkadaşınız deli değildir."
+    },
+    {
+      "verseNo": 23,
+      "verseNoEnd": null,
+      "source": "ai",
+      "text": "Kesinlikle onu açık ufukta gördü."
+    },
+    {
+      "verseNo": 24,
+      "verseNoEnd": null,
+      "source": "ai",
+      "text": "Ve o, bilinmeyen konusunda cimri değildir."
+    },
+    {
+      "verseNo": 25,
+      "verseNoEnd": null,
+      "source": "ai",
+      "text": "O, kovulmuş bir şeytanın sözü değildir."
+    },
+    {
+      "verseNo": 26,
+      "verseNoEnd": null,
+      "source": "ai",
+      "text": "Peki nereye gidiyorsunuz?"
+    },
+    {
+      "verseNo": 27,
+      "verseNoEnd": null,
+      "source": "ai",
+      "text": "O, sadece âlemler için bir hatırlatmadır."
+    },
+    {
+      "verseNo": 28,
+      "verseNoEnd": null,
+      "source": "ai",
+      "text": "İçinizden kim doğru yola gelmek isterse."
+    },
+    {
+      "verseNo": 29,
+      "verseNoEnd": null,
+      "source": "ai",
+      "text": "Siz istemezsiniz; ancak Allah diler. O, âlemlerin Rabbidir."
+    }
+  ],
+  "aiParagraph": "Güneşin ışığını yitirip büküldüğü, yıldızların söndüğü, dağların yerinden koptuğu o anı hayal edin — bu sure, önce sizi tam da oraya, her şeyin çözüldüğü o eşiğe götürür; çünkü ancak o noktada insan neye tutunduğunu gerçekten görür. Sıradan bir günde görmezden gelinen şeyler vardır: diri diri toprağa gömülen kız çocuğu hangi suçla öldürüldü diye sorulacaktır — bu soru, tarihin herhangi bir köşesinde sessizce bastırılan her hayatı kapsar, adı konulmamış her şiddeti. Sonra sure döner, gecenin karardığı ve sabahın ilk nefesini verdiği o kırılgan ana yemin eder; sanki \"gören gözün tam da bu eşikte açıldığını\" söyler. Getirilen sözün ne bir cinnet ne de bir vesvese olduğunu, tam tersine güvenilir bir kaynaktan geldiğini ısrarla vurgular — çünkü insanın ilk içgüdüsü, kendisini rahatsız eden bir sesi delirtilmiş ya da yanıltılmış biri olarak etiketlemektir. En sonunda ise sur bir soru bırakır ortaya: \"Nereye gidiyorsunuz?\" Cevap istemez bu soru; aynada görmek istemediğimiz yönü gösterir.",
+  "audienceContext": "Tekvîr'in ilk muhatabı, gökyüzündeki düzeni kalıcı bir güvence olarak okuyan Mekkelilerdi. Güneş her gün doğuyor, kervan yolları onunla belirleniyor, ticaret takvimi ona göre kuruluyordu. Yıldızlar gece yolculuğunun pusulasıydı; dağlar sabitliğin, denizler sınırın simgesiydi. Bu toplumun varoluş güvencesi somuttu: gözlemlenebilir bir kozmik düzen, kabile gücü ve servet. Sure tam bu güvencelerin her birini adlandırarak tersine çeviriyor. Güneş dürülüyor, yıldızlar sönüp dökülüyor, dağlar yürüyor, denizler tutuşuyor. Muhatap bu imgeleri duyduğunda soyut bir kıyamet tartışması değil, bildiği her şeyin ters döndüğü bir sahneyle karşılaşıyordu.\n\nMuhatap Allah'ın varlığını zaten kabul ediyordu. İtiraz ettiği, bir insanın peygamber olabileceğiydi. Sure bu noktayı doğrudan işliyor: 'Sahibiniz deli değil' (âyet 22) ve 'bu şeytanın sözü değil' (âyet 25) ifadeleri, çevrenin çağrıyı itibarsızlaştırmak için öne sürdüğü iki somut suçlamaya verilen doğrudan karşılıklardır. Mekke ileri gelenleri peygamberi akıl hastası ya da cin çarpmış biri olarak tanımlamaya çalışıyordu; bu tanım kabul edilseydi sözü baştan geçersiz sayılacaktı. Direnç, anlamayamamaktan değil, mesajın kabul edilmesi durumunda kaybedilecek statüden geliyordu.\n\nSurenin en sert dönüşü sekizinci ve dokuzuncu âyetlerde gerçekleşiyor. Kozmik sahne bir anda yere iniyor ve toprak altındaki bir kız çocuğunu gösteriyor: el-mev'ûde. Cahiliye Arap toplumunda kız çocuklarının diri diri toprağa gömülmesi bilinen bir vakıydı. Kaynaklar bu uygulamanın yaygınlık derecesi konusunda farklı değerlendirmeler yapsa da Kur'an'ın bunu birkaç yerde gündeme getirmesi, meselenin dinleyicilerin tanıdığı bir gerçeklik olduğunu gösteriyor. Öldürme eyleminin arkasındaki mantık kabilenin namus hesabı ya da yoksulluk korkusuydu; yani toplumsal baskı ve güç dengesi. Güçlü olan zayıfı eziyordu ve bu ezme bir erdem sayılıyordu. Sure bu yapıyı tersine çeviriyor: öldürülen çocuğa 'hangi günahından ötürü öldürüldüğü' soruluyor. Soru faillere değil, mağdura yöneltiliyor; bu dil değişikliği başlı başına bir yargılama düzeninin habercisi.\n\nSurenin kapanışındaki 'fe eyne tezhebûn' — 'öyleyse nereye gidiyorsunuz?' — bir soru olmaktan çok bir duraksama daveti. Muhatap kozmik çözülmeyi, gömülü kızın hesabını ve aracın güvenilirliğini bir arada duyduktan sonra bu soruyla baş başa kalıyor. Sure cevap vermiyor; soruyu söyleyip susturuyor.",
+  "eventMessageMap": [
+    {
+      "situation": "Mekkeliler güneş, yıldızlar ve dağlarla simgelenen kozmik düzenin sarsılmaz ve kalıcı olduğuna güveniyordu.",
+      "response": "Sure bu varlıkların her birini edilgen bir fiille adlandırarak hepsinin 'yaptırıldığını', hiçbirinin kendi başına ayakta durmadığını söyledi.",
+      "shift": "Güvenilir sayılan düzenin aslında geçici bir izin olduğu fikri, güvencenin zeminine girdi."
+    },
+    {
+      "situation": "Mekke ileri gelenleri çağrıyı etkisiz kılmak için peygamberi deli ya da şeytanın sözcüsü olarak tanımladı.",
+      "response": "Sure bu iki suçlamayı adıyla sayarak reddetti: 'Sahibiniz deli değildir' ve 'bu kovulmuş şeytanın sözü değildir.'",
+      "shift": "İtibarsızlaştırma stratejisi, doğrudan adlandırılarak sözün gündeminden düşürüldü."
+    },
+    {
+      "situation": "Kız çocuğunu toprağa gömmek, kabilenin namus ve güç hesabına dayanan bir pratiğe sahipti ve toplumca biliniyordu.",
+      "response": "Sure öldürülen çocuğa soru yöneltti: 'Hangi günahından ötürü öldürüldü?' — fail değil, mağdur muhatap alındı.",
+      "shift": "Suç kabilenin değer yargısına göre değil, mağdurun masumiyetine göre tarif edildi; yargının öznesi değişti."
+    },
+    {
+      "situation": "Sure on üç kozmik ve beşeri çöküş sahnesini sıraladıktan sonra 'her nefis ne hazırladığını bilecek' dedi.",
+      "response": "Kapanışta 'fe eyne tezhebûn — öyleyse nereye gidiyorsunuz?' sorusu geldi.",
+      "shift": "Tablo tamamlandıktan sonra soru okuyucuyu kendi yönüyle yüz yüze bıraktı; cevap verilmedi."
+    }
+  ],
+  "apophaticReading": "'Bu sure bir kıyamet tasviridir ve amacı korku uyandırmaktır' okuması metnin kendi mantığıyla çelişir. Çünkü aynı sure, kozmik çözülme sahnelerinin hemen ardından mev'ûde ayetini koyuyor; güneşin sönmesiyle kız çocuğunun hesabı aynı sıralama içinde yer alıyor. Eğer maksat yalnızca korku uyandırmak olsaydı insan adaleti sahnesi bu sıraya girmezdi. Metin kıyameti soyut bir dehşet olarak değil, o güne kadar görünmez kılınan bir hakkın nihayet görünür olacağı an olarak sunuyor.\n\n'Bu sure vahyin güvenilirliğini savunmaktadır ve asıl konusu budur' okuması da metnin kendi mantığıyla çelişir. Çünkü aynı sure, vahiy savunusunu ancak on dördüncü ayetten sonra kuruyor; önceki on üç ayet tümüyle başka şeyleri adlandırıyor. Vahiy savunusu metnin varış noktası değil, geçiş köprüsü; 'fe eyne tezhebûn' sorusu ise son kelime.\n\nGeriye kalan yönelim şu tarafa işaret ediyor: Sure, kozmik çözülmeyle insan adaletini aynı çerçevede tutuyor. Güneşin dürülmesi ile gömülü kızın hesabı arasındaki mesafe, metnin içinde hiç açıklanmıyor; ikisi aynı 'izâ' yapısıyla — 'o zaman ki' — yan yana konuluyor. Bu yan yanalık, kozmik değişimle bireysel haksızlığın aynı hesaplaşmanın parçası olduğuna dair bir yönelim bırakıyor.\n\nBugüne kadar az bakılmış açı: Surenin kapanış ayeti özgür iradenin hem onaylandığı hem de sınırlandırıldığı iki cümleyi aynı anda söylüyor. 'Doğrulmak isteyen için' deniyor, ardından 'Allah dilemedikçe dileyemezsiniz' ekleniyor. Bu iki cümle çoğu okumada bir çelişki olarak ya da hızla geçilen bir dipnot olarak işleniyor. Oysa Arapça metinde ikisi aynı solukta ve kasıtlı bir gerilimle yan yana duruyor. Sure bir yandan 'bu söz sana açık, alabilirsin' diyor, öte yandan 'ama alma kapasiteni sen kurmuş değilsin' diyor. Cahiliye bağlamında bu gerilim önemli: o toplumda güç kişinin kendi elindeydi, zayıf olan ezilebilirdi. Sure özgür seçimi hem teslim ediyor hem de kökeninde bir başka irade olduğunu söylüyor — yani güç kimin elinde sorusuna dokunuyor.\n\nSusma: *Öldüreni, faili, toplumun bu pratiğe neden sessiz kaldığını sure hiçbir yerde yargılamıyor; yalnızca mağdura soru soruyor — fail bu sahneden görünmez.*",
+  "aiCommentary": "Bu dört bölüm yapay zekâ tarafından yazılmıştır. Kullanılan kaynaklar şunlardır: surenin Arapça metni; TDV İslâm Ansiklopedisi'nin 'Câhiliye' ve 'Mev'ûde' maddeleri; Diyanet İşleri Başkanlığı Kur'an Portalı'ndaki Tekvîr suresi tefsiri; editoryal içerikte aktarılan Izutsu, Ca'fer b. Ebû Tâlib ve Buhârî rivayetleri. Metnin bağlamı ve dönem zeminine ilişkin iddialar bu kaynaklara dayandırılmış; kaynakta karşılığı bulunmayan sosyolojik iddialardan kaçınılmıştır.\n\nApofatik okuma bölümü olumsuzlama yöntemiyle kurulmuştur. Bu yöntemin tercih nedeni şudur: bir metnin yaratıcısının maksadına dair her olumlu söz, insanın tahminidir ve o tahmini dile getiren kişinin çağına, konumuna ve yorumuna göre şekillenir. Hangi okumaların metnin kendi içiyle çeliştiğini göstermek, doğrudan 'metin şunu söyler' demekten epistemik açıdan daha dürüst bir konumdur; geriye kalan alan da kesinlik değil, yönelim olarak işaretlenmektedir.\n\nBu metin bir tefsir, bir meal veya bir fetva değildir. Amel hükmü içermez; 'şu helal, şu haram' türünden bir yargı çıkarılamaz. Yeni filolojik bulgu, farklı bir kıraat tercihi ya da tarihsel araştırma, buradaki değerlendirmelerin bazılarını değiştirebilir. Okuyucunun bu metni bir başlangıç noktası olarak alması ve asıl metne dönmesi önerilir."
 }

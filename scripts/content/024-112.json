@@ -1,191 +1,216 @@
 {
- "stationNo": 24,
- "surahNo": 112,
- "nuzulOrderOkuyan": 25,
- "name": "İhlâs",
- "nameArabic": "الإخلاص",
- "nameMeaning": "Saf kılmak, katıksızlık",
- "verseCount": 4,
- "periodDiyanet": "Mekke",
- "periodOkuyan": "Mekke",
- "revelationTiming": "Mekke dönemi",
- "stationTitle": "Dört ayette bir tanım: doğmamış, doğurmamış, benzeri olmayan.",
- "introduction": "İhlâs suresi, adını içeriğinden alır; \"ihlâs\" saf kılmak, katıksızlaştırmak demektir. Dört ayetlik sure Mekke döneminde inmiştir.\n\nSure bir tanım metnidir. Dört ayette dört şey söylenir: O tektir; O \"samed\"dir; doğurmamış ve doğmamıştır; hiçbir şey O'na denk değildir. Yapısı olumlu bir beyanla başlar, sonra üç olumsuzlamayla sürer.",
- "occasionOfRevelation": "Nüzul kaynaklarının naklettiğine göre sure, Mekkelilerin \"Rabbinin niteliğini bize anlat\" yönündeki sorusuna karşılık inmiştir. Dönemin din anlayışında tanrılar soy, akrabalık ve maddî nitelikle tanımlanıyordu; soru da bu çerçevede soruldu.\n\nSurenin cevabı, sorunun çerçevesini reddeder. Soy bağı olumsuzlanır: doğurmadı ve doğmadı. Benzerlik olumsuzlanır: hiçbir şey denk değildir. Yani cevap bir tarif değil, tariflerin yetersizliğinin beyanıdır.\n\nİkinci ayetteki \"samed\" kelimesi Kur'an'da yalnız burada geçer. Tefsirlerde çok sayıda karşılık verilmiştir: hiçbir şeye ihtiyacı olmayan, her şeyin kendisine muhtaç olduğu, boşluğu olmayan, sürekli olan. Kelimenin tek bir kesin karşılığı üzerinde uzlaşılmamıştır.",
- "occasionSources": "Diyanet İşleri Başkanlığı Kur'an Yolu Tefsiri, İhlâs suresi girişi; Vâhidî, Esbâbü'n-Nüzûl; TDV İslâm Ansiklopedisi, \"İhlâs Sûresi\" ve \"Samed\" maddeleri.",
- "contemporaryMeaning": "Bu surenin yöntemi dikkat çekicidir: tanımı büyük ölçüde olumsuzlamayla yapar. Ne olduğunu söylemek yerine ne olmadığını söyler. Bu, insanın kavramlarının yetersizliğini kabul eden bir dil.\n\nBugün için anlamı şudur: Tanrı'yı kendi ölçülerine, ailesine, kabilesine ya da beklentilerine benzeten her tasavvur bu sure tarafından reddedilir. \"Hiçbir şey O'na denk değildir\" cümlesi, insanın Tanrı'yı kendi suretinde kurma eğilimini keser.\n\nBu aynı zamanda bir özgürleşmedir: hiçbir insan, kurum ya da yapı mutlak konumda değildir. Tekliğin bir tarafta kesin biçimde durması, öteki her şeyi göreli kılar.",
- "keyTerms": [
-  {
-   "term": "ahad",
-   "arabic": "أَحَد",
-   "verseRef": "112:1",
-   "meaning": "Tek, bir. \"Vâhid\"den farklı olarak parçalanamaz, benzeri olmayan teklik anlamı taşır."
-  },
-  {
-   "term": "es-samed",
-   "arabic": "الصَّمَد",
-   "verseRef": "112:2",
-   "meaning": "Kur'an'da yalnız burada geçer. Hiçbir şeye ihtiyacı olmayan, her şeyin kendisine muhtaç olduğu, boşluğu olmayan. Tek bir kesin karşılıkta uzlaşılmamıştır."
-  },
-  {
-   "term": "lem yelid ve lem yûled",
-   "arabic": "لَمْ يَلِدْ وَلَمْ يُولَدْ",
-   "verseRef": "112:3",
-   "meaning": "Doğurmadı ve doğmadı. Soy bağı üzerinden tanımlamanın reddi."
-  },
-  {
-   "term": "küfüven",
-   "arabic": "كُفُوًا",
-   "verseRef": "112:4",
-   "meaning": "Denk, eş, benzer. Karşılaştırma yoluyla tanımlamanın reddi."
-  }
- ],
- "themes": [
-  {
-   "label": "Olumsuzlamayla tanımlamak",
-   "body": "Sure ne olduğunu söylemekten çok ne olmadığını söyler. Bu, insan kavramlarının yetersizliğini kabul eden bir yöntemdir."
-  },
-  {
-   "label": "Soy ve benzerlik reddi",
-   "body": "Doğmamış, doğurmamış, denki olmayan. Dönemin tanrı tasavvurlarının iki temel aracı — akrabalık ve karşılaştırma — geçersiz kılınır."
-  },
-  {
-   "label": "Tanrı'yı kendi suretinde kurmama",
-   "body": "\"Hiçbir şey O'na denk değildir\" cümlesi, insanın Tanrı'yı kendi ölçülerine benzetme eğilimini keser."
-  },
-  {
-   "label": "Tekliğin özgürleştirici yanı",
-   "body": "Mutlak olan tek bir yerde durduğunda, geri kalan her şey — kişi, kurum, yapı — göreli hâle gelir."
-  }
- ],
- "questions": [
-  "Tanrı tasavvurumu kendi beklentilerime göre mi şekillendiriyorum? Hangi noktada kendi suretimde kuruyorum?",
-  "Hayatımda mutlak muamelesi yaptığım bir kişi, kurum ya da fikir var mı?",
-  "Anlamadığım bir şey için \"tam olarak bilmiyorum\" demeyi başarabiliyor muyum?"
- ],
- "verses": [
-  {
-   "verseNo": 1,
-   "textArabic": "بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ قُلْ هُوَ ٱللَّهُ أَحَدٌ"
-  },
-  {
-   "verseNo": 2,
-   "textArabic": "ٱللَّهُ ٱلصَّمَدُ"
-  },
-  {
-   "verseNo": 3,
-   "textArabic": "لَمْ يَلِدْ وَلَمْ يُولَدْ"
-  },
-  {
-   "verseNo": 4,
-   "textArabic": "وَلَمْ يَكُن لَّهُۥ كُفُوًا أَحَدٌۢ"
-  }
- ],
- "translations": [
-  {
-   "verseNo": 1,
-   "source": "diyanet",
-   "text": "De ki: \"O, Allah'tır, bir tektir.\""
-  },
-  {
-   "verseNo": 1,
-   "source": "islamoglu",
-   "text": "(EY muhatab!) De ki: O Allah’tır; eşsiz-benzersiz bir tek’tir."
-  },
-  {
-   "verseNo": 1,
-   "source": "esed",
-   "text": "De ki: \"O, Tek Allah´tır"
-  },
-  {
-   "verseNo": 1,
-   "source": "okuyan",
-   "text": "De ki: “O, Allah’tır; tektir."
-  },
-  {
-   "verseNo": 2,
-   "source": "diyanet",
-   "text": "\"Allah Samed'dir. (Her şey O'na muhtaçtır, o, hiçbir şeye muhtaç değildir.)\""
-  },
-  {
-   "verseNo": 2,
-   "source": "islamoglu",
-   "text": "Allah Samed’dir."
-  },
-  {
-   "verseNo": 2,
-   "source": "esed",
-   "text": "Allah, Öncesiz ve Sonrasız, Bütün Evrenin Asıl Sebebi"
-  },
-  {
-   "verseNo": 2,
-   "source": "okuyan",
-   "text": "Allah muhtaç değildir."
-  },
-  {
-   "verseNo": 3,
-   "source": "diyanet",
-   "text": "Ondan çocuk olmamıştır (Kimsenin babası değildir). Kendisi de doğmamıştır (kimsenin çocuğu değildir).\""
-  },
-  {
-   "verseNo": 3,
-   "source": "islamoglu",
-   "text": "O doğurtmamıştır ve doğurulmamıştır."
-  },
-  {
-   "verseNo": 3,
-   "source": "esed",
-   "text": "O doğurmamıştır, doğurulmamıştır"
-  },
-  {
-   "verseNo": 3,
-   "source": "okuyan",
-   "text": "Doğurtmamıştır (kimsenin babası değildir) ve doğurulmamıştır (kimsenin çocuğu da değildir)."
-  },
-  {
-   "verseNo": 4,
-   "source": "diyanet",
-   "text": "\"Hiçbir şey O'na denk ve benzer değildir.\""
-  },
-  {
-   "verseNo": 4,
-   "source": "islamoglu",
-   "text": "Ve hiçbir şey O’na asla denk ve benzer olmamıştır."
-  },
-  {
-   "verseNo": 4,
-   "source": "esed",
-   "text": "ve hiçbir şey O´na denk tutulamaz"
-  },
-  {
-   "verseNo": 4,
-   "source": "okuyan",
-   "text": "O’nun dengi de yoktur.”"
-  },
-  {
-   "verseNo": 1,
-   "verseNoEnd": null,
-   "source": "ai",
-   "text": "De ki: O Allah tektir."
-  },
-  {
-   "verseNo": 2,
-   "verseNoEnd": null,
-   "source": "ai",
-   "text": "Allah hiçbir şeye muhtaç değildir."
-  },
-  {
-   "verseNo": 3,
-   "verseNoEnd": null,
-   "source": "ai",
-   "text": "O doğurmamıştır ve doğurulmamıştır."
-  },
-  {
-   "verseNo": 4,
-   "verseNoEnd": null,
-   "source": "ai",
-   "text": "Ona denk hiçbir kimse yoktur."
-  }
- ],
- "aiParagraph": "Bir şeyin gerçekten var olup olmadığını anlamanın yollarından biri, ona muhtaç olup olmadığına bakmaktır — çünkü muhtaç olan şey, başka bir şeyin varlığına yaslanır ve o yaslandığı şey olmadan tutunamamış olurdu. Bu kısa metin tam da bu soruyu soruyor: Varlığın kendisi neye dayanıyor? Ve verdiği yanıt keskin: Yalnızca bir tane olan, hiçbir şeye muhtaç olmayan, ama her şeyin ona muhtaç olduğu bir gerçeklik var. Ne bir başkasından doğdu, ne de bir başkasını doğurdu — yani ne bir geçmişe borçlu ne de bir geleceğe emanet; zamandan ve soydan bağımsız, tam ve eksiksiz. İnsan zihninin bütün benzetmeleri, kategorileri, \"şuna benzer\" ya da \"şu gibi\" dediği her şey bu varlığın yanında boşta kalıyor. Biz sürekli bir şeylere tutunarak var oluruz: ilişkilere, rollere, onaylara, hatıralara. Bu metin ise hiçbir şeye tutunmayan, tutunulacak olan tek şeyi tarif ediyor — ve okuyucuyu asıl soruyla baş başa bırakıyor: Sen neye tutunuyorsun?"
+  "stationNo": 24,
+  "surahNo": 112,
+  "nuzulOrderOkuyan": 25,
+  "name": "İhlâs",
+  "nameArabic": "الإخلاص",
+  "nameMeaning": "Saf kılmak, katıksızlık",
+  "verseCount": 4,
+  "periodDiyanet": "Mekke",
+  "periodOkuyan": "Mekke",
+  "revelationTiming": "Mekke dönemi",
+  "stationTitle": "Dört ayette bir tanım: doğmamış, doğurmamış, benzeri olmayan.",
+  "introduction": "İhlâs suresi, adını içeriğinden alır; \"ihlâs\" saf kılmak, katıksızlaştırmak demektir. Dört ayetlik sure Mekke döneminde inmiştir.\n\nSure bir tanım metnidir. Dört ayette dört şey söylenir: O tektir; O \"samed\"dir; doğurmamış ve doğmamıştır; hiçbir şey O'na denk değildir. Yapısı olumlu bir beyanla başlar, sonra üç olumsuzlamayla sürer.",
+  "occasionOfRevelation": "Nüzul kaynaklarının naklettiğine göre sure, Mekkelilerin \"Rabbinin niteliğini bize anlat\" yönündeki sorusuna karşılık inmiştir. Dönemin din anlayışında tanrılar soy, akrabalık ve maddî nitelikle tanımlanıyordu; soru da bu çerçevede soruldu.\n\nSurenin cevabı, sorunun çerçevesini reddeder. Soy bağı olumsuzlanır: doğurmadı ve doğmadı. Benzerlik olumsuzlanır: hiçbir şey denk değildir. Yani cevap bir tarif değil, tariflerin yetersizliğinin beyanıdır.\n\nİkinci ayetteki \"samed\" kelimesi Kur'an'da yalnız burada geçer. Tefsirlerde çok sayıda karşılık verilmiştir: hiçbir şeye ihtiyacı olmayan, her şeyin kendisine muhtaç olduğu, boşluğu olmayan, sürekli olan. Kelimenin tek bir kesin karşılığı üzerinde uzlaşılmamıştır.",
+  "occasionSources": "Diyanet İşleri Başkanlığı Kur'an Yolu Tefsiri, İhlâs suresi girişi; Vâhidî, Esbâbü'n-Nüzûl; TDV İslâm Ansiklopedisi, \"İhlâs Sûresi\" ve \"Samed\" maddeleri.",
+  "contemporaryMeaning": "Bu surenin yöntemi dikkat çekicidir: tanımı büyük ölçüde olumsuzlamayla yapar. Ne olduğunu söylemek yerine ne olmadığını söyler. Bu, insanın kavramlarının yetersizliğini kabul eden bir dil.\n\nBugün için anlamı şudur: Tanrı'yı kendi ölçülerine, ailesine, kabilesine ya da beklentilerine benzeten her tasavvur bu sure tarafından reddedilir. \"Hiçbir şey O'na denk değildir\" cümlesi, insanın Tanrı'yı kendi suretinde kurma eğilimini keser.\n\nBu aynı zamanda bir özgürleşmedir: hiçbir insan, kurum ya da yapı mutlak konumda değildir. Tekliğin bir tarafta kesin biçimde durması, öteki her şeyi göreli kılar.",
+  "keyTerms": [
+    {
+      "term": "ahad",
+      "arabic": "أَحَد",
+      "verseRef": "112:1",
+      "meaning": "Tek, bir. \"Vâhid\"den farklı olarak parçalanamaz, benzeri olmayan teklik anlamı taşır."
+    },
+    {
+      "term": "es-samed",
+      "arabic": "الصَّمَد",
+      "verseRef": "112:2",
+      "meaning": "Kur'an'da yalnız burada geçer. Hiçbir şeye ihtiyacı olmayan, her şeyin kendisine muhtaç olduğu, boşluğu olmayan. Tek bir kesin karşılıkta uzlaşılmamıştır."
+    },
+    {
+      "term": "lem yelid ve lem yûled",
+      "arabic": "لَمْ يَلِدْ وَلَمْ يُولَدْ",
+      "verseRef": "112:3",
+      "meaning": "Doğurmadı ve doğmadı. Soy bağı üzerinden tanımlamanın reddi."
+    },
+    {
+      "term": "küfüven",
+      "arabic": "كُفُوًا",
+      "verseRef": "112:4",
+      "meaning": "Denk, eş, benzer. Karşılaştırma yoluyla tanımlamanın reddi."
+    }
+  ],
+  "themes": [
+    {
+      "label": "Olumsuzlamayla tanımlamak",
+      "body": "Sure ne olduğunu söylemekten çok ne olmadığını söyler. Bu, insan kavramlarının yetersizliğini kabul eden bir yöntemdir."
+    },
+    {
+      "label": "Soy ve benzerlik reddi",
+      "body": "Doğmamış, doğurmamış, denki olmayan. Dönemin tanrı tasavvurlarının iki temel aracı — akrabalık ve karşılaştırma — geçersiz kılınır."
+    },
+    {
+      "label": "Tanrı'yı kendi suretinde kurmama",
+      "body": "\"Hiçbir şey O'na denk değildir\" cümlesi, insanın Tanrı'yı kendi ölçülerine benzetme eğilimini keser."
+    },
+    {
+      "label": "Tekliğin özgürleştirici yanı",
+      "body": "Mutlak olan tek bir yerde durduğunda, geri kalan her şey — kişi, kurum, yapı — göreli hâle gelir."
+    }
+  ],
+  "questions": [
+    "Tanrı tasavvurumu kendi beklentilerime göre mi şekillendiriyorum? Hangi noktada kendi suretimde kuruyorum?",
+    "Hayatımda mutlak muamelesi yaptığım bir kişi, kurum ya da fikir var mı?",
+    "Anlamadığım bir şey için \"tam olarak bilmiyorum\" demeyi başarabiliyor muyum?"
+  ],
+  "verses": [
+    {
+      "verseNo": 1,
+      "textArabic": "بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ قُلْ هُوَ ٱللَّهُ أَحَدٌ"
+    },
+    {
+      "verseNo": 2,
+      "textArabic": "ٱللَّهُ ٱلصَّمَدُ"
+    },
+    {
+      "verseNo": 3,
+      "textArabic": "لَمْ يَلِدْ وَلَمْ يُولَدْ"
+    },
+    {
+      "verseNo": 4,
+      "textArabic": "وَلَمْ يَكُن لَّهُۥ كُفُوًا أَحَدٌۢ"
+    }
+  ],
+  "translations": [
+    {
+      "verseNo": 1,
+      "source": "diyanet",
+      "text": "De ki: \"O, Allah'tır, bir tektir.\""
+    },
+    {
+      "verseNo": 1,
+      "source": "islamoglu",
+      "text": "(EY muhatab!) De ki: O Allah’tır; eşsiz-benzersiz bir tek’tir."
+    },
+    {
+      "verseNo": 1,
+      "source": "esed",
+      "text": "De ki: \"O, Tek Allah´tır"
+    },
+    {
+      "verseNo": 1,
+      "source": "okuyan",
+      "text": "De ki: “O, Allah’tır; tektir."
+    },
+    {
+      "verseNo": 2,
+      "source": "diyanet",
+      "text": "\"Allah Samed'dir. (Her şey O'na muhtaçtır, o, hiçbir şeye muhtaç değildir.)\""
+    },
+    {
+      "verseNo": 2,
+      "source": "islamoglu",
+      "text": "Allah Samed’dir."
+    },
+    {
+      "verseNo": 2,
+      "source": "esed",
+      "text": "Allah, Öncesiz ve Sonrasız, Bütün Evrenin Asıl Sebebi"
+    },
+    {
+      "verseNo": 2,
+      "source": "okuyan",
+      "text": "Allah muhtaç değildir."
+    },
+    {
+      "verseNo": 3,
+      "source": "diyanet",
+      "text": "Ondan çocuk olmamıştır (Kimsenin babası değildir). Kendisi de doğmamıştır (kimsenin çocuğu değildir).\""
+    },
+    {
+      "verseNo": 3,
+      "source": "islamoglu",
+      "text": "O doğurtmamıştır ve doğurulmamıştır."
+    },
+    {
+      "verseNo": 3,
+      "source": "esed",
+      "text": "O doğurmamıştır, doğurulmamıştır"
+    },
+    {
+      "verseNo": 3,
+      "source": "okuyan",
+      "text": "Doğurtmamıştır (kimsenin babası değildir) ve doğurulmamıştır (kimsenin çocuğu da değildir)."
+    },
+    {
+      "verseNo": 4,
+      "source": "diyanet",
+      "text": "\"Hiçbir şey O'na denk ve benzer değildir.\""
+    },
+    {
+      "verseNo": 4,
+      "source": "islamoglu",
+      "text": "Ve hiçbir şey O’na asla denk ve benzer olmamıştır."
+    },
+    {
+      "verseNo": 4,
+      "source": "esed",
+      "text": "ve hiçbir şey O´na denk tutulamaz"
+    },
+    {
+      "verseNo": 4,
+      "source": "okuyan",
+      "text": "O’nun dengi de yoktur.”"
+    },
+    {
+      "verseNo": 1,
+      "verseNoEnd": null,
+      "source": "ai",
+      "text": "De ki: O Allah tektir."
+    },
+    {
+      "verseNo": 2,
+      "verseNoEnd": null,
+      "source": "ai",
+      "text": "Allah hiçbir şeye muhtaç değildir."
+    },
+    {
+      "verseNo": 3,
+      "verseNoEnd": null,
+      "source": "ai",
+      "text": "O doğurmamıştır ve doğurulmamıştır."
+    },
+    {
+      "verseNo": 4,
+      "verseNoEnd": null,
+      "source": "ai",
+      "text": "Ona denk hiçbir kimse yoktur."
+    }
+  ],
+  "aiParagraph": "Bir şeyin gerçekten var olup olmadığını anlamanın yollarından biri, ona muhtaç olup olmadığına bakmaktır — çünkü muhtaç olan şey, başka bir şeyin varlığına yaslanır ve o yaslandığı şey olmadan tutunamamış olurdu. Bu kısa metin tam da bu soruyu soruyor: Varlığın kendisi neye dayanıyor? Ve verdiği yanıt keskin: Yalnızca bir tane olan, hiçbir şeye muhtaç olmayan, ama her şeyin ona muhtaç olduğu bir gerçeklik var. Ne bir başkasından doğdu, ne de bir başkasını doğurdu — yani ne bir geçmişe borçlu ne de bir geleceğe emanet; zamandan ve soydan bağımsız, tam ve eksiksiz. İnsan zihninin bütün benzetmeleri, kategorileri, \"şuna benzer\" ya da \"şu gibi\" dediği her şey bu varlığın yanında boşta kalıyor. Biz sürekli bir şeylere tutunarak var oluruz: ilişkilere, rollere, onaylara, hatıralara. Bu metin ise hiçbir şeye tutunmayan, tutunulacak olan tek şeyi tarif ediyor — ve okuyucuyu asıl soruyla baş başa bırakıyor: Sen neye tutunuyorsun?",
+  "audienceContext": "İhlâs suresi ilk kez, tanrıyı soy ağacıyla tanımlayan insanlara seslendi. Mekke'de her tanrının bir ailesi vardı: Kim doğurdu, kim doğdu, kim kimle akrabaydı — bu sorular teolojinin (tanrıbilimin) çekirdeğiydi. Lat, Menat, Uzza birbirleriyle ilişkilendirilirdi; Yunan geleneğinde de tanrılar doğar, çiftleşir, savaşır, ölürdü. Mekkeliler yeni bir tanrı hakkında bilgi edinmek istediklerinde en doğal soruyu sordular: \"Soyunu, niteliğini anlat.\" Bu soru safdillikten değil, o dünyanın mantığından çıkıyordu.\n\nO dünyanın mantığı şuydu: Bir varlığı ancak başka bir varlıkla kıyaslayarak tanıyabilirsin. Akrabalık, benzerlik, madde — bunlar olmadan tarif de olmaz. Müşrikler Allah'ın var olduğunu zaten kabul ediyordu; Lokman suresinde de görüldüğü gibi, evrenin bir yaratan tarafından kurulduğunu inkâr etmiyorlardı. Dirençleri başka bir yerdeydi: bu yaratanın yanına kimseyi, hiçbir aracıyı koymak yasak mıydı? O'nun için soy da, eş de, benzer de olmamalı mıydı?\n\nBuradan bir güç meselesi doğuyordu. Putlar toplumsal işlev görüyordu: kimin tapınağı büyükse, kimin aracısı daha itibarlıysa, o kişinin kabilesi daha fazla statü kazanıyordu. Kureyş, Kabe'nin bekçiliğinden hem tinsel hem ekonomik güç devşiriyordu. Çok tanrılı düzenin kalkması, bu statünün kalkması demekti. Dolayısıyla sureye asıl direnci gösterenler anlayamayanlar değil, anlayanlar arasından çıktı — düzenin devamından doğrudan kazançlı olanlardı.\n\nSurenin muhatabı bu zemine oturmuş biriydi: tanrının maddî ve sosyal bir varlık olması gerektiğini o kadar içselleştirmişti ki, soydan ve benzerlikten bağımsız bir \"teklik\" kavramı onun için neredeyse anlamsızdı. Sure bu zihinle karşılaşıyor ve sorunun çerçevesini yanıtlamak yerine çerçevenin kendisini geri iade ediyor.",
+  "eventMessageMap": [
+    {
+      "situation": "Mekkeliler, tanrının soyunu ve niteliğini öğrenmek için sordular; dönemin din anlayışına göre tanrılar soy bağıyla tanımlanırdı.",
+      "response": "Metin, soruyu soy çerçevesinde yanıtlamak yerine doğurma ve doğulmanın tamamen dışında bir tekliği öne sürdü.",
+      "shift": "Tanrı hakkında bilginin soy ve akrabalık üzerinden kurulabileceği varsayımı geçersizleşti."
+    },
+    {
+      "situation": "Toplumun tanrı tasavvurunda her yüce varlığın bir dengi, bir benzeri ya da rakibi bulunurdu.",
+      "response": "\"Küfüven\" — hiçbir şey O'na denk değildir — ifadesiyle karşılaştırma yoluyla yapılan her tanımın zemini kesildi.",
+      "shift": "Tanrıyı başka bir şeyle ölçerek anlamaya çalışmak, meşru bir bilgi yöntemi olmaktan çıktı."
+    },
+    {
+      "situation": "\"Samed\" kavramı, ihtiyaç duymayan ve her şeyin kendisine muhtaç olduğu bir varlığı işaret ediyordu; oysa tüm tapınma sistemleri tanrının bir karşılığa muhtaç olduğu varsayımına dayanıyordu.",
+      "response": "Metin, O'nu \"samed\" olarak nitelendirerek ihtiyaçsızlığı bir sıfat değil, tanımın kendisi haline getirdi.",
+      "shift": "Tanrıyla ilişkinin \"bir şey vererek karşılık alma\" modeli üzerine kurulamayacağı ortaya çıktı."
+    },
+    {
+      "situation": "\"Ahad\" kelimesi, parçalanamaz ve benzeri olmayan bir tekliği ifade ediyordu; \"vahid\" ise sayılabilen tekliği.",
+      "response": "Metin, sayısal birliği değil, kıyasa kapalı bir özsel tekliği merkeze aldı.",
+      "shift": "Tanrı, bir hiyerarşinin en tepesindeki üye olarak değil, hiyerarşinin dışında konumlanan bir varlık olarak tanımlandı."
+    }
+  ],
+  "apophaticReading": "**'İhlâs suresi bir özet ya da inanç maddesidir' okuması metnin kendi mantığıyla çelişir.** Çünkü sure yalnızca olumluluk içerse bir özet olurdu; oysa yapısı ilk ayetten sonra üç ardışık olumsuzlamayla ilerler. \"Doğurmadı, doğmadı, hiçbir şey denk değildir\" — bunlar bilgi ekleyen ifadeler değil, bilginin sınırını çizen ifadelerdir. Bir özet içeriği toplar; bu metin ise içeriği budayarak geriye bir kalıntı bırakır. Budama biçimiyle bir özet değil, bir arındırma hareketidir.\n\n**'Sure Allah'ı tarif eder' okuması da metnin kendi mantığıyla çelişir.** Eğer bir tarif yapılıyor olsaydı, \"samed\" gibi anlamı üzerinde hiç uzlaşılamamış, Kur'an'da yalnızca bir kez geçen bir kelimeyle bu tarif tamamlanamaz; müfessirler yüzyıllar boyunca o kelime üzerinde ayrışmaya devam etmezdi. Metindeki dört cümlenin üçü olumsuzlamadır. Olumlu olan tek cümle de — \"O, Allah, ahaddır\" — sıfat değil, kıyasın dışına çıkarma işlemidir. Tarif benzetme ve sınıflandırma gerektirir; bu metin her ikisini de imkânsız kılar.\n\nGeriye kalan yönelim şu yönde: sure, Allah'ı anlatmıyor; O'nun hakkındaki mevcut dili dört adımda geçersizleştiriyor. Soy dili geçersizleşiyor, benzerlik dili geçersizleşiyor, madde dili geçersizleşiyor. Geriye \"samed\" kalıyor — ama o da kesin bir karşılığı olmayan, üzerinde asırlarca tartışılmış bir kelime. Yani metnin \"geriye bıraktığı\" dahi kapalı bir kavram. Bu bir eksiklik değil, yöntemin tutarlı bir sonucu olabilir.\n\nBugüne kadar az bakılmış açı: Editoryal içerikte aktarıldığı üzere, dönem kaynaklarında müşriklerin soru çerçevesi soy ve maddî nitelikteydi. Sure bu çerçeveyi reddederken aynı zamanda şunu da yapmış olur: o çağda tanrı ile toplumsal statüyü birbirine bağlayan tüm dili geçersizleştirir. Çünkü soy, benzerlik ve denk varlık kavramları yalnızca teolojik değil, aynı zamanda Cahiliye kültüründe kimin kime denk olduğunu, kimin kimin üzerinde hak iddia edebildiğini belirleyen sosyal dildi. \"Küfüven\" — hiçbir şey denk değildir — ifadesi salt teolojik bir olumsuzlama olarak okunduğunda, sosyal eşdeğer kurma ve statü hiyerarşisi kurma dilini de bu olumsuzlamanın içinde taşıdığı görülmez. Ama Cahiliye bağlamına bakıldığında — güçlünün zayıfı ezmesinin erdem sayıldığı, kabile dayanışmasının denk-olan mantığıyla işlediği o bağlam — bu olumsuzlama çok daha geniş bir alanı kesiyor.\n\nSusma: *Surenin, insanın Allah'la ilişkisini nasıl kuracağına dair söylediği bir şey buradan görünmez.*",
+  "aiCommentary": "Bu dört bölüm yapay zekâ tarafından üretilmiştir. Kullanılan kaynaklar şunlardır: sureye ait Arapça metin, editoryal içerikte yer alan nüzul ve kavram notları, ve doğrulanmış dönem zemini olarak sunulan TDV İslâm Ansiklopedisi \"Câhiliye\" maddesiyle Izutsu'nun cahiliye çözümlemesi. Metnin dışına çıkan hiçbir tarihsel iddia eklenmedi; yalnızca verilen malzeme içinde kalındı.\n\nApofatik (olumsuzlama yoluyla yaklaşan) okuma yöntemi bilinçli seçildi. Sebebi şudur: bir metnin neyi söylediğini söylemek, söylemi yorumlayanın kendi perspektifini metnin içine taşımasına açık kapı bırakır. Neyi söylemediğini, hangi okumaların metnin kendi iç mantığıyla çeliştiğini göstermek ise daha denetlenebilir bir işlemdir. Bununla birlikte bu yöntem de yorumdan azade değildir; \"metnin mantığı\" diye kurulan her çerçeve de bir okumadır. Yaratanın maksadına dair söylenecek her söz, nihayetinde insanın tahminidir.\n\nBu metin bir tefsir, meal ya da fetva değildir. Amel hükmü çıkarılamaz, herhangi bir davranışın helal ya da haram olduğuna dair sonuç türetilemez. Burada sunulan değerlendirmeler, yeni araştırmalar, farklı kaynaklara erişim ya da metodolojik itirazlar karşısında değişmeye açıktır."
 }

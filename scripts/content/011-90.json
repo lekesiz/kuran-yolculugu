@@ -1,671 +1,696 @@
 {
- "stationNo": 11,
- "surahNo": 90,
- "nuzulOrderOkuyan": 37,
- "name": "Beled",
- "nameArabic": "البلد",
- "nameMeaning": "Şehir, belde",
- "verseCount": 20,
- "periodDiyanet": "Mekke",
- "periodOkuyan": "Mekke",
- "revelationTiming": "Mekke dönemi",
- "stationTitle": "İnsan zorluk içinde yaratıldı; kolay olan yolu değil, sarp yokuşu seçmesi beklenir.",
- "introduction": "Beled suresi, adını birinci ayetteki şehre edilen yeminden alır; \"beled\" şehir, belde demektir ve Mekke'ye işaret ettiği kabul edilir. Yirmi ayetlik sure Mekke döneminde inmiştir.\n\nSurenin merkezinde \"akabe\" kavramı vardır: sarp yokuş, aşılması zor geçit. Sure bu yokuşun ne olduğunu kendisi tanımlar — köle azat etmek, açı doyurmak, yetime ve düşkün yoksula yönelmek. Böylece soyut bir erdem çağrısı yerine somut bir eylem listesi verilir.",
- "occasionOfRevelation": "Sure Mekke döneminde, kölelik kurumunun ve şiddetli ekonomik eşitsizliğin olağan sayıldığı bir toplumda inmiştir. Mekke aristokrasisi servetini gösteriş amaçlı harcamalarla sergiliyordu; sure altıncı ayette bu tipi anar: \"Ben yığın yığın mal harcadım.\"\n\nSurenin en dikkat çekici yanı, on üçüncü ayetten itibaren \"akabe\"nin içeriğini doldurmasıdır. Aşılması gereken sarp yokuş bir ibadet biçimi ya da bir inanç formülü değildir; boyun kurtarmak (köle azat etmek), açlık gününde yoksulu doyurmak, akraba yetime ve yere serilmiş düşküne yönelmektir.\n\nKaynaklar, birinci ve ikinci ayetteki yeminin Mekke'ye edildiğini, üçüncü ayetteki \"doğuran ve doğan\" ifadesinin ise Hz. İbrahim ile Hz. İsmail'e yahut genel olarak insan soyuna işaret ettiğini kaydeder. Bu ikinci yorum tefsir tercihidir.",
- "occasionSources": "Diyanet İşleri Başkanlığı Kur'an Yolu Tefsiri, Beled suresi girişi; TDV İslâm Ansiklopedisi, \"Beled Sûresi\" maddesi.",
- "contemporaryMeaning": "Surenin dördüncü ayeti insanı tanımlar: \"zorluk içinde\" yaratıldı. Bu, hayatın kolaylaşmasını beklemenin yanlış bir beklenti olduğunu söyler. Zorluk bir arıza değil, insan durumunun kendisidir.\n\nBuna verilen cevap ise ilginçtir: zorluktan kaçmak değil, doğru zorluğu seçmek. Sure \"akabe\" — sarp yokuş — imgesiyle bunu anlatır. Sonra da yokuşun somut adını verir: başkasının yükünü hafifletmek.\n\nBugünün diliyle: konforlu bir hayat kurmak mümkün, ama sure o hayatın \"kolay yol\" olduğunu ve asıl sınavın atlanmış olduğunu söyler. Gösterişli harcama (90:6) ile açı doyurmak (90:14) arasındaki fark, miktar farkı değil yön farkıdır.",
- "keyTerms": [
-  {
-   "term": "beled",
-   "arabic": "الْبَلَد",
-   "verseRef": "90:1",
-   "meaning": "Şehir, belde. Tefsirlerde Mekke'ye işaret ettiği kabul edilir."
-  },
-  {
-   "term": "kebed",
-   "arabic": "كَبَدٍ",
-   "verseRef": "90:4",
-   "meaning": "Zorluk, sıkıntı, meşakkat. İnsanın yaratılış durumunu tanımlayan kelime; kökü ciğer ve derinlik anlamı taşır."
-  },
-  {
-   "term": "el-akabe",
-   "arabic": "الْعَقَبَة",
-   "verseRef": "90:11",
-   "meaning": "Sarp yokuş, aşılması zor geçit. Sure bu yokuşun içeriğini köle azadı, açı doyurmak ve yetime yönelmek olarak tanımlar."
-  },
-  {
-   "term": "fekku rakabe",
-   "arabic": "فَكُّ رَقَبَةٍ",
-   "verseRef": "90:13",
-   "meaning": "Bir boynu çözmek, köle azat etmek. Yokuşun ilk maddesi."
-  }
- ],
- "themes": [
-  {
-   "label": "Zorluk, arıza değil insan durumudur",
-   "body": "\"İnsanı zorluk içinde yarattık.\" Sure hayatın kolaylaşmasını bir hedef olarak sunmaz; zorluğun kaçınılmazlığını kabul ederek başlar."
-  },
-  {
-   "label": "Doğru zorluğu seçmek",
-   "body": "Cevap zorluktan kaçmak değil, aşılmaya değer yokuşu seçmektir. Metin buna \"akabe\" der ve içeriğini kendisi doldurur."
-  },
-  {
-   "label": "Yokuşun somut adı",
-   "body": "Köle azat etmek, açlık gününde yoksulu doyurmak, akraba yetime ve yere serilmiş düşküne yönelmek. Erdem soyut kalmaz, eylem listesine dönüşür."
-  },
-  {
-   "label": "Gösterişli harcama ile hakiki verme farkı",
-   "body": "\"Yığın yığın mal harcadım\" diyen tip ile açı doyuran tip karşı karşıya konur. Fark miktarda değil, harcamanın yönünde ve görünürlük ihtiyacındadır."
-  }
- ],
- "questions": [
-  "Hayatımdaki zorlukları bir arıza gibi mi karşılıyorum? Kaçındığım hangi zorluk aslında aşmam gereken yokuş?",
-  "Harcamalarımın ne kadarı görünmek için, ne kadarı birinin yükünü hafifletmek için?",
-  "Çevremde \"yere serilmiş\" durumda olan biri var mı? Ona yönelmemi engelleyen ne?"
- ],
- "verses": [
-  {
-   "verseNo": 1,
-   "textArabic": "بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ لَآ أُقْسِمُ بِهَٰذَا ٱلْبَلَدِ"
-  },
-  {
-   "verseNo": 2,
-   "textArabic": "وَأَنتَ حِلٌّۢ بِهَٰذَا ٱلْبَلَدِ"
-  },
-  {
-   "verseNo": 3,
-   "textArabic": "وَوَالِدٍۢ وَمَا وَلَدَ"
-  },
-  {
-   "verseNo": 4,
-   "textArabic": "لَقَدْ خَلَقْنَا ٱلْإِنسَٰنَ فِى كَبَدٍ"
-  },
-  {
-   "verseNo": 5,
-   "textArabic": "أَيَحْسَبُ أَن لَّن يَقْدِرَ عَلَيْهِ أَحَدٌۭ"
-  },
-  {
-   "verseNo": 6,
-   "textArabic": "يَقُولُ أَهْلَكْتُ مَالًۭا لُّبَدًا"
-  },
-  {
-   "verseNo": 7,
-   "textArabic": "أَيَحْسَبُ أَن لَّمْ يَرَهُۥٓ أَحَدٌ"
-  },
-  {
-   "verseNo": 8,
-   "textArabic": "أَلَمْ نَجْعَل لَّهُۥ عَيْنَيْنِ"
-  },
-  {
-   "verseNo": 9,
-   "textArabic": "وَلِسَانًۭا وَشَفَتَيْنِ"
-  },
-  {
-   "verseNo": 10,
-   "textArabic": "وَهَدَيْنَٰهُ ٱلنَّجْدَيْنِ"
-  },
-  {
-   "verseNo": 11,
-   "textArabic": "فَلَا ٱقْتَحَمَ ٱلْعَقَبَةَ"
-  },
-  {
-   "verseNo": 12,
-   "textArabic": "وَمَآ أَدْرَىٰكَ مَا ٱلْعَقَبَةُ"
-  },
-  {
-   "verseNo": 13,
-   "textArabic": "فَكُّ رَقَبَةٍ"
-  },
-  {
-   "verseNo": 14,
-   "textArabic": "أَوْ إِطْعَٰمٌۭ فِى يَوْمٍۢ ذِى مَسْغَبَةٍۢ"
-  },
-  {
-   "verseNo": 15,
-   "textArabic": "يَتِيمًۭا ذَا مَقْرَبَةٍ"
-  },
-  {
-   "verseNo": 16,
-   "textArabic": "أَوْ مِسْكِينًۭا ذَا مَتْرَبَةٍۢ"
-  },
-  {
-   "verseNo": 17,
-   "textArabic": "ثُمَّ كَانَ مِنَ ٱلَّذِينَ ءَامَنُوا۟ وَتَوَاصَوْا۟ بِٱلصَّبْرِ وَتَوَاصَوْا۟ بِٱلْمَرْحَمَةِ"
-  },
-  {
-   "verseNo": 18,
-   "textArabic": "أُو۟لَٰٓئِكَ أَصْحَٰبُ ٱلْمَيْمَنَةِ"
-  },
-  {
-   "verseNo": 19,
-   "textArabic": "وَٱلَّذِينَ كَفَرُوا۟ بِـَٔايَٰتِنَا هُمْ أَصْحَٰبُ ٱلْمَشْـَٔمَةِ"
-  },
-  {
-   "verseNo": 20,
-   "textArabic": "عَلَيْهِمْ نَارٌۭ مُّؤْصَدَةٌۢ"
-  }
- ],
- "translations": [
-  {
-   "verseNo": 1,
-   "source": "diyanet",
-   "text": "Sen bu beldedeyken bu beldeye (Mekke'ye), babaya ve ondan meydana gelen çocuğa yemin ederim ki biz insanı bir sıkıntı ve zorluk içinde (olacak ve bunlara göğüs gerecek şekilde) yarattık."
-  },
-  {
-   "verseNo": 1,
-   "source": "islamoglu",
-   "text": "ÖTESİ yok, işte Ben yemin ediyorum bu beldeye;"
-  },
-  {
-   "verseNo": 1,
-   "source": "esed",
-   "text": "Ben bu beldeyi tanıklığa çağırırım"
-  },
-  {
-   "verseNo": 1,
-   "source": "okuyan",
-   "text": "Hayır bu şehre (Mekke’ye) yemin ederim."
-  },
-  {
-   "verseNo": 2,
-   "source": "diyanet",
-   "text": "Sen bu beldedeyken bu beldeye (Mekke'ye), babaya ve ondan meydana gelen çocuğa yemin ederim ki biz insanı bir sıkıntı ve zorluk içinde (olacak ve bunlara göğüs gerecek şekilde) yarattık."
-  },
-  {
-   "verseNo": 2,
-   "source": "islamoglu",
-   "text": "senin her tür saldırıya açık olduğun bu beldeye;"
-  },
-  {
-   "verseNo": 2,
-   "source": "esed",
-   "text": "senin serbestçe yaşadığın bu beldeyi"
-  },
-  {
-   "verseNo": 2,
-   "source": "okuyan",
-   "text": "Ki sen bu şehirde oturmaktasın."
-  },
-  {
-   "verseNo": 3,
-   "source": "diyanet",
-   "text": "Sen bu beldedeyken bu beldeye (Mekke'ye), babaya ve ondan meydana gelen çocuğa yemin ederim ki biz insanı bir sıkıntı ve zorluk içinde (olacak ve bunlara göğüs gerecek şekilde) yarattık."
-  },
-  {
-   "verseNo": 3,
-   "source": "islamoglu",
-   "text": "ve babaya ve oğluna:"
-  },
-  {
-   "verseNo": 3,
-   "source": "esed",
-   "text": "ve (tanıklığa çağırırım) anne babayı ve çocukları"
-  },
-  {
-   "verseNo": 3,
-   "source": "okuyan",
-   "text": "Babaya ve çocuğa (da yemin ederim)."
-  },
-  {
-   "verseNo": 4,
-   "source": "diyanet",
-   "text": "Sen bu beldedeyken bu beldeye (Mekke'ye), babaya ve ondan meydana gelen çocuğa yemin ederim ki biz insanı bir sıkıntı ve zorluk içinde (olacak ve bunlara göğüs gerecek şekilde) yarattık."
-  },
-  {
-   "verseNo": 4,
-   "source": "islamoglu",
-   "text": "Hakikaten Biz insanoğlunu farklı meşakkatlere dayanıklı yarattık."
-  },
-  {
-   "verseNo": 4,
-   "source": "esed",
-   "text": "Gerçek şu ki, Biz insanı acı, sıkıntı ve imtihan (ile yüklü bir hayat)a gönderdik"
-  },
-  {
-   "verseNo": 4,
-   "source": "okuyan",
-   "text": "Şüphesiz ki biz insanı zorluklar konusunda (dayanıklı) yarattık."
-  },
-  {
-   "verseNo": 5,
-   "source": "diyanet",
-   "text": "İnsanoğlu, kendisine kimsenin güç yetiremeyeceğini mi sanıyor?"
-  },
-  {
-   "verseNo": 5,
-   "source": "islamoglu",
-   "text": "Ne yani, şimdi insan kimsenin kendisine güç yetiremeyeceğini mi sanıyor?"
-  },
-  {
-   "verseNo": 5,
-   "source": "esed",
-   "text": "İnsan, kimsenin kendi üzerinde güç sahibi olmadığını mı zannediyor"
-  },
-  {
-   "verseNo": 5,
-   "source": "okuyan",
-   "text": "(O insan) kimsenin kendisine güç yetiremeyeceğini mi sanıyor?"
-  },
-  {
-   "verseNo": 6,
-   "source": "diyanet",
-   "text": "\"Yığınla mal harcadım\" diyor."
-  },
-  {
-   "verseNo": 6,
-   "source": "islamoglu",
-   "text": "(Dahası) “Ben (bu konuma gelmek için) kucak dolusu servet harcadım” mı diyor?"
-  },
-  {
-   "verseNo": 6,
-   "source": "esed",
-   "text": "Övünüp duruyor: \"Ben, yığınla servet tükettim"
-  },
-  {
-   "verseNo": 6,
-   "source": "okuyan",
-   "text": "(Övünerek) “Pek çok mal harcadım.” diyor."
-  },
-  {
-   "verseNo": 7,
-   "source": "diyanet",
-   "text": "Kendisini kimsenin görmediğini mi sanıyor?"
-  },
-  {
-   "verseNo": 7,
-   "source": "islamoglu",
-   "text": "Yoksa o, kimsenin kendisini görmediğini mi zannediyor?"
-  },
-  {
-   "verseNo": 7,
-   "source": "esed",
-   "text": "Peki, kimsenin kendisini görmediğini mi sanıyor"
-  },
-  {
-   "verseNo": 7,
-   "source": "okuyan",
-   "text": "Kimsenin kendisini görmediğini mi sanıyor!"
-  },
-  {
-   "verseNo": 8,
-   "source": "diyanet",
-   "text": "Biz ona iki göz, bir dil, iki dudak vermedik mi; iki apaçık yolu (hayır ve şer yollarını) göstermedik mi?"
-  },
-  {
-   "verseNo": 8,
-   "source": "islamoglu",
-   "text": "Ona iki göz vermedik mi?"
-  },
-  {
-   "verseNo": 8,
-   "source": "esed",
-   "text": "Biz ona iki göz vermedik mi"
-  },
-  {
-   "verseNo": 8,
-   "source": "okuyan",
-   "text": "8,9. Biz ona iki göz, bir dil ve iki dudak vermedik mi?"
-  },
-  {
-   "verseNo": 9,
-   "source": "diyanet",
-   "text": "Biz ona iki göz, bir dil, iki dudak vermedik mi; iki apaçık yolu (hayır ve şer yollarını) göstermedik mi?"
-  },
-  {
-   "verseNo": 9,
-   "source": "islamoglu",
-   "text": "Dahası bir dil ve bir çift dudak?"
-  },
-  {
-   "verseNo": 9,
-   "source": "esed",
-   "text": "Bir dil ve bir çift dudak"
-  },
-  {
-   "verseNo": 9,
-   "source": "okuyan",
-   "text": "8,9. Biz ona iki göz, bir dil ve iki dudak vermedik mi?"
-  },
-  {
-   "verseNo": 10,
-   "source": "diyanet",
-   "text": "Biz ona iki göz, bir dil, iki dudak vermedik mi; iki apaçık yolu (hayır ve şer yollarını) göstermedik mi?"
-  },
-  {
-   "verseNo": 10,
-   "source": "islamoglu",
-   "text": "Ve ona (iyilik ve kötülüğün) açık seçik iki yolunu da göstermedik mi?"
-  },
-  {
-   "verseNo": 10,
-   "source": "esed",
-   "text": "ve ona (kötülüğün ve iyiliğin) iki yolunu da göstermedik mi"
-  },
-  {
-   "verseNo": 10,
-   "source": "okuyan",
-   "text": "Ona iki yolu da gösterdik."
-  },
-  {
-   "verseNo": 11,
-   "source": "diyanet",
-   "text": "Fakat o, sarp yokuşa atılmadı."
-  },
-  {
-   "verseNo": 11,
-   "source": "islamoglu",
-   "text": "Fakat o, (ucunda cennet olan) sarp yokuşu tırmanmak için hiçbir bedel ödemedi."
-  },
-  {
-   "verseNo": 11,
-   "source": "esed",
-   "text": "Ama o, sarp yokuşa tırmanmayı denemedi"
-  },
-  {
-   "verseNo": 11,
-   "source": "okuyan",
-   "text": "(Fakat) o, sarp yokuşu (aşmayı) göze almadı."
-  },
-  {
-   "verseNo": 12,
-   "source": "diyanet",
-   "text": "Sarp yokuşun ne olduğunu sen ne bileceksin?"
-  },
-  {
-   "verseNo": 12,
-   "source": "islamoglu",
-   "text": "Bilir misin nedir o sarp yokuş?"
-  },
-  {
-   "verseNo": 12,
-   "source": "esed",
-   "text": "Bilir misin nedir o sarp yokuş"
-  },
-  {
-   "verseNo": 12,
-   "source": "okuyan",
-   "text": "O ‘sarp yokuş’un ne olduğunu sana bildiren ne olabilir ki!"
-  },
-  {
-   "verseNo": 13,
-   "source": "diyanet",
-   "text": "O tutsak bir boynu çözmek(köle azat etmek) tir."
-  },
-  {
-   "verseNo": 13,
-   "source": "islamoglu",
-   "text": "Bir kişiyi daha zincirlerinden kurtarmaktır;"
-  },
-  {
-   "verseNo": 13,
-   "source": "esed",
-   "text": "(O,) boynunu (günah zincirinden) kurtarmaktır"
-  },
-  {
-   "verseNo": 13,
-   "source": "okuyan",
-   "text": "(Sarp yokuş); köleyi özgürlüğüne kavuşturmaktur."
-  },
-  {
-   "verseNo": 14,
-   "source": "diyanet",
-   "text": "Yahut şiddetli bir açlık gününde kendisiyle yakınlığı olan bir yetimi, yahut yerde sürünen bir yoksulu doyurmaktır."
-  },
-  {
-   "verseNo": 14,
-   "source": "islamoglu",
-   "text": "veya açlık gününde (yoksulu) doyurmaktır;"
-  },
-  {
-   "verseNo": 14,
-   "source": "esed",
-   "text": "yahut (kendi) aç iken (başkasını) doyurmaktır"
-  },
-  {
-   "verseNo": 14,
-   "source": "okuyan",
-   "text": "14,15,16. Veya açlık gün(ün)de yakın(ı) olan bir yetimi veya (karnı) toprağa yapışmış (hiçbir şeyi olmayan) yoksulu doyurmaktır."
-  },
-  {
-   "verseNo": 15,
-   "source": "diyanet",
-   "text": "Yahut şiddetli bir açlık gününde kendisiyle yakınlığı olan bir yetimi, yahut yerde sürünen bir yoksulu doyurmaktır."
-  },
-  {
-   "verseNo": 15,
-   "source": "islamoglu",
-   "text": "(mesela) yakını olan bir yetimi,"
-  },
-  {
-   "verseNo": 15,
-   "source": "esed",
-   "text": "yakını olan bir yetimi"
-  },
-  {
-   "verseNo": 15,
-   "source": "okuyan",
-   "text": "14,15,16. Veya açlık gün(ün)de yakın(ı) olan bir yetimi veya (karnı) toprağa yapışmış (hiçbir şeyi olmayan) yoksulu doyurmaktır."
-  },
-  {
-   "verseNo": 16,
-   "source": "diyanet",
-   "text": "Yahut şiddetli bir açlık gününde kendisiyle yakınlığı olan bir yetimi, yahut yerde sürünen bir yoksulu doyurmaktır."
-  },
-  {
-   "verseNo": 16,
-   "source": "islamoglu",
-   "text": "ya da evsiz barksız, yurtsuz yuvasız bir düşkünü…"
-  },
-  {
-   "verseNo": 16,
-   "source": "esed",
-   "text": "yahut toprağa uzanıp kalmış olan (yabancı) bir yoksulu"
-  },
-  {
-   "verseNo": 16,
-   "source": "okuyan",
-   "text": "14,15,16. Veya açlık gün(ün)de yakın(ı) olan bir yetimi veya (karnı) toprağa yapışmış (hiçbir şeyi olmayan) yoksulu doyurmaktır."
-  },
-  {
-   "verseNo": 17,
-   "source": "diyanet",
-   "text": "Sonra da iman edenlerden olup birbirine sabrı tavsiye edenlerden, birbirine merhameti tavsiye edenlerden olanlar var ya, işte onlar Ahiret mutluluğuna erenlerdir."
-  },
-  {
-   "verseNo": 17,
-   "source": "islamoglu",
-   "text": "Daha sonra iman edenlerden olmak ve birbirine hakkı ve merhameti tavsiye etmektir."
-  },
-  {
-   "verseNo": 17,
-   "source": "esed",
-   "text": "ve imana ermişlerden ve birbirine sabrı ve merhameti tavsiye edenlerden olmaktır"
-  },
-  {
-   "verseNo": 17,
-   "source": "okuyan",
-   "text": "Sonra da iman edenlerden, birbirlerine sabrı tavsiye edenlerden ve merhameti tavsiye edenlerden olmaktır."
-  },
-  {
-   "verseNo": 18,
-   "source": "diyanet",
-   "text": "Sonra da iman edenlerden olup birbirine sabrı tavsiye edenlerden, birbirine merhameti tavsiye edenlerden olanlar var ya, işte onlar Ahiret mutluluğuna erenlerdir."
-  },
-  {
-   "verseNo": 18,
-   "source": "islamoglu",
-   "text": "İşte bunlardır bahtiyar kesime dahil olanlar;"
-  },
-  {
-   "verseNo": 18,
-   "source": "esed",
-   "text": "İşte böyleleri dürüstlüğe ve erdemliliğe erişmiş olanlardır"
-  },
-  {
-   "verseNo": 18,
-   "source": "okuyan",
-   "text": "İşte onlar sağın halkıdır."
-  },
-  {
-   "verseNo": 19,
-   "source": "diyanet",
-   "text": "Âyetlerimizi inkar edenler ise; kötülüğe batmış kimselerdir."
-  },
-  {
-   "verseNo": 19,
-   "source": "islamoglu",
-   "text": "âyetlerimizi inkârda ısrar edenler ise bedbaht kesime dahil olanlardır;"
-  },
-  {
-   "verseNo": 19,
-   "source": "esed",
-   "text": "Bizim mesajlarımızın doğruluğunu inkara şartlanmış olanlar ise kötülüğe batmış kimselerdir"
-  },
-  {
-   "verseNo": 19,
-   "source": "okuyan",
-   "text": "Ayetlerimizi inkâr edenler ise işte onlar solun halkıdır."
-  },
-  {
-   "verseNo": 20,
-   "source": "diyanet",
-   "text": "Üzerlerinde etrafı sımsıkı kapatılmış bir ateş vardır."
-  },
-  {
-   "verseNo": 20,
-   "source": "islamoglu",
-   "text": "tarifsiz bir ateş onların üzerine güdümlenmiştir."
-  },
-  {
-   "verseNo": 20,
-   "source": "esed",
-   "text": "üzerlerine salınmış ateş (ile)"
-  },
-  {
-   "verseNo": 20,
-   "source": "okuyan",
-   "text": "Onlar(ın cezası, kapıları) üzerlerine kilitlenmiş ateştir."
-  },
-  {
-   "verseNo": 1,
-   "verseNoEnd": null,
-   "source": "ai",
-   "text": "Bu şehre yemin ederim."
-  },
-  {
-   "verseNo": 2,
-   "verseNoEnd": null,
-   "source": "ai",
-   "text": "Ve sen bu şehirde güvendesin."
-  },
-  {
-   "verseNo": 3,
-   "verseNoEnd": null,
-   "source": "ai",
-   "text": "Ve bir baba ve onun çocuğu."
-  },
-  {
-   "verseNo": 4,
-   "verseNoEnd": null,
-   "source": "ai",
-   "text": "Biz insanı zorluk içinde yarattık."
-  },
-  {
-   "verseNo": 5,
-   "verseNoEnd": null,
-   "source": "ai",
-   "text": "Kendisi üzerinde hiç kimsenin gücü olmadığını mı sanıyor?"
-  },
-  {
-   "verseNo": 6,
-   "verseNoEnd": null,
-   "source": "ai",
-   "text": "Diyor ki: 'Büyük bir serveti tüketip bitirdim.'"
-  },
-  {
-   "verseNo": 7,
-   "verseNoEnd": null,
-   "source": "ai",
-   "text": "Hiç kimsenin onu görmediğini mi zannediyor?"
-  },
-  {
-   "verseNo": 8,
-   "verseNoEnd": null,
-   "source": "ai",
-   "text": "Biz ona iki göz vermedik mi?"
-  },
-  {
-   "verseNo": 9,
-   "verseNoEnd": null,
-   "source": "ai",
-   "text": "Ve bir dil ve iki dudak."
-  },
-  {
-   "verseNo": 10,
-   "verseNoEnd": null,
-   "source": "ai",
-   "text": "Ve ona iki yolu gösterdik."
-  },
-  {
-   "verseNo": 11,
-   "verseNoEnd": null,
-   "source": "ai",
-   "text": "Sonra o sarp yokuşu aşmadı."
-  },
-  {
-   "verseNo": 12,
-   "verseNoEnd": null,
-   "source": "ai",
-   "text": "Peki, o sarp yokuşun ne olduğunu sen ne bilirsin?"
-  },
-  {
-   "verseNo": 13,
-   "verseNoEnd": null,
-   "source": "ai",
-   "text": "Bir kölenin azad edilmesi."
-  },
-  {
-   "verseNo": 14,
-   "verseNoEnd": null,
-   "source": "ai",
-   "text": "Veya sıkıntılı bir günde yiyecek verilmesi."
-  },
-  {
-   "verseNo": 15,
-   "verseNoEnd": null,
-   "source": "ai",
-   "text": "Yakın bir yetime."
-  },
-  {
-   "verseNo": 16,
-   "verseNoEnd": null,
-   "source": "ai",
-   "text": "Veya sıkıntı içinde bulunan bir yoksula."
-  },
-  {
-   "verseNo": 17,
-   "verseNoEnd": null,
-   "source": "ai",
-   "text": "Sonra onlar iman edenlerden oldu; sabırda birbirlerine tavsiye ettiler ve merhamette birbirlerine tavsiye ettiler."
-  },
-  {
-   "verseNo": 18,
-   "verseNoEnd": null,
-   "source": "ai",
-   "text": "İşte onlar sağdakilerdir."
-  },
-  {
-   "verseNo": 19,
-   "verseNoEnd": null,
-   "source": "ai",
-   "text": "Ayetlerimizi inkâr edenler ise soldakilerdir."
-  },
-  {
-   "verseNo": 20,
-   "verseNoEnd": null,
-   "source": "ai",
-   "text": "Üzerlerine kapanmış bir ateş vardır."
-  }
- ],
- "aiParagraph": "Yorgunluk insanın özüne işlenmiş bir şey — metin tam olarak bunu söylüyor, insan \"zorluk içinde\" yaratıldı diyor, bundan kaçış yok. Ama asıl soru şu: İnsan bu gerçeği fark edince ne yapıyor? Kimi, harcadığı parayı, döktüğü emeği, verdiği mücadeleyi herkese duyuruyor; \"kimse beni yenemez\" havasına giriyor, sanki bu dünyada hesap sormaya gelecek kimse yokmuş gibi. Oysa metin ona şunu hatırlatıyor: Gözlerin, dilin, dudakların sana verildi — ve iki yol gösterildi sana. Ama o sarp yokuşu göze alamadın. Yokuş nedir peki? Bir insanı kölelikten kurtarmak, açlığın kıyısındaki bir çocuğu ya da yere serilmiş birini doyurmak — tam da kimsenin görmediği, alkışın olmadığı an. Metin burada duruyor ve soruyor: Sahip olduklarını herkese kanıtlamak için harcadığın o enerjiyi, hiçbir karşılık beklemeden başka bir insan için harcasaydın ne olurdu? Sabır ve merhameti birbirine tavsiye eden insanlarla mı olurdun, yoksa kendi ışığını söndürenlerden mi — bu sorunun cevabı hâlâ açık."
+  "stationNo": 11,
+  "surahNo": 90,
+  "nuzulOrderOkuyan": 37,
+  "name": "Beled",
+  "nameArabic": "البلد",
+  "nameMeaning": "Şehir, belde",
+  "verseCount": 20,
+  "periodDiyanet": "Mekke",
+  "periodOkuyan": "Mekke",
+  "revelationTiming": "Mekke dönemi",
+  "stationTitle": "İnsan zorluk içinde yaratıldı; kolay olan yolu değil, sarp yokuşu seçmesi beklenir.",
+  "introduction": "Beled suresi, adını birinci ayetteki şehre edilen yeminden alır; \"beled\" şehir, belde demektir ve Mekke'ye işaret ettiği kabul edilir. Yirmi ayetlik sure Mekke döneminde inmiştir.\n\nSurenin merkezinde \"akabe\" kavramı vardır: sarp yokuş, aşılması zor geçit. Sure bu yokuşun ne olduğunu kendisi tanımlar — köle azat etmek, açı doyurmak, yetime ve düşkün yoksula yönelmek. Böylece soyut bir erdem çağrısı yerine somut bir eylem listesi verilir.",
+  "occasionOfRevelation": "Sure Mekke döneminde, kölelik kurumunun ve şiddetli ekonomik eşitsizliğin olağan sayıldığı bir toplumda inmiştir. Mekke aristokrasisi servetini gösteriş amaçlı harcamalarla sergiliyordu; sure altıncı ayette bu tipi anar: \"Ben yığın yığın mal harcadım.\"\n\nSurenin en dikkat çekici yanı, on üçüncü ayetten itibaren \"akabe\"nin içeriğini doldurmasıdır. Aşılması gereken sarp yokuş bir ibadet biçimi ya da bir inanç formülü değildir; boyun kurtarmak (köle azat etmek), açlık gününde yoksulu doyurmak, akraba yetime ve yere serilmiş düşküne yönelmektir.\n\nKaynaklar, birinci ve ikinci ayetteki yeminin Mekke'ye edildiğini, üçüncü ayetteki \"doğuran ve doğan\" ifadesinin ise Hz. İbrahim ile Hz. İsmail'e yahut genel olarak insan soyuna işaret ettiğini kaydeder. Bu ikinci yorum tefsir tercihidir.",
+  "occasionSources": "Diyanet İşleri Başkanlığı Kur'an Yolu Tefsiri, Beled suresi girişi; TDV İslâm Ansiklopedisi, \"Beled Sûresi\" maddesi.",
+  "contemporaryMeaning": "Surenin dördüncü ayeti insanı tanımlar: \"zorluk içinde\" yaratıldı. Bu, hayatın kolaylaşmasını beklemenin yanlış bir beklenti olduğunu söyler. Zorluk bir arıza değil, insan durumunun kendisidir.\n\nBuna verilen cevap ise ilginçtir: zorluktan kaçmak değil, doğru zorluğu seçmek. Sure \"akabe\" — sarp yokuş — imgesiyle bunu anlatır. Sonra da yokuşun somut adını verir: başkasının yükünü hafifletmek.\n\nBugünün diliyle: konforlu bir hayat kurmak mümkün, ama sure o hayatın \"kolay yol\" olduğunu ve asıl sınavın atlanmış olduğunu söyler. Gösterişli harcama (90:6) ile açı doyurmak (90:14) arasındaki fark, miktar farkı değil yön farkıdır.",
+  "keyTerms": [
+    {
+      "term": "beled",
+      "arabic": "الْبَلَد",
+      "verseRef": "90:1",
+      "meaning": "Şehir, belde. Tefsirlerde Mekke'ye işaret ettiği kabul edilir."
+    },
+    {
+      "term": "kebed",
+      "arabic": "كَبَدٍ",
+      "verseRef": "90:4",
+      "meaning": "Zorluk, sıkıntı, meşakkat. İnsanın yaratılış durumunu tanımlayan kelime; kökü ciğer ve derinlik anlamı taşır."
+    },
+    {
+      "term": "el-akabe",
+      "arabic": "الْعَقَبَة",
+      "verseRef": "90:11",
+      "meaning": "Sarp yokuş, aşılması zor geçit. Sure bu yokuşun içeriğini köle azadı, açı doyurmak ve yetime yönelmek olarak tanımlar."
+    },
+    {
+      "term": "fekku rakabe",
+      "arabic": "فَكُّ رَقَبَةٍ",
+      "verseRef": "90:13",
+      "meaning": "Bir boynu çözmek, köle azat etmek. Yokuşun ilk maddesi."
+    }
+  ],
+  "themes": [
+    {
+      "label": "Zorluk, arıza değil insan durumudur",
+      "body": "\"İnsanı zorluk içinde yarattık.\" Sure hayatın kolaylaşmasını bir hedef olarak sunmaz; zorluğun kaçınılmazlığını kabul ederek başlar."
+    },
+    {
+      "label": "Doğru zorluğu seçmek",
+      "body": "Cevap zorluktan kaçmak değil, aşılmaya değer yokuşu seçmektir. Metin buna \"akabe\" der ve içeriğini kendisi doldurur."
+    },
+    {
+      "label": "Yokuşun somut adı",
+      "body": "Köle azat etmek, açlık gününde yoksulu doyurmak, akraba yetime ve yere serilmiş düşküne yönelmek. Erdem soyut kalmaz, eylem listesine dönüşür."
+    },
+    {
+      "label": "Gösterişli harcama ile hakiki verme farkı",
+      "body": "\"Yığın yığın mal harcadım\" diyen tip ile açı doyuran tip karşı karşıya konur. Fark miktarda değil, harcamanın yönünde ve görünürlük ihtiyacındadır."
+    }
+  ],
+  "questions": [
+    "Hayatımdaki zorlukları bir arıza gibi mi karşılıyorum? Kaçındığım hangi zorluk aslında aşmam gereken yokuş?",
+    "Harcamalarımın ne kadarı görünmek için, ne kadarı birinin yükünü hafifletmek için?",
+    "Çevremde \"yere serilmiş\" durumda olan biri var mı? Ona yönelmemi engelleyen ne?"
+  ],
+  "verses": [
+    {
+      "verseNo": 1,
+      "textArabic": "بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ لَآ أُقْسِمُ بِهَٰذَا ٱلْبَلَدِ"
+    },
+    {
+      "verseNo": 2,
+      "textArabic": "وَأَنتَ حِلٌّۢ بِهَٰذَا ٱلْبَلَدِ"
+    },
+    {
+      "verseNo": 3,
+      "textArabic": "وَوَالِدٍۢ وَمَا وَلَدَ"
+    },
+    {
+      "verseNo": 4,
+      "textArabic": "لَقَدْ خَلَقْنَا ٱلْإِنسَٰنَ فِى كَبَدٍ"
+    },
+    {
+      "verseNo": 5,
+      "textArabic": "أَيَحْسَبُ أَن لَّن يَقْدِرَ عَلَيْهِ أَحَدٌۭ"
+    },
+    {
+      "verseNo": 6,
+      "textArabic": "يَقُولُ أَهْلَكْتُ مَالًۭا لُّبَدًا"
+    },
+    {
+      "verseNo": 7,
+      "textArabic": "أَيَحْسَبُ أَن لَّمْ يَرَهُۥٓ أَحَدٌ"
+    },
+    {
+      "verseNo": 8,
+      "textArabic": "أَلَمْ نَجْعَل لَّهُۥ عَيْنَيْنِ"
+    },
+    {
+      "verseNo": 9,
+      "textArabic": "وَلِسَانًۭا وَشَفَتَيْنِ"
+    },
+    {
+      "verseNo": 10,
+      "textArabic": "وَهَدَيْنَٰهُ ٱلنَّجْدَيْنِ"
+    },
+    {
+      "verseNo": 11,
+      "textArabic": "فَلَا ٱقْتَحَمَ ٱلْعَقَبَةَ"
+    },
+    {
+      "verseNo": 12,
+      "textArabic": "وَمَآ أَدْرَىٰكَ مَا ٱلْعَقَبَةُ"
+    },
+    {
+      "verseNo": 13,
+      "textArabic": "فَكُّ رَقَبَةٍ"
+    },
+    {
+      "verseNo": 14,
+      "textArabic": "أَوْ إِطْعَٰمٌۭ فِى يَوْمٍۢ ذِى مَسْغَبَةٍۢ"
+    },
+    {
+      "verseNo": 15,
+      "textArabic": "يَتِيمًۭا ذَا مَقْرَبَةٍ"
+    },
+    {
+      "verseNo": 16,
+      "textArabic": "أَوْ مِسْكِينًۭا ذَا مَتْرَبَةٍۢ"
+    },
+    {
+      "verseNo": 17,
+      "textArabic": "ثُمَّ كَانَ مِنَ ٱلَّذِينَ ءَامَنُوا۟ وَتَوَاصَوْا۟ بِٱلصَّبْرِ وَتَوَاصَوْا۟ بِٱلْمَرْحَمَةِ"
+    },
+    {
+      "verseNo": 18,
+      "textArabic": "أُو۟لَٰٓئِكَ أَصْحَٰبُ ٱلْمَيْمَنَةِ"
+    },
+    {
+      "verseNo": 19,
+      "textArabic": "وَٱلَّذِينَ كَفَرُوا۟ بِـَٔايَٰتِنَا هُمْ أَصْحَٰبُ ٱلْمَشْـَٔمَةِ"
+    },
+    {
+      "verseNo": 20,
+      "textArabic": "عَلَيْهِمْ نَارٌۭ مُّؤْصَدَةٌۢ"
+    }
+  ],
+  "translations": [
+    {
+      "verseNo": 1,
+      "source": "diyanet",
+      "text": "Sen bu beldedeyken bu beldeye (Mekke'ye), babaya ve ondan meydana gelen çocuğa yemin ederim ki biz insanı bir sıkıntı ve zorluk içinde (olacak ve bunlara göğüs gerecek şekilde) yarattık."
+    },
+    {
+      "verseNo": 1,
+      "source": "islamoglu",
+      "text": "ÖTESİ yok, işte Ben yemin ediyorum bu beldeye;"
+    },
+    {
+      "verseNo": 1,
+      "source": "esed",
+      "text": "Ben bu beldeyi tanıklığa çağırırım"
+    },
+    {
+      "verseNo": 1,
+      "source": "okuyan",
+      "text": "Hayır bu şehre (Mekke’ye) yemin ederim."
+    },
+    {
+      "verseNo": 2,
+      "source": "diyanet",
+      "text": "Sen bu beldedeyken bu beldeye (Mekke'ye), babaya ve ondan meydana gelen çocuğa yemin ederim ki biz insanı bir sıkıntı ve zorluk içinde (olacak ve bunlara göğüs gerecek şekilde) yarattık."
+    },
+    {
+      "verseNo": 2,
+      "source": "islamoglu",
+      "text": "senin her tür saldırıya açık olduğun bu beldeye;"
+    },
+    {
+      "verseNo": 2,
+      "source": "esed",
+      "text": "senin serbestçe yaşadığın bu beldeyi"
+    },
+    {
+      "verseNo": 2,
+      "source": "okuyan",
+      "text": "Ki sen bu şehirde oturmaktasın."
+    },
+    {
+      "verseNo": 3,
+      "source": "diyanet",
+      "text": "Sen bu beldedeyken bu beldeye (Mekke'ye), babaya ve ondan meydana gelen çocuğa yemin ederim ki biz insanı bir sıkıntı ve zorluk içinde (olacak ve bunlara göğüs gerecek şekilde) yarattık."
+    },
+    {
+      "verseNo": 3,
+      "source": "islamoglu",
+      "text": "ve babaya ve oğluna:"
+    },
+    {
+      "verseNo": 3,
+      "source": "esed",
+      "text": "ve (tanıklığa çağırırım) anne babayı ve çocukları"
+    },
+    {
+      "verseNo": 3,
+      "source": "okuyan",
+      "text": "Babaya ve çocuğa (da yemin ederim)."
+    },
+    {
+      "verseNo": 4,
+      "source": "diyanet",
+      "text": "Sen bu beldedeyken bu beldeye (Mekke'ye), babaya ve ondan meydana gelen çocuğa yemin ederim ki biz insanı bir sıkıntı ve zorluk içinde (olacak ve bunlara göğüs gerecek şekilde) yarattık."
+    },
+    {
+      "verseNo": 4,
+      "source": "islamoglu",
+      "text": "Hakikaten Biz insanoğlunu farklı meşakkatlere dayanıklı yarattık."
+    },
+    {
+      "verseNo": 4,
+      "source": "esed",
+      "text": "Gerçek şu ki, Biz insanı acı, sıkıntı ve imtihan (ile yüklü bir hayat)a gönderdik"
+    },
+    {
+      "verseNo": 4,
+      "source": "okuyan",
+      "text": "Şüphesiz ki biz insanı zorluklar konusunda (dayanıklı) yarattık."
+    },
+    {
+      "verseNo": 5,
+      "source": "diyanet",
+      "text": "İnsanoğlu, kendisine kimsenin güç yetiremeyeceğini mi sanıyor?"
+    },
+    {
+      "verseNo": 5,
+      "source": "islamoglu",
+      "text": "Ne yani, şimdi insan kimsenin kendisine güç yetiremeyeceğini mi sanıyor?"
+    },
+    {
+      "verseNo": 5,
+      "source": "esed",
+      "text": "İnsan, kimsenin kendi üzerinde güç sahibi olmadığını mı zannediyor"
+    },
+    {
+      "verseNo": 5,
+      "source": "okuyan",
+      "text": "(O insan) kimsenin kendisine güç yetiremeyeceğini mi sanıyor?"
+    },
+    {
+      "verseNo": 6,
+      "source": "diyanet",
+      "text": "\"Yığınla mal harcadım\" diyor."
+    },
+    {
+      "verseNo": 6,
+      "source": "islamoglu",
+      "text": "(Dahası) “Ben (bu konuma gelmek için) kucak dolusu servet harcadım” mı diyor?"
+    },
+    {
+      "verseNo": 6,
+      "source": "esed",
+      "text": "Övünüp duruyor: \"Ben, yığınla servet tükettim"
+    },
+    {
+      "verseNo": 6,
+      "source": "okuyan",
+      "text": "(Övünerek) “Pek çok mal harcadım.” diyor."
+    },
+    {
+      "verseNo": 7,
+      "source": "diyanet",
+      "text": "Kendisini kimsenin görmediğini mi sanıyor?"
+    },
+    {
+      "verseNo": 7,
+      "source": "islamoglu",
+      "text": "Yoksa o, kimsenin kendisini görmediğini mi zannediyor?"
+    },
+    {
+      "verseNo": 7,
+      "source": "esed",
+      "text": "Peki, kimsenin kendisini görmediğini mi sanıyor"
+    },
+    {
+      "verseNo": 7,
+      "source": "okuyan",
+      "text": "Kimsenin kendisini görmediğini mi sanıyor!"
+    },
+    {
+      "verseNo": 8,
+      "source": "diyanet",
+      "text": "Biz ona iki göz, bir dil, iki dudak vermedik mi; iki apaçık yolu (hayır ve şer yollarını) göstermedik mi?"
+    },
+    {
+      "verseNo": 8,
+      "source": "islamoglu",
+      "text": "Ona iki göz vermedik mi?"
+    },
+    {
+      "verseNo": 8,
+      "source": "esed",
+      "text": "Biz ona iki göz vermedik mi"
+    },
+    {
+      "verseNo": 8,
+      "source": "okuyan",
+      "text": "8,9. Biz ona iki göz, bir dil ve iki dudak vermedik mi?"
+    },
+    {
+      "verseNo": 9,
+      "source": "diyanet",
+      "text": "Biz ona iki göz, bir dil, iki dudak vermedik mi; iki apaçık yolu (hayır ve şer yollarını) göstermedik mi?"
+    },
+    {
+      "verseNo": 9,
+      "source": "islamoglu",
+      "text": "Dahası bir dil ve bir çift dudak?"
+    },
+    {
+      "verseNo": 9,
+      "source": "esed",
+      "text": "Bir dil ve bir çift dudak"
+    },
+    {
+      "verseNo": 9,
+      "source": "okuyan",
+      "text": "8,9. Biz ona iki göz, bir dil ve iki dudak vermedik mi?"
+    },
+    {
+      "verseNo": 10,
+      "source": "diyanet",
+      "text": "Biz ona iki göz, bir dil, iki dudak vermedik mi; iki apaçık yolu (hayır ve şer yollarını) göstermedik mi?"
+    },
+    {
+      "verseNo": 10,
+      "source": "islamoglu",
+      "text": "Ve ona (iyilik ve kötülüğün) açık seçik iki yolunu da göstermedik mi?"
+    },
+    {
+      "verseNo": 10,
+      "source": "esed",
+      "text": "ve ona (kötülüğün ve iyiliğin) iki yolunu da göstermedik mi"
+    },
+    {
+      "verseNo": 10,
+      "source": "okuyan",
+      "text": "Ona iki yolu da gösterdik."
+    },
+    {
+      "verseNo": 11,
+      "source": "diyanet",
+      "text": "Fakat o, sarp yokuşa atılmadı."
+    },
+    {
+      "verseNo": 11,
+      "source": "islamoglu",
+      "text": "Fakat o, (ucunda cennet olan) sarp yokuşu tırmanmak için hiçbir bedel ödemedi."
+    },
+    {
+      "verseNo": 11,
+      "source": "esed",
+      "text": "Ama o, sarp yokuşa tırmanmayı denemedi"
+    },
+    {
+      "verseNo": 11,
+      "source": "okuyan",
+      "text": "(Fakat) o, sarp yokuşu (aşmayı) göze almadı."
+    },
+    {
+      "verseNo": 12,
+      "source": "diyanet",
+      "text": "Sarp yokuşun ne olduğunu sen ne bileceksin?"
+    },
+    {
+      "verseNo": 12,
+      "source": "islamoglu",
+      "text": "Bilir misin nedir o sarp yokuş?"
+    },
+    {
+      "verseNo": 12,
+      "source": "esed",
+      "text": "Bilir misin nedir o sarp yokuş"
+    },
+    {
+      "verseNo": 12,
+      "source": "okuyan",
+      "text": "O ‘sarp yokuş’un ne olduğunu sana bildiren ne olabilir ki!"
+    },
+    {
+      "verseNo": 13,
+      "source": "diyanet",
+      "text": "O tutsak bir boynu çözmek(köle azat etmek) tir."
+    },
+    {
+      "verseNo": 13,
+      "source": "islamoglu",
+      "text": "Bir kişiyi daha zincirlerinden kurtarmaktır;"
+    },
+    {
+      "verseNo": 13,
+      "source": "esed",
+      "text": "(O,) boynunu (günah zincirinden) kurtarmaktır"
+    },
+    {
+      "verseNo": 13,
+      "source": "okuyan",
+      "text": "(Sarp yokuş); köleyi özgürlüğüne kavuşturmaktur."
+    },
+    {
+      "verseNo": 14,
+      "source": "diyanet",
+      "text": "Yahut şiddetli bir açlık gününde kendisiyle yakınlığı olan bir yetimi, yahut yerde sürünen bir yoksulu doyurmaktır."
+    },
+    {
+      "verseNo": 14,
+      "source": "islamoglu",
+      "text": "veya açlık gününde (yoksulu) doyurmaktır;"
+    },
+    {
+      "verseNo": 14,
+      "source": "esed",
+      "text": "yahut (kendi) aç iken (başkasını) doyurmaktır"
+    },
+    {
+      "verseNo": 14,
+      "source": "okuyan",
+      "text": "14,15,16. Veya açlık gün(ün)de yakın(ı) olan bir yetimi veya (karnı) toprağa yapışmış (hiçbir şeyi olmayan) yoksulu doyurmaktır."
+    },
+    {
+      "verseNo": 15,
+      "source": "diyanet",
+      "text": "Yahut şiddetli bir açlık gününde kendisiyle yakınlığı olan bir yetimi, yahut yerde sürünen bir yoksulu doyurmaktır."
+    },
+    {
+      "verseNo": 15,
+      "source": "islamoglu",
+      "text": "(mesela) yakını olan bir yetimi,"
+    },
+    {
+      "verseNo": 15,
+      "source": "esed",
+      "text": "yakını olan bir yetimi"
+    },
+    {
+      "verseNo": 15,
+      "source": "okuyan",
+      "text": "14,15,16. Veya açlık gün(ün)de yakın(ı) olan bir yetimi veya (karnı) toprağa yapışmış (hiçbir şeyi olmayan) yoksulu doyurmaktır."
+    },
+    {
+      "verseNo": 16,
+      "source": "diyanet",
+      "text": "Yahut şiddetli bir açlık gününde kendisiyle yakınlığı olan bir yetimi, yahut yerde sürünen bir yoksulu doyurmaktır."
+    },
+    {
+      "verseNo": 16,
+      "source": "islamoglu",
+      "text": "ya da evsiz barksız, yurtsuz yuvasız bir düşkünü…"
+    },
+    {
+      "verseNo": 16,
+      "source": "esed",
+      "text": "yahut toprağa uzanıp kalmış olan (yabancı) bir yoksulu"
+    },
+    {
+      "verseNo": 16,
+      "source": "okuyan",
+      "text": "14,15,16. Veya açlık gün(ün)de yakın(ı) olan bir yetimi veya (karnı) toprağa yapışmış (hiçbir şeyi olmayan) yoksulu doyurmaktır."
+    },
+    {
+      "verseNo": 17,
+      "source": "diyanet",
+      "text": "Sonra da iman edenlerden olup birbirine sabrı tavsiye edenlerden, birbirine merhameti tavsiye edenlerden olanlar var ya, işte onlar Ahiret mutluluğuna erenlerdir."
+    },
+    {
+      "verseNo": 17,
+      "source": "islamoglu",
+      "text": "Daha sonra iman edenlerden olmak ve birbirine hakkı ve merhameti tavsiye etmektir."
+    },
+    {
+      "verseNo": 17,
+      "source": "esed",
+      "text": "ve imana ermişlerden ve birbirine sabrı ve merhameti tavsiye edenlerden olmaktır"
+    },
+    {
+      "verseNo": 17,
+      "source": "okuyan",
+      "text": "Sonra da iman edenlerden, birbirlerine sabrı tavsiye edenlerden ve merhameti tavsiye edenlerden olmaktır."
+    },
+    {
+      "verseNo": 18,
+      "source": "diyanet",
+      "text": "Sonra da iman edenlerden olup birbirine sabrı tavsiye edenlerden, birbirine merhameti tavsiye edenlerden olanlar var ya, işte onlar Ahiret mutluluğuna erenlerdir."
+    },
+    {
+      "verseNo": 18,
+      "source": "islamoglu",
+      "text": "İşte bunlardır bahtiyar kesime dahil olanlar;"
+    },
+    {
+      "verseNo": 18,
+      "source": "esed",
+      "text": "İşte böyleleri dürüstlüğe ve erdemliliğe erişmiş olanlardır"
+    },
+    {
+      "verseNo": 18,
+      "source": "okuyan",
+      "text": "İşte onlar sağın halkıdır."
+    },
+    {
+      "verseNo": 19,
+      "source": "diyanet",
+      "text": "Âyetlerimizi inkar edenler ise; kötülüğe batmış kimselerdir."
+    },
+    {
+      "verseNo": 19,
+      "source": "islamoglu",
+      "text": "âyetlerimizi inkârda ısrar edenler ise bedbaht kesime dahil olanlardır;"
+    },
+    {
+      "verseNo": 19,
+      "source": "esed",
+      "text": "Bizim mesajlarımızın doğruluğunu inkara şartlanmış olanlar ise kötülüğe batmış kimselerdir"
+    },
+    {
+      "verseNo": 19,
+      "source": "okuyan",
+      "text": "Ayetlerimizi inkâr edenler ise işte onlar solun halkıdır."
+    },
+    {
+      "verseNo": 20,
+      "source": "diyanet",
+      "text": "Üzerlerinde etrafı sımsıkı kapatılmış bir ateş vardır."
+    },
+    {
+      "verseNo": 20,
+      "source": "islamoglu",
+      "text": "tarifsiz bir ateş onların üzerine güdümlenmiştir."
+    },
+    {
+      "verseNo": 20,
+      "source": "esed",
+      "text": "üzerlerine salınmış ateş (ile)"
+    },
+    {
+      "verseNo": 20,
+      "source": "okuyan",
+      "text": "Onlar(ın cezası, kapıları) üzerlerine kilitlenmiş ateştir."
+    },
+    {
+      "verseNo": 1,
+      "verseNoEnd": null,
+      "source": "ai",
+      "text": "Bu şehre yemin ederim."
+    },
+    {
+      "verseNo": 2,
+      "verseNoEnd": null,
+      "source": "ai",
+      "text": "Ve sen bu şehirde güvendesin."
+    },
+    {
+      "verseNo": 3,
+      "verseNoEnd": null,
+      "source": "ai",
+      "text": "Ve bir baba ve onun çocuğu."
+    },
+    {
+      "verseNo": 4,
+      "verseNoEnd": null,
+      "source": "ai",
+      "text": "Biz insanı zorluk içinde yarattık."
+    },
+    {
+      "verseNo": 5,
+      "verseNoEnd": null,
+      "source": "ai",
+      "text": "Kendisi üzerinde hiç kimsenin gücü olmadığını mı sanıyor?"
+    },
+    {
+      "verseNo": 6,
+      "verseNoEnd": null,
+      "source": "ai",
+      "text": "Diyor ki: 'Büyük bir serveti tüketip bitirdim.'"
+    },
+    {
+      "verseNo": 7,
+      "verseNoEnd": null,
+      "source": "ai",
+      "text": "Hiç kimsenin onu görmediğini mi zannediyor?"
+    },
+    {
+      "verseNo": 8,
+      "verseNoEnd": null,
+      "source": "ai",
+      "text": "Biz ona iki göz vermedik mi?"
+    },
+    {
+      "verseNo": 9,
+      "verseNoEnd": null,
+      "source": "ai",
+      "text": "Ve bir dil ve iki dudak."
+    },
+    {
+      "verseNo": 10,
+      "verseNoEnd": null,
+      "source": "ai",
+      "text": "Ve ona iki yolu gösterdik."
+    },
+    {
+      "verseNo": 11,
+      "verseNoEnd": null,
+      "source": "ai",
+      "text": "Sonra o sarp yokuşu aşmadı."
+    },
+    {
+      "verseNo": 12,
+      "verseNoEnd": null,
+      "source": "ai",
+      "text": "Peki, o sarp yokuşun ne olduğunu sen ne bilirsin?"
+    },
+    {
+      "verseNo": 13,
+      "verseNoEnd": null,
+      "source": "ai",
+      "text": "Bir kölenin azad edilmesi."
+    },
+    {
+      "verseNo": 14,
+      "verseNoEnd": null,
+      "source": "ai",
+      "text": "Veya sıkıntılı bir günde yiyecek verilmesi."
+    },
+    {
+      "verseNo": 15,
+      "verseNoEnd": null,
+      "source": "ai",
+      "text": "Yakın bir yetime."
+    },
+    {
+      "verseNo": 16,
+      "verseNoEnd": null,
+      "source": "ai",
+      "text": "Veya sıkıntı içinde bulunan bir yoksula."
+    },
+    {
+      "verseNo": 17,
+      "verseNoEnd": null,
+      "source": "ai",
+      "text": "Sonra onlar iman edenlerden oldu; sabırda birbirlerine tavsiye ettiler ve merhamette birbirlerine tavsiye ettiler."
+    },
+    {
+      "verseNo": 18,
+      "verseNoEnd": null,
+      "source": "ai",
+      "text": "İşte onlar sağdakilerdir."
+    },
+    {
+      "verseNo": 19,
+      "verseNoEnd": null,
+      "source": "ai",
+      "text": "Ayetlerimizi inkâr edenler ise soldakilerdir."
+    },
+    {
+      "verseNo": 20,
+      "verseNoEnd": null,
+      "source": "ai",
+      "text": "Üzerlerine kapanmış bir ateş vardır."
+    }
+  ],
+  "aiParagraph": "Yorgunluk insanın özüne işlenmiş bir şey — metin tam olarak bunu söylüyor, insan \"zorluk içinde\" yaratıldı diyor, bundan kaçış yok. Ama asıl soru şu: İnsan bu gerçeği fark edince ne yapıyor? Kimi, harcadığı parayı, döktüğü emeği, verdiği mücadeleyi herkese duyuruyor; \"kimse beni yenemez\" havasına giriyor, sanki bu dünyada hesap sormaya gelecek kimse yokmuş gibi. Oysa metin ona şunu hatırlatıyor: Gözlerin, dilin, dudakların sana verildi — ve iki yol gösterildi sana. Ama o sarp yokuşu göze alamadın. Yokuş nedir peki? Bir insanı kölelikten kurtarmak, açlığın kıyısındaki bir çocuğu ya da yere serilmiş birini doyurmak — tam da kimsenin görmediği, alkışın olmadığı an. Metin burada duruyor ve soruyor: Sahip olduklarını herkese kanıtlamak için harcadığın o enerjiyi, hiçbir karşılık beklemeden başka bir insan için harcasaydın ne olurdu? Sabır ve merhameti birbirine tavsiye eden insanlarla mı olurdun, yoksa kendi ışığını söndürenlerden mi — bu sorunun cevabı hâlâ açık.",
+  "audienceContext": "Bu sure, Mekke'nin ticaret aristokrasisine, kölelerine ve o toplumun görünmez yoksullarına aynı anda sesleniyordu. Mekke, döneminin bölgesel ticaret merkezi olarak işlev görüyordu; kervan yollarının kesiştiği bu şehirde servet birikiyor, statü belirginleşiyordu. Surenin ilk muhatapları, güçlü oldukları için hesap sorulmaz olduklarına inanan kimselerdi. Sure onlara şehrin kendi adıyla yemin ederek başlıyor; yani muhatabın değer verdiği o mekânı, o şehri, konuşmanın taşıyıcısı yapıyor. Bu ortaya açık bir ortak zemin koyuyordu: Mekke'nin kutsallığını, şehrin hafızasını, orada akan nesilleri — bunları zaten herkes kabul ediyordu.\n\nSurenin ilk muhatabının direncinin nereden geldiğini anlamak için altıncı ayete bakmak yeterli: \"Yığın yığın mal harcadım.\" Bu, harcamanın kendisi değil, harcamayla kurulan güç iddiasıdır. Mekke'nin ileri gelenleri serveti gösteriş aracı olarak kullanıyordu. Servet, yalnızca zenginlik değil, kimseden hesap sorulmama kalkanıydı. Surenin beşinci ayeti tam da bu psikolojiyi ısırıyor: \"Kendisine kimsenin güç yetiremeyeceğini mi sanıyor?\" Direnç, anlamayanlardan değil, var olan düzenden kazançlı çıkanlardan geliyordu. Kölelik kurumu bu düzenin görünür iskeleti, ticaret kârları ise onu besleyen kanıydı.\n\nMuhatabın zaten kabul ettiği şeyler de metnin içinde açıkça görünüyor: göz, dil, dudak — bunlar verilen nimetler olarak sayılıyor. Bu sayım suçlama değil, hatırlatma. Muhatap bu gerçeği inkâr etmiyordu; zaten Allah'ın varlığını ve evreni yarattığını kabul ediyordu. Reddedilen, bu yaratılış karşısında bir sorumluluğun doğması fikrinin kendisiydi. Güçlü olan zayıfı ezmekle övünüyordu; yumuşaklık ahmaklık sayılıyordu. Surenin direncin kilitlendiği yeri \"akabe\" imgesiyle göstermesi bu yüzden ustalıklıdır: sarp yokuş, tam da o toplumun erdem diye adlandırmadığı yerde duruyor.",
+  "eventMessageMap": [
+    {
+      "situation": "Servet sahibi biri, harcadığı malı kimsenin görmediğini düşünerek bunu güç kanıtı olarak sunuyordu.",
+      "response": "Metin, o harcamayı gören bir bakışın varlığını kayıt altına aldı ve gözü, dili, dudağı — verilen araçları — hatırlatarak hesabın zaten kurulu olduğunu ortaya koydu.",
+      "shift": "Harcama artık güç gösterisi olmaktan çıkıp denetlenen bir eylem hâline geldi."
+    },
+    {
+      "situation": "Kölelik, ekonomik düzenin olağan ve sorgulanmaz bir parçasıydı; köle azat etmek servetin boşa harcanması olarak görülüyordu.",
+      "response": "Metin, 'fekku rakabe' — bir boynu çözmek — ifadesiyle köle azadını yokuşun ilk ve en somut basamağı olarak tanımladı.",
+      "shift": "Azat etmek artık kayıp değil, aşılması gereken yolun ta kendisi olarak adlandırıldı."
+    },
+    {
+      "situation": "Açlık gününde yetime ya da yere serilmiş yoksulla ilgilenmek, toplumsal statünün dışında bir eylemdi ve kişiyi zayıf gösterirdi.",
+      "response": "Metin bu eylemi 'akabe'nin içeriği olarak tanımladı; soyut erdem yerine somut muhatap adları verdi: 'yakınlığı olan yetim', 'toprağa yapışmış yoksul'.",
+      "shift": "Erdemin yönü tersine döndü; güç göstergesi olan harcama değil, görünmeze uzanan el, yokuşu aşma ölçütü oldu."
+    },
+    {
+      "situation": "Kabile dayanışması haklı-haksız ayrımı gözetmeksizin 'kendi adamına' sahip çıkmayı zorunlu kılıyordu; sabır ve merhamet zayıflık işaretiydi.",
+      "response": "Metin, sabır ve merhameti birbirlerine tavsiye edenleri ayrı bir kategori olarak adlandırdı ve bunu 'el-meymene' — sağ taraf, hayırlı yön — ile ilişkilendirdi.",
+      "shift": "Dayanışmanın ölçütü kabileden alınıp ortak bir yönelime — sabır ve merhameti tavsiye etmeye — bırakıldı."
+    }
+  ],
+  "apophaticReading": "'Bu sure öteki dünya tehdidiyle itaat üretir' okuması metnin kendi mantığıyla çelişir. Çünkü aynı sure, akabeni tanımlarken ibadet biçimi ya da inanç formülü sıralamaz; köle azadı, açı doyurmak ve yetime yönelmek gibi bu dünyada, bu gün, bu sokakta gerçekleşen eylemler sayar. Öteki dünya imgesi surenin son iki ayetinde açılıyor olsa da surenin yapısı, yokuşu aşmayı kaçınılacak bir cezanın önkoşulu olarak değil, insanın içinde zaten kurulu bulunan bir geçidin kullanımı olarak sunuyor. On birinci ayet 'neden geçmedi?' diye soruyor; bu sorunun tonlaması tehdit değil, şaşkınlık.\n\n'Metin Mekke'yi yüceltmek için şehre yemin ediyor' okuması metnin kendi mantığıyla çelişir. Çünkü aynı sure, o şehrin içinde yaşayan ve kendini hesapsız sanan insanı doğrudan karşısına alıyor. Yemin, şehri kutsamak için değil, muhatabın gözünde değerli olan şeyi konuşmanın taşıyıcısı yapmak için kullanılıyor. Bu retorik, ortak zeminden söze girmek — muhatabın zaten kabul ettiği şeyden hareketle konuşmak — olarak okunabilir.\n\n'Akabe yalnızca bireysel bir ahlak meselesidir' okuması metnin kendi mantığıyla çelişir. Çünkü aynı sure, yokuşu aştıktan sonra gerçekleşen şeyi tekil değil çoğul bir eylem olarak tanımlıyor: 'birbirlerine sabır tavsiye edenler, birbirlerine merhamet tavsiye edenler.' Geçiş, tek başına yapılan bir atılım değil; bir topluluğun birbirine yaslanarak kurduğu bir yönelim olarak tarif ediliyor.\n\nGeriye kalan yönelim şu: metin, insanı 'kebed' — zorluk içinde yaratılmış — olarak tanımladıktan hemen sonra o zorluğu çözmek için gereken araçları da saydığında, yokuş kavramı bir ödül sistemi değil bir tanım işlevi görüyor gibi görünüyor. Akabe, ötede bekleyen bir kapı değil, insanın içinde hazır bulduğu ama henüz kullanmadığı bir geçit olarak surenin kendi yapısından çıkan yönelim bu.\n\nBugüne kadar az bakılmış açı: Doğrulanmış editoryal içerik, cahiliyenin temel karşıtının 'ilm' — bilgi — değil 'hilm' — öfkeye hâkim olma, sükûnet, bağışlama — olduğunu kayıt altına alıyor. Bu çerçeveden bakıldığında surenin on yedinci ayetindeki 'sabır ve merhameti birbirine tavsiye etmek' ifadesi salt ahlak tavsiyesi olarak değil, cahiliyenin tam karşı kutbu olarak okunabilir. Azgınlığı, şiddet taraftarlığını, aceleciliği — yani 'cahil' olarak tanımlanan davranış biçimlerini — aşan şey, surenin kendi söyleminde sabır ve merhameti topluluk içinde dolaşıma sokmak olarak somutlaşıyor. Akabe bu okumada bireysel bir eylem listesinden ibaret değil; o kültürün temel refleksini dönüştüren bir pratik olarak belirir.\n\nSusma: *Surenin köle azadını ilk sıraya koyması ve ardından yoksulu sayması, hangi servetin hangi boyunla ilişkili olduğuna dair bir soru bırakıyor — ama bu soru buradan görünmez.*",
+  "aiCommentary": "Bu dört bölüm, yapay zekâ tarafından üretilmiştir. Kullanılan kaynaklar şunlardır: surenin Arapça metni; editöryal içerik olarak verilen ve TDV İslâm Ansiklopedisi 'Câhiliye' maddesinden derlenen doğrulanmış zemin bilgisi; Beled suresine ilişkin tefsir geleneğinin genel çerçevesi. Üretim sürecinde web araması yapılmış, dönem bağlamını destekleyen ek veriler denetlenmiştir.\n\nApofatik okuma bölümü (3. bölüm) bilerek olumsuzlama yöntemiyle kurulmuştur. Bu yöntemin tercih nedeni şudur: bir metnin yaratanının maksadına dair her kesin söz, insanın tahminidir. Metnin ne söylemediğini, hangi okumaların kendi iç mantığıyla çeliştiğini göstermek, kesin yorum yerine araştırmaya açık bir alan bırakır. Bu alan, okuyucunun kendi okumasını yapabileceği bir zemin olarak kalmalıdır.\n\nBu metin tefsir değildir, meal değildir, fetva değildir. Amel hükmü içermez; 'şu helal, şu haram' türünden bir çıkarsama yapılmamıştır. Kaynaklar, yöntemler ve metin anlayışı zamanla değişir; yeni bilgi, yeni bağlam ya da yeni bir bakış açısı bu okumaların herhangi bir bölümünü geçersiz kılabilir. Okuyucu bu metni bir başlangıç noktası olarak kullanabilir; sonucu kendisi çıkarmalıdır."
 }

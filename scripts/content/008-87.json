@@ -1,641 +1,666 @@
 {
- "stationNo": 8,
- "surahNo": 87,
- "nuzulOrderOkuyan": 9,
- "name": "A'lâ",
- "nameArabic": "الأعلى",
- "nameMeaning": "En yüce",
- "verseCount": 19,
- "periodDiyanet": "Mekke",
- "periodOkuyan": "Mekke",
- "revelationTiming": "Mekke'nin erken yılları",
- "stationTitle": "Ölçüyü koyan da, arınmayı mümkün kılan da aynı kaynaktır.",
- "introduction": "A'lâ suresi, adını birinci ayetteki \"el-A'lâ\" (en yüce) kelimesinden alır. On dokuz ayetlik sure Mekke'nin erken yıllarında inmiştir.\n\nSure bir tespih emriyle başlar: \"Yüce Rabbinin adını tesbih et.\" Ardından yaratmadaki ölçü anlatılır, sonra vahyin korunacağı bildirilir, en sonunda arınan insanın kurtuluşu ile dünyayı önceleyenin kaybı karşılaştırılır. Sure, kendisinden önceki kutsal metinlere (İbrahim ve Musa'nın sahifeleri) atıfla kapanır.",
- "occasionOfRevelation": "Sure Mekke'nin erken döneminde inmiştir. Nüzul kaynakları belirli bir olaya bağlamaz; metnin işlevi, gündelik çatışmaların içine sıkışmış zihni daha geniş bir çerçeveye taşımaktır.\n\nAltıncı ve yedinci ayetler vahyin unutulmayacağı güvencesini verir. Klasik tefsirler bu bölümü, Hz. Muhammed'in vahyi kaçırma kaygısıyla ilişkilendirir: gelen metni ezberleyememe endişesine karşı bir teminat.\n\nSurenin on dokuzuncu ayeti, İbrahim ve Musa'nın sahifelerine atıf yapar. Bu, Kur'an'ın kendisini yeni bir başlangıç değil, süregelen bir çizginin devamı olarak sunduğu yerlerden biridir.",
- "occasionSources": "Diyanet İşleri Başkanlığı Kur'an Yolu Tefsiri, A'lâ suresi girişi; TDV İslâm Ansiklopedisi, \"A'lâ Sûresi\" maddesi.",
- "contemporaryMeaning": "Surenin merkezindeki karşıtlık nettir: arınan kurtulur, dünyayı önceleyen kaybeder (87:14-17). \"Tezekkâ\" kelimesi hem temizlenmeyi hem büyümeyi anlatır; arınma burada bir eksiltme değil, gelişme olarak sunulur.\n\nİkinci vurgu ölçüdür. Yaratmadaki denge (\"yarattı ve düzene koydu, ölçüyü belirledi ve yol gösterdi\") insana bir model önerir: her şeyin bir miktarı vardır, ölçüsüzlük bozar.\n\nÜçüncüsü ise on yedinci ayetin sertliğidir: ahiret daha hayırlı ve kalıcıdır. Bu, dünyayı reddetmek değil, önceliği yeniden sıralamaktır. Geçici olanı kalıcı olanın önüne koymak, metnin teşhis ettiği temel hatadır.",
- "keyTerms": [
-  {
-   "term": "sebbih",
-   "arabic": "سَبِّحِ",
-   "verseRef": "87:1",
-   "meaning": "Tesbih et, yücelt, noksanlıklardan uzak bil. Surenin açılış emri."
-  },
-  {
-   "term": "el-a'lâ",
-   "arabic": "الْأَعْلَى",
-   "verseRef": "87:1",
-   "meaning": "En yüce. Sureye adını veren sıfat; hiçbir şeyin üstünde olmadığını belirtir."
-  },
-  {
-   "term": "kaddera fe hedâ",
-   "arabic": "قَدَّرَ فَهَدَىٰ",
-   "verseRef": "87:3",
-   "meaning": "Ölçüyü belirledi ve yol gösterdi. Yaratmadaki nicelik ve yön birliği."
-  },
-  {
-   "term": "tezekkâ",
-   "arabic": "تَزَكَّىٰ",
-   "verseRef": "87:14",
-   "meaning": "Arındı, temizlendi, büyüdü. Kök hem temizlik hem gelişme anlamı taşır; arınma burada bir olgunlaşmadır."
-  }
- ],
- "themes": [
-  {
-   "label": "Yaratmadaki ölçü",
-   "body": "\"Yarattı ve düzene koydu; ölçüyü belirledi ve yol gösterdi.\" Varlıkta keyfîlik değil miktar ve yön vardır; insan için de aynı ilke önerilir."
-  },
-  {
-   "label": "Arınmak, eksiltmek değil büyümek",
-   "body": "Tezekkâ kelimesi temizlenmeyi ve gelişmeyi birlikte taşır. Metin arınmayı bir kayıp değil, olgunlaşma olarak kurar."
-  },
-  {
-   "label": "Öncelik sıralamasındaki hata",
-   "body": "\"Siz dünya hayatını tercih ediyorsunuz; oysa ahiret daha hayırlı ve kalıcıdır.\" Sorun dünyanın kendisi değil, geçici olanı kalıcının önüne koymaktır."
-  },
-  {
-   "label": "Süreklilik: İbrahim ve Musa'nın sahifeleri",
-   "body": "Sure kendisini yeni bir başlangıç olarak değil, önceki vahiylerin devamı olarak konumlandırarak kapanır."
-  }
- ],
- "questions": [
-  "Hayatımda \"ölçüsüz\" dediğim bir alan var mı — çalışma, harcama, yeme, ekran? Ölçüyü kim koyuyor?",
-  "Arınmayı bir kayıp gibi mi düşünüyorum? Bıraktığımda büyüyeceğim bir alışkanlık hangisi?",
-  "Uzun vadede önemli olduğunu bildiğim halde, kısa vadeli rahatlık için sürekli ertelediğim şey ne?"
- ],
- "verses": [
-  {
-   "verseNo": 1,
-   "textArabic": "بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ سَبِّحِ ٱسْمَ رَبِّكَ ٱلْأَعْلَى"
-  },
-  {
-   "verseNo": 2,
-   "textArabic": "ٱلَّذِى خَلَقَ فَسَوَّىٰ"
-  },
-  {
-   "verseNo": 3,
-   "textArabic": "وَٱلَّذِى قَدَّرَ فَهَدَىٰ"
-  },
-  {
-   "verseNo": 4,
-   "textArabic": "وَٱلَّذِىٓ أَخْرَجَ ٱلْمَرْعَىٰ"
-  },
-  {
-   "verseNo": 5,
-   "textArabic": "فَجَعَلَهُۥ غُثَآءً أَحْوَىٰ"
-  },
-  {
-   "verseNo": 6,
-   "textArabic": "سَنُقْرِئُكَ فَلَا تَنسَىٰٓ"
-  },
-  {
-   "verseNo": 7,
-   "textArabic": "إِلَّا مَا شَآءَ ٱللَّهُ ۚ إِنَّهُۥ يَعْلَمُ ٱلْجَهْرَ وَمَا يَخْفَىٰ"
-  },
-  {
-   "verseNo": 8,
-   "textArabic": "وَنُيَسِّرُكَ لِلْيُسْرَىٰ"
-  },
-  {
-   "verseNo": 9,
-   "textArabic": "فَذَكِّرْ إِن نَّفَعَتِ ٱلذِّكْرَىٰ"
-  },
-  {
-   "verseNo": 10,
-   "textArabic": "سَيَذَّكَّرُ مَن يَخْشَىٰ"
-  },
-  {
-   "verseNo": 11,
-   "textArabic": "وَيَتَجَنَّبُهَا ٱلْأَشْقَى"
-  },
-  {
-   "verseNo": 12,
-   "textArabic": "ٱلَّذِى يَصْلَى ٱلنَّارَ ٱلْكُبْرَىٰ"
-  },
-  {
-   "verseNo": 13,
-   "textArabic": "ثُمَّ لَا يَمُوتُ فِيهَا وَلَا يَحْيَىٰ"
-  },
-  {
-   "verseNo": 14,
-   "textArabic": "قَدْ أَفْلَحَ مَن تَزَكَّىٰ"
-  },
-  {
-   "verseNo": 15,
-   "textArabic": "وَذَكَرَ ٱسْمَ رَبِّهِۦ فَصَلَّىٰ"
-  },
-  {
-   "verseNo": 16,
-   "textArabic": "بَلْ تُؤْثِرُونَ ٱلْحَيَوٰةَ ٱلدُّنْيَا"
-  },
-  {
-   "verseNo": 17,
-   "textArabic": "وَٱلْءَاخِرَةُ خَيْرٌۭ وَأَبْقَىٰٓ"
-  },
-  {
-   "verseNo": 18,
-   "textArabic": "إِنَّ هَٰذَا لَفِى ٱلصُّحُفِ ٱلْأُولَىٰ"
-  },
-  {
-   "verseNo": 19,
-   "textArabic": "صُحُفِ إِبْرَٰهِيمَ وَمُوسَىٰ"
-  }
- ],
- "translations": [
-  {
-   "verseNo": 1,
-   "source": "diyanet",
-   "text": "Yüce Rabbinin adını tespih et."
-  },
-  {
-   "verseNo": 1,
-   "source": "islamoglu",
-   "text": "(EY RASÛL) yücelikte eşsiz olan Rabbin adına hareket et!"
-  },
-  {
-   "verseNo": 1,
-   "source": "esed",
-   "text": "Yücelt Rabbinin sınırsız şanını! Yüceler Yücesi(nin şanını)"
-  },
-  {
-   "verseNo": 1,
-   "source": "okuyan",
-   "text": "Yüce Rabbinin adını [tesbih] et (yücelt)!"
-  },
-  {
-   "verseNo": 2,
-   "source": "diyanet",
-   "text": "O, yaratıp şekillendiren, âhenk veren ve düzene koyandır."
-  },
-  {
-   "verseNo": 2,
-   "source": "islamoglu",
-   "text": "O ki, tüm mahlukatı yarattı ve yaratılış amacına uygun bir donanım verdi."
-  },
-  {
-   "verseNo": 2,
-   "source": "esed",
-   "text": "O ki, (her şeyi) yaratmakta ve amacına uygun şekiller vermektedir"
-  },
-  {
-   "verseNo": 2,
-   "source": "okuyan",
-   "text": "(O), yaratan ve düzene koyandır."
-  },
-  {
-   "verseNo": 3,
-   "source": "diyanet",
-   "text": "O, (her şeyi) ölçüyle yapıp yönlendirendir."
-  },
-  {
-   "verseNo": 3,
-   "source": "islamoglu",
-   "text": "O ki, her şeye yaratılıştan bir ölçü ve amaç takdir etti, sonra (o ölçüye uyarak amacına ulaşacak) istikamete yöneltti."
-  },
-  {
-   "verseNo": 3,
-   "source": "esed",
-   "text": "O ki, (bütün mevcudatın) tabiatını belirlemekte ve onu (hedefine doğru) yöneltmektedir"
-  },
-  {
-   "verseNo": 3,
-   "source": "okuyan",
-   "text": "Ölçü koyandır ve yol gösterendir."
-  },
-  {
-   "verseNo": 4,
-   "source": "diyanet",
-   "text": "O, yeşil bitki örtüsünü çıkaran, sonra da onları çürüyüp kararmış çerçöpe çevirendir."
-  },
-  {
-   "verseNo": 4,
-   "source": "islamoglu",
-   "text": "O ki, tüm bitki örtüsünü çıkardı;"
-  },
-  {
-   "verseNo": 4,
-   "source": "esed",
-   "text": "O ki, yeşil ot(lar)ı çıkarmakta"
-  },
-  {
-   "verseNo": 4,
-   "source": "okuyan",
-   "text": "(Topraktan) otlağı çıkarandır."
-  },
-  {
-   "verseNo": 5,
-   "source": "diyanet",
-   "text": "O, yeşil bitki örtüsünü çıkaran, sonra da onları çürüyüp kararmış çerçöpe çevirendir."
-  },
-  {
-   "verseNo": 5,
-   "source": "islamoglu",
-   "text": "sonra onu kapkara-kupkuru bir hale soktu."
-  },
-  {
-   "verseNo": 5,
-   "source": "esed",
-   "text": "ve sonra on(lar)ı kara, kavruk kök haline getirmektedir"
-  },
-  {
-   "verseNo": 5,
-   "source": "okuyan",
-   "text": "Sonra da onu kapkara kuru ota çevirendir."
-  },
-  {
-   "verseNo": 6,
-   "source": "diyanet",
-   "text": "Sana Kur'an'ı okutacağız ve sen onu unutmayacaksın."
-  },
-  {
-   "verseNo": 6,
-   "source": "islamoglu",
-   "text": "(EY RASÛL!) Biz seni vahye aracı kılacağız ve sen asla unutmayacaksın;"
-  },
-  {
-   "verseNo": 6,
-   "source": "esed",
-   "text": "Biz sana öğreteceğiz ve (öğrendiklerinden hiçbirini) unutmayacaksın"
-  },
-  {
-   "verseNo": 6,
-   "source": "okuyan",
-   "text": "6,7. Sana (Kur’an’ı) okutacağız ve sen -Allah’ın dilemesi hariç- (onu) unutmayacaksın. Şüphesiz ki O, açığı da gizli olanı da bilir."
-  },
-  {
-   "verseNo": 7,
-   "source": "diyanet",
-   "text": "Ancak Allah'ın dilediği başka. Şüphesiz O, açık olanı da bilir, gizliyi de."
-  },
-  {
-   "verseNo": 7,
-   "source": "islamoglu",
-   "text": "Allah’ın (unutmanı) istedikleri hariç; çünkü O açığa çıkanı da bilir gizleneni de;"
-  },
-  {
-   "verseNo": 7,
-   "source": "esed",
-   "text": "Allah´ın (unutmanı) diledikleri hariç; çünkü, (yalnız) O´dur (insanın) kavrayışına açık olan her şeyi ve (ondan) gizli olanları bilen"
-  },
-  {
-   "verseNo": 7,
-   "source": "okuyan",
-   "text": "6,7. Sana (Kur’an’ı) okutacağız ve sen -Allah’ın dilemesi hariç- (onu) unutmayacaksın. Şüphesiz ki O, açığı da gizli olanı da bilir."
-  },
-  {
-   "verseNo": 8,
-   "source": "diyanet",
-   "text": "Biz seni en kolay olana kolayca ileteceğiz."
-  },
-  {
-   "verseNo": 8,
-   "source": "islamoglu",
-   "text": "böylece zaten kolay olan (vahyi anlamayı) sana daha da kolaylaştırmış olacağız."
-  },
-  {
-   "verseNo": 8,
-   "source": "esed",
-   "text": "Biz, (böylece) (nihai) huzura ve rahatlığa giden yolu senin için kolaylaştıracağız"
-  },
-  {
-   "verseNo": 8,
-   "source": "okuyan",
-   "text": "Kolay olanı sana (daha da) kolaylaştıracağız."
-  },
-  {
-   "verseNo": 9,
-   "source": "diyanet",
-   "text": "O halde, eğer öğüt fayda verirse, öğüt ver."
-  },
-  {
-   "verseNo": 9,
-   "source": "islamoglu",
-   "text": "Şu halde sen, -öğüt (sadece bazılarına) fayda verse de- hep (fıtratlara nakşolan Allah’ı) hatırlat;"
-  },
-  {
-   "verseNo": 9,
-   "source": "esed",
-   "text": "O halde, (hakikati başkalarına) hatırlat, bu hatırlatma ister fayda ver(iyor görün)sün, (ister görünmesin)"
-  },
-  {
-   "verseNo": 9,
-   "source": "okuyan",
-   "text": "Hatırlamak yarar sağlayacağı için (gerçeği) hatırlat!"
-  },
-  {
-   "verseNo": 10,
-   "source": "diyanet",
-   "text": "Allah'a karşı derin saygı duyarak ondan korkan öğüt alacaktır."
-  },
-  {
-   "verseNo": 10,
-   "source": "islamoglu",
-   "text": "nasıl olsa Allah’ın sevgisini kaybetmekten korkanlar öğüt alacaktır;"
-  },
-  {
-   "verseNo": 10,
-   "source": "esed",
-   "text": "(Allah´tan) korkan, düşünüp ondan ders alır"
-  },
-  {
-   "verseNo": 10,
-   "source": "okuyan",
-   "text": "(Allah’a) saygılı olan kişi (gerçeği) hatırlayacaktır."
-  },
-  {
-   "verseNo": 11,
-   "source": "diyanet",
-   "text": "En büyük ateşe girecek olan en bedbaht kimse (kâfir) ise, öğüt almaktan kaçınır."
-  },
-  {
-   "verseNo": 11,
-   "source": "islamoglu",
-   "text": "bedbaht olanlar ise öğütten kaçacaktır;"
-  },
-  {
-   "verseNo": 11,
-   "source": "esed",
-   "text": "ona yabancılaşan ise bir zavallı biçare olarak kalır"
-  },
-  {
-   "verseNo": 11,
-   "source": "okuyan",
-   "text": "En azgın (kâfir) ise ondan kaçınacaktır."
-  },
-  {
-   "verseNo": 12,
-   "source": "diyanet",
-   "text": "En büyük ateşe girecek olan en bedbaht kimse (kâfir) ise, öğüt almaktan kaçınır."
-  },
-  {
-   "verseNo": 12,
-   "source": "islamoglu",
-   "text": "bu gibiler en korkunç ateşi boylayacaktır;"
-  },
-  {
-   "verseNo": 12,
-   "source": "esed",
-   "text": "böylesi, (öteki dünyada) büyük ateşe atılacak"
-  },
-  {
-   "verseNo": 12,
-   "source": "okuyan",
-   "text": "O en büyük ateşe girecek olandır."
-  },
-  {
-   "verseNo": 13,
-   "source": "diyanet",
-   "text": "Sonra orada ne ölür (kurtulur), ne de (rahat bir hayat) yaşar."
-  },
-  {
-   "verseNo": 13,
-   "source": "islamoglu",
-   "text": "sonra orada ne ölebilecek, ne yaşayabilecektir."
-  },
-  {
-   "verseNo": 13,
-   "source": "esed",
-   "text": "ve orada ne ölecektir ne de diri kalacak"
-  },
-  {
-   "verseNo": 13,
-   "source": "okuyan",
-   "text": "Sonra, orada (tam) ölmeyecek ve (tam) yaşamayacak."
-  },
-  {
-   "verseNo": 14,
-   "source": "diyanet",
-   "text": "Arınan ve Rabbinin adını anıp, namaz kılan kimse mutlaka kurtuluşa erer."
-  },
-  {
-   "verseNo": 14,
-   "source": "islamoglu",
-   "text": "(Mânevî kirlerden) arınma gayreti içinde olanlar kurtuluşa erecek;"
-  },
-  {
-   "verseNo": 14,
-   "source": "esed",
-   "text": "(Bu dünyada) arınmayı başaran ise, (öteki dünyada) mutluluğa ulaşır"
-  },
-  {
-   "verseNo": 14,
-   "source": "okuyan",
-   "text": "Arınan kişi elbette kurtulmuştur."
-  },
-  {
-   "verseNo": 15,
-   "source": "diyanet",
-   "text": "Arınan ve Rabbinin adını anıp, namaz kılan kimse mutlaka kurtuluşa erer."
-  },
-  {
-   "verseNo": 15,
-   "source": "islamoglu",
-   "text": "Rabbinin adını hatırda tutan da, salata duran da (kurtuluşa erecek)."
-  },
-  {
-   "verseNo": 15,
-   "source": "esed",
-   "text": "ki böylesi, Rabbinin ismini hatırlayan ve (O´na) ibadet edendir"
-  },
-  {
-   "verseNo": 15,
-   "source": "okuyan",
-   "text": "Rabbinin adını anıp [salât] edenler de (O’nun dinine destek olanlar da)."
-  },
-  {
-   "verseNo": 16,
-   "source": "diyanet",
-   "text": "Fakat sizler dünya hayatını tercih ediyorsunuz."
-  },
-  {
-   "verseNo": 16,
-   "source": "islamoglu",
-   "text": "Fakat siz (ey insanlar), bu yakın ve aşağı hayatı tercih ediyorsunuz;"
-  },
-  {
-   "verseNo": 16,
-   "source": "esed",
-   "text": "Ama hayır, (ey insanlar,) siz bu dünya hayatını tercih edersiniz"
-  },
-  {
-   "verseNo": 16,
-   "source": "okuyan",
-   "text": "Fakat siz dünya hayatını tercih ediyorsunuz."
-  },
-  {
-   "verseNo": 17,
-   "source": "diyanet",
-   "text": "Oysa âhiret, daha hayırlı ve süreklidir."
-  },
-  {
-   "verseNo": 17,
-   "source": "islamoglu",
-   "text": "oysa ki öteki (hayat) daha hayırlı ve daha kalıcıdır."
-  },
-  {
-   "verseNo": 17,
-   "source": "esed",
-   "text": "oysa gelecek hayat daha iyi ve daha kalıcıdır"
-  },
-  {
-   "verseNo": 17,
-   "source": "okuyan",
-   "text": "(Oysa) ahiret daha iyi ve daha kalıcıdır."
-  },
-  {
-   "verseNo": 18,
-   "source": "diyanet",
-   "text": "Şüphesiz bu hükümler ilk sayfalarda, İbrahim ve Mûsâ'nın sayfalarında da vardır."
-  },
-  {
-   "verseNo": 18,
-   "source": "islamoglu",
-   "text": "Elbet bütün bu hakikatler önceki vahiylerde yer almıştır;"
-  },
-  {
-   "verseNo": 18,
-   "source": "esed",
-   "text": "Gerçek şu ki, (bütün) bunlar, geçmiş vahiylerde (bildirilmiş)tir"
-  },
-  {
-   "verseNo": 18,
-   "source": "okuyan",
-   "text": "Şüphesiz ki bu (anlatılanlar), önceki sahifelerde de (vahiylerde de) vardı:"
-  },
-  {
-   "verseNo": 19,
-   "source": "diyanet",
-   "text": "Şüphesiz bu hükümler ilk sayfalarda, İbrahim ve Mûsâ'nın sayfalarında da vardır."
-  },
-  {
-   "verseNo": 19,
-   "source": "islamoglu",
-   "text": "(mesela) İbrahim ve Musa’ya indirilen vahiylerde."
-  },
-  {
-   "verseNo": 19,
-   "source": "esed",
-   "text": "İbrahim ve Musa´ya indirilen vahiylerde"
-  },
-  {
-   "verseNo": 19,
-   "source": "okuyan",
-   "text": "İbrahim’in ve Musa’nın sahifelerinde."
-  },
-  {
-   "verseNo": 1,
-   "verseNoEnd": null,
-   "source": "ai",
-   "text": "Rabbinin en yüce ismini tesbih et."
-  },
-  {
-   "verseNo": 2,
-   "verseNoEnd": null,
-   "source": "ai",
-   "text": "O, yarattı ve düzenledi."
-  },
-  {
-   "verseNo": 3,
-   "verseNoEnd": null,
-   "source": "ai",
-   "text": "O, ölçüp belirledi ve doğru yola yönlendirdi."
-  },
-  {
-   "verseNo": 4,
-   "verseNoEnd": null,
-   "source": "ai",
-   "text": "O, otları çıkardı."
-  },
-  {
-   "verseNo": 5,
-   "verseNoEnd": null,
-   "source": "ai",
-   "text": "Sonra onu kuru, sararmış bir şeye çevirdi."
-  },
-  {
-   "verseNo": 6,
-   "verseNoEnd": null,
-   "source": "ai",
-   "text": "Biz sana okuyacağız; sen unutmayacaksın."
-  },
-  {
-   "verseNo": 7,
-   "verseNoEnd": null,
-   "source": "ai",
-   "text": "Ancak Allah dilediği hariç. Şüphesiz O, açığa vurulanı ve gizli olanı bilir."
-  },
-  {
-   "verseNo": 8,
-   "verseNoEnd": null,
-   "source": "ai",
-   "text": "Seni kolaylığa yönlendireceğiz."
-  },
-  {
-   "verseNo": 9,
-   "verseNoEnd": null,
-   "source": "ai",
-   "text": "O halde hatırlat; hatırlatma fayda verirse."
-  },
-  {
-   "verseNo": 10,
-   "verseNoEnd": null,
-   "source": "ai",
-   "text": "Sakınan kimse hatırlayacaktır."
-  },
-  {
-   "verseNo": 11,
-   "verseNoEnd": null,
-   "source": "ai",
-   "text": "Bahtsız olan ondan kaçınır."
-  },
-  {
-   "verseNo": 12,
-   "verseNoEnd": null,
-   "source": "ai",
-   "text": "Büyük ateşe girendir."
-  },
-  {
-   "verseNo": 13,
-   "verseNoEnd": null,
-   "source": "ai",
-   "text": "Orada ne ölür ne de yaşar."
-  },
-  {
-   "verseNo": 14,
-   "verseNoEnd": null,
-   "source": "ai",
-   "text": "Arınan kimse kurtuluşa ermiştir."
-  },
-  {
-   "verseNo": 15,
-   "verseNoEnd": null,
-   "source": "ai",
-   "text": "Rabbinin adını anıp namaz kılan."
-  },
-  {
-   "verseNo": 16,
-   "verseNoEnd": null,
-   "source": "ai",
-   "text": "Hayır; siz dünya hayatını tercih ediyorsunuz."
-  },
-  {
-   "verseNo": 17,
-   "verseNoEnd": null,
-   "source": "ai",
-   "text": "Oysa ahiret daha hayırlı ve daha kalıcıdır."
-  },
-  {
-   "verseNo": 18,
-   "verseNoEnd": null,
-   "source": "ai",
-   "text": "Gerçekten bu, ilk yazılarda vardır."
-  },
-  {
-   "verseNo": 19,
-   "verseNoEnd": null,
-   "source": "ai",
-   "text": "İbrahim ve Musa'nın yazılarında."
-  }
- ],
- "aiParagraph": "Yeşil ot filizlenir, solar, kararır, çürür — metin tam da bununla başlar, gözün her gün gördüğü o döngüyle. Ama bu bir karamsar tablo değil; aksine, o döngünün bilinçli, ölçülü, yönlendirilmiş olduğuna dair bir işaret. Her şey bir düzene göre büyüyor, bir düzene göre sona eriyor. Sonra metin insana döner ve şunu söyler: Sana bir şey verilecek, onu unutmayacaksın — çünkü içinde ne sakladığın da, dışarıya ne yansıttığın da görülüyor. Kolaylaştırılmış bir yol var önünde; zorla kazanılmış değil, sunulmuş. Hatırlatma işe yarayacaksa söylenir; ama kimi insan duyar, kimi zaten duymak istemez — bu tercih o insanın kendisine aittir, kimse zorlanmaz. Asıl gerilim ortada: insan eliyle olanı değil, gözünün önündekini seçiyor; yakını, dokunulabileni, hemen vereni. Oysa metnin dediğine göre bu tercih yeni değil — İbrahim'in ve Musa'nın döneminde de aynı şey yazılıydı. Yani bu çatışma insanlığın en eski çatışmalarından biri: şimdiyi mi, yoksa kalıcı olanı mı?"
+  "stationNo": 8,
+  "surahNo": 87,
+  "nuzulOrderOkuyan": 9,
+  "name": "A'lâ",
+  "nameArabic": "الأعلى",
+  "nameMeaning": "En yüce",
+  "verseCount": 19,
+  "periodDiyanet": "Mekke",
+  "periodOkuyan": "Mekke",
+  "revelationTiming": "Mekke'nin erken yılları",
+  "stationTitle": "Ölçüyü koyan da, arınmayı mümkün kılan da aynı kaynaktır.",
+  "introduction": "A'lâ suresi, adını birinci ayetteki \"el-A'lâ\" (en yüce) kelimesinden alır. On dokuz ayetlik sure Mekke'nin erken yıllarında inmiştir.\n\nSure bir tespih emriyle başlar: \"Yüce Rabbinin adını tesbih et.\" Ardından yaratmadaki ölçü anlatılır, sonra vahyin korunacağı bildirilir, en sonunda arınan insanın kurtuluşu ile dünyayı önceleyenin kaybı karşılaştırılır. Sure, kendisinden önceki kutsal metinlere (İbrahim ve Musa'nın sahifeleri) atıfla kapanır.",
+  "occasionOfRevelation": "Sure Mekke'nin erken döneminde inmiştir. Nüzul kaynakları belirli bir olaya bağlamaz; metnin işlevi, gündelik çatışmaların içine sıkışmış zihni daha geniş bir çerçeveye taşımaktır.\n\nAltıncı ve yedinci ayetler vahyin unutulmayacağı güvencesini verir. Klasik tefsirler bu bölümü, Hz. Muhammed'in vahyi kaçırma kaygısıyla ilişkilendirir: gelen metni ezberleyememe endişesine karşı bir teminat.\n\nSurenin on dokuzuncu ayeti, İbrahim ve Musa'nın sahifelerine atıf yapar. Bu, Kur'an'ın kendisini yeni bir başlangıç değil, süregelen bir çizginin devamı olarak sunduğu yerlerden biridir.",
+  "occasionSources": "Diyanet İşleri Başkanlığı Kur'an Yolu Tefsiri, A'lâ suresi girişi; TDV İslâm Ansiklopedisi, \"A'lâ Sûresi\" maddesi.",
+  "contemporaryMeaning": "Surenin merkezindeki karşıtlık nettir: arınan kurtulur, dünyayı önceleyen kaybeder (87:14-17). \"Tezekkâ\" kelimesi hem temizlenmeyi hem büyümeyi anlatır; arınma burada bir eksiltme değil, gelişme olarak sunulur.\n\nİkinci vurgu ölçüdür. Yaratmadaki denge (\"yarattı ve düzene koydu, ölçüyü belirledi ve yol gösterdi\") insana bir model önerir: her şeyin bir miktarı vardır, ölçüsüzlük bozar.\n\nÜçüncüsü ise on yedinci ayetin sertliğidir: ahiret daha hayırlı ve kalıcıdır. Bu, dünyayı reddetmek değil, önceliği yeniden sıralamaktır. Geçici olanı kalıcı olanın önüne koymak, metnin teşhis ettiği temel hatadır.",
+  "keyTerms": [
+    {
+      "term": "sebbih",
+      "arabic": "سَبِّحِ",
+      "verseRef": "87:1",
+      "meaning": "Tesbih et, yücelt, noksanlıklardan uzak bil. Surenin açılış emri."
+    },
+    {
+      "term": "el-a'lâ",
+      "arabic": "الْأَعْلَى",
+      "verseRef": "87:1",
+      "meaning": "En yüce. Sureye adını veren sıfat; hiçbir şeyin üstünde olmadığını belirtir."
+    },
+    {
+      "term": "kaddera fe hedâ",
+      "arabic": "قَدَّرَ فَهَدَىٰ",
+      "verseRef": "87:3",
+      "meaning": "Ölçüyü belirledi ve yol gösterdi. Yaratmadaki nicelik ve yön birliği."
+    },
+    {
+      "term": "tezekkâ",
+      "arabic": "تَزَكَّىٰ",
+      "verseRef": "87:14",
+      "meaning": "Arındı, temizlendi, büyüdü. Kök hem temizlik hem gelişme anlamı taşır; arınma burada bir olgunlaşmadır."
+    }
+  ],
+  "themes": [
+    {
+      "label": "Yaratmadaki ölçü",
+      "body": "\"Yarattı ve düzene koydu; ölçüyü belirledi ve yol gösterdi.\" Varlıkta keyfîlik değil miktar ve yön vardır; insan için de aynı ilke önerilir."
+    },
+    {
+      "label": "Arınmak, eksiltmek değil büyümek",
+      "body": "Tezekkâ kelimesi temizlenmeyi ve gelişmeyi birlikte taşır. Metin arınmayı bir kayıp değil, olgunlaşma olarak kurar."
+    },
+    {
+      "label": "Öncelik sıralamasındaki hata",
+      "body": "\"Siz dünya hayatını tercih ediyorsunuz; oysa ahiret daha hayırlı ve kalıcıdır.\" Sorun dünyanın kendisi değil, geçici olanı kalıcının önüne koymaktır."
+    },
+    {
+      "label": "Süreklilik: İbrahim ve Musa'nın sahifeleri",
+      "body": "Sure kendisini yeni bir başlangıç olarak değil, önceki vahiylerin devamı olarak konumlandırarak kapanır."
+    }
+  ],
+  "questions": [
+    "Hayatımda \"ölçüsüz\" dediğim bir alan var mı — çalışma, harcama, yeme, ekran? Ölçüyü kim koyuyor?",
+    "Arınmayı bir kayıp gibi mi düşünüyorum? Bıraktığımda büyüyeceğim bir alışkanlık hangisi?",
+    "Uzun vadede önemli olduğunu bildiğim halde, kısa vadeli rahatlık için sürekli ertelediğim şey ne?"
+  ],
+  "verses": [
+    {
+      "verseNo": 1,
+      "textArabic": "بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ سَبِّحِ ٱسْمَ رَبِّكَ ٱلْأَعْلَى"
+    },
+    {
+      "verseNo": 2,
+      "textArabic": "ٱلَّذِى خَلَقَ فَسَوَّىٰ"
+    },
+    {
+      "verseNo": 3,
+      "textArabic": "وَٱلَّذِى قَدَّرَ فَهَدَىٰ"
+    },
+    {
+      "verseNo": 4,
+      "textArabic": "وَٱلَّذِىٓ أَخْرَجَ ٱلْمَرْعَىٰ"
+    },
+    {
+      "verseNo": 5,
+      "textArabic": "فَجَعَلَهُۥ غُثَآءً أَحْوَىٰ"
+    },
+    {
+      "verseNo": 6,
+      "textArabic": "سَنُقْرِئُكَ فَلَا تَنسَىٰٓ"
+    },
+    {
+      "verseNo": 7,
+      "textArabic": "إِلَّا مَا شَآءَ ٱللَّهُ ۚ إِنَّهُۥ يَعْلَمُ ٱلْجَهْرَ وَمَا يَخْفَىٰ"
+    },
+    {
+      "verseNo": 8,
+      "textArabic": "وَنُيَسِّرُكَ لِلْيُسْرَىٰ"
+    },
+    {
+      "verseNo": 9,
+      "textArabic": "فَذَكِّرْ إِن نَّفَعَتِ ٱلذِّكْرَىٰ"
+    },
+    {
+      "verseNo": 10,
+      "textArabic": "سَيَذَّكَّرُ مَن يَخْشَىٰ"
+    },
+    {
+      "verseNo": 11,
+      "textArabic": "وَيَتَجَنَّبُهَا ٱلْأَشْقَى"
+    },
+    {
+      "verseNo": 12,
+      "textArabic": "ٱلَّذِى يَصْلَى ٱلنَّارَ ٱلْكُبْرَىٰ"
+    },
+    {
+      "verseNo": 13,
+      "textArabic": "ثُمَّ لَا يَمُوتُ فِيهَا وَلَا يَحْيَىٰ"
+    },
+    {
+      "verseNo": 14,
+      "textArabic": "قَدْ أَفْلَحَ مَن تَزَكَّىٰ"
+    },
+    {
+      "verseNo": 15,
+      "textArabic": "وَذَكَرَ ٱسْمَ رَبِّهِۦ فَصَلَّىٰ"
+    },
+    {
+      "verseNo": 16,
+      "textArabic": "بَلْ تُؤْثِرُونَ ٱلْحَيَوٰةَ ٱلدُّنْيَا"
+    },
+    {
+      "verseNo": 17,
+      "textArabic": "وَٱلْءَاخِرَةُ خَيْرٌۭ وَأَبْقَىٰٓ"
+    },
+    {
+      "verseNo": 18,
+      "textArabic": "إِنَّ هَٰذَا لَفِى ٱلصُّحُفِ ٱلْأُولَىٰ"
+    },
+    {
+      "verseNo": 19,
+      "textArabic": "صُحُفِ إِبْرَٰهِيمَ وَمُوسَىٰ"
+    }
+  ],
+  "translations": [
+    {
+      "verseNo": 1,
+      "source": "diyanet",
+      "text": "Yüce Rabbinin adını tespih et."
+    },
+    {
+      "verseNo": 1,
+      "source": "islamoglu",
+      "text": "(EY RASÛL) yücelikte eşsiz olan Rabbin adına hareket et!"
+    },
+    {
+      "verseNo": 1,
+      "source": "esed",
+      "text": "Yücelt Rabbinin sınırsız şanını! Yüceler Yücesi(nin şanını)"
+    },
+    {
+      "verseNo": 1,
+      "source": "okuyan",
+      "text": "Yüce Rabbinin adını [tesbih] et (yücelt)!"
+    },
+    {
+      "verseNo": 2,
+      "source": "diyanet",
+      "text": "O, yaratıp şekillendiren, âhenk veren ve düzene koyandır."
+    },
+    {
+      "verseNo": 2,
+      "source": "islamoglu",
+      "text": "O ki, tüm mahlukatı yarattı ve yaratılış amacına uygun bir donanım verdi."
+    },
+    {
+      "verseNo": 2,
+      "source": "esed",
+      "text": "O ki, (her şeyi) yaratmakta ve amacına uygun şekiller vermektedir"
+    },
+    {
+      "verseNo": 2,
+      "source": "okuyan",
+      "text": "(O), yaratan ve düzene koyandır."
+    },
+    {
+      "verseNo": 3,
+      "source": "diyanet",
+      "text": "O, (her şeyi) ölçüyle yapıp yönlendirendir."
+    },
+    {
+      "verseNo": 3,
+      "source": "islamoglu",
+      "text": "O ki, her şeye yaratılıştan bir ölçü ve amaç takdir etti, sonra (o ölçüye uyarak amacına ulaşacak) istikamete yöneltti."
+    },
+    {
+      "verseNo": 3,
+      "source": "esed",
+      "text": "O ki, (bütün mevcudatın) tabiatını belirlemekte ve onu (hedefine doğru) yöneltmektedir"
+    },
+    {
+      "verseNo": 3,
+      "source": "okuyan",
+      "text": "Ölçü koyandır ve yol gösterendir."
+    },
+    {
+      "verseNo": 4,
+      "source": "diyanet",
+      "text": "O, yeşil bitki örtüsünü çıkaran, sonra da onları çürüyüp kararmış çerçöpe çevirendir."
+    },
+    {
+      "verseNo": 4,
+      "source": "islamoglu",
+      "text": "O ki, tüm bitki örtüsünü çıkardı;"
+    },
+    {
+      "verseNo": 4,
+      "source": "esed",
+      "text": "O ki, yeşil ot(lar)ı çıkarmakta"
+    },
+    {
+      "verseNo": 4,
+      "source": "okuyan",
+      "text": "(Topraktan) otlağı çıkarandır."
+    },
+    {
+      "verseNo": 5,
+      "source": "diyanet",
+      "text": "O, yeşil bitki örtüsünü çıkaran, sonra da onları çürüyüp kararmış çerçöpe çevirendir."
+    },
+    {
+      "verseNo": 5,
+      "source": "islamoglu",
+      "text": "sonra onu kapkara-kupkuru bir hale soktu."
+    },
+    {
+      "verseNo": 5,
+      "source": "esed",
+      "text": "ve sonra on(lar)ı kara, kavruk kök haline getirmektedir"
+    },
+    {
+      "verseNo": 5,
+      "source": "okuyan",
+      "text": "Sonra da onu kapkara kuru ota çevirendir."
+    },
+    {
+      "verseNo": 6,
+      "source": "diyanet",
+      "text": "Sana Kur'an'ı okutacağız ve sen onu unutmayacaksın."
+    },
+    {
+      "verseNo": 6,
+      "source": "islamoglu",
+      "text": "(EY RASÛL!) Biz seni vahye aracı kılacağız ve sen asla unutmayacaksın;"
+    },
+    {
+      "verseNo": 6,
+      "source": "esed",
+      "text": "Biz sana öğreteceğiz ve (öğrendiklerinden hiçbirini) unutmayacaksın"
+    },
+    {
+      "verseNo": 6,
+      "source": "okuyan",
+      "text": "6,7. Sana (Kur’an’ı) okutacağız ve sen -Allah’ın dilemesi hariç- (onu) unutmayacaksın. Şüphesiz ki O, açığı da gizli olanı da bilir."
+    },
+    {
+      "verseNo": 7,
+      "source": "diyanet",
+      "text": "Ancak Allah'ın dilediği başka. Şüphesiz O, açık olanı da bilir, gizliyi de."
+    },
+    {
+      "verseNo": 7,
+      "source": "islamoglu",
+      "text": "Allah’ın (unutmanı) istedikleri hariç; çünkü O açığa çıkanı da bilir gizleneni de;"
+    },
+    {
+      "verseNo": 7,
+      "source": "esed",
+      "text": "Allah´ın (unutmanı) diledikleri hariç; çünkü, (yalnız) O´dur (insanın) kavrayışına açık olan her şeyi ve (ondan) gizli olanları bilen"
+    },
+    {
+      "verseNo": 7,
+      "source": "okuyan",
+      "text": "6,7. Sana (Kur’an’ı) okutacağız ve sen -Allah’ın dilemesi hariç- (onu) unutmayacaksın. Şüphesiz ki O, açığı da gizli olanı da bilir."
+    },
+    {
+      "verseNo": 8,
+      "source": "diyanet",
+      "text": "Biz seni en kolay olana kolayca ileteceğiz."
+    },
+    {
+      "verseNo": 8,
+      "source": "islamoglu",
+      "text": "böylece zaten kolay olan (vahyi anlamayı) sana daha da kolaylaştırmış olacağız."
+    },
+    {
+      "verseNo": 8,
+      "source": "esed",
+      "text": "Biz, (böylece) (nihai) huzura ve rahatlığa giden yolu senin için kolaylaştıracağız"
+    },
+    {
+      "verseNo": 8,
+      "source": "okuyan",
+      "text": "Kolay olanı sana (daha da) kolaylaştıracağız."
+    },
+    {
+      "verseNo": 9,
+      "source": "diyanet",
+      "text": "O halde, eğer öğüt fayda verirse, öğüt ver."
+    },
+    {
+      "verseNo": 9,
+      "source": "islamoglu",
+      "text": "Şu halde sen, -öğüt (sadece bazılarına) fayda verse de- hep (fıtratlara nakşolan Allah’ı) hatırlat;"
+    },
+    {
+      "verseNo": 9,
+      "source": "esed",
+      "text": "O halde, (hakikati başkalarına) hatırlat, bu hatırlatma ister fayda ver(iyor görün)sün, (ister görünmesin)"
+    },
+    {
+      "verseNo": 9,
+      "source": "okuyan",
+      "text": "Hatırlamak yarar sağlayacağı için (gerçeği) hatırlat!"
+    },
+    {
+      "verseNo": 10,
+      "source": "diyanet",
+      "text": "Allah'a karşı derin saygı duyarak ondan korkan öğüt alacaktır."
+    },
+    {
+      "verseNo": 10,
+      "source": "islamoglu",
+      "text": "nasıl olsa Allah’ın sevgisini kaybetmekten korkanlar öğüt alacaktır;"
+    },
+    {
+      "verseNo": 10,
+      "source": "esed",
+      "text": "(Allah´tan) korkan, düşünüp ondan ders alır"
+    },
+    {
+      "verseNo": 10,
+      "source": "okuyan",
+      "text": "(Allah’a) saygılı olan kişi (gerçeği) hatırlayacaktır."
+    },
+    {
+      "verseNo": 11,
+      "source": "diyanet",
+      "text": "En büyük ateşe girecek olan en bedbaht kimse (kâfir) ise, öğüt almaktan kaçınır."
+    },
+    {
+      "verseNo": 11,
+      "source": "islamoglu",
+      "text": "bedbaht olanlar ise öğütten kaçacaktır;"
+    },
+    {
+      "verseNo": 11,
+      "source": "esed",
+      "text": "ona yabancılaşan ise bir zavallı biçare olarak kalır"
+    },
+    {
+      "verseNo": 11,
+      "source": "okuyan",
+      "text": "En azgın (kâfir) ise ondan kaçınacaktır."
+    },
+    {
+      "verseNo": 12,
+      "source": "diyanet",
+      "text": "En büyük ateşe girecek olan en bedbaht kimse (kâfir) ise, öğüt almaktan kaçınır."
+    },
+    {
+      "verseNo": 12,
+      "source": "islamoglu",
+      "text": "bu gibiler en korkunç ateşi boylayacaktır;"
+    },
+    {
+      "verseNo": 12,
+      "source": "esed",
+      "text": "böylesi, (öteki dünyada) büyük ateşe atılacak"
+    },
+    {
+      "verseNo": 12,
+      "source": "okuyan",
+      "text": "O en büyük ateşe girecek olandır."
+    },
+    {
+      "verseNo": 13,
+      "source": "diyanet",
+      "text": "Sonra orada ne ölür (kurtulur), ne de (rahat bir hayat) yaşar."
+    },
+    {
+      "verseNo": 13,
+      "source": "islamoglu",
+      "text": "sonra orada ne ölebilecek, ne yaşayabilecektir."
+    },
+    {
+      "verseNo": 13,
+      "source": "esed",
+      "text": "ve orada ne ölecektir ne de diri kalacak"
+    },
+    {
+      "verseNo": 13,
+      "source": "okuyan",
+      "text": "Sonra, orada (tam) ölmeyecek ve (tam) yaşamayacak."
+    },
+    {
+      "verseNo": 14,
+      "source": "diyanet",
+      "text": "Arınan ve Rabbinin adını anıp, namaz kılan kimse mutlaka kurtuluşa erer."
+    },
+    {
+      "verseNo": 14,
+      "source": "islamoglu",
+      "text": "(Mânevî kirlerden) arınma gayreti içinde olanlar kurtuluşa erecek;"
+    },
+    {
+      "verseNo": 14,
+      "source": "esed",
+      "text": "(Bu dünyada) arınmayı başaran ise, (öteki dünyada) mutluluğa ulaşır"
+    },
+    {
+      "verseNo": 14,
+      "source": "okuyan",
+      "text": "Arınan kişi elbette kurtulmuştur."
+    },
+    {
+      "verseNo": 15,
+      "source": "diyanet",
+      "text": "Arınan ve Rabbinin adını anıp, namaz kılan kimse mutlaka kurtuluşa erer."
+    },
+    {
+      "verseNo": 15,
+      "source": "islamoglu",
+      "text": "Rabbinin adını hatırda tutan da, salata duran da (kurtuluşa erecek)."
+    },
+    {
+      "verseNo": 15,
+      "source": "esed",
+      "text": "ki böylesi, Rabbinin ismini hatırlayan ve (O´na) ibadet edendir"
+    },
+    {
+      "verseNo": 15,
+      "source": "okuyan",
+      "text": "Rabbinin adını anıp [salât] edenler de (O’nun dinine destek olanlar da)."
+    },
+    {
+      "verseNo": 16,
+      "source": "diyanet",
+      "text": "Fakat sizler dünya hayatını tercih ediyorsunuz."
+    },
+    {
+      "verseNo": 16,
+      "source": "islamoglu",
+      "text": "Fakat siz (ey insanlar), bu yakın ve aşağı hayatı tercih ediyorsunuz;"
+    },
+    {
+      "verseNo": 16,
+      "source": "esed",
+      "text": "Ama hayır, (ey insanlar,) siz bu dünya hayatını tercih edersiniz"
+    },
+    {
+      "verseNo": 16,
+      "source": "okuyan",
+      "text": "Fakat siz dünya hayatını tercih ediyorsunuz."
+    },
+    {
+      "verseNo": 17,
+      "source": "diyanet",
+      "text": "Oysa âhiret, daha hayırlı ve süreklidir."
+    },
+    {
+      "verseNo": 17,
+      "source": "islamoglu",
+      "text": "oysa ki öteki (hayat) daha hayırlı ve daha kalıcıdır."
+    },
+    {
+      "verseNo": 17,
+      "source": "esed",
+      "text": "oysa gelecek hayat daha iyi ve daha kalıcıdır"
+    },
+    {
+      "verseNo": 17,
+      "source": "okuyan",
+      "text": "(Oysa) ahiret daha iyi ve daha kalıcıdır."
+    },
+    {
+      "verseNo": 18,
+      "source": "diyanet",
+      "text": "Şüphesiz bu hükümler ilk sayfalarda, İbrahim ve Mûsâ'nın sayfalarında da vardır."
+    },
+    {
+      "verseNo": 18,
+      "source": "islamoglu",
+      "text": "Elbet bütün bu hakikatler önceki vahiylerde yer almıştır;"
+    },
+    {
+      "verseNo": 18,
+      "source": "esed",
+      "text": "Gerçek şu ki, (bütün) bunlar, geçmiş vahiylerde (bildirilmiş)tir"
+    },
+    {
+      "verseNo": 18,
+      "source": "okuyan",
+      "text": "Şüphesiz ki bu (anlatılanlar), önceki sahifelerde de (vahiylerde de) vardı:"
+    },
+    {
+      "verseNo": 19,
+      "source": "diyanet",
+      "text": "Şüphesiz bu hükümler ilk sayfalarda, İbrahim ve Mûsâ'nın sayfalarında da vardır."
+    },
+    {
+      "verseNo": 19,
+      "source": "islamoglu",
+      "text": "(mesela) İbrahim ve Musa’ya indirilen vahiylerde."
+    },
+    {
+      "verseNo": 19,
+      "source": "esed",
+      "text": "İbrahim ve Musa´ya indirilen vahiylerde"
+    },
+    {
+      "verseNo": 19,
+      "source": "okuyan",
+      "text": "İbrahim’in ve Musa’nın sahifelerinde."
+    },
+    {
+      "verseNo": 1,
+      "verseNoEnd": null,
+      "source": "ai",
+      "text": "Rabbinin en yüce ismini tesbih et."
+    },
+    {
+      "verseNo": 2,
+      "verseNoEnd": null,
+      "source": "ai",
+      "text": "O, yarattı ve düzenledi."
+    },
+    {
+      "verseNo": 3,
+      "verseNoEnd": null,
+      "source": "ai",
+      "text": "O, ölçüp belirledi ve doğru yola yönlendirdi."
+    },
+    {
+      "verseNo": 4,
+      "verseNoEnd": null,
+      "source": "ai",
+      "text": "O, otları çıkardı."
+    },
+    {
+      "verseNo": 5,
+      "verseNoEnd": null,
+      "source": "ai",
+      "text": "Sonra onu kuru, sararmış bir şeye çevirdi."
+    },
+    {
+      "verseNo": 6,
+      "verseNoEnd": null,
+      "source": "ai",
+      "text": "Biz sana okuyacağız; sen unutmayacaksın."
+    },
+    {
+      "verseNo": 7,
+      "verseNoEnd": null,
+      "source": "ai",
+      "text": "Ancak Allah dilediği hariç. Şüphesiz O, açığa vurulanı ve gizli olanı bilir."
+    },
+    {
+      "verseNo": 8,
+      "verseNoEnd": null,
+      "source": "ai",
+      "text": "Seni kolaylığa yönlendireceğiz."
+    },
+    {
+      "verseNo": 9,
+      "verseNoEnd": null,
+      "source": "ai",
+      "text": "O halde hatırlat; hatırlatma fayda verirse."
+    },
+    {
+      "verseNo": 10,
+      "verseNoEnd": null,
+      "source": "ai",
+      "text": "Sakınan kimse hatırlayacaktır."
+    },
+    {
+      "verseNo": 11,
+      "verseNoEnd": null,
+      "source": "ai",
+      "text": "Bahtsız olan ondan kaçınır."
+    },
+    {
+      "verseNo": 12,
+      "verseNoEnd": null,
+      "source": "ai",
+      "text": "Büyük ateşe girendir."
+    },
+    {
+      "verseNo": 13,
+      "verseNoEnd": null,
+      "source": "ai",
+      "text": "Orada ne ölür ne de yaşar."
+    },
+    {
+      "verseNo": 14,
+      "verseNoEnd": null,
+      "source": "ai",
+      "text": "Arınan kimse kurtuluşa ermiştir."
+    },
+    {
+      "verseNo": 15,
+      "verseNoEnd": null,
+      "source": "ai",
+      "text": "Rabbinin adını anıp namaz kılan."
+    },
+    {
+      "verseNo": 16,
+      "verseNoEnd": null,
+      "source": "ai",
+      "text": "Hayır; siz dünya hayatını tercih ediyorsunuz."
+    },
+    {
+      "verseNo": 17,
+      "verseNoEnd": null,
+      "source": "ai",
+      "text": "Oysa ahiret daha hayırlı ve daha kalıcıdır."
+    },
+    {
+      "verseNo": 18,
+      "verseNoEnd": null,
+      "source": "ai",
+      "text": "Gerçekten bu, ilk yazılarda vardır."
+    },
+    {
+      "verseNo": 19,
+      "verseNoEnd": null,
+      "source": "ai",
+      "text": "İbrahim ve Musa'nın yazılarında."
+    }
+  ],
+  "aiParagraph": "Yeşil ot filizlenir, solar, kararır, çürür — metin tam da bununla başlar, gözün her gün gördüğü o döngüyle. Ama bu bir karamsar tablo değil; aksine, o döngünün bilinçli, ölçülü, yönlendirilmiş olduğuna dair bir işaret. Her şey bir düzene göre büyüyor, bir düzene göre sona eriyor. Sonra metin insana döner ve şunu söyler: Sana bir şey verilecek, onu unutmayacaksın — çünkü içinde ne sakladığın da, dışarıya ne yansıttığın da görülüyor. Kolaylaştırılmış bir yol var önünde; zorla kazanılmış değil, sunulmuş. Hatırlatma işe yarayacaksa söylenir; ama kimi insan duyar, kimi zaten duymak istemez — bu tercih o insanın kendisine aittir, kimse zorlanmaz. Asıl gerilim ortada: insan eliyle olanı değil, gözünün önündekini seçiyor; yakını, dokunulabileni, hemen vereni. Oysa metnin dediğine göre bu tercih yeni değil — İbrahim'in ve Musa'nın döneminde de aynı şey yazılıydı. Yani bu çatışma insanlığın en eski çatışmalarından biri: şimdiyi mi, yoksa kalıcı olanı mı?",
+  "audienceContext": "A'lâ suresi, vahyin ilk halkalarından birinde indi. Muhataplar Mekke'nin çarşı insanlarıydı: deve tüccarları, kabile reisleri, şiir yarışmalarına katılan ozanlar. Bu insanlar evrenin bir yaratıcı tarafından düzenlendiğini zaten kabul ediyordu. Lokmân suresinin kendi sözleriyle, gökleri ve yeri kimin yarattığı sorulduğunda 'Allah' diyorlardı. Dolayısıyla sure, tartışmalı bir zemine değil, paylaşılan bir kabule yaslanarak açıldı: yaratan, ölçüyü koyan, otlakları çıkaran, sonra onları solar kara çöpe çeviren aynı güçtür. Seyirci bu sahneyi her yıl çölde görüyordu; sure onu anlatıma malzeme olarak aldı.\n\nDirenç, anlamayanlardan gelmiyordu. Mevcut düzenin taşıyıcıları olan isimsiz ama ima edilmiş figürler, surenin ikinci yarısında karşımıza çıkar: 'bel tüʾs̱irûne'l-hayâte'd-dünyâ' — 'siz dünya hayatını önceliyorsunuz.' Bu 'siz' kibarca ama kesin bir ayrım çizer. Kabile statüsünü, miras gelen unvanı, biriktirilen varlığı kaybetmek istemeyenler için yeni bir tanım tehlikeli görünüyordu; çünkü sure başarıyı yeniden tarif ediyordu: 'tezekkâ' (arınan, olgunlaşan) kurtuluşa erer — deve sayısı, soy ağacı ya da şiir yarışması birinciliği değil.\n\nMekke'nin cahiliye anlayışında yumuşaklık zayıflık sayılırdı. Zorbaca güç erdemdi; topluluğun saygısını kazanmanın yolu statü, şiddet kapasitesi ve kabilenin arkasında durmaktı. Bu ortamda 'arın' çağrısı yalnızca dinî bir talep değildi; o dönemin erdem anlayışını köklü biçimde tersine çeviriyordu. Azgınlık, arzuların esiri olmak, çatışmayı büyütmek — bunlar o toplumda erdem işaretiydi. Sure, erdemin tarif kitabını değiştirmeye girişiyordu.\n\nBir de vahiy taşıyıcısının kendi içsel durumu vardı. Sure, vahyi kaçırma kaygısıyla bunalan birine de seslendi. Gelen metni hızla ezberlemek için dudaklarını kıpırdatan biri vardı karşıda; sure ona 'seni okutacağız, unutmayacaksın' dedi. Bu hem bir güvence hem de kontrolü bırakma çağrısıydı: koruyacak olan sen değilsin.",
+  "eventMessageMap": [
+    {
+      "situation": "Mekkeli muhataplar evrenin yaratıcılığını kabul ediyor, ama peygamberin otoritesini reddediyordu.",
+      "response": "Sure ortak zeminden başladı: yaratan, ölçen, yol gösteren, otlakları çıkarıp solar kara çöpe çeviren tek güç.",
+      "shift": "Tartışma 'Allah var mı yok mu' sorusundan 'bu varlığın insana ne söylediği' sorusuna taşındı."
+    },
+    {
+      "situation": "Vahyi alan kişi, kelimelerin kendisinden kaçacağı korkusuyla metni aceleyle tekrarlıyordu.",
+      "response": "Sure doğrudan o kişiye seslendi: 'seni okutacağız, unutmayacaksın; O açığı da gizliyi de bilir.'",
+      "shift": "Vahyin korunması sorumluluğu tek bir insanın omuzlarından alındı, güvencenin kaynağı dışarıya taşındı."
+    },
+    {
+      "situation": "Mekke'de başarı deve sayısı, kabile statüsü ve güç gösterisiyle ölçülüyordu.",
+      "response": "Sure başarıyı 'tezekkâ' — arınma ve olgunlaşma — ile tanımladı, ardından dünyayı öncelemenin kaybı olduğunu belirtti.",
+      "shift": "Statü ölçütü dışarıdan içeriye kaydı: başkasının onayı değil, kişinin kendi iç durumu kriter oldu."
+    },
+    {
+      "situation": "Mekke'nin önde gelenleri bu mesajı yeni ve yabancı bir iddia olarak suçluyordu.",
+      "response": "Sure İbrahim'in ve Musa'nın sahifelerine atıf yaptı: 'Bu, önceki sahifelerde de vardır.'",
+      "shift": "İddia 'benim yeni bir söz getiriyorum' olmaktan çıktı; tanıdık bir mirasın hatırlatılması hâline geldi."
+    }
+  ],
+  "apophaticReading": "'A'lâ bir ibadet rehberidir' okuması metnin kendi mantığıyla çelişir. Çünkü aynı sure, 'öğüt fayda verecekse öğüt ver' diyerek dinleyiciye koşul bağlar; evrensel bir zorunluluk değil, fayda ölçütü koyar. Üstelik sure 'arınan kurtulur' derken bir ritüel listesi değil, bir iç durum tanımlar. Tezekkâ kökü hem temizliği hem büyümeyi taşır; onu salt dış eylem listesine indirgemek, kelimenin kendi içeriğini çürütür.\n\n'A'lâ bir kıyamet uyarısıdır' okuması da metnin kendi mantığıyla çelişir. Çünkü aynı sure çok daha büyük bölümünü yaratma sahnesine, otlağın yeşermesine ve solarken kararmasına ayırır. Bu görüntüler yalnızca korkutucu bir son için dekor değildir; sure, devam eden bir döngüyü sunar. Kararıp dağılan çöp, yok oluşu değil dönüşümü anlatır — aynı sure ardından 'ölçüyü verdi ve yol gösterdi' der. Korku odaklı bir okuma, surenin yaratma tarifindeki bu ritmi göz ardı eder.\n\nGeriye kalan yönelim şu alana işaret ediyor: sure boyunca bir şey hiç sorgulanmıyor — düzenin kendisi. Yaratan ölçtü, yol gösterdi, çıkardı, solar kara çöpe çevirdi. Bunların hiçbiri bir soruyla karşılanmıyor; muhatap bu düzenin içinde konumlanıyor. Surenin asıl gerilimi dışarıda (inanmak ya da inanmamak) değil, içeride (dünyayı mı önceleyeceksin, arınmayı mı?) kuruluyor. Bu, statü kavgasını değil kişinin kendi seçimini merkeze alan bir yapı.\n\nBugüne kadar az bakılmış açı: sure İbrahim ve Musa'yı sona saklıyor. Klasik okuma bunu 'geleneğin teyidi' olarak alır. Ama metindeki sıra dikkat çekicidir: önce yaratma, sonra vahiy güvencesi, sonra arınan ile dünyayı önceleyenin karşıtlığı, en sonda geçmiş sahifeler. Bu sıra, metnin 'tarihsel otorite' ile değil, doğrudan gözlemle başladığını gösterir. Yeşeren ot ve solar çöp önce gelir, İbrahim sonra. Yani ortak zemin, özel bir geleneğe değil, herkesin gördüğü doğal döngüye dayanıyor. İbrahim'in adı onaylamak için geliyor, ikna etmek için değil.\n\nSusma: *Surenin, dünyayı önceleyen kişinin neden bunu seçtiğini — hangi korkudan, hangi baskıdan, hangi mecburiyetten — hiç sorduğu buradan görünmez.*",
+  "aiCommentary": "Bu dört bölüm yapay zekâ tarafından yazılmıştır. Metnin Arapça aslı, verilen doğrulanmış editoryal içerik ve TDV İslâm Ansiklopedisi'nin 'Câhiliye' ile 'Suhuf' maddeleri temel kaynak olarak kullanılmıştır. Tarihsel bağlam iddiaları bu kaynaklara dayandırılmış; dayanağı olmayan sosyolojik yorum metne dahil edilmemiştir.\n\nApofatik okuma bölümü, 'metin şunu söylüyor' yerine 'bu okuma metnin kendi mantığıyla neden tutarsız' sorusunu soran bir olumsuzlama yöntemiyle kurulmuştur. Bu yöntemin sebebi şudur: bir metnin yaratıcısının maksadına dair her olumlu iddia, zorunlu olarak yorumcunun tahminidir. Olumsuzlama ise metnin kendi içsel tutarsızlıklarına bakarak çalışır ve bu nedenle daha denetlenebilir bir zemin sunar.\n\nBu metin tefsir, meal ya da fetva değildir. Herhangi bir amel hükmü çıkarmak için kullanılamaz. Yeni filolojik, tarihsel veya bağlamsal bilgiler ortaya çıktığında buradaki yorumlar revize edilmeyi gerektirir. Okuyucunun bu metni bir başlangıç noktası olarak alması, birincil kaynaklara doğrudan başvurması önerilir."
 }

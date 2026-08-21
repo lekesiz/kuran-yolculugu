@@ -1,971 +1,996 @@
 {
- "stationNo": 10,
- "surahNo": 89,
- "nuzulOrderOkuyan": 11,
- "name": "Fecr",
- "nameArabic": "الفجر",
- "nameMeaning": "Tan vakti, şafak",
- "verseCount": 30,
- "periodDiyanet": "Mekke",
- "periodOkuyan": "Mekke",
- "revelationTiming": "Mekke dönemi",
- "stationTitle": "Servet bir imtihandır; yoksulluk da. İkisinde de sınav aynıdır: yetime ve muhtaca ne yaptın?",
- "introduction": "Fecr suresi, adını birinci ayetteki tan vaktine edilen yeminden alır. Otuz ayetlik sure Mekke döneminde inmiştir.\n\nSure dört bölümdür. Açılışta şafağa, on geceye, çifte ve teke, geçip giden geceye yeminler edilir. Ardından Âd, Semûd ve Firavun'un çöküşü anılır. Üçüncü bölüm insanın servet ve yoksulluk karşısındaki yanlış okumasını düzeltir. Kapanış, nefsin huzura ermesiyle sonuçlanır.",
- "occasionOfRevelation": "Sure Mekke döneminde, servetin ilahi bir onay, yoksulluğun ise ilahi bir gözden düşme sayıldığı bir toplumsal ortamda inmiştir. Mekke'nin ticaret aristokrasisi zenginliğini kendi üstünlüğünün kanıtı olarak görüyordu.\n\nSurenin on beşinci ve on altıncı ayetleri bu okumayı doğrudan reddeder: insan zenginlik verildiğinde \"Rabbim beni şereflendirdi\", rızkı daraltıldığında \"Rabbim beni aşağıladı\" der. Ayet hemen ardından \"Hayır!\" diyerek bu yorumu keser. Metne göre ikisi de bir değer beyanı değil, birer imtihan hâlidir.\n\nArdından gelen ayetler asıl ölçütü koyar: yetime ikram etmemek, yoksulu doyurmaya teşvik etmemek, mirası hırsla toplamak (89:17-20). Sure, servetin kendisini değil servetle kurulan ilişkiyi yargılar. Âd, Semûd ve Firavun örnekleri de aynı çizgide okunur: güç, çöküşe karşı koruma sağlamamıştır.",
- "occasionSources": "Diyanet İşleri Başkanlığı Kur'an Yolu Tefsiri, Fecr suresi girişi; TDV İslâm Ansiklopedisi, \"Fecr Sûresi\" maddesi.",
- "contemporaryMeaning": "Bu surenin bugüne en doğrudan konuşan yeri, başarı teolojisine yaptığı itirazdır. Kazandığını hak ettiğinin kanıtı, kaybettiğini de cezanın işareti saymak bugün de yaygın bir refleks: \"Zengin olduysam çalıştım\", \"Yoksulsa bir eksiği var.\" Sure bu iki çıkarımı da aynı cümlede reddeder.\n\nİkinci vurgu ölçütün nereye konduğudur. Sure servetin miktarını değil, servetin yanında yetimin ve yoksulun nerede durduğunu sorar. Ekonomik başarı, bu üç sorunun cevabı olmadan bir değer beyanı üretmez.\n\nKapanıştaki \"huzura ermiş nefis\" (nefs-i mutmainne) ifadesi, surenin bütün gerilimini çözer: aranan şey ne servet ne itibardır, kendisiyle barışmış bir bilinçtir.",
- "keyTerms": [
-  {
-   "term": "fecr",
-   "arabic": "الْفَجْر",
-   "verseRef": "89:1",
-   "meaning": "Tan vakti, şafağın yarılışı. Karanlığın yarılıp ışığın çıkması; kökü \"yarmak\" anlamındadır."
-  },
-  {
-   "term": "ekremeni / ehâneni",
-   "arabic": "أَكْرَمَنِ / أَهَانَنِ",
-   "verseRef": "89:15-16",
-   "meaning": "\"Beni şereflendirdi\" / \"beni aşağıladı\". İnsanın servet ve yoksulluğu yanlış okuma biçimi; ayet ikisini de reddeder."
-  },
-  {
-   "term": "sevtu'l-azâb",
-   "arabic": "سَوْطَ عَذَابٍ",
-   "verseRef": "89:13",
-   "meaning": "Azap kamçısı. Zorba düzenlerin çöküşünü anlatan imge."
-  },
-  {
-   "term": "nefs-i mutmainne",
-   "arabic": "النَّفْسُ الْمُطْمَئِنَّة",
-   "verseRef": "89:27",
-   "meaning": "Huzura ermiş, doygunluğa kavuşmuş benlik. Surenin varış noktası."
-  }
- ],
- "themes": [
-  {
-   "label": "Servet onay, yoksulluk ceza değildir",
-   "body": "Sure, kazancı ilahi bir takdir belgesi, kaybı da bir aşağılama sayan okumayı açık bir \"Hayır!\" ile keser. İkisi de birer imtihan hâlidir."
-  },
-  {
-   "label": "Ölçüt: yetim ve yoksul",
-   "body": "Servetin değerlendirilmesi miktarına değil, yanında yetimin ve muhtacın nerede durduğuna bakılarak yapılır."
-  },
-  {
-   "label": "Güç, çöküşe karşı koruma sağlamaz",
-   "body": "Âd, Semûd ve Firavun örnekleri, dönemin en güçlü yapılarının da yıkıldığını hatırlatır. Kudret, kalıcılık garantisi değildir."
-  },
-  {
-   "label": "Varış: kendisiyle barışmış benlik",
-   "body": "Sure servet ya da itibarla değil, huzura ermiş bir bilinçle kapanır. Aranan şeyin ne olduğunu kapanış açıkça söyler."
-  }
- ],
- "questions": [
-  "Kendi kazancımı hak ettiğimin kanıtı olarak mı görüyorum? Peki başkasının yoksulluğunu neyin kanıtı sayıyorum?",
-  "Elimdeki imkânın yanında bir yetimin, bir muhtacın yeri var mı? Somut olarak ne yapıyorum?",
-  "Şu an huzursuzluğumun kaynağı gerçekten eksiklik mi, yoksa yeterince sahip olmadığım duygusu mu?"
- ],
- "verses": [
-  {
-   "verseNo": 1,
-   "textArabic": "بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ وَٱلْفَجْرِ"
-  },
-  {
-   "verseNo": 2,
-   "textArabic": "وَلَيَالٍ عَشْرٍۢ"
-  },
-  {
-   "verseNo": 3,
-   "textArabic": "وَٱلشَّفْعِ وَٱلْوَتْرِ"
-  },
-  {
-   "verseNo": 4,
-   "textArabic": "وَٱلَّيْلِ إِذَا يَسْرِ"
-  },
-  {
-   "verseNo": 5,
-   "textArabic": "هَلْ فِى ذَٰلِكَ قَسَمٌۭ لِّذِى حِجْرٍ"
-  },
-  {
-   "verseNo": 6,
-   "textArabic": "أَلَمْ تَرَ كَيْفَ فَعَلَ رَبُّكَ بِعَادٍ"
-  },
-  {
-   "verseNo": 7,
-   "textArabic": "إِرَمَ ذَاتِ ٱلْعِمَادِ"
-  },
-  {
-   "verseNo": 8,
-   "textArabic": "ٱلَّتِى لَمْ يُخْلَقْ مِثْلُهَا فِى ٱلْبِلَٰدِ"
-  },
-  {
-   "verseNo": 9,
-   "textArabic": "وَثَمُودَ ٱلَّذِينَ جَابُوا۟ ٱلصَّخْرَ بِٱلْوَادِ"
-  },
-  {
-   "verseNo": 10,
-   "textArabic": "وَفِرْعَوْنَ ذِى ٱلْأَوْتَادِ"
-  },
-  {
-   "verseNo": 11,
-   "textArabic": "ٱلَّذِينَ طَغَوْا۟ فِى ٱلْبِلَٰدِ"
-  },
-  {
-   "verseNo": 12,
-   "textArabic": "فَأَكْثَرُوا۟ فِيهَا ٱلْفَسَادَ"
-  },
-  {
-   "verseNo": 13,
-   "textArabic": "فَصَبَّ عَلَيْهِمْ رَبُّكَ سَوْطَ عَذَابٍ"
-  },
-  {
-   "verseNo": 14,
-   "textArabic": "إِنَّ رَبَّكَ لَبِٱلْمِرْصَادِ"
-  },
-  {
-   "verseNo": 15,
-   "textArabic": "فَأَمَّا ٱلْإِنسَٰنُ إِذَا مَا ٱبْتَلَىٰهُ رَبُّهُۥ فَأَكْرَمَهُۥ وَنَعَّمَهُۥ فَيَقُولُ رَبِّىٓ أَكْرَمَنِ"
-  },
-  {
-   "verseNo": 16,
-   "textArabic": "وَأَمَّآ إِذَا مَا ٱبْتَلَىٰهُ فَقَدَرَ عَلَيْهِ رِزْقَهُۥ فَيَقُولُ رَبِّىٓ أَهَٰنَنِ"
-  },
-  {
-   "verseNo": 17,
-   "textArabic": "كَلَّا ۖ بَل لَّا تُكْرِمُونَ ٱلْيَتِيمَ"
-  },
-  {
-   "verseNo": 18,
-   "textArabic": "وَلَا تَحَٰٓضُّونَ عَلَىٰ طَعَامِ ٱلْمِسْكِينِ"
-  },
-  {
-   "verseNo": 19,
-   "textArabic": "وَتَأْكُلُونَ ٱلتُّرَاثَ أَكْلًۭا لَّمًّۭا"
-  },
-  {
-   "verseNo": 20,
-   "textArabic": "وَتُحِبُّونَ ٱلْمَالَ حُبًّۭا جَمًّۭا"
-  },
-  {
-   "verseNo": 21,
-   "textArabic": "كَلَّآ إِذَا دُكَّتِ ٱلْأَرْضُ دَكًّۭا دَكًّۭا"
-  },
-  {
-   "verseNo": 22,
-   "textArabic": "وَجَآءَ رَبُّكَ وَٱلْمَلَكُ صَفًّۭا صَفًّۭا"
-  },
-  {
-   "verseNo": 23,
-   "textArabic": "وَجِا۟ىٓءَ يَوْمَئِذٍۭ بِجَهَنَّمَ ۚ يَوْمَئِذٍۢ يَتَذَكَّرُ ٱلْإِنسَٰنُ وَأَنَّىٰ لَهُ ٱلذِّكْرَىٰ"
-  },
-  {
-   "verseNo": 24,
-   "textArabic": "يَقُولُ يَٰلَيْتَنِى قَدَّمْتُ لِحَيَاتِى"
-  },
-  {
-   "verseNo": 25,
-   "textArabic": "فَيَوْمَئِذٍۢ لَّا يُعَذِّبُ عَذَابَهُۥٓ أَحَدٌۭ"
-  },
-  {
-   "verseNo": 26,
-   "textArabic": "وَلَا يُوثِقُ وَثَاقَهُۥٓ أَحَدٌۭ"
-  },
-  {
-   "verseNo": 27,
-   "textArabic": "يَٰٓأَيَّتُهَا ٱلنَّفْسُ ٱلْمُطْمَئِنَّةُ"
-  },
-  {
-   "verseNo": 28,
-   "textArabic": "ٱرْجِعِىٓ إِلَىٰ رَبِّكِ رَاضِيَةًۭ مَّرْضِيَّةًۭ"
-  },
-  {
-   "verseNo": 29,
-   "textArabic": "فَٱدْخُلِى فِى عِبَٰدِى"
-  },
-  {
-   "verseNo": 30,
-   "textArabic": "وَٱدْخُلِى جَنَّتِى"
-  }
- ],
- "translations": [
-  {
-   "verseNo": 1,
-   "source": "diyanet",
-   "text": "Tan yerinin ağarmasına andolsun,"
-  },
-  {
-   "verseNo": 1,
-   "source": "islamoglu",
-   "text": "(KARANLIĞI) yarıp çıkan sabah vakti şahit olsun!"
-  },
-  {
-   "verseNo": 1,
-   "source": "esed",
-   "text": "Şafağı düşün"
-  },
-  {
-   "verseNo": 1,
-   "source": "okuyan",
-   "text": "Yemin olsun: Tan vaktine,"
-  },
-  {
-   "verseNo": 2,
-   "source": "diyanet",
-   "text": "On geceye andolsun,"
-  },
-  {
-   "verseNo": 2,
-   "source": "islamoglu",
-   "text": "O tarifsiz on gece şahit olsun!"
-  },
-  {
-   "verseNo": 2,
-   "source": "esed",
-   "text": "ve on geceyi"
-  },
-  {
-   "verseNo": 2,
-   "source": "okuyan",
-   "text": "On geceye,"
-  },
-  {
-   "verseNo": 3,
-   "source": "diyanet",
-   "text": "Çifte ve teke andolsun,"
-  },
-  {
-   "verseNo": 3,
-   "source": "islamoglu",
-   "text": "Çift ve tek şahit olsun!"
-  },
-  {
-   "verseNo": 3,
-   "source": "esed",
-   "text": "Çok olanı ve Tek olanı düşün"
-  },
-  {
-   "verseNo": 3,
-   "source": "okuyan",
-   "text": "‘Çift’e ve ‘tek’e,"
-  },
-  {
-   "verseNo": 4,
-   "source": "diyanet",
-   "text": "Geçip giden geceye andolsun (ki, müşrikler azaba uğrayacaklardır)."
-  },
-  {
-   "verseNo": 4,
-   "source": "islamoglu",
-   "text": "Sabaha yürüyen gece şahit olsun!"
-  },
-  {
-   "verseNo": 4,
-   "source": "esed",
-   "text": "Kendi yolunda akıp giden geceyi düşün"
-  },
-  {
-   "verseNo": 4,
-   "source": "okuyan",
-   "text": "Geçmekte olan geceye ki"
-  },
-  {
-   "verseNo": 5,
-   "source": "diyanet",
-   "text": "Şüphesiz bunlarda, akıl sahibi bir kimse için üzerine yemin edilmeye değer bir özellik vardır."
-  },
-  {
-   "verseNo": 5,
-   "source": "islamoglu",
-   "text": "Ne yani, şunların hepsinde sahibini koruyan oturaklı bir aklı olanlar için, sağlam bir şahitlik yok mudur?"
-  },
-  {
-   "verseNo": 5,
-   "source": "esed",
-   "text": "Düşün bütün bunları; bunlarda, akıl sahipleri için hakikatin sağlam bir kanıtı yok mudur"
-  },
-  {
-   "verseNo": 5,
-   "source": "okuyan",
-   "text": "Akıl sahibi için bun(lar)da bir yemin var değil mi?"
-  },
-  {
-   "verseNo": 6,
-   "source": "diyanet",
-   "text": "(Ey Muhammed!) Rabbinin, (Hûd'un kavmi) Ad'e, şehirler içinde benzeri kurulmamış olan, sütunlarla dolu İrem'e, vadide kayaları oyan (Salih'in kavmi) Semûd'a, kazıklar sahibi Firavun'a ne yaptığını görmedin mi?"
-  },
-  {
-   "verseNo": 6,
-   "source": "islamoglu",
-   "text": "Görmedin mi Rabbin neler yaptı Âd kavmine;"
-  },
-  {
-   "verseNo": 6,
-   "source": "esed",
-   "text": "Bilmez misin Rabbin neler yaptı Ad (halkın)a"
-  },
-  {
-   "verseNo": 6,
-   "source": "okuyan",
-   "text": "Rabbin (şunlara) ne yaptı görmedin mi: Âd (kavmine),"
-  },
-  {
-   "verseNo": 7,
-   "source": "diyanet",
-   "text": "(Ey Muhammed!) Rabbinin, (Hûd'un kavmi) Ad'e, şehirler içinde benzeri kurulmamış olan, sütunlarla dolu İrem'e, vadide kayaları oyan (Salih'in kavmi) Semûd'a, kazıklar sahibi Firavun'a ne yaptığını görmedin mi?"
-  },
-  {
-   "verseNo": 7,
-   "source": "islamoglu",
-   "text": "sütun (gibi bina)lar sahibi İrem’e;"
-  },
-  {
-   "verseNo": 7,
-   "source": "esed",
-   "text": "çok sütunlu İrem (halkına)"
-  },
-  {
-   "verseNo": 7,
-   "source": "okuyan",
-   "text": "7,8. (Yüksek) sütunları olan İrem (şehrine) -ki şehirler içinde onun benzeri yaratılmamıştı."
-  },
-  {
-   "verseNo": 8,
-   "source": "diyanet",
-   "text": "(Ey Muhammed!) Rabbinin, (Hûd'un kavmi) Ad'e, şehirler içinde benzeri kurulmamış olan, sütunlarla dolu İrem'e, vadide kayaları oyan (Salih'in kavmi) Semûd'a, kazıklar sahibi Firavun'a ne yaptığını görmedin mi?"
-  },
-  {
-   "verseNo": 8,
-   "source": "islamoglu",
-   "text": "ki o (günün) dünyasında, bir benzeri daha İnşâ edilmemişti?"
-  },
-  {
-   "verseNo": 8,
-   "source": "esed",
-   "text": "ki bütün o topraklarda bir benzeri inşa edilmemişti"
-  },
-  {
-   "verseNo": 8,
-   "source": "okuyan",
-   "text": "7,8. (Yüksek) sütunları olan İrem (şehrine) -ki şehirler içinde onun benzeri yaratılmamıştı."
-  },
-  {
-   "verseNo": 9,
-   "source": "diyanet",
-   "text": "(Ey Muhammed!) Rabbinin, (Hûd'un kavmi) Ad'e, şehirler içinde benzeri kurulmamış olan, sütunlarla dolu İrem'e, vadide kayaları oyan (Salih'in kavmi) Semûd'a, kazıklar sahibi Firavun'a ne yaptığını görmedin mi?"
-  },
-  {
-   "verseNo": 9,
-   "source": "islamoglu",
-   "text": "Yine kayaları vadiler oluşturma amacıyla kesip oyan Semud’a?"
-  },
-  {
-   "verseNo": 9,
-   "source": "esed",
-   "text": "Ve vadide kayaları oymuş olan Semud (halkın)a"
-  },
-  {
-   "verseNo": 9,
-   "source": "okuyan",
-   "text": "Vadideki kayaları oyan Semûd (kavmine),"
-  },
-  {
-   "verseNo": 10,
-   "source": "diyanet",
-   "text": "(Ey Muhammed!) Rabbinin, (Hûd'un kavmi) Ad'e, şehirler içinde benzeri kurulmamış olan, sütunlarla dolu İrem'e, vadide kayaları oyan (Salih'in kavmi) Semûd'a, kazıklar sahibi Firavun'a ne yaptığını görmedin mi?"
-  },
-  {
-   "verseNo": 10,
-   "source": "islamoglu",
-   "text": "Ve (piramitlerle dünyaya) kazık çakan Firavun’a?"
-  },
-  {
-   "verseNo": 10,
-   "source": "esed",
-   "text": "Ve (pek çok) çadır direğine sahip Firavun´a"
-  },
-  {
-   "verseNo": 10,
-   "source": "okuyan",
-   "text": "Kazıklar sahibi Firavun’a."
-  },
-  {
-   "verseNo": 11,
-   "source": "diyanet",
-   "text": "Bunlar şehirlerde azgınlık eden ve oralarda pek çok bozgunculuk çıkaran kimselerdi."
-  },
-  {
-   "verseNo": 11,
-   "source": "islamoglu",
-   "text": "Onların hepsi de kendi ülkelerinde haddi aşmış kimselerdi;"
-  },
-  {
-   "verseNo": 11,
-   "source": "esed",
-   "text": "(Onlar) toprakları üzerinde hak ve adalet sınırlarını aştılar"
-  },
-  {
-   "verseNo": 11,
-   "source": "okuyan",
-   "text": "Onlar şehirlerde azgınlık etmişlerdi."
-  },
-  {
-   "verseNo": 12,
-   "source": "diyanet",
-   "text": "Bunlar şehirlerde azgınlık eden ve oralarda pek çok bozgunculuk çıkaran kimselerdi."
-  },
-  {
-   "verseNo": 12,
-   "source": "islamoglu",
-   "text": "derken oralarda ahlâkî çürüme ve toplumsal yozlaşmayı körüklediler;"
-  },
-  {
-   "verseNo": 12,
-   "source": "esed",
-   "text": "ve orada büyük bir yozlaşma ve çürümeye sebep oldular"
-  },
-  {
-   "verseNo": 12,
-   "source": "okuyan",
-   "text": "Orada bozgunculuğu çoğaltmışlardı."
-  },
-  {
-   "verseNo": 13,
-   "source": "diyanet",
-   "text": "Bu yüzden Rabbin onların üzerine azap kamçısı yağdırdı."
-  },
-  {
-   "verseNo": 13,
-   "source": "islamoglu",
-   "text": "bu yüzden Rabbin onların üzerine envai çeşit azap kamçısı yağdırdı."
-  },
-  {
-   "verseNo": 13,
-   "source": "esed",
-   "text": "işte bu yüzden Rabbin onları azap kırbacından geçirdi"
-  },
-  {
-   "verseNo": 13,
-   "source": "okuyan",
-   "text": "Bu yüzden Rabbin onların üzerine azap kırbacını yağdırmıştı."
-  },
-  {
-   "verseNo": 14,
-   "source": "diyanet",
-   "text": "Şüphesiz Rabbin, gözetlemededir."
-  },
-  {
-   "verseNo": 14,
-   "source": "islamoglu",
-   "text": "Şu kesin ki Rabbin her an ve her yerde herkesi gözetleme makamındadır."
-  },
-  {
-   "verseNo": 14,
-   "source": "esed",
-   "text": "çünkü Rabbin, şüphesiz, her zaman gözetleyip durmaktadır"
-  },
-  {
-   "verseNo": 14,
-   "source": "okuyan",
-   "text": "Şüphesiz ki Rabbin, (sürekli) gözetlemektedir."
-  },
-  {
-   "verseNo": 15,
-   "source": "diyanet",
-   "text": "İnsan ise; Rabbi onu deneyip de kendisine ikramda bulunduğunda, ona bol bol nimetler verdiğinde, \"Rabbim bana ikram etti\" der."
-  },
-  {
-   "verseNo": 15,
-   "source": "islamoglu",
-   "text": "VE insana gelince… Ne zaman Rabbi onu (varlıkla) sınayıp ona ikram edecek ve nimetlere gark edecek olsa, hemen (Allah’ın kendisini desteklediğini düşünerek) “Rabbim bana ikram etti” der;"
-  },
-  {
-   "verseNo": 15,
-   "source": "esed",
-   "text": "İnsana gelince, ne zaman Rabbin onu, cömertliğiyle ve hoşnut olacağı bir hayat bağışlamakla denese, \"Rabbim, bana karşı (ne kadar) cömertmiş!\" der"
-  },
-  {
-   "verseNo": 15,
-   "source": "okuyan",
-   "text": "İnsana gelince, Rabbi kendisini imtihan edip ona ikramda bulunduğunda ve bol nimet verdiğinde “Rabbim bana ikram etti.” der."
-  },
-  {
-   "verseNo": 16,
-   "source": "diyanet",
-   "text": "Ama onu deneyip rızkını daraltınca da, \"Rabbim beni aşağıladı\" der."
-  },
-  {
-   "verseNo": 16,
-   "source": "islamoglu",
-   "text": "Ne zaman da Rabbi onu (darlıkla) sınayıp onun geçim alanını sınırlandıracak olsa, bu kez de “Rabbim bana değer vermedi” der."
-  },
-  {
-   "verseNo": 16,
-   "source": "esed",
-   "text": "ama geçim vasıtalarını daraltarak onu denediği zaman ise, \"Rabbim beni küçük düşürdü!\" di(ye sızlanı)r"
-  },
-  {
-   "verseNo": 16,
-   "source": "okuyan",
-   "text": "(Fakat) ne zaman onu imtihan edip rızkını daralttığında ise “Rabbim beni küçük düşürdü (önemsemedi)” der."
-  },
-  {
-   "verseNo": 17,
-   "source": "diyanet",
-   "text": "Hayır, hayır! Yetime ikram etmiyorsunuz."
-  },
-  {
-   "verseNo": 17,
-   "source": "islamoglu",
-   "text": "Asla! Bilakis siz yetime izzet ikram göstermiyorsunuz,"
-  },
-  {
-   "verseNo": 17,
-   "source": "esed",
-   "text": "Ama hayır, hayır, (ey insanlar, bütün yaptıklarınızı ve yapmadıklarınızı bir düşünün:) siz yetime karşı cömert değilsiniz"
-  },
-  {
-   "verseNo": 17,
-   "source": "okuyan",
-   "text": "Hayır! Doğrusu, siz yetime ikram etmiyorsunuz."
-  },
-  {
-   "verseNo": 18,
-   "source": "diyanet",
-   "text": "Yoksulu yedirmek konusunda birbirinizi teşvik etmiyorsunuz."
-  },
-  {
-   "verseNo": 18,
-   "source": "islamoglu",
-   "text": "yoksulu doyurmaya birbirinizi teşvik etmiyorsunuz,"
-  },
-  {
-   "verseNo": 18,
-   "source": "esed",
-   "text": "muhtaçları doyurmaya birbirinizi teşvik etmiyorsunuz"
-  },
-  {
-   "verseNo": 18,
-   "source": "okuyan",
-   "text": "Yoksulu yedirmeye de birbirinizi teşvik etmiyorsunuz."
-  },
-  {
-   "verseNo": 19,
-   "source": "diyanet",
-   "text": "Haram helâl demeden mirası alabildiğine yiyorsunuz."
-  },
-  {
-   "verseNo": 19,
-   "source": "islamoglu",
-   "text": "emeksiz kazancı haram-helâl demeden açgözlülükle boğazınıza geçiriyorsunuz,"
-  },
-  {
-   "verseNo": 19,
-   "source": "esed",
-   "text": "(başkalarının) mirasını açgözlülükle yiyip bitiriyorsunuz"
-  },
-  {
-   "verseNo": 19,
-   "source": "okuyan",
-   "text": "Mirası hırslı bir yiyişle (helal-haram demeden) yiyorsunuz."
-  },
-  {
-   "verseNo": 20,
-   "source": "diyanet",
-   "text": "Malı da pek çok seviyorsunuz."
-  },
-  {
-   "verseNo": 20,
-   "source": "islamoglu",
-   "text": "dahası ölçüsüz bir sevgiyle malı seviyorsunuz."
-  },
-  {
-   "verseNo": 20,
-   "source": "esed",
-   "text": "ve sınırsız bir sevgiyle malı mülkü seviyorsunuz"
-  },
-  {
-   "verseNo": 20,
-   "source": "okuyan",
-   "text": "Malı çok (aşırı) bir sevgiyle seviyorsunuz."
-  },
-  {
-   "verseNo": 21,
-   "source": "diyanet",
-   "text": "Hayır, yeryüzü (kıyamet sarsıntısıyla) parça parça olup dağıldığı zaman,"
-  },
-  {
-   "verseNo": 21,
-   "source": "islamoglu",
-   "text": "Yoo, öyle yapmayın! Yeryüzü art arda sürekli bir sarsılışla sarsılıp dümdüz olduğu zaman,"
-  },
-  {
-   "verseNo": 21,
-   "source": "esed",
-   "text": "Peki, (Hesap Günü nasıl davranacaksınız,) yeryüzü ardarda sarsılıp paramparça olduğunda"
-  },
-  {
-   "verseNo": 21,
-   "source": "okuyan",
-   "text": "21,22. Hayır! Yer şiddetli bir sarsıntıyla sarsıldığı, melekler sıra sıra (dururken) Rabbin(in emri) geldiği zaman (haliniz nasıl olacak?)"
-  },
-  {
-   "verseNo": 22,
-   "source": "diyanet",
-   "text": "Rabbinin buyruğu ve saf saf dizilmiş olarak melekler geldiği ve o gün cehennem getirildiği zaman, işte o gün insan (yaptıklarını birer birer) hatırlar. Fakat bu hatırlamanın ona nasıl faydası olacak!?"
-  },
-  {
-   "verseNo": 22,
-   "source": "islamoglu",
-   "text": "Rabbinin (fermanı) da gelmiş ve melekler saf saf dizilmiş olacak;"
-  },
-  {
-   "verseNo": 22,
-   "source": "esed",
-   "text": "ve Rabbin(in haşmeti) ortaya çıktığında ve melekler (gerçek hüviyetleriyle) saf saf olduklarında"
-  },
-  {
-   "verseNo": 22,
-   "source": "okuyan",
-   "text": "21,22. Hayır! Yer şiddetli bir sarsıntıyla sarsıldığı, melekler sıra sıra (dururken) Rabbin(in emri) geldiği zaman (haliniz nasıl olacak?)"
-  },
-  {
-   "verseNo": 23,
-   "source": "diyanet",
-   "text": "Rabbinin buyruğu ve saf saf dizilmiş olarak melekler geldiği ve o gün cehennem getirildiği zaman, işte o gün insan (yaptıklarını birer birer) hatırlar. Fakat bu hatırlamanın ona nasıl faydası olacak!?"
-  },
-  {
-   "verseNo": 23,
-   "source": "islamoglu",
-   "text": "o gün Cehennem de ortaya getirilmiş olacak; o gün (sınavı kaybetmiş) insan (gerçeği) itiraf edecek; ama bu itirafın ona hiçbir yararı olmayacak."
-  },
-  {
-   "verseNo": 23,
-   "source": "esed",
-   "text": "İşte o Gün cehennem (gözönüne) getirilip konacak; o Gün insan (yaptığı ve yapmadığı her şeyi) hatırlayacak ama bu hatırlamanın ne faydası olacak ona"
-  },
-  {
-   "verseNo": 23,
-   "source": "okuyan",
-   "text": "O gün, cehennem getirilecek ve insan (yaptıklarını) hatırlayacaktır. Ama (artık) bu hatırlamanın kendisine ne (yarar)ı olabilir ki!"
-  },
-  {
-   "verseNo": 24,
-   "source": "diyanet",
-   "text": "\"Keşke bu hayatım için önceden bir şey yapsaydım\" der."
-  },
-  {
-   "verseNo": 24,
-   "source": "islamoglu",
-   "text": "O diyecek ki: “Ah n’olaydım, keşke bu hayatım için hazırlık yapmış olaydım!”"
-  },
-  {
-   "verseNo": 24,
-   "source": "esed",
-   "text": "O, \"Ah, keşke (gelecek) hayatım için önceden bir hazırlık yapsaydım!\" diyecek"
-  },
-  {
-   "verseNo": 24,
-   "source": "okuyan",
-   "text": "(O insan:) “Ah, keşke, bu hayatım için (dünyadayken iyi) bir şeyler gönderseydim!” diyecektir."
-  },
-  {
-   "verseNo": 25,
-   "source": "diyanet",
-   "text": "Artık o gün, Allah'ın edeceği azabı kimse edemez."
-  },
-  {
-   "verseNo": 25,
-   "source": "islamoglu",
-   "text": "İşte o gün hiçbir kimse O’nun tattırdığı can yakıcı mahrumiyeti tattıramaz;"
-  },
-  {
-   "verseNo": 25,
-   "source": "esed",
-   "text": "Hiç kimse Allah´ın o Gün (günahkarlara verdiği) azap gibi azap veremez"
-  },
-  {
-   "verseNo": 25,
-   "source": "okuyan",
-   "text": "O gün, O’nun (Allah’ın) edeceği azap (gibi) kimse azap edemez."
-  },
-  {
-   "verseNo": 26,
-   "source": "diyanet",
-   "text": "Onun vuracağı bağı kimse vuramaz."
-  },
-  {
-   "verseNo": 26,
-   "source": "islamoglu",
-   "text": "ve hiçbir kimse, O’nun kelepçelediği gibi kelepçeleyemez."
-  },
-  {
-   "verseNo": 26,
-   "source": "esed",
-   "text": "ve hiç kimse O´nun gibi bağlarla bağlayamaz"
-  },
-  {
-   "verseNo": 26,
-   "source": "okuyan",
-   "text": "O’nun (vuracağı) bağ (gibi) kimse bağ vuramaz."
-  },
-  {
-   "verseNo": 27,
-   "source": "diyanet",
-   "text": "(Allah şöyle der:) \"Ey huzur içinde olan nefis!\""
-  },
-  {
-   "verseNo": 27,
-   "source": "islamoglu",
-   "text": "(İMDİ) ey mutmain kişi!"
-  },
-  {
-   "verseNo": 27,
-   "source": "esed",
-   "text": "(Ama dürüst ve erdemlilere,) \"Ey iç huzuruna ermiş olan insanoğlu!\" (diye seslenecek Allah)"
-  },
-  {
-   "verseNo": 27,
-   "source": "okuyan",
-   "text": "Ey huzura kavuşan nefis (insan)!"
-  },
-  {
-   "verseNo": 28,
-   "source": "diyanet",
-   "text": "\"Sen O'ndan razı, O da senden razı olarak Rabbine dön!\""
-  },
-  {
-   "verseNo": 28,
-   "source": "islamoglu",
-   "text": "Sen O’ndan, O da senden razı olacak şekilde dön Rabbine!"
-  },
-  {
-   "verseNo": 28,
-   "source": "esed",
-   "text": "Rabbine O´ndan hoşnut kalmış ve (O´nu) hoşnut etmiş olarak dön"
-  },
-  {
-   "verseNo": 28,
-   "source": "okuyan",
-   "text": "Sen (Allah’tan) memnun, (Allah da) senden razı olarak Rabbine dön!"
-  },
-  {
-   "verseNo": 29,
-   "source": "diyanet",
-   "text": "\"(İyi) kullarımın arasına gir.\""
-  },
-  {
-   "verseNo": 29,
-   "source": "islamoglu",
-   "text": "Böylece (sadece Bana kulluk eden muvahhid) kullarımın arasına gir!"
-  },
-  {
-   "verseNo": 29,
-   "source": "esed",
-   "text": "gir, öyleyse Benim (öteki sadık) kullarımla birlikte"
-  },
-  {
-   "verseNo": 29,
-   "source": "okuyan",
-   "text": "(İyi) kullarım(ın) arasına katıl"
-  },
-  {
-   "verseNo": 30,
-   "source": "diyanet",
-   "text": "\"Cennetime gir.\""
-  },
-  {
-   "verseNo": 30,
-   "source": "islamoglu",
-   "text": "Sözün özü: (sen de) gir cennetime!"
-  },
-  {
-   "verseNo": 30,
-   "source": "esed",
-   "text": "gir cennetime"
-  },
-  {
-   "verseNo": 30,
-   "source": "okuyan",
-   "text": "Cennetime gir!"
-  },
-  {
-   "verseNo": 1,
-   "verseNoEnd": null,
-   "source": "ai",
-   "text": "Şafak üzerine yemin olsun."
-  },
-  {
-   "verseNo": 2,
-   "verseNoEnd": null,
-   "source": "ai",
-   "text": "On geceye yemin olsun."
-  },
-  {
-   "verseNo": 3,
-   "verseNoEnd": null,
-   "source": "ai",
-   "text": "Çiftlere ve tek olana yemin olsun."
-  },
-  {
-   "verseNo": 4,
-   "verseNoEnd": null,
-   "source": "ai",
-   "text": "Geceye, geçip gittiği zaman yemin olsun."
-  },
-  {
-   "verseNo": 5,
-   "verseNoEnd": null,
-   "source": "ai",
-   "text": "Bunda, akıl sahibi bir kimse için yemin var mı?"
-  },
-  {
-   "verseNo": 6,
-   "verseNoEnd": null,
-   "source": "ai",
-   "text": "Rabbinin Ad kavmine nasıl davrandığını görmedin mi?"
-  },
-  {
-   "verseNo": 7,
-   "verseNoEnd": null,
-   "source": "ai",
-   "text": "Direkleri olan İrem."
-  },
-  {
-   "verseNo": 8,
-   "verseNoEnd": null,
-   "source": "ai",
-   "text": "Onun benzeri memleketlerde yaratılmamıştı."
-  },
-  {
-   "verseNo": 9,
-   "verseNoEnd": null,
-   "source": "ai",
-   "text": "Ve vadide kayaları oyup çıkaran Semud."
-  },
-  {
-   "verseNo": 10,
-   "verseNoEnd": null,
-   "source": "ai",
-   "text": "Ve direkleri olan Firavun."
-  },
-  {
-   "verseNo": 11,
-   "verseNoEnd": null,
-   "source": "ai",
-   "text": "Memleketlerde haddi aştılar."
-  },
-  {
-   "verseNo": 12,
-   "verseNoEnd": null,
-   "source": "ai",
-   "text": "Orada çokça bozgunculuk yaptılar."
-  },
-  {
-   "verseNo": 13,
-   "verseNoEnd": null,
-   "source": "ai",
-   "text": "Sonra Rabbin onların üzerine kamçı gibi bir azap yağdırdı."
-  },
-  {
-   "verseNo": 14,
-   "verseNoEnd": null,
-   "source": "ai",
-   "text": "Şüphesiz Rabbin gözetleyicidir."
-  },
-  {
-   "verseNo": 15,
-   "verseNoEnd": null,
-   "source": "ai",
-   "text": "İnsan; Rabb'i onu dener de ona şeref verir, nimet verirse: “Rabbim bana ikram etti” der."
-  },
-  {
-   "verseNo": 16,
-   "verseNoEnd": null,
-   "source": "ai",
-   "text": "Rabbi onu dener de rızkını ona daraltırsa: “Rabbim beni küçük düşürdü” der."
-  },
-  {
-   "verseNo": 17,
-   "verseNoEnd": null,
-   "source": "ai",
-   "text": "Hayır; bilakis yetimi onurlandırmazsınız."
-  },
-  {
-   "verseNo": 18,
-   "verseNoEnd": null,
-   "source": "ai",
-   "text": "Ve yoksulu yemeğe teşvik etmezsiniz."
-  },
-  {
-   "verseNo": 19,
-   "verseNoEnd": null,
-   "source": "ai",
-   "text": "Ve mirası hırslı bir iştahla yersiniz."
-  },
-  {
-   "verseNo": 20,
-   "verseNoEnd": null,
-   "source": "ai",
-   "text": "Ve malı aşırı bir sevgiyle seversiniz."
-  },
-  {
-   "verseNo": 21,
-   "verseNoEnd": null,
-   "source": "ai",
-   "text": "Hayır! Yer şiddetle çarpılıp ezildiği zaman."
-  },
-  {
-   "verseNo": 22,
-   "verseNoEnd": null,
-   "source": "ai",
-   "text": "Rabbin ve melekler sıra sıra gelecekler."
-  },
-  {
-   "verseNo": 23,
-   "verseNoEnd": null,
-   "source": "ai",
-   "text": "O gün cehennem getirilecek. O gün insan anımsar; ama ona anımsama nasıl olacak?"
-  },
-  {
-   "verseNo": 24,
-   "verseNoEnd": null,
-   "source": "ai",
-   "text": "Der ki: Keşke hayatım için hazırlık yapmış olsaydım."
-  },
-  {
-   "verseNo": 25,
-   "verseNoEnd": null,
-   "source": "ai",
-   "text": "O gün onun azabını kimse hafifletemez."
-  },
-  {
-   "verseNo": 26,
-   "verseNoEnd": null,
-   "source": "ai",
-   "text": "Ve onun bağını kimse bağlayamaz."
-  },
-  {
-   "verseNo": 27,
-   "verseNoEnd": null,
-   "source": "ai",
-   "text": "Ey huzur bulmuş nefis,"
-  },
-  {
-   "verseNo": 28,
-   "verseNoEnd": null,
-   "source": "ai",
-   "text": "Rabbinin yanına hoşnut ve hoşnut edilmiş olarak dön."
-  },
-  {
-   "verseNo": 29,
-   "verseNoEnd": null,
-   "source": "ai",
-   "text": "O halde kullarımın arasına gir."
-  },
-  {
-   "verseNo": 30,
-   "verseNoEnd": null,
-   "source": "ai",
-   "text": "Ve cennetime gir."
-  }
- ],
- "aiParagraph": "Şafağın ilk ışığına, geceye, çift ve teke yemin eden bu metin, yeminin hemen ardından tarihin en güçlü uygarlıklarını hatırlatıyor: sütunlarıyla göklere uzanan şehirler kuranlar, kayaları yontan mühendisler, ordularıyla dünyayı titreten hükümdarlar. Hepsi geçti. Metnin asıl meselesi ise çok daha yakın bir yerde başlıyor: insanın elindeki bolluğu \"hak ettiğimin kanıtı\", yoksulluğu ise \"aşağılandığımın işareti\" saydığı an. Refah gelince \"değerliyim\" diyor, daralınca \"terk edildim\" diyor — ikisinde de yanılıyor. Çünkü ne biri ödüldür ne öbürü ceza; her ikisi de bir sınav. Ama insan bu sınavı kendi hesabına göre okurken yetimi görmüyor, açı görmüyor, mirastan kendine düşeni hesaplarken başkasının hakkını saymıyor, parayı öyle bir seviyor ki bu sevgi gözünü kapatıyor. Sonra bir an geliyor — metin onu sarsıcı bir sadelikle anlatıyor — ve insan o an için \"keşke önceden hazırlasaydım\" diyor. Ama tam da bu karanlığın içinde, huzura ermiş bir ruha döndürülen çağrı var: geri dön, razı olmuş ve rızaya kavuşmuş olarak. Metni düşündüren şey bu zıtlık: en büyük pişmanlık ile en derin huzur, aynı kapıya açılan iki farklı yol gibi duruyor."
+  "stationNo": 10,
+  "surahNo": 89,
+  "nuzulOrderOkuyan": 11,
+  "name": "Fecr",
+  "nameArabic": "الفجر",
+  "nameMeaning": "Tan vakti, şafak",
+  "verseCount": 30,
+  "periodDiyanet": "Mekke",
+  "periodOkuyan": "Mekke",
+  "revelationTiming": "Mekke dönemi",
+  "stationTitle": "Servet bir imtihandır; yoksulluk da. İkisinde de sınav aynıdır: yetime ve muhtaca ne yaptın?",
+  "introduction": "Fecr suresi, adını birinci ayetteki tan vaktine edilen yeminden alır. Otuz ayetlik sure Mekke döneminde inmiştir.\n\nSure dört bölümdür. Açılışta şafağa, on geceye, çifte ve teke, geçip giden geceye yeminler edilir. Ardından Âd, Semûd ve Firavun'un çöküşü anılır. Üçüncü bölüm insanın servet ve yoksulluk karşısındaki yanlış okumasını düzeltir. Kapanış, nefsin huzura ermesiyle sonuçlanır.",
+  "occasionOfRevelation": "Sure Mekke döneminde, servetin ilahi bir onay, yoksulluğun ise ilahi bir gözden düşme sayıldığı bir toplumsal ortamda inmiştir. Mekke'nin ticaret aristokrasisi zenginliğini kendi üstünlüğünün kanıtı olarak görüyordu.\n\nSurenin on beşinci ve on altıncı ayetleri bu okumayı doğrudan reddeder: insan zenginlik verildiğinde \"Rabbim beni şereflendirdi\", rızkı daraltıldığında \"Rabbim beni aşağıladı\" der. Ayet hemen ardından \"Hayır!\" diyerek bu yorumu keser. Metne göre ikisi de bir değer beyanı değil, birer imtihan hâlidir.\n\nArdından gelen ayetler asıl ölçütü koyar: yetime ikram etmemek, yoksulu doyurmaya teşvik etmemek, mirası hırsla toplamak (89:17-20). Sure, servetin kendisini değil servetle kurulan ilişkiyi yargılar. Âd, Semûd ve Firavun örnekleri de aynı çizgide okunur: güç, çöküşe karşı koruma sağlamamıştır.",
+  "occasionSources": "Diyanet İşleri Başkanlığı Kur'an Yolu Tefsiri, Fecr suresi girişi; TDV İslâm Ansiklopedisi, \"Fecr Sûresi\" maddesi.",
+  "contemporaryMeaning": "Bu surenin bugüne en doğrudan konuşan yeri, başarı teolojisine yaptığı itirazdır. Kazandığını hak ettiğinin kanıtı, kaybettiğini de cezanın işareti saymak bugün de yaygın bir refleks: \"Zengin olduysam çalıştım\", \"Yoksulsa bir eksiği var.\" Sure bu iki çıkarımı da aynı cümlede reddeder.\n\nİkinci vurgu ölçütün nereye konduğudur. Sure servetin miktarını değil, servetin yanında yetimin ve yoksulun nerede durduğunu sorar. Ekonomik başarı, bu üç sorunun cevabı olmadan bir değer beyanı üretmez.\n\nKapanıştaki \"huzura ermiş nefis\" (nefs-i mutmainne) ifadesi, surenin bütün gerilimini çözer: aranan şey ne servet ne itibardır, kendisiyle barışmış bir bilinçtir.",
+  "keyTerms": [
+    {
+      "term": "fecr",
+      "arabic": "الْفَجْر",
+      "verseRef": "89:1",
+      "meaning": "Tan vakti, şafağın yarılışı. Karanlığın yarılıp ışığın çıkması; kökü \"yarmak\" anlamındadır."
+    },
+    {
+      "term": "ekremeni / ehâneni",
+      "arabic": "أَكْرَمَنِ / أَهَانَنِ",
+      "verseRef": "89:15-16",
+      "meaning": "\"Beni şereflendirdi\" / \"beni aşağıladı\". İnsanın servet ve yoksulluğu yanlış okuma biçimi; ayet ikisini de reddeder."
+    },
+    {
+      "term": "sevtu'l-azâb",
+      "arabic": "سَوْطَ عَذَابٍ",
+      "verseRef": "89:13",
+      "meaning": "Azap kamçısı. Zorba düzenlerin çöküşünü anlatan imge."
+    },
+    {
+      "term": "nefs-i mutmainne",
+      "arabic": "النَّفْسُ الْمُطْمَئِنَّة",
+      "verseRef": "89:27",
+      "meaning": "Huzura ermiş, doygunluğa kavuşmuş benlik. Surenin varış noktası."
+    }
+  ],
+  "themes": [
+    {
+      "label": "Servet onay, yoksulluk ceza değildir",
+      "body": "Sure, kazancı ilahi bir takdir belgesi, kaybı da bir aşağılama sayan okumayı açık bir \"Hayır!\" ile keser. İkisi de birer imtihan hâlidir."
+    },
+    {
+      "label": "Ölçüt: yetim ve yoksul",
+      "body": "Servetin değerlendirilmesi miktarına değil, yanında yetimin ve muhtacın nerede durduğuna bakılarak yapılır."
+    },
+    {
+      "label": "Güç, çöküşe karşı koruma sağlamaz",
+      "body": "Âd, Semûd ve Firavun örnekleri, dönemin en güçlü yapılarının da yıkıldığını hatırlatır. Kudret, kalıcılık garantisi değildir."
+    },
+    {
+      "label": "Varış: kendisiyle barışmış benlik",
+      "body": "Sure servet ya da itibarla değil, huzura ermiş bir bilinçle kapanır. Aranan şeyin ne olduğunu kapanış açıkça söyler."
+    }
+  ],
+  "questions": [
+    "Kendi kazancımı hak ettiğimin kanıtı olarak mı görüyorum? Peki başkasının yoksulluğunu neyin kanıtı sayıyorum?",
+    "Elimdeki imkânın yanında bir yetimin, bir muhtacın yeri var mı? Somut olarak ne yapıyorum?",
+    "Şu an huzursuzluğumun kaynağı gerçekten eksiklik mi, yoksa yeterince sahip olmadığım duygusu mu?"
+  ],
+  "verses": [
+    {
+      "verseNo": 1,
+      "textArabic": "بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ وَٱلْفَجْرِ"
+    },
+    {
+      "verseNo": 2,
+      "textArabic": "وَلَيَالٍ عَشْرٍۢ"
+    },
+    {
+      "verseNo": 3,
+      "textArabic": "وَٱلشَّفْعِ وَٱلْوَتْرِ"
+    },
+    {
+      "verseNo": 4,
+      "textArabic": "وَٱلَّيْلِ إِذَا يَسْرِ"
+    },
+    {
+      "verseNo": 5,
+      "textArabic": "هَلْ فِى ذَٰلِكَ قَسَمٌۭ لِّذِى حِجْرٍ"
+    },
+    {
+      "verseNo": 6,
+      "textArabic": "أَلَمْ تَرَ كَيْفَ فَعَلَ رَبُّكَ بِعَادٍ"
+    },
+    {
+      "verseNo": 7,
+      "textArabic": "إِرَمَ ذَاتِ ٱلْعِمَادِ"
+    },
+    {
+      "verseNo": 8,
+      "textArabic": "ٱلَّتِى لَمْ يُخْلَقْ مِثْلُهَا فِى ٱلْبِلَٰدِ"
+    },
+    {
+      "verseNo": 9,
+      "textArabic": "وَثَمُودَ ٱلَّذِينَ جَابُوا۟ ٱلصَّخْرَ بِٱلْوَادِ"
+    },
+    {
+      "verseNo": 10,
+      "textArabic": "وَفِرْعَوْنَ ذِى ٱلْأَوْتَادِ"
+    },
+    {
+      "verseNo": 11,
+      "textArabic": "ٱلَّذِينَ طَغَوْا۟ فِى ٱلْبِلَٰدِ"
+    },
+    {
+      "verseNo": 12,
+      "textArabic": "فَأَكْثَرُوا۟ فِيهَا ٱلْفَسَادَ"
+    },
+    {
+      "verseNo": 13,
+      "textArabic": "فَصَبَّ عَلَيْهِمْ رَبُّكَ سَوْطَ عَذَابٍ"
+    },
+    {
+      "verseNo": 14,
+      "textArabic": "إِنَّ رَبَّكَ لَبِٱلْمِرْصَادِ"
+    },
+    {
+      "verseNo": 15,
+      "textArabic": "فَأَمَّا ٱلْإِنسَٰنُ إِذَا مَا ٱبْتَلَىٰهُ رَبُّهُۥ فَأَكْرَمَهُۥ وَنَعَّمَهُۥ فَيَقُولُ رَبِّىٓ أَكْرَمَنِ"
+    },
+    {
+      "verseNo": 16,
+      "textArabic": "وَأَمَّآ إِذَا مَا ٱبْتَلَىٰهُ فَقَدَرَ عَلَيْهِ رِزْقَهُۥ فَيَقُولُ رَبِّىٓ أَهَٰنَنِ"
+    },
+    {
+      "verseNo": 17,
+      "textArabic": "كَلَّا ۖ بَل لَّا تُكْرِمُونَ ٱلْيَتِيمَ"
+    },
+    {
+      "verseNo": 18,
+      "textArabic": "وَلَا تَحَٰٓضُّونَ عَلَىٰ طَعَامِ ٱلْمِسْكِينِ"
+    },
+    {
+      "verseNo": 19,
+      "textArabic": "وَتَأْكُلُونَ ٱلتُّرَاثَ أَكْلًۭا لَّمًّۭا"
+    },
+    {
+      "verseNo": 20,
+      "textArabic": "وَتُحِبُّونَ ٱلْمَالَ حُبًّۭا جَمًّۭا"
+    },
+    {
+      "verseNo": 21,
+      "textArabic": "كَلَّآ إِذَا دُكَّتِ ٱلْأَرْضُ دَكًّۭا دَكًّۭا"
+    },
+    {
+      "verseNo": 22,
+      "textArabic": "وَجَآءَ رَبُّكَ وَٱلْمَلَكُ صَفًّۭا صَفًّۭا"
+    },
+    {
+      "verseNo": 23,
+      "textArabic": "وَجِا۟ىٓءَ يَوْمَئِذٍۭ بِجَهَنَّمَ ۚ يَوْمَئِذٍۢ يَتَذَكَّرُ ٱلْإِنسَٰنُ وَأَنَّىٰ لَهُ ٱلذِّكْرَىٰ"
+    },
+    {
+      "verseNo": 24,
+      "textArabic": "يَقُولُ يَٰلَيْتَنِى قَدَّمْتُ لِحَيَاتِى"
+    },
+    {
+      "verseNo": 25,
+      "textArabic": "فَيَوْمَئِذٍۢ لَّا يُعَذِّبُ عَذَابَهُۥٓ أَحَدٌۭ"
+    },
+    {
+      "verseNo": 26,
+      "textArabic": "وَلَا يُوثِقُ وَثَاقَهُۥٓ أَحَدٌۭ"
+    },
+    {
+      "verseNo": 27,
+      "textArabic": "يَٰٓأَيَّتُهَا ٱلنَّفْسُ ٱلْمُطْمَئِنَّةُ"
+    },
+    {
+      "verseNo": 28,
+      "textArabic": "ٱرْجِعِىٓ إِلَىٰ رَبِّكِ رَاضِيَةًۭ مَّرْضِيَّةًۭ"
+    },
+    {
+      "verseNo": 29,
+      "textArabic": "فَٱدْخُلِى فِى عِبَٰدِى"
+    },
+    {
+      "verseNo": 30,
+      "textArabic": "وَٱدْخُلِى جَنَّتِى"
+    }
+  ],
+  "translations": [
+    {
+      "verseNo": 1,
+      "source": "diyanet",
+      "text": "Tan yerinin ağarmasına andolsun,"
+    },
+    {
+      "verseNo": 1,
+      "source": "islamoglu",
+      "text": "(KARANLIĞI) yarıp çıkan sabah vakti şahit olsun!"
+    },
+    {
+      "verseNo": 1,
+      "source": "esed",
+      "text": "Şafağı düşün"
+    },
+    {
+      "verseNo": 1,
+      "source": "okuyan",
+      "text": "Yemin olsun: Tan vaktine,"
+    },
+    {
+      "verseNo": 2,
+      "source": "diyanet",
+      "text": "On geceye andolsun,"
+    },
+    {
+      "verseNo": 2,
+      "source": "islamoglu",
+      "text": "O tarifsiz on gece şahit olsun!"
+    },
+    {
+      "verseNo": 2,
+      "source": "esed",
+      "text": "ve on geceyi"
+    },
+    {
+      "verseNo": 2,
+      "source": "okuyan",
+      "text": "On geceye,"
+    },
+    {
+      "verseNo": 3,
+      "source": "diyanet",
+      "text": "Çifte ve teke andolsun,"
+    },
+    {
+      "verseNo": 3,
+      "source": "islamoglu",
+      "text": "Çift ve tek şahit olsun!"
+    },
+    {
+      "verseNo": 3,
+      "source": "esed",
+      "text": "Çok olanı ve Tek olanı düşün"
+    },
+    {
+      "verseNo": 3,
+      "source": "okuyan",
+      "text": "‘Çift’e ve ‘tek’e,"
+    },
+    {
+      "verseNo": 4,
+      "source": "diyanet",
+      "text": "Geçip giden geceye andolsun (ki, müşrikler azaba uğrayacaklardır)."
+    },
+    {
+      "verseNo": 4,
+      "source": "islamoglu",
+      "text": "Sabaha yürüyen gece şahit olsun!"
+    },
+    {
+      "verseNo": 4,
+      "source": "esed",
+      "text": "Kendi yolunda akıp giden geceyi düşün"
+    },
+    {
+      "verseNo": 4,
+      "source": "okuyan",
+      "text": "Geçmekte olan geceye ki"
+    },
+    {
+      "verseNo": 5,
+      "source": "diyanet",
+      "text": "Şüphesiz bunlarda, akıl sahibi bir kimse için üzerine yemin edilmeye değer bir özellik vardır."
+    },
+    {
+      "verseNo": 5,
+      "source": "islamoglu",
+      "text": "Ne yani, şunların hepsinde sahibini koruyan oturaklı bir aklı olanlar için, sağlam bir şahitlik yok mudur?"
+    },
+    {
+      "verseNo": 5,
+      "source": "esed",
+      "text": "Düşün bütün bunları; bunlarda, akıl sahipleri için hakikatin sağlam bir kanıtı yok mudur"
+    },
+    {
+      "verseNo": 5,
+      "source": "okuyan",
+      "text": "Akıl sahibi için bun(lar)da bir yemin var değil mi?"
+    },
+    {
+      "verseNo": 6,
+      "source": "diyanet",
+      "text": "(Ey Muhammed!) Rabbinin, (Hûd'un kavmi) Ad'e, şehirler içinde benzeri kurulmamış olan, sütunlarla dolu İrem'e, vadide kayaları oyan (Salih'in kavmi) Semûd'a, kazıklar sahibi Firavun'a ne yaptığını görmedin mi?"
+    },
+    {
+      "verseNo": 6,
+      "source": "islamoglu",
+      "text": "Görmedin mi Rabbin neler yaptı Âd kavmine;"
+    },
+    {
+      "verseNo": 6,
+      "source": "esed",
+      "text": "Bilmez misin Rabbin neler yaptı Ad (halkın)a"
+    },
+    {
+      "verseNo": 6,
+      "source": "okuyan",
+      "text": "Rabbin (şunlara) ne yaptı görmedin mi: Âd (kavmine),"
+    },
+    {
+      "verseNo": 7,
+      "source": "diyanet",
+      "text": "(Ey Muhammed!) Rabbinin, (Hûd'un kavmi) Ad'e, şehirler içinde benzeri kurulmamış olan, sütunlarla dolu İrem'e, vadide kayaları oyan (Salih'in kavmi) Semûd'a, kazıklar sahibi Firavun'a ne yaptığını görmedin mi?"
+    },
+    {
+      "verseNo": 7,
+      "source": "islamoglu",
+      "text": "sütun (gibi bina)lar sahibi İrem’e;"
+    },
+    {
+      "verseNo": 7,
+      "source": "esed",
+      "text": "çok sütunlu İrem (halkına)"
+    },
+    {
+      "verseNo": 7,
+      "source": "okuyan",
+      "text": "7,8. (Yüksek) sütunları olan İrem (şehrine) -ki şehirler içinde onun benzeri yaratılmamıştı."
+    },
+    {
+      "verseNo": 8,
+      "source": "diyanet",
+      "text": "(Ey Muhammed!) Rabbinin, (Hûd'un kavmi) Ad'e, şehirler içinde benzeri kurulmamış olan, sütunlarla dolu İrem'e, vadide kayaları oyan (Salih'in kavmi) Semûd'a, kazıklar sahibi Firavun'a ne yaptığını görmedin mi?"
+    },
+    {
+      "verseNo": 8,
+      "source": "islamoglu",
+      "text": "ki o (günün) dünyasında, bir benzeri daha İnşâ edilmemişti?"
+    },
+    {
+      "verseNo": 8,
+      "source": "esed",
+      "text": "ki bütün o topraklarda bir benzeri inşa edilmemişti"
+    },
+    {
+      "verseNo": 8,
+      "source": "okuyan",
+      "text": "7,8. (Yüksek) sütunları olan İrem (şehrine) -ki şehirler içinde onun benzeri yaratılmamıştı."
+    },
+    {
+      "verseNo": 9,
+      "source": "diyanet",
+      "text": "(Ey Muhammed!) Rabbinin, (Hûd'un kavmi) Ad'e, şehirler içinde benzeri kurulmamış olan, sütunlarla dolu İrem'e, vadide kayaları oyan (Salih'in kavmi) Semûd'a, kazıklar sahibi Firavun'a ne yaptığını görmedin mi?"
+    },
+    {
+      "verseNo": 9,
+      "source": "islamoglu",
+      "text": "Yine kayaları vadiler oluşturma amacıyla kesip oyan Semud’a?"
+    },
+    {
+      "verseNo": 9,
+      "source": "esed",
+      "text": "Ve vadide kayaları oymuş olan Semud (halkın)a"
+    },
+    {
+      "verseNo": 9,
+      "source": "okuyan",
+      "text": "Vadideki kayaları oyan Semûd (kavmine),"
+    },
+    {
+      "verseNo": 10,
+      "source": "diyanet",
+      "text": "(Ey Muhammed!) Rabbinin, (Hûd'un kavmi) Ad'e, şehirler içinde benzeri kurulmamış olan, sütunlarla dolu İrem'e, vadide kayaları oyan (Salih'in kavmi) Semûd'a, kazıklar sahibi Firavun'a ne yaptığını görmedin mi?"
+    },
+    {
+      "verseNo": 10,
+      "source": "islamoglu",
+      "text": "Ve (piramitlerle dünyaya) kazık çakan Firavun’a?"
+    },
+    {
+      "verseNo": 10,
+      "source": "esed",
+      "text": "Ve (pek çok) çadır direğine sahip Firavun´a"
+    },
+    {
+      "verseNo": 10,
+      "source": "okuyan",
+      "text": "Kazıklar sahibi Firavun’a."
+    },
+    {
+      "verseNo": 11,
+      "source": "diyanet",
+      "text": "Bunlar şehirlerde azgınlık eden ve oralarda pek çok bozgunculuk çıkaran kimselerdi."
+    },
+    {
+      "verseNo": 11,
+      "source": "islamoglu",
+      "text": "Onların hepsi de kendi ülkelerinde haddi aşmış kimselerdi;"
+    },
+    {
+      "verseNo": 11,
+      "source": "esed",
+      "text": "(Onlar) toprakları üzerinde hak ve adalet sınırlarını aştılar"
+    },
+    {
+      "verseNo": 11,
+      "source": "okuyan",
+      "text": "Onlar şehirlerde azgınlık etmişlerdi."
+    },
+    {
+      "verseNo": 12,
+      "source": "diyanet",
+      "text": "Bunlar şehirlerde azgınlık eden ve oralarda pek çok bozgunculuk çıkaran kimselerdi."
+    },
+    {
+      "verseNo": 12,
+      "source": "islamoglu",
+      "text": "derken oralarda ahlâkî çürüme ve toplumsal yozlaşmayı körüklediler;"
+    },
+    {
+      "verseNo": 12,
+      "source": "esed",
+      "text": "ve orada büyük bir yozlaşma ve çürümeye sebep oldular"
+    },
+    {
+      "verseNo": 12,
+      "source": "okuyan",
+      "text": "Orada bozgunculuğu çoğaltmışlardı."
+    },
+    {
+      "verseNo": 13,
+      "source": "diyanet",
+      "text": "Bu yüzden Rabbin onların üzerine azap kamçısı yağdırdı."
+    },
+    {
+      "verseNo": 13,
+      "source": "islamoglu",
+      "text": "bu yüzden Rabbin onların üzerine envai çeşit azap kamçısı yağdırdı."
+    },
+    {
+      "verseNo": 13,
+      "source": "esed",
+      "text": "işte bu yüzden Rabbin onları azap kırbacından geçirdi"
+    },
+    {
+      "verseNo": 13,
+      "source": "okuyan",
+      "text": "Bu yüzden Rabbin onların üzerine azap kırbacını yağdırmıştı."
+    },
+    {
+      "verseNo": 14,
+      "source": "diyanet",
+      "text": "Şüphesiz Rabbin, gözetlemededir."
+    },
+    {
+      "verseNo": 14,
+      "source": "islamoglu",
+      "text": "Şu kesin ki Rabbin her an ve her yerde herkesi gözetleme makamındadır."
+    },
+    {
+      "verseNo": 14,
+      "source": "esed",
+      "text": "çünkü Rabbin, şüphesiz, her zaman gözetleyip durmaktadır"
+    },
+    {
+      "verseNo": 14,
+      "source": "okuyan",
+      "text": "Şüphesiz ki Rabbin, (sürekli) gözetlemektedir."
+    },
+    {
+      "verseNo": 15,
+      "source": "diyanet",
+      "text": "İnsan ise; Rabbi onu deneyip de kendisine ikramda bulunduğunda, ona bol bol nimetler verdiğinde, \"Rabbim bana ikram etti\" der."
+    },
+    {
+      "verseNo": 15,
+      "source": "islamoglu",
+      "text": "VE insana gelince… Ne zaman Rabbi onu (varlıkla) sınayıp ona ikram edecek ve nimetlere gark edecek olsa, hemen (Allah’ın kendisini desteklediğini düşünerek) “Rabbim bana ikram etti” der;"
+    },
+    {
+      "verseNo": 15,
+      "source": "esed",
+      "text": "İnsana gelince, ne zaman Rabbin onu, cömertliğiyle ve hoşnut olacağı bir hayat bağışlamakla denese, \"Rabbim, bana karşı (ne kadar) cömertmiş!\" der"
+    },
+    {
+      "verseNo": 15,
+      "source": "okuyan",
+      "text": "İnsana gelince, Rabbi kendisini imtihan edip ona ikramda bulunduğunda ve bol nimet verdiğinde “Rabbim bana ikram etti.” der."
+    },
+    {
+      "verseNo": 16,
+      "source": "diyanet",
+      "text": "Ama onu deneyip rızkını daraltınca da, \"Rabbim beni aşağıladı\" der."
+    },
+    {
+      "verseNo": 16,
+      "source": "islamoglu",
+      "text": "Ne zaman da Rabbi onu (darlıkla) sınayıp onun geçim alanını sınırlandıracak olsa, bu kez de “Rabbim bana değer vermedi” der."
+    },
+    {
+      "verseNo": 16,
+      "source": "esed",
+      "text": "ama geçim vasıtalarını daraltarak onu denediği zaman ise, \"Rabbim beni küçük düşürdü!\" di(ye sızlanı)r"
+    },
+    {
+      "verseNo": 16,
+      "source": "okuyan",
+      "text": "(Fakat) ne zaman onu imtihan edip rızkını daralttığında ise “Rabbim beni küçük düşürdü (önemsemedi)” der."
+    },
+    {
+      "verseNo": 17,
+      "source": "diyanet",
+      "text": "Hayır, hayır! Yetime ikram etmiyorsunuz."
+    },
+    {
+      "verseNo": 17,
+      "source": "islamoglu",
+      "text": "Asla! Bilakis siz yetime izzet ikram göstermiyorsunuz,"
+    },
+    {
+      "verseNo": 17,
+      "source": "esed",
+      "text": "Ama hayır, hayır, (ey insanlar, bütün yaptıklarınızı ve yapmadıklarınızı bir düşünün:) siz yetime karşı cömert değilsiniz"
+    },
+    {
+      "verseNo": 17,
+      "source": "okuyan",
+      "text": "Hayır! Doğrusu, siz yetime ikram etmiyorsunuz."
+    },
+    {
+      "verseNo": 18,
+      "source": "diyanet",
+      "text": "Yoksulu yedirmek konusunda birbirinizi teşvik etmiyorsunuz."
+    },
+    {
+      "verseNo": 18,
+      "source": "islamoglu",
+      "text": "yoksulu doyurmaya birbirinizi teşvik etmiyorsunuz,"
+    },
+    {
+      "verseNo": 18,
+      "source": "esed",
+      "text": "muhtaçları doyurmaya birbirinizi teşvik etmiyorsunuz"
+    },
+    {
+      "verseNo": 18,
+      "source": "okuyan",
+      "text": "Yoksulu yedirmeye de birbirinizi teşvik etmiyorsunuz."
+    },
+    {
+      "verseNo": 19,
+      "source": "diyanet",
+      "text": "Haram helâl demeden mirası alabildiğine yiyorsunuz."
+    },
+    {
+      "verseNo": 19,
+      "source": "islamoglu",
+      "text": "emeksiz kazancı haram-helâl demeden açgözlülükle boğazınıza geçiriyorsunuz,"
+    },
+    {
+      "verseNo": 19,
+      "source": "esed",
+      "text": "(başkalarının) mirasını açgözlülükle yiyip bitiriyorsunuz"
+    },
+    {
+      "verseNo": 19,
+      "source": "okuyan",
+      "text": "Mirası hırslı bir yiyişle (helal-haram demeden) yiyorsunuz."
+    },
+    {
+      "verseNo": 20,
+      "source": "diyanet",
+      "text": "Malı da pek çok seviyorsunuz."
+    },
+    {
+      "verseNo": 20,
+      "source": "islamoglu",
+      "text": "dahası ölçüsüz bir sevgiyle malı seviyorsunuz."
+    },
+    {
+      "verseNo": 20,
+      "source": "esed",
+      "text": "ve sınırsız bir sevgiyle malı mülkü seviyorsunuz"
+    },
+    {
+      "verseNo": 20,
+      "source": "okuyan",
+      "text": "Malı çok (aşırı) bir sevgiyle seviyorsunuz."
+    },
+    {
+      "verseNo": 21,
+      "source": "diyanet",
+      "text": "Hayır, yeryüzü (kıyamet sarsıntısıyla) parça parça olup dağıldığı zaman,"
+    },
+    {
+      "verseNo": 21,
+      "source": "islamoglu",
+      "text": "Yoo, öyle yapmayın! Yeryüzü art arda sürekli bir sarsılışla sarsılıp dümdüz olduğu zaman,"
+    },
+    {
+      "verseNo": 21,
+      "source": "esed",
+      "text": "Peki, (Hesap Günü nasıl davranacaksınız,) yeryüzü ardarda sarsılıp paramparça olduğunda"
+    },
+    {
+      "verseNo": 21,
+      "source": "okuyan",
+      "text": "21,22. Hayır! Yer şiddetli bir sarsıntıyla sarsıldığı, melekler sıra sıra (dururken) Rabbin(in emri) geldiği zaman (haliniz nasıl olacak?)"
+    },
+    {
+      "verseNo": 22,
+      "source": "diyanet",
+      "text": "Rabbinin buyruğu ve saf saf dizilmiş olarak melekler geldiği ve o gün cehennem getirildiği zaman, işte o gün insan (yaptıklarını birer birer) hatırlar. Fakat bu hatırlamanın ona nasıl faydası olacak!?"
+    },
+    {
+      "verseNo": 22,
+      "source": "islamoglu",
+      "text": "Rabbinin (fermanı) da gelmiş ve melekler saf saf dizilmiş olacak;"
+    },
+    {
+      "verseNo": 22,
+      "source": "esed",
+      "text": "ve Rabbin(in haşmeti) ortaya çıktığında ve melekler (gerçek hüviyetleriyle) saf saf olduklarında"
+    },
+    {
+      "verseNo": 22,
+      "source": "okuyan",
+      "text": "21,22. Hayır! Yer şiddetli bir sarsıntıyla sarsıldığı, melekler sıra sıra (dururken) Rabbin(in emri) geldiği zaman (haliniz nasıl olacak?)"
+    },
+    {
+      "verseNo": 23,
+      "source": "diyanet",
+      "text": "Rabbinin buyruğu ve saf saf dizilmiş olarak melekler geldiği ve o gün cehennem getirildiği zaman, işte o gün insan (yaptıklarını birer birer) hatırlar. Fakat bu hatırlamanın ona nasıl faydası olacak!?"
+    },
+    {
+      "verseNo": 23,
+      "source": "islamoglu",
+      "text": "o gün Cehennem de ortaya getirilmiş olacak; o gün (sınavı kaybetmiş) insan (gerçeği) itiraf edecek; ama bu itirafın ona hiçbir yararı olmayacak."
+    },
+    {
+      "verseNo": 23,
+      "source": "esed",
+      "text": "İşte o Gün cehennem (gözönüne) getirilip konacak; o Gün insan (yaptığı ve yapmadığı her şeyi) hatırlayacak ama bu hatırlamanın ne faydası olacak ona"
+    },
+    {
+      "verseNo": 23,
+      "source": "okuyan",
+      "text": "O gün, cehennem getirilecek ve insan (yaptıklarını) hatırlayacaktır. Ama (artık) bu hatırlamanın kendisine ne (yarar)ı olabilir ki!"
+    },
+    {
+      "verseNo": 24,
+      "source": "diyanet",
+      "text": "\"Keşke bu hayatım için önceden bir şey yapsaydım\" der."
+    },
+    {
+      "verseNo": 24,
+      "source": "islamoglu",
+      "text": "O diyecek ki: “Ah n’olaydım, keşke bu hayatım için hazırlık yapmış olaydım!”"
+    },
+    {
+      "verseNo": 24,
+      "source": "esed",
+      "text": "O, \"Ah, keşke (gelecek) hayatım için önceden bir hazırlık yapsaydım!\" diyecek"
+    },
+    {
+      "verseNo": 24,
+      "source": "okuyan",
+      "text": "(O insan:) “Ah, keşke, bu hayatım için (dünyadayken iyi) bir şeyler gönderseydim!” diyecektir."
+    },
+    {
+      "verseNo": 25,
+      "source": "diyanet",
+      "text": "Artık o gün, Allah'ın edeceği azabı kimse edemez."
+    },
+    {
+      "verseNo": 25,
+      "source": "islamoglu",
+      "text": "İşte o gün hiçbir kimse O’nun tattırdığı can yakıcı mahrumiyeti tattıramaz;"
+    },
+    {
+      "verseNo": 25,
+      "source": "esed",
+      "text": "Hiç kimse Allah´ın o Gün (günahkarlara verdiği) azap gibi azap veremez"
+    },
+    {
+      "verseNo": 25,
+      "source": "okuyan",
+      "text": "O gün, O’nun (Allah’ın) edeceği azap (gibi) kimse azap edemez."
+    },
+    {
+      "verseNo": 26,
+      "source": "diyanet",
+      "text": "Onun vuracağı bağı kimse vuramaz."
+    },
+    {
+      "verseNo": 26,
+      "source": "islamoglu",
+      "text": "ve hiçbir kimse, O’nun kelepçelediği gibi kelepçeleyemez."
+    },
+    {
+      "verseNo": 26,
+      "source": "esed",
+      "text": "ve hiç kimse O´nun gibi bağlarla bağlayamaz"
+    },
+    {
+      "verseNo": 26,
+      "source": "okuyan",
+      "text": "O’nun (vuracağı) bağ (gibi) kimse bağ vuramaz."
+    },
+    {
+      "verseNo": 27,
+      "source": "diyanet",
+      "text": "(Allah şöyle der:) \"Ey huzur içinde olan nefis!\""
+    },
+    {
+      "verseNo": 27,
+      "source": "islamoglu",
+      "text": "(İMDİ) ey mutmain kişi!"
+    },
+    {
+      "verseNo": 27,
+      "source": "esed",
+      "text": "(Ama dürüst ve erdemlilere,) \"Ey iç huzuruna ermiş olan insanoğlu!\" (diye seslenecek Allah)"
+    },
+    {
+      "verseNo": 27,
+      "source": "okuyan",
+      "text": "Ey huzura kavuşan nefis (insan)!"
+    },
+    {
+      "verseNo": 28,
+      "source": "diyanet",
+      "text": "\"Sen O'ndan razı, O da senden razı olarak Rabbine dön!\""
+    },
+    {
+      "verseNo": 28,
+      "source": "islamoglu",
+      "text": "Sen O’ndan, O da senden razı olacak şekilde dön Rabbine!"
+    },
+    {
+      "verseNo": 28,
+      "source": "esed",
+      "text": "Rabbine O´ndan hoşnut kalmış ve (O´nu) hoşnut etmiş olarak dön"
+    },
+    {
+      "verseNo": 28,
+      "source": "okuyan",
+      "text": "Sen (Allah’tan) memnun, (Allah da) senden razı olarak Rabbine dön!"
+    },
+    {
+      "verseNo": 29,
+      "source": "diyanet",
+      "text": "\"(İyi) kullarımın arasına gir.\""
+    },
+    {
+      "verseNo": 29,
+      "source": "islamoglu",
+      "text": "Böylece (sadece Bana kulluk eden muvahhid) kullarımın arasına gir!"
+    },
+    {
+      "verseNo": 29,
+      "source": "esed",
+      "text": "gir, öyleyse Benim (öteki sadık) kullarımla birlikte"
+    },
+    {
+      "verseNo": 29,
+      "source": "okuyan",
+      "text": "(İyi) kullarım(ın) arasına katıl"
+    },
+    {
+      "verseNo": 30,
+      "source": "diyanet",
+      "text": "\"Cennetime gir.\""
+    },
+    {
+      "verseNo": 30,
+      "source": "islamoglu",
+      "text": "Sözün özü: (sen de) gir cennetime!"
+    },
+    {
+      "verseNo": 30,
+      "source": "esed",
+      "text": "gir cennetime"
+    },
+    {
+      "verseNo": 30,
+      "source": "okuyan",
+      "text": "Cennetime gir!"
+    },
+    {
+      "verseNo": 1,
+      "verseNoEnd": null,
+      "source": "ai",
+      "text": "Şafak üzerine yemin olsun."
+    },
+    {
+      "verseNo": 2,
+      "verseNoEnd": null,
+      "source": "ai",
+      "text": "On geceye yemin olsun."
+    },
+    {
+      "verseNo": 3,
+      "verseNoEnd": null,
+      "source": "ai",
+      "text": "Çiftlere ve tek olana yemin olsun."
+    },
+    {
+      "verseNo": 4,
+      "verseNoEnd": null,
+      "source": "ai",
+      "text": "Geceye, geçip gittiği zaman yemin olsun."
+    },
+    {
+      "verseNo": 5,
+      "verseNoEnd": null,
+      "source": "ai",
+      "text": "Bunda, akıl sahibi bir kimse için yemin var mı?"
+    },
+    {
+      "verseNo": 6,
+      "verseNoEnd": null,
+      "source": "ai",
+      "text": "Rabbinin Ad kavmine nasıl davrandığını görmedin mi?"
+    },
+    {
+      "verseNo": 7,
+      "verseNoEnd": null,
+      "source": "ai",
+      "text": "Direkleri olan İrem."
+    },
+    {
+      "verseNo": 8,
+      "verseNoEnd": null,
+      "source": "ai",
+      "text": "Onun benzeri memleketlerde yaratılmamıştı."
+    },
+    {
+      "verseNo": 9,
+      "verseNoEnd": null,
+      "source": "ai",
+      "text": "Ve vadide kayaları oyup çıkaran Semud."
+    },
+    {
+      "verseNo": 10,
+      "verseNoEnd": null,
+      "source": "ai",
+      "text": "Ve direkleri olan Firavun."
+    },
+    {
+      "verseNo": 11,
+      "verseNoEnd": null,
+      "source": "ai",
+      "text": "Memleketlerde haddi aştılar."
+    },
+    {
+      "verseNo": 12,
+      "verseNoEnd": null,
+      "source": "ai",
+      "text": "Orada çokça bozgunculuk yaptılar."
+    },
+    {
+      "verseNo": 13,
+      "verseNoEnd": null,
+      "source": "ai",
+      "text": "Sonra Rabbin onların üzerine kamçı gibi bir azap yağdırdı."
+    },
+    {
+      "verseNo": 14,
+      "verseNoEnd": null,
+      "source": "ai",
+      "text": "Şüphesiz Rabbin gözetleyicidir."
+    },
+    {
+      "verseNo": 15,
+      "verseNoEnd": null,
+      "source": "ai",
+      "text": "İnsan; Rabb'i onu dener de ona şeref verir, nimet verirse: “Rabbim bana ikram etti” der."
+    },
+    {
+      "verseNo": 16,
+      "verseNoEnd": null,
+      "source": "ai",
+      "text": "Rabbi onu dener de rızkını ona daraltırsa: “Rabbim beni küçük düşürdü” der."
+    },
+    {
+      "verseNo": 17,
+      "verseNoEnd": null,
+      "source": "ai",
+      "text": "Hayır; bilakis yetimi onurlandırmazsınız."
+    },
+    {
+      "verseNo": 18,
+      "verseNoEnd": null,
+      "source": "ai",
+      "text": "Ve yoksulu yemeğe teşvik etmezsiniz."
+    },
+    {
+      "verseNo": 19,
+      "verseNoEnd": null,
+      "source": "ai",
+      "text": "Ve mirası hırslı bir iştahla yersiniz."
+    },
+    {
+      "verseNo": 20,
+      "verseNoEnd": null,
+      "source": "ai",
+      "text": "Ve malı aşırı bir sevgiyle seversiniz."
+    },
+    {
+      "verseNo": 21,
+      "verseNoEnd": null,
+      "source": "ai",
+      "text": "Hayır! Yer şiddetle çarpılıp ezildiği zaman."
+    },
+    {
+      "verseNo": 22,
+      "verseNoEnd": null,
+      "source": "ai",
+      "text": "Rabbin ve melekler sıra sıra gelecekler."
+    },
+    {
+      "verseNo": 23,
+      "verseNoEnd": null,
+      "source": "ai",
+      "text": "O gün cehennem getirilecek. O gün insan anımsar; ama ona anımsama nasıl olacak?"
+    },
+    {
+      "verseNo": 24,
+      "verseNoEnd": null,
+      "source": "ai",
+      "text": "Der ki: Keşke hayatım için hazırlık yapmış olsaydım."
+    },
+    {
+      "verseNo": 25,
+      "verseNoEnd": null,
+      "source": "ai",
+      "text": "O gün onun azabını kimse hafifletemez."
+    },
+    {
+      "verseNo": 26,
+      "verseNoEnd": null,
+      "source": "ai",
+      "text": "Ve onun bağını kimse bağlayamaz."
+    },
+    {
+      "verseNo": 27,
+      "verseNoEnd": null,
+      "source": "ai",
+      "text": "Ey huzur bulmuş nefis,"
+    },
+    {
+      "verseNo": 28,
+      "verseNoEnd": null,
+      "source": "ai",
+      "text": "Rabbinin yanına hoşnut ve hoşnut edilmiş olarak dön."
+    },
+    {
+      "verseNo": 29,
+      "verseNoEnd": null,
+      "source": "ai",
+      "text": "O halde kullarımın arasına gir."
+    },
+    {
+      "verseNo": 30,
+      "verseNoEnd": null,
+      "source": "ai",
+      "text": "Ve cennetime gir."
+    }
+  ],
+  "aiParagraph": "Şafağın ilk ışığına, geceye, çift ve teke yemin eden bu metin, yeminin hemen ardından tarihin en güçlü uygarlıklarını hatırlatıyor: sütunlarıyla göklere uzanan şehirler kuranlar, kayaları yontan mühendisler, ordularıyla dünyayı titreten hükümdarlar. Hepsi geçti. Metnin asıl meselesi ise çok daha yakın bir yerde başlıyor: insanın elindeki bolluğu \"hak ettiğimin kanıtı\", yoksulluğu ise \"aşağılandığımın işareti\" saydığı an. Refah gelince \"değerliyim\" diyor, daralınca \"terk edildim\" diyor — ikisinde de yanılıyor. Çünkü ne biri ödüldür ne öbürü ceza; her ikisi de bir sınav. Ama insan bu sınavı kendi hesabına göre okurken yetimi görmüyor, açı görmüyor, mirastan kendine düşeni hesaplarken başkasının hakkını saymıyor, parayı öyle bir seviyor ki bu sevgi gözünü kapatıyor. Sonra bir an geliyor — metin onu sarsıcı bir sadelikle anlatıyor — ve insan o an için \"keşke önceden hazırlasaydım\" diyor. Ama tam da bu karanlığın içinde, huzura ermiş bir ruha döndürülen çağrı var: geri dön, razı olmuş ve rızaya kavuşmuş olarak. Metni düşündüren şey bu zıtlık: en büyük pişmanlık ile en derin huzur, aynı kapıya açılan iki farklı yol gibi duruyor.",
+  "audienceContext": "Sure söz ilk kez Mekke'nin ticaret çevrelerine söylendi. Bu çevrenin dünya görüşü tek bir denklem üzerine kuruluydu: zenginlik, tanrısal onayın kanıtıdır; yoksulluk, tanrısal gözden düşmenin işaretidir. Metnin tam ortasında bu denklem açıkça yüze vurulur — insan zenginleşince \"Rabbim beni şereflendirdi\" der, rızkı daraltılınca \"Rabbim beni aşağıladı\" der. Sure, bu iki cümleyi aktarır ve hemen ardından kesti geçer: \"Hayır!\" (kellâ). Yani sure muhataplarının söylediği şeyi önce olduğu gibi dile getirir, sonra onu söyleyen ağızdan geri alır.\n\nBu muhatabın reddettikleri öğrenilmemişlik değildi. Âd'ı, Semûd'u, Firavun'u biliyorlardı; büyük güç ve inşaat kapasitesine sahip bu toplulukların çöktüğünü de tarihsel bellek olarak taşıyorlardı. Sure onlara yabancı bir bilgi vermez; bildikleri örnekleri — sütunlarla dolu İrem şehri, vadide kayaları oyan Semûd, kazıklı Firavun'un saltanatı — sorar gibi hatırlatır: \"Görmedin mi Rabbin bunlara ne yaptı?\" Soru biçimi, ortak zemini kullanma stratejisidir. Güç çöküşe karşı koruma sağlamamış; bu, muhatapların kendi hafızasında zaten kayıtlıydı.\n\nDirencin asıl kaynağı anlamama değildi. Sure, mevcut düzenin kazançlılarına sesleniyordu: mirası hırsla toplamak, yetime ikram etmemek, yoksulu doyurmaya teşvik etmemek. Bu pratikler o toplumda kötü ahlak sayılmıyordu; aksine güçlünün hakkı ve olağan davranışı olarak görülüyordu. Metnin itirazı tam bu noktaya yöneliktir: servetin varlığı değil, servetle kurulan ilişki. Sure, zenginliği suçlamaz; serveti \"hakkımın kanıtı\" olarak okuyan zihni düzeltiyor.\n\nBu çerçevede cahiliye kavramını da hatırlamak gerekir: o dönemin sorunu okuma yazma bilmemek değil, zorbalığın erdem sayılmasıydı. Güçlünün zayıfı ezmesi o toplumda ahlaki bir ihlal olarak görülmüyor, aksine olağan düzen kabul ediliyordu. Sure, bu olağanı olağan dışı ilan eder — hem tarihsel örneklerle hem de doğrudan bir \"Hayır!\" ile.",
+  "eventMessageMap": [
+    {
+      "situation": "Mekke'nin ticaret aristokrasisi zenginliğini tanrısal onayın, yoksulluğu ise tanrısal cezanın kanıtı olarak okuyordu.",
+      "response": "Sure, bu iki okumayı açıkça aktardıktan sonra ikisini birden bir sözcükle kesti: \"Hayır!\" — ikisi de değer beyanı değil, ikisi de bir imtihan hâlidir.",
+      "shift": "Servet artık statü kanıtı olmaktan çıktı; hangi koşulda olursa olsun insan aynı sınavın içinde sayıldı."
+    },
+    {
+      "situation": "Yetime miras payı verilmiyordu; mirası \"hırsla toplamak\" (eklen lemmâ) olağan bir aile pratiğiydi.",
+      "response": "Sure, yetime ikram etmemeyi ve yoksulu doyurmaya teşvik etmemeyi servetle kurulan yanlış ilişkinin somut görünümleri olarak sıraladı.",
+      "shift": "Ölçüt servetten servetle ne yapıldığına kaydı; ahlaki hesap soyut inançtan somut davranışa taşındı."
+    },
+    {
+      "situation": "Âd'ın İrem şehri, Semûd'un kayaya oyulmuş evleri ve Firavun'un saltanatı o coğrafyada bilinen güç simgeleriydi.",
+      "response": "Sure bu üç örneği arka arkaya andı ve hepsinin ortak sonucunu gösterdi: ülkelerinde azgınlık edip bozgunculuğu çoğalttılar, ardından azap kamçısı geldi.",
+      "shift": "Büyük yapılar ve ordu gücü, çöküşe karşı güvence olmaktan çıktı; güç ile hesap arasındaki eski varsayım çatladı."
+    },
+    {
+      "situation": "Surenin kapanışında insan, \"keşke hayatım için önceden bir şeyler gönderseydim\" diyerek pişmanlık içinde görünür.",
+      "response": "Metin hemen ardından huzura ermiş nefse seslenir: \"Dön Rabbine, razı ve razı olunmuş olarak; gir kullarımın arasına, gir cennetime.\"",
+      "shift": "Varış noktası olarak korku değil rıza çizildi; kapanış bir tehdit değil, mümkün bir hâlin tasviri olarak konumlandı."
+    }
+  ],
+  "apophaticReading": "**'Tarihsel bir uyarı suresidir' okuması metnin kendi mantığıyla çelişir.** Çünkü aynı sure, Âd ve Firavun'u andıktan hemen sonra dönüp bugünkü muhataba bakar: \"İnsan ne zaman Rabbinin onu deneyip de zenginleştirdiğini görse...\" Yani geçmiş topluluklar örneklem olarak verilmiş, asıl muhatap şu andaki insandır. Sure tarih anlatısıyla başlar ama yargısını şimdinin davranışı üzerine inşa eder. Geçmişi anmak maksatın kendisi değil, şimdiyi yansıtmanın aracıdır.\n\n**'Servet karşıtı bir söylemdir' okuması metnin kendi mantığıyla çelişir.** Çünkü aynı sure zenginliği azap kamçısının gerekçesi olarak değil, imtihan zemini olarak tanımlar. \"Rabbim beni şereflendirdi\" cümlesi yanlış değil, o cümlenin bir değer okuması olarak kurulması yanlıştır. Sure serveti suçlamaz; serveti konum kanıtı sayan zihni düzeltir. Bu fark küçük değildir: metnin itirazı nesneye değil, nesneyle kurulan anlam ilişkisine yöneliktir.\n\n**'Nefs-i mutmainne bir erişim seviyesidir' okuması metnin kendi mantığıyla çelişir.** Çünkü aynı sure bu hitabı önceden hiç adlandırılmış bir karaktere yöneltmez; surenin kapanışında aniden bir seslenme açılır. Metnin kendi bağlamında nefs-i mutmainne — huzura ermiş benlik — bir hiyerarşik basamak olarak değil, servet ve yoksullukla kurduğu ilişkiyi doğru okuyan, ikisini de değer beyanı saymayan insanın hâli olarak belirir. Surenin yargı bölümüyle okunduğunda bu huzur, öte dünyanın ödülü değil, bu tarafta kurulan bir iç tutarlılığın çıktısıdır.\n\nGeriye kalan yönelim şu alana işaret eder: sure, servet ve yoksulluk sorusunu bireysel psikoloji düzleminde değil, somut toplumsal pratik düzleminde ele alır. Yetime ikram, yoksulu doyurmaya teşvik, miras — bunlar iç dünyaya değil davranışa bakar. Huzura ermiş benlik de bu pratiklerden koparılmış soyut bir ruh hâli olarak değil, dünya işlerine belirli bir biçimde katılan insanın ulaştığı yer olarak çerçevelenir.\n\nBugüne kadar az bakılmış açı şudur: surenin yemini doğrudan \"hikr\" (hicr) sahibine, yani akıl ve öz-denetim kapasitesi olan insana yöneliktir. Mekke toplumunun dili açısından bu seçim önemlidir; çünkü cahiliyenin karşıtı olan şey bilgi değil, öfkeye ve arzuya gem vurma kapasitesidir — hilm denen şey. Sure, yeminlerin ardından hemen bu soruyu sorar: bunlarda \"hikr\" sahibi için yemin değeri yok mu? Yani açılış başlı başına bir eleme yapar: bu söze muhatap olabilmek için önce arzularını dizginleyebilme kapasitesi gerekir. Bu ayrıntı genellikle yeminlerin nesnesine odaklanıldığında atlanır.\n\n*Surede pişmanlık içindeki insanın — \"keşke önceden göndereydim\" diyen sesin — kim olduğu, hangi hayatı yaşadığı buradan görünmez.*",
+  "aiCommentary": "Bu dört bölüm yapay zekâ tarafından üretilmiştir. Denetim için kullanılan başlıca kaynaklar şunlardır: Fecr suresinin Arapça metni, TDV İslâm Ansiklopedisi'nin Fecr suresi ve nefs maddesi, Diyanet meal ve tefsir kaynakları ile doğrulanmış editoryal içerik olarak sunulan TDV İslâm Ansiklopedisi cahiliye maddesi.\n\nApofatik okuma (olumsuzlama yöntemi) bilinçli bir tercih olarak uygulandı. Yaratanın bir metinden ne kastettiğini doğrudan söylemek, insanın tahminin ötesine geçtiği bir alana adım atmaktır. Olumsuzlama ise elde kalan alanı daraltır: neyin söylenmediğini, hangi okumanın metnin kendi iç mantığıyla çeliştiğini göstermek, kesinlik iddiası taşımayan bir okuma zemini açar. Bu yöntemle \"metin şunu söylüyor\" değil, \"bu okuma metnin kendi bağlamıyla çelişiyor\" denilebilir; geriye kalan ise okuyucunun kendi yargısına bırakılır.\n\nBu metin tefsir değildir, meal değildir, fetva değildir. Hiçbir amel hükmü çıkarılmaz, \"şu helal şu haram\" denilmez. Yeni bir kaynak, farklı bir dil analizi ya da farklı bir editoryal içerik bu okumaları değiştirebilir. Metin, sabit bir yorum sunmak için değil; surenin kendi mantığını, içinden göstermek için yazıldı."
 }

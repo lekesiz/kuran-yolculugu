@@ -1,414 +1,439 @@
 {
- "stationNo": 101,
- "surahNo": 62,
- "name": "Cum'a",
- "nameArabic": "",
- "nameMeaning": "",
- "verseCount": 11,
- "nuzulOrderOkuyan": 100,
- "periodDiyanet": "Medine",
- "periodOkuyan": "Medine",
- "revelationTiming": "Kaynaklar Medine döneminde indiğinde hemfikirdir; ancak iniş yılı konusunda hicretin 1. yılı ile 3. veya 4. yılı şeklinde farklı görüşler bulunmaktadır.",
- "stationTitle": "Göklerin tesbihi, yeryüzünün telaşı ve insanın duraklaması.",
- "introduction": "Cum'a Suresi, göklerde ve yerde ne varsa her şeyin Allah'ı tesbih ettiği gerçeğiyle başlayan, ancak yeryüzünün telaşına kapılıp giden insana durup dinlemesini öğütleyen sarsıcı bir suredir. Adını, inananları haftalık toplanma ve arınma gününe çağıran 9. ayetindeki 'el-cum'a' kelimesinden alır. Toplam 11 ayettir.\n\nSure, tematik olarak üç ana bölüme ayrılır. İlk bölümde Allah'ın mutlak hükümranlığı ve ümmi bir topluma içlerinden bir elçi göndermesinin hikmeti anlatılır. İkinci bölümde, kendilerine ilahi mesaj emanet edildiği halde onun hakkını vermeyen, kitabı sadece sırtında bir yük gibi taşıyanların durumu çarpıcı bir benzetmeyle gözler önüne serilir. Son bölümde ise, inananların hayatın koşuşturmacası içinde asıl önceliklerini unutmamaları gerektiği, cuma çağrısı üzerinden somutlaştırılarak verilir.\n\nSurenin ana ekseni, insanın dünya telaşı (ticaret, oyun, eğlence) ile varoluşsal sorumluluğu (Allah'ı anmak, arınmak) arasındaki dengeyi kurmasıdır. Sure, dindarlığın sadece bir aidiyet iddiası olmadığını, ilahi mesaja muhatap olmanın getirdiği sorumluluğu omuzlamayı gerektirdiğini vurgular.",
- "occasionOfRevelation": "Cum'a Suresi, Medine döneminde inmiştir. İniş yılı konusunda kaynaklar hicretin birinci yılı ile hicrî 3. veya 4. yıl olarak farklı tarihler zikretmektedir. Surenin özellikle son ayetlerinin inişine sebep olan somut bir olay kaynaklarda aktarılır.\n\nRivayetlere göre, Medine'de büyük bir kıtlığın yaşandığı bir dönemde, Hz. Peygamber cuma günü hutbe okurken dışarıdan davul ve gürültü sesleri duyulur. Bu sesler, Şam tarafından gelen ve yiyecek taşıyan bir ticaret kervanının gelişini haber vermektedir. O günün âdeti üzere kervanların gelişi davulla ilan edilirdi.\n\nKıtlık ve ihtiyaç içindeki cemaatin büyük bir kısmı, hutbeyi dinlemeyi bırakıp kervanın geldiği tarafa doğru koşar. Mescidde Hz. Peygamber ile birlikte sadece on iki kişi kalır. Bu durum Hz. Peygamber'i çok üzer. Surenin 11. ayeti, 'Onlar bir ticaret veya bir eğlence gördüklerinde oraya akın ettiler ve seni ayakta bıraktılar' diyerek bu olayı tasvir eder ve inananları uyarır. Kervanın kime ait olduğu konusunda Dihye el-Kelbî veya Câbir b. Abdullah gibi farklı isimler zikredilse de, asıl vurgulanan husus, insanın dünyevi ihtiyaçları ile manevi sorumlulukları arasındaki imtihanıdır.",
- "occasionSources": "TDV İslâm Ansiklopedisi, \"Cum‘a Sûresi\" maddesi; Diyanet İşleri Başkanlığı Kur'an Yolu Tefsiri, Cum'a Suresi tefsiri; kuranokuyan.com, Cum'a suresi girişi (Prof. Dr. Mehmet Okuyan).",
- "keyTerms": [
-  {
-   "term": "tesbih",
-   "arabic": "يُسَبِّحُ",
-   "verseRef": "62:1",
-   "meaning": "Göklerde ve yerde olan her şeyin kendi varlık diliyle Allah'ın mutlak yüceliğini ve eksikliklerden uzak olduğunu ilan etmesi."
-  },
-  {
-   "term": "ümmî",
-   "arabic": "الْاُمِّيّ۪نَ",
-   "verseRef": "62:2",
-   "meaning": "Daha önce kendilerine ilahi bir kitap verilmemiş, ilahi mesajla henüz tanışmamış toplum."
-  },
-  {
-   "term": "tezkiye",
-   "arabic": "يُزَكّ۪يهِمْ",
-   "verseRef": "62:2",
-   "meaning": "İnsanın zihinsel, kalbî ve pratik düzeyde her türlü kirden, şirkten ve kötülükten arınması."
-  },
-  {
-   "term": "esfâr",
-   "arabic": "اَسْفَاراً",
-   "verseRef": "62:5",
-   "meaning": "İçeriği anlaşılmadan ve hayata taşınmadan sadece sırtta taşınan kalın ve büyük kitaplar."
-  },
-  {
-   "term": "zikrullah",
-   "arabic": "ذِكْرِ اللّٰهِ",
-   "verseRef": "62:9",
-   "meaning": "Allah'ı anmak, O'nun varlığının ve taleplerinin bilincinde olarak hayatı yaşamak."
-  }
- ],
- "themes": [
-  {
-   "label": "Bilginin Hamallığı",
-   "body": "İlahi mesajı veya hakikati bilmek, ona sahip olmak yetmez. Bilgi, hayata dönüşmediğinde ve kişiyi dönüştürmediğinde, sadece sırtta taşınan bir yüke dönüşür."
-  },
-  {
-   "label": "Dünya Telaşı ve Duraklama",
-   "body": "Hayatın koşuşturmacası, geçim derdi ve eğlenceler insanı asıl amacından uzaklaştırabilir. İnsanın, bu akışa dur diyebileceği ve önceliklerini hatırlayacağı bilinç duraklarına ihtiyacı vardır."
-  },
-  {
-   "label": "Ölümle Yüzleşememe",
-   "body": "Kendi haklılığına ve seçilmişliğine inanan ama yapıp ettikleri yüzünden ölümle yüzleşmekten kaçan insan psikolojisi, aslında içten içe bir samimiyetsizliğin göstergesidir."
-  }
- ],
- "questions": [
-  "İnandığımı söylediğim değerler ve okuduğum doğrular hayatıma yön mü veriyor, yoksa onları sadece entelektüel bir yük olarak sırtımda mı taşıyorum?",
-  "Hayatın 'kervan sesleri' (fırsatlar, kazançlar, eğlenceler) duyulduğunda, inandığım değerleri ve duruşumu ne kadar çabuk terk ediyorum?"
- ],
- "contemporaryMeaning": "Bu sure, insanın bitmek bilmeyen kazanma telaşı ile durup düşünme ihtiyacı arasındaki gerilimi merkeze alır. Metin, hayatın akışını durduramayan, sürekli bir şeyleri kaçırma korkusuyla hareket eden insanın trajedisini resmeder. Bilgiyi biriktirmekle onu içselleştirmek arasındaki uçurum, surenin işaret ettiği temel yanılgıdır. Eyleme dönüşmeyen her türlü birikim, sahibini ağırlaştıran bir yüke dönüşür. Kişinin kendi kurguladığı haklılık zırhına sığınarak sonluluk fikrinden kaçması ise, bu telaşın ardındaki asıl korkuyu açığa çıkarır.\n\nBugünün diliyle: Sürekli güncellenen bildirim ekranları, bitirilmesi gereken projeler ve ödenmesi gereken taksitler arasında nefes almayı unutan insanın, bir anlığına her şeyi durdurma ihtimali bu metnin ana teklifidir. Fırsatları kaçırma endişesiyle bir toplantıdan diğerine koşan, piyasadaki anlık değişimleri yakalamaya çalışırken kendi iç sesini kaybeden birey, surenin anlattığı o büyük pazar yerinin tam ortasındadır.\n\nDiğer yandan, sayısız içerik tüketmek veya sertifikalar biriktirmek kişiyi otomatik olarak erdemli kılmaz. Bilginin bir statü nesnesine dönüştüğü bir düzende, entelektüel birikim sadece bir vitrin süsü olarak kalıyorsa, metnin o sarsıcı benzetmesi devreye girer. Asıl mesele ne kadar çok şey bilindiği veya kazanıldığı değil, hayatın o sağır edici gürültüsü içinde ne zaman durulması gerektiğinin bilinmesidir.",
- "scholarlyNotes": [
-  {
-   "kind": "ihtilaf",
-   "body": "Surenin nüzul yılı konusunda TDV İslâm Ansiklopedisi hicretin 1. yılını muhtemel görürken, Prof. Dr. Mehmet Okuyan hicrî 3. yılın sonu ile 4. yılın başını işaret etmektedir. Ayrıca kervanın kime ait olduğu konusunda Dihye el-Kelbî ve Câbir b. Abdullah isimleri arasında rivayet farklılıkları vardır.",
-   "label": "Nüzul Yılı ve Kervan Sahibi"
-  },
-  {
-   "kind": "nuans",
-   "body": "Diyanet Kur'an Yolu tefsiri, yahudilerin ölümü temenni etmemeleriyle ilgili ayeti açıklarken, mevcut Tevrat'ta ahiret fikrinin zayıf ve müphem olduğuna, ölüm sonrası hayata dair inanç esaslarının geç dönem metinlerinde yer bulabildiğine dikkat çeker.",
-   "label": "Tevrat ve Âhiret İnancı"
-  }
- ],
- "verses": [
-  {
-   "verseNo": 1,
-   "textArabic": "بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ يُسَبِّحُ لِلَّهِ مَا فِى ٱلسَّمَٰوَٰتِ وَمَا فِى ٱلْأَرْضِ ٱلْمَلِكِ ٱلْقُدُّوسِ ٱلْعَزِيزِ ٱلْحَكِيمِ"
-  },
-  {
-   "verseNo": 2,
-   "textArabic": "هُوَ ٱلَّذِى بَعَثَ فِى ٱلْأُمِّيِّۦنَ رَسُولًۭا مِّنْهُمْ يَتْلُوا۟ عَلَيْهِمْ ءَايَٰتِهِۦ وَيُزَكِّيهِمْ وَيُعَلِّمُهُمُ ٱلْكِتَٰبَ وَٱلْحِكْمَةَ وَإِن كَانُوا۟ مِن قَبْلُ لَفِى ضَلَٰلٍۢ مُّبِينٍۢ"
-  },
-  {
-   "verseNo": 3,
-   "textArabic": "وَءَاخَرِينَ مِنْهُمْ لَمَّا يَلْحَقُوا۟ بِهِمْ ۚ وَهُوَ ٱلْعَزِيزُ ٱلْحَكِيمُ"
-  },
-  {
-   "verseNo": 4,
-   "textArabic": "ذَٰلِكَ فَضْلُ ٱللَّهِ يُؤْتِيهِ مَن يَشَآءُ ۚ وَٱللَّهُ ذُو ٱلْفَضْلِ ٱلْعَظِيمِ"
-  },
-  {
-   "verseNo": 5,
-   "textArabic": "مَثَلُ ٱلَّذِينَ حُمِّلُوا۟ ٱلتَّوْرَىٰةَ ثُمَّ لَمْ يَحْمِلُوهَا كَمَثَلِ ٱلْحِمَارِ يَحْمِلُ أَسْفَارًۢا ۚ بِئْسَ مَثَلُ ٱلْقَوْمِ ٱلَّذِينَ كَذَّبُوا۟ بِـَٔايَٰتِ ٱللَّهِ ۚ وَٱللَّهُ لَا يَهْدِى ٱلْقَوْمَ ٱلظَّٰلِمِينَ"
-  },
-  {
-   "verseNo": 6,
-   "textArabic": "قُلْ يَٰٓأَيُّهَا ٱلَّذِينَ هَادُوٓا۟ إِن زَعَمْتُمْ أَنَّكُمْ أَوْلِيَآءُ لِلَّهِ مِن دُونِ ٱلنَّاسِ فَتَمَنَّوُا۟ ٱلْمَوْتَ إِن كُنتُمْ صَٰدِقِينَ"
-  },
-  {
-   "verseNo": 7,
-   "textArabic": "وَلَا يَتَمَنَّوْنَهُۥٓ أَبَدًۢا بِمَا قَدَّمَتْ أَيْدِيهِمْ ۚ وَٱللَّهُ عَلِيمٌۢ بِٱلظَّٰلِمِينَ"
-  },
-  {
-   "verseNo": 8,
-   "textArabic": "قُلْ إِنَّ ٱلْمَوْتَ ٱلَّذِى تَفِرُّونَ مِنْهُ فَإِنَّهُۥ مُلَٰقِيكُمْ ۖ ثُمَّ تُرَدُّونَ إِلَىٰ عَٰلِمِ ٱلْغَيْبِ وَٱلشَّهَٰدَةِ فَيُنَبِّئُكُم بِمَا كُنتُمْ تَعْمَلُونَ"
-  },
-  {
-   "verseNo": 9,
-   "textArabic": "يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوٓا۟ إِذَا نُودِىَ لِلصَّلَوٰةِ مِن يَوْمِ ٱلْجُمُعَةِ فَٱسْعَوْا۟ إِلَىٰ ذِكْرِ ٱللَّهِ وَذَرُوا۟ ٱلْبَيْعَ ۚ ذَٰلِكُمْ خَيْرٌۭ لَّكُمْ إِن كُنتُمْ تَعْلَمُونَ"
-  },
-  {
-   "verseNo": 10,
-   "textArabic": "فَإِذَا قُضِيَتِ ٱلصَّلَوٰةُ فَٱنتَشِرُوا۟ فِى ٱلْأَرْضِ وَٱبْتَغُوا۟ مِن فَضْلِ ٱللَّهِ وَٱذْكُرُوا۟ ٱللَّهَ كَثِيرًۭا لَّعَلَّكُمْ تُفْلِحُونَ"
-  },
-  {
-   "verseNo": 11,
-   "textArabic": "وَإِذَا رَأَوْا۟ تِجَٰرَةً أَوْ لَهْوًا ٱنفَضُّوٓا۟ إِلَيْهَا وَتَرَكُوكَ قَآئِمًۭا ۚ قُلْ مَا عِندَ ٱللَّهِ خَيْرٌۭ مِّنَ ٱللَّهْوِ وَمِنَ ٱلتِّجَٰرَةِ ۚ وَٱللَّهُ خَيْرُ ٱلرَّٰزِقِينَ"
-  }
- ],
- "translations": [
-  {
-   "verseNo": 1,
-   "source": "diyanet",
-   "text": "Göklerdeki ve yerdeki her şey, mülkün sahibi, mukaddes, mutlak güç sahibi, hüküm ve hikmet sahibi olan Allah'ı tespih eder."
-  },
-  {
-   "verseNo": 1,
-   "source": "okuyan",
-   "text": "Göklerde ve yerde ne varsa hepsi, (gerçek) hükümdar, kutsallığın kaynağı, güçlü, doğru hüküm veren Allah’ı tesbih eder (yüceltir)."
-  },
-  {
-   "verseNo": 1,
-   "source": "islamoglu",
-   "text": "GÖKLERDE olanlar da, yerde olanlar da mutlak otorite sahibi, mukaddes, her işinde mükemmel ve her hükmünde tam isabet sahibi Allah için hareket ederler."
-  },
-  {
-   "verseNo": 1,
-   "source": "esed",
-   "text": "Göklerde ve yerde olan her şey, Mülkün Sahibi, Mukaddes, Kudret ve Hikmet Sahibi Allah´ın sınırsız şanını yüceltmektedir"
-  },
-  {
-   "verseNo": 2,
-   "source": "diyanet",
-   "text": "O, ümmîlere, içlerinden, kendilerine âyetlerini okuyan, onları temizleyen, onlara kitabı ve hikmeti öğreten bir peygamber gönderendir. Halbuki onlar, bundan önce apaçık bir sapıklık içinde idiler."
-  },
-  {
-   "verseNo": 2,
-   "source": "okuyan",
-   "text": "O (Allah), ümmilere (Mekkelilere) kendilerine (Allah’ın) ayetlerini tilavet etmekte (okuyup aktarmakta), onları (kötülüklerden) arındırmakta ve onlara Kitap ve hikmeti (doğru hükümleri) öğretmekte olan bir Elçi göndermiştir. Daha önce onlar apaçık bir sapkınlık içindeydi."
-  },
-  {
-   "verseNo": 2,
-   "source": "islamoglu",
-   "text": "Ümmilere, âyetlerini kendilerine okumak, arındırmak, kitabı ve doğru hüküm vermeyi öğretmek için, içlerinden bir Elçi gönderen O’dur. Oysa onlar önceden derin bir sapıklık içinde yaşıyorlardı."
-  },
-  {
-   "verseNo": 2,
-   "source": "esed",
-   "text": "O, Kitap ile ilgisiz bir topluma, kendi içlerinden kendilerine Allah´ın mesajlarını aktaran, onları arındıran, ilahi kelamı ve hikmeti öğreten bir elçi göndermiştir ki, o´ndan önce, açık bir sapıklık içindeydiler"
-  },
-  {
-   "verseNo": 3,
-   "source": "diyanet",
-   "text": "(Allah o peygamberi) onlardan henüz kendilerine katılmayan başkalarına da göndermiştir. O mutlak güç sahibidir, hüküm ve hikmet sahibidir."
-  },
-  {
-   "verseNo": 3,
-   "source": "okuyan",
-   "text": "Henüz kendilerine katılmamış bulunan diğerlerine de (sonraki nesillere de bu elçiyi göndermiştir).O güçlüdür, doğru hüküm verendir."
-  },
-  {
-   "verseNo": 3,
-   "source": "islamoglu",
-   "text": "Üstelik onlar arasında henüz onlara katılmamış (ama katılmayı bekleyen) daha başkaları da var: Mutlak üstün ve yüce olan, her hükmü mutlak doğru olan sadece O’dur."
-  },
-  {
-   "verseNo": 3,
-   "source": "esed",
-   "text": "ve başka toplumlarla temasa geçmeleri sonucunda, kendilerinden diğerlerine (bu mesajın yayılmasını sağlamıştır), çünkü yalnız O, güç ve hikmet Sahibidir"
-  },
-  {
-   "verseNo": 4,
-   "source": "diyanet",
-   "text": "İşte bu, Allah'ın lütfudur. Onu dilediğine verir. Allah büyük lütuf sahibidir."
-  },
-  {
-   "verseNo": 4,
-   "source": "okuyan",
-   "text": "İşte bu, Allah’ın dilediğine (layık olana) verdiği lütfudur. Allah büyük lütuf sahibidir."
-  },
-  {
-   "verseNo": 4,
-   "source": "islamoglu",
-   "text": "İşte bu, Allah’ın hak edene/tercih ettiğine bahşettiği lütfudur: Zira Allah büyük lütuf sahibidir."
-  },
-  {
-   "verseNo": 4,
-   "source": "esed",
-   "text": "Bu, Allah´ın lütfudur. Allah, onu, (elde etmek) isteyen herkese bağışlar çünkü, Allah lütfunda sınırsızdır"
-  },
-  {
-   "verseNo": 5,
-   "source": "diyanet",
-   "text": "Tevrat'la yükümlü tutulup da onunla amel etmeyenlerin durumu, ciltlerle kitap taşıyan eşeğin durumu gibidir. Allah'ın âyetlerini inkar eden topluluğun hali ne kötüdür! Allah, zalimler topluluğunu hidayete erdirmez."
-  },
-  {
-   "verseNo": 5,
-   "source": "okuyan",
-   "text": "Kendilerine Tevrat’ı taşıma sorumluluğu verilip de onu taşımayanların örneği, kitaplar taşıyan eşeğin örneği gibidir. Allah’ın ayetlerini yalanlamış olan toplumun örneği ne kötüdür! Allah zalimler topluluğunu doğru yola ulaştırmaz."
-  },
-  {
-   "verseNo": 5,
-   "source": "islamoglu",
-   "text": "TEVRAT’I taşıma sorumluluğu kendilerine verilip de onu taşıma sorumluluğunu yerine getirmeyenlerin durumu, kitaplar yüklenmiş (fakat sırtındakinin değerinden bihaber olan) eşeğin durumu gibidir. Allah’ın âyetlerini yalanlayan toplumun temsil ettiği şey ne kötüdür! Ve Allah zalim bir topluma rehberliğini bahşetmez."
-  },
-  {
-   "verseNo": 5,
-   "source": "esed",
-   "text": "Tevrat´ın yükü ile onurlandırılmış iken bu yükü taşıyamamış olanların durumu, sırtına kitaplar yüklenmiş (ama onlardan habersiz bulunan) merkebin durumuna benzer. Allah´ın mesajlarını yalanlamaya şartlanmış olanların durumu ne acıdır, çünkü Allah rehberliğini böyle zalim bir halka ihsan etmez"
-  },
-  {
-   "verseNo": 6,
-   "source": "diyanet",
-   "text": "De ki: \"Ey Yahudi akidesini benimseyenler! Bütün insanlar değil de, yalnız kendinizin Allah'ın dostları olduğunu iddia ediyorsanız, (bunda da) samimi iseniz haydi ölümü isteyin!\""
-  },
-  {
-   "verseNo": 6,
-   "source": "okuyan",
-   "text": "De ki: “Ey yahudi olanlar! (Diğer) insanlar değil de yalnızca kendinizin Allah’ın dostları olduğunuzu sanıyorsanız (ve bu konuda) doğruysanız ölümü isteyin (bakalım)!”"
-  },
-  {
-   "verseNo": 6,
-   "source": "islamoglu",
-   "text": "De ki: “Ey Yahudiler! Eğer siz, öteki bütün insanları dışlayarak sadece kendinizin Allah’ın evliyası olduğunu iddia ediyorsanız, haydi ölümü temenni etsenize; tabi eğer iddianızda sadıksanız?”"
-  },
-  {
-   "verseNo": 6,
-   "source": "esed",
-   "text": "De ki: \"Siz ey Yahudi akidesine mensup olanlar! Eğer, (yalnız) kendinizin Allah´a yakın olduğunu iddia eder ve diğer bütün insanları dışlarsanız, o zaman ölümü özlüyorsunuz demektir; eğer söylediğinizde samimi iseniz"
-  },
-  {
-   "verseNo": 7,
-   "source": "diyanet",
-   "text": "Ama onlar, daha evvel yaptıklarından dolayı asla ölümü istemezler. Allah zalimleri hakkıyla bilir."
-  },
-  {
-   "verseNo": 7,
-   "source": "okuyan",
-   "text": "Onlar, kendi elleriyle önceden yaptıkları işler (günahları) sebebiyle ölümü istemezler. Allah zalimleri iyi bilendir."
-  },
-  {
-   "verseNo": 7,
-   "source": "islamoglu",
-   "text": "Elleriyle yaptıkları yüzünden asla (ölümü) temenni etmeyeceklerdir: Allah zulme gömülüp gidenleri çok iyi bilmektedir."
-  },
-  {
-   "verseNo": 7,
-   "source": "esed",
-   "text": "Ama aslında onu hiçbir zaman özlemezler, çünkü bu dünyada kendi elleriyle yapıp ettiklerini(n farkındadırlar) ve Allah zalimleri hakkıyla bilendir"
-  },
-  {
-   "verseNo": 8,
-   "source": "diyanet",
-   "text": "De ki: \"Sizin kendisinden kaçıp durduğunuz ölüm var ya, o mutlaka size ulaşacaktır. Sonra gaybı da, görünen âlemi de bilen Allah'a döndürüleceksiniz de, o size yapmakta olduklarınızı haber verecektir.\""
-  },
-  {
-   "verseNo": 8,
-   "source": "okuyan",
-   "text": "De ki: “Sizin kendisinden kaçtığınız ölüm şüphesiz ki sizi yakalayacaktır.Sonra da görünmeyeni de görüneni de bilen (Allah)’a döndürüleceksiniz ve yaptıklarınızı size bildirecektir.”"
-  },
-  {
-   "verseNo": 8,
-   "source": "islamoglu",
-   "text": "De ki: Bakın, şu kendisinden kaçtığınız ölüm var ya, işte o sizi mutlaka yakalayacaktır. Ardından idraki aşan ve idrak edilebilen tüm hakikatleri bilene döndürüleceksiniz: ve size yapıp ettikleriniz bir bir haber verilecek."
-  },
-  {
-   "verseNo": 8,
-   "source": "esed",
-   "text": "De ki: \"Bakın, kendisinden kaçtığınız ölüm, eninde sonunda sizi yakalayacaktır; o zaman, hem yaratılmışların zihinsel kavrayışlarının ötesinde olanları, hem de duyular yoluyla yahut akıl ile kavranabilen şeyleri bilen Allah´a döndürüleceksiniz; ve O, orada size (hayatta iken) yaptıklarınızın tümünü gösterecektir"
-  },
-  {
-   "verseNo": 9,
-   "source": "diyanet",
-   "text": "Ey iman edenler! Cuma günü namaz için çağrı yapıldığı zaman, hemen Allah'ın zikrine koşun ve alışverişi bırakın. Eğer bilirseniz bu, sizin için daha hayırlıdır."
-  },
-  {
-   "verseNo": 9,
-   "source": "okuyan",
-   "text": "Ey iman edenler! Cuma günü salât (namaz) için çağrıldığı(nız) zaman, hemen Allah’ı anmaya koşun ve alışverişi bırakın! Bilirseniz bu sizin için hayırlı olandır."
-  },
-  {
-   "verseNo": 9,
-   "source": "islamoglu",
-   "text": "SİZ ey iman edenler! Cuma günü namaza çağrıldığınızda, alışverişi keserek Allah’ı anmaya koşun! Eğer (hayır ile çıkar arasındaki farkı) bilirseniz, bu sizin için daha hayırlıdır."
-  },
-  {
-   "verseNo": 9,
-   "source": "esed",
-   "text": "Siz ey imana ermiş olanlar! Cuma günü namaz için çağrıldığınızda her türlü dünyevi alışverişi bırakıp Allah´ı anmaya koşun! Eğer bilseniz, bu sizin yararınızadır"
-  },
-  {
-   "verseNo": 10,
-   "source": "diyanet",
-   "text": "Namaz kılınınca artık yeryüzüne dağılın ve Allah'ın lütfundan nasibinizi arayın. Allah'ı çok zikredin ki kurtuluşa eresiniz."
-  },
-  {
-   "verseNo": 10,
-   "source": "okuyan",
-   "text": "Salât (namaz) bitirilince yeryüzüne dağılın ve Allah’ın lütfundan isteyin! Allah’ı çok hatırlayın! Umulur ki kurtulursunuz."
-  },
-  {
-   "verseNo": 10,
-   "source": "islamoglu",
-   "text": "Ve namaz kılındığı zaman da, artık yeryüzünde dağılın ve Allah’ın lutfundan (payınıza) düşeni talep edin! Ama Allah’ı hiç hatırdan çıkarmayın ki, ebedî mutluluğa ulaşabilesiniz."
-  },
-  {
-   "verseNo": 10,
-   "source": "esed",
-   "text": "Ve namaz bittiğinde yeryüzüne serbestçe dağılın ve Allah´ın lütfundan (rızkınızı) aramaya devam edin; mutluluğa ulaşabilmek için de Allah´ı sıkça anın"
-  },
-  {
-   "verseNo": 11,
-   "source": "diyanet",
-   "text": "(Durum böyle iken) onlar bir ticaret veya bir oyun eğlence gördükleri zaman hemen dağılıp ona koştular ve seni ayakta bıraktılar. De ki: \"Allah'ın yanında bulunan, eğlence ve ticaretten daha hayırlıdır. Allah, rızık verenlerin en hayırlısıdır.\""
-  },
-  {
-   "verseNo": 11,
-   "source": "okuyan",
-   "text": "Onlar, bir ticaret ve eğlence gördükleri zaman hemen dağılıp ona gider ve seni ayakta (yalnız) bırakırlar. De ki: “Allah’ın katındaki (kazanç), eğlenceden de ticaretten de hayırlıdır. Allah rızık verenlerin en hayırlısıdır.”"
-  },
-  {
-   "verseNo": 11,
-   "source": "islamoglu",
-   "text": "Ama onlar bir ticari menfaat veya bir eğlence gördüklerinde, hemen ona doğru seğirtip seni (konuşurken) ayakta öylece bırakıverdiler. De ki: “Allah katında bulunan, eğlenceden de, ticari menfaatten de daha hayırlıdır: zira Allah rızık verenlerin en hayırlısıdır."
-  },
-  {
-   "verseNo": 11,
-   "source": "esed",
-   "text": "Ama insanlar, dünyevi bir kazanç (fırsatı) veya geçici bir eğlence gördükleri zaman ona doğru koşup seni ayakta (ve konuşur durumda) bırakıverirler. De ki: \"Allah katında olan, bütün geçici eğlencelerden ve bütün kazançlardan çok daha hayırlıdır! Ve Allah rızık verenlerin en iyisidir"
-  },
-  {
-   "verseNo": 1,
-   "verseNoEnd": null,
-   "source": "ai",
-   "text": "Göklerde ve yerde olanlar Allah'ı tesbih eder. O hüküm sahibidir, kutsaldır, güçlüdür, hikmet sahibidir."
-  },
-  {
-   "verseNo": 2,
-   "verseNoEnd": null,
-   "source": "ai",
-   "text": "O, ümmi olanların içinden onlara bir elçi gönderendir; ayetlerini onlara okur, onları arındırır ve onlara kitabı ve hikmeti öğretir; oysa onlar daha önce apaçık bir sapıklık içindeydiler."
-  },
-  {
-   "verseNo": 3,
-   "verseNoEnd": null,
-   "source": "ai",
-   "text": "Onlardan sonradan onlara katılan başkaları da vardır. O güçlüdür, hikmet sahibidir."
-  },
-  {
-   "verseNo": 4,
-   "verseNoEnd": null,
-   "source": "ai",
-   "text": "İşte bu Allah'ın lütfudur; onu dilediğine verir. Allah büyük lütuf sahibidir."
-  },
-  {
-   "verseNo": 5,
-   "verseNoEnd": null,
-   "source": "ai",
-   "text": "Tevrat yüklenenlerin, sonra onu taşımayanların misali, kitaplar taşıyan bir eşeğin misalidir. Allah'ın ayetlerini yalanlayanların örneği ne kötüdür. Allah zalim topluluğu doğru yola iletmez."
-  },
-  {
-   "verseNo": 6,
-   "verseNoEnd": null,
-   "source": "ai",
-   "text": "De ki: Ey Yahudiler! Eğer iddia ediyorsanız ki siz insanlar dışında Allah'ın dostlarısınız, o halde ölümü dileyin eğer doğru söylüyorsanız."
-  },
-  {
-   "verseNo": 7,
-   "verseNoEnd": null,
-   "source": "ai",
-   "text": "Ama ellerinin önceden yaptıkları yüzünden asla onu dilemezler. Allah zalimleri bilendir."
-  },
-  {
-   "verseNo": 8,
-   "verseNoEnd": null,
-   "source": "ai",
-   "text": "De ki: Sizden kaçtığınız ölüm muhakkak sizi bulacaktır. Sonra gaybı ve şahitliği bilenin huzuruna döndürüleceksiniz; o size yaptıklarınızı haber verecektir."
-  },
-  {
-   "verseNo": 9,
-   "verseNoEnd": null,
-   "source": "ai",
-   "text": "Ey iman edenler! Cuma günü namazı için çağrı yapıldığında Allah'ı anmaya koşun ve alışverişi bırakın. Bu sizin için daha hayırlıdır, eğer bilseniz."
-  },
-  {
-   "verseNo": 10,
-   "verseNoEnd": null,
-   "source": "ai",
-   "text": "Namaz bitince yeryüzüne dağılın, Allah'ın lütfundan isteyin ve çokça Allah'ı anın; belki kurtuluşa ersiniz."
-  },
-  {
-   "verseNo": 11,
-   "verseNoEnd": null,
-   "source": "ai",
-   "text": "Onlar ticaret ya da eğlence gördüklerinde ona doğru dağılırlar ve seni ayakta bırakırlar. De ki: Allah'ın katında olan, eğlence ve ticaretten daha hayırlıdır. Allah rızık verenlerin en hayırlısıdır."
-  }
- ],
- "aiParagraph": "Bir şeyi bilmek başka, o bilgiyle yaşamak bambaşka bir şeydir; sure tam da bu farkın üzerine oturur. Sırtında kitap taşıyan ama o kitabın ağırlığını hiç hissetmemiş bir eşeğin imgesi, bilgiyi süs gibi taşıyanları o kadar sert ve o kadar doğru tanımlar ki insan duraksıyor: acaba hangi kitabı, hangi fikri, hangi değeri ben de böyle taşıyorum? Ardından sure, insanın ölümden kaçışını ele alır — kimse bunu yüksek sesle söylemez ama herkes bilir, ölüm kaçılacak bir şey değil, karşılanacak bir şeydir; üstelik ellerin ne yaptığı unutulmaz. Sonra sahne değişir: bir topluluk bir araya gelmiş, tam o anda dışarıdan bir ses yükseliyor, bir fırsat, bir kazanç, bir eğlence işareti — ve kalabalık dağılıveriyor, ortada tek başına biri kalıyor. Sure burada soruyu sormaz, sadece sahneyi gösterir. Ama sahne kendi sorusunu zaten taşıyor: neyin çağrısına koştuğunu, neyin sesiyle dağıldığını bilen biri, kendi önceliklerini de biliyor demektir."
+  "stationNo": 101,
+  "surahNo": 62,
+  "name": "Cum'a",
+  "nameArabic": "",
+  "nameMeaning": "",
+  "verseCount": 11,
+  "nuzulOrderOkuyan": 100,
+  "periodDiyanet": "Medine",
+  "periodOkuyan": "Medine",
+  "revelationTiming": "Kaynaklar Medine döneminde indiğinde hemfikirdir; ancak iniş yılı konusunda hicretin 1. yılı ile 3. veya 4. yılı şeklinde farklı görüşler bulunmaktadır.",
+  "stationTitle": "Göklerin tesbihi, yeryüzünün telaşı ve insanın duraklaması.",
+  "introduction": "Cum'a Suresi, göklerde ve yerde ne varsa her şeyin Allah'ı tesbih ettiği gerçeğiyle başlayan, ancak yeryüzünün telaşına kapılıp giden insana durup dinlemesini öğütleyen sarsıcı bir suredir. Adını, inananları haftalık toplanma ve arınma gününe çağıran 9. ayetindeki 'el-cum'a' kelimesinden alır. Toplam 11 ayettir.\n\nSure, tematik olarak üç ana bölüme ayrılır. İlk bölümde Allah'ın mutlak hükümranlığı ve ümmi bir topluma içlerinden bir elçi göndermesinin hikmeti anlatılır. İkinci bölümde, kendilerine ilahi mesaj emanet edildiği halde onun hakkını vermeyen, kitabı sadece sırtında bir yük gibi taşıyanların durumu çarpıcı bir benzetmeyle gözler önüne serilir. Son bölümde ise, inananların hayatın koşuşturmacası içinde asıl önceliklerini unutmamaları gerektiği, cuma çağrısı üzerinden somutlaştırılarak verilir.\n\nSurenin ana ekseni, insanın dünya telaşı (ticaret, oyun, eğlence) ile varoluşsal sorumluluğu (Allah'ı anmak, arınmak) arasındaki dengeyi kurmasıdır. Sure, dindarlığın sadece bir aidiyet iddiası olmadığını, ilahi mesaja muhatap olmanın getirdiği sorumluluğu omuzlamayı gerektirdiğini vurgular.",
+  "occasionOfRevelation": "Cum'a Suresi, Medine döneminde inmiştir. İniş yılı konusunda kaynaklar hicretin birinci yılı ile hicrî 3. veya 4. yıl olarak farklı tarihler zikretmektedir. Surenin özellikle son ayetlerinin inişine sebep olan somut bir olay kaynaklarda aktarılır.\n\nRivayetlere göre, Medine'de büyük bir kıtlığın yaşandığı bir dönemde, Hz. Peygamber cuma günü hutbe okurken dışarıdan davul ve gürültü sesleri duyulur. Bu sesler, Şam tarafından gelen ve yiyecek taşıyan bir ticaret kervanının gelişini haber vermektedir. O günün âdeti üzere kervanların gelişi davulla ilan edilirdi.\n\nKıtlık ve ihtiyaç içindeki cemaatin büyük bir kısmı, hutbeyi dinlemeyi bırakıp kervanın geldiği tarafa doğru koşar. Mescidde Hz. Peygamber ile birlikte sadece on iki kişi kalır. Bu durum Hz. Peygamber'i çok üzer. Surenin 11. ayeti, 'Onlar bir ticaret veya bir eğlence gördüklerinde oraya akın ettiler ve seni ayakta bıraktılar' diyerek bu olayı tasvir eder ve inananları uyarır. Kervanın kime ait olduğu konusunda Dihye el-Kelbî veya Câbir b. Abdullah gibi farklı isimler zikredilse de, asıl vurgulanan husus, insanın dünyevi ihtiyaçları ile manevi sorumlulukları arasındaki imtihanıdır.",
+  "occasionSources": "TDV İslâm Ansiklopedisi, \"Cum‘a Sûresi\" maddesi; Diyanet İşleri Başkanlığı Kur'an Yolu Tefsiri, Cum'a Suresi tefsiri; kuranokuyan.com, Cum'a suresi girişi (Prof. Dr. Mehmet Okuyan).",
+  "keyTerms": [
+    {
+      "term": "tesbih",
+      "arabic": "يُسَبِّحُ",
+      "verseRef": "62:1",
+      "meaning": "Göklerde ve yerde olan her şeyin kendi varlık diliyle Allah'ın mutlak yüceliğini ve eksikliklerden uzak olduğunu ilan etmesi."
+    },
+    {
+      "term": "ümmî",
+      "arabic": "الْاُمِّيّ۪نَ",
+      "verseRef": "62:2",
+      "meaning": "Daha önce kendilerine ilahi bir kitap verilmemiş, ilahi mesajla henüz tanışmamış toplum."
+    },
+    {
+      "term": "tezkiye",
+      "arabic": "يُزَكّ۪يهِمْ",
+      "verseRef": "62:2",
+      "meaning": "İnsanın zihinsel, kalbî ve pratik düzeyde her türlü kirden, şirkten ve kötülükten arınması."
+    },
+    {
+      "term": "esfâr",
+      "arabic": "اَسْفَاراً",
+      "verseRef": "62:5",
+      "meaning": "İçeriği anlaşılmadan ve hayata taşınmadan sadece sırtta taşınan kalın ve büyük kitaplar."
+    },
+    {
+      "term": "zikrullah",
+      "arabic": "ذِكْرِ اللّٰهِ",
+      "verseRef": "62:9",
+      "meaning": "Allah'ı anmak, O'nun varlığının ve taleplerinin bilincinde olarak hayatı yaşamak."
+    }
+  ],
+  "themes": [
+    {
+      "label": "Bilginin Hamallığı",
+      "body": "İlahi mesajı veya hakikati bilmek, ona sahip olmak yetmez. Bilgi, hayata dönüşmediğinde ve kişiyi dönüştürmediğinde, sadece sırtta taşınan bir yüke dönüşür."
+    },
+    {
+      "label": "Dünya Telaşı ve Duraklama",
+      "body": "Hayatın koşuşturmacası, geçim derdi ve eğlenceler insanı asıl amacından uzaklaştırabilir. İnsanın, bu akışa dur diyebileceği ve önceliklerini hatırlayacağı bilinç duraklarına ihtiyacı vardır."
+    },
+    {
+      "label": "Ölümle Yüzleşememe",
+      "body": "Kendi haklılığına ve seçilmişliğine inanan ama yapıp ettikleri yüzünden ölümle yüzleşmekten kaçan insan psikolojisi, aslında içten içe bir samimiyetsizliğin göstergesidir."
+    }
+  ],
+  "questions": [
+    "İnandığımı söylediğim değerler ve okuduğum doğrular hayatıma yön mü veriyor, yoksa onları sadece entelektüel bir yük olarak sırtımda mı taşıyorum?",
+    "Hayatın 'kervan sesleri' (fırsatlar, kazançlar, eğlenceler) duyulduğunda, inandığım değerleri ve duruşumu ne kadar çabuk terk ediyorum?"
+  ],
+  "contemporaryMeaning": "Bu sure, insanın bitmek bilmeyen kazanma telaşı ile durup düşünme ihtiyacı arasındaki gerilimi merkeze alır. Metin, hayatın akışını durduramayan, sürekli bir şeyleri kaçırma korkusuyla hareket eden insanın trajedisini resmeder. Bilgiyi biriktirmekle onu içselleştirmek arasındaki uçurum, surenin işaret ettiği temel yanılgıdır. Eyleme dönüşmeyen her türlü birikim, sahibini ağırlaştıran bir yüke dönüşür. Kişinin kendi kurguladığı haklılık zırhına sığınarak sonluluk fikrinden kaçması ise, bu telaşın ardındaki asıl korkuyu açığa çıkarır.\n\nBugünün diliyle: Sürekli güncellenen bildirim ekranları, bitirilmesi gereken projeler ve ödenmesi gereken taksitler arasında nefes almayı unutan insanın, bir anlığına her şeyi durdurma ihtimali bu metnin ana teklifidir. Fırsatları kaçırma endişesiyle bir toplantıdan diğerine koşan, piyasadaki anlık değişimleri yakalamaya çalışırken kendi iç sesini kaybeden birey, surenin anlattığı o büyük pazar yerinin tam ortasındadır.\n\nDiğer yandan, sayısız içerik tüketmek veya sertifikalar biriktirmek kişiyi otomatik olarak erdemli kılmaz. Bilginin bir statü nesnesine dönüştüğü bir düzende, entelektüel birikim sadece bir vitrin süsü olarak kalıyorsa, metnin o sarsıcı benzetmesi devreye girer. Asıl mesele ne kadar çok şey bilindiği veya kazanıldığı değil, hayatın o sağır edici gürültüsü içinde ne zaman durulması gerektiğinin bilinmesidir.",
+  "scholarlyNotes": [
+    {
+      "kind": "ihtilaf",
+      "body": "Surenin nüzul yılı konusunda TDV İslâm Ansiklopedisi hicretin 1. yılını muhtemel görürken, Prof. Dr. Mehmet Okuyan hicrî 3. yılın sonu ile 4. yılın başını işaret etmektedir. Ayrıca kervanın kime ait olduğu konusunda Dihye el-Kelbî ve Câbir b. Abdullah isimleri arasında rivayet farklılıkları vardır.",
+      "label": "Nüzul Yılı ve Kervan Sahibi"
+    },
+    {
+      "kind": "nuans",
+      "body": "Diyanet Kur'an Yolu tefsiri, yahudilerin ölümü temenni etmemeleriyle ilgili ayeti açıklarken, mevcut Tevrat'ta ahiret fikrinin zayıf ve müphem olduğuna, ölüm sonrası hayata dair inanç esaslarının geç dönem metinlerinde yer bulabildiğine dikkat çeker.",
+      "label": "Tevrat ve Âhiret İnancı"
+    }
+  ],
+  "verses": [
+    {
+      "verseNo": 1,
+      "textArabic": "بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ يُسَبِّحُ لِلَّهِ مَا فِى ٱلسَّمَٰوَٰتِ وَمَا فِى ٱلْأَرْضِ ٱلْمَلِكِ ٱلْقُدُّوسِ ٱلْعَزِيزِ ٱلْحَكِيمِ"
+    },
+    {
+      "verseNo": 2,
+      "textArabic": "هُوَ ٱلَّذِى بَعَثَ فِى ٱلْأُمِّيِّۦنَ رَسُولًۭا مِّنْهُمْ يَتْلُوا۟ عَلَيْهِمْ ءَايَٰتِهِۦ وَيُزَكِّيهِمْ وَيُعَلِّمُهُمُ ٱلْكِتَٰبَ وَٱلْحِكْمَةَ وَإِن كَانُوا۟ مِن قَبْلُ لَفِى ضَلَٰلٍۢ مُّبِينٍۢ"
+    },
+    {
+      "verseNo": 3,
+      "textArabic": "وَءَاخَرِينَ مِنْهُمْ لَمَّا يَلْحَقُوا۟ بِهِمْ ۚ وَهُوَ ٱلْعَزِيزُ ٱلْحَكِيمُ"
+    },
+    {
+      "verseNo": 4,
+      "textArabic": "ذَٰلِكَ فَضْلُ ٱللَّهِ يُؤْتِيهِ مَن يَشَآءُ ۚ وَٱللَّهُ ذُو ٱلْفَضْلِ ٱلْعَظِيمِ"
+    },
+    {
+      "verseNo": 5,
+      "textArabic": "مَثَلُ ٱلَّذِينَ حُمِّلُوا۟ ٱلتَّوْرَىٰةَ ثُمَّ لَمْ يَحْمِلُوهَا كَمَثَلِ ٱلْحِمَارِ يَحْمِلُ أَسْفَارًۢا ۚ بِئْسَ مَثَلُ ٱلْقَوْمِ ٱلَّذِينَ كَذَّبُوا۟ بِـَٔايَٰتِ ٱللَّهِ ۚ وَٱللَّهُ لَا يَهْدِى ٱلْقَوْمَ ٱلظَّٰلِمِينَ"
+    },
+    {
+      "verseNo": 6,
+      "textArabic": "قُلْ يَٰٓأَيُّهَا ٱلَّذِينَ هَادُوٓا۟ إِن زَعَمْتُمْ أَنَّكُمْ أَوْلِيَآءُ لِلَّهِ مِن دُونِ ٱلنَّاسِ فَتَمَنَّوُا۟ ٱلْمَوْتَ إِن كُنتُمْ صَٰدِقِينَ"
+    },
+    {
+      "verseNo": 7,
+      "textArabic": "وَلَا يَتَمَنَّوْنَهُۥٓ أَبَدًۢا بِمَا قَدَّمَتْ أَيْدِيهِمْ ۚ وَٱللَّهُ عَلِيمٌۢ بِٱلظَّٰلِمِينَ"
+    },
+    {
+      "verseNo": 8,
+      "textArabic": "قُلْ إِنَّ ٱلْمَوْتَ ٱلَّذِى تَفِرُّونَ مِنْهُ فَإِنَّهُۥ مُلَٰقِيكُمْ ۖ ثُمَّ تُرَدُّونَ إِلَىٰ عَٰلِمِ ٱلْغَيْبِ وَٱلشَّهَٰدَةِ فَيُنَبِّئُكُم بِمَا كُنتُمْ تَعْمَلُونَ"
+    },
+    {
+      "verseNo": 9,
+      "textArabic": "يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوٓا۟ إِذَا نُودِىَ لِلصَّلَوٰةِ مِن يَوْمِ ٱلْجُمُعَةِ فَٱسْعَوْا۟ إِلَىٰ ذِكْرِ ٱللَّهِ وَذَرُوا۟ ٱلْبَيْعَ ۚ ذَٰلِكُمْ خَيْرٌۭ لَّكُمْ إِن كُنتُمْ تَعْلَمُونَ"
+    },
+    {
+      "verseNo": 10,
+      "textArabic": "فَإِذَا قُضِيَتِ ٱلصَّلَوٰةُ فَٱنتَشِرُوا۟ فِى ٱلْأَرْضِ وَٱبْتَغُوا۟ مِن فَضْلِ ٱللَّهِ وَٱذْكُرُوا۟ ٱللَّهَ كَثِيرًۭا لَّعَلَّكُمْ تُفْلِحُونَ"
+    },
+    {
+      "verseNo": 11,
+      "textArabic": "وَإِذَا رَأَوْا۟ تِجَٰرَةً أَوْ لَهْوًا ٱنفَضُّوٓا۟ إِلَيْهَا وَتَرَكُوكَ قَآئِمًۭا ۚ قُلْ مَا عِندَ ٱللَّهِ خَيْرٌۭ مِّنَ ٱللَّهْوِ وَمِنَ ٱلتِّجَٰرَةِ ۚ وَٱللَّهُ خَيْرُ ٱلرَّٰزِقِينَ"
+    }
+  ],
+  "translations": [
+    {
+      "verseNo": 1,
+      "source": "diyanet",
+      "text": "Göklerdeki ve yerdeki her şey, mülkün sahibi, mukaddes, mutlak güç sahibi, hüküm ve hikmet sahibi olan Allah'ı tespih eder."
+    },
+    {
+      "verseNo": 1,
+      "source": "okuyan",
+      "text": "Göklerde ve yerde ne varsa hepsi, (gerçek) hükümdar, kutsallığın kaynağı, güçlü, doğru hüküm veren Allah’ı tesbih eder (yüceltir)."
+    },
+    {
+      "verseNo": 1,
+      "source": "islamoglu",
+      "text": "GÖKLERDE olanlar da, yerde olanlar da mutlak otorite sahibi, mukaddes, her işinde mükemmel ve her hükmünde tam isabet sahibi Allah için hareket ederler."
+    },
+    {
+      "verseNo": 1,
+      "source": "esed",
+      "text": "Göklerde ve yerde olan her şey, Mülkün Sahibi, Mukaddes, Kudret ve Hikmet Sahibi Allah´ın sınırsız şanını yüceltmektedir"
+    },
+    {
+      "verseNo": 2,
+      "source": "diyanet",
+      "text": "O, ümmîlere, içlerinden, kendilerine âyetlerini okuyan, onları temizleyen, onlara kitabı ve hikmeti öğreten bir peygamber gönderendir. Halbuki onlar, bundan önce apaçık bir sapıklık içinde idiler."
+    },
+    {
+      "verseNo": 2,
+      "source": "okuyan",
+      "text": "O (Allah), ümmilere (Mekkelilere) kendilerine (Allah’ın) ayetlerini tilavet etmekte (okuyup aktarmakta), onları (kötülüklerden) arındırmakta ve onlara Kitap ve hikmeti (doğru hükümleri) öğretmekte olan bir Elçi göndermiştir. Daha önce onlar apaçık bir sapkınlık içindeydi."
+    },
+    {
+      "verseNo": 2,
+      "source": "islamoglu",
+      "text": "Ümmilere, âyetlerini kendilerine okumak, arındırmak, kitabı ve doğru hüküm vermeyi öğretmek için, içlerinden bir Elçi gönderen O’dur. Oysa onlar önceden derin bir sapıklık içinde yaşıyorlardı."
+    },
+    {
+      "verseNo": 2,
+      "source": "esed",
+      "text": "O, Kitap ile ilgisiz bir topluma, kendi içlerinden kendilerine Allah´ın mesajlarını aktaran, onları arındıran, ilahi kelamı ve hikmeti öğreten bir elçi göndermiştir ki, o´ndan önce, açık bir sapıklık içindeydiler"
+    },
+    {
+      "verseNo": 3,
+      "source": "diyanet",
+      "text": "(Allah o peygamberi) onlardan henüz kendilerine katılmayan başkalarına da göndermiştir. O mutlak güç sahibidir, hüküm ve hikmet sahibidir."
+    },
+    {
+      "verseNo": 3,
+      "source": "okuyan",
+      "text": "Henüz kendilerine katılmamış bulunan diğerlerine de (sonraki nesillere de bu elçiyi göndermiştir).O güçlüdür, doğru hüküm verendir."
+    },
+    {
+      "verseNo": 3,
+      "source": "islamoglu",
+      "text": "Üstelik onlar arasında henüz onlara katılmamış (ama katılmayı bekleyen) daha başkaları da var: Mutlak üstün ve yüce olan, her hükmü mutlak doğru olan sadece O’dur."
+    },
+    {
+      "verseNo": 3,
+      "source": "esed",
+      "text": "ve başka toplumlarla temasa geçmeleri sonucunda, kendilerinden diğerlerine (bu mesajın yayılmasını sağlamıştır), çünkü yalnız O, güç ve hikmet Sahibidir"
+    },
+    {
+      "verseNo": 4,
+      "source": "diyanet",
+      "text": "İşte bu, Allah'ın lütfudur. Onu dilediğine verir. Allah büyük lütuf sahibidir."
+    },
+    {
+      "verseNo": 4,
+      "source": "okuyan",
+      "text": "İşte bu, Allah’ın dilediğine (layık olana) verdiği lütfudur. Allah büyük lütuf sahibidir."
+    },
+    {
+      "verseNo": 4,
+      "source": "islamoglu",
+      "text": "İşte bu, Allah’ın hak edene/tercih ettiğine bahşettiği lütfudur: Zira Allah büyük lütuf sahibidir."
+    },
+    {
+      "verseNo": 4,
+      "source": "esed",
+      "text": "Bu, Allah´ın lütfudur. Allah, onu, (elde etmek) isteyen herkese bağışlar çünkü, Allah lütfunda sınırsızdır"
+    },
+    {
+      "verseNo": 5,
+      "source": "diyanet",
+      "text": "Tevrat'la yükümlü tutulup da onunla amel etmeyenlerin durumu, ciltlerle kitap taşıyan eşeğin durumu gibidir. Allah'ın âyetlerini inkar eden topluluğun hali ne kötüdür! Allah, zalimler topluluğunu hidayete erdirmez."
+    },
+    {
+      "verseNo": 5,
+      "source": "okuyan",
+      "text": "Kendilerine Tevrat’ı taşıma sorumluluğu verilip de onu taşımayanların örneği, kitaplar taşıyan eşeğin örneği gibidir. Allah’ın ayetlerini yalanlamış olan toplumun örneği ne kötüdür! Allah zalimler topluluğunu doğru yola ulaştırmaz."
+    },
+    {
+      "verseNo": 5,
+      "source": "islamoglu",
+      "text": "TEVRAT’I taşıma sorumluluğu kendilerine verilip de onu taşıma sorumluluğunu yerine getirmeyenlerin durumu, kitaplar yüklenmiş (fakat sırtındakinin değerinden bihaber olan) eşeğin durumu gibidir. Allah’ın âyetlerini yalanlayan toplumun temsil ettiği şey ne kötüdür! Ve Allah zalim bir topluma rehberliğini bahşetmez."
+    },
+    {
+      "verseNo": 5,
+      "source": "esed",
+      "text": "Tevrat´ın yükü ile onurlandırılmış iken bu yükü taşıyamamış olanların durumu, sırtına kitaplar yüklenmiş (ama onlardan habersiz bulunan) merkebin durumuna benzer. Allah´ın mesajlarını yalanlamaya şartlanmış olanların durumu ne acıdır, çünkü Allah rehberliğini böyle zalim bir halka ihsan etmez"
+    },
+    {
+      "verseNo": 6,
+      "source": "diyanet",
+      "text": "De ki: \"Ey Yahudi akidesini benimseyenler! Bütün insanlar değil de, yalnız kendinizin Allah'ın dostları olduğunu iddia ediyorsanız, (bunda da) samimi iseniz haydi ölümü isteyin!\""
+    },
+    {
+      "verseNo": 6,
+      "source": "okuyan",
+      "text": "De ki: “Ey yahudi olanlar! (Diğer) insanlar değil de yalnızca kendinizin Allah’ın dostları olduğunuzu sanıyorsanız (ve bu konuda) doğruysanız ölümü isteyin (bakalım)!”"
+    },
+    {
+      "verseNo": 6,
+      "source": "islamoglu",
+      "text": "De ki: “Ey Yahudiler! Eğer siz, öteki bütün insanları dışlayarak sadece kendinizin Allah’ın evliyası olduğunu iddia ediyorsanız, haydi ölümü temenni etsenize; tabi eğer iddianızda sadıksanız?”"
+    },
+    {
+      "verseNo": 6,
+      "source": "esed",
+      "text": "De ki: \"Siz ey Yahudi akidesine mensup olanlar! Eğer, (yalnız) kendinizin Allah´a yakın olduğunu iddia eder ve diğer bütün insanları dışlarsanız, o zaman ölümü özlüyorsunuz demektir; eğer söylediğinizde samimi iseniz"
+    },
+    {
+      "verseNo": 7,
+      "source": "diyanet",
+      "text": "Ama onlar, daha evvel yaptıklarından dolayı asla ölümü istemezler. Allah zalimleri hakkıyla bilir."
+    },
+    {
+      "verseNo": 7,
+      "source": "okuyan",
+      "text": "Onlar, kendi elleriyle önceden yaptıkları işler (günahları) sebebiyle ölümü istemezler. Allah zalimleri iyi bilendir."
+    },
+    {
+      "verseNo": 7,
+      "source": "islamoglu",
+      "text": "Elleriyle yaptıkları yüzünden asla (ölümü) temenni etmeyeceklerdir: Allah zulme gömülüp gidenleri çok iyi bilmektedir."
+    },
+    {
+      "verseNo": 7,
+      "source": "esed",
+      "text": "Ama aslında onu hiçbir zaman özlemezler, çünkü bu dünyada kendi elleriyle yapıp ettiklerini(n farkındadırlar) ve Allah zalimleri hakkıyla bilendir"
+    },
+    {
+      "verseNo": 8,
+      "source": "diyanet",
+      "text": "De ki: \"Sizin kendisinden kaçıp durduğunuz ölüm var ya, o mutlaka size ulaşacaktır. Sonra gaybı da, görünen âlemi de bilen Allah'a döndürüleceksiniz de, o size yapmakta olduklarınızı haber verecektir.\""
+    },
+    {
+      "verseNo": 8,
+      "source": "okuyan",
+      "text": "De ki: “Sizin kendisinden kaçtığınız ölüm şüphesiz ki sizi yakalayacaktır.Sonra da görünmeyeni de görüneni de bilen (Allah)’a döndürüleceksiniz ve yaptıklarınızı size bildirecektir.”"
+    },
+    {
+      "verseNo": 8,
+      "source": "islamoglu",
+      "text": "De ki: Bakın, şu kendisinden kaçtığınız ölüm var ya, işte o sizi mutlaka yakalayacaktır. Ardından idraki aşan ve idrak edilebilen tüm hakikatleri bilene döndürüleceksiniz: ve size yapıp ettikleriniz bir bir haber verilecek."
+    },
+    {
+      "verseNo": 8,
+      "source": "esed",
+      "text": "De ki: \"Bakın, kendisinden kaçtığınız ölüm, eninde sonunda sizi yakalayacaktır; o zaman, hem yaratılmışların zihinsel kavrayışlarının ötesinde olanları, hem de duyular yoluyla yahut akıl ile kavranabilen şeyleri bilen Allah´a döndürüleceksiniz; ve O, orada size (hayatta iken) yaptıklarınızın tümünü gösterecektir"
+    },
+    {
+      "verseNo": 9,
+      "source": "diyanet",
+      "text": "Ey iman edenler! Cuma günü namaz için çağrı yapıldığı zaman, hemen Allah'ın zikrine koşun ve alışverişi bırakın. Eğer bilirseniz bu, sizin için daha hayırlıdır."
+    },
+    {
+      "verseNo": 9,
+      "source": "okuyan",
+      "text": "Ey iman edenler! Cuma günü salât (namaz) için çağrıldığı(nız) zaman, hemen Allah’ı anmaya koşun ve alışverişi bırakın! Bilirseniz bu sizin için hayırlı olandır."
+    },
+    {
+      "verseNo": 9,
+      "source": "islamoglu",
+      "text": "SİZ ey iman edenler! Cuma günü namaza çağrıldığınızda, alışverişi keserek Allah’ı anmaya koşun! Eğer (hayır ile çıkar arasındaki farkı) bilirseniz, bu sizin için daha hayırlıdır."
+    },
+    {
+      "verseNo": 9,
+      "source": "esed",
+      "text": "Siz ey imana ermiş olanlar! Cuma günü namaz için çağrıldığınızda her türlü dünyevi alışverişi bırakıp Allah´ı anmaya koşun! Eğer bilseniz, bu sizin yararınızadır"
+    },
+    {
+      "verseNo": 10,
+      "source": "diyanet",
+      "text": "Namaz kılınınca artık yeryüzüne dağılın ve Allah'ın lütfundan nasibinizi arayın. Allah'ı çok zikredin ki kurtuluşa eresiniz."
+    },
+    {
+      "verseNo": 10,
+      "source": "okuyan",
+      "text": "Salât (namaz) bitirilince yeryüzüne dağılın ve Allah’ın lütfundan isteyin! Allah’ı çok hatırlayın! Umulur ki kurtulursunuz."
+    },
+    {
+      "verseNo": 10,
+      "source": "islamoglu",
+      "text": "Ve namaz kılındığı zaman da, artık yeryüzünde dağılın ve Allah’ın lutfundan (payınıza) düşeni talep edin! Ama Allah’ı hiç hatırdan çıkarmayın ki, ebedî mutluluğa ulaşabilesiniz."
+    },
+    {
+      "verseNo": 10,
+      "source": "esed",
+      "text": "Ve namaz bittiğinde yeryüzüne serbestçe dağılın ve Allah´ın lütfundan (rızkınızı) aramaya devam edin; mutluluğa ulaşabilmek için de Allah´ı sıkça anın"
+    },
+    {
+      "verseNo": 11,
+      "source": "diyanet",
+      "text": "(Durum böyle iken) onlar bir ticaret veya bir oyun eğlence gördükleri zaman hemen dağılıp ona koştular ve seni ayakta bıraktılar. De ki: \"Allah'ın yanında bulunan, eğlence ve ticaretten daha hayırlıdır. Allah, rızık verenlerin en hayırlısıdır.\""
+    },
+    {
+      "verseNo": 11,
+      "source": "okuyan",
+      "text": "Onlar, bir ticaret ve eğlence gördükleri zaman hemen dağılıp ona gider ve seni ayakta (yalnız) bırakırlar. De ki: “Allah’ın katındaki (kazanç), eğlenceden de ticaretten de hayırlıdır. Allah rızık verenlerin en hayırlısıdır.”"
+    },
+    {
+      "verseNo": 11,
+      "source": "islamoglu",
+      "text": "Ama onlar bir ticari menfaat veya bir eğlence gördüklerinde, hemen ona doğru seğirtip seni (konuşurken) ayakta öylece bırakıverdiler. De ki: “Allah katında bulunan, eğlenceden de, ticari menfaatten de daha hayırlıdır: zira Allah rızık verenlerin en hayırlısıdır."
+    },
+    {
+      "verseNo": 11,
+      "source": "esed",
+      "text": "Ama insanlar, dünyevi bir kazanç (fırsatı) veya geçici bir eğlence gördükleri zaman ona doğru koşup seni ayakta (ve konuşur durumda) bırakıverirler. De ki: \"Allah katında olan, bütün geçici eğlencelerden ve bütün kazançlardan çok daha hayırlıdır! Ve Allah rızık verenlerin en iyisidir"
+    },
+    {
+      "verseNo": 1,
+      "verseNoEnd": null,
+      "source": "ai",
+      "text": "Göklerde ve yerde olanlar Allah'ı tesbih eder. O hüküm sahibidir, kutsaldır, güçlüdür, hikmet sahibidir."
+    },
+    {
+      "verseNo": 2,
+      "verseNoEnd": null,
+      "source": "ai",
+      "text": "O, ümmi olanların içinden onlara bir elçi gönderendir; ayetlerini onlara okur, onları arındırır ve onlara kitabı ve hikmeti öğretir; oysa onlar daha önce apaçık bir sapıklık içindeydiler."
+    },
+    {
+      "verseNo": 3,
+      "verseNoEnd": null,
+      "source": "ai",
+      "text": "Onlardan sonradan onlara katılan başkaları da vardır. O güçlüdür, hikmet sahibidir."
+    },
+    {
+      "verseNo": 4,
+      "verseNoEnd": null,
+      "source": "ai",
+      "text": "İşte bu Allah'ın lütfudur; onu dilediğine verir. Allah büyük lütuf sahibidir."
+    },
+    {
+      "verseNo": 5,
+      "verseNoEnd": null,
+      "source": "ai",
+      "text": "Tevrat yüklenenlerin, sonra onu taşımayanların misali, kitaplar taşıyan bir eşeğin misalidir. Allah'ın ayetlerini yalanlayanların örneği ne kötüdür. Allah zalim topluluğu doğru yola iletmez."
+    },
+    {
+      "verseNo": 6,
+      "verseNoEnd": null,
+      "source": "ai",
+      "text": "De ki: Ey Yahudiler! Eğer iddia ediyorsanız ki siz insanlar dışında Allah'ın dostlarısınız, o halde ölümü dileyin eğer doğru söylüyorsanız."
+    },
+    {
+      "verseNo": 7,
+      "verseNoEnd": null,
+      "source": "ai",
+      "text": "Ama ellerinin önceden yaptıkları yüzünden asla onu dilemezler. Allah zalimleri bilendir."
+    },
+    {
+      "verseNo": 8,
+      "verseNoEnd": null,
+      "source": "ai",
+      "text": "De ki: Sizden kaçtığınız ölüm muhakkak sizi bulacaktır. Sonra gaybı ve şahitliği bilenin huzuruna döndürüleceksiniz; o size yaptıklarınızı haber verecektir."
+    },
+    {
+      "verseNo": 9,
+      "verseNoEnd": null,
+      "source": "ai",
+      "text": "Ey iman edenler! Cuma günü namazı için çağrı yapıldığında Allah'ı anmaya koşun ve alışverişi bırakın. Bu sizin için daha hayırlıdır, eğer bilseniz."
+    },
+    {
+      "verseNo": 10,
+      "verseNoEnd": null,
+      "source": "ai",
+      "text": "Namaz bitince yeryüzüne dağılın, Allah'ın lütfundan isteyin ve çokça Allah'ı anın; belki kurtuluşa ersiniz."
+    },
+    {
+      "verseNo": 11,
+      "verseNoEnd": null,
+      "source": "ai",
+      "text": "Onlar ticaret ya da eğlence gördüklerinde ona doğru dağılırlar ve seni ayakta bırakırlar. De ki: Allah'ın katında olan, eğlence ve ticaretten daha hayırlıdır. Allah rızık verenlerin en hayırlısıdır."
+    }
+  ],
+  "aiParagraph": "Bir şeyi bilmek başka, o bilgiyle yaşamak bambaşka bir şeydir; sure tam da bu farkın üzerine oturur. Sırtında kitap taşıyan ama o kitabın ağırlığını hiç hissetmemiş bir eşeğin imgesi, bilgiyi süs gibi taşıyanları o kadar sert ve o kadar doğru tanımlar ki insan duraksıyor: acaba hangi kitabı, hangi fikri, hangi değeri ben de böyle taşıyorum? Ardından sure, insanın ölümden kaçışını ele alır — kimse bunu yüksek sesle söylemez ama herkes bilir, ölüm kaçılacak bir şey değil, karşılanacak bir şeydir; üstelik ellerin ne yaptığı unutulmaz. Sonra sahne değişir: bir topluluk bir araya gelmiş, tam o anda dışarıdan bir ses yükseliyor, bir fırsat, bir kazanç, bir eğlence işareti — ve kalabalık dağılıveriyor, ortada tek başına biri kalıyor. Sure burada soruyu sormaz, sadece sahneyi gösterir. Ama sahne kendi sorusunu zaten taşıyor: neyin çağrısına koştuğunu, neyin sesiyle dağıldığını bilen biri, kendi önceliklerini de biliyor demektir.",
+  "audienceContext": "Cum'a Suresi Medine'de indi. Yani ilk muhataplar artık Mekke'nin ticaret sokaklarında değil, yeni kurulan bir topluluk içindeydiler. Ama bu topluluk henüz yerleşik değildi; kıtlık vardı, pazar ekonomisi tam oturmamıştı, her gelen kervan haber gibi yayılıyordu. Muhatapların büyük çoğunluğu ticareti bilen, kervancılığın ritmini içselleştirmiş insanlardı. \"Allah'ı anmak\" onlara yabancı bir kavram değildi; zaten Allah'ın varlığını, evreni yarattığını zaten kabul ediyorlardı. Asıl tartışma şuydu: bir insan peygamber olabilir mi, ve bu peygamber aracısız olarak doğrudan bir sorumluluk talep edebilir mi?\n\nSurenin ilk ayetlerinde konuşulan muhatap, kendisine ilahi bir kitap verilmemiş, ilahi mesajla ilk kez ciddi biçimde yüzleşen bir topluluktu. Sure bu topluluğa \"ümmî\" der — yani daha önce yazılı bir vahiy geleneğiyle tanışmamış, tarihsel olarak o sorumluluktan azade sayılmış. Bu bir aşağılama değil; tam tersine, surenin argümanının kalkış noktası. İçlerinden birinin elçi olarak gönderilmesi, surenin kendi mantığında büyük bir lütuf olarak sunuluyor: tanıdığın biri, senin dilinden, senin kaygılarını bilen biri sana bu mesajı getirdi.\n\nDirenç nereden geliyordu? Surenin ikinci bloğu Medine'deki Yahudi topluluğuna yöneliyor. Bu insanlar kendilerini Allah'ın seçilmiş dostları olarak tanımlıyorlardı; bu kimlik onlara hem ahlaki hem sosyal bir statü sağlıyordu. Sure bu iddianın içini sınıyor: eğer gerçekten Allah'ın dostuysan, O'na kavuşmak ister misin? Sure, ölümü temenni etmelerini bekliyor ve onların bunu asla yapmayacağını da peşinen söylüyor. Direnç, anlamayanlıktan değil, mevcut statüden kazanç sağlayanların bu statüyü kaybetmek istememesinden geliyor. \"Allah'ın dostu\" kimliği, sosyal bir koruyucu kalkan işlevi görüyordu; mesajı gerçekten taşımak zorunda kalmak ise bu kalkanı kaldırırdı.\n\nÜçüncü blok ise iman edenlere dönüyor. Ve bu noktada sahne somutlaşıyor: hutbe dinlenirken davul sesi duyuluyor, Şam'dan gelen bir kervan Medine'ye giriyor. Kıtlığın yaşandığı o dönemde yiyecek yüklü bir kervanın gelişi, bugünün insanına kredi borcunu kapatacak beklenmedik bir ödeme bildirimi gibi hissettirmiş olmalı. Cemaatin büyük kısmı mescidi terk etti; içerde yalnızca on iki kişi kaldı. Sure bu olayı anlatıyor ve olayın kendisi üzerinden soruyor: neyin sesi daha çok çekiyor?",
+  "eventMessageMap": [
+    {
+      "situation": "Medine'de kıtlık yaşanırken Şam'dan gelen bir kervan hutbe sırasında davul sesiyle şehre girdi ve cemaatin büyük çoğunluğu mescidi terk etti.",
+      "response": "Metin bu ayrılışı adıyla koydu: 'Onlar bir ticaret veya bir eğlence gördüklerinde oraya akın ettiler ve seni ayakta bıraktılar' — sonra 'Allah'ın yanındaki, eğlenceden ve ticaretten daha hayırlıdır' dedi.",
+      "shift": "Tercih sıralamasını örtük bırakmak yerine, hangi sesin daha güçlü çektiğini görünür kıldı."
+    },
+    {
+      "situation": "Yahudi toplulukları kendilerini Allah'ın özel dostu olarak tanımlıyor, bu kimliği hem bir ayrıcalık hem de sosyal statü olarak kullanıyordu.",
+      "response": "Metin bu iddiayı tersine çevirdi: 'Eğer Allah'ın dostları olduğunuzu iddia ediyorsanız, ölümü temenni edin — eğer doğru söylüyorsanız.'",
+      "shift": "Aidiyet iddiasını sınayan ölçütü, dışarıdan dayatılan bir kural değil, iddianın kendi iç tutarlılığı yaptı."
+    },
+    {
+      "situation": "Kendilerine Tevrat emanet edilmiş bir topluluk, kitabın içeriğini hayata taşımadan onu salt bir kimlik işareti olarak taşıyordu.",
+      "response": "Metin bunu sırtında kitap yüklü ama içeriğinden habersiz bir eşeğe benzetti — 'kitabı yüklenip sonra onu taşımayanların durumu' böyledir.",
+      "shift": "Kutsal bir metne sahip olmayı, o metnin gereklerini omuzlamaktan ayırt eden bir çizgi çekti."
+    },
+    {
+      "situation": "Namazın ardından cemaatin nereye gideceği ve ne yapacağı belirsizdi; ibadet ile gündelik hayat arasındaki sınır tartışmalıydı.",
+      "response": "Metin 'namaz bitince yeryüzüne dağılın, Allah'ın lütfundan payınızı arayın' dedi — yani ibadetin ardından dünyevi faaliyet yasaklanmadı, onaylandı.",
+      "shift": "Kutsalı gündeliğin karşısına değil, gündeliğin içine yerleştirdi; ticaret hem mubah hem de zikrullahla birlikte anılan bir alan oldu."
+    }
+  ],
+  "apophaticReading": "'Bu sure cuma namazının farziyetini ilan etmek için indi' okuması metnin kendi mantığıyla çelişir. Çünkü aynı sure, namazın bitmesinin ardından hemen 'yeryüzüne dağılın' diyor — yani metin çağrının kendisinden çok çağrıya verilen tepkiyle, mescidi doldurmaktan çok mescidi terk etme refleksiyle ilgileniyor. Sure, kurumsal bir ibadetin ilanı değil, insanın hangi ses çıkınca yerinden kalktığını soran bir tablo.\n\n'Yahudileri mahkum eden bir polemik metni' okuması metnin kendi mantığıyla çelişir. Çünkü aynı sure, hemen ardından iman edenlere dönerek hutbe sırasında mescidi terk etme sahnesini anlatıyor. Yani sırtında kitap taşıyıp içeriğini yaşatmama sorunu, o bölümün tek muhatabı değil; metin bunu bir gruba yönelik suçlama olarak değil, herhangi bir inanan için geçerli olan bir hâl olarak işliyor. Kervanın sesi duyulduğunda dağılan cemaat de aynı hastalığın farklı bir görünümü.\n\nGeriye kalan yönelim şu: Sure, üç farklı insan portresini arka arkaya sıralıyor — mesajı hayata taşımayan kitap yüklenicisi, ölümü temenni etmeyen 'seçilmiş dost', ve kervan sesinde dağılan cemaat. Bu üç portrenin ortak anatomisi aynı: inanç ya da kimlik iddiası taşımak, ama o iddianın gerektirdiği ağırlığı hissetmemek. Metin bu hâli ne bir millette ne bir dönemde sabitliyor; her üç portre de farklı bir zaman ve mekânda yeniden ortaya çıkabilecek yapılar.\n\nBugüne kadar az bakılmış açı: Surenin 10. ayeti namaz bittikten sonra 'Allah'ın lütfunu arayın' ve 'Allah'ı çokça anın' cümlelerini art arda koyuyor. Araştırmacı Emin Işık bu ayrıntıya dikkat çekiyor: gerçek dindarlığa yalnızca ibadet mekânında değil, iş ve ticaret hayatında da Allah'ı anmakla ulaşılabileceği vurgulanıyor. Yani sure, ibadeti dünyadan soyutlamıyor; tam tersine, zikrullahı (Allah'ı hatırlama bilinci) ticaretin tam içine yerleştiriyor. Mescit ile pazar arasındaki sınırın nereye çizildiği sorusu, surenin cevap verdiği değil, soran olduğu bir soru.\n\nSusma: *Sure, dağılanların içindeki korku ile kalanların içindeki huzurun ne olduğuna dair hiçbir şey söylemiyor — o iç hâl buradan görünmez.*",
+  "aiCommentary": "Bu dört bölüm, yapay zekâ tarafından üretilmiştir. Kullanılan kaynaklar şunlardır: surenin Arapça metni; TDV İslâm Ansiklopedisi'nin 'Cum'a Sûresi' ve 'Câhiliye' maddeleri; Diyanet Kuran Yolu tefsiri; ve editoryal içerikte belirtilen rivayetler (Buhârî, Tirmizî, İbn Kesîr referansları). Nüzul tarihi ve kervanın kime ait olduğu konusundaki rivayet farklılıkları metne taşınmamış, yalnızca belirsizliği belirtmekle yetinilmiştir.\n\nApofatik okuma bölümü — yani 'Metin neyi dışarıda bırakıyor?' başlıklı üçüncü bölüm — olumsuzlama yöntemiyle kurulmuştur. Bu yöntem tercih edildi, çünkü bir metnin 'gerçek maksadını' doğrudan ilan etmek, insanın kendi tahminine yaratanın kastı süsü giydirmesidir. Olumsuzlama, bu yanılgıyı en aza indirmenin bir yoludur: birkaç yaygın okumayı metnin kendi iç mantığıyla sınayarak elemek, pozitif bir iddia kurmaktan epistemik olarak daha dürüsttür. Geriye kalan 'yönelim' ifadesi de bu yüzden kesinlik dili taşımıyor.\n\nBu metin bir tefsir değildir, bir meal değildir, bir fetva değildir. Tefsir, uzmanlaşmış ilim geleneğinin ürettiği yorumdur; meal, metnin başka bir dile aktarımıdır; fetva, hukuki bir karar bildirimidir. Buradaki metin bunların hiçbirinin yerini tutmaz. Amel hükmü çıkarılamaz, dini sorumluluk belirlenemez. Yeni bir kaynak, yeni bir araştırma ya da okuyucunun kendi derin okuması bu değerlendirmelerin herhangi bir bölümünü değiştirebilir."
 }

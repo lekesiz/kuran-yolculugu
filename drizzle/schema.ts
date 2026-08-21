@@ -74,6 +74,28 @@ export const surahs = mysqlTable(
     contemporaryMeaning: text("contemporaryMeaning"),
     /** AI-written paragraph read straight from the Arabic: "what does this surah say today?" */
     aiParagraph: text("aiParagraph"),
+    /**
+     * Who the message first addressed: the sociology of the audience, the
+     * common ground the text could assume, and where the resistance came from.
+     * Written from verified period sources, not generalities.
+     */
+    audienceContext: text("audienceContext"),
+    /**
+     * Event-to-message mapping, stored as a JSON array of
+     * `{ situation, response, shift }`: what was on the ground, what the text
+     * said to it, and what that changed. Keeps the reading anchored to events
+     * rather than to mushaf order.
+     */
+    eventMessageMap: json("eventMessageMap"),
+    /**
+     * Apophatic reading of intent: instead of asserting "the text means X",
+     * it names readings that contradict the text's own logic, then points at
+     * the space left over. Ends with an explicit silence where the text does
+     * not speak.
+     */
+    apophaticReading: text("apophaticReading"),
+    /** Disclosure note: that the layer is AI-written, by what method, and its limits. */
+    aiCommentary: text("aiCommentary"),
     /** Key Arabic terms with explanations, stored as JSON array. */
     keyTerms: json("keyTerms"),
     /**

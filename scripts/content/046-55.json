@@ -1,2424 +1,2454 @@
 {
- "stationNo": 46,
- "surahNo": 55,
- "name": "Rahmân",
- "nameArabic": "",
- "nameMeaning": "",
- "verseCount": 78,
- "nuzulOrderOkuyan": 41,
- "periodDiyanet": "Mekke",
- "periodOkuyan": "Mekke",
- "revelationTiming": "Çoğunluğun görüşüne göre Mekke döneminde inmiştir. Ancak İbn Mes'ûd ve Mukātil'den gelen bazı rivayetlerde Medine'de indiği belirtilmektedir. Muhteva ve üslûbu Mekke sûrelerine benzemektedir.",
- "stationTitle": "Rahmetin Aynasında Varlık ve İnsan",
- "introduction": "Rahmân sûresi, adını ilk âyetinde geçen ve Allah'ın sonsuz merhametini ifade eden 'er-Rahmân' isminden alır. Toplam 78 âyetten oluşan sûre, Kur'an'ın 55. sûresidir. Sûrenin en belirgin özelliği, 'O halde Rabbinizin nimetlerinden hangisini yalanlayabilirsiniz?' âyetinin 31 kez tekrarlanmasıdır. Bu tekrar, insanı ve cinleri, kendilerine sunulan sayısız nimet üzerinde düşünmeye ve nankörlükten kaçınmaya davet eder.\n\nSûre, Allah'ın insana Kur'an'ı öğretmesi, onu yaratması ve ona kendini ifade etme (beyan) yeteneği vermesiyle başlar. Ardından evrendeki kusursuz dengeye, güneşin ve ayın hesaplı hareketine, bitkilerin ve ağaçların secde edişine dikkat çekilir. Bu kozmik düzen, insanın da kendi hayatında adaleti ve dengeyi gözetmesi gerektiğine işaret eder.\n\nSûrenin ilerleyen bölümlerinde, yeryüzündeki nimetler, denizlerin birbirine karışmaması gibi doğa olayları anlatılır. Daha sonra kıyamet sahneleri, suçluların durumu ve nihayetinde Allah'a karşı sorumluluk bilinciyle yaşayanlara vaat edilen cennet nimetleri tasvir edilir. Sûre, Allah'ın azamet ve ikram sahibi olduğunu vurgulayarak sona erer.",
- "occasionOfRevelation": "Rahmân sûresinin nüzul dönemi hakkında kaynaklarda farklı görüşler bulunmaktadır. Çoğunluğun görüşüne göre sûre Mekke döneminde inmiştir. Ancak İbn Mes'ûd ve Mukātil'den gelen bazı rivayetlerde Medine'de indiği belirtilmektedir. Sûrenin muhtevası ve üslûbu, Mekke döneminde inen sûrelerle büyük benzerlik göstermektedir.\n\nSûrenin iniş sebebi olarak, Furkân sûresi 60. âyette müşriklerin 'Rahmân da neymiş!' şeklindeki inkârcı tutumlarına bir cevap niteliği taşıdığı ifade edilir. Müşriklerin Allah'ın 'Rahmân' ismini kabullenmemeleri üzerine, bu sûre bütünüyle Allah'ın rahmetinin tecellilerini ve evrendeki nimetlerini gözler önüne sermek için indirilmiştir.\n\nBu bağlamda sûre, sadece belirli bir olaya değil, genel bir inkârcı tutuma karşı ilâhî bir cevap ve uyarı niteliğindedir. İnsanın yaratılışından evrendeki düzene kadar her şeyin Rahmân'ın bir lütfu olduğu vurgulanarak, nankörlüğün anlamsızlığı ortaya konur.",
- "occasionSources": "TDV İslâm Ansiklopedisi, \"Rahmân Sûresi\" maddesi; Diyanet İşleri Başkanlığı Kur'an Yolu Tefsiri, Rahmân 1-4 ayet tefsiri; kuranokuyan.com, Rahmân suresi girişi (Prof. Dr. Mehmet Okuyan).",
- "keyTerms": [
-  {
-   "term": "rahmân",
-   "arabic": "الرَّحْمٰن",
-   "verseRef": "55:1",
-   "meaning": "Merhametin kaynağı, özünde merhametli olan. Allah'ın sonsuz ve kuşatıcı rahmetini ifade eder."
-  },
-  {
-   "term": "beyân",
-   "arabic": "الْبَيَان",
-   "verseRef": "55:4",
-   "meaning": "Anlama, açıklama, kendini ifade etme yeteneği. İnsanı diğer varlıklardan ayıran en önemli özelliklerden biridir."
-  },
-  {
-   "term": "mîzân",
-   "arabic": "الْمِيزَان",
-   "verseRef": "55:7",
-   "meaning": "Ölçü, denge, adalet. Evrendeki kusursuz düzeni ve insanın hayatında gözetmesi gereken adaleti simgeler."
-  },
-  {
-   "term": "âlâ",
-   "arabic": "آلَاء",
-   "verseRef": "55:13",
-   "meaning": "Nimetler, lütuflar. Sûrede sıkça tekrarlanan âyette geçen ve Allah'ın sayısız ihsanlarını ifade eden kelimedir."
-  },
-  {
-   "term": "husbân",
-   "arabic": "حُسْبَان",
-   "verseRef": "55:5",
-   "meaning": "Hesap, ince bir ölçü. Güneş ve ayın hareketlerindeki şaşmaz düzeni belirtir."
-  }
- ],
- "themes": [
-  {
-   "label": "Nimetlerin Farkındalığı ve Şükür",
-   "body": "İnsan, çevresini saran sayısız nimetin içinde yaşarken çoğu zaman bunları kanıksar. Sûre, bizi bu körlükten uyandırarak, sahip olduğumuz her şeyin bir lütuf olduğunu hatırlatır ve nankörlükten uzaklaşıp şükre yönelmeye çağırır."
-  },
-  {
-   "label": "Evrendeki Denge ve İnsanın Sorumluluğu",
-   "body": "Kozmik düzendeki hassas denge (mîzân), insanın da kendi hayatında, ilişkilerinde ve doğayla etkileşiminde adaleti ve ölçüyü koruması gerektiğini öğretir. Aşırılıklardan kaçınmak, bu ilâhî dengeye uyum sağlamanın gereğidir."
-  },
-  {
-   "label": "Fânilik ve Bâki Olan",
-   "body": "Yeryüzündeki her şeyin geçici olduğu, sadece azamet ve ikram sahibi Allah'ın kalıcı olduğu gerçeği, insanın dünyaya aşırı bağlanmasını engeller ve ona asıl yönelmesi gereken kalıcı değeri gösterir."
-  }
- ],
- "questions": [
-  "Hayatımda 'benim hakkım' veya 'kendi başarım' olarak gördüğüm, ancak aslında bana sunulmuş bir lütuf olan nimetleri ne sıklıkla görmezden geliyorum?",
-  "İlişkilerimde, işimde veya çevremle etkileşimimde, evrendeki o kusursuz 'denge' ve 'adalet' (mîzân) ilkesini ne kadar gözetiyorum; nerede ölçüyü kaçırıyorum?"
- ],
- "contemporaryMeaning": "Bu sure, insanın varoluşsal körlüğü ile yüzleşmesini talep eder. Metnin merkezinde, kendisine sunulan imkânları kendi hakkı veya başarısı sanan, verili olanı olağanlaştıran ve bu yüzden nankörleşen insan tipi yer alır. Sürekli tekrarlanan soru, aslında insanın kendi konfor alanında kurduğu kibri parçalamaya yönelik ritmik bir sarsıntıdır.\n\nBugünün diliyle: Kendi çabasıyla elde ettiğini düşündüğü kariyeri, banka hesabı, sahip olduğu teknolojik imkânlar veya sosyal statüsü içinde kaybolan modern birey, her şeyin bir \"hak\" olduğuna inanır. Musluktan akan suyun, soluduğu havanın, bedenindeki kusursuz işleyişin veya ekran karşısında geçirdiği zamanı mümkün kılan altyapının bir lütuf olduğunu unutur. Tüketim kültürü, insana sürekli daha fazlasını hak ettiğini fısıldarken, sure bu illüzyonu kesintiye uğratır. İnsanın kendi kendine yettiği yanılgısı, aslında en büyük zayıflığıdır.\n\nAynı zamanda sure, evrendeki hassas ölçüye (mizan) dikkat çekerek, insanın kendi sınırlarını aşma eğilimini teşhis eder. Ekolojik krizler, ekonomik adaletsizlikler, dijital dünyadaki ölçüsüzlükler ve ilişkilerdeki tahribat, insanın bu kozmik dengeyi bozmasının somut sonuçlarıdır. Sınır tanımayan büyüme hırsı ve her şeyi kontrol edebilme arzusu, insanın kendi sonunu hazırlayan bir kibre dönüşür. Metin, insanı bu yıkıcı hızdan çekip çıkararak, sahip olduklarının geçiciliğini ve asıl kalıcı olanın karşısındaki kırılganlığını hatırlatır.",
- "scholarlyNotes": [
-  {
-   "kind": "ihtilaf",
-   "body": "Sûrenin nüzul dönemi hakkında kaynaklarda farklılık vardır. Çoğunluk Mekke döneminde indiğini kabul ederken, İbn Mes'ûd ve Mukātil'den gelen rivayetler Medine'de indiğini belirtmektedir. Ancak sûrenin üslûbu ve içeriği Mekke dönemine daha uygundur.",
-   "label": "Nüzul Dönemi İhtilafı"
-  },
-  {
-   "kind": "rivayet",
-   "body": "Bazı tefsir kitaplarında Übey b. Kâ'b yoluyla Hz. Peygamber'den nakledilen, 'Rahmân sûresini okuyan kimse Allah'ın kendisine lutfettiği nimetlerin şükrünü yerine getirmiş olur' mânasındaki rivayet mevzû (uydurma) kabul edilmiştir.",
-   "label": "Fazilet Rivayeti"
-  }
- ],
- "verses": [
-  {
-   "verseNo": 1,
-   "textArabic": "بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ ٱلرَّحْمَٰنُ"
-  },
-  {
-   "verseNo": 2,
-   "textArabic": "عَلَّمَ ٱلْقُرْءَانَ"
-  },
-  {
-   "verseNo": 3,
-   "textArabic": "خَلَقَ ٱلْإِنسَٰنَ"
-  },
-  {
-   "verseNo": 4,
-   "textArabic": "عَلَّمَهُ ٱلْبَيَانَ"
-  },
-  {
-   "verseNo": 5,
-   "textArabic": "ٱلشَّمْسُ وَٱلْقَمَرُ بِحُسْبَانٍۢ"
-  },
-  {
-   "verseNo": 6,
-   "textArabic": "وَٱلنَّجْمُ وَٱلشَّجَرُ يَسْجُدَانِ"
-  },
-  {
-   "verseNo": 7,
-   "textArabic": "وَٱلسَّمَآءَ رَفَعَهَا وَوَضَعَ ٱلْمِيزَانَ"
-  },
-  {
-   "verseNo": 8,
-   "textArabic": "أَلَّا تَطْغَوْا۟ فِى ٱلْمِيزَانِ"
-  },
-  {
-   "verseNo": 9,
-   "textArabic": "وَأَقِيمُوا۟ ٱلْوَزْنَ بِٱلْقِسْطِ وَلَا تُخْسِرُوا۟ ٱلْمِيزَانَ"
-  },
-  {
-   "verseNo": 10,
-   "textArabic": "وَٱلْأَرْضَ وَضَعَهَا لِلْأَنَامِ"
-  },
-  {
-   "verseNo": 11,
-   "textArabic": "فِيهَا فَٰكِهَةٌۭ وَٱلنَّخْلُ ذَاتُ ٱلْأَكْمَامِ"
-  },
-  {
-   "verseNo": 12,
-   "textArabic": "وَٱلْحَبُّ ذُو ٱلْعَصْفِ وَٱلرَّيْحَانُ"
-  },
-  {
-   "verseNo": 13,
-   "textArabic": "فَبِأَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ"
-  },
-  {
-   "verseNo": 14,
-   "textArabic": "خَلَقَ ٱلْإِنسَٰنَ مِن صَلْصَٰلٍۢ كَٱلْفَخَّارِ"
-  },
-  {
-   "verseNo": 15,
-   "textArabic": "وَخَلَقَ ٱلْجَآنَّ مِن مَّارِجٍۢ مِّن نَّارٍۢ"
-  },
-  {
-   "verseNo": 16,
-   "textArabic": "فَبِأَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ"
-  },
-  {
-   "verseNo": 17,
-   "textArabic": "رَبُّ ٱلْمَشْرِقَيْنِ وَرَبُّ ٱلْمَغْرِبَيْنِ"
-  },
-  {
-   "verseNo": 18,
-   "textArabic": "فَبِأَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ"
-  },
-  {
-   "verseNo": 19,
-   "textArabic": "مَرَجَ ٱلْبَحْرَيْنِ يَلْتَقِيَانِ"
-  },
-  {
-   "verseNo": 20,
-   "textArabic": "بَيْنَهُمَا بَرْزَخٌۭ لَّا يَبْغِيَانِ"
-  },
-  {
-   "verseNo": 21,
-   "textArabic": "فَبِأَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ"
-  },
-  {
-   "verseNo": 22,
-   "textArabic": "يَخْرُجُ مِنْهُمَا ٱللُّؤْلُؤُ وَٱلْمَرْجَانُ"
-  },
-  {
-   "verseNo": 23,
-   "textArabic": "فَبِأَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ"
-  },
-  {
-   "verseNo": 24,
-   "textArabic": "وَلَهُ ٱلْجَوَارِ ٱلْمُنشَـَٔاتُ فِى ٱلْبَحْرِ كَٱلْأَعْلَٰمِ"
-  },
-  {
-   "verseNo": 25,
-   "textArabic": "فَبِأَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ"
-  },
-  {
-   "verseNo": 26,
-   "textArabic": "كُلُّ مَنْ عَلَيْهَا فَانٍۢ"
-  },
-  {
-   "verseNo": 27,
-   "textArabic": "وَيَبْقَىٰ وَجْهُ رَبِّكَ ذُو ٱلْجَلَٰلِ وَٱلْإِكْرَامِ"
-  },
-  {
-   "verseNo": 28,
-   "textArabic": "فَبِأَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ"
-  },
-  {
-   "verseNo": 29,
-   "textArabic": "يَسْـَٔلُهُۥ مَن فِى ٱلسَّمَٰوَٰتِ وَٱلْأَرْضِ ۚ كُلَّ يَوْمٍ هُوَ فِى شَأْنٍۢ"
-  },
-  {
-   "verseNo": 30,
-   "textArabic": "فَبِأَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ"
-  },
-  {
-   "verseNo": 31,
-   "textArabic": "سَنَفْرُغُ لَكُمْ أَيُّهَ ٱلثَّقَلَانِ"
-  },
-  {
-   "verseNo": 32,
-   "textArabic": "فَبِأَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ"
-  },
-  {
-   "verseNo": 33,
-   "textArabic": "يَٰمَعْشَرَ ٱلْجِنِّ وَٱلْإِنسِ إِنِ ٱسْتَطَعْتُمْ أَن تَنفُذُوا۟ مِنْ أَقْطَارِ ٱلسَّمَٰوَٰتِ وَٱلْأَرْضِ فَٱنفُذُوا۟ ۚ لَا تَنفُذُونَ إِلَّا بِسُلْطَٰنٍۢ"
-  },
-  {
-   "verseNo": 34,
-   "textArabic": "فَبِأَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ"
-  },
-  {
-   "verseNo": 35,
-   "textArabic": "يُرْسَلُ عَلَيْكُمَا شُوَاظٌۭ مِّن نَّارٍۢ وَنُحَاسٌۭ فَلَا تَنتَصِرَانِ"
-  },
-  {
-   "verseNo": 36,
-   "textArabic": "فَبِأَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ"
-  },
-  {
-   "verseNo": 37,
-   "textArabic": "فَإِذَا ٱنشَقَّتِ ٱلسَّمَآءُ فَكَانَتْ وَرْدَةًۭ كَٱلدِّهَانِ"
-  },
-  {
-   "verseNo": 38,
-   "textArabic": "فَبِأَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ"
-  },
-  {
-   "verseNo": 39,
-   "textArabic": "فَيَوْمَئِذٍۢ لَّا يُسْـَٔلُ عَن ذَنۢبِهِۦٓ إِنسٌۭ وَلَا جَآنٌّۭ"
-  },
-  {
-   "verseNo": 40,
-   "textArabic": "فَبِأَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ"
-  },
-  {
-   "verseNo": 41,
-   "textArabic": "يُعْرَفُ ٱلْمُجْرِمُونَ بِسِيمَٰهُمْ فَيُؤْخَذُ بِٱلنَّوَٰصِى وَٱلْأَقْدَامِ"
-  },
-  {
-   "verseNo": 42,
-   "textArabic": "فَبِأَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ"
-  },
-  {
-   "verseNo": 43,
-   "textArabic": "هَٰذِهِۦ جَهَنَّمُ ٱلَّتِى يُكَذِّبُ بِهَا ٱلْمُجْرِمُونَ"
-  },
-  {
-   "verseNo": 44,
-   "textArabic": "يَطُوفُونَ بَيْنَهَا وَبَيْنَ حَمِيمٍ ءَانٍۢ"
-  },
-  {
-   "verseNo": 45,
-   "textArabic": "فَبِأَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ"
-  },
-  {
-   "verseNo": 46,
-   "textArabic": "وَلِمَنْ خَافَ مَقَامَ رَبِّهِۦ جَنَّتَانِ"
-  },
-  {
-   "verseNo": 47,
-   "textArabic": "فَبِأَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ"
-  },
-  {
-   "verseNo": 48,
-   "textArabic": "ذَوَاتَآ أَفْنَانٍۢ"
-  },
-  {
-   "verseNo": 49,
-   "textArabic": "فَبِأَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ"
-  },
-  {
-   "verseNo": 50,
-   "textArabic": "فِيهِمَا عَيْنَانِ تَجْرِيَانِ"
-  },
-  {
-   "verseNo": 51,
-   "textArabic": "فَبِأَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ"
-  },
-  {
-   "verseNo": 52,
-   "textArabic": "فِيهِمَا مِن كُلِّ فَٰكِهَةٍۢ زَوْجَانِ"
-  },
-  {
-   "verseNo": 53,
-   "textArabic": "فَبِأَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ"
-  },
-  {
-   "verseNo": 54,
-   "textArabic": "مُتَّكِـِٔينَ عَلَىٰ فُرُشٍۭ بَطَآئِنُهَا مِنْ إِسْتَبْرَقٍۢ ۚ وَجَنَى ٱلْجَنَّتَيْنِ دَانٍۢ"
-  },
-  {
-   "verseNo": 55,
-   "textArabic": "فَبِأَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ"
-  },
-  {
-   "verseNo": 56,
-   "textArabic": "فِيهِنَّ قَٰصِرَٰتُ ٱلطَّرْفِ لَمْ يَطْمِثْهُنَّ إِنسٌۭ قَبْلَهُمْ وَلَا جَآنٌّۭ"
-  },
-  {
-   "verseNo": 57,
-   "textArabic": "فَبِأَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ"
-  },
-  {
-   "verseNo": 58,
-   "textArabic": "كَأَنَّهُنَّ ٱلْيَاقُوتُ وَٱلْمَرْجَانُ"
-  },
-  {
-   "verseNo": 59,
-   "textArabic": "فَبِأَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ"
-  },
-  {
-   "verseNo": 60,
-   "textArabic": "هَلْ جَزَآءُ ٱلْإِحْسَٰنِ إِلَّا ٱلْإِحْسَٰنُ"
-  },
-  {
-   "verseNo": 61,
-   "textArabic": "فَبِأَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ"
-  },
-  {
-   "verseNo": 62,
-   "textArabic": "وَمِن دُونِهِمَا جَنَّتَانِ"
-  },
-  {
-   "verseNo": 63,
-   "textArabic": "فَبِأَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ"
-  },
-  {
-   "verseNo": 64,
-   "textArabic": "مُدْهَآمَّتَانِ"
-  },
-  {
-   "verseNo": 65,
-   "textArabic": "فَبِأَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ"
-  },
-  {
-   "verseNo": 66,
-   "textArabic": "فِيهِمَا عَيْنَانِ نَضَّاخَتَانِ"
-  },
-  {
-   "verseNo": 67,
-   "textArabic": "فَبِأَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ"
-  },
-  {
-   "verseNo": 68,
-   "textArabic": "فِيهِمَا فَٰكِهَةٌۭ وَنَخْلٌۭ وَرُمَّانٌۭ"
-  },
-  {
-   "verseNo": 69,
-   "textArabic": "فَبِأَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ"
-  },
-  {
-   "verseNo": 70,
-   "textArabic": "فِيهِنَّ خَيْرَٰتٌ حِسَانٌۭ"
-  },
-  {
-   "verseNo": 71,
-   "textArabic": "فَبِأَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ"
-  },
-  {
-   "verseNo": 72,
-   "textArabic": "حُورٌۭ مَّقْصُورَٰتٌۭ فِى ٱلْخِيَامِ"
-  },
-  {
-   "verseNo": 73,
-   "textArabic": "فَبِأَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ"
-  },
-  {
-   "verseNo": 74,
-   "textArabic": "لَمْ يَطْمِثْهُنَّ إِنسٌۭ قَبْلَهُمْ وَلَا جَآنٌّۭ"
-  },
-  {
-   "verseNo": 75,
-   "textArabic": "فَبِأَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ"
-  },
-  {
-   "verseNo": 76,
-   "textArabic": "مُتَّكِـِٔينَ عَلَىٰ رَفْرَفٍ خُضْرٍۢ وَعَبْقَرِىٍّ حِسَانٍۢ"
-  },
-  {
-   "verseNo": 77,
-   "textArabic": "فَبِأَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ"
-  },
-  {
-   "verseNo": 78,
-   "textArabic": "تَبَٰرَكَ ٱسْمُ رَبِّكَ ذِى ٱلْجَلَٰلِ وَٱلْإِكْرَامِ"
-  }
- ],
- "translations": [
-  {
-   "verseNo": 1,
-   "source": "diyanet",
-   "text": "Rahmân Kur'an'ı öğretti."
-  },
-  {
-   "verseNo": 1,
-   "source": "okuyan",
-   "text": "Rahmân."
-  },
-  {
-   "verseNo": 1,
-   "source": "islamoglu",
-   "text": "RAHMÂN?.."
-  },
-  {
-   "verseNo": 1,
-   "source": "esed",
-   "text": "Rahman"
-  },
-  {
-   "verseNo": 2,
-   "source": "diyanet",
-   "text": "Rahmân Kur'an'ı öğretti."
-  },
-  {
-   "verseNo": 2,
-   "source": "okuyan",
-   "text": "Kur’an’ı (O) öğretti."
-  },
-  {
-   "verseNo": 2,
-   "source": "islamoglu",
-   "text": "Kur’an’ı öğretti,"
-  },
-  {
-   "verseNo": 2,
-   "source": "esed",
-   "text": "Bu Kuran´ı (insana) öğretti"
-  },
-  {
-   "verseNo": 3,
-   "source": "diyanet",
-   "text": "İnsanı yarattı."
-  },
-  {
-   "verseNo": 3,
-   "source": "okuyan",
-   "text": "İnsanı (O) yarattı."
-  },
-  {
-   "verseNo": 3,
-   "source": "islamoglu",
-   "text": "insanı yarattı,"
-  },
-  {
-   "verseNo": 3,
-   "source": "esed",
-   "text": "O, insanı yarattı"
-  },
-  {
-   "verseNo": 4,
-   "source": "diyanet",
-   "text": "Ona beyanı (düşünüp ifade etmeyi) öğretti."
-  },
-  {
-   "verseNo": 4,
-   "source": "okuyan",
-   "text": "Açıklamayı ona (insana O) öğretti."
-  },
-  {
-   "verseNo": 4,
-   "source": "islamoglu",
-   "text": "insana kendini ifade etmeyi O öğretti."
-  },
-  {
-   "verseNo": 4,
-   "source": "esed",
-   "text": "ona açık ve berrak şekilde düşünmeyi ve konuşmayı öğretti"
-  },
-  {
-   "verseNo": 5,
-   "source": "diyanet",
-   "text": "Güneş ve ay bir hesaba göre hareket etmektedir."
-  },
-  {
-   "verseNo": 5,
-   "source": "okuyan",
-   "text": "Güneş ve ay bir hesaba göre (hareket etmekte)dir."
-  },
-  {
-   "verseNo": 5,
-   "source": "islamoglu",
-   "text": "Güneşi ve ayı mükemmel bir hesapla yörüngelerinde O hareket ettirmekte."
-  },
-  {
-   "verseNo": 5,
-   "source": "esed",
-   "text": "Güneş ve ay (O´nun buyruğu doğrultusunda) kendileri için belirlenen yörüngelerde akarlar"
-  },
-  {
-   "verseNo": 6,
-   "source": "diyanet",
-   "text": "Otlar ve ağaçlar (Allah'a) boyun eğerler."
-  },
-  {
-   "verseNo": 6,
-   "source": "okuyan",
-   "text": "Bitkiler ve ağaçlar da secde etmektedir."
-  },
-  {
-   "verseNo": 6,
-   "source": "islamoglu",
-   "text": "Gövdesiz ve gövdeli bitkiler O’nun emrine boyun eğmekte."
-  },
-  {
-   "verseNo": 6,
-   "source": "esed",
-   "text": "yıldızlar ve ağaçlar (O´nun önünde) yere kapanırlar"
-  },
-  {
-   "verseNo": 7,
-   "source": "diyanet",
-   "text": "Göğü yükseltti ve ölçüyü koydu."
-  },
-  {
-   "verseNo": 7,
-   "source": "okuyan",
-   "text": "7-8 . (Allah) dengede azgınlık yapmayasınız (dengeyi bozmayasınız) diye göğü yükseltmiş ve (oraya) bir denge koymuştur."
-  },
-  {
-   "verseNo": 7,
-   "source": "islamoglu",
-   "text": "Yine göğü özenle O yükseltti, bir denge ve ölçü koydu:"
-  },
-  {
-   "verseNo": 7,
-   "source": "esed",
-   "text": "Ve O, gökleri yükseltti ve (her şey için) bir ölçü koydu"
-  },
-  {
-   "verseNo": 8,
-   "source": "diyanet",
-   "text": "Ölçüde haddi aşmayın."
-  },
-  {
-   "verseNo": 8,
-   "source": "okuyan",
-   "text": "7-8 . (Allah) dengede azgınlık yapmayasınız (dengeyi bozmayasınız) diye göğü yükseltmiş ve (oraya) bir denge koymuştur."
-  },
-  {
-   "verseNo": 8,
-   "source": "islamoglu",
-   "text": "ki siz (ey insanlar), dengeyi bozup ölçüyü kaçırmayın!"
-  },
-  {
-   "verseNo": 8,
-   "source": "esed",
-   "text": "ki (siz, ey insanlar,) asla (doğruluk ve haklılık) ölçüsünden şaşmayasınız"
-  },
-  {
-   "verseNo": 9,
-   "source": "diyanet",
-   "text": "Tartıyı adaletle yapın, teraziyi eksik tutmayın."
-  },
-  {
-   "verseNo": 9,
-   "source": "okuyan",
-   "text": "Ölçüyü adaletle yerine getirin ve eksik tartmayın!"
-  },
-  {
-   "verseNo": 9,
-   "source": "islamoglu",
-   "text": "Yine istikametle ölçüp biçin, ölçme değerlendirme yaparken haksızlık etmeyin!"
-  },
-  {
-   "verseNo": 9,
-   "source": "esed",
-   "text": "Öyleyse (yaptıklarınızı) adaletle tartın ve ölçüyü eksik tutmayın"
-  },
-  {
-   "verseNo": 10,
-   "source": "diyanet",
-   "text": "Allah yeri yaratıklar için var etti."
-  },
-  {
-   "verseNo": 10,
-   "source": "okuyan",
-   "text": "(Allah) yeri canlılar için (uygun halde) yaratmıştır."
-  },
-  {
-   "verseNo": 10,
-   "source": "islamoglu",
-   "text": "Yine O, yeryüzünü orada yaşayan tüm canlıların (ayağı altına) özenle serdi;"
-  },
-  {
-   "verseNo": 10,
-   "source": "esed",
-   "text": "O, yeri, bütün canlı varlıklar için genişletip yaymıştır"
-  },
-  {
-   "verseNo": 11,
-   "source": "diyanet",
-   "text": "Orada meyve(ler) ve salkımlı hurma ağaçları vardır."
-  },
-  {
-   "verseNo": 11,
-   "source": "okuyan",
-   "text": "11-12 . Orada meyveler, salkımlı hurma ağaçları, yapraklı taneler ve güzel kokulu bitkiler vardır."
-  },
-  {
-   "verseNo": 11,
-   "source": "islamoglu",
-   "text": "orada envai çeşit meyveler, salkım saçak hurma ağaçları"
-  },
-  {
-   "verseNo": 11,
-   "source": "esed",
-   "text": "üzerinde meyveler ve salkım salkım hurma ağaçlarıyla"
-  },
-  {
-   "verseNo": 12,
-   "source": "diyanet",
-   "text": "Yapraklı taneler, hoş kokulu bitkiler vardır."
-  },
-  {
-   "verseNo": 12,
-   "source": "okuyan",
-   "text": "11-12 . Orada meyveler, salkımlı hurma ağaçları, yapraklı taneler ve güzel kokulu bitkiler vardır."
-  },
-  {
-   "verseNo": 12,
-   "source": "islamoglu",
-   "text": "ve filizlenen danelerle hoş kokulu çiçekler verdi:"
-  },
-  {
-   "verseNo": 12,
-   "source": "esed",
-   "text": "ve filizlenip dal veren tohumları ve hoş kokulu bitkileriyle"
-  },
-  {
-   "verseNo": 13,
-   "source": "diyanet",
-   "text": "O halde Rabbinizin hangi nimetlerini yalanlıyorsunuz?"
-  },
-  {
-   "verseNo": 13,
-   "source": "okuyan",
-   "text": "Rabbinizin hangi nimetlerini yalanlayabilirsiniz ki!"
-  },
-  {
-   "verseNo": 13,
-   "source": "islamoglu",
-   "text": "o halde Rabbinizin hangi nimetini inkâr edebilirsiniz?"
-  },
-  {
-   "verseNo": 13,
-   "source": "esed",
-   "text": "Öyleyse, Rabbinizin hangi nimet ve kudretini inkar edebilirsiniz"
-  },
-  {
-   "verseNo": 14,
-   "source": "diyanet",
-   "text": "Allah insanı, pişmiş çamur gibi bir balçıktan yarattı."
-  },
-  {
-   "verseNo": 14,
-   "source": "okuyan",
-   "text": "(Allah) insanı, pişmiş çamur gibi ses çıkaran bir balçıktan yarattı."
-  },
-  {
-   "verseNo": 14,
-   "source": "islamoglu",
-   "text": "O insanı ateşte pişirilmiş gibi kuru, ses veren balçıktan yarattı,"
-  },
-  {
-   "verseNo": 14,
-   "source": "esed",
-   "text": "O, insanı çömlek gibi pişmiş çamurdan yarattı"
-  },
-  {
-   "verseNo": 15,
-   "source": "diyanet",
-   "text": "\"Cin\" i de yalın bir ateşten yarattı."
-  },
-  {
-   "verseNo": 15,
-   "source": "okuyan",
-   "text": "Cinleri de ateşten bir karışımdan yarattı."
-  },
-  {
-   "verseNo": 15,
-   "source": "islamoglu",
-   "text": "görünmeyen varlıkları da tarifsiz, ateş türü bir karışımdan halk etti:"
-  },
-  {
-   "verseNo": 15,
-   "source": "esed",
-   "text": "halbuki görünmez varlıkları garip bir ateş alevinden yaratmıştır"
-  },
-  {
-   "verseNo": 16,
-   "source": "diyanet",
-   "text": "O halde, Rabbinizin hangi nimetlerini yalanlıyorsunuz?"
-  },
-  {
-   "verseNo": 16,
-   "source": "okuyan",
-   "text": "Rabbinizin hangi nimetlerini yalanlayabilirsiniz ki!"
-  },
-  {
-   "verseNo": 16,
-   "source": "islamoglu",
-   "text": "o halde Rabbinizin hangi nimetini inkâr edebilirsiniz?"
-  },
-  {
-   "verseNo": 16,
-   "source": "esed",
-   "text": "Öyleyse, Rabbinizin hangi nimet ve kudretini inkar edebilirsiniz"
-  },
-  {
-   "verseNo": 17,
-   "source": "diyanet",
-   "text": "O iki doğunun ve iki batının Rabbidir."
-  },
-  {
-   "verseNo": 17,
-   "source": "okuyan",
-   "text": "(Allah) iki doğunun da Rabbidir, iki batının da Rabbidir."
-  },
-  {
-   "verseNo": 17,
-   "source": "islamoglu",
-   "text": "O, iki doğunun da Rabbidir, iki batının da Rabbi:"
-  },
-  {
-   "verseNo": 17,
-   "source": "esed",
-   "text": "(O,) gündoğumunun en uzak iki noktasının ve günbatımının en uzak iki noktasının Rabbi(dir)"
-  },
-  {
-   "verseNo": 18,
-   "source": "diyanet",
-   "text": "O halde, Rabbinizin hangi nimetlerini yalanlıyorsunuz?"
-  },
-  {
-   "verseNo": 18,
-   "source": "okuyan",
-   "text": "Rabbinizin hangi nimetlerini yalanlayabilirsiniz ki!"
-  },
-  {
-   "verseNo": 18,
-   "source": "islamoglu",
-   "text": "o halde Rabbinizin hangi nimetini inkâr edebilirsiniz?"
-  },
-  {
-   "verseNo": 18,
-   "source": "esed",
-   "text": "Öyleyse, Rabbinizin hangi nimet ve kudretini inkar edebilirsiniz"
-  },
-  {
-   "verseNo": 19,
-   "source": "diyanet",
-   "text": "(Suları acı ve tatlı olan) iki denizi salıvermiştir; birbirine kavuşuyorlar."
-  },
-  {
-   "verseNo": 19,
-   "source": "okuyan",
-   "text": "(Allah) iki denizi salmıştır; birbirlerine kavuşurlar."
-  },
-  {
-   "verseNo": 19,
-   "source": "islamoglu",
-   "text": "O iki denizi salmıştır; birbirine kavuşurlar."
-  },
-  {
-   "verseNo": 19,
-   "source": "esed",
-   "text": "O, birbirlerine kavuşup karışabilmeleri için iki büyük su kütlesini serbest bırakmıştır"
-  },
-  {
-   "verseNo": 20,
-   "source": "diyanet",
-   "text": "(Fakat) aralarında bir engel vardır, birbirine geçip karışmıyorlar."
-  },
-  {
-   "verseNo": 20,
-   "source": "okuyan",
-   "text": "Aralarında bir engel vardır; birbirine karışmazlar."
-  },
-  {
-   "verseNo": 20,
-   "source": "islamoglu",
-   "text": "(Ama) aralarında aşamayacakları tarifsiz bir engel vardır; birbirine karışmazlar:"
-  },
-  {
-   "verseNo": 20,
-   "source": "esed",
-   "text": "(ama) aralarında aşamayacakları bir engel var"
-  },
-  {
-   "verseNo": 21,
-   "source": "diyanet",
-   "text": "O halde, Rabbinizin hangi nimetlerini yalanlıyorsunuz?"
-  },
-  {
-   "verseNo": 21,
-   "source": "okuyan",
-   "text": "Rabbinizin hangi nimetlerini yalanlayabilirsiniz ki!"
-  },
-  {
-   "verseNo": 21,
-   "source": "islamoglu",
-   "text": "o halde Rabbinizin hangi nimetini inkâr edebilirsiniz?"
-  },
-  {
-   "verseNo": 21,
-   "source": "esed",
-   "text": "Öyleyse, Rabbinizin hangi nimet ve kudretini inkar edebilirsiniz"
-  },
-  {
-   "verseNo": 22,
-   "source": "diyanet",
-   "text": "O denizlerin her ikisinden de inci ve mercan çıkar."
-  },
-  {
-   "verseNo": 22,
-   "source": "okuyan",
-   "text": "İkisinden de inci ve mercan çıkar."
-  },
-  {
-   "verseNo": 22,
-   "source": "islamoglu",
-   "text": "O ikisinden inci ve mercan çıkar:"
-  },
-  {
-   "verseNo": 22,
-   "source": "esed",
-   "text": "Bu (su kütle)lerinin ikisinden büyüklü küçüklü inciler çıkar"
-  },
-  {
-   "verseNo": 23,
-   "source": "diyanet",
-   "text": "O halde, Rabbinizin hangi nimetlerini yalanlıyorsunuz?"
-  },
-  {
-   "verseNo": 23,
-   "source": "okuyan",
-   "text": "Rabbinizin hangi nimetlerini yalanlayabilirsiniz ki!"
-  },
-  {
-   "verseNo": 23,
-   "source": "islamoglu",
-   "text": "o halde Rabbinizin hangi nimetini inkâr edebilirsiniz?"
-  },
-  {
-   "verseNo": 23,
-   "source": "esed",
-   "text": "Öyleyse, Rabbinizin hangi nimet ve kudretini inkar edebilirsiniz"
-  },
-  {
-   "verseNo": 24,
-   "source": "diyanet",
-   "text": "Denizde akıp giden dağlar gibi yüksek gemiler de O'nundur."
-  },
-  {
-   "verseNo": 24,
-   "source": "okuyan",
-   "text": "Denizde (akıp giden), dağlar gibi büyük gemiler de yalnızca O’na aittir."
-  },
-  {
-   "verseNo": 24,
-   "source": "islamoglu",
-   "text": "Yüce dağlar gibi denizde hızla akıp giden koca gemiler O’nun (yasalarına) tâbidir:"
-  },
-  {
-   "verseNo": 24,
-   "source": "esed",
-   "text": "Ve (hareket halindeki) dağlar gibi denizler üzerinde yüzüp giden kocaman gemiler O´nundur"
-  },
-  {
-   "verseNo": 25,
-   "source": "diyanet",
-   "text": "O halde, Rabbinizin hangi nimetlerini yalanlıyorsunuz?"
-  },
-  {
-   "verseNo": 25,
-   "source": "okuyan",
-   "text": "Rabbinizin hangi nimetlerini yalanlayabilirsiniz ki!"
-  },
-  {
-   "verseNo": 25,
-   "source": "islamoglu",
-   "text": "o halde Rabbinizin hangi nimetini inkâr edebilirsiniz?"
-  },
-  {
-   "verseNo": 25,
-   "source": "esed",
-   "text": "Peki, öyleyse, Rabbinizin hangi nimet ve kudretini inkar edebilirsiniz"
-  },
-  {
-   "verseNo": 26,
-   "source": "diyanet",
-   "text": "Yer üzerinde bulunan her canlı yok olacaktır."
-  },
-  {
-   "verseNo": 26,
-   "source": "okuyan",
-   "text": "Oradaki (dünyadaki) herkes fanidir."
-  },
-  {
-   "verseNo": 26,
-   "source": "islamoglu",
-   "text": "Oradaki her varlık fânîdir;"
-  },
-  {
-   "verseNo": 26,
-   "source": "esed",
-   "text": "Göklerde ve yerde var olan her şey yok olup gitmeye mahkumdur"
-  },
-  {
-   "verseNo": 27,
-   "source": "diyanet",
-   "text": "Ancak azamet ve ikram sahibi Rabbinin zâtı bâki kalacaktır."
-  },
-  {
-   "verseNo": 27,
-   "source": "okuyan",
-   "text": "Rabbinin yücelik ve cömertlik sahibi olan yüzü (zatı) sonsuz olacaktır."
-  },
-  {
-   "verseNo": 27,
-   "source": "islamoglu",
-   "text": "bâkî kalacak olan azamet ve ihtişam sahibi Rabbinin zatıdır:"
-  },
-  {
-   "verseNo": 27,
-   "source": "esed",
-   "text": "ama kudret ve ihtişam sahibi olan Rabbinizin Zatı sonsuza dek kalıcıdır"
-  },
-  {
-   "verseNo": 28,
-   "source": "diyanet",
-   "text": "O halde, Rabbinizin hangi nimetlerini yalanlıyorsunuz?"
-  },
-  {
-   "verseNo": 28,
-   "source": "okuyan",
-   "text": "Rabbinizin hangi nimetlerini yalanlayabilirsiniz ki!"
-  },
-  {
-   "verseNo": 28,
-   "source": "islamoglu",
-   "text": "o halde Rabbinizin hangi nimetini inkâr edebilirsiniz?"
-  },
-  {
-   "verseNo": 28,
-   "source": "esed",
-   "text": "Öyleyse, Rabbinizin hangi nimet ve kudretini inkar edebilirsiniz"
-  },
-  {
-   "verseNo": 29,
-   "source": "diyanet",
-   "text": "Göklerde ve yerde bulunanlar, (her şeyi) O'ndan isterler. O, her an yeni bir ilahi tasarruftadır."
-  },
-  {
-   "verseNo": 29,
-   "source": "okuyan",
-   "text": "Göklerde ve yerdeki herkes O’ndan ister. O, her gün (her an) bir iştedir."
-  },
-  {
-   "verseNo": 29,
-   "source": "islamoglu",
-   "text": "GÖKLERDE ve yerde bulunan her varlık O’na muhtaçtır; her an O, (hayata ve varlığa dair) her işe müdahildir:"
-  },
-  {
-   "verseNo": 29,
-   "source": "esed",
-   "text": "Göklerde ve yerdeki bütün mevcudat O(nun kanunları)na tabidir: (ve) O, her gün kendini bambaşka (şaşkınlık verici) bir yolla ifade eder"
-  },
-  {
-   "verseNo": 30,
-   "source": "diyanet",
-   "text": "O halde, Rabbinizin hangi nimetlerini yalanlıyorsunuz?"
-  },
-  {
-   "verseNo": 30,
-   "source": "okuyan",
-   "text": "Rabbinizin hangi nimetlerini yalanlayabilirsiniz ki!"
-  },
-  {
-   "verseNo": 30,
-   "source": "islamoglu",
-   "text": "o halde Rabbinizin hangi nimetini inkâr edebilirsiniz?"
-  },
-  {
-   "verseNo": 30,
-   "source": "esed",
-   "text": "Öyleyse, Rabbinizin hangi nimet ve kudretini inkar edebilirsiniz"
-  },
-  {
-   "verseNo": 31,
-   "source": "diyanet",
-   "text": "Yakında sizi de hesaba çekeceğiz, ey cinler ve insanlar!"
-  },
-  {
-   "verseNo": 31,
-   "source": "okuyan",
-   "text": "Ey iki ağırlık sahipleri (cinler ve insanlar)! İleride size yöneleceğiz."
-  },
-  {
-   "verseNo": 31,
-   "source": "islamoglu",
-   "text": "Ey ağır bir yükün altına giren çift: Size ayıracak zamanımız da olacak!"
-  },
-  {
-   "verseNo": 31,
-   "source": "esed",
-   "text": "(Bir gün) sizden hesap soracağız, siz ey günah yüklü çift"
-  },
-  {
-   "verseNo": 32,
-   "source": "diyanet",
-   "text": "O halde, Rabbinizin hangi nimetlerini yalanlıyorsunuz?"
-  },
-  {
-   "verseNo": 32,
-   "source": "okuyan",
-   "text": "Rabbinizin hangi nimetlerini yalanlayabilirsiniz ki!"
-  },
-  {
-   "verseNo": 32,
-   "source": "islamoglu",
-   "text": "o halde Rabbinizin hangi nimetini inkâr edebilirsiniz?"
-  },
-  {
-   "verseNo": 32,
-   "source": "esed",
-   "text": "Bu durumda, Rabbinizin hangi nimet ve kudretini inkar edebilirsiniz"
-  },
-  {
-   "verseNo": 33,
-   "source": "diyanet",
-   "text": "Ey cin ve insan toplulukları! Göklerin ve yerin uçlarından bucaklarından geçip gitmeye gücünüz yeterse geçip gidin. Büyük bir güç olmadıkça geçip gidemezsiniz."
-  },
-  {
-   "verseNo": 33,
-   "source": "okuyan",
-   "text": "Ey cin ve insan topluluğu! Göklerin ve yerin sınırlarından geçip gitmeye gücünüz yetiyorsa geçip gidin! (Allah’ın ikram edeceği) büyük bir güç olmadan geçip gidemezsiniz."
-  },
-  {
-   "verseNo": 33,
-   "source": "islamoglu",
-   "text": "Siz ey görünmez ve görünür varlık (çifti)! Eğer göklerin ve yerin sınırlarını geçebiliyorsanız, durmayın haydi geçin! Bunu, (O’nun bahşettiği) çok özel bir güç sayesinde yapabilirsiniz ancak:"
-  },
-  {
-   "verseNo": 33,
-   "source": "esed",
-   "text": "Siz ey görünmez varlıklar(ın) ve insanlar(ın şerlileriy)le bir arada yaşayanlar! Eğer göklerin ve yerin ötelerine geçebileceğinizi (düşünüyorsanız), haydi geçin! (Ama) onların ötesine geçemezsiniz, (Allah´tan) bir yardım olmazsa"
-  },
-  {
-   "verseNo": 34,
-   "source": "diyanet",
-   "text": "O halde, Rabbinizin hangi nimetlerini yalanlıyorsunuz?"
-  },
-  {
-   "verseNo": 34,
-   "source": "okuyan",
-   "text": "Rabbinizin hangi nimetlerini yalanlayabilirsiniz ki!"
-  },
-  {
-   "verseNo": 34,
-   "source": "islamoglu",
-   "text": "o halde Rabbinizin hangi nimetini inkâr edebilirsiniz?"
-  },
-  {
-   "verseNo": 34,
-   "source": "esed",
-   "text": "Öyleyse, Rabbinizin hangi nimet ve kudretini inkar edebilirsiniz"
-  },
-  {
-   "verseNo": 35,
-   "source": "diyanet",
-   "text": "Üstünüze ateşten yalın bir alevle kıpkızıl bir duman gönderilir de kendinizi koruyamazsınız."
-  },
-  {
-   "verseNo": 35,
-   "source": "okuyan",
-   "text": "Üzerinize ateşten bir alev ve bir duman gönderilir ve (hiçbir yerden) yardım da alamazsınız."
-  },
-  {
-   "verseNo": 35,
-   "source": "islamoglu",
-   "text": "Sizin üzerinize dumanıyla boğup aleviyle yakan tarifsiz bir ateş topu gönderilir ve hiçbir yardım da alamazsınız:"
-  },
-  {
-   "verseNo": 35,
-   "source": "esed",
-   "text": "Bir ateş alevi ve duman üzerinize salınacak ve hiçbir yardım görmeyeceksiniz"
-  },
-  {
-   "verseNo": 36,
-   "source": "diyanet",
-   "text": "O halde, Rabbinizin hangi nimetlerini yalanlıyorsunuz?"
-  },
-  {
-   "verseNo": 36,
-   "source": "okuyan",
-   "text": "Rabbinizin hangi nimetlerini yalanlayabilirsiniz ki!"
-  },
-  {
-   "verseNo": 36,
-   "source": "islamoglu",
-   "text": "o halde Rabbinizin hangi nimetini inkâr edebilirsiniz?"
-  },
-  {
-   "verseNo": 36,
-   "source": "esed",
-   "text": "Bu durumda, Rabbinizin hangi nimet ve kudretini inkar edebilirsiniz"
-  },
-  {
-   "verseNo": 37,
-   "source": "diyanet",
-   "text": "Gök yarılıp da, yanıp kızaran yağ gibi kırmızı gül haline geldiği zaman (haliniz ne olur?)"
-  },
-  {
-   "verseNo": 37,
-   "source": "okuyan",
-   "text": "Gök yarılıp da yağ gibi kırmızı gül (rengini) aldığı zaman (haliniz nasıl olacak)!"
-  },
-  {
-   "verseNo": 37,
-   "source": "islamoglu",
-   "text": "Ve gök yarılınca, göz alıcı kırmızılıkta açılmış bir gül gibi olduğu (görülecek):"
-  },
-  {
-   "verseNo": 37,
-   "source": "esed",
-   "text": "Gök parça parça yarıldığı ve (yanık) yağ gibi kızıllaştığı zaman"
-  },
-  {
-   "verseNo": 38,
-   "source": "diyanet",
-   "text": "O halde, Rabbinizin hangi nimetlerini yalanlıyorsunuz?"
-  },
-  {
-   "verseNo": 38,
-   "source": "okuyan",
-   "text": "Rabbinizin hangi nimetlerini yalanlayabilirsiniz ki!"
-  },
-  {
-   "verseNo": 38,
-   "source": "islamoglu",
-   "text": "o halde Rabbinizin hangi nimetini inkâr edebilirsiniz?"
-  },
-  {
-   "verseNo": 38,
-   "source": "esed",
-   "text": "Hangi nimet ve kudretini inkar edebilirsiniz Rabbinizin"
-  },
-  {
-   "verseNo": 39,
-   "source": "diyanet",
-   "text": "İşte o gün ne insana, ne cine günahı sorulmayacak."
-  },
-  {
-   "verseNo": 39,
-   "source": "okuyan",
-   "text": "İşte o gün kişinin günahından, (başka) hiçbir insan ve cin sorumlu tutulmayacaktır."
-  },
-  {
-   "verseNo": 39,
-   "source": "islamoglu",
-   "text": "O gün, görünen görünmeyen iradeli varlıklardan hiçbirine günahları hakkında sorulmaya (gerek) kalmayacak:"
-  },
-  {
-   "verseNo": 39,
-   "source": "esed",
-   "text": "O Gün ne insana ne de görünmez varlığa günahları hakkında bir şey sorulmayacaktır"
-  },
-  {
-   "verseNo": 40,
-   "source": "diyanet",
-   "text": "O halde, Rabbinizin hangi nimetlerini yalanlıyorsunuz?"
-  },
-  {
-   "verseNo": 40,
-   "source": "okuyan",
-   "text": "Rabbinizin hangi nimetlerini yalanlayabilirsiniz ki!"
-  },
-  {
-   "verseNo": 40,
-   "source": "islamoglu",
-   "text": "o halde Rabbinizin hangi nimetini inkâr edebilirsiniz?"
-  },
-  {
-   "verseNo": 40,
-   "source": "esed",
-   "text": "Öyleyse, Rabbinizin hangi nimet ve kudretini inkar edebilirsiniz"
-  },
-  {
-   "verseNo": 41,
-   "source": "diyanet",
-   "text": "Suçlular simalarından tanınır da, perçemlerinden ve ayaklarından yakalanırlar."
-  },
-  {
-   "verseNo": 41,
-   "source": "okuyan",
-   "text": "Suçlular yüzlerinden tanınacaktır; perçemlerinden ve ayaklarından alınacak (yakalanacak)lardır."
-  },
-  {
-   "verseNo": 41,
-   "source": "islamoglu",
-   "text": "(Zira) günahkârlar alâmetlerinden tanınacak; yaka paça yakalanıp ateşe atılacak:"
-  },
-  {
-   "verseNo": 41,
-   "source": "esed",
-   "text": "Bütün günahkarlar işaretlerinden tanınacak ve alınları ile ayaklarından yakalanacaklar"
-  },
-  {
-   "verseNo": 42,
-   "source": "diyanet",
-   "text": "O halde, Rabbinizin hangi nimetlerini yalanlıyorsunuz?"
-  },
-  {
-   "verseNo": 42,
-   "source": "okuyan",
-   "text": "Rabbinizin hangi nimetlerini yalanlayabilirsiniz ki!"
-  },
-  {
-   "verseNo": 42,
-   "source": "islamoglu",
-   "text": "o halde Rabbinizin hangi nimetini inkâr edebilirsiniz?"
-  },
-  {
-   "verseNo": 42,
-   "source": "esed",
-   "text": "Öyleyse, Rabbinizin hangi nimet ve kudretini inkar edebilirsiniz"
-  },
-  {
-   "verseNo": 43,
-   "source": "diyanet",
-   "text": "İşte bu suçluların yalanladıkları cehennemdir."
-  },
-  {
-   "verseNo": 43,
-   "source": "okuyan",
-   "text": "İşte bu, suçluların yalanladığı cehennemdir."
-  },
-  {
-   "verseNo": 43,
-   "source": "islamoglu",
-   "text": "İşte bu, günahkârların yalanlamış oldukları cehennemdir."
-  },
-  {
-   "verseNo": 43,
-   "source": "esed",
-   "text": "İşte bu, günahkarların (şimdi) yalanladıkları cehennemdir"
-  },
-  {
-   "verseNo": 44,
-   "source": "diyanet",
-   "text": "Onlar, cehennem ateşi ile yüksek derecede kaynar su arasında gider gelirler."
-  },
-  {
-   "verseNo": 44,
-   "source": "okuyan",
-   "text": "Onlar onunla (cehennemle) kaynar su arasında gidip geleceklerdir."
-  },
-  {
-   "verseNo": 44,
-   "source": "islamoglu",
-   "text": "Onlar cehennem ile anında dağlayan bir (umutsuzluk) ateşi arasında mekik dokuyacak:"
-  },
-  {
-   "verseNo": 44,
-   "source": "esed",
-   "text": "onlar, cehennem ile (kendi) yakıcı ümitsizlikleri arasında gidip gelecekler"
-  },
-  {
-   "verseNo": 45,
-   "source": "diyanet",
-   "text": "O halde, Rabbinizin hangi nimetlerini yalanlıyorsunuz?"
-  },
-  {
-   "verseNo": 45,
-   "source": "okuyan",
-   "text": "Rabbinizin hangi nimetlerini yalanlayabilirsiniz ki!"
-  },
-  {
-   "verseNo": 45,
-   "source": "islamoglu",
-   "text": "o halde Rabbinizin hangi nimetini inkâr edebilirsiniz?"
-  },
-  {
-   "verseNo": 45,
-   "source": "esed",
-   "text": "Öyleyse, Rabbinizin hangi nimet ve kudretini inkar edebilirsiniz"
-  },
-  {
-   "verseNo": 46,
-   "source": "diyanet",
-   "text": "Rabbinin huzurunda (hesap vermek üzere) duracağından korkan kimseye iki cennet vardır."
-  },
-  {
-   "verseNo": 46,
-   "source": "okuyan",
-   "text": "Rabbinin makamın(da yargılanmak)tan korkanlara iki cennet vardır."
-  },
-  {
-   "verseNo": 46,
-   "source": "islamoglu",
-   "text": "RABBİNİN mutlak otoritesinden korkup sakınanlara çifte cennetler sunulacak:"
-  },
-  {
-   "verseNo": 46,
-   "source": "esed",
-   "text": "Rablerinin huzuruna korku içinde çıkanlar için iki (cennet) bahçe(si hazırlanmıştır)"
-  },
-  {
-   "verseNo": 47,
-   "source": "diyanet",
-   "text": "O halde, Rabbinizin hangi nimetlerini yalanlıyorsunuz?"
-  },
-  {
-   "verseNo": 47,
-   "source": "okuyan",
-   "text": "Rabbinizin hangi nimetlerini yalanlayabilirsiniz ki!"
-  },
-  {
-   "verseNo": 47,
-   "source": "islamoglu",
-   "text": "o halde Rabbinizin hangi nimetini inkâr edebilirsiniz?"
-  },
-  {
-   "verseNo": 47,
-   "source": "esed",
-   "text": "Öyleyse, hangi nimet ve kudretini inkar edebilirsiniz Rabbinizin"
-  },
-  {
-   "verseNo": 48,
-   "source": "diyanet",
-   "text": "İki cennet de (ağaçlar, meyveler, rengarenk bitkiler gibi) çeşit çeşit güzelliklerle bezenmiştir."
-  },
-  {
-   "verseNo": 48,
-   "source": "okuyan",
-   "text": "(İki cennet de) rengârenktir."
-  },
-  {
-   "verseNo": 48,
-   "source": "islamoglu",
-   "text": "Çeşit çeşit, rengârenk, salkım saçak:"
-  },
-  {
-   "verseNo": 48,
-   "source": "esed",
-   "text": "Türlü türlü harika renkler (ile bezenmiş iki bahçe)"
-  },
-  {
-   "verseNo": 49,
-   "source": "diyanet",
-   "text": "O halde, Rabbinizin hangi nimetlerini yalanlıyorsunuz?"
-  },
-  {
-   "verseNo": 49,
-   "source": "okuyan",
-   "text": "Rabbinizin hangi nimetlerini yalanlayabilirsiniz ki!"
-  },
-  {
-   "verseNo": 49,
-   "source": "islamoglu",
-   "text": "o halde Rabbinizin hangi nimetini inkâr edebilirsiniz?"
-  },
-  {
-   "verseNo": 49,
-   "source": "esed",
-   "text": "Öyleyse, hangi nimet ve kudretini inkar edebilirsiniz Rabbinizin"
-  },
-  {
-   "verseNo": 50,
-   "source": "diyanet",
-   "text": "İçlerinde akan iki pınar vardır."
-  },
-  {
-   "verseNo": 50,
-   "source": "okuyan",
-   "text": "İkisinde de akıp giden iki kaynak vardır."
-  },
-  {
-   "verseNo": 50,
-   "source": "islamoglu",
-   "text": "O çifte cennetlerden iki çağlayan akacak:"
-  },
-  {
-   "verseNo": 50,
-   "source": "esed",
-   "text": "Bu iki (bahçenin her birin)de iki çeşme akacak"
-  },
-  {
-   "verseNo": 51,
-   "source": "diyanet",
-   "text": "O halde, Rabbinizin hangi nimetlerini yalanlıyorsunuz?"
-  },
-  {
-   "verseNo": 51,
-   "source": "okuyan",
-   "text": "Rabbinizin hangi nimetlerini yalanlayabilirsiniz ki!"
-  },
-  {
-   "verseNo": 51,
-   "source": "islamoglu",
-   "text": "o halde Rabbinizin hangi nimetini inkâr edebilirsiniz?"
-  },
-  {
-   "verseNo": 51,
-   "source": "esed",
-   "text": "Öyleyse, Rabbinizin hangi nimet ve kudretini inkar edebilirsiniz"
-  },
-  {
-   "verseNo": 52,
-   "source": "diyanet",
-   "text": "İkisinde de her meyveden çift çift vardır."
-  },
-  {
-   "verseNo": 52,
-   "source": "okuyan",
-   "text": "İkisinde de her türlü meyveden çiftler vardır."
-  },
-  {
-   "verseNo": 52,
-   "source": "islamoglu",
-   "text": "O iki cennette her üründen çifter çifter çıkacak:"
-  },
-  {
-   "verseNo": 52,
-   "source": "esed",
-   "text": "İkisinde de her meyveden iki cins bulunacak"
-  },
-  {
-   "verseNo": 53,
-   "source": "diyanet",
-   "text": "O halde, Rabbinizin hangi nimetlerini yalanlıyorsunuz?"
-  },
-  {
-   "verseNo": 53,
-   "source": "okuyan",
-   "text": "Rabbinizin hangi nimetlerini yalanlayabilirsiniz ki!"
-  },
-  {
-   "verseNo": 53,
-   "source": "islamoglu",
-   "text": "o halde Rabbinizin hangi nimetini inkâr edebilirsiniz?"
-  },
-  {
-   "verseNo": 53,
-   "source": "esed",
-   "text": "Öyleyse, Rabbinizin hangi nimet ve kudretini inkar edebilirsiniz"
-  },
-  {
-   "verseNo": 54,
-   "source": "diyanet",
-   "text": "Onlar astarları kalın ipekten olan döşeklere yaslanırlar. Bu iki cennetin meyveleri (zahmetsizce alınacak kadar) yakındır."
-  },
-  {
-   "verseNo": 54,
-   "source": "okuyan",
-   "text": "(Cennetlikler) içleri ipek kumaştan oluşan döşeklere yaslanmış olacaklardır. İki cennetin meyveleri (cennetliklere) yakındır."
-  },
-  {
-   "verseNo": 54,
-   "source": "islamoglu",
-   "text": "Onlar çözgüsü ve atkısı (dahi) ipekten mamul atlas halılara uzanacak; o çifte cennetlerin (muhteşem) ürünleri (kendilerine) çok yakın olacak:"
-  },
-  {
-   "verseNo": 54,
-   "source": "esed",
-   "text": "(İşte böyle bir cennette, kutsananlar) atlastan dokunmuş halılara uzanarak (hayat sürecekler); ve bu iki bahçenin meyvesi kolayca erişebilecekleri yerde bulunacak"
-  },
-  {
-   "verseNo": 55,
-   "source": "diyanet",
-   "text": "O halde, Rabbinizin hangi nimetlerini yalanlıyorsunuz?"
-  },
-  {
-   "verseNo": 55,
-   "source": "okuyan",
-   "text": "Rabbinizin hangi nimetlerini yalanlayabilirsiniz ki!"
-  },
-  {
-   "verseNo": 55,
-   "source": "islamoglu",
-   "text": "o halde Rabbinizin hangi nimetini inkâr edebilirsiniz?"
-  },
-  {
-   "verseNo": 55,
-   "source": "esed",
-   "text": "Öyleyse, Rabbinizin hangi nimet ve kudretini inkar edebilirsiniz"
-  },
-  {
-   "verseNo": 56,
-   "source": "diyanet",
-   "text": "Oralarda bakışlarını sadece eşlerine çevirmiş dilberler vardır. Onlara eşlerinden önce ne bir insan, ne bir cin dokunmuştur."
-  },
-  {
-   "verseNo": 56,
-   "source": "okuyan",
-   "text": "Oralarda (cennetlerde) bakışlarını (yalnızca eşlerine) kısanlar (çevirenler) var ki onlardan (cennetliklerden) önce kendilerine hiçbir insan ve cin dokunmamıştır."
-  },
-  {
-   "verseNo": 56,
-   "source": "islamoglu",
-   "text": "Bu (cennetlerde), daha önce görünür görünmez hiçbir varlığın dokunmadığı, gözü dışarıda olmayan eşler olacak:"
-  },
-  {
-   "verseNo": 56,
-   "source": "esed",
-   "text": "Bu (bahçe)lerde, ne insanın ne de görünmez bir varlığın daha önce hiç dokunmadığı yumuşak bakışlı eşler bulunacak"
-  },
-  {
-   "verseNo": 57,
-   "source": "diyanet",
-   "text": "O halde, Rabbinizin hangi nimetlerini yalanlıyorsunuz?"
-  },
-  {
-   "verseNo": 57,
-   "source": "okuyan",
-   "text": "Rabbinizin hangi nimetlerini yalanlayabilirsiniz ki!"
-  },
-  {
-   "verseNo": 57,
-   "source": "islamoglu",
-   "text": "o halde Rabbinizin hangi nimetini inkâr edebilirsiniz?"
-  },
-  {
-   "verseNo": 57,
-   "source": "esed",
-   "text": "Öyleyse, hangi nimet ve kudretini inkar edebilirsiniz Rabbinizin"
-  },
-  {
-   "verseNo": 58,
-   "source": "diyanet",
-   "text": "Onlar sanki yakut ve mercandır."
-  },
-  {
-   "verseNo": 58,
-   "source": "okuyan",
-   "text": "Onlar (cennetteki eşleri) yakut ve mercan gibidir."
-  },
-  {
-   "verseNo": 58,
-   "source": "islamoglu",
-   "text": "Sanki o eşler yakut ve mercan gibi (birbirine yakışan) güzellikleriyle (göz kamaştıracak):"
-  },
-  {
-   "verseNo": 58,
-   "source": "esed",
-   "text": "İncilerin ve yakutların (güzelliği) gibi (muhteşem güzellikler vaad edildiği zaman)"
-  },
-  {
-   "verseNo": 59,
-   "source": "diyanet",
-   "text": "O halde, Rabbinizin hangi nimetlerini yalanlıyorsunuz?"
-  },
-  {
-   "verseNo": 59,
-   "source": "okuyan",
-   "text": "Rabbinizin hangi nimetlerini yalanlayabilirsiniz ki!"
-  },
-  {
-   "verseNo": 59,
-   "source": "islamoglu",
-   "text": "o halde Rabbinizin hangi nimetini inkâr edebilirsiniz?"
-  },
-  {
-   "verseNo": 59,
-   "source": "esed",
-   "text": "hangi nimet ve kudretini inkar edebilirsiniz Rabbinizin"
-  },
-  {
-   "verseNo": 60,
-   "source": "diyanet",
-   "text": "İyiliğin karşılığı, yalnız iyiliktir."
-  },
-  {
-   "verseNo": 60,
-   "source": "okuyan",
-   "text": "İyiliğin karşılığı iyilikten başka nedir ki!"
-  },
-  {
-   "verseNo": 60,
-   "source": "islamoglu",
-   "text": "İyi olmanın karşılığı iyi (bulmak) değil de nedir:"
-  },
-  {
-   "verseNo": 60,
-   "source": "esed",
-   "text": "İyiliğin karşılığı iyilikten başka bir şey olabilir mi"
-  },
-  {
-   "verseNo": 61,
-   "source": "diyanet",
-   "text": "O halde, Rabbinizin hangi nimetlerini yalanlıyorsunuz?"
-  },
-  {
-   "verseNo": 61,
-   "source": "okuyan",
-   "text": "Rabbinizin hangi nimetlerini yalanlayabilirsiniz ki!"
-  },
-  {
-   "verseNo": 61,
-   "source": "islamoglu",
-   "text": "o halde Rabbinizin hangi nimetini inkâr edebilirsiniz?"
-  },
-  {
-   "verseNo": 61,
-   "source": "esed",
-   "text": "O halde, hangi nimet ve kudretini inkar edebilirsiniz Rabbinizin"
-  },
-  {
-   "verseNo": 62,
-   "source": "diyanet",
-   "text": "Bu iki cennetten başka iki cennet daha vardır."
-  },
-  {
-   "verseNo": 62,
-   "source": "okuyan",
-   "text": "Bu ikisinden başka iki cennet daha vardır."
-  },
-  {
-   "verseNo": 62,
-   "source": "islamoglu",
-   "text": "O cennet çiftinin berisinde, daha başka çifte cennetler:"
-  },
-  {
-   "verseNo": 62,
-   "source": "esed",
-   "text": "Ve o ikisinin yanında (başka) iki bahçe daha olacak"
-  },
-  {
-   "verseNo": 63,
-   "source": "diyanet",
-   "text": "O halde, Rabbinizin hangi nimetlerini yalanlıyorsunuz?"
-  },
-  {
-   "verseNo": 63,
-   "source": "okuyan",
-   "text": "Rabbinizin hangi nimetlerini yalanlayabilirsiniz ki!"
-  },
-  {
-   "verseNo": 63,
-   "source": "islamoglu",
-   "text": "o halde Rabbinizin hangi nimetini inkâr edebilirsiniz?"
-  },
-  {
-   "verseNo": 63,
-   "source": "esed",
-   "text": "o halde, hangi nimet ve kudretini inkar edebilirsiniz Rabbinizin"
-  },
-  {
-   "verseNo": 64,
-   "source": "diyanet",
-   "text": "O iki cennet koyu yeşil renktedir."
-  },
-  {
-   "verseNo": 64,
-   "source": "okuyan",
-   "text": "(Bu cennetler) koyu yeşildir."
-  },
-  {
-   "verseNo": 64,
-   "source": "islamoglu",
-   "text": "Uzayıp giden (göz alıcı) çifte yeşillikler:"
-  },
-  {
-   "verseNo": 64,
-   "source": "esed",
-   "text": "Yemyeşil iki (bahçe)"
-  },
-  {
-   "verseNo": 65,
-   "source": "diyanet",
-   "text": "O halde, Rabbinizin hangi nimetlerini yalanlıyorsunuz?"
-  },
-  {
-   "verseNo": 65,
-   "source": "okuyan",
-   "text": "Rabbinizin hangi nimetlerini yalanlayabilirsiniz ki!"
-  },
-  {
-   "verseNo": 65,
-   "source": "islamoglu",
-   "text": "o halde Rabbinizin hangi nimetini inkâr edebilirsiniz?"
-  },
-  {
-   "verseNo": 65,
-   "source": "esed",
-   "text": "O halde, hangi nimet ve kudretini inkar edebilirsiniz Rabbinizin"
-  },
-  {
-   "verseNo": 66,
-   "source": "diyanet",
-   "text": "İçlerinde kaynayan iki pınar vardır."
-  },
-  {
-   "verseNo": 66,
-   "source": "okuyan",
-   "text": "İkisinde de fışkırmakta olan iki kaynak vardır."
-  },
-  {
-   "verseNo": 66,
-   "source": "islamoglu",
-   "text": "Bu cennet çiftinde (billurdan) sular fışkırtan iki fıskiye olacak:"
-  },
-  {
-   "verseNo": 66,
-   "source": "esed",
-   "text": "Bu iki (bahçe)nin (her birinde) iki kaynak fışkıracak"
-  },
-  {
-   "verseNo": 67,
-   "source": "diyanet",
-   "text": "O halde, Rabbinizin hangi nimetlerini yalanlıyorsunuz?"
-  },
-  {
-   "verseNo": 67,
-   "source": "okuyan",
-   "text": "Rabbinizin hangi nimetlerini yalanlayabilirsiniz ki!"
-  },
-  {
-   "verseNo": 67,
-   "source": "islamoglu",
-   "text": "o halde Rabbinizin hangi nimetini inkâr edebilirsiniz?"
-  },
-  {
-   "verseNo": 67,
-   "source": "esed",
-   "text": "O halde, hangi nimet ve kudretini inkar edebilirsiniz Rabbinizin"
-  },
-  {
-   "verseNo": 68,
-   "source": "diyanet",
-   "text": "İçlerinde her türlü meyve, hurma ve nar vardır."
-  },
-  {
-   "verseNo": 68,
-   "source": "okuyan",
-   "text": "İkisinde de her türlü meyve, hurma ve nar vardır."
-  },
-  {
-   "verseNo": 68,
-   "source": "islamoglu",
-   "text": "Bu çifte cennette (lezzetin kemalini temsil eden) meyveler, hurma ve çekirdeksiz nar bulunacak:"
-  },
-  {
-   "verseNo": 68,
-   "source": "esed",
-   "text": "Onların ikisinde de (çeşit çeşit meyveler), hurmalar ve narlar olacak"
-  },
-  {
-   "verseNo": 69,
-   "source": "diyanet",
-   "text": "O halde, Rabbinizin hangi nimetlerini yalanlıyorsunuz?"
-  },
-  {
-   "verseNo": 69,
-   "source": "okuyan",
-   "text": "Rabbinizin hangi nimetlerini yalanlayabilirsiniz ki!"
-  },
-  {
-   "verseNo": 69,
-   "source": "islamoglu",
-   "text": "o halde Rabbinizin hangi nimetini inkâr edebilirsiniz?"
-  },
-  {
-   "verseNo": 69,
-   "source": "esed",
-   "text": "O halde, hangi nimet ve kudretini inkar edebilirsiniz Rabbinizin"
-  },
-  {
-   "verseNo": 70,
-   "source": "diyanet",
-   "text": "Onlarda huyları güzel, yüzleri güzel dilberler vardır."
-  },
-  {
-   "verseNo": 70,
-   "source": "okuyan",
-   "text": "Oralarda (cennetlerde) güzel hayırlılar (eşler) vardır."
-  },
-  {
-   "verseNo": 70,
-   "source": "islamoglu",
-   "text": "Orada (her şeyin) en mükemmeli, en güzeli olacak:"
-  },
-  {
-   "verseNo": 70,
-   "source": "esed",
-   "text": "Ve bu (bahçeler)de (her)şeyin en muhteşemi ve en güzeli bulunacak"
-  },
-  {
-   "verseNo": 71,
-   "source": "diyanet",
-   "text": "O halde, Rabbinizin hangi nimetlerini yalanlıyorsunuz?"
-  },
-  {
-   "verseNo": 71,
-   "source": "okuyan",
-   "text": "Rabbinizin hangi nimetlerini yalanlayabilirsiniz ki!"
-  },
-  {
-   "verseNo": 71,
-   "source": "islamoglu",
-   "text": "o halde Rabbinizin hangi nimetini inkâr edebilirsiniz?"
-  },
-  {
-   "verseNo": 71,
-   "source": "esed",
-   "text": "O halde, hangi nimet ve kudretini inkar edebilirsiniz Rabbinizin"
-  },
-  {
-   "verseNo": 72,
-   "source": "diyanet",
-   "text": "Onlar, çadırlara kapanmış hurilerdir."
-  },
-  {
-   "verseNo": 72,
-   "source": "okuyan",
-   "text": "Otağlar (çadırlar) içinde (cennetliklere) özel huriler (vardır)."
-  },
-  {
-   "verseNo": 72,
-   "source": "islamoglu",
-   "text": "Çardaklar içinde, gözü gönlü dışarıda olmayan pırıl pırıl eşler:"
-  },
-  {
-   "verseNo": 72,
-   "source": "esed",
-   "text": "(Kutsananlar, orada, harika) çadırlarda saf ve çekingen, yumuşak huylu eşleri (ile birlikte yaşayacaklar)"
-  },
-  {
-   "verseNo": 73,
-   "source": "diyanet",
-   "text": "O halde, Rabbinizin hangi nimetlerini yalanlıyorsunuz?"
-  },
-  {
-   "verseNo": 73,
-   "source": "okuyan",
-   "text": "Rabbinizin hangi nimetlerini yalanlayabilirsiniz ki!"
-  },
-  {
-   "verseNo": 73,
-   "source": "islamoglu",
-   "text": "o halde Rabbinizin hangi nimetini inkâr edebilirsiniz?"
-  },
-  {
-   "verseNo": 73,
-   "source": "esed",
-   "text": "O halde, hangi nimet ve kudretini inkar edebilirsiniz Rabbinizin"
-  },
-  {
-   "verseNo": 74,
-   "source": "diyanet",
-   "text": "Onlara, eşlerinden önce ne bir insan ne bir cin dokunmuştur."
-  },
-  {
-   "verseNo": 74,
-   "source": "okuyan",
-   "text": "Onlardan (cennetliklerden) önce kendilerine hiçbir insan ve cin dokunmamıştır."
-  },
-  {
-   "verseNo": 74,
-   "source": "islamoglu",
-   "text": "Daha önce görünür görünmez hiçbir varlığın dokunmadığı eşler:"
-  },
-  {
-   "verseNo": 74,
-   "source": "esed",
-   "text": "Daha önce ne bir insanın ne de görünmez varlığın dokunmadığı (eşler)"
-  },
-  {
-   "verseNo": 75,
-   "source": "diyanet",
-   "text": "O halde, Rabbinizin hangi nimetlerini yalanlıyorsunuz?"
-  },
-  {
-   "verseNo": 75,
-   "source": "okuyan",
-   "text": "Rabbinizin hangi nimetlerini yalanlayabilirsiniz ki!"
-  },
-  {
-   "verseNo": 75,
-   "source": "islamoglu",
-   "text": "o halde Rabbinizin hangi nimetini inkâr edebilirsiniz?"
-  },
-  {
-   "verseNo": 75,
-   "source": "esed",
-   "text": "O halde, hangi nimet ve kudretini inkar edebilirsiniz Rabbinizin"
-  },
-  {
-   "verseNo": 76,
-   "source": "diyanet",
-   "text": "Onlar yeşil yastıklara ve güzel yaygılara yaslanırlar, (nimetlenirler)."
-  },
-  {
-   "verseNo": 76,
-   "source": "okuyan",
-   "text": "(Orada) yeşil çimenlere ve çok güzel yaygılara (halılara) yaslanmış bir hâlde (olacaklar)dır."
-  },
-  {
-   "verseNo": 76,
-   "source": "islamoglu",
-   "text": "Onlar tarifsiz yemyeşil örtüler ve efsanevî güzellikte sergiler üzerinde uzanacak:"
-  },
-  {
-   "verseNo": 76,
-   "source": "esed",
-   "text": "(Onlar, böyle bir cennette) yeşil çimenler ve harikulade güzellikte halılar üzerinde uzanarak (hayat sürecekler)"
-  },
-  {
-   "verseNo": 77,
-   "source": "diyanet",
-   "text": "O halde, Rabbinizin hangi nimetlerini yalanlıyorsunuz?"
-  },
-  {
-   "verseNo": 77,
-   "source": "okuyan",
-   "text": "Rabbinizin hangi nimetlerini yalanlayabilirsiniz ki!"
-  },
-  {
-   "verseNo": 77,
-   "source": "islamoglu",
-   "text": "o halde Rabbinizin hangi nimetini inkâr edebilirsiniz?"
-  },
-  {
-   "verseNo": 77,
-   "source": "esed",
-   "text": "O halde, hangi nimet ve kudretini inkar edebilirsiniz Rabbinizin"
-  },
-  {
-   "verseNo": 78,
-   "source": "diyanet",
-   "text": "Azamet ve ikram sahibi Rabbinin adı yücedir."
-  },
-  {
-   "verseNo": 78,
-   "source": "okuyan",
-   "text": "Yücelik ve cömertlik sahibi Rabbinin adı yüceler yücesidir."
-  },
-  {
-   "verseNo": 78,
-   "source": "islamoglu",
-   "text": "AZAMET ve sonsuz ikram sahibi Rabbinin şânı pek yücedir!"
-  },
-  {
-   "verseNo": 78,
-   "source": "esed",
-   "text": "İhtişam sahibi ve kerim Rabbinin ismi ne yücedir"
-  },
-  {
-   "verseNo": 1,
-   "verseNoEnd": null,
-   "source": "ai",
-   "text": "Rahmân"
-  },
-  {
-   "verseNo": 2,
-   "verseNoEnd": null,
-   "source": "ai",
-   "text": "Kur'anı öğretti."
-  },
-  {
-   "verseNo": 3,
-   "verseNoEnd": null,
-   "source": "ai",
-   "text": "İnsanı yarattı."
-  },
-  {
-   "verseNo": 4,
-   "verseNoEnd": null,
-   "source": "ai",
-   "text": "Ona ifade etmeyi öğretti."
-  },
-  {
-   "verseNo": 5,
-   "verseNoEnd": null,
-   "source": "ai",
-   "text": "Güneş ve ay bir hesap içindedir."
-  },
-  {
-   "verseNo": 6,
-   "verseNoEnd": null,
-   "source": "ai",
-   "text": "Yıldızlar ve ağaçlar secde ederler."
-  },
-  {
-   "verseNo": 7,
-   "verseNoEnd": null,
-   "source": "ai",
-   "text": "Göğü yükseltti ve teraziyi koydu."
-  },
-  {
-   "verseNo": 8,
-   "verseNoEnd": null,
-   "source": "ai",
-   "text": "Terazide haddi aşmayın."
-  },
-  {
-   "verseNo": 9,
-   "verseNoEnd": null,
-   "source": "ai",
-   "text": "Ağırlığı adaletle koyun ve teraziyi eksiltmeyin."
-  },
-  {
-   "verseNo": 10,
-   "verseNoEnd": null,
-   "source": "ai",
-   "text": "Yeri de canlılar için koydu."
-  },
-  {
-   "verseNo": 11,
-   "verseNoEnd": null,
-   "source": "ai",
-   "text": "Orada meyveler ve salkımlı hurma ağaçları vardır."
-  },
-  {
-   "verseNo": 12,
-   "verseNoEnd": null,
-   "source": "ai",
-   "text": "Ve başaklı tahıllar ve reyhan vardır."
-  },
-  {
-   "verseNo": 13,
-   "verseNoEnd": null,
-   "source": "ai",
-   "text": "Öyleyse Rabbinizin hangi nimetlerini inkâr ediyorsunuz?"
-  },
-  {
-   "verseNo": 14,
-   "verseNoEnd": null,
-   "source": "ai",
-   "text": "İnsanı çamurdan, çömlek gibi yarattı."
-  },
-  {
-   "verseNo": 15,
-   "verseNoEnd": null,
-   "source": "ai",
-   "text": "Ve cinleri ateşten yarattı."
-  },
-  {
-   "verseNo": 16,
-   "verseNoEnd": null,
-   "source": "ai",
-   "text": "Öyleyse Rabbinizin hangi nimetlerini inkâr ediyorsunuz?"
-  },
-  {
-   "verseNo": 17,
-   "verseNoEnd": null,
-   "source": "ai",
-   "text": "İki doğunun Rabbi ve iki batının Rabbi."
-  },
-  {
-   "verseNo": 18,
-   "verseNoEnd": null,
-   "source": "ai",
-   "text": "Öyleyse Rabbinizin hangi nimetlerini inkâr ediyorsunuz?"
-  },
-  {
-   "verseNo": 19,
-   "verseNoEnd": null,
-   "source": "ai",
-   "text": "İki denizi saldı; birleşirler."
-  },
-  {
-   "verseNo": 20,
-   "verseNoEnd": null,
-   "source": "ai",
-   "text": "Aralarında birbirine geçit olmayan bir set vardır."
-  },
-  {
-   "verseNo": 21,
-   "verseNoEnd": null,
-   "source": "ai",
-   "text": "Öyleyse Rabbinizin hangi nimetlerini inkâr ediyorsunuz?"
-  },
-  {
-   "verseNo": 22,
-   "verseNoEnd": null,
-   "source": "ai",
-   "text": "Onlardan inci ve mercan çıkar."
-  },
-  {
-   "verseNo": 23,
-   "verseNoEnd": null,
-   "source": "ai",
-   "text": "Öyleyse Rabbinizin hangi nimetlerini inkâr ediyorsunuz?"
-  },
-  {
-   "verseNo": 24,
-   "verseNoEnd": null,
-   "source": "ai",
-   "text": "Ve denizde hareket eden gemiler de O'nundur; sanki işaretler gibidir."
-  },
-  {
-   "verseNo": 25,
-   "verseNoEnd": null,
-   "source": "ai",
-   "text": "Öyleyse Rabbinizin hangi nimetlerini inkâr ediyorsunuz?"
-  },
-  {
-   "verseNo": 26,
-   "verseNoEnd": null,
-   "source": "ai",
-   "text": "Onun üzerinde olan herkes yok olacaktır."
-  },
-  {
-   "verseNo": 27,
-   "verseNoEnd": null,
-   "source": "ai",
-   "text": "Rabbinin yüzü baki kalacaktır; o yücelik ve ikram sahibidir."
-  },
-  {
-   "verseNo": 28,
-   "verseNoEnd": null,
-   "source": "ai",
-   "text": "Öyleyse Rabbinizin hangi nimetlerini inkâr ediyorsunuz?"
-  },
-  {
-   "verseNo": 29,
-   "verseNoEnd": null,
-   "source": "ai",
-   "text": "Göklerde ve yerde olan herkes O'ndan ister; O her gün bir işle meşguldür."
-  },
-  {
-   "verseNo": 30,
-   "verseNoEnd": null,
-   "source": "ai",
-   "text": "Öyleyse Rabbinizin hangi nimetlerini inkâr ediyorsunuz?"
-  },
-  {
-   "verseNo": 31,
-   "verseNoEnd": null,
-   "source": "ai",
-   "text": "Sizinle ilgileneceğiz ey iki varlık!"
-  },
-  {
-   "verseNo": 32,
-   "verseNoEnd": null,
-   "source": "ai",
-   "text": "Rabbinizin hangi nimetlerini inkâr edersiniz?"
-  },
-  {
-   "verseNo": 33,
-   "verseNoEnd": null,
-   "source": "ai",
-   "text": "Ey cin ve insan topluluğu! Eğer göklerin ve yerin sınırlarından geçmeye gücünüz yetiyorsa geçin; ancak bir yetki olmadan geçemezsiniz."
-  },
-  {
-   "verseNo": 34,
-   "verseNoEnd": null,
-   "source": "ai",
-   "text": "Rabbinizin hangi nimetlerini inkâr edersiniz?"
-  },
-  {
-   "verseNo": 35,
-   "verseNoEnd": null,
-   "source": "ai",
-   "text": "Üzerinize ateşten alevler ve erimiş bakır gönderilir; o zaman kendinizi koruyamazsınız."
-  },
-  {
-   "verseNo": 36,
-   "verseNoEnd": null,
-   "source": "ai",
-   "text": "Rabbinizin hangi nimetlerini inkâr edersiniz?"
-  },
-  {
-   "verseNo": 37,
-   "verseNoEnd": null,
-   "source": "ai",
-   "text": "Gök yarıldığında gül rengi gibi olacak, yağ gibi."
-  },
-  {
-   "verseNo": 38,
-   "verseNoEnd": null,
-   "source": "ai",
-   "text": "Rabbinizin hangi nimetlerini inkâr edersiniz?"
-  },
-  {
-   "verseNo": 39,
-   "verseNoEnd": null,
-   "source": "ai",
-   "text": "O gün ne insan ne de cin günahı hakkında sorgulanacaktır."
-  },
-  {
-   "verseNo": 40,
-   "verseNoEnd": null,
-   "source": "ai",
-   "text": "Rabbinizin hangi nimetlerini inkâr edersiniz?"
-  },
-  {
-   "verseNo": 41,
-   "verseNoEnd": null,
-   "source": "ai",
-   "text": "Suçlular izleriyle tanınırlar; sonra saçlarının tutamlarından ve ayaklarından yakalanırlar."
-  },
-  {
-   "verseNo": 42,
-   "verseNoEnd": null,
-   "source": "ai",
-   "text": "Rabbinizin hangi nimetlerini inkâr ediyorsunuz?"
-  },
-  {
-   "verseNo": 43,
-   "verseNoEnd": null,
-   "source": "ai",
-   "text": "İşte bu, suçluların yalanladığı cehennemdir."
-  },
-  {
-   "verseNo": 44,
-   "verseNoEnd": null,
-   "source": "ai",
-   "text": "Onlar cehennem ile kaynar su arasında dolaşıp dururlar."
-  },
-  {
-   "verseNo": 45,
-   "verseNoEnd": null,
-   "source": "ai",
-   "text": "Rabbinizin hangi nimetlerini inkâr ediyorsunuz?"
-  },
-  {
-   "verseNo": 46,
-   "verseNoEnd": null,
-   "source": "ai",
-   "text": "Rabbinin huzurunda bulunmaktan korkan kimse için iki cennet vardır."
-  },
-  {
-   "verseNo": 47,
-   "verseNoEnd": null,
-   "source": "ai",
-   "text": "Rabbinizin hangi nimetlerini inkâr ediyorsunuz?"
-  },
-  {
-   "verseNo": 48,
-   "verseNoEnd": null,
-   "source": "ai",
-   "text": "İkisi dallarla gölgelenmiş."
-  },
-  {
-   "verseNo": 49,
-   "verseNoEnd": null,
-   "source": "ai",
-   "text": "Rabbinizin hangi nimetlerini inkâr ediyorsunuz?"
-  },
-  {
-   "verseNo": 50,
-   "verseNoEnd": null,
-   "source": "ai",
-   "text": "İkisinde iki pınar akar."
-  },
-  {
-   "verseNo": 51,
-   "verseNoEnd": null,
-   "source": "ai",
-   "text": "Peki Rabbinizin hangi nimetlerini inkâr ediyorsunuz?"
-  },
-  {
-   "verseNo": 52,
-   "verseNoEnd": null,
-   "source": "ai",
-   "text": "İçlerinde her türlü meyveden çiftler vardır."
-  },
-  {
-   "verseNo": 53,
-   "verseNoEnd": null,
-   "source": "ai",
-   "text": "Peki Rabbinizin hangi nimetlerini inkâr ediyorsunuz?"
-  },
-  {
-   "verseNo": 54,
-   "verseNoEnd": null,
-   "source": "ai",
-   "text": "Döşemelere yaslanmışlardır; örtülerinin içi işlemeli ipektendir; iki cennetin meyveleri ise sarkıktır."
-  },
-  {
-   "verseNo": 55,
-   "verseNoEnd": null,
-   "source": "ai",
-   "text": "Peki Rabbinizin hangi nimetlerini inkâr ediyorsunuz?"
-  },
-  {
-   "verseNo": 56,
-   "verseNoEnd": null,
-   "source": "ai",
-   "text": "Onlarda bakışlarını dizginleyenler vardır; ne bir insan daha önce onlara dokunmuştur, ne de bir cin."
-  },
-  {
-   "verseNo": 57,
-   "verseNoEnd": null,
-   "source": "ai",
-   "text": "Peki Rabbinizin hangi nimetlerini inkâr ediyorsunuz?"
-  },
-  {
-   "verseNo": 58,
-   "verseNoEnd": null,
-   "source": "ai",
-   "text": "Sanki onlar yakut ve mercan gibidir."
-  },
-  {
-   "verseNo": 59,
-   "verseNoEnd": null,
-   "source": "ai",
-   "text": "Peki Rabbinizin hangi nimetlerini inkâr ediyorsunuz?"
-  },
-  {
-   "verseNo": 60,
-   "verseNoEnd": null,
-   "source": "ai",
-   "text": "İyiliğin karşılığı ancak iyiliktir."
-  },
-  {
-   "verseNo": 61,
-   "verseNoEnd": null,
-   "source": "ai",
-   "text": "Peki Rabbinizin hangi nimetlerini inkâr ediyorsunuz?"
-  },
-  {
-   "verseNo": 62,
-   "verseNoEnd": null,
-   "source": "ai",
-   "text": "Onların dışında iki cennet vardır."
-  },
-  {
-   "verseNo": 63,
-   "verseNoEnd": null,
-   "source": "ai",
-   "text": "Peki Rabbinizin hangi nimetlerini inkâr ediyorsunuz?"
-  },
-  {
-   "verseNo": 64,
-   "verseNoEnd": null,
-   "source": "ai",
-   "text": "İkisi koyu yeşildir."
-  },
-  {
-   "verseNo": 65,
-   "verseNoEnd": null,
-   "source": "ai",
-   "text": "Peki Rabbinizin hangi nimetlerini inkâr ediyorsunuz?"
-  },
-  {
-   "verseNo": 66,
-   "verseNoEnd": null,
-   "source": "ai",
-   "text": "İçlerinde iki tane bolca fışkıran pınar vardır."
-  },
-  {
-   "verseNo": 67,
-   "verseNoEnd": null,
-   "source": "ai",
-   "text": "Peki Rabbinizin hangi nimetlerini inkâr ediyorsunuz?"
-  },
-  {
-   "verseNo": 68,
-   "verseNoEnd": null,
-   "source": "ai",
-   "text": "İçlerinde meyveler, hurma ağaçları ve narlar vardır."
-  },
-  {
-   "verseNo": 69,
-   "verseNoEnd": null,
-   "source": "ai",
-   "text": "Peki Rabbinizin hangi nimetlerini inkâr ediyorsunuz?"
-  },
-  {
-   "verseNo": 70,
-   "verseNoEnd": null,
-   "source": "ai",
-   "text": "Onlarda güzel, bol nimetler vardır."
-  },
-  {
-   "verseNo": 71,
-   "verseNoEnd": null,
-   "source": "ai",
-   "text": "Peki, Rabbinizin hangi nimetlerini inkâr edersiniz?"
-  },
-  {
-   "verseNo": 72,
-   "verseNoEnd": null,
-   "source": "ai",
-   "text": "Çadırlarda kapalı huriler."
-  },
-  {
-   "verseNo": 73,
-   "verseNoEnd": null,
-   "source": "ai",
-   "text": "Peki, Rabbinizin hangi nimetlerini inkâr edersiniz?"
-  },
-  {
-   "verseNo": 74,
-   "verseNoEnd": null,
-   "source": "ai",
-   "text": "Daha önce ne bir insan ne de bir cin onlara dokunmuştur."
-  },
-  {
-   "verseNo": 75,
-   "verseNoEnd": null,
-   "source": "ai",
-   "text": "Peki, Rabbinizin hangi nimetlerini inkâr edersiniz?"
-  },
-  {
-   "verseNo": 76,
-   "verseNoEnd": null,
-   "source": "ai",
-   "text": "Yeşil minderlere yaslanmış, güzel işçilikli zarif halılar üzerinde."
-  },
-  {
-   "verseNo": 77,
-   "verseNoEnd": null,
-   "source": "ai",
-   "text": "Peki, Rabbinizin hangi nimetlerini inkâr edersiniz?"
-  },
-  {
-   "verseNo": 78,
-   "verseNoEnd": null,
-   "source": "ai",
-   "text": "Rabbinin adı mübarek, yücelik ve ikram sahibidir."
-  }
- ],
- "aiParagraph": "Güneşin her gün aynı yoldan doğması, iki denizin birbirine karışmaması, tohumun kabuğunu yarıp çıkması — bunların hiçbiri kendiliğinden olmaz; metin, tüm bunların arkasında bir denge olduğunu ve bu dengenin insana da geçtiğini söylüyor. İnsan, pişmiş topraktan yoğrulmuş, ama ona dil verilmiş: düşüncesini söze dökme, anladığını aktarma, anlam kurma yetisi. İşte tam burada metin bir şey soruyor — ince ama keskin bir soru, defalarca tekrarlayarak: hangi nimeti yalanlıyorsun? Bu soru bir suçlama değil; daha çok, elindekini görmezden gelme alışkanlığını yüzüne tutan bir ayna. Metin boyunca sıralanan her şey — yeryüzünün bolluğu, ikili denizlerin arasındaki görünmez sınır, derinliklerden çıkan inci — bunların tamamı bir kayıp listesi gibi değil, fark edilmeyi bekleyen bir varlık envanteri gibi sunuluyor. Sonunda metin, hesap gününü ve onun ötesinde sunulan dinginliği tarif ediyor; ama asıl ağırlık orada değil: asıl ağırlık, tüm bu saydıklarının içinde yaşarken bile \"hiçbir şeyim yok\" hissine sürüklenmenin ne anlama geldiği sorusunda kalıyor."
+  "stationNo": 46,
+  "surahNo": 55,
+  "name": "Rahmân",
+  "nameArabic": "",
+  "nameMeaning": "",
+  "verseCount": 78,
+  "nuzulOrderOkuyan": 41,
+  "periodDiyanet": "Mekke",
+  "periodOkuyan": "Mekke",
+  "revelationTiming": "Çoğunluğun görüşüne göre Mekke döneminde inmiştir. Ancak İbn Mes'ûd ve Mukātil'den gelen bazı rivayetlerde Medine'de indiği belirtilmektedir. Muhteva ve üslûbu Mekke sûrelerine benzemektedir.",
+  "stationTitle": "Rahmetin Aynasında Varlık ve İnsan",
+  "introduction": "Rahmân sûresi, adını ilk âyetinde geçen ve Allah'ın sonsuz merhametini ifade eden 'er-Rahmân' isminden alır. Toplam 78 âyetten oluşan sûre, Kur'an'ın 55. sûresidir. Sûrenin en belirgin özelliği, 'O halde Rabbinizin nimetlerinden hangisini yalanlayabilirsiniz?' âyetinin 31 kez tekrarlanmasıdır. Bu tekrar, insanı ve cinleri, kendilerine sunulan sayısız nimet üzerinde düşünmeye ve nankörlükten kaçınmaya davet eder.\n\nSûre, Allah'ın insana Kur'an'ı öğretmesi, onu yaratması ve ona kendini ifade etme (beyan) yeteneği vermesiyle başlar. Ardından evrendeki kusursuz dengeye, güneşin ve ayın hesaplı hareketine, bitkilerin ve ağaçların secde edişine dikkat çekilir. Bu kozmik düzen, insanın da kendi hayatında adaleti ve dengeyi gözetmesi gerektiğine işaret eder.\n\nSûrenin ilerleyen bölümlerinde, yeryüzündeki nimetler, denizlerin birbirine karışmaması gibi doğa olayları anlatılır. Daha sonra kıyamet sahneleri, suçluların durumu ve nihayetinde Allah'a karşı sorumluluk bilinciyle yaşayanlara vaat edilen cennet nimetleri tasvir edilir. Sûre, Allah'ın azamet ve ikram sahibi olduğunu vurgulayarak sona erer.",
+  "occasionOfRevelation": "Rahmân sûresinin nüzul dönemi hakkında kaynaklarda farklı görüşler bulunmaktadır. Çoğunluğun görüşüne göre sûre Mekke döneminde inmiştir. Ancak İbn Mes'ûd ve Mukātil'den gelen bazı rivayetlerde Medine'de indiği belirtilmektedir. Sûrenin muhtevası ve üslûbu, Mekke döneminde inen sûrelerle büyük benzerlik göstermektedir.\n\nSûrenin iniş sebebi olarak, Furkân sûresi 60. âyette müşriklerin 'Rahmân da neymiş!' şeklindeki inkârcı tutumlarına bir cevap niteliği taşıdığı ifade edilir. Müşriklerin Allah'ın 'Rahmân' ismini kabullenmemeleri üzerine, bu sûre bütünüyle Allah'ın rahmetinin tecellilerini ve evrendeki nimetlerini gözler önüne sermek için indirilmiştir.\n\nBu bağlamda sûre, sadece belirli bir olaya değil, genel bir inkârcı tutuma karşı ilâhî bir cevap ve uyarı niteliğindedir. İnsanın yaratılışından evrendeki düzene kadar her şeyin Rahmân'ın bir lütfu olduğu vurgulanarak, nankörlüğün anlamsızlığı ortaya konur.",
+  "occasionSources": "TDV İslâm Ansiklopedisi, \"Rahmân Sûresi\" maddesi; Diyanet İşleri Başkanlığı Kur'an Yolu Tefsiri, Rahmân 1-4 ayet tefsiri; kuranokuyan.com, Rahmân suresi girişi (Prof. Dr. Mehmet Okuyan).",
+  "keyTerms": [
+    {
+      "term": "rahmân",
+      "arabic": "الرَّحْمٰن",
+      "verseRef": "55:1",
+      "meaning": "Merhametin kaynağı, özünde merhametli olan. Allah'ın sonsuz ve kuşatıcı rahmetini ifade eder."
+    },
+    {
+      "term": "beyân",
+      "arabic": "الْبَيَان",
+      "verseRef": "55:4",
+      "meaning": "Anlama, açıklama, kendini ifade etme yeteneği. İnsanı diğer varlıklardan ayıran en önemli özelliklerden biridir."
+    },
+    {
+      "term": "mîzân",
+      "arabic": "الْمِيزَان",
+      "verseRef": "55:7",
+      "meaning": "Ölçü, denge, adalet. Evrendeki kusursuz düzeni ve insanın hayatında gözetmesi gereken adaleti simgeler."
+    },
+    {
+      "term": "âlâ",
+      "arabic": "آلَاء",
+      "verseRef": "55:13",
+      "meaning": "Nimetler, lütuflar. Sûrede sıkça tekrarlanan âyette geçen ve Allah'ın sayısız ihsanlarını ifade eden kelimedir."
+    },
+    {
+      "term": "husbân",
+      "arabic": "حُسْبَان",
+      "verseRef": "55:5",
+      "meaning": "Hesap, ince bir ölçü. Güneş ve ayın hareketlerindeki şaşmaz düzeni belirtir."
+    }
+  ],
+  "themes": [
+    {
+      "label": "Nimetlerin Farkındalığı ve Şükür",
+      "body": "İnsan, çevresini saran sayısız nimetin içinde yaşarken çoğu zaman bunları kanıksar. Sûre, bizi bu körlükten uyandırarak, sahip olduğumuz her şeyin bir lütuf olduğunu hatırlatır ve nankörlükten uzaklaşıp şükre yönelmeye çağırır."
+    },
+    {
+      "label": "Evrendeki Denge ve İnsanın Sorumluluğu",
+      "body": "Kozmik düzendeki hassas denge (mîzân), insanın da kendi hayatında, ilişkilerinde ve doğayla etkileşiminde adaleti ve ölçüyü koruması gerektiğini öğretir. Aşırılıklardan kaçınmak, bu ilâhî dengeye uyum sağlamanın gereğidir."
+    },
+    {
+      "label": "Fânilik ve Bâki Olan",
+      "body": "Yeryüzündeki her şeyin geçici olduğu, sadece azamet ve ikram sahibi Allah'ın kalıcı olduğu gerçeği, insanın dünyaya aşırı bağlanmasını engeller ve ona asıl yönelmesi gereken kalıcı değeri gösterir."
+    }
+  ],
+  "questions": [
+    "Hayatımda 'benim hakkım' veya 'kendi başarım' olarak gördüğüm, ancak aslında bana sunulmuş bir lütuf olan nimetleri ne sıklıkla görmezden geliyorum?",
+    "İlişkilerimde, işimde veya çevremle etkileşimimde, evrendeki o kusursuz 'denge' ve 'adalet' (mîzân) ilkesini ne kadar gözetiyorum; nerede ölçüyü kaçırıyorum?"
+  ],
+  "contemporaryMeaning": "Bu sure, insanın varoluşsal körlüğü ile yüzleşmesini talep eder. Metnin merkezinde, kendisine sunulan imkânları kendi hakkı veya başarısı sanan, verili olanı olağanlaştıran ve bu yüzden nankörleşen insan tipi yer alır. Sürekli tekrarlanan soru, aslında insanın kendi konfor alanında kurduğu kibri parçalamaya yönelik ritmik bir sarsıntıdır.\n\nBugünün diliyle: Kendi çabasıyla elde ettiğini düşündüğü kariyeri, banka hesabı, sahip olduğu teknolojik imkânlar veya sosyal statüsü içinde kaybolan modern birey, her şeyin bir \"hak\" olduğuna inanır. Musluktan akan suyun, soluduğu havanın, bedenindeki kusursuz işleyişin veya ekran karşısında geçirdiği zamanı mümkün kılan altyapının bir lütuf olduğunu unutur. Tüketim kültürü, insana sürekli daha fazlasını hak ettiğini fısıldarken, sure bu illüzyonu kesintiye uğratır. İnsanın kendi kendine yettiği yanılgısı, aslında en büyük zayıflığıdır.\n\nAynı zamanda sure, evrendeki hassas ölçüye (mizan) dikkat çekerek, insanın kendi sınırlarını aşma eğilimini teşhis eder. Ekolojik krizler, ekonomik adaletsizlikler, dijital dünyadaki ölçüsüzlükler ve ilişkilerdeki tahribat, insanın bu kozmik dengeyi bozmasının somut sonuçlarıdır. Sınır tanımayan büyüme hırsı ve her şeyi kontrol edebilme arzusu, insanın kendi sonunu hazırlayan bir kibre dönüşür. Metin, insanı bu yıkıcı hızdan çekip çıkararak, sahip olduklarının geçiciliğini ve asıl kalıcı olanın karşısındaki kırılganlığını hatırlatır.",
+  "scholarlyNotes": [
+    {
+      "kind": "ihtilaf",
+      "body": "Sûrenin nüzul dönemi hakkında kaynaklarda farklılık vardır. Çoğunluk Mekke döneminde indiğini kabul ederken, İbn Mes'ûd ve Mukātil'den gelen rivayetler Medine'de indiğini belirtmektedir. Ancak sûrenin üslûbu ve içeriği Mekke dönemine daha uygundur.",
+      "label": "Nüzul Dönemi İhtilafı"
+    },
+    {
+      "kind": "rivayet",
+      "body": "Bazı tefsir kitaplarında Übey b. Kâ'b yoluyla Hz. Peygamber'den nakledilen, 'Rahmân sûresini okuyan kimse Allah'ın kendisine lutfettiği nimetlerin şükrünü yerine getirmiş olur' mânasındaki rivayet mevzû (uydurma) kabul edilmiştir.",
+      "label": "Fazilet Rivayeti"
+    }
+  ],
+  "verses": [
+    {
+      "verseNo": 1,
+      "textArabic": "بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ ٱلرَّحْمَٰنُ"
+    },
+    {
+      "verseNo": 2,
+      "textArabic": "عَلَّمَ ٱلْقُرْءَانَ"
+    },
+    {
+      "verseNo": 3,
+      "textArabic": "خَلَقَ ٱلْإِنسَٰنَ"
+    },
+    {
+      "verseNo": 4,
+      "textArabic": "عَلَّمَهُ ٱلْبَيَانَ"
+    },
+    {
+      "verseNo": 5,
+      "textArabic": "ٱلشَّمْسُ وَٱلْقَمَرُ بِحُسْبَانٍۢ"
+    },
+    {
+      "verseNo": 6,
+      "textArabic": "وَٱلنَّجْمُ وَٱلشَّجَرُ يَسْجُدَانِ"
+    },
+    {
+      "verseNo": 7,
+      "textArabic": "وَٱلسَّمَآءَ رَفَعَهَا وَوَضَعَ ٱلْمِيزَانَ"
+    },
+    {
+      "verseNo": 8,
+      "textArabic": "أَلَّا تَطْغَوْا۟ فِى ٱلْمِيزَانِ"
+    },
+    {
+      "verseNo": 9,
+      "textArabic": "وَأَقِيمُوا۟ ٱلْوَزْنَ بِٱلْقِسْطِ وَلَا تُخْسِرُوا۟ ٱلْمِيزَانَ"
+    },
+    {
+      "verseNo": 10,
+      "textArabic": "وَٱلْأَرْضَ وَضَعَهَا لِلْأَنَامِ"
+    },
+    {
+      "verseNo": 11,
+      "textArabic": "فِيهَا فَٰكِهَةٌۭ وَٱلنَّخْلُ ذَاتُ ٱلْأَكْمَامِ"
+    },
+    {
+      "verseNo": 12,
+      "textArabic": "وَٱلْحَبُّ ذُو ٱلْعَصْفِ وَٱلرَّيْحَانُ"
+    },
+    {
+      "verseNo": 13,
+      "textArabic": "فَبِأَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ"
+    },
+    {
+      "verseNo": 14,
+      "textArabic": "خَلَقَ ٱلْإِنسَٰنَ مِن صَلْصَٰلٍۢ كَٱلْفَخَّارِ"
+    },
+    {
+      "verseNo": 15,
+      "textArabic": "وَخَلَقَ ٱلْجَآنَّ مِن مَّارِجٍۢ مِّن نَّارٍۢ"
+    },
+    {
+      "verseNo": 16,
+      "textArabic": "فَبِأَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ"
+    },
+    {
+      "verseNo": 17,
+      "textArabic": "رَبُّ ٱلْمَشْرِقَيْنِ وَرَبُّ ٱلْمَغْرِبَيْنِ"
+    },
+    {
+      "verseNo": 18,
+      "textArabic": "فَبِأَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ"
+    },
+    {
+      "verseNo": 19,
+      "textArabic": "مَرَجَ ٱلْبَحْرَيْنِ يَلْتَقِيَانِ"
+    },
+    {
+      "verseNo": 20,
+      "textArabic": "بَيْنَهُمَا بَرْزَخٌۭ لَّا يَبْغِيَانِ"
+    },
+    {
+      "verseNo": 21,
+      "textArabic": "فَبِأَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ"
+    },
+    {
+      "verseNo": 22,
+      "textArabic": "يَخْرُجُ مِنْهُمَا ٱللُّؤْلُؤُ وَٱلْمَرْجَانُ"
+    },
+    {
+      "verseNo": 23,
+      "textArabic": "فَبِأَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ"
+    },
+    {
+      "verseNo": 24,
+      "textArabic": "وَلَهُ ٱلْجَوَارِ ٱلْمُنشَـَٔاتُ فِى ٱلْبَحْرِ كَٱلْأَعْلَٰمِ"
+    },
+    {
+      "verseNo": 25,
+      "textArabic": "فَبِأَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ"
+    },
+    {
+      "verseNo": 26,
+      "textArabic": "كُلُّ مَنْ عَلَيْهَا فَانٍۢ"
+    },
+    {
+      "verseNo": 27,
+      "textArabic": "وَيَبْقَىٰ وَجْهُ رَبِّكَ ذُو ٱلْجَلَٰلِ وَٱلْإِكْرَامِ"
+    },
+    {
+      "verseNo": 28,
+      "textArabic": "فَبِأَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ"
+    },
+    {
+      "verseNo": 29,
+      "textArabic": "يَسْـَٔلُهُۥ مَن فِى ٱلسَّمَٰوَٰتِ وَٱلْأَرْضِ ۚ كُلَّ يَوْمٍ هُوَ فِى شَأْنٍۢ"
+    },
+    {
+      "verseNo": 30,
+      "textArabic": "فَبِأَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ"
+    },
+    {
+      "verseNo": 31,
+      "textArabic": "سَنَفْرُغُ لَكُمْ أَيُّهَ ٱلثَّقَلَانِ"
+    },
+    {
+      "verseNo": 32,
+      "textArabic": "فَبِأَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ"
+    },
+    {
+      "verseNo": 33,
+      "textArabic": "يَٰمَعْشَرَ ٱلْجِنِّ وَٱلْإِنسِ إِنِ ٱسْتَطَعْتُمْ أَن تَنفُذُوا۟ مِنْ أَقْطَارِ ٱلسَّمَٰوَٰتِ وَٱلْأَرْضِ فَٱنفُذُوا۟ ۚ لَا تَنفُذُونَ إِلَّا بِسُلْطَٰنٍۢ"
+    },
+    {
+      "verseNo": 34,
+      "textArabic": "فَبِأَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ"
+    },
+    {
+      "verseNo": 35,
+      "textArabic": "يُرْسَلُ عَلَيْكُمَا شُوَاظٌۭ مِّن نَّارٍۢ وَنُحَاسٌۭ فَلَا تَنتَصِرَانِ"
+    },
+    {
+      "verseNo": 36,
+      "textArabic": "فَبِأَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ"
+    },
+    {
+      "verseNo": 37,
+      "textArabic": "فَإِذَا ٱنشَقَّتِ ٱلسَّمَآءُ فَكَانَتْ وَرْدَةًۭ كَٱلدِّهَانِ"
+    },
+    {
+      "verseNo": 38,
+      "textArabic": "فَبِأَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ"
+    },
+    {
+      "verseNo": 39,
+      "textArabic": "فَيَوْمَئِذٍۢ لَّا يُسْـَٔلُ عَن ذَنۢبِهِۦٓ إِنسٌۭ وَلَا جَآنٌّۭ"
+    },
+    {
+      "verseNo": 40,
+      "textArabic": "فَبِأَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ"
+    },
+    {
+      "verseNo": 41,
+      "textArabic": "يُعْرَفُ ٱلْمُجْرِمُونَ بِسِيمَٰهُمْ فَيُؤْخَذُ بِٱلنَّوَٰصِى وَٱلْأَقْدَامِ"
+    },
+    {
+      "verseNo": 42,
+      "textArabic": "فَبِأَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ"
+    },
+    {
+      "verseNo": 43,
+      "textArabic": "هَٰذِهِۦ جَهَنَّمُ ٱلَّتِى يُكَذِّبُ بِهَا ٱلْمُجْرِمُونَ"
+    },
+    {
+      "verseNo": 44,
+      "textArabic": "يَطُوفُونَ بَيْنَهَا وَبَيْنَ حَمِيمٍ ءَانٍۢ"
+    },
+    {
+      "verseNo": 45,
+      "textArabic": "فَبِأَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ"
+    },
+    {
+      "verseNo": 46,
+      "textArabic": "وَلِمَنْ خَافَ مَقَامَ رَبِّهِۦ جَنَّتَانِ"
+    },
+    {
+      "verseNo": 47,
+      "textArabic": "فَبِأَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ"
+    },
+    {
+      "verseNo": 48,
+      "textArabic": "ذَوَاتَآ أَفْنَانٍۢ"
+    },
+    {
+      "verseNo": 49,
+      "textArabic": "فَبِأَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ"
+    },
+    {
+      "verseNo": 50,
+      "textArabic": "فِيهِمَا عَيْنَانِ تَجْرِيَانِ"
+    },
+    {
+      "verseNo": 51,
+      "textArabic": "فَبِأَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ"
+    },
+    {
+      "verseNo": 52,
+      "textArabic": "فِيهِمَا مِن كُلِّ فَٰكِهَةٍۢ زَوْجَانِ"
+    },
+    {
+      "verseNo": 53,
+      "textArabic": "فَبِأَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ"
+    },
+    {
+      "verseNo": 54,
+      "textArabic": "مُتَّكِـِٔينَ عَلَىٰ فُرُشٍۭ بَطَآئِنُهَا مِنْ إِسْتَبْرَقٍۢ ۚ وَجَنَى ٱلْجَنَّتَيْنِ دَانٍۢ"
+    },
+    {
+      "verseNo": 55,
+      "textArabic": "فَبِأَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ"
+    },
+    {
+      "verseNo": 56,
+      "textArabic": "فِيهِنَّ قَٰصِرَٰتُ ٱلطَّرْفِ لَمْ يَطْمِثْهُنَّ إِنسٌۭ قَبْلَهُمْ وَلَا جَآنٌّۭ"
+    },
+    {
+      "verseNo": 57,
+      "textArabic": "فَبِأَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ"
+    },
+    {
+      "verseNo": 58,
+      "textArabic": "كَأَنَّهُنَّ ٱلْيَاقُوتُ وَٱلْمَرْجَانُ"
+    },
+    {
+      "verseNo": 59,
+      "textArabic": "فَبِأَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ"
+    },
+    {
+      "verseNo": 60,
+      "textArabic": "هَلْ جَزَآءُ ٱلْإِحْسَٰنِ إِلَّا ٱلْإِحْسَٰنُ"
+    },
+    {
+      "verseNo": 61,
+      "textArabic": "فَبِأَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ"
+    },
+    {
+      "verseNo": 62,
+      "textArabic": "وَمِن دُونِهِمَا جَنَّتَانِ"
+    },
+    {
+      "verseNo": 63,
+      "textArabic": "فَبِأَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ"
+    },
+    {
+      "verseNo": 64,
+      "textArabic": "مُدْهَآمَّتَانِ"
+    },
+    {
+      "verseNo": 65,
+      "textArabic": "فَبِأَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ"
+    },
+    {
+      "verseNo": 66,
+      "textArabic": "فِيهِمَا عَيْنَانِ نَضَّاخَتَانِ"
+    },
+    {
+      "verseNo": 67,
+      "textArabic": "فَبِأَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ"
+    },
+    {
+      "verseNo": 68,
+      "textArabic": "فِيهِمَا فَٰكِهَةٌۭ وَنَخْلٌۭ وَرُمَّانٌۭ"
+    },
+    {
+      "verseNo": 69,
+      "textArabic": "فَبِأَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ"
+    },
+    {
+      "verseNo": 70,
+      "textArabic": "فِيهِنَّ خَيْرَٰتٌ حِسَانٌۭ"
+    },
+    {
+      "verseNo": 71,
+      "textArabic": "فَبِأَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ"
+    },
+    {
+      "verseNo": 72,
+      "textArabic": "حُورٌۭ مَّقْصُورَٰتٌۭ فِى ٱلْخِيَامِ"
+    },
+    {
+      "verseNo": 73,
+      "textArabic": "فَبِأَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ"
+    },
+    {
+      "verseNo": 74,
+      "textArabic": "لَمْ يَطْمِثْهُنَّ إِنسٌۭ قَبْلَهُمْ وَلَا جَآنٌّۭ"
+    },
+    {
+      "verseNo": 75,
+      "textArabic": "فَبِأَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ"
+    },
+    {
+      "verseNo": 76,
+      "textArabic": "مُتَّكِـِٔينَ عَلَىٰ رَفْرَفٍ خُضْرٍۢ وَعَبْقَرِىٍّ حِسَانٍۢ"
+    },
+    {
+      "verseNo": 77,
+      "textArabic": "فَبِأَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ"
+    },
+    {
+      "verseNo": 78,
+      "textArabic": "تَبَٰرَكَ ٱسْمُ رَبِّكَ ذِى ٱلْجَلَٰلِ وَٱلْإِكْرَامِ"
+    }
+  ],
+  "translations": [
+    {
+      "verseNo": 1,
+      "source": "diyanet",
+      "text": "Rahmân Kur'an'ı öğretti."
+    },
+    {
+      "verseNo": 1,
+      "source": "okuyan",
+      "text": "Rahmân."
+    },
+    {
+      "verseNo": 1,
+      "source": "islamoglu",
+      "text": "RAHMÂN?.."
+    },
+    {
+      "verseNo": 1,
+      "source": "esed",
+      "text": "Rahman"
+    },
+    {
+      "verseNo": 2,
+      "source": "diyanet",
+      "text": "Rahmân Kur'an'ı öğretti."
+    },
+    {
+      "verseNo": 2,
+      "source": "okuyan",
+      "text": "Kur’an’ı (O) öğretti."
+    },
+    {
+      "verseNo": 2,
+      "source": "islamoglu",
+      "text": "Kur’an’ı öğretti,"
+    },
+    {
+      "verseNo": 2,
+      "source": "esed",
+      "text": "Bu Kuran´ı (insana) öğretti"
+    },
+    {
+      "verseNo": 3,
+      "source": "diyanet",
+      "text": "İnsanı yarattı."
+    },
+    {
+      "verseNo": 3,
+      "source": "okuyan",
+      "text": "İnsanı (O) yarattı."
+    },
+    {
+      "verseNo": 3,
+      "source": "islamoglu",
+      "text": "insanı yarattı,"
+    },
+    {
+      "verseNo": 3,
+      "source": "esed",
+      "text": "O, insanı yarattı"
+    },
+    {
+      "verseNo": 4,
+      "source": "diyanet",
+      "text": "Ona beyanı (düşünüp ifade etmeyi) öğretti."
+    },
+    {
+      "verseNo": 4,
+      "source": "okuyan",
+      "text": "Açıklamayı ona (insana O) öğretti."
+    },
+    {
+      "verseNo": 4,
+      "source": "islamoglu",
+      "text": "insana kendini ifade etmeyi O öğretti."
+    },
+    {
+      "verseNo": 4,
+      "source": "esed",
+      "text": "ona açık ve berrak şekilde düşünmeyi ve konuşmayı öğretti"
+    },
+    {
+      "verseNo": 5,
+      "source": "diyanet",
+      "text": "Güneş ve ay bir hesaba göre hareket etmektedir."
+    },
+    {
+      "verseNo": 5,
+      "source": "okuyan",
+      "text": "Güneş ve ay bir hesaba göre (hareket etmekte)dir."
+    },
+    {
+      "verseNo": 5,
+      "source": "islamoglu",
+      "text": "Güneşi ve ayı mükemmel bir hesapla yörüngelerinde O hareket ettirmekte."
+    },
+    {
+      "verseNo": 5,
+      "source": "esed",
+      "text": "Güneş ve ay (O´nun buyruğu doğrultusunda) kendileri için belirlenen yörüngelerde akarlar"
+    },
+    {
+      "verseNo": 6,
+      "source": "diyanet",
+      "text": "Otlar ve ağaçlar (Allah'a) boyun eğerler."
+    },
+    {
+      "verseNo": 6,
+      "source": "okuyan",
+      "text": "Bitkiler ve ağaçlar da secde etmektedir."
+    },
+    {
+      "verseNo": 6,
+      "source": "islamoglu",
+      "text": "Gövdesiz ve gövdeli bitkiler O’nun emrine boyun eğmekte."
+    },
+    {
+      "verseNo": 6,
+      "source": "esed",
+      "text": "yıldızlar ve ağaçlar (O´nun önünde) yere kapanırlar"
+    },
+    {
+      "verseNo": 7,
+      "source": "diyanet",
+      "text": "Göğü yükseltti ve ölçüyü koydu."
+    },
+    {
+      "verseNo": 7,
+      "source": "okuyan",
+      "text": "7-8 . (Allah) dengede azgınlık yapmayasınız (dengeyi bozmayasınız) diye göğü yükseltmiş ve (oraya) bir denge koymuştur."
+    },
+    {
+      "verseNo": 7,
+      "source": "islamoglu",
+      "text": "Yine göğü özenle O yükseltti, bir denge ve ölçü koydu:"
+    },
+    {
+      "verseNo": 7,
+      "source": "esed",
+      "text": "Ve O, gökleri yükseltti ve (her şey için) bir ölçü koydu"
+    },
+    {
+      "verseNo": 8,
+      "source": "diyanet",
+      "text": "Ölçüde haddi aşmayın."
+    },
+    {
+      "verseNo": 8,
+      "source": "okuyan",
+      "text": "7-8 . (Allah) dengede azgınlık yapmayasınız (dengeyi bozmayasınız) diye göğü yükseltmiş ve (oraya) bir denge koymuştur."
+    },
+    {
+      "verseNo": 8,
+      "source": "islamoglu",
+      "text": "ki siz (ey insanlar), dengeyi bozup ölçüyü kaçırmayın!"
+    },
+    {
+      "verseNo": 8,
+      "source": "esed",
+      "text": "ki (siz, ey insanlar,) asla (doğruluk ve haklılık) ölçüsünden şaşmayasınız"
+    },
+    {
+      "verseNo": 9,
+      "source": "diyanet",
+      "text": "Tartıyı adaletle yapın, teraziyi eksik tutmayın."
+    },
+    {
+      "verseNo": 9,
+      "source": "okuyan",
+      "text": "Ölçüyü adaletle yerine getirin ve eksik tartmayın!"
+    },
+    {
+      "verseNo": 9,
+      "source": "islamoglu",
+      "text": "Yine istikametle ölçüp biçin, ölçme değerlendirme yaparken haksızlık etmeyin!"
+    },
+    {
+      "verseNo": 9,
+      "source": "esed",
+      "text": "Öyleyse (yaptıklarınızı) adaletle tartın ve ölçüyü eksik tutmayın"
+    },
+    {
+      "verseNo": 10,
+      "source": "diyanet",
+      "text": "Allah yeri yaratıklar için var etti."
+    },
+    {
+      "verseNo": 10,
+      "source": "okuyan",
+      "text": "(Allah) yeri canlılar için (uygun halde) yaratmıştır."
+    },
+    {
+      "verseNo": 10,
+      "source": "islamoglu",
+      "text": "Yine O, yeryüzünü orada yaşayan tüm canlıların (ayağı altına) özenle serdi;"
+    },
+    {
+      "verseNo": 10,
+      "source": "esed",
+      "text": "O, yeri, bütün canlı varlıklar için genişletip yaymıştır"
+    },
+    {
+      "verseNo": 11,
+      "source": "diyanet",
+      "text": "Orada meyve(ler) ve salkımlı hurma ağaçları vardır."
+    },
+    {
+      "verseNo": 11,
+      "source": "okuyan",
+      "text": "11-12 . Orada meyveler, salkımlı hurma ağaçları, yapraklı taneler ve güzel kokulu bitkiler vardır."
+    },
+    {
+      "verseNo": 11,
+      "source": "islamoglu",
+      "text": "orada envai çeşit meyveler, salkım saçak hurma ağaçları"
+    },
+    {
+      "verseNo": 11,
+      "source": "esed",
+      "text": "üzerinde meyveler ve salkım salkım hurma ağaçlarıyla"
+    },
+    {
+      "verseNo": 12,
+      "source": "diyanet",
+      "text": "Yapraklı taneler, hoş kokulu bitkiler vardır."
+    },
+    {
+      "verseNo": 12,
+      "source": "okuyan",
+      "text": "11-12 . Orada meyveler, salkımlı hurma ağaçları, yapraklı taneler ve güzel kokulu bitkiler vardır."
+    },
+    {
+      "verseNo": 12,
+      "source": "islamoglu",
+      "text": "ve filizlenen danelerle hoş kokulu çiçekler verdi:"
+    },
+    {
+      "verseNo": 12,
+      "source": "esed",
+      "text": "ve filizlenip dal veren tohumları ve hoş kokulu bitkileriyle"
+    },
+    {
+      "verseNo": 13,
+      "source": "diyanet",
+      "text": "O halde Rabbinizin hangi nimetlerini yalanlıyorsunuz?"
+    },
+    {
+      "verseNo": 13,
+      "source": "okuyan",
+      "text": "Rabbinizin hangi nimetlerini yalanlayabilirsiniz ki!"
+    },
+    {
+      "verseNo": 13,
+      "source": "islamoglu",
+      "text": "o halde Rabbinizin hangi nimetini inkâr edebilirsiniz?"
+    },
+    {
+      "verseNo": 13,
+      "source": "esed",
+      "text": "Öyleyse, Rabbinizin hangi nimet ve kudretini inkar edebilirsiniz"
+    },
+    {
+      "verseNo": 14,
+      "source": "diyanet",
+      "text": "Allah insanı, pişmiş çamur gibi bir balçıktan yarattı."
+    },
+    {
+      "verseNo": 14,
+      "source": "okuyan",
+      "text": "(Allah) insanı, pişmiş çamur gibi ses çıkaran bir balçıktan yarattı."
+    },
+    {
+      "verseNo": 14,
+      "source": "islamoglu",
+      "text": "O insanı ateşte pişirilmiş gibi kuru, ses veren balçıktan yarattı,"
+    },
+    {
+      "verseNo": 14,
+      "source": "esed",
+      "text": "O, insanı çömlek gibi pişmiş çamurdan yarattı"
+    },
+    {
+      "verseNo": 15,
+      "source": "diyanet",
+      "text": "\"Cin\" i de yalın bir ateşten yarattı."
+    },
+    {
+      "verseNo": 15,
+      "source": "okuyan",
+      "text": "Cinleri de ateşten bir karışımdan yarattı."
+    },
+    {
+      "verseNo": 15,
+      "source": "islamoglu",
+      "text": "görünmeyen varlıkları da tarifsiz, ateş türü bir karışımdan halk etti:"
+    },
+    {
+      "verseNo": 15,
+      "source": "esed",
+      "text": "halbuki görünmez varlıkları garip bir ateş alevinden yaratmıştır"
+    },
+    {
+      "verseNo": 16,
+      "source": "diyanet",
+      "text": "O halde, Rabbinizin hangi nimetlerini yalanlıyorsunuz?"
+    },
+    {
+      "verseNo": 16,
+      "source": "okuyan",
+      "text": "Rabbinizin hangi nimetlerini yalanlayabilirsiniz ki!"
+    },
+    {
+      "verseNo": 16,
+      "source": "islamoglu",
+      "text": "o halde Rabbinizin hangi nimetini inkâr edebilirsiniz?"
+    },
+    {
+      "verseNo": 16,
+      "source": "esed",
+      "text": "Öyleyse, Rabbinizin hangi nimet ve kudretini inkar edebilirsiniz"
+    },
+    {
+      "verseNo": 17,
+      "source": "diyanet",
+      "text": "O iki doğunun ve iki batının Rabbidir."
+    },
+    {
+      "verseNo": 17,
+      "source": "okuyan",
+      "text": "(Allah) iki doğunun da Rabbidir, iki batının da Rabbidir."
+    },
+    {
+      "verseNo": 17,
+      "source": "islamoglu",
+      "text": "O, iki doğunun da Rabbidir, iki batının da Rabbi:"
+    },
+    {
+      "verseNo": 17,
+      "source": "esed",
+      "text": "(O,) gündoğumunun en uzak iki noktasının ve günbatımının en uzak iki noktasının Rabbi(dir)"
+    },
+    {
+      "verseNo": 18,
+      "source": "diyanet",
+      "text": "O halde, Rabbinizin hangi nimetlerini yalanlıyorsunuz?"
+    },
+    {
+      "verseNo": 18,
+      "source": "okuyan",
+      "text": "Rabbinizin hangi nimetlerini yalanlayabilirsiniz ki!"
+    },
+    {
+      "verseNo": 18,
+      "source": "islamoglu",
+      "text": "o halde Rabbinizin hangi nimetini inkâr edebilirsiniz?"
+    },
+    {
+      "verseNo": 18,
+      "source": "esed",
+      "text": "Öyleyse, Rabbinizin hangi nimet ve kudretini inkar edebilirsiniz"
+    },
+    {
+      "verseNo": 19,
+      "source": "diyanet",
+      "text": "(Suları acı ve tatlı olan) iki denizi salıvermiştir; birbirine kavuşuyorlar."
+    },
+    {
+      "verseNo": 19,
+      "source": "okuyan",
+      "text": "(Allah) iki denizi salmıştır; birbirlerine kavuşurlar."
+    },
+    {
+      "verseNo": 19,
+      "source": "islamoglu",
+      "text": "O iki denizi salmıştır; birbirine kavuşurlar."
+    },
+    {
+      "verseNo": 19,
+      "source": "esed",
+      "text": "O, birbirlerine kavuşup karışabilmeleri için iki büyük su kütlesini serbest bırakmıştır"
+    },
+    {
+      "verseNo": 20,
+      "source": "diyanet",
+      "text": "(Fakat) aralarında bir engel vardır, birbirine geçip karışmıyorlar."
+    },
+    {
+      "verseNo": 20,
+      "source": "okuyan",
+      "text": "Aralarında bir engel vardır; birbirine karışmazlar."
+    },
+    {
+      "verseNo": 20,
+      "source": "islamoglu",
+      "text": "(Ama) aralarında aşamayacakları tarifsiz bir engel vardır; birbirine karışmazlar:"
+    },
+    {
+      "verseNo": 20,
+      "source": "esed",
+      "text": "(ama) aralarında aşamayacakları bir engel var"
+    },
+    {
+      "verseNo": 21,
+      "source": "diyanet",
+      "text": "O halde, Rabbinizin hangi nimetlerini yalanlıyorsunuz?"
+    },
+    {
+      "verseNo": 21,
+      "source": "okuyan",
+      "text": "Rabbinizin hangi nimetlerini yalanlayabilirsiniz ki!"
+    },
+    {
+      "verseNo": 21,
+      "source": "islamoglu",
+      "text": "o halde Rabbinizin hangi nimetini inkâr edebilirsiniz?"
+    },
+    {
+      "verseNo": 21,
+      "source": "esed",
+      "text": "Öyleyse, Rabbinizin hangi nimet ve kudretini inkar edebilirsiniz"
+    },
+    {
+      "verseNo": 22,
+      "source": "diyanet",
+      "text": "O denizlerin her ikisinden de inci ve mercan çıkar."
+    },
+    {
+      "verseNo": 22,
+      "source": "okuyan",
+      "text": "İkisinden de inci ve mercan çıkar."
+    },
+    {
+      "verseNo": 22,
+      "source": "islamoglu",
+      "text": "O ikisinden inci ve mercan çıkar:"
+    },
+    {
+      "verseNo": 22,
+      "source": "esed",
+      "text": "Bu (su kütle)lerinin ikisinden büyüklü küçüklü inciler çıkar"
+    },
+    {
+      "verseNo": 23,
+      "source": "diyanet",
+      "text": "O halde, Rabbinizin hangi nimetlerini yalanlıyorsunuz?"
+    },
+    {
+      "verseNo": 23,
+      "source": "okuyan",
+      "text": "Rabbinizin hangi nimetlerini yalanlayabilirsiniz ki!"
+    },
+    {
+      "verseNo": 23,
+      "source": "islamoglu",
+      "text": "o halde Rabbinizin hangi nimetini inkâr edebilirsiniz?"
+    },
+    {
+      "verseNo": 23,
+      "source": "esed",
+      "text": "Öyleyse, Rabbinizin hangi nimet ve kudretini inkar edebilirsiniz"
+    },
+    {
+      "verseNo": 24,
+      "source": "diyanet",
+      "text": "Denizde akıp giden dağlar gibi yüksek gemiler de O'nundur."
+    },
+    {
+      "verseNo": 24,
+      "source": "okuyan",
+      "text": "Denizde (akıp giden), dağlar gibi büyük gemiler de yalnızca O’na aittir."
+    },
+    {
+      "verseNo": 24,
+      "source": "islamoglu",
+      "text": "Yüce dağlar gibi denizde hızla akıp giden koca gemiler O’nun (yasalarına) tâbidir:"
+    },
+    {
+      "verseNo": 24,
+      "source": "esed",
+      "text": "Ve (hareket halindeki) dağlar gibi denizler üzerinde yüzüp giden kocaman gemiler O´nundur"
+    },
+    {
+      "verseNo": 25,
+      "source": "diyanet",
+      "text": "O halde, Rabbinizin hangi nimetlerini yalanlıyorsunuz?"
+    },
+    {
+      "verseNo": 25,
+      "source": "okuyan",
+      "text": "Rabbinizin hangi nimetlerini yalanlayabilirsiniz ki!"
+    },
+    {
+      "verseNo": 25,
+      "source": "islamoglu",
+      "text": "o halde Rabbinizin hangi nimetini inkâr edebilirsiniz?"
+    },
+    {
+      "verseNo": 25,
+      "source": "esed",
+      "text": "Peki, öyleyse, Rabbinizin hangi nimet ve kudretini inkar edebilirsiniz"
+    },
+    {
+      "verseNo": 26,
+      "source": "diyanet",
+      "text": "Yer üzerinde bulunan her canlı yok olacaktır."
+    },
+    {
+      "verseNo": 26,
+      "source": "okuyan",
+      "text": "Oradaki (dünyadaki) herkes fanidir."
+    },
+    {
+      "verseNo": 26,
+      "source": "islamoglu",
+      "text": "Oradaki her varlık fânîdir;"
+    },
+    {
+      "verseNo": 26,
+      "source": "esed",
+      "text": "Göklerde ve yerde var olan her şey yok olup gitmeye mahkumdur"
+    },
+    {
+      "verseNo": 27,
+      "source": "diyanet",
+      "text": "Ancak azamet ve ikram sahibi Rabbinin zâtı bâki kalacaktır."
+    },
+    {
+      "verseNo": 27,
+      "source": "okuyan",
+      "text": "Rabbinin yücelik ve cömertlik sahibi olan yüzü (zatı) sonsuz olacaktır."
+    },
+    {
+      "verseNo": 27,
+      "source": "islamoglu",
+      "text": "bâkî kalacak olan azamet ve ihtişam sahibi Rabbinin zatıdır:"
+    },
+    {
+      "verseNo": 27,
+      "source": "esed",
+      "text": "ama kudret ve ihtişam sahibi olan Rabbinizin Zatı sonsuza dek kalıcıdır"
+    },
+    {
+      "verseNo": 28,
+      "source": "diyanet",
+      "text": "O halde, Rabbinizin hangi nimetlerini yalanlıyorsunuz?"
+    },
+    {
+      "verseNo": 28,
+      "source": "okuyan",
+      "text": "Rabbinizin hangi nimetlerini yalanlayabilirsiniz ki!"
+    },
+    {
+      "verseNo": 28,
+      "source": "islamoglu",
+      "text": "o halde Rabbinizin hangi nimetini inkâr edebilirsiniz?"
+    },
+    {
+      "verseNo": 28,
+      "source": "esed",
+      "text": "Öyleyse, Rabbinizin hangi nimet ve kudretini inkar edebilirsiniz"
+    },
+    {
+      "verseNo": 29,
+      "source": "diyanet",
+      "text": "Göklerde ve yerde bulunanlar, (her şeyi) O'ndan isterler. O, her an yeni bir ilahi tasarruftadır."
+    },
+    {
+      "verseNo": 29,
+      "source": "okuyan",
+      "text": "Göklerde ve yerdeki herkes O’ndan ister. O, her gün (her an) bir iştedir."
+    },
+    {
+      "verseNo": 29,
+      "source": "islamoglu",
+      "text": "GÖKLERDE ve yerde bulunan her varlık O’na muhtaçtır; her an O, (hayata ve varlığa dair) her işe müdahildir:"
+    },
+    {
+      "verseNo": 29,
+      "source": "esed",
+      "text": "Göklerde ve yerdeki bütün mevcudat O(nun kanunları)na tabidir: (ve) O, her gün kendini bambaşka (şaşkınlık verici) bir yolla ifade eder"
+    },
+    {
+      "verseNo": 30,
+      "source": "diyanet",
+      "text": "O halde, Rabbinizin hangi nimetlerini yalanlıyorsunuz?"
+    },
+    {
+      "verseNo": 30,
+      "source": "okuyan",
+      "text": "Rabbinizin hangi nimetlerini yalanlayabilirsiniz ki!"
+    },
+    {
+      "verseNo": 30,
+      "source": "islamoglu",
+      "text": "o halde Rabbinizin hangi nimetini inkâr edebilirsiniz?"
+    },
+    {
+      "verseNo": 30,
+      "source": "esed",
+      "text": "Öyleyse, Rabbinizin hangi nimet ve kudretini inkar edebilirsiniz"
+    },
+    {
+      "verseNo": 31,
+      "source": "diyanet",
+      "text": "Yakında sizi de hesaba çekeceğiz, ey cinler ve insanlar!"
+    },
+    {
+      "verseNo": 31,
+      "source": "okuyan",
+      "text": "Ey iki ağırlık sahipleri (cinler ve insanlar)! İleride size yöneleceğiz."
+    },
+    {
+      "verseNo": 31,
+      "source": "islamoglu",
+      "text": "Ey ağır bir yükün altına giren çift: Size ayıracak zamanımız da olacak!"
+    },
+    {
+      "verseNo": 31,
+      "source": "esed",
+      "text": "(Bir gün) sizden hesap soracağız, siz ey günah yüklü çift"
+    },
+    {
+      "verseNo": 32,
+      "source": "diyanet",
+      "text": "O halde, Rabbinizin hangi nimetlerini yalanlıyorsunuz?"
+    },
+    {
+      "verseNo": 32,
+      "source": "okuyan",
+      "text": "Rabbinizin hangi nimetlerini yalanlayabilirsiniz ki!"
+    },
+    {
+      "verseNo": 32,
+      "source": "islamoglu",
+      "text": "o halde Rabbinizin hangi nimetini inkâr edebilirsiniz?"
+    },
+    {
+      "verseNo": 32,
+      "source": "esed",
+      "text": "Bu durumda, Rabbinizin hangi nimet ve kudretini inkar edebilirsiniz"
+    },
+    {
+      "verseNo": 33,
+      "source": "diyanet",
+      "text": "Ey cin ve insan toplulukları! Göklerin ve yerin uçlarından bucaklarından geçip gitmeye gücünüz yeterse geçip gidin. Büyük bir güç olmadıkça geçip gidemezsiniz."
+    },
+    {
+      "verseNo": 33,
+      "source": "okuyan",
+      "text": "Ey cin ve insan topluluğu! Göklerin ve yerin sınırlarından geçip gitmeye gücünüz yetiyorsa geçip gidin! (Allah’ın ikram edeceği) büyük bir güç olmadan geçip gidemezsiniz."
+    },
+    {
+      "verseNo": 33,
+      "source": "islamoglu",
+      "text": "Siz ey görünmez ve görünür varlık (çifti)! Eğer göklerin ve yerin sınırlarını geçebiliyorsanız, durmayın haydi geçin! Bunu, (O’nun bahşettiği) çok özel bir güç sayesinde yapabilirsiniz ancak:"
+    },
+    {
+      "verseNo": 33,
+      "source": "esed",
+      "text": "Siz ey görünmez varlıklar(ın) ve insanlar(ın şerlileriy)le bir arada yaşayanlar! Eğer göklerin ve yerin ötelerine geçebileceğinizi (düşünüyorsanız), haydi geçin! (Ama) onların ötesine geçemezsiniz, (Allah´tan) bir yardım olmazsa"
+    },
+    {
+      "verseNo": 34,
+      "source": "diyanet",
+      "text": "O halde, Rabbinizin hangi nimetlerini yalanlıyorsunuz?"
+    },
+    {
+      "verseNo": 34,
+      "source": "okuyan",
+      "text": "Rabbinizin hangi nimetlerini yalanlayabilirsiniz ki!"
+    },
+    {
+      "verseNo": 34,
+      "source": "islamoglu",
+      "text": "o halde Rabbinizin hangi nimetini inkâr edebilirsiniz?"
+    },
+    {
+      "verseNo": 34,
+      "source": "esed",
+      "text": "Öyleyse, Rabbinizin hangi nimet ve kudretini inkar edebilirsiniz"
+    },
+    {
+      "verseNo": 35,
+      "source": "diyanet",
+      "text": "Üstünüze ateşten yalın bir alevle kıpkızıl bir duman gönderilir de kendinizi koruyamazsınız."
+    },
+    {
+      "verseNo": 35,
+      "source": "okuyan",
+      "text": "Üzerinize ateşten bir alev ve bir duman gönderilir ve (hiçbir yerden) yardım da alamazsınız."
+    },
+    {
+      "verseNo": 35,
+      "source": "islamoglu",
+      "text": "Sizin üzerinize dumanıyla boğup aleviyle yakan tarifsiz bir ateş topu gönderilir ve hiçbir yardım da alamazsınız:"
+    },
+    {
+      "verseNo": 35,
+      "source": "esed",
+      "text": "Bir ateş alevi ve duman üzerinize salınacak ve hiçbir yardım görmeyeceksiniz"
+    },
+    {
+      "verseNo": 36,
+      "source": "diyanet",
+      "text": "O halde, Rabbinizin hangi nimetlerini yalanlıyorsunuz?"
+    },
+    {
+      "verseNo": 36,
+      "source": "okuyan",
+      "text": "Rabbinizin hangi nimetlerini yalanlayabilirsiniz ki!"
+    },
+    {
+      "verseNo": 36,
+      "source": "islamoglu",
+      "text": "o halde Rabbinizin hangi nimetini inkâr edebilirsiniz?"
+    },
+    {
+      "verseNo": 36,
+      "source": "esed",
+      "text": "Bu durumda, Rabbinizin hangi nimet ve kudretini inkar edebilirsiniz"
+    },
+    {
+      "verseNo": 37,
+      "source": "diyanet",
+      "text": "Gök yarılıp da, yanıp kızaran yağ gibi kırmızı gül haline geldiği zaman (haliniz ne olur?)"
+    },
+    {
+      "verseNo": 37,
+      "source": "okuyan",
+      "text": "Gök yarılıp da yağ gibi kırmızı gül (rengini) aldığı zaman (haliniz nasıl olacak)!"
+    },
+    {
+      "verseNo": 37,
+      "source": "islamoglu",
+      "text": "Ve gök yarılınca, göz alıcı kırmızılıkta açılmış bir gül gibi olduğu (görülecek):"
+    },
+    {
+      "verseNo": 37,
+      "source": "esed",
+      "text": "Gök parça parça yarıldığı ve (yanık) yağ gibi kızıllaştığı zaman"
+    },
+    {
+      "verseNo": 38,
+      "source": "diyanet",
+      "text": "O halde, Rabbinizin hangi nimetlerini yalanlıyorsunuz?"
+    },
+    {
+      "verseNo": 38,
+      "source": "okuyan",
+      "text": "Rabbinizin hangi nimetlerini yalanlayabilirsiniz ki!"
+    },
+    {
+      "verseNo": 38,
+      "source": "islamoglu",
+      "text": "o halde Rabbinizin hangi nimetini inkâr edebilirsiniz?"
+    },
+    {
+      "verseNo": 38,
+      "source": "esed",
+      "text": "Hangi nimet ve kudretini inkar edebilirsiniz Rabbinizin"
+    },
+    {
+      "verseNo": 39,
+      "source": "diyanet",
+      "text": "İşte o gün ne insana, ne cine günahı sorulmayacak."
+    },
+    {
+      "verseNo": 39,
+      "source": "okuyan",
+      "text": "İşte o gün kişinin günahından, (başka) hiçbir insan ve cin sorumlu tutulmayacaktır."
+    },
+    {
+      "verseNo": 39,
+      "source": "islamoglu",
+      "text": "O gün, görünen görünmeyen iradeli varlıklardan hiçbirine günahları hakkında sorulmaya (gerek) kalmayacak:"
+    },
+    {
+      "verseNo": 39,
+      "source": "esed",
+      "text": "O Gün ne insana ne de görünmez varlığa günahları hakkında bir şey sorulmayacaktır"
+    },
+    {
+      "verseNo": 40,
+      "source": "diyanet",
+      "text": "O halde, Rabbinizin hangi nimetlerini yalanlıyorsunuz?"
+    },
+    {
+      "verseNo": 40,
+      "source": "okuyan",
+      "text": "Rabbinizin hangi nimetlerini yalanlayabilirsiniz ki!"
+    },
+    {
+      "verseNo": 40,
+      "source": "islamoglu",
+      "text": "o halde Rabbinizin hangi nimetini inkâr edebilirsiniz?"
+    },
+    {
+      "verseNo": 40,
+      "source": "esed",
+      "text": "Öyleyse, Rabbinizin hangi nimet ve kudretini inkar edebilirsiniz"
+    },
+    {
+      "verseNo": 41,
+      "source": "diyanet",
+      "text": "Suçlular simalarından tanınır da, perçemlerinden ve ayaklarından yakalanırlar."
+    },
+    {
+      "verseNo": 41,
+      "source": "okuyan",
+      "text": "Suçlular yüzlerinden tanınacaktır; perçemlerinden ve ayaklarından alınacak (yakalanacak)lardır."
+    },
+    {
+      "verseNo": 41,
+      "source": "islamoglu",
+      "text": "(Zira) günahkârlar alâmetlerinden tanınacak; yaka paça yakalanıp ateşe atılacak:"
+    },
+    {
+      "verseNo": 41,
+      "source": "esed",
+      "text": "Bütün günahkarlar işaretlerinden tanınacak ve alınları ile ayaklarından yakalanacaklar"
+    },
+    {
+      "verseNo": 42,
+      "source": "diyanet",
+      "text": "O halde, Rabbinizin hangi nimetlerini yalanlıyorsunuz?"
+    },
+    {
+      "verseNo": 42,
+      "source": "okuyan",
+      "text": "Rabbinizin hangi nimetlerini yalanlayabilirsiniz ki!"
+    },
+    {
+      "verseNo": 42,
+      "source": "islamoglu",
+      "text": "o halde Rabbinizin hangi nimetini inkâr edebilirsiniz?"
+    },
+    {
+      "verseNo": 42,
+      "source": "esed",
+      "text": "Öyleyse, Rabbinizin hangi nimet ve kudretini inkar edebilirsiniz"
+    },
+    {
+      "verseNo": 43,
+      "source": "diyanet",
+      "text": "İşte bu suçluların yalanladıkları cehennemdir."
+    },
+    {
+      "verseNo": 43,
+      "source": "okuyan",
+      "text": "İşte bu, suçluların yalanladığı cehennemdir."
+    },
+    {
+      "verseNo": 43,
+      "source": "islamoglu",
+      "text": "İşte bu, günahkârların yalanlamış oldukları cehennemdir."
+    },
+    {
+      "verseNo": 43,
+      "source": "esed",
+      "text": "İşte bu, günahkarların (şimdi) yalanladıkları cehennemdir"
+    },
+    {
+      "verseNo": 44,
+      "source": "diyanet",
+      "text": "Onlar, cehennem ateşi ile yüksek derecede kaynar su arasında gider gelirler."
+    },
+    {
+      "verseNo": 44,
+      "source": "okuyan",
+      "text": "Onlar onunla (cehennemle) kaynar su arasında gidip geleceklerdir."
+    },
+    {
+      "verseNo": 44,
+      "source": "islamoglu",
+      "text": "Onlar cehennem ile anında dağlayan bir (umutsuzluk) ateşi arasında mekik dokuyacak:"
+    },
+    {
+      "verseNo": 44,
+      "source": "esed",
+      "text": "onlar, cehennem ile (kendi) yakıcı ümitsizlikleri arasında gidip gelecekler"
+    },
+    {
+      "verseNo": 45,
+      "source": "diyanet",
+      "text": "O halde, Rabbinizin hangi nimetlerini yalanlıyorsunuz?"
+    },
+    {
+      "verseNo": 45,
+      "source": "okuyan",
+      "text": "Rabbinizin hangi nimetlerini yalanlayabilirsiniz ki!"
+    },
+    {
+      "verseNo": 45,
+      "source": "islamoglu",
+      "text": "o halde Rabbinizin hangi nimetini inkâr edebilirsiniz?"
+    },
+    {
+      "verseNo": 45,
+      "source": "esed",
+      "text": "Öyleyse, Rabbinizin hangi nimet ve kudretini inkar edebilirsiniz"
+    },
+    {
+      "verseNo": 46,
+      "source": "diyanet",
+      "text": "Rabbinin huzurunda (hesap vermek üzere) duracağından korkan kimseye iki cennet vardır."
+    },
+    {
+      "verseNo": 46,
+      "source": "okuyan",
+      "text": "Rabbinin makamın(da yargılanmak)tan korkanlara iki cennet vardır."
+    },
+    {
+      "verseNo": 46,
+      "source": "islamoglu",
+      "text": "RABBİNİN mutlak otoritesinden korkup sakınanlara çifte cennetler sunulacak:"
+    },
+    {
+      "verseNo": 46,
+      "source": "esed",
+      "text": "Rablerinin huzuruna korku içinde çıkanlar için iki (cennet) bahçe(si hazırlanmıştır)"
+    },
+    {
+      "verseNo": 47,
+      "source": "diyanet",
+      "text": "O halde, Rabbinizin hangi nimetlerini yalanlıyorsunuz?"
+    },
+    {
+      "verseNo": 47,
+      "source": "okuyan",
+      "text": "Rabbinizin hangi nimetlerini yalanlayabilirsiniz ki!"
+    },
+    {
+      "verseNo": 47,
+      "source": "islamoglu",
+      "text": "o halde Rabbinizin hangi nimetini inkâr edebilirsiniz?"
+    },
+    {
+      "verseNo": 47,
+      "source": "esed",
+      "text": "Öyleyse, hangi nimet ve kudretini inkar edebilirsiniz Rabbinizin"
+    },
+    {
+      "verseNo": 48,
+      "source": "diyanet",
+      "text": "İki cennet de (ağaçlar, meyveler, rengarenk bitkiler gibi) çeşit çeşit güzelliklerle bezenmiştir."
+    },
+    {
+      "verseNo": 48,
+      "source": "okuyan",
+      "text": "(İki cennet de) rengârenktir."
+    },
+    {
+      "verseNo": 48,
+      "source": "islamoglu",
+      "text": "Çeşit çeşit, rengârenk, salkım saçak:"
+    },
+    {
+      "verseNo": 48,
+      "source": "esed",
+      "text": "Türlü türlü harika renkler (ile bezenmiş iki bahçe)"
+    },
+    {
+      "verseNo": 49,
+      "source": "diyanet",
+      "text": "O halde, Rabbinizin hangi nimetlerini yalanlıyorsunuz?"
+    },
+    {
+      "verseNo": 49,
+      "source": "okuyan",
+      "text": "Rabbinizin hangi nimetlerini yalanlayabilirsiniz ki!"
+    },
+    {
+      "verseNo": 49,
+      "source": "islamoglu",
+      "text": "o halde Rabbinizin hangi nimetini inkâr edebilirsiniz?"
+    },
+    {
+      "verseNo": 49,
+      "source": "esed",
+      "text": "Öyleyse, hangi nimet ve kudretini inkar edebilirsiniz Rabbinizin"
+    },
+    {
+      "verseNo": 50,
+      "source": "diyanet",
+      "text": "İçlerinde akan iki pınar vardır."
+    },
+    {
+      "verseNo": 50,
+      "source": "okuyan",
+      "text": "İkisinde de akıp giden iki kaynak vardır."
+    },
+    {
+      "verseNo": 50,
+      "source": "islamoglu",
+      "text": "O çifte cennetlerden iki çağlayan akacak:"
+    },
+    {
+      "verseNo": 50,
+      "source": "esed",
+      "text": "Bu iki (bahçenin her birin)de iki çeşme akacak"
+    },
+    {
+      "verseNo": 51,
+      "source": "diyanet",
+      "text": "O halde, Rabbinizin hangi nimetlerini yalanlıyorsunuz?"
+    },
+    {
+      "verseNo": 51,
+      "source": "okuyan",
+      "text": "Rabbinizin hangi nimetlerini yalanlayabilirsiniz ki!"
+    },
+    {
+      "verseNo": 51,
+      "source": "islamoglu",
+      "text": "o halde Rabbinizin hangi nimetini inkâr edebilirsiniz?"
+    },
+    {
+      "verseNo": 51,
+      "source": "esed",
+      "text": "Öyleyse, Rabbinizin hangi nimet ve kudretini inkar edebilirsiniz"
+    },
+    {
+      "verseNo": 52,
+      "source": "diyanet",
+      "text": "İkisinde de her meyveden çift çift vardır."
+    },
+    {
+      "verseNo": 52,
+      "source": "okuyan",
+      "text": "İkisinde de her türlü meyveden çiftler vardır."
+    },
+    {
+      "verseNo": 52,
+      "source": "islamoglu",
+      "text": "O iki cennette her üründen çifter çifter çıkacak:"
+    },
+    {
+      "verseNo": 52,
+      "source": "esed",
+      "text": "İkisinde de her meyveden iki cins bulunacak"
+    },
+    {
+      "verseNo": 53,
+      "source": "diyanet",
+      "text": "O halde, Rabbinizin hangi nimetlerini yalanlıyorsunuz?"
+    },
+    {
+      "verseNo": 53,
+      "source": "okuyan",
+      "text": "Rabbinizin hangi nimetlerini yalanlayabilirsiniz ki!"
+    },
+    {
+      "verseNo": 53,
+      "source": "islamoglu",
+      "text": "o halde Rabbinizin hangi nimetini inkâr edebilirsiniz?"
+    },
+    {
+      "verseNo": 53,
+      "source": "esed",
+      "text": "Öyleyse, Rabbinizin hangi nimet ve kudretini inkar edebilirsiniz"
+    },
+    {
+      "verseNo": 54,
+      "source": "diyanet",
+      "text": "Onlar astarları kalın ipekten olan döşeklere yaslanırlar. Bu iki cennetin meyveleri (zahmetsizce alınacak kadar) yakındır."
+    },
+    {
+      "verseNo": 54,
+      "source": "okuyan",
+      "text": "(Cennetlikler) içleri ipek kumaştan oluşan döşeklere yaslanmış olacaklardır. İki cennetin meyveleri (cennetliklere) yakındır."
+    },
+    {
+      "verseNo": 54,
+      "source": "islamoglu",
+      "text": "Onlar çözgüsü ve atkısı (dahi) ipekten mamul atlas halılara uzanacak; o çifte cennetlerin (muhteşem) ürünleri (kendilerine) çok yakın olacak:"
+    },
+    {
+      "verseNo": 54,
+      "source": "esed",
+      "text": "(İşte böyle bir cennette, kutsananlar) atlastan dokunmuş halılara uzanarak (hayat sürecekler); ve bu iki bahçenin meyvesi kolayca erişebilecekleri yerde bulunacak"
+    },
+    {
+      "verseNo": 55,
+      "source": "diyanet",
+      "text": "O halde, Rabbinizin hangi nimetlerini yalanlıyorsunuz?"
+    },
+    {
+      "verseNo": 55,
+      "source": "okuyan",
+      "text": "Rabbinizin hangi nimetlerini yalanlayabilirsiniz ki!"
+    },
+    {
+      "verseNo": 55,
+      "source": "islamoglu",
+      "text": "o halde Rabbinizin hangi nimetini inkâr edebilirsiniz?"
+    },
+    {
+      "verseNo": 55,
+      "source": "esed",
+      "text": "Öyleyse, Rabbinizin hangi nimet ve kudretini inkar edebilirsiniz"
+    },
+    {
+      "verseNo": 56,
+      "source": "diyanet",
+      "text": "Oralarda bakışlarını sadece eşlerine çevirmiş dilberler vardır. Onlara eşlerinden önce ne bir insan, ne bir cin dokunmuştur."
+    },
+    {
+      "verseNo": 56,
+      "source": "okuyan",
+      "text": "Oralarda (cennetlerde) bakışlarını (yalnızca eşlerine) kısanlar (çevirenler) var ki onlardan (cennetliklerden) önce kendilerine hiçbir insan ve cin dokunmamıştır."
+    },
+    {
+      "verseNo": 56,
+      "source": "islamoglu",
+      "text": "Bu (cennetlerde), daha önce görünür görünmez hiçbir varlığın dokunmadığı, gözü dışarıda olmayan eşler olacak:"
+    },
+    {
+      "verseNo": 56,
+      "source": "esed",
+      "text": "Bu (bahçe)lerde, ne insanın ne de görünmez bir varlığın daha önce hiç dokunmadığı yumuşak bakışlı eşler bulunacak"
+    },
+    {
+      "verseNo": 57,
+      "source": "diyanet",
+      "text": "O halde, Rabbinizin hangi nimetlerini yalanlıyorsunuz?"
+    },
+    {
+      "verseNo": 57,
+      "source": "okuyan",
+      "text": "Rabbinizin hangi nimetlerini yalanlayabilirsiniz ki!"
+    },
+    {
+      "verseNo": 57,
+      "source": "islamoglu",
+      "text": "o halde Rabbinizin hangi nimetini inkâr edebilirsiniz?"
+    },
+    {
+      "verseNo": 57,
+      "source": "esed",
+      "text": "Öyleyse, hangi nimet ve kudretini inkar edebilirsiniz Rabbinizin"
+    },
+    {
+      "verseNo": 58,
+      "source": "diyanet",
+      "text": "Onlar sanki yakut ve mercandır."
+    },
+    {
+      "verseNo": 58,
+      "source": "okuyan",
+      "text": "Onlar (cennetteki eşleri) yakut ve mercan gibidir."
+    },
+    {
+      "verseNo": 58,
+      "source": "islamoglu",
+      "text": "Sanki o eşler yakut ve mercan gibi (birbirine yakışan) güzellikleriyle (göz kamaştıracak):"
+    },
+    {
+      "verseNo": 58,
+      "source": "esed",
+      "text": "İncilerin ve yakutların (güzelliği) gibi (muhteşem güzellikler vaad edildiği zaman)"
+    },
+    {
+      "verseNo": 59,
+      "source": "diyanet",
+      "text": "O halde, Rabbinizin hangi nimetlerini yalanlıyorsunuz?"
+    },
+    {
+      "verseNo": 59,
+      "source": "okuyan",
+      "text": "Rabbinizin hangi nimetlerini yalanlayabilirsiniz ki!"
+    },
+    {
+      "verseNo": 59,
+      "source": "islamoglu",
+      "text": "o halde Rabbinizin hangi nimetini inkâr edebilirsiniz?"
+    },
+    {
+      "verseNo": 59,
+      "source": "esed",
+      "text": "hangi nimet ve kudretini inkar edebilirsiniz Rabbinizin"
+    },
+    {
+      "verseNo": 60,
+      "source": "diyanet",
+      "text": "İyiliğin karşılığı, yalnız iyiliktir."
+    },
+    {
+      "verseNo": 60,
+      "source": "okuyan",
+      "text": "İyiliğin karşılığı iyilikten başka nedir ki!"
+    },
+    {
+      "verseNo": 60,
+      "source": "islamoglu",
+      "text": "İyi olmanın karşılığı iyi (bulmak) değil de nedir:"
+    },
+    {
+      "verseNo": 60,
+      "source": "esed",
+      "text": "İyiliğin karşılığı iyilikten başka bir şey olabilir mi"
+    },
+    {
+      "verseNo": 61,
+      "source": "diyanet",
+      "text": "O halde, Rabbinizin hangi nimetlerini yalanlıyorsunuz?"
+    },
+    {
+      "verseNo": 61,
+      "source": "okuyan",
+      "text": "Rabbinizin hangi nimetlerini yalanlayabilirsiniz ki!"
+    },
+    {
+      "verseNo": 61,
+      "source": "islamoglu",
+      "text": "o halde Rabbinizin hangi nimetini inkâr edebilirsiniz?"
+    },
+    {
+      "verseNo": 61,
+      "source": "esed",
+      "text": "O halde, hangi nimet ve kudretini inkar edebilirsiniz Rabbinizin"
+    },
+    {
+      "verseNo": 62,
+      "source": "diyanet",
+      "text": "Bu iki cennetten başka iki cennet daha vardır."
+    },
+    {
+      "verseNo": 62,
+      "source": "okuyan",
+      "text": "Bu ikisinden başka iki cennet daha vardır."
+    },
+    {
+      "verseNo": 62,
+      "source": "islamoglu",
+      "text": "O cennet çiftinin berisinde, daha başka çifte cennetler:"
+    },
+    {
+      "verseNo": 62,
+      "source": "esed",
+      "text": "Ve o ikisinin yanında (başka) iki bahçe daha olacak"
+    },
+    {
+      "verseNo": 63,
+      "source": "diyanet",
+      "text": "O halde, Rabbinizin hangi nimetlerini yalanlıyorsunuz?"
+    },
+    {
+      "verseNo": 63,
+      "source": "okuyan",
+      "text": "Rabbinizin hangi nimetlerini yalanlayabilirsiniz ki!"
+    },
+    {
+      "verseNo": 63,
+      "source": "islamoglu",
+      "text": "o halde Rabbinizin hangi nimetini inkâr edebilirsiniz?"
+    },
+    {
+      "verseNo": 63,
+      "source": "esed",
+      "text": "o halde, hangi nimet ve kudretini inkar edebilirsiniz Rabbinizin"
+    },
+    {
+      "verseNo": 64,
+      "source": "diyanet",
+      "text": "O iki cennet koyu yeşil renktedir."
+    },
+    {
+      "verseNo": 64,
+      "source": "okuyan",
+      "text": "(Bu cennetler) koyu yeşildir."
+    },
+    {
+      "verseNo": 64,
+      "source": "islamoglu",
+      "text": "Uzayıp giden (göz alıcı) çifte yeşillikler:"
+    },
+    {
+      "verseNo": 64,
+      "source": "esed",
+      "text": "Yemyeşil iki (bahçe)"
+    },
+    {
+      "verseNo": 65,
+      "source": "diyanet",
+      "text": "O halde, Rabbinizin hangi nimetlerini yalanlıyorsunuz?"
+    },
+    {
+      "verseNo": 65,
+      "source": "okuyan",
+      "text": "Rabbinizin hangi nimetlerini yalanlayabilirsiniz ki!"
+    },
+    {
+      "verseNo": 65,
+      "source": "islamoglu",
+      "text": "o halde Rabbinizin hangi nimetini inkâr edebilirsiniz?"
+    },
+    {
+      "verseNo": 65,
+      "source": "esed",
+      "text": "O halde, hangi nimet ve kudretini inkar edebilirsiniz Rabbinizin"
+    },
+    {
+      "verseNo": 66,
+      "source": "diyanet",
+      "text": "İçlerinde kaynayan iki pınar vardır."
+    },
+    {
+      "verseNo": 66,
+      "source": "okuyan",
+      "text": "İkisinde de fışkırmakta olan iki kaynak vardır."
+    },
+    {
+      "verseNo": 66,
+      "source": "islamoglu",
+      "text": "Bu cennet çiftinde (billurdan) sular fışkırtan iki fıskiye olacak:"
+    },
+    {
+      "verseNo": 66,
+      "source": "esed",
+      "text": "Bu iki (bahçe)nin (her birinde) iki kaynak fışkıracak"
+    },
+    {
+      "verseNo": 67,
+      "source": "diyanet",
+      "text": "O halde, Rabbinizin hangi nimetlerini yalanlıyorsunuz?"
+    },
+    {
+      "verseNo": 67,
+      "source": "okuyan",
+      "text": "Rabbinizin hangi nimetlerini yalanlayabilirsiniz ki!"
+    },
+    {
+      "verseNo": 67,
+      "source": "islamoglu",
+      "text": "o halde Rabbinizin hangi nimetini inkâr edebilirsiniz?"
+    },
+    {
+      "verseNo": 67,
+      "source": "esed",
+      "text": "O halde, hangi nimet ve kudretini inkar edebilirsiniz Rabbinizin"
+    },
+    {
+      "verseNo": 68,
+      "source": "diyanet",
+      "text": "İçlerinde her türlü meyve, hurma ve nar vardır."
+    },
+    {
+      "verseNo": 68,
+      "source": "okuyan",
+      "text": "İkisinde de her türlü meyve, hurma ve nar vardır."
+    },
+    {
+      "verseNo": 68,
+      "source": "islamoglu",
+      "text": "Bu çifte cennette (lezzetin kemalini temsil eden) meyveler, hurma ve çekirdeksiz nar bulunacak:"
+    },
+    {
+      "verseNo": 68,
+      "source": "esed",
+      "text": "Onların ikisinde de (çeşit çeşit meyveler), hurmalar ve narlar olacak"
+    },
+    {
+      "verseNo": 69,
+      "source": "diyanet",
+      "text": "O halde, Rabbinizin hangi nimetlerini yalanlıyorsunuz?"
+    },
+    {
+      "verseNo": 69,
+      "source": "okuyan",
+      "text": "Rabbinizin hangi nimetlerini yalanlayabilirsiniz ki!"
+    },
+    {
+      "verseNo": 69,
+      "source": "islamoglu",
+      "text": "o halde Rabbinizin hangi nimetini inkâr edebilirsiniz?"
+    },
+    {
+      "verseNo": 69,
+      "source": "esed",
+      "text": "O halde, hangi nimet ve kudretini inkar edebilirsiniz Rabbinizin"
+    },
+    {
+      "verseNo": 70,
+      "source": "diyanet",
+      "text": "Onlarda huyları güzel, yüzleri güzel dilberler vardır."
+    },
+    {
+      "verseNo": 70,
+      "source": "okuyan",
+      "text": "Oralarda (cennetlerde) güzel hayırlılar (eşler) vardır."
+    },
+    {
+      "verseNo": 70,
+      "source": "islamoglu",
+      "text": "Orada (her şeyin) en mükemmeli, en güzeli olacak:"
+    },
+    {
+      "verseNo": 70,
+      "source": "esed",
+      "text": "Ve bu (bahçeler)de (her)şeyin en muhteşemi ve en güzeli bulunacak"
+    },
+    {
+      "verseNo": 71,
+      "source": "diyanet",
+      "text": "O halde, Rabbinizin hangi nimetlerini yalanlıyorsunuz?"
+    },
+    {
+      "verseNo": 71,
+      "source": "okuyan",
+      "text": "Rabbinizin hangi nimetlerini yalanlayabilirsiniz ki!"
+    },
+    {
+      "verseNo": 71,
+      "source": "islamoglu",
+      "text": "o halde Rabbinizin hangi nimetini inkâr edebilirsiniz?"
+    },
+    {
+      "verseNo": 71,
+      "source": "esed",
+      "text": "O halde, hangi nimet ve kudretini inkar edebilirsiniz Rabbinizin"
+    },
+    {
+      "verseNo": 72,
+      "source": "diyanet",
+      "text": "Onlar, çadırlara kapanmış hurilerdir."
+    },
+    {
+      "verseNo": 72,
+      "source": "okuyan",
+      "text": "Otağlar (çadırlar) içinde (cennetliklere) özel huriler (vardır)."
+    },
+    {
+      "verseNo": 72,
+      "source": "islamoglu",
+      "text": "Çardaklar içinde, gözü gönlü dışarıda olmayan pırıl pırıl eşler:"
+    },
+    {
+      "verseNo": 72,
+      "source": "esed",
+      "text": "(Kutsananlar, orada, harika) çadırlarda saf ve çekingen, yumuşak huylu eşleri (ile birlikte yaşayacaklar)"
+    },
+    {
+      "verseNo": 73,
+      "source": "diyanet",
+      "text": "O halde, Rabbinizin hangi nimetlerini yalanlıyorsunuz?"
+    },
+    {
+      "verseNo": 73,
+      "source": "okuyan",
+      "text": "Rabbinizin hangi nimetlerini yalanlayabilirsiniz ki!"
+    },
+    {
+      "verseNo": 73,
+      "source": "islamoglu",
+      "text": "o halde Rabbinizin hangi nimetini inkâr edebilirsiniz?"
+    },
+    {
+      "verseNo": 73,
+      "source": "esed",
+      "text": "O halde, hangi nimet ve kudretini inkar edebilirsiniz Rabbinizin"
+    },
+    {
+      "verseNo": 74,
+      "source": "diyanet",
+      "text": "Onlara, eşlerinden önce ne bir insan ne bir cin dokunmuştur."
+    },
+    {
+      "verseNo": 74,
+      "source": "okuyan",
+      "text": "Onlardan (cennetliklerden) önce kendilerine hiçbir insan ve cin dokunmamıştır."
+    },
+    {
+      "verseNo": 74,
+      "source": "islamoglu",
+      "text": "Daha önce görünür görünmez hiçbir varlığın dokunmadığı eşler:"
+    },
+    {
+      "verseNo": 74,
+      "source": "esed",
+      "text": "Daha önce ne bir insanın ne de görünmez varlığın dokunmadığı (eşler)"
+    },
+    {
+      "verseNo": 75,
+      "source": "diyanet",
+      "text": "O halde, Rabbinizin hangi nimetlerini yalanlıyorsunuz?"
+    },
+    {
+      "verseNo": 75,
+      "source": "okuyan",
+      "text": "Rabbinizin hangi nimetlerini yalanlayabilirsiniz ki!"
+    },
+    {
+      "verseNo": 75,
+      "source": "islamoglu",
+      "text": "o halde Rabbinizin hangi nimetini inkâr edebilirsiniz?"
+    },
+    {
+      "verseNo": 75,
+      "source": "esed",
+      "text": "O halde, hangi nimet ve kudretini inkar edebilirsiniz Rabbinizin"
+    },
+    {
+      "verseNo": 76,
+      "source": "diyanet",
+      "text": "Onlar yeşil yastıklara ve güzel yaygılara yaslanırlar, (nimetlenirler)."
+    },
+    {
+      "verseNo": 76,
+      "source": "okuyan",
+      "text": "(Orada) yeşil çimenlere ve çok güzel yaygılara (halılara) yaslanmış bir hâlde (olacaklar)dır."
+    },
+    {
+      "verseNo": 76,
+      "source": "islamoglu",
+      "text": "Onlar tarifsiz yemyeşil örtüler ve efsanevî güzellikte sergiler üzerinde uzanacak:"
+    },
+    {
+      "verseNo": 76,
+      "source": "esed",
+      "text": "(Onlar, böyle bir cennette) yeşil çimenler ve harikulade güzellikte halılar üzerinde uzanarak (hayat sürecekler)"
+    },
+    {
+      "verseNo": 77,
+      "source": "diyanet",
+      "text": "O halde, Rabbinizin hangi nimetlerini yalanlıyorsunuz?"
+    },
+    {
+      "verseNo": 77,
+      "source": "okuyan",
+      "text": "Rabbinizin hangi nimetlerini yalanlayabilirsiniz ki!"
+    },
+    {
+      "verseNo": 77,
+      "source": "islamoglu",
+      "text": "o halde Rabbinizin hangi nimetini inkâr edebilirsiniz?"
+    },
+    {
+      "verseNo": 77,
+      "source": "esed",
+      "text": "O halde, hangi nimet ve kudretini inkar edebilirsiniz Rabbinizin"
+    },
+    {
+      "verseNo": 78,
+      "source": "diyanet",
+      "text": "Azamet ve ikram sahibi Rabbinin adı yücedir."
+    },
+    {
+      "verseNo": 78,
+      "source": "okuyan",
+      "text": "Yücelik ve cömertlik sahibi Rabbinin adı yüceler yücesidir."
+    },
+    {
+      "verseNo": 78,
+      "source": "islamoglu",
+      "text": "AZAMET ve sonsuz ikram sahibi Rabbinin şânı pek yücedir!"
+    },
+    {
+      "verseNo": 78,
+      "source": "esed",
+      "text": "İhtişam sahibi ve kerim Rabbinin ismi ne yücedir"
+    },
+    {
+      "verseNo": 1,
+      "verseNoEnd": null,
+      "source": "ai",
+      "text": "Rahmân"
+    },
+    {
+      "verseNo": 2,
+      "verseNoEnd": null,
+      "source": "ai",
+      "text": "Kur'anı öğretti."
+    },
+    {
+      "verseNo": 3,
+      "verseNoEnd": null,
+      "source": "ai",
+      "text": "İnsanı yarattı."
+    },
+    {
+      "verseNo": 4,
+      "verseNoEnd": null,
+      "source": "ai",
+      "text": "Ona ifade etmeyi öğretti."
+    },
+    {
+      "verseNo": 5,
+      "verseNoEnd": null,
+      "source": "ai",
+      "text": "Güneş ve ay bir hesap içindedir."
+    },
+    {
+      "verseNo": 6,
+      "verseNoEnd": null,
+      "source": "ai",
+      "text": "Yıldızlar ve ağaçlar secde ederler."
+    },
+    {
+      "verseNo": 7,
+      "verseNoEnd": null,
+      "source": "ai",
+      "text": "Göğü yükseltti ve teraziyi koydu."
+    },
+    {
+      "verseNo": 8,
+      "verseNoEnd": null,
+      "source": "ai",
+      "text": "Terazide haddi aşmayın."
+    },
+    {
+      "verseNo": 9,
+      "verseNoEnd": null,
+      "source": "ai",
+      "text": "Ağırlığı adaletle koyun ve teraziyi eksiltmeyin."
+    },
+    {
+      "verseNo": 10,
+      "verseNoEnd": null,
+      "source": "ai",
+      "text": "Yeri de canlılar için koydu."
+    },
+    {
+      "verseNo": 11,
+      "verseNoEnd": null,
+      "source": "ai",
+      "text": "Orada meyveler ve salkımlı hurma ağaçları vardır."
+    },
+    {
+      "verseNo": 12,
+      "verseNoEnd": null,
+      "source": "ai",
+      "text": "Ve başaklı tahıllar ve reyhan vardır."
+    },
+    {
+      "verseNo": 13,
+      "verseNoEnd": null,
+      "source": "ai",
+      "text": "Öyleyse Rabbinizin hangi nimetlerini inkâr ediyorsunuz?"
+    },
+    {
+      "verseNo": 14,
+      "verseNoEnd": null,
+      "source": "ai",
+      "text": "İnsanı çamurdan, çömlek gibi yarattı."
+    },
+    {
+      "verseNo": 15,
+      "verseNoEnd": null,
+      "source": "ai",
+      "text": "Ve cinleri ateşten yarattı."
+    },
+    {
+      "verseNo": 16,
+      "verseNoEnd": null,
+      "source": "ai",
+      "text": "Öyleyse Rabbinizin hangi nimetlerini inkâr ediyorsunuz?"
+    },
+    {
+      "verseNo": 17,
+      "verseNoEnd": null,
+      "source": "ai",
+      "text": "İki doğunun Rabbi ve iki batının Rabbi."
+    },
+    {
+      "verseNo": 18,
+      "verseNoEnd": null,
+      "source": "ai",
+      "text": "Öyleyse Rabbinizin hangi nimetlerini inkâr ediyorsunuz?"
+    },
+    {
+      "verseNo": 19,
+      "verseNoEnd": null,
+      "source": "ai",
+      "text": "İki denizi saldı; birleşirler."
+    },
+    {
+      "verseNo": 20,
+      "verseNoEnd": null,
+      "source": "ai",
+      "text": "Aralarında birbirine geçit olmayan bir set vardır."
+    },
+    {
+      "verseNo": 21,
+      "verseNoEnd": null,
+      "source": "ai",
+      "text": "Öyleyse Rabbinizin hangi nimetlerini inkâr ediyorsunuz?"
+    },
+    {
+      "verseNo": 22,
+      "verseNoEnd": null,
+      "source": "ai",
+      "text": "Onlardan inci ve mercan çıkar."
+    },
+    {
+      "verseNo": 23,
+      "verseNoEnd": null,
+      "source": "ai",
+      "text": "Öyleyse Rabbinizin hangi nimetlerini inkâr ediyorsunuz?"
+    },
+    {
+      "verseNo": 24,
+      "verseNoEnd": null,
+      "source": "ai",
+      "text": "Ve denizde hareket eden gemiler de O'nundur; sanki işaretler gibidir."
+    },
+    {
+      "verseNo": 25,
+      "verseNoEnd": null,
+      "source": "ai",
+      "text": "Öyleyse Rabbinizin hangi nimetlerini inkâr ediyorsunuz?"
+    },
+    {
+      "verseNo": 26,
+      "verseNoEnd": null,
+      "source": "ai",
+      "text": "Onun üzerinde olan herkes yok olacaktır."
+    },
+    {
+      "verseNo": 27,
+      "verseNoEnd": null,
+      "source": "ai",
+      "text": "Rabbinin yüzü baki kalacaktır; o yücelik ve ikram sahibidir."
+    },
+    {
+      "verseNo": 28,
+      "verseNoEnd": null,
+      "source": "ai",
+      "text": "Öyleyse Rabbinizin hangi nimetlerini inkâr ediyorsunuz?"
+    },
+    {
+      "verseNo": 29,
+      "verseNoEnd": null,
+      "source": "ai",
+      "text": "Göklerde ve yerde olan herkes O'ndan ister; O her gün bir işle meşguldür."
+    },
+    {
+      "verseNo": 30,
+      "verseNoEnd": null,
+      "source": "ai",
+      "text": "Öyleyse Rabbinizin hangi nimetlerini inkâr ediyorsunuz?"
+    },
+    {
+      "verseNo": 31,
+      "verseNoEnd": null,
+      "source": "ai",
+      "text": "Sizinle ilgileneceğiz ey iki varlık!"
+    },
+    {
+      "verseNo": 32,
+      "verseNoEnd": null,
+      "source": "ai",
+      "text": "Rabbinizin hangi nimetlerini inkâr edersiniz?"
+    },
+    {
+      "verseNo": 33,
+      "verseNoEnd": null,
+      "source": "ai",
+      "text": "Ey cin ve insan topluluğu! Eğer göklerin ve yerin sınırlarından geçmeye gücünüz yetiyorsa geçin; ancak bir yetki olmadan geçemezsiniz."
+    },
+    {
+      "verseNo": 34,
+      "verseNoEnd": null,
+      "source": "ai",
+      "text": "Rabbinizin hangi nimetlerini inkâr edersiniz?"
+    },
+    {
+      "verseNo": 35,
+      "verseNoEnd": null,
+      "source": "ai",
+      "text": "Üzerinize ateşten alevler ve erimiş bakır gönderilir; o zaman kendinizi koruyamazsınız."
+    },
+    {
+      "verseNo": 36,
+      "verseNoEnd": null,
+      "source": "ai",
+      "text": "Rabbinizin hangi nimetlerini inkâr edersiniz?"
+    },
+    {
+      "verseNo": 37,
+      "verseNoEnd": null,
+      "source": "ai",
+      "text": "Gök yarıldığında gül rengi gibi olacak, yağ gibi."
+    },
+    {
+      "verseNo": 38,
+      "verseNoEnd": null,
+      "source": "ai",
+      "text": "Rabbinizin hangi nimetlerini inkâr edersiniz?"
+    },
+    {
+      "verseNo": 39,
+      "verseNoEnd": null,
+      "source": "ai",
+      "text": "O gün ne insan ne de cin günahı hakkında sorgulanacaktır."
+    },
+    {
+      "verseNo": 40,
+      "verseNoEnd": null,
+      "source": "ai",
+      "text": "Rabbinizin hangi nimetlerini inkâr edersiniz?"
+    },
+    {
+      "verseNo": 41,
+      "verseNoEnd": null,
+      "source": "ai",
+      "text": "Suçlular izleriyle tanınırlar; sonra saçlarının tutamlarından ve ayaklarından yakalanırlar."
+    },
+    {
+      "verseNo": 42,
+      "verseNoEnd": null,
+      "source": "ai",
+      "text": "Rabbinizin hangi nimetlerini inkâr ediyorsunuz?"
+    },
+    {
+      "verseNo": 43,
+      "verseNoEnd": null,
+      "source": "ai",
+      "text": "İşte bu, suçluların yalanladığı cehennemdir."
+    },
+    {
+      "verseNo": 44,
+      "verseNoEnd": null,
+      "source": "ai",
+      "text": "Onlar cehennem ile kaynar su arasında dolaşıp dururlar."
+    },
+    {
+      "verseNo": 45,
+      "verseNoEnd": null,
+      "source": "ai",
+      "text": "Rabbinizin hangi nimetlerini inkâr ediyorsunuz?"
+    },
+    {
+      "verseNo": 46,
+      "verseNoEnd": null,
+      "source": "ai",
+      "text": "Rabbinin huzurunda bulunmaktan korkan kimse için iki cennet vardır."
+    },
+    {
+      "verseNo": 47,
+      "verseNoEnd": null,
+      "source": "ai",
+      "text": "Rabbinizin hangi nimetlerini inkâr ediyorsunuz?"
+    },
+    {
+      "verseNo": 48,
+      "verseNoEnd": null,
+      "source": "ai",
+      "text": "İkisi dallarla gölgelenmiş."
+    },
+    {
+      "verseNo": 49,
+      "verseNoEnd": null,
+      "source": "ai",
+      "text": "Rabbinizin hangi nimetlerini inkâr ediyorsunuz?"
+    },
+    {
+      "verseNo": 50,
+      "verseNoEnd": null,
+      "source": "ai",
+      "text": "İkisinde iki pınar akar."
+    },
+    {
+      "verseNo": 51,
+      "verseNoEnd": null,
+      "source": "ai",
+      "text": "Peki Rabbinizin hangi nimetlerini inkâr ediyorsunuz?"
+    },
+    {
+      "verseNo": 52,
+      "verseNoEnd": null,
+      "source": "ai",
+      "text": "İçlerinde her türlü meyveden çiftler vardır."
+    },
+    {
+      "verseNo": 53,
+      "verseNoEnd": null,
+      "source": "ai",
+      "text": "Peki Rabbinizin hangi nimetlerini inkâr ediyorsunuz?"
+    },
+    {
+      "verseNo": 54,
+      "verseNoEnd": null,
+      "source": "ai",
+      "text": "Döşemelere yaslanmışlardır; örtülerinin içi işlemeli ipektendir; iki cennetin meyveleri ise sarkıktır."
+    },
+    {
+      "verseNo": 55,
+      "verseNoEnd": null,
+      "source": "ai",
+      "text": "Peki Rabbinizin hangi nimetlerini inkâr ediyorsunuz?"
+    },
+    {
+      "verseNo": 56,
+      "verseNoEnd": null,
+      "source": "ai",
+      "text": "Onlarda bakışlarını dizginleyenler vardır; ne bir insan daha önce onlara dokunmuştur, ne de bir cin."
+    },
+    {
+      "verseNo": 57,
+      "verseNoEnd": null,
+      "source": "ai",
+      "text": "Peki Rabbinizin hangi nimetlerini inkâr ediyorsunuz?"
+    },
+    {
+      "verseNo": 58,
+      "verseNoEnd": null,
+      "source": "ai",
+      "text": "Sanki onlar yakut ve mercan gibidir."
+    },
+    {
+      "verseNo": 59,
+      "verseNoEnd": null,
+      "source": "ai",
+      "text": "Peki Rabbinizin hangi nimetlerini inkâr ediyorsunuz?"
+    },
+    {
+      "verseNo": 60,
+      "verseNoEnd": null,
+      "source": "ai",
+      "text": "İyiliğin karşılığı ancak iyiliktir."
+    },
+    {
+      "verseNo": 61,
+      "verseNoEnd": null,
+      "source": "ai",
+      "text": "Peki Rabbinizin hangi nimetlerini inkâr ediyorsunuz?"
+    },
+    {
+      "verseNo": 62,
+      "verseNoEnd": null,
+      "source": "ai",
+      "text": "Onların dışında iki cennet vardır."
+    },
+    {
+      "verseNo": 63,
+      "verseNoEnd": null,
+      "source": "ai",
+      "text": "Peki Rabbinizin hangi nimetlerini inkâr ediyorsunuz?"
+    },
+    {
+      "verseNo": 64,
+      "verseNoEnd": null,
+      "source": "ai",
+      "text": "İkisi koyu yeşildir."
+    },
+    {
+      "verseNo": 65,
+      "verseNoEnd": null,
+      "source": "ai",
+      "text": "Peki Rabbinizin hangi nimetlerini inkâr ediyorsunuz?"
+    },
+    {
+      "verseNo": 66,
+      "verseNoEnd": null,
+      "source": "ai",
+      "text": "İçlerinde iki tane bolca fışkıran pınar vardır."
+    },
+    {
+      "verseNo": 67,
+      "verseNoEnd": null,
+      "source": "ai",
+      "text": "Peki Rabbinizin hangi nimetlerini inkâr ediyorsunuz?"
+    },
+    {
+      "verseNo": 68,
+      "verseNoEnd": null,
+      "source": "ai",
+      "text": "İçlerinde meyveler, hurma ağaçları ve narlar vardır."
+    },
+    {
+      "verseNo": 69,
+      "verseNoEnd": null,
+      "source": "ai",
+      "text": "Peki Rabbinizin hangi nimetlerini inkâr ediyorsunuz?"
+    },
+    {
+      "verseNo": 70,
+      "verseNoEnd": null,
+      "source": "ai",
+      "text": "Onlarda güzel, bol nimetler vardır."
+    },
+    {
+      "verseNo": 71,
+      "verseNoEnd": null,
+      "source": "ai",
+      "text": "Peki, Rabbinizin hangi nimetlerini inkâr edersiniz?"
+    },
+    {
+      "verseNo": 72,
+      "verseNoEnd": null,
+      "source": "ai",
+      "text": "Çadırlarda kapalı huriler."
+    },
+    {
+      "verseNo": 73,
+      "verseNoEnd": null,
+      "source": "ai",
+      "text": "Peki, Rabbinizin hangi nimetlerini inkâr edersiniz?"
+    },
+    {
+      "verseNo": 74,
+      "verseNoEnd": null,
+      "source": "ai",
+      "text": "Daha önce ne bir insan ne de bir cin onlara dokunmuştur."
+    },
+    {
+      "verseNo": 75,
+      "verseNoEnd": null,
+      "source": "ai",
+      "text": "Peki, Rabbinizin hangi nimetlerini inkâr edersiniz?"
+    },
+    {
+      "verseNo": 76,
+      "verseNoEnd": null,
+      "source": "ai",
+      "text": "Yeşil minderlere yaslanmış, güzel işçilikli zarif halılar üzerinde."
+    },
+    {
+      "verseNo": 77,
+      "verseNoEnd": null,
+      "source": "ai",
+      "text": "Peki, Rabbinizin hangi nimetlerini inkâr edersiniz?"
+    },
+    {
+      "verseNo": 78,
+      "verseNoEnd": null,
+      "source": "ai",
+      "text": "Rabbinin adı mübarek, yücelik ve ikram sahibidir."
+    }
+  ],
+  "aiParagraph": "Güneşin her gün aynı yoldan doğması, iki denizin birbirine karışmaması, tohumun kabuğunu yarıp çıkması — bunların hiçbiri kendiliğinden olmaz; metin, tüm bunların arkasında bir denge olduğunu ve bu dengenin insana da geçtiğini söylüyor. İnsan, pişmiş topraktan yoğrulmuş, ama ona dil verilmiş: düşüncesini söze dökme, anladığını aktarma, anlam kurma yetisi. İşte tam burada metin bir şey soruyor — ince ama keskin bir soru, defalarca tekrarlayarak: hangi nimeti yalanlıyorsun? Bu soru bir suçlama değil; daha çok, elindekini görmezden gelme alışkanlığını yüzüne tutan bir ayna. Metin boyunca sıralanan her şey — yeryüzünün bolluğu, ikili denizlerin arasındaki görünmez sınır, derinliklerden çıkan inci — bunların tamamı bir kayıp listesi gibi değil, fark edilmeyi bekleyen bir varlık envanteri gibi sunuluyor. Sonunda metin, hesap gününü ve onun ötesinde sunulan dinginliği tarif ediyor; ama asıl ağırlık orada değil: asıl ağırlık, tüm bu saydıklarının içinde yaşarken bile \"hiçbir şeyim yok\" hissine sürüklenmenin ne anlama geldiği sorusunda kalıyor.",
+  "audienceContext": "Bu sure, Mekke'nin ticaret hayatına hâkim olan ve kendi dilinin olanaklarını zirvesinde kullanan insanlara sesleniyor. O insanlar şiiri yalnızca zevk için dinlemiyordu; şiir onlar için bir güç aracıydı. Sözü güzel kullanan adam, kabilesini savaşa götürebilir, barış sağlayabilir, düşmanı rezil edebilirdi. Bu yüzden dil — beyan — o toplumda iktidarın ta kendisiydi.\n\nMuhatabın Allah'ı inkâr ettiğini varsaymak yanlış olur. Lokmân suresinin kendi ifadesiyle, gökleri ve yeri kimin yarattığını soran soruya o toplum 'Allah' diye cevap veriyordu. Direnç başka bir noktadadaydı: Furkân suresi 60. ayette aktarılan sahneye göre 'er-Rahmân' adı söylenince tepki 'Rahmân da neymiş!' biçiminde geldi. Bu, varlığa itiraz değildi. Rahmân adı onlara yabancıydı ya da o adın taşıdığı anlama — sonsuz, kayıtsız şartsız, herkesi kapsayan bir merhametin gerçek güç olduğuna — itiraz ediyorlardı. Çünkü Cahiliye'nin kültüründe güç sertlikle özdeşleştirilmişti; yumuşaklık, bağışlama, merhamet — bunlar zayıflık belirtisiydi.\n\nBu surenin doğrudan muhatap aldığı ikinci topluluk ise cinlerdir — Arapça 'es-sakaleyn' (iki ağır yük) diye anılan, insan ve cin birlikteliği. Bu, Mekke'nin dünya görüşünde garip değildi; görünmez varlıklar o toplumun gerçeklik haritasında yer tutuyordu. Sure bu iki muhatabı aynı anda çağırarak mesajını evrensel bir zemine taşıyor.\n\nDirencin nereden geldiğine bakıldığında, Rahmân adının reddinin salt teolojik olmadığı görülür. O toplumda ticaret hiyerarşisini, kabile statüsünü ve güç dengesini elinde tutan kesim, 'güçlü olan zayıfı ezer' ilkesini erdem olarak kodlamıştı. Sonsuz merhameti evrenin kurucu ilkesi olarak ilan eden bir ismin kabulü, o hiyerarşinin meşruiyetini doğrudan sarstı. Yani itiraz, yalnızca bir ada değil, o adın önerdiği dünya düzenine yönelikti.",
+  "eventMessageMap": [
+    {
+      "situation": "Müşrikler 'er-Rahmân' adını reddedip tanımıyordu.",
+      "response": "Sure, o adı ilk kelime olarak koydu ve hemen ardından insana dili öğretenin o ad olduğunu söyledi.",
+      "shift": "Böylece muhatabın kendi güç aracı olan dil, reddedilen o adın bir lütfu olarak tanımlandı."
+    },
+    {
+      "situation": "Güç sertlikle, azgınlıkla ve dengesizlikle özdeşleştiriliyordu.",
+      "response": "Sure, göğün yükseltilmesini doğrudan mizanın — dengenin — konulmasıyla ilişkilendirdi ve bu dengeyi bozmayı evrenin düzenine karşı çıkmak olarak çerçeveledi.",
+      "shift": "Denge ve adalet, zayıflık işareti olmaktan çıkıp evrensel bir yasanın yansıması hâline geldi."
+    },
+    {
+      "situation": "İki denizin birbirine karışmaması gibi doğa olayları herkes tarafından görülüyordu ama sıradan bir arka plan sayılıyordu.",
+      "response": "Sure bu olayı bir sınır — berzah — kavramıyla adlandırdı ve onu Rahmân'ın fiili olarak işaret etti.",
+      "shift": "Göz ardı edilen sıradan düzen, inkâr edilemez bir kanıta dönüştü."
+    },
+    {
+      "situation": "Evrenin sınırlarını zorlayabileceğini, hiçbir gücün kendisini kuşatamayacağını düşünen bir özgüven vardı.",
+      "response": "Sure, göklerin ve yerin sınırlarından ancak bir yetki — sultan — ile geçilebileceğini söyledi.",
+      "shift": "Sınırsız olduğu varsayılan beşeri güç, tanımlı ve izinli bir alana sıkıştırıldı."
+    },
+    {
+      "situation": "İyiliğin karşılıksız kalacağı ya da gücün ödülü olmadığı düşünülüyordu.",
+      "response": "Sure, 'ihsanın karşılığı yalnızca ihsandır' dedi.",
+      "shift": "Karşılıklılık ilkesi savaş gücünden bağımsız, evrensel bir işleyiş olarak tanımlandı."
+    }
+  ],
+  "apophaticReading": "'Bu sure bir doğa katalogudur' okuması metnin kendi mantığıyla çelişir. Çünkü aynı sure güneş ve ayı listeledikten hemen sonra mizanı — dengeyi — bozmayın diye uyarıya geçer; yani doğa betimlemesi hiçbir zaman kendi içinde bitmez, doğrudan bir etik taleple kırılır. Salt bir belagat ya da kozmik şiir okumayı metin kendi yapısıyla engeller.\n\n'Nimet sayımı boyun eğdirme aracıdır' okuması metnin kendi mantığıyla çelişir. Çünkü aynı sure muhataba hiçbir noktada şükret emri vermez; tekrarlayan soru 'yalanlamıyor musunuz?' biçimindedir, yani muhatabı bir iç muhakemeye çağırır, dışarıdan bir itaate değil. Soru, suçlama değil, tanıklama daveti olarak kurulmuştur.\n\n'Sure yalnızca ölümden sonrasıyla ilgilidir' okuması metnin kendi mantığıyla çelişir. Çünkü aynı sure cennet betimlemelerine geçmeden önce yaşayan iki denizin arasındaki sınırı, dalga dalga akan yelkenli gemileri, toprağın meyvelerini sayar; bütün bu sahneler şimdiki zamandadır ve şimdiki zamanda gerçekleşmektedir.\n\nGeriye kalan yönelim şu alana işaret eder: sure, muhataba bir düzin nimet gösterip ardından 'bunları yalanlayabilir misin?' diye sorar — bu yönelim, inkârın bilgisizlikten değil, farkında olmayı seçmemekten kaynaklandığını ima eder. Bilinç, burada öğrenilecek bir bilgi değil, zaten var olan bir tanıklığa dönülmek olarak çerçeveleniyor.\n\nBugüne kadar az bakılmış açı: Sure'nin açılışında 'er-Rahmân — insanı yarattı — beyanı öğretti' dizilişi, beyanı — dili, anlatım gücünü — doğrudan Rahmân'ın fiili olarak konumlandırır. Oysa o toplumda dil ve şiir kişisel bir yetenek, hatta bir kabile mirası sayılıyordu; şair kabilenin sesiyle konuşur ve o sesi kendine aitmiş gibi kullanırdı. Surenin bu dizilişi, o sahiplenme mantığını tersine çeviriyor: söz söyleme kapasitesinin kaynağı olarak gösterilen Rahmân, aynı zamanda adını reddedenlerin reddetmek için kullandıkları aracın da yaratıcısı oluyor. Bu, editoryal içerikte işaret edilen 'er-Rahmân kim?' itirazına metnin yapısal — söylemsel değil, yapısal — cevabıdır.\n\nSusma: *Surenin mizanı bozmayın uyarısının gündelik ticari ilişkilere, ölçü taşlarına, pazar tezgâhlarına nasıl uygulandığı buradan görünmez.*",
+  "aiCommentary": "Bu dört bölüm, bir yapay zekâ tarafından üretilmiştir. Kullanılan kaynaklar şunlardır: surenin Arapça metni (doğrudan yapısal analiz için), kullanıcı tarafından sağlanan ve TDZ İslâm Ansiklopedisi'ne dayandırılan editoryal içerik (dönem zemini için) ve sure hakkında sağlanan doğrulanmış editoryal notlar (nüzul sebebi, anahtar kavramlar, ihtilaf kayıtları dahil). Yapay zekanın bu kaynaklara erişimi dolaylıdır; birincil metin denetimi okuyucuya ve uzman kaynaklara bırakılmıştır.\n\nApofatik okuma bölümü bilinçli olarak olumsuzlama yöntemiyle kurulmuştur. Bunun nedeni şudur: bir metnin yaratıcısının maksadına dair her doğrudan söz, nihayetinde insanın tahminidir. Neyin söylenmediğini ya da hangi okumanın metnin kendi iç mantığıyla çeliştiğini göstermek, doğrudan anlam iddiasından daha dürüst bir yoldur. Bu yöntem kesinlik üretmez; alanı daraltır, geriye kalanı okuyucuya bırakır.\n\nBu metin tefsir değildir, meal değildir, fetva değildir. Herhangi bir amel hükmü — neyin helal ya da haram olduğuna dair bir yargı — içermez ve içermemelidir. Burada yapılan, mevcut kaynaklarla sınırlı bir okuma denemesidir. Yeni bir kaynak, yeni bir dilbilimsel bulgu ya da farklı bir editoryal içerik bu okumanın herhangi bir parçasını değiştirebilir."
 }

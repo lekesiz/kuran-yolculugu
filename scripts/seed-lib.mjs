@@ -131,6 +131,7 @@ export function validateStation(s, file) {
 export async function upsertStation(conn, s) {
   const keyTerms = s.keyTerms?.length ? JSON.stringify(s.keyTerms) : null;
   const scholarlyNotes = s.scholarlyNotes?.length ? JSON.stringify(s.scholarlyNotes) : null;
+  const eventMessageMap = s.eventMessageMap?.length ? JSON.stringify(s.eventMessageMap) : null;
   const pg = conn.dialect === "postgres";
   // Postgres preserves the camelCase column names only when they stay quoted.
   const col = name => (pg ? `"${name}"` : name);
@@ -139,7 +140,7 @@ export async function upsertStation(conn, s) {
     "verseCount", "periodDiyanet", "periodOkuyan", "periodDisputeNote", "revelationTiming",
     "stationTitle", "introduction", "occasionOfRevelation", "occasionSources",
     "contemporaryMeaning", "keyTerms", "scholarlyNotes", "revisionPass", "revisionNote",
-    "aiParagraph",
+    "aiParagraph", "audienceContext", "eventMessageMap", "apophaticReading", "aiCommentary",
   ];
   // `surahNo` is the conflict target, so it is never part of the update list.
   const UPDATED = COLUMNS.filter(c => c !== "surahNo");
@@ -168,6 +169,10 @@ export async function upsertStation(conn, s) {
     s.revisionPass ?? 1,
     s.revisionNote ?? null,
     s.aiParagraph ?? null,
+    s.audienceContext ?? null,
+    eventMessageMap,
+    s.apophaticReading ?? null,
+    s.aiCommentary ?? null,
   ];
 
   await conn.execute(

@@ -1,321 +1,346 @@
 {
- "stationNo": 37,
- "surahNo": 98,
- "nuzulOrderOkuyan": 101,
- "name": "Beyyine",
- "nameArabic": "البينة",
- "nameMeaning": "Apaçık delil, kanıt",
- "verseCount": 8,
- "periodDiyanet": "Medine",
- "periodOkuyan": "Medine",
- "revelationTiming": "Medine dönemi",
- "stationTitle": "Ayrılık, delil gelmediği için değil, delil geldikten sonra çıktı.",
- "introduction": "Beyyine suresi, adını birinci ayetteki \"beyyine\" kelimesinden alır; apaçık delil, kanıt anlamındadır. Sekiz ayetlik sure Medine döneminde inmiştir.\n\nSure, kendilerine açık bir kanıt gelmedikçe bulundukları durumdan ayrılmayacaklarını söyleyenlerle açılır. Ardından beklenen delilin ne olduğu tanımlanır. Sonra dördüncü ayette paradoks açıklanır: ayrılık delil geldikten sonra çıktı. Kapanışta iki grup karşılaştırılır.",
- "occasionOfRevelation": "Sure Medine döneminde inmiştir; bu, hem Diyanet İşleri Başkanlığı hem Prof. Dr. Mehmet Okuyan tasnifinde ortaktır. Dönem bilgisi surenin muhatap yapısını açıklar.\n\nMedine'de İslam toplumu artık farklı inanç gruplarıyla — geleneksel öğretilere bağlı Ehl-i Kitap toplulukları ve müşrikler — bir arada yaşıyordu. Bu gruplar, kendilerine sarsılmaz ve açık bir kanıt gelene kadar mevcut konumlarından ayrılmayacaklarını belirtiyordu (98:1).\n\nSure beklenen delilin ne olduğunu da tanımlar: tertemiz sahifeleri okuyan, gönderilmiş bir elçi ve o sahifelerdeki dosdoğru hükümler (98:2-3). Ardından dördüncü ayet paradoksu kurar: ayrılığa düşme, delil gelmediği için değil, \"delil geldikten sonra\" gerçekleşti. Yani sorun kanıt yetersizliği değildi.",
- "occasionSources": "Diyanet İşleri Başkanlığı Kur'an Yolu Tefsiri, Beyyine suresi girişi; TDV İslâm Ansiklopedisi, \"Beyyine Sûresi\" maddesi.",
- "contemporaryMeaning": "Surenin dördüncü ayeti bir insan gerçeğini teşhis eder. \"Yeterli delil görsem ikna olurum\" cümlesi genellikle doğru değildir. Sorun delil eksikliği değil, konforlu kabullerden vazgeçme isteksizliğidir.\n\nBeşinci ayet ise dinin asgari çerçevesini sayar ve bu çerçeve dikkat çekici biçimde yalındır: dini yalnız Allah'a has kılan samimiyet (ihlâs), her türlü şaibeden arınmış bir yöneliş (hanîflik), namazın ikamesi ve zekâtın verilmesi. \"İşte dosdoğru din budur.\"\n\nBu çerçevenin bir yanı içsel (ihlâs, hanîflik), diğer yanı pratik ve toplumsaldır (namaz, zekât). Samimiyet iddiada değil, ibadette ve paylaşımda somutlaşır.\n\nAltıncı ve yedinci ayetler ise en eşitlikçi ölçüyü kurar: insan etiketine değil, imanına ve eylemine göre değerlendirilir. Hiç kimse doğuştan gelen bir mensubiyetle kurtulmaz, hiç kimse etiketi yüzünden mahkûm edilmez.",
- "keyTerms": [
-  {
-   "term": "beyyine",
-   "arabic": "الْبَيِّنَة",
-   "verseRef": "98:1",
-   "meaning": "Apaçık delil, kanıt. Kökü açıklık ve ayırt edilebilirlik anlamı taşır."
-  },
-  {
-   "term": "dînü'l-kayyime",
-   "arabic": "دِينُ الْقَيِّمَة",
-   "verseRef": "98:5",
-   "meaning": "Dosdoğru, sapmasız din. Beşinci ayette sayılan dört ilkenin ardından gelen mühür ifadesi."
-  },
-  {
-   "term": "hunefâ",
-   "arabic": "حُنَفَاء",
-   "verseRef": "98:5",
-   "meaning": "Hanîfler; her türlü şaibeden arınmış, dosdoğru yönelen kimseler."
-  },
-  {
-   "term": "şerru'l-beriyye",
-   "arabic": "شَرُّ الْبَرِيَّة",
-   "verseRef": "98:6",
-   "meaning": "Yaratılmışların en kötüsü. Etikete değil tutuma bağlı bir değerlendirme."
-  },
-  {
-   "term": "hayru'l-beriyye",
-   "arabic": "خَيْرُ الْبَرِيَّة",
-   "verseRef": "98:7",
-   "meaning": "Yaratılmışların en hayırlısı. İman edip salih amel işleyenler için kullanılır."
-  }
- ],
- "themes": [
-  {
-   "label": "Delil arayışının illüzyonu",
-   "body": "Ayrılık delil gelmediği için değil, delil geldikten sonra çıktı. Sorun kanıt eksikliği değil, kabullerden vazgeçme isteksizliğidir."
-  },
-  {
-   "label": "Dinin yalın özü",
-   "body": "İhlâs, hanîflik, namaz, zekât. Dört maddelik bir çerçeve; bir yanı içsel, diğer yanı toplumsal."
-  },
-  {
-   "label": "Samimiyet, iddiada değil eylemde",
-   "body": "Çerçevenin yarısı pratiktir: namaz ve zekât. Niyet, ibadette ve paylaşımda somutlaşmadıkça kanıtlanmaz."
-  },
-  {
-   "label": "Ölçüt mensubiyet değil eylem",
-   "body": "En kötü ve en hayırlı tanımları etikete değil imana ve amele bağlanır. Doğuştan gelen bir kurtuluş ya da mahkûmiyet yoktur."
-  },
-  {
-   "label": "Karşılıklı hoşnutluk",
-   "body": "Rızalık, kayıtsızlığın değil derin bir sorumluluk bilincinin meyvesi olarak sunulur; ayet bunu \"Rabbine derin saygı duyanlar\" şartına bağlar."
-  }
- ],
- "questions": [
-  "Bir konuda ikna olmamamın sebebi gerçekten delil eksikliği mi, yoksa fikrimi değiştirmenin bana bir bedeli olması mı?",
-  "Kendimi bir gruba ait olduğum için mi doğru sayıyorum, yoksa yaptıklarım yüzünden mi?",
-  "Samimiyetim davranışıma dönüşüyor mu? Somut olarak nerede görünüyor?"
- ],
- "verses": [
-  {
-   "verseNo": 1,
-   "textArabic": "بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ لَمْ يَكُنِ ٱلَّذِينَ كَفَرُوا۟ مِنْ أَهْلِ ٱلْكِتَٰبِ وَٱلْمُشْرِكِينَ مُنفَكِّينَ حَتَّىٰ تَأْتِيَهُمُ ٱلْبَيِّنَةُ"
-  },
-  {
-   "verseNo": 2,
-   "textArabic": "رَسُولٌۭ مِّنَ ٱللَّهِ يَتْلُوا۟ صُحُفًۭا مُّطَهَّرَةًۭ"
-  },
-  {
-   "verseNo": 3,
-   "textArabic": "فِيهَا كُتُبٌۭ قَيِّمَةٌۭ"
-  },
-  {
-   "verseNo": 4,
-   "textArabic": "وَمَا تَفَرَّقَ ٱلَّذِينَ أُوتُوا۟ ٱلْكِتَٰبَ إِلَّا مِنۢ بَعْدِ مَا جَآءَتْهُمُ ٱلْبَيِّنَةُ"
-  },
-  {
-   "verseNo": 5,
-   "textArabic": "وَمَآ أُمِرُوٓا۟ إِلَّا لِيَعْبُدُوا۟ ٱللَّهَ مُخْلِصِينَ لَهُ ٱلدِّينَ حُنَفَآءَ وَيُقِيمُوا۟ ٱلصَّلَوٰةَ وَيُؤْتُوا۟ ٱلزَّكَوٰةَ ۚ وَذَٰلِكَ دِينُ ٱلْقَيِّمَةِ"
-  },
-  {
-   "verseNo": 6,
-   "textArabic": "إِنَّ ٱلَّذِينَ كَفَرُوا۟ مِنْ أَهْلِ ٱلْكِتَٰبِ وَٱلْمُشْرِكِينَ فِى نَارِ جَهَنَّمَ خَٰلِدِينَ فِيهَآ ۚ أُو۟لَٰٓئِكَ هُمْ شَرُّ ٱلْبَرِيَّةِ"
-  },
-  {
-   "verseNo": 7,
-   "textArabic": "إِنَّ ٱلَّذِينَ ءَامَنُوا۟ وَعَمِلُوا۟ ٱلصَّٰلِحَٰتِ أُو۟لَٰٓئِكَ هُمْ خَيْرُ ٱلْبَرِيَّةِ"
-  },
-  {
-   "verseNo": 8,
-   "textArabic": "جَزَآؤُهُمْ عِندَ رَبِّهِمْ جَنَّٰتُ عَدْنٍۢ تَجْرِى مِن تَحْتِهَا ٱلْأَنْهَٰرُ خَٰلِدِينَ فِيهَآ أَبَدًۭا ۖ رَّضِىَ ٱللَّهُ عَنْهُمْ وَرَضُوا۟ عَنْهُ ۚ ذَٰلِكَ لِمَنْ خَشِىَ رَبَّهُۥ"
-  }
- ],
- "translations": [
-  {
-   "verseNo": 1,
-   "source": "diyanet",
-   "text": "Şüphesiz, biz onu (Kur'an'ı) Kadir gecesinde indirdik."
-  },
-  {
-   "verseNo": 1,
-   "source": "islamoglu",
-   "text": "İNKÂRDA ısrar edenler, -ister kitap ehline isterse şirki hayat tarzı edinenlere mensup olsunlar- kendilerine hakikatin açık delili gelinceye kadar çözülecek değillerdi!"
-  },
-  {
-   "verseNo": 1,
-   "source": "esed",
-   "text": "Hakikati inkara şartlanmış olanlar, -ister geçmiş vahyin mensuplarından isterse Allah´tan başkasına da ilahlık yakıştıranlardan (olsunlar)- kendilerine hakikatin açık kanıtları gelmeden (O´nun tarafından) gözden çıkarılacak değillerdir"
-  },
-  {
-   "verseNo": 1,
-   "source": "okuyan",
-   "text": "[Beyyine] (apaçık bir elçi) kendilerine gelinceye kadar kitap ehlinden ve müşriklerden bazı nankörler (küfürden) ayrılacak değillerdi."
-  },
-  {
-   "verseNo": 2,
-   "source": "diyanet",
-   "text": "Kadir gecesinin ne olduğunu sen ne bileceksin!"
-  },
-  {
-   "verseNo": 2,
-   "source": "islamoglu",
-   "text": "(O delil); tüm şaibelerden arınmış sayfaları Allah’tan kendilerine ileten bir elçidir;"
-  },
-  {
-   "verseNo": 2,
-   "source": "esed",
-   "text": "(onlara) kutsanmış tertemiz vahiyler ileten Allah´tan bir elçi (gelmeden)"
-  },
-  {
-   "verseNo": 2,
-   "source": "okuyan",
-   "text": "(O), Allah tarafından gönderilen ve tertemiz sahifeleri [tilavet] eden (okuyup aktaran) bir elçidir."
-  },
-  {
-   "verseNo": 3,
-   "source": "diyanet",
-   "text": "Kadir gecesi bin aydan daha hayırlıdır."
-  },
-  {
-   "verseNo": 3,
-   "source": "islamoglu",
-   "text": "(o vahiylerin) içinde (önceki) kitapların ölmez yitmez (değerleri) bulunur."
-  },
-  {
-   "verseNo": 3,
-   "source": "esed",
-   "text": "doğruluğu kesin ve açık hükümler taşıyan (vahiyler ileten bir elçi)"
-  },
-  {
-   "verseNo": 3,
-   "source": "okuyan",
-   "text": "O (sahifeler)de doğru hükümler vardır."
-  },
-  {
-   "verseNo": 4,
-   "source": "diyanet",
-   "text": "Melekler ve Ruh (Cebrail) o gecede, Rablerinin izniyle her türlü iş için iner de iner."
-  },
-  {
-   "verseNo": 4,
-   "source": "islamoglu",
-   "text": "Ama önceki vahiylerin mensupları durdular durdular da, kendilerine hakikatin apaçık belgeleri geldikten sonra ayrılığa düştüler."
-  },
-  {
-   "verseNo": 4,
-   "source": "esed",
-   "text": "Ama kendilerine daha önce vahiy verilenler, hakikatin böyle bir kanıtı geldikten sonra (inanç) birlikteliklerini bozdular"
-  },
-  {
-   "verseNo": 4,
-   "source": "okuyan",
-   "text": "Kendilerine kitap verilenler ancak o [beyyine] (apaçık bir elçi) kendilerine geldikten sonra ayrılığa düşmüşlerdi."
-  },
-  {
-   "verseNo": 5,
-   "source": "diyanet",
-   "text": "O gece, tan yerinin ağarmasına kadar bir esenliktir."
-  },
-  {
-   "verseNo": 5,
-   "source": "islamoglu",
-   "text": "Oysa kendileri yalnızca Allah’a kulluk etmek, din koyma yetkisinin sadece O’na mahsus olduğuna iman edip bâtıl olan her şeyden uzak durmak, ibadeti hakkıyla eda etmek, arınmak ve artmak için verilmesi gerekeni vermekle emrolunmuşlardı: İşte insanlığın ebedî değerler sistemi budur."
-  },
-  {
-   "verseNo": 5,
-   "source": "esed",
-   "text": "Oysa kendilerine yalnızca Allah´a ibadet etmeleri, bütün içtenlikleriyle yalnız O´na iman ederek batıl olan her şeyden uzak durmaları; namazlarında dikkatli ve devamlı olmaları; ve karşılıksız harcamada bulunmaları emrolunmuştu çünkü bu, doğruluğu kesin ve açık olan bir ahlaki değerler sistemidir"
-  },
-  {
-   "verseNo": 5,
-   "source": "okuyan",
-   "text": "(Oysa) dini yalnız O’na özgü kılarak, [hanîf]ler (Allah’ı birleyenler) olarak Allah’a kulluk etmeleri, namaz kılmaları ve zekât vermeleri kendilerine özellikle emredilmişti. İşte sağlam din budur."
-  },
-  {
-   "verseNo": 6,
-   "source": "diyanet",
-   "text": "Şüphesiz, inkâr eden kitap ehli ile Allah'a ortak koşanlar, içinde ebedi kalmak üzere cehennem ateşindedirler. İşte onlar yaratıkların en kötüsüdürler."
-  },
-  {
-   "verseNo": 6,
-   "source": "islamoglu",
-   "text": "Elbette inkârda ısrar edenler, -ister kitap ehline isterse şirki hayat tarzı haline getirenlere mensup olsunlar- içinde ebedî kalmak üzere Cehennem ateşinin bağrına düşecekler: Onlar bütün yaratıkların en şerlileridir."
-  },
-  {
-   "verseNo": 6,
-   "source": "esed",
-   "text": "Gerçek şu ki, (bütün kanıtlara rağmen) hakikati inkara şartlanmış olanlar, -ister geçmiş vahyin mensuplarından, isterse Allah´tan başkasına da ilahlık yakıştıranlardan (olsunlar)- kendilerini cehennem ateşinde kalıcı bulacaklar. Onlar, bütün yaratıkların en şerlileridir"
-  },
-  {
-   "verseNo": 6,
-   "source": "okuyan",
-   "text": "Şüphesiz ki kitap ehlinden ve müşriklerden bazı nankörler, içinde [ebedî] kalacakları cehennem ateşinde (olacaklar)dır. İşte onlar yaratılmışların en kötüleridir."
-  },
-  {
-   "verseNo": 7,
-   "source": "diyanet",
-   "text": "Şüphesiz, iman edip, salih ameller işleyenler var ya; işte onlar yaratıkların en hayırlısıdırlar."
-  },
-  {
-   "verseNo": 7,
-   "source": "islamoglu",
-   "text": "Şüphesiz iman eden ve imanına uygun davrananlar da var; işte onlar bütün yaratıkların en hayırlılarıdır."
-  },
-  {
-   "verseNo": 7,
-   "source": "esed",
-   "text": "(Ve) iman edip doğru ve yararlı işlerde bulunanlar, işte onlar, bütün yaratıkların en hayırlılarıdır"
-  },
-  {
-   "verseNo": 7,
-   "source": "okuyan",
-   "text": "Şüphesiz ki iman edip iyi işler yapanlara gelince; işte onlar ise yaratılmışların en iyileridir."
-  },
-  {
-   "verseNo": 8,
-   "source": "diyanet",
-   "text": "Rableri katında onların mükafatı, içlerinden ırmaklar akan, içlerinde ebedi kalacakları Adn cennetleridir. Allah onlardan razı olmuştur, onlar da Allah'tan razı olmuşlardır. İşte bu mükafat Rablerine derin saygı duyanlara mahsustur."
-  },
-  {
-   "verseNo": 8,
-   "source": "islamoglu",
-   "text": "Rableri katında onların ödülleri, zemininden ırmakların aktığı ölümsüz güzelliğin üretildiği tarifsiz cennetlerdir; orada sonsuza kadar kalacaklardır: Allah onlardan razı olmuş, onlar da Allah’tan memnun olmuştur. İşte bütün bunlar, Rablerinin sevgisini yitirmekten korkanlar içindir."
-  },
-  {
-   "verseNo": 8,
-   "source": "esed",
-   "text": "Onların ödülleri Allah katında (kendilerini bekler;) içinden ırmaklar akan, sonsuza kadar kalacakları sınırsız nimet bahçeleri. Allah onlardan hoşnuttur ve onlar da Allah´tan. Bütün bunlar Rablerini ürpertiyle hissedenler içindir"
-  },
-  {
-   "verseNo": 8,
-   "source": "okuyan",
-   "text": "Rableri katındaki karşılıkları (ödülleri), altlarından ırmaklar akan, içinde [ebedî] kalacakları durmaya değer cennetlerdir. Allah kendilerinden razı, onlar da O’ndan memnun olmuşlardır. Bu (müjdeler), Rabbine saygı duyan(lar) içindir."
-  },
-  {
-   "verseNo": 1,
-   "verseNoEnd": null,
-   "source": "ai",
-   "text": "Kitap ehli ve müşrikler arasından inkâr edenler, apaçık delil kendilerine gelinceye kadar ayrılmamışlardı."
-  },
-  {
-   "verseNo": 2,
-   "verseNoEnd": null,
-   "source": "ai",
-   "text": "Allah'tan bir elçi, temizlenmiş sayfalar okur."
-  },
-  {
-   "verseNo": 3,
-   "verseNoEnd": null,
-   "source": "ai",
-   "text": "Onlarda doğru kitaplar vardır."
-  },
-  {
-   "verseNo": 4,
-   "verseNoEnd": null,
-   "source": "ai",
-   "text": "Kitap ehli, apaçık delil kendilerine gelinceye kadar ayrılmamışlardı."
-  },
-  {
-   "verseNo": 5,
-   "verseNoEnd": null,
-   "source": "ai",
-   "text": "Onlara yalnızca şu emredildi: Allah'a ibadet etsinler, dini sadece O'na içtenlikle ve eğrilmeden adasınlar, namazı kılsınlar ve zekâtı versinler. İşte bu doğru dindir."
-  },
-  {
-   "verseNo": 6,
-   "verseNoEnd": null,
-   "source": "ai",
-   "text": "Şüphesiz, Kitap ehli ve müşrikler arasından inkâr edenler Cehennem ateşindedir; orada ebedî olarak kalacaklardır. İşte onlar en kötü yaratıklardır."
-  },
-  {
-   "verseNo": 7,
-   "verseNoEnd": null,
-   "source": "ai",
-   "text": "Şüphesiz, iman edenler ve salih amel işleyenler, işte onlar en hayırlı yaratıklardır."
-  },
-  {
-   "verseNo": 8,
-   "verseNoEnd": null,
-   "source": "ai",
-   "text": "Onların karşılığı Rableri yanında Adn cennetleridir; altlarından nehirler akar; orada ebediyen kalacaklardır. Allah onlardan razı oldu ve onlar da O'ndan razı oldular. Bu, Rab'ini sakınanlar içindir."
-  }
- ],
- "aiParagraph": "Açık bir delil gelmeden önce kimsenin bırakıp gidemeyeceğini söylüyor metin — sanki insanın içinde bir kapı sürekli açık kalıyor, bir şeyi bekliyor, bir şeye muhtaç. Asıl çarpıcı olan ise şu: kitap ehlinin ayrılığa düşmesi, o açık kapıdan geçecek şey geldikten *sonra* olmuş. Yani sorun bilgisizlik değilmiş; bilgi gelmiş, ayrılık yine de başlamış. Bu, bir insanın \"bana yeter ki göstersinler\" diyip aslında görmek istemediğini bildiği o anı tanıtıyor gibi. Metnin özüne göre istenen şey karmaşık değil: samimi bir bağlılık, içi boş olmayan bir adanma, ve elindekini başkasıyla paylaşma. Saf, arındırılmış bir yönelme. Ama tam da bu yalınlık insana zor geliyor olmalı ki metin, inanıp dürüst yaşayanlarla inkâr edenleri yaratılmışların en hayırlısı ve en kötüsü olarak karşılıklı koyuyor — arada gri bir alan bırakmadan. En sonunda kalan cümle ise hepsinin üstünde asılı duruyor: bu, yalnızca Rabbinden içtenlikle çekinen kişi içindir. Yani mesele hangi gruba ait olduğun değil; içindeki o çekingenliğin, o derin saygının gerçek olup olmadığı."
+  "stationNo": 37,
+  "surahNo": 98,
+  "nuzulOrderOkuyan": 101,
+  "name": "Beyyine",
+  "nameArabic": "البينة",
+  "nameMeaning": "Apaçık delil, kanıt",
+  "verseCount": 8,
+  "periodDiyanet": "Medine",
+  "periodOkuyan": "Medine",
+  "revelationTiming": "Medine dönemi",
+  "stationTitle": "Ayrılık, delil gelmediği için değil, delil geldikten sonra çıktı.",
+  "introduction": "Beyyine suresi, adını birinci ayetteki \"beyyine\" kelimesinden alır; apaçık delil, kanıt anlamındadır. Sekiz ayetlik sure Medine döneminde inmiştir.\n\nSure, kendilerine açık bir kanıt gelmedikçe bulundukları durumdan ayrılmayacaklarını söyleyenlerle açılır. Ardından beklenen delilin ne olduğu tanımlanır. Sonra dördüncü ayette paradoks açıklanır: ayrılık delil geldikten sonra çıktı. Kapanışta iki grup karşılaştırılır.",
+  "occasionOfRevelation": "Sure Medine döneminde inmiştir; bu, hem Diyanet İşleri Başkanlığı hem Prof. Dr. Mehmet Okuyan tasnifinde ortaktır. Dönem bilgisi surenin muhatap yapısını açıklar.\n\nMedine'de İslam toplumu artık farklı inanç gruplarıyla — geleneksel öğretilere bağlı Ehl-i Kitap toplulukları ve müşrikler — bir arada yaşıyordu. Bu gruplar, kendilerine sarsılmaz ve açık bir kanıt gelene kadar mevcut konumlarından ayrılmayacaklarını belirtiyordu (98:1).\n\nSure beklenen delilin ne olduğunu da tanımlar: tertemiz sahifeleri okuyan, gönderilmiş bir elçi ve o sahifelerdeki dosdoğru hükümler (98:2-3). Ardından dördüncü ayet paradoksu kurar: ayrılığa düşme, delil gelmediği için değil, \"delil geldikten sonra\" gerçekleşti. Yani sorun kanıt yetersizliği değildi.",
+  "occasionSources": "Diyanet İşleri Başkanlığı Kur'an Yolu Tefsiri, Beyyine suresi girişi; TDV İslâm Ansiklopedisi, \"Beyyine Sûresi\" maddesi.",
+  "contemporaryMeaning": "Surenin dördüncü ayeti bir insan gerçeğini teşhis eder. \"Yeterli delil görsem ikna olurum\" cümlesi genellikle doğru değildir. Sorun delil eksikliği değil, konforlu kabullerden vazgeçme isteksizliğidir.\n\nBeşinci ayet ise dinin asgari çerçevesini sayar ve bu çerçeve dikkat çekici biçimde yalındır: dini yalnız Allah'a has kılan samimiyet (ihlâs), her türlü şaibeden arınmış bir yöneliş (hanîflik), namazın ikamesi ve zekâtın verilmesi. \"İşte dosdoğru din budur.\"\n\nBu çerçevenin bir yanı içsel (ihlâs, hanîflik), diğer yanı pratik ve toplumsaldır (namaz, zekât). Samimiyet iddiada değil, ibadette ve paylaşımda somutlaşır.\n\nAltıncı ve yedinci ayetler ise en eşitlikçi ölçüyü kurar: insan etiketine değil, imanına ve eylemine göre değerlendirilir. Hiç kimse doğuştan gelen bir mensubiyetle kurtulmaz, hiç kimse etiketi yüzünden mahkûm edilmez.",
+  "keyTerms": [
+    {
+      "term": "beyyine",
+      "arabic": "الْبَيِّنَة",
+      "verseRef": "98:1",
+      "meaning": "Apaçık delil, kanıt. Kökü açıklık ve ayırt edilebilirlik anlamı taşır."
+    },
+    {
+      "term": "dînü'l-kayyime",
+      "arabic": "دِينُ الْقَيِّمَة",
+      "verseRef": "98:5",
+      "meaning": "Dosdoğru, sapmasız din. Beşinci ayette sayılan dört ilkenin ardından gelen mühür ifadesi."
+    },
+    {
+      "term": "hunefâ",
+      "arabic": "حُنَفَاء",
+      "verseRef": "98:5",
+      "meaning": "Hanîfler; her türlü şaibeden arınmış, dosdoğru yönelen kimseler."
+    },
+    {
+      "term": "şerru'l-beriyye",
+      "arabic": "شَرُّ الْبَرِيَّة",
+      "verseRef": "98:6",
+      "meaning": "Yaratılmışların en kötüsü. Etikete değil tutuma bağlı bir değerlendirme."
+    },
+    {
+      "term": "hayru'l-beriyye",
+      "arabic": "خَيْرُ الْبَرِيَّة",
+      "verseRef": "98:7",
+      "meaning": "Yaratılmışların en hayırlısı. İman edip salih amel işleyenler için kullanılır."
+    }
+  ],
+  "themes": [
+    {
+      "label": "Delil arayışının illüzyonu",
+      "body": "Ayrılık delil gelmediği için değil, delil geldikten sonra çıktı. Sorun kanıt eksikliği değil, kabullerden vazgeçme isteksizliğidir."
+    },
+    {
+      "label": "Dinin yalın özü",
+      "body": "İhlâs, hanîflik, namaz, zekât. Dört maddelik bir çerçeve; bir yanı içsel, diğer yanı toplumsal."
+    },
+    {
+      "label": "Samimiyet, iddiada değil eylemde",
+      "body": "Çerçevenin yarısı pratiktir: namaz ve zekât. Niyet, ibadette ve paylaşımda somutlaşmadıkça kanıtlanmaz."
+    },
+    {
+      "label": "Ölçüt mensubiyet değil eylem",
+      "body": "En kötü ve en hayırlı tanımları etikete değil imana ve amele bağlanır. Doğuştan gelen bir kurtuluş ya da mahkûmiyet yoktur."
+    },
+    {
+      "label": "Karşılıklı hoşnutluk",
+      "body": "Rızalık, kayıtsızlığın değil derin bir sorumluluk bilincinin meyvesi olarak sunulur; ayet bunu \"Rabbine derin saygı duyanlar\" şartına bağlar."
+    }
+  ],
+  "questions": [
+    "Bir konuda ikna olmamamın sebebi gerçekten delil eksikliği mi, yoksa fikrimi değiştirmenin bana bir bedeli olması mı?",
+    "Kendimi bir gruba ait olduğum için mi doğru sayıyorum, yoksa yaptıklarım yüzünden mi?",
+    "Samimiyetim davranışıma dönüşüyor mu? Somut olarak nerede görünüyor?"
+  ],
+  "verses": [
+    {
+      "verseNo": 1,
+      "textArabic": "بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ لَمْ يَكُنِ ٱلَّذِينَ كَفَرُوا۟ مِنْ أَهْلِ ٱلْكِتَٰبِ وَٱلْمُشْرِكِينَ مُنفَكِّينَ حَتَّىٰ تَأْتِيَهُمُ ٱلْبَيِّنَةُ"
+    },
+    {
+      "verseNo": 2,
+      "textArabic": "رَسُولٌۭ مِّنَ ٱللَّهِ يَتْلُوا۟ صُحُفًۭا مُّطَهَّرَةًۭ"
+    },
+    {
+      "verseNo": 3,
+      "textArabic": "فِيهَا كُتُبٌۭ قَيِّمَةٌۭ"
+    },
+    {
+      "verseNo": 4,
+      "textArabic": "وَمَا تَفَرَّقَ ٱلَّذِينَ أُوتُوا۟ ٱلْكِتَٰبَ إِلَّا مِنۢ بَعْدِ مَا جَآءَتْهُمُ ٱلْبَيِّنَةُ"
+    },
+    {
+      "verseNo": 5,
+      "textArabic": "وَمَآ أُمِرُوٓا۟ إِلَّا لِيَعْبُدُوا۟ ٱللَّهَ مُخْلِصِينَ لَهُ ٱلدِّينَ حُنَفَآءَ وَيُقِيمُوا۟ ٱلصَّلَوٰةَ وَيُؤْتُوا۟ ٱلزَّكَوٰةَ ۚ وَذَٰلِكَ دِينُ ٱلْقَيِّمَةِ"
+    },
+    {
+      "verseNo": 6,
+      "textArabic": "إِنَّ ٱلَّذِينَ كَفَرُوا۟ مِنْ أَهْلِ ٱلْكِتَٰبِ وَٱلْمُشْرِكِينَ فِى نَارِ جَهَنَّمَ خَٰلِدِينَ فِيهَآ ۚ أُو۟لَٰٓئِكَ هُمْ شَرُّ ٱلْبَرِيَّةِ"
+    },
+    {
+      "verseNo": 7,
+      "textArabic": "إِنَّ ٱلَّذِينَ ءَامَنُوا۟ وَعَمِلُوا۟ ٱلصَّٰلِحَٰتِ أُو۟لَٰٓئِكَ هُمْ خَيْرُ ٱلْبَرِيَّةِ"
+    },
+    {
+      "verseNo": 8,
+      "textArabic": "جَزَآؤُهُمْ عِندَ رَبِّهِمْ جَنَّٰتُ عَدْنٍۢ تَجْرِى مِن تَحْتِهَا ٱلْأَنْهَٰرُ خَٰلِدِينَ فِيهَآ أَبَدًۭا ۖ رَّضِىَ ٱللَّهُ عَنْهُمْ وَرَضُوا۟ عَنْهُ ۚ ذَٰلِكَ لِمَنْ خَشِىَ رَبَّهُۥ"
+    }
+  ],
+  "translations": [
+    {
+      "verseNo": 1,
+      "source": "diyanet",
+      "text": "Şüphesiz, biz onu (Kur'an'ı) Kadir gecesinde indirdik."
+    },
+    {
+      "verseNo": 1,
+      "source": "islamoglu",
+      "text": "İNKÂRDA ısrar edenler, -ister kitap ehline isterse şirki hayat tarzı edinenlere mensup olsunlar- kendilerine hakikatin açık delili gelinceye kadar çözülecek değillerdi!"
+    },
+    {
+      "verseNo": 1,
+      "source": "esed",
+      "text": "Hakikati inkara şartlanmış olanlar, -ister geçmiş vahyin mensuplarından isterse Allah´tan başkasına da ilahlık yakıştıranlardan (olsunlar)- kendilerine hakikatin açık kanıtları gelmeden (O´nun tarafından) gözden çıkarılacak değillerdir"
+    },
+    {
+      "verseNo": 1,
+      "source": "okuyan",
+      "text": "[Beyyine] (apaçık bir elçi) kendilerine gelinceye kadar kitap ehlinden ve müşriklerden bazı nankörler (küfürden) ayrılacak değillerdi."
+    },
+    {
+      "verseNo": 2,
+      "source": "diyanet",
+      "text": "Kadir gecesinin ne olduğunu sen ne bileceksin!"
+    },
+    {
+      "verseNo": 2,
+      "source": "islamoglu",
+      "text": "(O delil); tüm şaibelerden arınmış sayfaları Allah’tan kendilerine ileten bir elçidir;"
+    },
+    {
+      "verseNo": 2,
+      "source": "esed",
+      "text": "(onlara) kutsanmış tertemiz vahiyler ileten Allah´tan bir elçi (gelmeden)"
+    },
+    {
+      "verseNo": 2,
+      "source": "okuyan",
+      "text": "(O), Allah tarafından gönderilen ve tertemiz sahifeleri [tilavet] eden (okuyup aktaran) bir elçidir."
+    },
+    {
+      "verseNo": 3,
+      "source": "diyanet",
+      "text": "Kadir gecesi bin aydan daha hayırlıdır."
+    },
+    {
+      "verseNo": 3,
+      "source": "islamoglu",
+      "text": "(o vahiylerin) içinde (önceki) kitapların ölmez yitmez (değerleri) bulunur."
+    },
+    {
+      "verseNo": 3,
+      "source": "esed",
+      "text": "doğruluğu kesin ve açık hükümler taşıyan (vahiyler ileten bir elçi)"
+    },
+    {
+      "verseNo": 3,
+      "source": "okuyan",
+      "text": "O (sahifeler)de doğru hükümler vardır."
+    },
+    {
+      "verseNo": 4,
+      "source": "diyanet",
+      "text": "Melekler ve Ruh (Cebrail) o gecede, Rablerinin izniyle her türlü iş için iner de iner."
+    },
+    {
+      "verseNo": 4,
+      "source": "islamoglu",
+      "text": "Ama önceki vahiylerin mensupları durdular durdular da, kendilerine hakikatin apaçık belgeleri geldikten sonra ayrılığa düştüler."
+    },
+    {
+      "verseNo": 4,
+      "source": "esed",
+      "text": "Ama kendilerine daha önce vahiy verilenler, hakikatin böyle bir kanıtı geldikten sonra (inanç) birlikteliklerini bozdular"
+    },
+    {
+      "verseNo": 4,
+      "source": "okuyan",
+      "text": "Kendilerine kitap verilenler ancak o [beyyine] (apaçık bir elçi) kendilerine geldikten sonra ayrılığa düşmüşlerdi."
+    },
+    {
+      "verseNo": 5,
+      "source": "diyanet",
+      "text": "O gece, tan yerinin ağarmasına kadar bir esenliktir."
+    },
+    {
+      "verseNo": 5,
+      "source": "islamoglu",
+      "text": "Oysa kendileri yalnızca Allah’a kulluk etmek, din koyma yetkisinin sadece O’na mahsus olduğuna iman edip bâtıl olan her şeyden uzak durmak, ibadeti hakkıyla eda etmek, arınmak ve artmak için verilmesi gerekeni vermekle emrolunmuşlardı: İşte insanlığın ebedî değerler sistemi budur."
+    },
+    {
+      "verseNo": 5,
+      "source": "esed",
+      "text": "Oysa kendilerine yalnızca Allah´a ibadet etmeleri, bütün içtenlikleriyle yalnız O´na iman ederek batıl olan her şeyden uzak durmaları; namazlarında dikkatli ve devamlı olmaları; ve karşılıksız harcamada bulunmaları emrolunmuştu çünkü bu, doğruluğu kesin ve açık olan bir ahlaki değerler sistemidir"
+    },
+    {
+      "verseNo": 5,
+      "source": "okuyan",
+      "text": "(Oysa) dini yalnız O’na özgü kılarak, [hanîf]ler (Allah’ı birleyenler) olarak Allah’a kulluk etmeleri, namaz kılmaları ve zekât vermeleri kendilerine özellikle emredilmişti. İşte sağlam din budur."
+    },
+    {
+      "verseNo": 6,
+      "source": "diyanet",
+      "text": "Şüphesiz, inkâr eden kitap ehli ile Allah'a ortak koşanlar, içinde ebedi kalmak üzere cehennem ateşindedirler. İşte onlar yaratıkların en kötüsüdürler."
+    },
+    {
+      "verseNo": 6,
+      "source": "islamoglu",
+      "text": "Elbette inkârda ısrar edenler, -ister kitap ehline isterse şirki hayat tarzı haline getirenlere mensup olsunlar- içinde ebedî kalmak üzere Cehennem ateşinin bağrına düşecekler: Onlar bütün yaratıkların en şerlileridir."
+    },
+    {
+      "verseNo": 6,
+      "source": "esed",
+      "text": "Gerçek şu ki, (bütün kanıtlara rağmen) hakikati inkara şartlanmış olanlar, -ister geçmiş vahyin mensuplarından, isterse Allah´tan başkasına da ilahlık yakıştıranlardan (olsunlar)- kendilerini cehennem ateşinde kalıcı bulacaklar. Onlar, bütün yaratıkların en şerlileridir"
+    },
+    {
+      "verseNo": 6,
+      "source": "okuyan",
+      "text": "Şüphesiz ki kitap ehlinden ve müşriklerden bazı nankörler, içinde [ebedî] kalacakları cehennem ateşinde (olacaklar)dır. İşte onlar yaratılmışların en kötüleridir."
+    },
+    {
+      "verseNo": 7,
+      "source": "diyanet",
+      "text": "Şüphesiz, iman edip, salih ameller işleyenler var ya; işte onlar yaratıkların en hayırlısıdırlar."
+    },
+    {
+      "verseNo": 7,
+      "source": "islamoglu",
+      "text": "Şüphesiz iman eden ve imanına uygun davrananlar da var; işte onlar bütün yaratıkların en hayırlılarıdır."
+    },
+    {
+      "verseNo": 7,
+      "source": "esed",
+      "text": "(Ve) iman edip doğru ve yararlı işlerde bulunanlar, işte onlar, bütün yaratıkların en hayırlılarıdır"
+    },
+    {
+      "verseNo": 7,
+      "source": "okuyan",
+      "text": "Şüphesiz ki iman edip iyi işler yapanlara gelince; işte onlar ise yaratılmışların en iyileridir."
+    },
+    {
+      "verseNo": 8,
+      "source": "diyanet",
+      "text": "Rableri katında onların mükafatı, içlerinden ırmaklar akan, içlerinde ebedi kalacakları Adn cennetleridir. Allah onlardan razı olmuştur, onlar da Allah'tan razı olmuşlardır. İşte bu mükafat Rablerine derin saygı duyanlara mahsustur."
+    },
+    {
+      "verseNo": 8,
+      "source": "islamoglu",
+      "text": "Rableri katında onların ödülleri, zemininden ırmakların aktığı ölümsüz güzelliğin üretildiği tarifsiz cennetlerdir; orada sonsuza kadar kalacaklardır: Allah onlardan razı olmuş, onlar da Allah’tan memnun olmuştur. İşte bütün bunlar, Rablerinin sevgisini yitirmekten korkanlar içindir."
+    },
+    {
+      "verseNo": 8,
+      "source": "esed",
+      "text": "Onların ödülleri Allah katında (kendilerini bekler;) içinden ırmaklar akan, sonsuza kadar kalacakları sınırsız nimet bahçeleri. Allah onlardan hoşnuttur ve onlar da Allah´tan. Bütün bunlar Rablerini ürpertiyle hissedenler içindir"
+    },
+    {
+      "verseNo": 8,
+      "source": "okuyan",
+      "text": "Rableri katındaki karşılıkları (ödülleri), altlarından ırmaklar akan, içinde [ebedî] kalacakları durmaya değer cennetlerdir. Allah kendilerinden razı, onlar da O’ndan memnun olmuşlardır. Bu (müjdeler), Rabbine saygı duyan(lar) içindir."
+    },
+    {
+      "verseNo": 1,
+      "verseNoEnd": null,
+      "source": "ai",
+      "text": "Kitap ehli ve müşrikler arasından inkâr edenler, apaçık delil kendilerine gelinceye kadar ayrılmamışlardı."
+    },
+    {
+      "verseNo": 2,
+      "verseNoEnd": null,
+      "source": "ai",
+      "text": "Allah'tan bir elçi, temizlenmiş sayfalar okur."
+    },
+    {
+      "verseNo": 3,
+      "verseNoEnd": null,
+      "source": "ai",
+      "text": "Onlarda doğru kitaplar vardır."
+    },
+    {
+      "verseNo": 4,
+      "verseNoEnd": null,
+      "source": "ai",
+      "text": "Kitap ehli, apaçık delil kendilerine gelinceye kadar ayrılmamışlardı."
+    },
+    {
+      "verseNo": 5,
+      "verseNoEnd": null,
+      "source": "ai",
+      "text": "Onlara yalnızca şu emredildi: Allah'a ibadet etsinler, dini sadece O'na içtenlikle ve eğrilmeden adasınlar, namazı kılsınlar ve zekâtı versinler. İşte bu doğru dindir."
+    },
+    {
+      "verseNo": 6,
+      "verseNoEnd": null,
+      "source": "ai",
+      "text": "Şüphesiz, Kitap ehli ve müşrikler arasından inkâr edenler Cehennem ateşindedir; orada ebedî olarak kalacaklardır. İşte onlar en kötü yaratıklardır."
+    },
+    {
+      "verseNo": 7,
+      "verseNoEnd": null,
+      "source": "ai",
+      "text": "Şüphesiz, iman edenler ve salih amel işleyenler, işte onlar en hayırlı yaratıklardır."
+    },
+    {
+      "verseNo": 8,
+      "verseNoEnd": null,
+      "source": "ai",
+      "text": "Onların karşılığı Rableri yanında Adn cennetleridir; altlarından nehirler akar; orada ebediyen kalacaklardır. Allah onlardan razı oldu ve onlar da O'ndan razı oldular. Bu, Rab'ini sakınanlar içindir."
+    }
+  ],
+  "aiParagraph": "Açık bir delil gelmeden önce kimsenin bırakıp gidemeyeceğini söylüyor metin — sanki insanın içinde bir kapı sürekli açık kalıyor, bir şeyi bekliyor, bir şeye muhtaç. Asıl çarpıcı olan ise şu: kitap ehlinin ayrılığa düşmesi, o açık kapıdan geçecek şey geldikten *sonra* olmuş. Yani sorun bilgisizlik değilmiş; bilgi gelmiş, ayrılık yine de başlamış. Bu, bir insanın \"bana yeter ki göstersinler\" diyip aslında görmek istemediğini bildiği o anı tanıtıyor gibi. Metnin özüne göre istenen şey karmaşık değil: samimi bir bağlılık, içi boş olmayan bir adanma, ve elindekini başkasıyla paylaşma. Saf, arındırılmış bir yönelme. Ama tam da bu yalınlık insana zor geliyor olmalı ki metin, inanıp dürüst yaşayanlarla inkâr edenleri yaratılmışların en hayırlısı ve en kötüsü olarak karşılıklı koyuyor — arada gri bir alan bırakmadan. En sonunda kalan cümle ise hepsinin üstünde asılı duruyor: bu, yalnızca Rabbinden içtenlikle çekinen kişi içindir. Yani mesele hangi gruba ait olduğun değil; içindeki o çekingenliğin, o derin saygının gerçek olup olmadığı.",
+  "audienceContext": "Bu sure Medine döneminde, İslam topluluğunun artık farklı inanç gruplarıyla aynı şehirde yaşadığı bir evrede indi. Muhatap tek tip değildi: bir yanda dini kitapları olan, yazılı geleneğe sahip, kendilerini köklü bir vahiy mirasının taşıyıcısı sayan topluluklar vardı; öte yanda Allah'ın varlığını zaten kabul eden ama ona aracı koşmayı, bazı varlıkları şefaatçi tutmayı terk etmeyen Arap müşrikler. Bu iki grubun birbirine çok benzemeyen yapıları surenin birinci ayetinde aynı anda ve aynı cümleyle anılır — bu seçim rastlantı değildir.\n\nHer iki grubun da iddiası benzerdi: bize sarsılmaz, elle tutulur bir kanıt gelmeden mevcut düzenden ayrılmayız. Bu, iyi niyetli bir bilgi talebi gibi görünebilir. Ama surenin dördüncü ayeti o görüntüyü tersine çevirir: ayrılık, kanıt gelmediği için değil, kanıt geldikten sonra çıktı. Demek ki sorun bilgisizlik değildi; bilgi geldiğinde de tutum değişmedi. Direncin kaynağı anlamama değil, mevcut konumu koruma isteğiydi.\n\nKitabı olan grubun durumu özellikle keskin bir paradoks taşıyor. Sure beşinci ayette şunu söylüyor: onlara zaten yalnızca tek bir şey emredilmişti — her türlü şaibeden arınmış biçimde, yalnızca Allah'a yönelmek, namazı ayakta tutmak, zekâtı vermek. Bu, Beyyine'nin bildirdiği bir yenilik değildir; zaten onların kendi kitaplarının özüydü. Öyleyse direnç, yeni bir şeyin reddine değil, kendi köküyle yüzleşmenin reddine dönüşmüştü. Güç, statü ve dinî otorite düzeni o köke yaslanıyordu; kök değişince düzen de sarsılacaktı. Direnç çoğunlukla anlamayanlardan değil, mevcut düzenden kazançlı çıkanlardan gelir — bu sure bu duruma açık biçimde işaret eder.",
+  "eventMessageMap": [
+    {
+      "situation": "Ehl-i kitap ve müşrikler, mevcut konumlarından ancak açık bir kanıtla ayrılacaklarını söylüyordu.",
+      "response": "Metin, beklenen kanıtın ne olduğunu tanımladı: tertemiz sahifeler okuyan, Allah'tan gönderilmiş bir elçi.",
+      "shift": "Kanıtın tanımı artık muhatapların belirlediği belirsiz bir eşiğe değil, somut ve gözlemlenebilir bir şeye bağlandı."
+    },
+    {
+      "situation": "Kanıt geldikten sonra Ehl-i kitap ayrılığa düştü — yani parçalandı, ihtilafa girdi.",
+      "response": "Metin bu ayrılığın kanıt yokluğundan değil, kanıt geldikten sonra oluştuğunu kayda geçirdi.",
+      "shift": "İtiraz 'bilgi yetersizliği' zeminine artık yaslanamıyordu; mesele bilgiden önce tutuma taşındı."
+    },
+    {
+      "situation": "Ehl-i kitap, getirilen ilkeleri yabancı ve yeni bir yük olarak sunabilirdi.",
+      "response": "Metin, o ilkelerin — ihlâs, namazı ayakta tutmak, zekât — zaten onlara emredilmiş olduğunu söyledi.",
+      "shift": "Reddetme eylemi artık 'yeni bir şeyi reddetme' olarak değil, 'kendi köküyle çelişme' olarak okunabilir hale geldi."
+    },
+    {
+      "situation": "Kimin 'en iyi' ya da 'en kötü' olduğu etnik köken, kabile bağı veya dini unvan üzerinden belirleniyordu.",
+      "response": "Metin, 'yaratılmışların en hayırlısı' ve 'en kötüsü' ifadelerini etikete değil, tutuma bağladı: iman edip salih amel işlemek ya da küfür üzere kalmak.",
+      "shift": "Soy ve cemaat kimliği bu denklemin dışında kaldı; değerlendirme kriteri bireyin eylemi oldu."
+    }
+  ],
+  "apophaticReading": "'Bu sure iki rakip grubu karşılaştırıp birini mahkûm ediyor' okuması metnin kendi mantığıyla çelişir. Çünkü aynı sure, beşinci ayette, direnen gruplara 'zaten size de aynı şey emredilmişti' der. Metin onları yabancı bir dinin muhatabı olarak değil, kendi kökenlerinden kopmuş kimseler olarak konumlandırır. Mahkûmiyet varsa, dışarıdan gelen bir hükmün kurbanı değil, kendi özünden uzaklaşmanın sonucudur. Basit bir 'biz/onlar' şeması bu gerilimi tutamaz.\n\n'Bu sure kanıt isteyenlere cevap veriyor' okuması da metnin kendi mantığıyla çelişir. Çünkü aynı sure, dördüncü ayette, ayrılığın kanıt geldikten sonra çıktığını açıkça kaydeder. Kanıt talebi, daha başından bir engel işlevi görmüyordu; kanıt geldiğinde de tutum aynı kaldı. Metin kanıt sorununu değil, kanıtın ardından gelen tutumu merkeze alır.\n\nGeriye kalan yönelim şu yönde görünür: sure, 'bilgi' ile 'tutum' arasındaki mesafeyi ısrarla açık tutar. Elimde bilgi olabilir ama o bilgiyle uyumlu hareket etmiyor olabilirim. Elimde kitap olabilir ama o kitabın özünden fiilen uzaklaşmış olabilirim. Metnin yönelimi, sahip olunan ile yaşanan arasındaki açığa bakmayı öneriyor.\n\nBugüne kadar az bakılmış açı: Beşinci ayette sıralanan dört ilkenin — ihlâs (hiçbir şaibe karıştırmaksızın yalnızca Allah'a yönelmek), haniflik (her türlü eğrilikten azade dosdoğru duruş), namazı ayakta tutmak, zekât vermek — herhangi bir yeni vahyin değil, daha önce gelen kitapların özü olarak sunulması, Beyyine'nin temel iddiasını bilgi aktarımından çok bir hatırlatmaya dönüştürür. Bu açıdan 'dînü'l-kayyime' (dosdoğru din) ifadesi ileriye işaret eden bir program değil, zaten bilinmesi gerekene dönük bir baskı gibi işlev görür. Peki o zaman 'neden şimdi?' sorusu kalır: çünkü bilgi kaybolmamış, bilginin yaşanması kaybolmuştu.\n\nSusma: *İnsanın kanıt ararken asıl ne aradığı — gerçekten ikna mı, yoksa mevcut tutumuna dışarıdan destek mi — bu sureden görünmez.*",
+  "aiCommentary": "Bu dört bölüm bir yapay zekâ tarafından yazılmıştır. Kullanılan kaynaklar şunlardır: surenin Arapça metni (birincil), TDV İslâm Ansiklopedisi Beyyine ve Câhiliye maddeleri, Diyanet tefsiri ve meal kaynakları (doğrulama için). Tarihsel bağlam iddiaları bu kaynaklara, dil analizi Arapça metne dayandırılmıştır.\n\nApofatik okuma (olumsuzlama) yöntemi bilinçli olarak seçilmiştir. 'Metnin şunu söylediğini' doğrudan iddia etmek yerine, yaygın okumaların metnin kendi mantığıyla nerede çeliştiği gösterilmeye çalışılmıştır. Bunun nedeni şudur: bir metnin yaratıcısına ya da o metnin nihai maksadına dair her kesin söz, insanın tahminidir. Olumsuzlama yöntemi, tahmin alanını görünür kılar ve okuyucunun kendi yargısını devreye sokmasına alan bırakır.\n\nBu metin bir tefsir, bir meal veya bir fetva değildir. Amel hükmü içermez, 'şu helal/haramdır' demez. Yeni kaynak veya araştırma bulgusu geldiğinde bu okuma değişebilir. Okuyucunun kendi anlayışının ve sorumluluğunun yerini alamaz."
 }

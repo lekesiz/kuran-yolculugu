@@ -1,311 +1,336 @@
 {
- "stationNo": 13,
- "surahNo": 94,
- "nuzulOrderOkuyan": 6,
- "name": "İnşirâh",
- "nameArabic": "الشرح",
- "nameMeaning": "Yarıp genişletmek",
- "verseCount": 8,
- "periodDiyanet": "Mekke",
- "periodOkuyan": "Mekke",
- "revelationTiming": "Duhâ suresinin hemen ardından",
- "stationTitle": "Zorlukla birlikte kolaylık vardır — arkasından değil, beraberinde.",
- "introduction": "İnşirâh suresi, adını birinci ayetteki \"şerh\" (yarıp genişletmek) kökünden alır; \"İnşirâh\" ve \"Şerh\" adlarıyla bilinir. Sekiz ayetlik sure, Duhâ suresinin hemen ardından inmiştir ve onun devamı gibi okunur.\n\nSure üç geçmiş lütfu sayar: göğsün genişletilmesi, yükün kaldırılması, adın yükseltilmesi. Ardından iki kez tekrarlanan bir ilke gelir: zorlukla birlikte kolaylık vardır. Kapanışta iki emir verilir: iş bitince yeniden çalış, yalnız Rabbine yönel.",
- "occasionOfRevelation": "Sure, Duhâ suresiyle aynı dönemde, ilk vahiylerin ardından yaşanan sıkıntı ve baskı sürecinde inmiştir. Klasik tefsirler ikisini birlikte değerlendirir; bazı âlimler tek bir sure olduklarını dahi savunmuştur.\n\nBirinci ayetteki \"göğsünü genişletme\" ifadesi tefsirlerde iki biçimde açıklanır: manevî bir ferahlık, kavrayış genişliği ve sabır kapasitesi olarak; yahut bazı rivayetlerde anlatılan fiziksel bir olay olarak. Diyanet Kur'an Yolu tefsiri birinci yorumu öne çıkarır.\n\nBeşinci ve altıncı ayetlerin tekrarı dikkat çekicidir: aynı cümle iki kez söylenir. Tefsirler bu tekrarı pekiştirme olarak açıklar; bazıları ise iki ayrı kolaylığa işaret ettiğini savunur.",
- "occasionSources": "Diyanet İşleri Başkanlığı Kur'an Yolu Tefsiri, İnşirâh (Şerh) suresi girişi; TDV İslâm Ansiklopedisi, \"İnşirâh Sûresi\" maddesi.",
- "contemporaryMeaning": "Surenin en çok alıntılanan ayeti dikkatli okunmayı hak eder. Cümle \"zorluktan sonra kolaylık gelir\" demez; \"zorlukla birlikte (ma'a) kolaylık vardır\" der. Fark önemlidir: kolaylık, zorluğun bitmesini beklemek zorunda değildir, onun içinde bulunur.\n\nBu okuma, sıkıntının içinde bir imkân aramayı önerir. Zorluk geçince rahatlayacağını düşünen insan bekler; zorluğun içinde kolaylık arayan insan davranır.\n\nKapanış ise beklenmedik bir yön verir. Yedinci ayet \"iş bitince yeniden çalış\" der. Metin bir dinlenme vaadiyle değil, süreklilik çağrısıyla kapanır. Rahatlama noktası bir varış değil, bir sonraki yönelmenin başlangıcıdır.",
- "keyTerms": [
-  {
-   "term": "şerh",
-   "arabic": "نَشْرَحْ",
-   "verseRef": "94:1",
-   "meaning": "Yarıp genişletmek, açmak. Göğsün genişletilmesi; kavrayış, sabır ve ferahlık kapasitesinin artması."
-  },
-  {
-   "term": "vizr",
-   "arabic": "وِزْرَك",
-   "verseRef": "94:2",
-   "meaning": "Yük, ağırlık. Sırtı büken, taşınması zor olan şey."
-  },
-  {
-   "term": "ma'a'l-usri yüsrâ",
-   "arabic": "مَعَ الْعُسْرِ يُسْرًا",
-   "verseRef": "94:5-6",
-   "meaning": "Zorlukla birlikte kolaylık. \"Ma'a\" edatı beraberlik bildirir; sonralık değil eşzamanlılık."
-  },
-  {
-   "term": "fensab",
-   "arabic": "فَانصَبْ",
-   "verseRef": "94:7",
-   "meaning": "Yorulurcasına çalış, gayret et. İş bitince durmak değil, yeniden yönelmek."
-  }
- ],
- "themes": [
-  {
-   "label": "Kolaylık, zorluğun içindedir",
-   "body": "Ayet \"zorluktan sonra\" değil \"zorlukla birlikte\" der. Bu okuma, sıkıntının bitmesini beklemek yerine içinde imkân aramayı önerir."
-  },
-  {
-   "label": "Genişleyen kapasite",
-   "body": "Göğsün genişletilmesi, yükün hafifletilmesinden farklıdır: yük aynı kalırken taşıyanın kapasitesi büyür."
-  },
-  {
-   "label": "Tekrarın anlamı",
-   "body": "Aynı cümle iki kez söylenir. Tefsirler bunu pekiştirme sayar; bazıları iki ayrı kolaylığa işaret olduğunu savunur."
-  },
-  {
-   "label": "Varış değil, süreklilik",
-   "body": "Sure dinlenme vaadiyle değil \"iş bitince yeniden çalış\" emriyle kapanır. Rahatlama bir son değil, bir sonraki adımın eşiğidir."
-  }
- ],
- "questions": [
-  "Şu anki zorluğumun bitmesini mi bekliyorum, yoksa içinde bir imkân arıyor muyum?",
-  "Taşıdığım yük gerçekten büyüdü mü, yoksa benim kapasitem mi daralmış?",
-  "Bir işi bitirdiğimde hemen dağılıyor muyum? Bitirme ile bir sonraki adım arasında nasıl bir bağ kuruyorum?"
- ],
- "verses": [
-  {
-   "verseNo": 1,
-   "textArabic": "بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ أَلَمْ نَشْرَحْ لَكَ صَدْرَكَ"
-  },
-  {
-   "verseNo": 2,
-   "textArabic": "وَوَضَعْنَا عَنكَ وِزْرَكَ"
-  },
-  {
-   "verseNo": 3,
-   "textArabic": "ٱلَّذِىٓ أَنقَضَ ظَهْرَكَ"
-  },
-  {
-   "verseNo": 4,
-   "textArabic": "وَرَفَعْنَا لَكَ ذِكْرَكَ"
-  },
-  {
-   "verseNo": 5,
-   "textArabic": "فَإِنَّ مَعَ ٱلْعُسْرِ يُسْرًا"
-  },
-  {
-   "verseNo": 6,
-   "textArabic": "إِنَّ مَعَ ٱلْعُسْرِ يُسْرًۭا"
-  },
-  {
-   "verseNo": 7,
-   "textArabic": "فَإِذَا فَرَغْتَ فَٱنصَبْ"
-  },
-  {
-   "verseNo": 8,
-   "textArabic": "وَإِلَىٰ رَبِّكَ فَٱرْغَب"
-  }
- ],
- "translations": [
-  {
-   "verseNo": 1,
-   "source": "diyanet",
-   "text": "(Ey Muhammed!) Senin göğsünü açıp genişletmedik mi?"
-  },
-  {
-   "verseNo": 1,
-   "source": "islamoglu",
-   "text": "SENİN gönlüne ferahlık vermedik mi?"
-  },
-  {
-   "verseNo": 1,
-   "source": "esed",
-   "text": "Biz kalbini aç(ıp ferahlat)madık mı"
-  },
-  {
-   "verseNo": 1,
-   "source": "okuyan",
-   "text": "Senin için göğsünü ferahlatmadık mı?"
-  },
-  {
-   "verseNo": 2,
-   "source": "diyanet",
-   "text": "Belini büken yükünü üzerinden kaldırmadık mı?"
-  },
-  {
-   "verseNo": 2,
-   "source": "islamoglu",
-   "text": "Ve yükünü sırtından kaldırmadık mı?"
-  },
-  {
-   "verseNo": 2,
-   "source": "esed",
-   "text": "ve üzerinden yükü kaldırmadık mı"
-  },
-  {
-   "verseNo": 2,
-   "source": "okuyan",
-   "text": "2,3. Belini büken yükünü senden atmıştık."
-  },
-  {
-   "verseNo": 3,
-   "source": "diyanet",
-   "text": "Belini büken yükünü üzerinden kaldırmadık mı?"
-  },
-  {
-   "verseNo": 3,
-   "source": "islamoglu",
-   "text": "Ki o yük belini iki büklüm etmişti!"
-  },
-  {
-   "verseNo": 3,
-   "source": "esed",
-   "text": "o belini büken (yükü)"
-  },
-  {
-   "verseNo": 3,
-   "source": "okuyan",
-   "text": "2,3. Belini büken yükünü senden atmıştık."
-  },
-  {
-   "verseNo": 4,
-   "source": "diyanet",
-   "text": "Senin şânını yükseltmedik mi?"
-  },
-  {
-   "verseNo": 4,
-   "source": "islamoglu",
-   "text": "Ve senin şanını yüceltmedik mi?"
-  },
-  {
-   "verseNo": 4,
-   "source": "esed",
-   "text": "Şerefini ve itibarını yükseltmedik mi"
-  },
-  {
-   "verseNo": 4,
-   "source": "okuyan",
-   "text": "Senin için şanını da yüceltmiştik."
-  },
-  {
-   "verseNo": 5,
-   "source": "diyanet",
-   "text": "Şüphesiz güçlükle beraber bir kolaylık vardır."
-  },
-  {
-   "verseNo": 5,
-   "source": "islamoglu",
-   "text": "Sözün özü: zorlukla beraber tarifsiz bir kolaylık vardır."
-  },
-  {
-   "verseNo": 5,
-   "source": "esed",
-   "text": "Elbette her güçlükle birlikte bir kolaylık vardır"
-  },
-  {
-   "verseNo": 5,
-   "source": "okuyan",
-   "text": "Şüphesiz ki her zorlukla birlikte bir kolaylık vardır."
-  },
-  {
-   "verseNo": 6,
-   "source": "diyanet",
-   "text": "Gerçekten, güçlükle beraber bir kolaylık vardır."
-  },
-  {
-   "verseNo": 6,
-   "source": "islamoglu",
-   "text": "Evet, evet; zorlukla beraber mutlaka tarife sığmaz bir kolaylık vardır."
-  },
-  {
-   "verseNo": 6,
-   "source": "esed",
-   "text": "Şüphesiz, her güçlükle bir kolaylık"
-  },
-  {
-   "verseNo": 6,
-   "source": "okuyan",
-   "text": "(Evet), şüphesiz ki her zorlukla birlikte bir kolaylık vardır."
-  },
-  {
-   "verseNo": 7,
-   "source": "diyanet",
-   "text": "Öyleyse, bir işi bitirince diğerine koyul."
-  },
-  {
-   "verseNo": 7,
-   "source": "islamoglu",
-   "text": "Şu halde, bir zorluğu aştığında yılma, başka bir işe giriş!"
-  },
-  {
-   "verseNo": 7,
-   "source": "esed",
-   "text": "Öyleyse (sıkıntıdan) kurtulduğun zaman sağlam dur"
-  },
-  {
-   "verseNo": 7,
-   "source": "okuyan",
-   "text": "(Bir işi bitirip) boş kalınca hemen (başka bir işe) kalk."
-  },
-  {
-   "verseNo": 8,
-   "source": "diyanet",
-   "text": "Ancak Rabbine yönel ve yalvar."
-  },
-  {
-   "verseNo": 8,
-   "source": "islamoglu",
-   "text": "Ve (yüzünü) yalnız Rabbine dön; artık hep (O’na) meylet!"
-  },
-  {
-   "verseNo": 8,
-   "source": "esed",
-   "text": "ve yalnız Rabbine sevgi ile yönel"
-  },
-  {
-   "verseNo": 8,
-   "source": "okuyan",
-   "text": "Yalnızca Rabbine yönel!"
-  },
-  {
-   "verseNo": 1,
-   "verseNoEnd": null,
-   "source": "ai",
-   "text": "Sana göğsünü genişletmedik mi?"
-  },
-  {
-   "verseNo": 2,
-   "verseNoEnd": null,
-   "source": "ai",
-   "text": "Senden yükünü kaldırdık."
-  },
-  {
-   "verseNo": 3,
-   "verseNoEnd": null,
-   "source": "ai",
-   "text": "Sırtını çökerten yüktü."
-  },
-  {
-   "verseNo": 4,
-   "verseNoEnd": null,
-   "source": "ai",
-   "text": "Adını yücelttik."
-  },
-  {
-   "verseNo": 5,
-   "verseNoEnd": null,
-   "source": "ai",
-   "text": "Zorlukla birlikte kolaylık vardır."
-  },
-  {
-   "verseNo": 6,
-   "verseNoEnd": null,
-   "source": "ai",
-   "text": "Zorlukla birlikte kolaylık vardır."
-  },
-  {
-   "verseNo": 7,
-   "verseNoEnd": null,
-   "source": "ai",
-   "text": "O halde işin bittiğinde çalış."
-  },
-  {
-   "verseNo": 8,
-   "verseNoEnd": null,
-   "source": "ai",
-   "text": "Rabbine yönel."
-  }
- ],
- "aiParagraph": "Bir yük var — omurgayı büken, nefes almayı zorlaştıran cinsten. Metin bunu sırtı kıracak kadar ağır bir şey olarak tarif ediyor ve ardından soruyor: o yükü indiren kim oldu? Göğsü açan, daralmış olanı genişleten kim? Soru retorik, ama içinde bir hatırlatma var: zaten geçmişte bir kez böyle oldu, yük kalktı, ad yükseldi — ve sen farkında bile değildin belki. Sonra metin en yoğun anını yaşıyor: aynı cümleyi iki kez kuruyor, yalnızca harfler değil ritim de ısrar ediyor — zorluğun tam içinde, onunla birlikte, aynı anda bir kolaylık daha var. Tek bir güçlük, ama yanında iki kez zikredilen bir çıkış. Sonra beklenmedik bir şey söylüyor: boşaldığında, bitirdiğinde, \"oldu\" dediğinde — orada durma, yeni bir çabaya gir. Sanki dinlenmek için boşluk değil, bir sonraki hamle için zemin arıyor insan. Ve en sonda tek bir yön gösteriyor — ne bir başarıya, ne bir insana, ne de bir sonuca değil. Bu yönelişin nereye olduğunu metin açıkça söylüyor; onu neden yeterli saydığını ise söylemiyor."
+  "stationNo": 13,
+  "surahNo": 94,
+  "nuzulOrderOkuyan": 6,
+  "name": "İnşirâh",
+  "nameArabic": "الشرح",
+  "nameMeaning": "Yarıp genişletmek",
+  "verseCount": 8,
+  "periodDiyanet": "Mekke",
+  "periodOkuyan": "Mekke",
+  "revelationTiming": "Duhâ suresinin hemen ardından",
+  "stationTitle": "Zorlukla birlikte kolaylık vardır — arkasından değil, beraberinde.",
+  "introduction": "İnşirâh suresi, adını birinci ayetteki \"şerh\" (yarıp genişletmek) kökünden alır; \"İnşirâh\" ve \"Şerh\" adlarıyla bilinir. Sekiz ayetlik sure, Duhâ suresinin hemen ardından inmiştir ve onun devamı gibi okunur.\n\nSure üç geçmiş lütfu sayar: göğsün genişletilmesi, yükün kaldırılması, adın yükseltilmesi. Ardından iki kez tekrarlanan bir ilke gelir: zorlukla birlikte kolaylık vardır. Kapanışta iki emir verilir: iş bitince yeniden çalış, yalnız Rabbine yönel.",
+  "occasionOfRevelation": "Sure, Duhâ suresiyle aynı dönemde, ilk vahiylerin ardından yaşanan sıkıntı ve baskı sürecinde inmiştir. Klasik tefsirler ikisini birlikte değerlendirir; bazı âlimler tek bir sure olduklarını dahi savunmuştur.\n\nBirinci ayetteki \"göğsünü genişletme\" ifadesi tefsirlerde iki biçimde açıklanır: manevî bir ferahlık, kavrayış genişliği ve sabır kapasitesi olarak; yahut bazı rivayetlerde anlatılan fiziksel bir olay olarak. Diyanet Kur'an Yolu tefsiri birinci yorumu öne çıkarır.\n\nBeşinci ve altıncı ayetlerin tekrarı dikkat çekicidir: aynı cümle iki kez söylenir. Tefsirler bu tekrarı pekiştirme olarak açıklar; bazıları ise iki ayrı kolaylığa işaret ettiğini savunur.",
+  "occasionSources": "Diyanet İşleri Başkanlığı Kur'an Yolu Tefsiri, İnşirâh (Şerh) suresi girişi; TDV İslâm Ansiklopedisi, \"İnşirâh Sûresi\" maddesi.",
+  "contemporaryMeaning": "Surenin en çok alıntılanan ayeti dikkatli okunmayı hak eder. Cümle \"zorluktan sonra kolaylık gelir\" demez; \"zorlukla birlikte (ma'a) kolaylık vardır\" der. Fark önemlidir: kolaylık, zorluğun bitmesini beklemek zorunda değildir, onun içinde bulunur.\n\nBu okuma, sıkıntının içinde bir imkân aramayı önerir. Zorluk geçince rahatlayacağını düşünen insan bekler; zorluğun içinde kolaylık arayan insan davranır.\n\nKapanış ise beklenmedik bir yön verir. Yedinci ayet \"iş bitince yeniden çalış\" der. Metin bir dinlenme vaadiyle değil, süreklilik çağrısıyla kapanır. Rahatlama noktası bir varış değil, bir sonraki yönelmenin başlangıcıdır.",
+  "keyTerms": [
+    {
+      "term": "şerh",
+      "arabic": "نَشْرَحْ",
+      "verseRef": "94:1",
+      "meaning": "Yarıp genişletmek, açmak. Göğsün genişletilmesi; kavrayış, sabır ve ferahlık kapasitesinin artması."
+    },
+    {
+      "term": "vizr",
+      "arabic": "وِزْرَك",
+      "verseRef": "94:2",
+      "meaning": "Yük, ağırlık. Sırtı büken, taşınması zor olan şey."
+    },
+    {
+      "term": "ma'a'l-usri yüsrâ",
+      "arabic": "مَعَ الْعُسْرِ يُسْرًا",
+      "verseRef": "94:5-6",
+      "meaning": "Zorlukla birlikte kolaylık. \"Ma'a\" edatı beraberlik bildirir; sonralık değil eşzamanlılık."
+    },
+    {
+      "term": "fensab",
+      "arabic": "فَانصَبْ",
+      "verseRef": "94:7",
+      "meaning": "Yorulurcasına çalış, gayret et. İş bitince durmak değil, yeniden yönelmek."
+    }
+  ],
+  "themes": [
+    {
+      "label": "Kolaylık, zorluğun içindedir",
+      "body": "Ayet \"zorluktan sonra\" değil \"zorlukla birlikte\" der. Bu okuma, sıkıntının bitmesini beklemek yerine içinde imkân aramayı önerir."
+    },
+    {
+      "label": "Genişleyen kapasite",
+      "body": "Göğsün genişletilmesi, yükün hafifletilmesinden farklıdır: yük aynı kalırken taşıyanın kapasitesi büyür."
+    },
+    {
+      "label": "Tekrarın anlamı",
+      "body": "Aynı cümle iki kez söylenir. Tefsirler bunu pekiştirme sayar; bazıları iki ayrı kolaylığa işaret olduğunu savunur."
+    },
+    {
+      "label": "Varış değil, süreklilik",
+      "body": "Sure dinlenme vaadiyle değil \"iş bitince yeniden çalış\" emriyle kapanır. Rahatlama bir son değil, bir sonraki adımın eşiğidir."
+    }
+  ],
+  "questions": [
+    "Şu anki zorluğumun bitmesini mi bekliyorum, yoksa içinde bir imkân arıyor muyum?",
+    "Taşıdığım yük gerçekten büyüdü mü, yoksa benim kapasitem mi daralmış?",
+    "Bir işi bitirdiğimde hemen dağılıyor muyum? Bitirme ile bir sonraki adım arasında nasıl bir bağ kuruyorum?"
+  ],
+  "verses": [
+    {
+      "verseNo": 1,
+      "textArabic": "بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ أَلَمْ نَشْرَحْ لَكَ صَدْرَكَ"
+    },
+    {
+      "verseNo": 2,
+      "textArabic": "وَوَضَعْنَا عَنكَ وِزْرَكَ"
+    },
+    {
+      "verseNo": 3,
+      "textArabic": "ٱلَّذِىٓ أَنقَضَ ظَهْرَكَ"
+    },
+    {
+      "verseNo": 4,
+      "textArabic": "وَرَفَعْنَا لَكَ ذِكْرَكَ"
+    },
+    {
+      "verseNo": 5,
+      "textArabic": "فَإِنَّ مَعَ ٱلْعُسْرِ يُسْرًا"
+    },
+    {
+      "verseNo": 6,
+      "textArabic": "إِنَّ مَعَ ٱلْعُسْرِ يُسْرًۭا"
+    },
+    {
+      "verseNo": 7,
+      "textArabic": "فَإِذَا فَرَغْتَ فَٱنصَبْ"
+    },
+    {
+      "verseNo": 8,
+      "textArabic": "وَإِلَىٰ رَبِّكَ فَٱرْغَب"
+    }
+  ],
+  "translations": [
+    {
+      "verseNo": 1,
+      "source": "diyanet",
+      "text": "(Ey Muhammed!) Senin göğsünü açıp genişletmedik mi?"
+    },
+    {
+      "verseNo": 1,
+      "source": "islamoglu",
+      "text": "SENİN gönlüne ferahlık vermedik mi?"
+    },
+    {
+      "verseNo": 1,
+      "source": "esed",
+      "text": "Biz kalbini aç(ıp ferahlat)madık mı"
+    },
+    {
+      "verseNo": 1,
+      "source": "okuyan",
+      "text": "Senin için göğsünü ferahlatmadık mı?"
+    },
+    {
+      "verseNo": 2,
+      "source": "diyanet",
+      "text": "Belini büken yükünü üzerinden kaldırmadık mı?"
+    },
+    {
+      "verseNo": 2,
+      "source": "islamoglu",
+      "text": "Ve yükünü sırtından kaldırmadık mı?"
+    },
+    {
+      "verseNo": 2,
+      "source": "esed",
+      "text": "ve üzerinden yükü kaldırmadık mı"
+    },
+    {
+      "verseNo": 2,
+      "source": "okuyan",
+      "text": "2,3. Belini büken yükünü senden atmıştık."
+    },
+    {
+      "verseNo": 3,
+      "source": "diyanet",
+      "text": "Belini büken yükünü üzerinden kaldırmadık mı?"
+    },
+    {
+      "verseNo": 3,
+      "source": "islamoglu",
+      "text": "Ki o yük belini iki büklüm etmişti!"
+    },
+    {
+      "verseNo": 3,
+      "source": "esed",
+      "text": "o belini büken (yükü)"
+    },
+    {
+      "verseNo": 3,
+      "source": "okuyan",
+      "text": "2,3. Belini büken yükünü senden atmıştık."
+    },
+    {
+      "verseNo": 4,
+      "source": "diyanet",
+      "text": "Senin şânını yükseltmedik mi?"
+    },
+    {
+      "verseNo": 4,
+      "source": "islamoglu",
+      "text": "Ve senin şanını yüceltmedik mi?"
+    },
+    {
+      "verseNo": 4,
+      "source": "esed",
+      "text": "Şerefini ve itibarını yükseltmedik mi"
+    },
+    {
+      "verseNo": 4,
+      "source": "okuyan",
+      "text": "Senin için şanını da yüceltmiştik."
+    },
+    {
+      "verseNo": 5,
+      "source": "diyanet",
+      "text": "Şüphesiz güçlükle beraber bir kolaylık vardır."
+    },
+    {
+      "verseNo": 5,
+      "source": "islamoglu",
+      "text": "Sözün özü: zorlukla beraber tarifsiz bir kolaylık vardır."
+    },
+    {
+      "verseNo": 5,
+      "source": "esed",
+      "text": "Elbette her güçlükle birlikte bir kolaylık vardır"
+    },
+    {
+      "verseNo": 5,
+      "source": "okuyan",
+      "text": "Şüphesiz ki her zorlukla birlikte bir kolaylık vardır."
+    },
+    {
+      "verseNo": 6,
+      "source": "diyanet",
+      "text": "Gerçekten, güçlükle beraber bir kolaylık vardır."
+    },
+    {
+      "verseNo": 6,
+      "source": "islamoglu",
+      "text": "Evet, evet; zorlukla beraber mutlaka tarife sığmaz bir kolaylık vardır."
+    },
+    {
+      "verseNo": 6,
+      "source": "esed",
+      "text": "Şüphesiz, her güçlükle bir kolaylık"
+    },
+    {
+      "verseNo": 6,
+      "source": "okuyan",
+      "text": "(Evet), şüphesiz ki her zorlukla birlikte bir kolaylık vardır."
+    },
+    {
+      "verseNo": 7,
+      "source": "diyanet",
+      "text": "Öyleyse, bir işi bitirince diğerine koyul."
+    },
+    {
+      "verseNo": 7,
+      "source": "islamoglu",
+      "text": "Şu halde, bir zorluğu aştığında yılma, başka bir işe giriş!"
+    },
+    {
+      "verseNo": 7,
+      "source": "esed",
+      "text": "Öyleyse (sıkıntıdan) kurtulduğun zaman sağlam dur"
+    },
+    {
+      "verseNo": 7,
+      "source": "okuyan",
+      "text": "(Bir işi bitirip) boş kalınca hemen (başka bir işe) kalk."
+    },
+    {
+      "verseNo": 8,
+      "source": "diyanet",
+      "text": "Ancak Rabbine yönel ve yalvar."
+    },
+    {
+      "verseNo": 8,
+      "source": "islamoglu",
+      "text": "Ve (yüzünü) yalnız Rabbine dön; artık hep (O’na) meylet!"
+    },
+    {
+      "verseNo": 8,
+      "source": "esed",
+      "text": "ve yalnız Rabbine sevgi ile yönel"
+    },
+    {
+      "verseNo": 8,
+      "source": "okuyan",
+      "text": "Yalnızca Rabbine yönel!"
+    },
+    {
+      "verseNo": 1,
+      "verseNoEnd": null,
+      "source": "ai",
+      "text": "Sana göğsünü genişletmedik mi?"
+    },
+    {
+      "verseNo": 2,
+      "verseNoEnd": null,
+      "source": "ai",
+      "text": "Senden yükünü kaldırdık."
+    },
+    {
+      "verseNo": 3,
+      "verseNoEnd": null,
+      "source": "ai",
+      "text": "Sırtını çökerten yüktü."
+    },
+    {
+      "verseNo": 4,
+      "verseNoEnd": null,
+      "source": "ai",
+      "text": "Adını yücelttik."
+    },
+    {
+      "verseNo": 5,
+      "verseNoEnd": null,
+      "source": "ai",
+      "text": "Zorlukla birlikte kolaylık vardır."
+    },
+    {
+      "verseNo": 6,
+      "verseNoEnd": null,
+      "source": "ai",
+      "text": "Zorlukla birlikte kolaylık vardır."
+    },
+    {
+      "verseNo": 7,
+      "verseNoEnd": null,
+      "source": "ai",
+      "text": "O halde işin bittiğinde çalış."
+    },
+    {
+      "verseNo": 8,
+      "verseNoEnd": null,
+      "source": "ai",
+      "text": "Rabbine yönel."
+    }
+  ],
+  "aiParagraph": "Bir yük var — omurgayı büken, nefes almayı zorlaştıran cinsten. Metin bunu sırtı kıracak kadar ağır bir şey olarak tarif ediyor ve ardından soruyor: o yükü indiren kim oldu? Göğsü açan, daralmış olanı genişleten kim? Soru retorik, ama içinde bir hatırlatma var: zaten geçmişte bir kez böyle oldu, yük kalktı, ad yükseldi — ve sen farkında bile değildin belki. Sonra metin en yoğun anını yaşıyor: aynı cümleyi iki kez kuruyor, yalnızca harfler değil ritim de ısrar ediyor — zorluğun tam içinde, onunla birlikte, aynı anda bir kolaylık daha var. Tek bir güçlük, ama yanında iki kez zikredilen bir çıkış. Sonra beklenmedik bir şey söylüyor: boşaldığında, bitirdiğinde, \"oldu\" dediğinde — orada durma, yeni bir çabaya gir. Sanki dinlenmek için boşluk değil, bir sonraki hamle için zemin arıyor insan. Ve en sonda tek bir yön gösteriyor — ne bir başarıya, ne bir insana, ne de bir sonuca değil. Bu yönelişin nereye olduğunu metin açıkça söylüyor; onu neden yeterli saydığını ise söylemiyor.",
+  "audienceContext": "İnşirâh suresi, nüzul sıralamasında altıncı; inen sureler arasında çok erken bir yerde duruyor. Muhatap, Mekke'nin ilk yıllarında tebliğe başlayan ve henüz küçük bir çevreden destek görebilen bir insandı. Surenin indiği dönemde daha önce saygı duyulan, itibarlı biriydi; ancak yeni bir söylem tutundurmaya çalışınca aynı çevre onu aşağılamaya, alay etmeye başladı. Klasik kaynaklar bu aşağılamanın somut bir biçimine dikkat çeker: fakirliğiyle ayıplanan Müslümanlar, maddî zayıflıkları üzerinden küçümseniyordu. Mekke'de servet ve klan gücü itibarın ölçüsüydü; yoksul olmak zaten bir onur meselesiydi; üstelik yoksulları yanına çeken bir sesle ortaya çıkmak, kabile düzeninin üst katmanlarında ciddi bir tehdit algısı yaratıyordu.\n\nO toplumun ortak zemini şuydu: Allah'ın varlığı, evrenin yaratılmışlığı tartışmalı değildi. Asıl itiraz başka yerdeydi — bir insanın peygamber olabileceğine, ölümden sonra hesap verileceğine ve kurulu aracılık düzeninin (kabileler arasındaki statü hiyerarşisi, Kabe etrafındaki ticaret ağı) yanlış olduğuna. Dolayısıyla sure, ortak kabul üzerinden söze giriyor: sana zaten verilmiş olan şeyleri hatırlıyor musun? Direncin kaynağı cehalet değil, mevcut düzenden kazanç sağlayanlardı. Göğsünü daraltan yük yalnızca kişisel sıkıntı değil, onu çevreleyen bir toplumun baskısının içinde kalmış olmanın ağırlığıydı.\n\nSure, o insana üç geçmiş lütfu soru biçiminde soruyor: göğsün açılmadı mı, yük üstünden kaldırılmadı mı, adın yüceltilmedi mi? Bu sorular retoriktir — yanıt zaten içlerinde saklıdır. Ama önemli olan şu: sure geleceği vaat etmiyor, geçmişi gösteriyor. Direnç noktasındaki insana şunu söylüyor: kaynaklarını dışarıda arama, sana zaten verilmiş olanlara bak. Bu, yeni bir bilgi değil; unutulmuş bir tanıklıktır.",
+  "eventMessageMap": [
+    {
+      "situation": "Tebliğin ilk yıllarında Mekke'nin ileri gelenlerinin baskısı altında göğüs daralması ve psikolojik sıkışma yaşanıyordu.",
+      "response": "Sure, göğsün zaten genişletildiğini — kavrayış ve tahammül kapasitesinin dışarıdan değil içeriden büyütüldüğünü — geçmiş zaman kipinde hatırlatır.",
+      "shift": "Ferahlığın kaynağı dış onaya ya da durumun değişmesine bağlı olmaktan çıkar; içsel bir kapasite meselesi olarak yeniden çerçevelenir."
+    },
+    {
+      "situation": "Fakirliği üzerinden aşağılanan Müslümanlar, Mekke'nin statü ve servet hiyerarşisinde görünmez sayılıyordu.",
+      "response": "Sure, adın yüceltildiğini açıkça bildirir — bu, toplumsal statü ölçütlerini tamamen devre dışı bırakan bir sayım biçimidir.",
+      "shift": "İtibar ve değer, klan gücü ya da maddî konum tarafından değil başka bir ölçütle belirlenir hale gelir."
+    },
+    {
+      "situation": "Sırtı büken vizr — ağırlığın tam olarak ne olduğu tartışmalı olmakla birlikte, bulunduğu toplumun ahlâk ve inanç yapısından duyulan ıstırap en güçlü bağlamdı.",
+      "response": "Sure, bu yükün üstünden kaldırıldığını bildirir; yükü küçümsemez, ama onu taşımak zorunda olmadığını söyler.",
+      "shift": "Sorumluluğun sınırı netleşir: tanıklık etmek görevdir, herkesi değiştirmek değil."
+    },
+    {
+      "situation": "İki kez tekrarlanan cümle: zorlukla birlikte kolaylık var — Arapçada 'ma'a' edatı eşzamanlılık bildirir, sonralık değil.",
+      "response": "Sure, kolaylığın zorluğun ardından değil içinde olduğunu söyler; biri belirsiz ('usrun'), diğeri belirli ('yüsran') — belirsiz tekrar eder, belirli tekrar etmez.",
+      "shift": "Bekleme biçimi değişir: zorluk bitince ferahlayacağım yerine, zorluk içinde ferahlık zaten var."
+    }
+  ],
+  "apophaticReading": "'Teselli suresidir' okuması metnin kendi mantığıyla çelişir. Çünkü aynı sure kapanışında 'iş bitince yeniden yönel, yalnızca Rabbine yönel' der — bu, durumu kabullenip rahatlayana çağrı değil, bir süreklilik çağrısıdır. Teselli pasifleştirir; bu metin son iki ayette tam tersini yapıyor.\n\n'Zorluk geçer, iyilik gelir' okuması metnin kendi mantığıyla çelişir. Çünkü 'ma'a' edatı Arapçada eşzamanlılık bildirir — zorluktan sonra değil, zorluğun tam içinde kolaylık vardır diyor. Üstelik sure hiçbir yerde zorluğun biteceğini vaat etmiyor; kolaylığın onunla birlikte var olduğunu söylüyor.\n\n'Yalnızca peygambere söylenmiş, özel bir hitaptır' okuması metnin kendi mantığıyla çelişir. Çünkü surenin beşinci ve altıncı ayetleri evrensel bir ilke gibi kurulmuştur — 'senin zorluğunla' değil 'zorlukla' denilmiştir. Kişiselleştirme ilk dört ayette; genelleştirme sonraki ikisindedir. Bu yapı bilinçli bir geçiştir.\n\nGeriye kalan yönelim şu: metin, geçmiş lütufları sayarak bir tanıklık zemini kuruyor; ardından bu zeminden bir süreklilik ilkesi çıkarıyor. Ferahlık için dışarıyı bekleme — içinde ne olduğuna bak. Sonra yeniden yönel. Bu, ne salt teselli ne de salt motivasyondur; daha çok bir yön kalibrasyonudur.\n\nBugüne kadar az bakılmış açı: 'vizr' kelimesi Arapçada hem 'günah' hem 'ağır yük' anlamına gelir ve tefsirlerde hangi anlamın daha uygun olduğu tartışılır. Ama editoryal içerikte verilen cahiliye zemini buraya başka bir ışık tutar: o toplumda sırtı büken yük yalnızca kişisel değildi — çevresindeki zulüm düzenini görmek ve içinde bulunmak da bir yükdü. Güçlünün zayıfı ezdiği, yumuşaklığın ahmaklık sayıldığı bir ortamda dürüstlükle durmak kendi başına ağır bir vizrdi. Sure bunu kaldırılmış sayıyor; yani bu yükü tek başına taşımak zorunda olmadığını bildiriyor.\n\nSusma: *Surenin, o yükün altında ezilmiş olanların — kabile düzeninde güçsüz bırakılanların — ne hissedip ne düşündüğü buradan görünmez.*",
+  "aiCommentary": "Bu dört bölüm, yapay zekâ tarafından üretilmiştir. Kullanılan kaynaklar: surenin Arapça metni, TDV İslâm Ansiklopedisi'nin 'Câhiliye' ve 'İnşirâh Sûresi' maddeleri, doğrulanmış editoryal içerik olarak sağlanan dönem zemini ve klasik tefsir kaynaklarına yapılan atıflar (Fahreddin er-Râzî, Âlûsî, İbn Cerîr gibi isimlere dair bilgiler ansiklopedi verisi üzerinden denetlenmiştir). Metinde dayanak gösterilemeyen hiçbir sosyolojik iddia eklenmemiştir.\n\nApofatik okuma bölümü bilerek olumsuzlama yöntemiyle kurulmuştur. Bunun nedeni şudur: bir metnin — özellikle kutsal sayılan bir metnin — ne demek istediğini kesin olarak söylemek, söyleyenin tahminine dayanır. Yaratanın maksadına dair her ifade insanın yorum katmanını taşır. Bu nedenle 'metin şunu söylüyor' yerine 'şu okuma metnin kendi içiyle çelişiyor' yöntemi tercih edilmiştir; bu, daha az şey iddia etmek ve daha fazlasını açık bırakmaktır.\n\nBu içerik bir tefsir, meal ya da fetva değildir. Herhangi bir amel hükmü çıkarılamaz, hiçbir davranışın helal ya da haram olduğuna dair bir sonuç üretilemez. Yeni filolojik, tarihî ya da teolojik bulgular karşısında bu okumalar değişmeye açıktır."
 }

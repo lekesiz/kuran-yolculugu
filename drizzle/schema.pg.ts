@@ -67,6 +67,14 @@ export const surahs = pgTable(
     contemporaryMeaning: text("contemporaryMeaning"),
     /** AI-written paragraph read straight from the Arabic: "what does this surah say today?" */
     aiParagraph: text("aiParagraph"),
+    /** Sociology of the first audience: common ground and source of resistance. */
+    audienceContext: text("audienceContext"),
+    /** Event-to-message mapping: `{ situation, response, shift }[]`. */
+    eventMessageMap: jsonb("eventMessageMap"),
+    /** Apophatic reading of intent: what the text's own logic rules out. */
+    apophaticReading: text("apophaticReading"),
+    /** Disclosure note: AI-written, by what method, and its limits. */
+    aiCommentary: text("aiCommentary"),
     keyTerms: jsonb("keyTerms"),
     scholarlyNotes: jsonb("scholarlyNotes"),
     revisionPass: integer("revisionPass").default(1).notNull(),

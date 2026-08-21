@@ -8,7 +8,12 @@ import { Skeleton } from "@/components/ui/skeleton";
 import { Textarea } from "@/components/ui/textarea";
 import { startLogin } from "@/const";
 import { trpc } from "@/lib/trpc";
-import { NOTE_KIND_LABELS, type KeyTerm, type ScholarlyNote } from "@shared/kuran";
+import {
+  NOTE_KIND_LABELS,
+  type EventMessageRow,
+  type KeyTerm,
+  type ScholarlyNote,
+} from "@shared/kuran";
 import {
   ArrowLeft,
   ArrowRight,
@@ -18,10 +23,12 @@ import {
   HelpCircle,
   Loader2,
   NotebookPen,
+  Route,
   Save,
   Scale,
   ScrollText,
   Sparkles,
+  Users,
 } from "lucide-react";
 import { useEffect, useState } from "react";
 import { Link, useParams } from "wouter";
@@ -106,6 +113,7 @@ export default function StationDetail() {
   const { surah, verses, translations, themes, questions, adjacent, isRead } = data;
   const keyTerms = (surah.keyTerms ?? []) as KeyTerm[];
   const scholarlyNotes = (surah.scholarlyNotes ?? []) as ScholarlyNote[];
+  const eventMessageMap = (surah.eventMessageMap ?? []) as EventMessageRow[];
 
   return (
     <article className="pb-16">
@@ -252,6 +260,66 @@ export default function StationDetail() {
           </Section>
         )}
 
+        {/* Who the message first addressed */}
+        {surah.audienceContext && (
+          <Section
+            icon={Users}
+            eyebrow="Muhatap toplum"
+            title="Bu söz ilk kime söylendi?">
+            <p className="prose-kuran !text-base !text-muted-foreground">
+              Bir sözün bugün ne dediğini anlamak için, ilk kime söylendiğini bilmek
+              gerekir. Aşağıdaki bölüm o günkü toplumun neye değer verdiğini, neyi zaten
+              kabul ettiğini ve direncin nereden geldiğini anlatır.
+            </p>
+            <div className="prose-kuran mt-5">
+              {surah.audienceContext.split("\n\n").map((p, i) => (
+                <p key={i}>{p}</p>
+              ))}
+            </div>
+          </Section>
+        )}
+
+        {/* Event-to-message mapping */}
+        {eventMessageMap.length > 0 && (
+          <Section
+            icon={Route}
+            eyebrow="Olay ve karşılık"
+            title="Hangi duruma ne söylendi?">
+            <p className="prose-kuran !text-base !text-muted-foreground">
+              Mushaftaki sıra, olayların sırası değildir. Aşağıdaki tablo metni olaya
+              geri bağlar: ortada ne vardı, metin buna ne dedi, bu neyi değiştirdi.
+            </p>
+            <div className="mt-5 space-y-3">
+              {eventMessageMap.map((row, i) => (
+                <div
+                  key={i}
+                  className="rounded-lg border border-border/70 bg-card/40 px-4 py-4">
+                  <div className="grid gap-3 sm:grid-cols-3 sm:gap-4">
+                    <div>
+                      <p className="eyebrow mb-1">Ortada ne vardı</p>
+                      <p className="text-sm leading-relaxed text-foreground/85">
+                        {row.situation}
+                      </p>
+                    </div>
+                    <div>
+                      <p className="eyebrow mb-1">Metin ne dedi</p>
+                      <p className="text-sm leading-relaxed text-foreground/85">
+                        {row.response}
+                      </p>
+                    </div>
+                    <div>
+                      <p className="eyebrow mb-1">Neyi değiştirdi</p>
+                      <p className="text-sm leading-relaxed text-foreground/85">
+                        {row.shift}
+                      </p>
+                    </div>
+                  </div>
+                </div>
+              ))}
+            </div>
+          </Section>
+        )}
+
         {/* Source-criticism layer */}
         {scholarlyNotes.length > 0 && (
           <Section
@@ -331,6 +399,25 @@ export default function StationDetail() {
           </Section>
         )}
 
+        {/* Apophatic reading of intent */}
+        {surah.apophaticReading && (
+          <Section
+            icon={Scale}
+            eyebrow="Maksat okuması"
+            title="Metin neyi dışarıda bırakıyor?">
+            <p className="prose-kuran !text-base !text-muted-foreground">
+              Yaratanın maksadını kimse içeriden bilemez. Bu bölüm "metin şunu söylüyor"
+              demez; bunun yerine metnin kendi mantığıyla çelişen okumaları eler ve geriye
+              kalan alanı işaret eder. Bilinmeyen yerde susar.
+            </p>
+            <div className="prose-kuran mt-5">
+              {surah.apophaticReading.split("\n\n").map((p, i) => (
+                <p key={i}>{p}</p>
+              ))}
+            </div>
+          </Section>
+        )}
+
         {/* Themes */}
         {themes.length > 0 && (
           <Section eyebrow="İnsani ve varoluşsal temalar" title="Sure hangi insani soruna dokunuyor?">
@@ -368,6 +455,20 @@ export default function StationDetail() {
               ))}
             </ol>
           </Section>
+        )}
+
+        {/* Disclosure: which layers are AI-written and by what method */}
+        {surah.aiCommentary && (
+          <section className="mt-12">
+            <div className="rounded-xl border border-dashed border-border/70 bg-muted/25 px-5 py-5 sm:px-6">
+              <p className="eyebrow mb-2.5">Bu bölümler nasıl hazırlandı?</p>
+              <div className="space-y-2.5 text-sm leading-relaxed text-muted-foreground">
+                {surah.aiCommentary.split("\n\n").map((p, i) => (
+                  <p key={i}>{p}</p>
+                ))}
+              </div>
+            </div>
+          </section>
         )}
 
         {/* Personal note */}

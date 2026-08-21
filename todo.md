@@ -180,3 +180,22 @@ ancak sonuç içerik JSON'larına ve veritabanlarına aktarılmamış.
 - [x] İki veritabanına yükleme: beş kaynak da 6.236 ayet / 114 sure (31.180 meal kaydı)
 - [x] Meal kapsamı testi sıkılaştırıldı: dört mealin tamamı zorunlu, İslamoğlu için ayet sayısı + boş metin + hız sınırı kalıntısı denetimi
 - [x] Canlı doğrulama: t1o.net ve Manus'ta örneklenen dört durakta beş kaynak da tam (Kıyâmet dahil — daha önce İslamoğlu hiç yoktu)
+
+## Faz 16 — Yorum metodolojisinin yeniden kurulması
+
+Kullanıcının çerçevesi: apofatik maksat okuması (yaratanın perspektifine sahip olamayız,
+ancak "ne demek istemediği"nden yaklaşabiliriz), muhatap toplumun sosyolojisinin doğru
+analizi, olay-mesaj eşleştirmesi (mushaf sırası değil nüzul olayı), mezhep/kişi/millet/güç
+menfaati gütmeyen tarafsız aktarım, ve yeni neslin sıkılmadan anlayacağı sade dil.
+
+- [x] Metodoloji belgesi yazıldı (`cekim/METODOLOJI_V3.md`)
+- [x] Yeni katmanlar tanımlandı: `audienceContext`, `eventMessageMap`, `apophaticReading`, `aiCommentary`
+- [x] Örnek durakta (Müzzemmil) uygulandı ve kullanıcıyla doğrulandı
+- [x] Şema genişletildi: dört yeni alan, iki veritabanında migrasyon
+- [x] Arayüz: "Muhatap toplum", "Olay ve karşılık", "Maksat okuması" bölümleri + şerh kutusu
+- [x] Üretim aracı (`cekim/maksat_uret.py`) — sözleşme denetimi üretim sırasında çalışıyor
+- [x] 114 durağa üretildi, kalite denetimi (`cekim/maksat_denetim.py`) 0 sorun
+- [x] İki veritabanına yüklendi (MySQL 114 · Supabase 114)
+- [x] Sözleşme testleri: taraf tutma, vaaz dili, klişe, Arapça kalıntı, şerh zorunluluğu (70 test geçiyor)
+- [ ] Yayınlandı ve canlı doğrulandı
+- [ ] Günlük tur yordamı yeni metodolojiye göre güncellendi

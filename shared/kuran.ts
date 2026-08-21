@@ -85,6 +85,20 @@ export type ScholarlyNote = {
 export const SURAH_SORT_KEYS = ["station", "nuzul", "mushaf"] as const;
 export type SurahSortKey = (typeof SURAH_SORT_KEYS)[number];
 
+/**
+ * One row of the event-to-message mapping. The mushaf order is not the order
+ * of events, so each station carries an explicit map: what was on the ground,
+ * what the text said to it, and what that shifted.
+ */
+export type EventMessageRow = {
+  /** What was happening when this passage came: the concrete situation. */
+  situation: string;
+  /** What the text said in response to it. */
+  response: string;
+  /** What that changed for the people who first heard it. */
+  shift: string;
+};
+
 export const SORT_LABELS: Record<SurahSortKey, string> = {
   station: "Yolculuk sırası",
   nuzul: "Nüzul sırası (Okuyan)",

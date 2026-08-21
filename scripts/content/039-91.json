@@ -1,605 +1,630 @@
 {
- "stationNo": 39,
- "surahNo": 91,
- "nuzulOrderOkuyan": 28,
- "name": "Şems",
- "nameArabic": "الشمس",
- "nameMeaning": "Güneş",
- "verseCount": 15,
- "periodDiyanet": "Mekke",
- "periodOkuyan": "Mekke",
- "revelationTiming": "Mekke dönemi — TDV: nübüvvetin 5. yılı; Okuyan: risaletin 2-3. yılı",
- "stationTitle": "İkisi de içinde: bozma da, arınma da.",
- "introduction": "Şems suresi, adını birinci ayetteki \"şems\" (güneş) kelimesinden alır. On beş ayetlik sure, klasik kaynaklarda \"Ve'ş-şemsi\" ya da \"Ve'ş-şemsi ve duhâhâ\" adıyla da anılır.\n\nSure iki bölümden kuruludur. İlk on ayet bir yeminler dizisidir: güneş ve aydınlığı, onu izleyen ay, gündüz, gece, gökyüzü ve onu bina eden, yer ve onu döşeyen — ve nihayet nefs ve onu biçimlendiren. Yeminlerin sırası anlamlıdır: en uzaktan, gökten başlar; adım adım yaklaşır; en sonunda insanın kendisine varır. TDV İslâm Ansiklopedisi bu yapıyı şöyle özetler: yeminlerin dokuzu insanın dışındaki varlıklar iken son ikisi bizzat onun kendisidir; böylece dikkat çekilen varlığın insan olduğu ortaya çıkar.\n\nYeminlerin ardından gelen cümle, surenin merkezidir: insanın yaratılışına hem fücûr hem takvâ — hem bozma hem sakınma yeteneği — yerleştirilmiştir. Ardından iki kısa hüküm: nefsini arındıran kurtulmuştur, onu gömen kaybetmiştir.\n\nOn birinci ayetten sonra sure somut bir örneğe geçer: Semûd kavmi. Bir toplum, kendisine verilen imtihanı — su hakkı korunması istenen deveyi — kesip yok eder. Kapanış tek cümledir ve kimin hakkında olduğu müfessirler arasında tartışmalıdır.\n\nSurenin biçimsel bir özelliği de vardır: on beş ayetin her biri \"-hâ\" sesiyle biter. Okuyan bu ses uyumunu, surenin bütün ayetlerinin aynı anda indiğinin göstergesi sayar.",
- "occasionOfRevelation": "Şems suresi Mekke dönemine aittir; Diyanet İşleri Başkanlığı ve Prof. Dr. Mehmet Okuyan bu konuda ayrılmaz. Nüzul yılında ise kaynaklar farklılaşır: TDV İslâm Ansiklopedisi nübüvvetin beşinci yılını tahmin ederken Okuyan risaletin ikinci ya da üçüncü yılını muhtemel görür.\n\nBu sure için belirli bir olay anlatısı nakledilmiş değildir. Ne TDV maddesi ne Diyanet tefsiri ne de Okuyan, surenin bir hadise üzerine indiğine dair rivayet aktarır. Dolayısıyla buradaki bağlam bir olay değil, bir dönemdir: Mekke'de davetin henüz yeni olduğu, muhatapların \"insan neden sorumlu tutulsun?\" sorusunu sorduğu yıllar.\n\nSurenin ikinci bölümünde anlatılan Semûd kavmi, Kur'an'ın başka yerlerinde de geçer (Şuarâ 26/141-159; Kamer 54/23-31). Bu kavim elçilerini yalancı ve şımarık, Hz. Sâlih'i de büyülenmiş biri saymış; süregelen mucize taleplerine karşılık kendilerine özelliği bulunan bir deve gönderilmiş ve ona ilişmemeleri istenmiştir. İçlerinden en azgın kişi deveyi kesmiş, bunun üzerine korkunç bir sesle helâk edilmişlerdir.\n\nTDV maddesinin dikkat çektiği bir ayrıntı, kıssanın Mekkeli muhataba neden bu kadar dokunduğunu açıklar: surede mucize olarak söz konusu edilen deve, Kur'an'ın ilk muhatabı Mekkeliler'in gündelik hayatta ihtiyaç duyduğu bir hayvandır. Yani anlatı, dinleyicinin yabancı olduğu bir sembol değil, kendi iktisadî hayatının merkezindeki bir varlık üzerinden kurulur.\n\nSurenin namazdaki yeri hakkında sahih kayıtlar vardır: Hz. Peygamber bu sureyi yatsı namazlarında okumuş ve kendi mahallesinde namaz kıldıran Muâz b. Cebel'e yatsıyı uzatmayarak Şems, Duhâ, Leyl ve A'lâ surelerini okumasını tavsiye etmiştir.",
- "occasionSources": "TDV İslâm Ansiklopedisi, \"Şems Sûresi\" maddesi (M. Kâmil Yaşaroğlu, 2010, c. 38, s. 510-511); Diyanet İşleri Başkanlığı Kur'an Yolu Tefsiri, Şems 1-10 ayet tefsiri; kuranokuyan.com, Şems suresi girişi ve 15. ayet tefsiri (Prof. Dr. Mehmet Okuyan); Buhârî, \"Eẕân\", 63; Müslim, \"Ṣalât\", 178-179; Tirmizî, \"Ṣalât\", 114; Şevkânî, Fethu'l-kadîr, V, 524; Râzî, Mefâtîhu'l-gayb, XXXI, 196; Elmalılı M. Hamdi Yazır, Hak Dini Kur'an Dili, IX, 248-249. Uydurma rivayet tespiti: Muhammed et-Trablusî, el-Keşfü'l-ilâhî, II, 727.",
- "contemporaryMeaning": "Bu bölüm yorumdur; ayetin kendisi değildir.\n\nSurenin yedinci ve sekizinci ayetleri, Diyanet tefsirinin ifadesiyle \"Kur'an'ın insan anlayışının bir özeti sayılabilir\": insan ahlâkî bakımdan çift kutuplu bir varlıktır. Bu, bugünün en yaygın iki kaçış yolunu birden kapatır. Birincisi, kendini özünde iyi sayıp her hatayı dışsal bir nedene yıkmak — çevre, koşullar, aile, dönem. İkincisi, kendini özünde bozuk sayıp değişme çabasından vazgeçmek: \"ben böyleyim, olmuyor.\" Sure ikisini de kabul etmez; iki yeteneğin de içimizde durduğunu, meselenin hangisini işlettiğimiz olduğunu söyler.\n\nDokuz ve onuncu ayetlerdeki iki fiil bu yüzden dikkat çeker: arındırmak ve gömmek. İkisi de sürekli emek isteyen eylemlerdir. Arınma bir defada olup biten bir durum değil, tekrarlanan bir bakımdır; gömmek de tek bir kararla değil, üstünü örtmeye devam etmekle olur. Yani insan ne bir kerede kurtulur ne bir kerede kaybeder.\n\nSemûd kıssasının seçtiği ihlal de düşündürücüdür: bir hayvanın su hakkı. Anlatı büyük bir zulümden değil, paylaşılan bir kaynağa el koymaktan söz eder. Okuyan'ın kaydettiği gibi burada verilmek istenen bilinç, \"başkalarının da bu âlemde hakkı olduğu\" bilincidir. Ortak olanı kendine mal etmek — su, alan, zaman, emek — bugünün diliyle de okunabilir.\n\nSon ayetin bir okuyuşu da şudur: o toplumu bu davranışa sürükleyen şey, sonucunu hiç hesaba katmamalarıydı. Bir davranışın nereye varacağını düşünmemek, onu yapmayı kolaylaştıran en güçlü şeydir.",
- "keyTerms": [
-  {
-   "term": "ed-duhâ",
-   "arabic": "الضُّحَىٰ",
-   "verseRef": "91:1",
-   "meaning": "Kuşluk vakti, güneşin yükseldiği aydınlık. Diyanet tefsiri, kelimeye \"güneşin ışığı, aydınlığı, sabah vakti, gündüz\" gibi mânalar da verildiğini kaydeder (Şevkânî, V, 524)."
-  },
-  {
-   "term": "telâhâ",
-   "arabic": "تَلَاهَا",
-   "verseRef": "91:2",
-   "meaning": "Onu izledi, ardından geldi. Ayın güneşi izlemesi; ışığını ondan alması, güneş batınca doğması ya da hilâl hâli olarak açıklanır."
-  },
-  {
-   "term": "nefs",
-   "arabic": "نَفْس",
-   "verseRef": "91:7",
-   "meaning": "Benlik, insanın özü. Diyanet tefsirine göre nefs üzerine yemin edilmesi onun fıtrî üstünlüğüne işaret eder. Meallerde \"nefs\", \"insan\" ve \"insan benliği\" olarak karşılanır."
-  },
-  {
-   "term": "sevvâhâ",
-   "arabic": "سَوَّاهَا",
-   "verseRef": "91:7",
-   "meaning": "Onu düzenledi, denk ve düzgün biçimlendirdi. Diyanet tefsirine göre maksat, nefse maddî ve mânevî güçlerin yerleştirilmesi, her gücün görevinin tayin edilmesi ve bu güçleri kullanacak organların verilmesidir."
-  },
-  {
-   "term": "fücûr",
-   "arabic": "فُجُور",
-   "verseRef": "91:8",
-   "meaning": "Her türlü kötülük, günah ve sapma. Kök anlamı \"yarıp açmak\"tır; sınırı yarıp geçme fikrini taşır. Ayette takvânın karşıtı olarak kullanılır."
-  },
-  {
-   "term": "takvâ",
-   "arabic": "تَقْوَىٰ",
-   "verseRef": "91:8",
-   "meaning": "Sakınma, korunma. Diyanet tefsiri bu bağlamda \"doğruluk, iyilik ve hak yolda kararlılık\" olarak açıklar. Meallerde \"duyarlılık\", \"sorumluluk bilinci\" olarak da karşılanır."
-  },
-  {
-   "term": "elheme",
-   "arabic": "أَلْهَمَ",
-   "verseRef": "91:8",
-   "meaning": "İlham etti, içine yerleştirdi. Diyanet tefsiri bunu, insanın \"her türlü deney ve öğrenimden önce, apriorik olarak\" doğruyu yanlıştan ayırt etme gücü ve seçme özgürlüğüyle donatılmış olması şeklinde açıklar."
-  },
-  {
-   "term": "zekkâhâ",
-   "arabic": "زَكَّاهَا",
-   "verseRef": "91:9",
-   "meaning": "Onu arındırdı, temizleyip geliştirdi. Aynı kök zekât kelimesinde de vardır: eksiltmekle artan bir temizlenme fikri."
-  },
-  {
-   "term": "dessâhâ",
-   "arabic": "دَسَّاهَا",
-   "verseRef": "91:10",
-   "meaning": "Onu gömdü, gizleyip örttü. Zekkâhâ'nın karşıtıdır: arındırmak açığa çıkarmak, dessâ ise üstünü örtmektir."
-  },
-  {
-   "term": "tağvâ",
-   "arabic": "طَغْوَىٰ",
-   "verseRef": "91:11",
-   "meaning": "Azgınlık, sınırı aşma. Semûd kavminin yalanlamasının gerekçesi olarak verilir: azgınlık önce gelir, yalanlama onu izler."
-  },
-  {
-   "term": "sukyâhâ",
-   "arabic": "سُقْيَاهَا",
-   "verseRef": "91:13",
-   "meaning": "Onun su içme hakkı, su nöbeti. Korunması istenen şey devenin canı değil, paylaşılan bir kaynaktaki hakkıdır."
-  },
-  {
-   "term": "ukbâhâ",
-   "arabic": "عُقْبَاهَا",
-   "verseRef": "91:15",
-   "meaning": "Akıbet, son, sonuç. Son ayetteki bu kelimenin kime ait olduğu müfessirler arasında tartışmalıdır; meal karşılaştırma panelinde Diyanet ile diğer üç mealin ayrıştığı yer burasıdır."
-  }
- ],
- "themes": [
-  {
-   "label": "İki yetenek de içeride",
-   "body": "Sure, insana hem bozma hem sakınma kabiliyetinin verildiğini söyler. Bu, \"özünde iyiyim, hatam dışarıdan geldi\" ile \"ben böyleyim, değişmem\" savunmalarını aynı anda geçersiz kılar."
-  },
-  {
-   "label": "Arınma bir bakımdır, bir olay değil",
-   "body": "Zekkâhâ ve dessâhâ, iki sürekli eylemi anlatır: arındırmak ve gömmek. İnsan ne bir kerede kurtulur ne bir kerede kaybeder; ikisi de tekrar isteyen işlerdir."
-  },
-  {
-   "label": "Uzaktan yakına gelen dikkat",
-   "body": "Yeminler gökten başlar, yere iner, sonunda insanın kendisine varır. Evrene bakmayı bilen bakışın, en son kendisine dönmesi gerektiğini ima eder."
-  },
-  {
-   "label": "Ortak olana el koymak",
-   "body": "Semûd'un ihlali büyük bir zulüm değil, bir hayvanın su hakkının gasbıdır. Paylaşılan bir kaynağı kendine mal etmek, surenin seçtiği somut örnektir."
-  },
-  {
-   "label": "Sonucu hesaba katmamak",
-   "body": "Son ayetin bir okuyuşuna göre o toplumu bu davranışa sürükleyen şey, akıbetini hiç düşünmemeleriydi. Sonucunu hesaplamamak, bir işi yapmayı en çok kolaylaştıran şeydir."
-  }
- ],
- "questions": [
-  "Son hatamı anlatırken cümlem \"şartlar öyleydi\" ile mi bitiyor, yoksa \"ben yaptım\" ile mi?",
-  "Kendimi arındırmak için düzenli olarak yaptığım tek bir şey var mı — yoksa yalnızca kötü olduğunu bildiğim şeyi görmezden gelmekle mi yetiniyorum?",
-  "Ortak olan bir şeyi — bir kaynağı, bir alanı, başkasının zamanını — kendi hakkımmış gibi kullandığım bir yer var mı?"
- ],
- "scholarlyNotes": [
-  {
-   "kind": "ihtilaf",
-   "label": "Son ayette korkmayan kim?",
-   "body": "Onbeşinci ayet (\"velâ yehâfü ukbâhâ\") iki farklı özneyle okunabilir. Diyanet meali fiilin failini Allah kabul eder: \"Allah, bunun sonucundan çekinmez de!\" Bu okuyuşta, önceki ayetteki demdeme ve sevvâ fiillerinin faili olan Allah, yehâfü fiilinin de faili sayılır; Râzî bu anlamı ilk tercih olarak ele almıştır (Mefâtîhu'l-gayb, XXXI, 196; Elmalılı, IX, 248). Okuyan, İslamoğlu ve Esed ise özneyi Semûd kavmi olarak okur: o toplum kendi akıbetinden korkmuyordu. Üçüncü bir görüş cümleyi Hz. Sâlih ile ilişkilendirir (Râzî, XXXI, 196; Yazır, IX, 249). Üç okuyuş da tefsir geleneğinde kayıtlıdır; ayetin Arapçası özneyi açıkça belirtmez."
-  },
-  {
-   "kind": "ihtilaf",
-   "label": "Nüzul yılı hangisi?",
-   "body": "Surenin Mekke dönemine ait olduğunda kaynaklar birleşir; yılında ayrışırlar. TDV İslâm Ansiklopedisi \"nübüvvetin 5. yılında nâzil olduğu tahmin edilmektedir\" der. Okuyan ise risaletin 2 veya 3. yıllarını muhtemel görür. Her iki ifade de tahmin kipindedir; kesin bir tarih kaydı yoktur."
-  },
-  {
-   "kind": "rivayet",
-   "label": "Fazilet rivayeti uydurmadır",
-   "body": "Bazı tefsir kaynaklarında yer alan \"Şems sûresini okuyan kimse, üzerine güneşin ve ayın doğduğu her şeyi sadaka olarak vermiş gibi olur\" meâlindeki hadisin (Zemahşerî, VI, 384; Beyzâvî, IV, 423) mevzû (uydurma) olduğu kabul edilmiştir (Zemahşerî neşrinin notu, I, 684-685; Trablusî, el-Keşfü'l-ilâhî, II, 727). Bu yüzden içerikte aktarılmamıştır."
-  },
-  {
-   "kind": "nuans",
-   "label": "Kaç yemin var?",
-   "body": "Yeminlerin sayımı kaynaklara göre değişir. TDV İslâm Ansiklopedisi \"arka arkaya on bir defa tekrarlanan bu yemin\" ifadesini kullanır ve üzerine yemin edilen şeyleri tek tek sayar. Okuyan ise \"yedi varlığa yemin\" der. Fark, \"onu bina eden\" ve \"onu döşeyen\" gibi ifadelerin ayrı bir yemin mi yoksa aynı yeminin devamı mı sayıldığından doğar; bir olgu ayrılığı değil, sayım tercihidir."
-  },
-  {
-   "kind": "nuans",
-   "label": "Namazdaki yeri sahih kayıtlıdır",
-   "body": "Hz. Peygamber'in bu sureyi yatsı namazlarında okuduğu ve Muâz b. Cebel'e yatsıyı uzatmayarak Şems, Duhâ, Leyl ve A'lâ surelerini okumasını tavsiye ettiği Buhârî (\"Eẕân\", 63), Müslim (\"Ṣalât\", 178-179) ve Tirmizî (\"Ṣalât\", 114) tarafından nakledilmiştir. Fazilet rivayetinin aksine bu kayıt sahih kabul edilir."
-  },
-  {
-   "kind": "nuans",
-   "label": "Esbâb-ı nüzûl olarak bir olay nakledilmemiştir",
-   "body": "TDV İslâm Ansiklopedisi, Diyanet Kur'an Yolu Tefsiri ve Okuyan, surenin belirli bir hadise üzerine indiğine dair herhangi bir rivayet aktarmazlar. Okuyan ayrıca ayet sonlarındaki hâ zamiriyle sağlanan ses uyumunu, surenin bütün ayetlerinin aynı anda indirildiğinin göstergesi olarak değerlendirir. Dolayısıyla bu durakta tarihsel bağlam bir olay değil, dönem olarak verilmiştir."
-  }
- ],
- "verses": [
-  {
-   "verseNo": 1,
-   "textArabic": "بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ وَٱلشَّمْسِ وَضُحَىٰهَا"
-  },
-  {
-   "verseNo": 2,
-   "textArabic": "وَٱلْقَمَرِ إِذَا تَلَىٰهَا"
-  },
-  {
-   "verseNo": 3,
-   "textArabic": "وَٱلنَّهَارِ إِذَا جَلَّىٰهَا"
-  },
-  {
-   "verseNo": 4,
-   "textArabic": "وَٱلَّيْلِ إِذَا يَغْشَىٰهَا"
-  },
-  {
-   "verseNo": 5,
-   "textArabic": "وَٱلسَّمَآءِ وَمَا بَنَىٰهَا"
-  },
-  {
-   "verseNo": 6,
-   "textArabic": "وَٱلْأَرْضِ وَمَا طَحَىٰهَا"
-  },
-  {
-   "verseNo": 7,
-   "textArabic": "وَنَفْسٍۢ وَمَا سَوَّىٰهَا"
-  },
-  {
-   "verseNo": 8,
-   "textArabic": "فَأَلْهَمَهَا فُجُورَهَا وَتَقْوَىٰهَا"
-  },
-  {
-   "verseNo": 9,
-   "textArabic": "قَدْ أَفْلَحَ مَن زَكَّىٰهَا"
-  },
-  {
-   "verseNo": 10,
-   "textArabic": "وَقَدْ خَابَ مَن دَسَّىٰهَا"
-  },
-  {
-   "verseNo": 11,
-   "textArabic": "كَذَّبَتْ ثَمُودُ بِطَغْوَىٰهَآ"
-  },
-  {
-   "verseNo": 12,
-   "textArabic": "إِذِ ٱنۢبَعَثَ أَشْقَىٰهَا"
-  },
-  {
-   "verseNo": 13,
-   "textArabic": "فَقَالَ لَهُمْ رَسُولُ ٱللَّهِ نَاقَةَ ٱللَّهِ وَسُقْيَٰهَا"
-  },
-  {
-   "verseNo": 14,
-   "textArabic": "فَكَذَّبُوهُ فَعَقَرُوهَا فَدَمْدَمَ عَلَيْهِمْ رَبُّهُم بِذَنۢبِهِمْ فَسَوَّىٰهَا"
-  },
-  {
-   "verseNo": 15,
-   "textArabic": "وَلَا يَخَافُ عُقْبَٰهَا"
-  }
- ],
- "translations": [
-  {
-   "verseNo": 1,
-   "source": "diyanet",
-   "text": "Güneşe ve onun aydınlığına andolsun,"
-  },
-  {
-   "verseNo": 1,
-   "source": "okuyan",
-   "text": "Yemin olsun: Güneşe ve onun aydınlığına,"
-  },
-  {
-   "verseNo": 1,
-   "source": "islamoglu",
-   "text": "GÜNEŞ ve onun gözalıcı ışığı şahit olsun;"
-  },
-  {
-   "verseNo": 1,
-   "source": "esed",
-   "text": "Güneşi ve onun aydınlık veren parlaklığını düşün"
-  },
-  {
-   "verseNo": 2,
-   "source": "diyanet",
-   "text": "Onu izlediğinde Ay'a andolsun,"
-  },
-  {
-   "verseNo": 2,
-   "source": "okuyan",
-   "text": "Onu (güneşi) izlediği zaman aya,"
-  },
-  {
-   "verseNo": 2,
-   "source": "islamoglu",
-   "text": "güneşin ışığını yansıtan ay şahit olsun!"
-  },
-  {
-   "verseNo": 2,
-   "source": "esed",
-   "text": "ve güneşi(n ışığını) yansıtan ayı"
-  },
-  {
-   "verseNo": 3,
-   "source": "diyanet",
-   "text": "Onu ortaya çıkardığında gündüze andolsun,"
-  },
-  {
-   "verseNo": 3,
-   "source": "okuyan",
-   "text": "Onu (güneşi) açığa çıkarttığı zaman gündüze,"
-  },
-  {
-   "verseNo": 3,
-   "source": "islamoglu",
-   "text": "Gün ışığını gösteren gündüz şahit olsun;"
-  },
-  {
-   "verseNo": 3,
-   "source": "esed",
-   "text": "Dünyayı gün ışığına çıkaran gündüzü düşün"
-  },
-  {
-   "verseNo": 4,
-   "source": "diyanet",
-   "text": "Onu bürüdüğünde geceye andolsun,"
-  },
-  {
-   "verseNo": 4,
-   "source": "okuyan",
-   "text": "Onu kapladığı (örttüğü) zaman geceye,"
-  },
-  {
-   "verseNo": 4,
-   "source": "islamoglu",
-   "text": "onu gizleyecek gece şahit olsun!"
-  },
-  {
-   "verseNo": 4,
-   "source": "esed",
-   "text": "ve onu karanlığa boğan geceyi"
-  },
-  {
-   "verseNo": 5,
-   "source": "diyanet",
-   "text": "Göğe ve onu bina edene andolsun,"
-  },
-  {
-   "verseNo": 5,
-   "source": "okuyan",
-   "text": "Göğe ve onu bina edene,"
-  },
-  {
-   "verseNo": 5,
-   "source": "islamoglu",
-   "text": "Gökyüzü ve onu ayakta tutan (nizam) şahit olsun;"
-  },
-  {
-   "verseNo": 5,
-   "source": "esed",
-   "text": "Gökyüzünü ve onun harika yapısını düşün"
-  },
-  {
-   "verseNo": 6,
-   "source": "diyanet",
-   "text": "Yere ve onu yayıp döşeyene andolsun,"
-  },
-  {
-   "verseNo": 6,
-   "source": "okuyan",
-   "text": "Yere ve onu yayana (döşeyene),"
-  },
-  {
-   "verseNo": 6,
-   "source": "islamoglu",
-   "text": "yeryüzü ve onu (yumurta misali) yuvarlak yaratan güç şahit olsun!"
-  },
-  {
-   "verseNo": 6,
-   "source": "esed",
-   "text": "ve yeryüzünü, onun (uçsuz bucaksız) genişliğini"
-  },
-  {
-   "verseNo": 7,
-   "source": "diyanet",
-   "text": "Nefse ve onu düzgün bir biçimde şekillendirip ona kötülük duygusunu ve takvasını (kötülükten sakınma yeteneğini) ilham edene andolsun ki, nefsini arındıran kurtuluşa ermiştir."
-  },
-  {
-   "verseNo": 7,
-   "source": "okuyan",
-   "text": "Nefse (insana) ve onu biçimlendirene,"
-  },
-  {
-   "verseNo": 7,
-   "source": "islamoglu",
-   "text": "İnsan benliği ve onun yaratılış amacına uygun biçimlenişi şahit olsun;"
-  },
-  {
-   "verseNo": 7,
-   "source": "esed",
-   "text": "İnsan benliğini düşün ve onun nasıl (yaratılış) amacına uygun şekillendirildiğini"
-  },
-  {
-   "verseNo": 8,
-   "source": "diyanet",
-   "text": "Nefse ve onu düzgün bir biçimde şekillendirip ona kötülük duygusunu ve takvasını (kötülükten sakınma yeteneğini) ilham edene andolsun ki, nefsini arındıran kurtuluşa ermiştir."
-  },
-  {
-   "verseNo": 8,
-   "source": "okuyan",
-   "text": "Sonra da ona (nefse), kötülük ve takvâ (duyarlılık) kabiliyetini verene ki"
-  },
-  {
-   "verseNo": 8,
-   "source": "islamoglu",
-   "text": "ve nihayet insan benliğine iyiyi ve kötüyü tanıyıp sorumsuz ve sorumlu davranma yeteneğini yerleştiren (şahit olsun) ki:"
-  },
-  {
-   "verseNo": 8,
-   "source": "esed",
-   "text": "ve nasıl ahlaki zaaflarla olduğu kadar Allah´a karşı sorumluluk bilinciyle de donatıldığını"
-  },
-  {
-   "verseNo": 9,
-   "source": "diyanet",
-   "text": "Nefse ve onu düzgün bir biçimde şekillendirip ona kötülük duygusunu ve takvasını (kötülükten sakınma yeteneğini) ilham edene andolsun ki, nefsini arındıran kurtuluşa ermiştir."
-  },
-  {
-   "verseNo": 9,
-   "source": "okuyan",
-   "text": "Onu (nefsini) arındıran kişi elbette kurtulmuştur."
-  },
-  {
-   "verseNo": 9,
-   "source": "islamoglu",
-   "text": "Kim kendini geliştirip arındırırsa, o kesinlikle ebedî mutluluğa ulaşacaktır;"
-  },
-  {
-   "verseNo": 9,
-   "source": "esed",
-   "text": "Her kim (benliğini) arındırırsa, kesinlikle mutluluğa erişecektir"
-  },
-  {
-   "verseNo": 10,
-   "source": "diyanet",
-   "text": "Onu kötülüklere gömüp kirleten kimse de ziyana uğramıştır."
-  },
-  {
-   "verseNo": 10,
-   "source": "okuyan",
-   "text": "Onu (kötülüğe) gömen kişi ise elbette kaybetmiştir."
-  },
-  {
-   "verseNo": 10,
-   "source": "islamoglu",
-   "text": "kim de kendini geliştirmeyip (içindeki iyilik tohumunu) çürütürse, o kesinlikle kaybedecektir."
-  },
-  {
-   "verseNo": 10,
-   "source": "esed",
-   "text": "onu (karanlığa) gömen ise hüsrandadır"
-  },
-  {
-   "verseNo": 11,
-   "source": "diyanet",
-   "text": "Semûd kavmi, azgınlığı sebebiyle yalanladı."
-  },
-  {
-   "verseNo": 11,
-   "source": "okuyan",
-   "text": "Semûd (kavmi) azgınlığı yüzünden (gerçeği) yalanlamıştı."
-  },
-  {
-   "verseNo": 11,
-   "source": "islamoglu",
-   "text": "HADDİNİ AŞTIĞI için Semud (bu) hakikati yalanladı;"
-  },
-  {
-   "verseNo": 11,
-   "source": "esed",
-   "text": "Semud (kavmi,) kaba bir küstahlıkla (bu) hakikati yalan saydı"
-  },
-  {
-   "verseNo": 12,
-   "source": "diyanet",
-   "text": "Hani onların en bedbaht olanı (fesat çıkarmak için) ileri atılmıştı."
-  },
-  {
-   "verseNo": 12,
-   "source": "okuyan",
-   "text": "Onların en azgını (deveyi kesmek için) ileri atılmıştı."
-  },
-  {
-   "verseNo": 12,
-   "source": "islamoglu",
-   "text": "hani kavmin en azgını kışkırtmayla zıvanadan çıktığında,"
-  },
-  {
-   "verseNo": 12,
-   "source": "esed",
-   "text": "içlerinden en onulmaz azgınları, (zulüm yapmak için) ileri atılırken"
-  },
-  {
-   "verseNo": 13,
-   "source": "diyanet",
-   "text": "Allah'ın Resülü de onlara şöyle demişti: \"Allah'ın devesini ve onun su içme hakkını koruyun.\""
-  },
-  {
-   "verseNo": 13,
-   "source": "okuyan",
-   "text": "Allah’ın elçisi (Salih) onlara “Allah’ın devesine ve onun su hakkına (dokunmayın)” demişti."
-  },
-  {
-   "verseNo": 13,
-   "source": "islamoglu",
-   "text": "Allah’ın elçisi (Sâlih) onlara şöyle demişti: “(Bu) Allah’ın devesidir; şu halde bırakın da (Allah’ın) suyunu içsin!”"
-  },
-  {
-   "verseNo": 13,
-   "source": "esed",
-   "text": "Allah´ın Elçisi onlara: \"Şu dişi deve Allah´ındır, öyleyse bırakın suyunu içsin (ve ona bir zarar vermeyin)!\" demişti"
-  },
-  {
-   "verseNo": 14,
-   "source": "diyanet",
-   "text": "Fakat onlar, onu yalanladılar ve deveyi boğazladılar. Bunun üzerine Rableri, suçlarından dolayı onları helak etti ve kendilerini yerle bir etti."
-  },
-  {
-   "verseNo": 14,
-   "source": "okuyan",
-   "text": "(Fakat) onlar onu (elçiyi) yalanlamış ve o (deve)yi de hunharca katletmişlerdi. (Bunun üzerine), Rableri günahları sebebiyle (orayı) başlarına geçirmiş ve orayı yerle bir etmişti."
-  },
-  {
-   "verseNo": 14,
-   "source": "islamoglu",
-   "text": "Derken elçiyi dinlemediler onu işkenceyle boğazladılar. Sonunda Rableri, bu günahları yüzünden burunlarını sürte sürte onları yerle bir etti;"
-  },
-  {
-   "verseNo": 14,
-   "source": "esed",
-   "text": "Ama onlar Elçi´yi (hiçe sayıp) yalanladılar ve deveyi vahşice boğazladılar; bunun üzerine Rableri, bu günahları yüzünden onları yıkıma uğrattı ve tümünü birden yok etti"
-  },
-  {
-   "verseNo": 15,
-   "source": "diyanet",
-   "text": "Allah, bunun sonucundan çekinmez de!"
-  },
-  {
-   "verseNo": 15,
-   "source": "okuyan",
-   "text": "(Bu toplum) kendi sonundan da korkmuyordu."
-  },
-  {
-   "verseNo": 15,
-   "source": "islamoglu",
-   "text": "oysa ki o (kavim) kendi akıbetinden zerrece endişe etmezdi."
-  },
-  {
-   "verseNo": 15,
-   "source": "esed",
-   "text": "çünkü (onlardan) hiçbiri başlarına gelecek şeyin korkusunu taşımıyordu"
-  },
-  {
-   "verseNo": 1,
-   "verseNoEnd": null,
-   "source": "ai",
-   "text": "Güneşe ve onun aydınlığına"
-  },
-  {
-   "verseNo": 2,
-   "verseNoEnd": null,
-   "source": "ai",
-   "text": "Aya ve onu takip ettiğinde"
-  },
-  {
-   "verseNo": 3,
-   "verseNoEnd": null,
-   "source": "ai",
-   "text": "Gündüze ve onu aydınlattığında"
-  },
-  {
-   "verseNo": 4,
-   "verseNoEnd": null,
-   "source": "ai",
-   "text": "Geceye ve onu örttüğünde"
-  },
-  {
-   "verseNo": 5,
-   "verseNoEnd": null,
-   "source": "ai",
-   "text": "Göğe ve onu kurana"
-  },
-  {
-   "verseNo": 6,
-   "verseNoEnd": null,
-   "source": "ai",
-   "text": "Yere ve onu yayana"
-  },
-  {
-   "verseNo": 7,
-   "verseNoEnd": null,
-   "source": "ai",
-   "text": "Nefse ve onu düzene koyana"
-  },
-  {
-   "verseNo": 8,
-   "verseNoEnd": null,
-   "source": "ai",
-   "text": "Sonra ona kötülüğünü ve sakınmasını ilham etti"
-  },
-  {
-   "verseNo": 9,
-   "verseNoEnd": null,
-   "source": "ai",
-   "text": "Şüphesiz onu arındıran kurtuluşa ermiştir"
-  },
-  {
-   "verseNo": 10,
-   "verseNoEnd": null,
-   "source": "ai",
-   "text": "Ve şüphesiz onu kirleten hüsrana uğramıştır"
-  },
-  {
-   "verseNo": 11,
-   "verseNoEnd": null,
-   "source": "ai",
-   "text": "Thamud azgınlıkları yüzünden inkar etti."
-  },
-  {
-   "verseNo": 12,
-   "verseNoEnd": null,
-   "source": "ai",
-   "text": "O zaman onların en kötüsü gönderildi."
-  },
-  {
-   "verseNo": 13,
-   "verseNoEnd": null,
-   "source": "ai",
-   "text": "Allah'ın elçisi onlara dedi: \"Bu Allah'ın devesidir; onun suyu da budur.\""
-  },
-  {
-   "verseNo": 14,
-   "verseNoEnd": null,
-   "source": "ai",
-   "text": "Onu yalanladılar ve onu öldürdüler. Bunun üzerine Rableri, suçları yüzünden üzerlerine azap indirdi ve onları dümdüz etti."
-  },
-  {
-   "verseNo": 15,
-   "verseNoEnd": null,
-   "source": "ai",
-   "text": "Ve onun sonucundan korkmaz."
-  }
- ],
- "aiParagraph": "Güneşin ilk ışığı toprağa düştüğünde, ay onu izlediğinde, gece her şeyin üstüne örtü gibi çekildiğinde — bunların hiçbiri rastlantı değil, her biri bir dengenin parçası. Sure tam da buradan, bu görünür düzenden başlayarak asıl soruyu soruyor: Peki ya içindeki denge? İnsan, iyiyi de kötüyü de ayırt edebilecek bir yapıyla gelmiş dünyaya; bu kapasite ona verilmiş, öğretilmiş, içine yerleştirilmiş. Mesele şu: O içsel pusulayı kullanmak ya da gömmek. \"Gömmek\" tam da burada çarpıcı — Arapça metinde nefsi bastırmak, örtmek, içine tıkmak anlamına gelen bir fiil var; kimi zaman insan kendi sesini duymamak için elinden geleni yapar, çünkü duymak sorumluluk getirir. Semûd'un hikâyesi soyut bir uyarı gibi görünse de aslında somut bir psikolojik tablo: bir topluluk, içlerindeki en taşkın sesi öne sürdü, bir uyarıyı reddetti ve ardından geri dönüşü olmayan bir noktaya geçti. Sur'un son sözü ise beklenmedik biçimde sakin — hesabın ardından korku yok. Asıl soru daha önce sorulmuş, daha önce yaşanmış."
+  "stationNo": 39,
+  "surahNo": 91,
+  "nuzulOrderOkuyan": 28,
+  "name": "Şems",
+  "nameArabic": "الشمس",
+  "nameMeaning": "Güneş",
+  "verseCount": 15,
+  "periodDiyanet": "Mekke",
+  "periodOkuyan": "Mekke",
+  "revelationTiming": "Mekke dönemi — TDV: nübüvvetin 5. yılı; Okuyan: risaletin 2-3. yılı",
+  "stationTitle": "İkisi de içinde: bozma da, arınma da.",
+  "introduction": "Şems suresi, adını birinci ayetteki \"şems\" (güneş) kelimesinden alır. On beş ayetlik sure, klasik kaynaklarda \"Ve'ş-şemsi\" ya da \"Ve'ş-şemsi ve duhâhâ\" adıyla da anılır.\n\nSure iki bölümden kuruludur. İlk on ayet bir yeminler dizisidir: güneş ve aydınlığı, onu izleyen ay, gündüz, gece, gökyüzü ve onu bina eden, yer ve onu döşeyen — ve nihayet nefs ve onu biçimlendiren. Yeminlerin sırası anlamlıdır: en uzaktan, gökten başlar; adım adım yaklaşır; en sonunda insanın kendisine varır. TDV İslâm Ansiklopedisi bu yapıyı şöyle özetler: yeminlerin dokuzu insanın dışındaki varlıklar iken son ikisi bizzat onun kendisidir; böylece dikkat çekilen varlığın insan olduğu ortaya çıkar.\n\nYeminlerin ardından gelen cümle, surenin merkezidir: insanın yaratılışına hem fücûr hem takvâ — hem bozma hem sakınma yeteneği — yerleştirilmiştir. Ardından iki kısa hüküm: nefsini arındıran kurtulmuştur, onu gömen kaybetmiştir.\n\nOn birinci ayetten sonra sure somut bir örneğe geçer: Semûd kavmi. Bir toplum, kendisine verilen imtihanı — su hakkı korunması istenen deveyi — kesip yok eder. Kapanış tek cümledir ve kimin hakkında olduğu müfessirler arasında tartışmalıdır.\n\nSurenin biçimsel bir özelliği de vardır: on beş ayetin her biri \"-hâ\" sesiyle biter. Okuyan bu ses uyumunu, surenin bütün ayetlerinin aynı anda indiğinin göstergesi sayar.",
+  "occasionOfRevelation": "Şems suresi Mekke dönemine aittir; Diyanet İşleri Başkanlığı ve Prof. Dr. Mehmet Okuyan bu konuda ayrılmaz. Nüzul yılında ise kaynaklar farklılaşır: TDV İslâm Ansiklopedisi nübüvvetin beşinci yılını tahmin ederken Okuyan risaletin ikinci ya da üçüncü yılını muhtemel görür.\n\nBu sure için belirli bir olay anlatısı nakledilmiş değildir. Ne TDV maddesi ne Diyanet tefsiri ne de Okuyan, surenin bir hadise üzerine indiğine dair rivayet aktarır. Dolayısıyla buradaki bağlam bir olay değil, bir dönemdir: Mekke'de davetin henüz yeni olduğu, muhatapların \"insan neden sorumlu tutulsun?\" sorusunu sorduğu yıllar.\n\nSurenin ikinci bölümünde anlatılan Semûd kavmi, Kur'an'ın başka yerlerinde de geçer (Şuarâ 26/141-159; Kamer 54/23-31). Bu kavim elçilerini yalancı ve şımarık, Hz. Sâlih'i de büyülenmiş biri saymış; süregelen mucize taleplerine karşılık kendilerine özelliği bulunan bir deve gönderilmiş ve ona ilişmemeleri istenmiştir. İçlerinden en azgın kişi deveyi kesmiş, bunun üzerine korkunç bir sesle helâk edilmişlerdir.\n\nTDV maddesinin dikkat çektiği bir ayrıntı, kıssanın Mekkeli muhataba neden bu kadar dokunduğunu açıklar: surede mucize olarak söz konusu edilen deve, Kur'an'ın ilk muhatabı Mekkeliler'in gündelik hayatta ihtiyaç duyduğu bir hayvandır. Yani anlatı, dinleyicinin yabancı olduğu bir sembol değil, kendi iktisadî hayatının merkezindeki bir varlık üzerinden kurulur.\n\nSurenin namazdaki yeri hakkında sahih kayıtlar vardır: Hz. Peygamber bu sureyi yatsı namazlarında okumuş ve kendi mahallesinde namaz kıldıran Muâz b. Cebel'e yatsıyı uzatmayarak Şems, Duhâ, Leyl ve A'lâ surelerini okumasını tavsiye etmiştir.",
+  "occasionSources": "TDV İslâm Ansiklopedisi, \"Şems Sûresi\" maddesi (M. Kâmil Yaşaroğlu, 2010, c. 38, s. 510-511); Diyanet İşleri Başkanlığı Kur'an Yolu Tefsiri, Şems 1-10 ayet tefsiri; kuranokuyan.com, Şems suresi girişi ve 15. ayet tefsiri (Prof. Dr. Mehmet Okuyan); Buhârî, \"Eẕân\", 63; Müslim, \"Ṣalât\", 178-179; Tirmizî, \"Ṣalât\", 114; Şevkânî, Fethu'l-kadîr, V, 524; Râzî, Mefâtîhu'l-gayb, XXXI, 196; Elmalılı M. Hamdi Yazır, Hak Dini Kur'an Dili, IX, 248-249. Uydurma rivayet tespiti: Muhammed et-Trablusî, el-Keşfü'l-ilâhî, II, 727.",
+  "contemporaryMeaning": "Bu bölüm yorumdur; ayetin kendisi değildir.\n\nSurenin yedinci ve sekizinci ayetleri, Diyanet tefsirinin ifadesiyle \"Kur'an'ın insan anlayışının bir özeti sayılabilir\": insan ahlâkî bakımdan çift kutuplu bir varlıktır. Bu, bugünün en yaygın iki kaçış yolunu birden kapatır. Birincisi, kendini özünde iyi sayıp her hatayı dışsal bir nedene yıkmak — çevre, koşullar, aile, dönem. İkincisi, kendini özünde bozuk sayıp değişme çabasından vazgeçmek: \"ben böyleyim, olmuyor.\" Sure ikisini de kabul etmez; iki yeteneğin de içimizde durduğunu, meselenin hangisini işlettiğimiz olduğunu söyler.\n\nDokuz ve onuncu ayetlerdeki iki fiil bu yüzden dikkat çeker: arındırmak ve gömmek. İkisi de sürekli emek isteyen eylemlerdir. Arınma bir defada olup biten bir durum değil, tekrarlanan bir bakımdır; gömmek de tek bir kararla değil, üstünü örtmeye devam etmekle olur. Yani insan ne bir kerede kurtulur ne bir kerede kaybeder.\n\nSemûd kıssasının seçtiği ihlal de düşündürücüdür: bir hayvanın su hakkı. Anlatı büyük bir zulümden değil, paylaşılan bir kaynağa el koymaktan söz eder. Okuyan'ın kaydettiği gibi burada verilmek istenen bilinç, \"başkalarının da bu âlemde hakkı olduğu\" bilincidir. Ortak olanı kendine mal etmek — su, alan, zaman, emek — bugünün diliyle de okunabilir.\n\nSon ayetin bir okuyuşu da şudur: o toplumu bu davranışa sürükleyen şey, sonucunu hiç hesaba katmamalarıydı. Bir davranışın nereye varacağını düşünmemek, onu yapmayı kolaylaştıran en güçlü şeydir.",
+  "keyTerms": [
+    {
+      "term": "ed-duhâ",
+      "arabic": "الضُّحَىٰ",
+      "verseRef": "91:1",
+      "meaning": "Kuşluk vakti, güneşin yükseldiği aydınlık. Diyanet tefsiri, kelimeye \"güneşin ışığı, aydınlığı, sabah vakti, gündüz\" gibi mânalar da verildiğini kaydeder (Şevkânî, V, 524)."
+    },
+    {
+      "term": "telâhâ",
+      "arabic": "تَلَاهَا",
+      "verseRef": "91:2",
+      "meaning": "Onu izledi, ardından geldi. Ayın güneşi izlemesi; ışığını ondan alması, güneş batınca doğması ya da hilâl hâli olarak açıklanır."
+    },
+    {
+      "term": "nefs",
+      "arabic": "نَفْس",
+      "verseRef": "91:7",
+      "meaning": "Benlik, insanın özü. Diyanet tefsirine göre nefs üzerine yemin edilmesi onun fıtrî üstünlüğüne işaret eder. Meallerde \"nefs\", \"insan\" ve \"insan benliği\" olarak karşılanır."
+    },
+    {
+      "term": "sevvâhâ",
+      "arabic": "سَوَّاهَا",
+      "verseRef": "91:7",
+      "meaning": "Onu düzenledi, denk ve düzgün biçimlendirdi. Diyanet tefsirine göre maksat, nefse maddî ve mânevî güçlerin yerleştirilmesi, her gücün görevinin tayin edilmesi ve bu güçleri kullanacak organların verilmesidir."
+    },
+    {
+      "term": "fücûr",
+      "arabic": "فُجُور",
+      "verseRef": "91:8",
+      "meaning": "Her türlü kötülük, günah ve sapma. Kök anlamı \"yarıp açmak\"tır; sınırı yarıp geçme fikrini taşır. Ayette takvânın karşıtı olarak kullanılır."
+    },
+    {
+      "term": "takvâ",
+      "arabic": "تَقْوَىٰ",
+      "verseRef": "91:8",
+      "meaning": "Sakınma, korunma. Diyanet tefsiri bu bağlamda \"doğruluk, iyilik ve hak yolda kararlılık\" olarak açıklar. Meallerde \"duyarlılık\", \"sorumluluk bilinci\" olarak da karşılanır."
+    },
+    {
+      "term": "elheme",
+      "arabic": "أَلْهَمَ",
+      "verseRef": "91:8",
+      "meaning": "İlham etti, içine yerleştirdi. Diyanet tefsiri bunu, insanın \"her türlü deney ve öğrenimden önce, apriorik olarak\" doğruyu yanlıştan ayırt etme gücü ve seçme özgürlüğüyle donatılmış olması şeklinde açıklar."
+    },
+    {
+      "term": "zekkâhâ",
+      "arabic": "زَكَّاهَا",
+      "verseRef": "91:9",
+      "meaning": "Onu arındırdı, temizleyip geliştirdi. Aynı kök zekât kelimesinde de vardır: eksiltmekle artan bir temizlenme fikri."
+    },
+    {
+      "term": "dessâhâ",
+      "arabic": "دَسَّاهَا",
+      "verseRef": "91:10",
+      "meaning": "Onu gömdü, gizleyip örttü. Zekkâhâ'nın karşıtıdır: arındırmak açığa çıkarmak, dessâ ise üstünü örtmektir."
+    },
+    {
+      "term": "tağvâ",
+      "arabic": "طَغْوَىٰ",
+      "verseRef": "91:11",
+      "meaning": "Azgınlık, sınırı aşma. Semûd kavminin yalanlamasının gerekçesi olarak verilir: azgınlık önce gelir, yalanlama onu izler."
+    },
+    {
+      "term": "sukyâhâ",
+      "arabic": "سُقْيَاهَا",
+      "verseRef": "91:13",
+      "meaning": "Onun su içme hakkı, su nöbeti. Korunması istenen şey devenin canı değil, paylaşılan bir kaynaktaki hakkıdır."
+    },
+    {
+      "term": "ukbâhâ",
+      "arabic": "عُقْبَاهَا",
+      "verseRef": "91:15",
+      "meaning": "Akıbet, son, sonuç. Son ayetteki bu kelimenin kime ait olduğu müfessirler arasında tartışmalıdır; meal karşılaştırma panelinde Diyanet ile diğer üç mealin ayrıştığı yer burasıdır."
+    }
+  ],
+  "themes": [
+    {
+      "label": "İki yetenek de içeride",
+      "body": "Sure, insana hem bozma hem sakınma kabiliyetinin verildiğini söyler. Bu, \"özünde iyiyim, hatam dışarıdan geldi\" ile \"ben böyleyim, değişmem\" savunmalarını aynı anda geçersiz kılar."
+    },
+    {
+      "label": "Arınma bir bakımdır, bir olay değil",
+      "body": "Zekkâhâ ve dessâhâ, iki sürekli eylemi anlatır: arındırmak ve gömmek. İnsan ne bir kerede kurtulur ne bir kerede kaybeder; ikisi de tekrar isteyen işlerdir."
+    },
+    {
+      "label": "Uzaktan yakına gelen dikkat",
+      "body": "Yeminler gökten başlar, yere iner, sonunda insanın kendisine varır. Evrene bakmayı bilen bakışın, en son kendisine dönmesi gerektiğini ima eder."
+    },
+    {
+      "label": "Ortak olana el koymak",
+      "body": "Semûd'un ihlali büyük bir zulüm değil, bir hayvanın su hakkının gasbıdır. Paylaşılan bir kaynağı kendine mal etmek, surenin seçtiği somut örnektir."
+    },
+    {
+      "label": "Sonucu hesaba katmamak",
+      "body": "Son ayetin bir okuyuşuna göre o toplumu bu davranışa sürükleyen şey, akıbetini hiç düşünmemeleriydi. Sonucunu hesaplamamak, bir işi yapmayı en çok kolaylaştıran şeydir."
+    }
+  ],
+  "questions": [
+    "Son hatamı anlatırken cümlem \"şartlar öyleydi\" ile mi bitiyor, yoksa \"ben yaptım\" ile mi?",
+    "Kendimi arındırmak için düzenli olarak yaptığım tek bir şey var mı — yoksa yalnızca kötü olduğunu bildiğim şeyi görmezden gelmekle mi yetiniyorum?",
+    "Ortak olan bir şeyi — bir kaynağı, bir alanı, başkasının zamanını — kendi hakkımmış gibi kullandığım bir yer var mı?"
+  ],
+  "scholarlyNotes": [
+    {
+      "kind": "ihtilaf",
+      "label": "Son ayette korkmayan kim?",
+      "body": "Onbeşinci ayet (\"velâ yehâfü ukbâhâ\") iki farklı özneyle okunabilir. Diyanet meali fiilin failini Allah kabul eder: \"Allah, bunun sonucundan çekinmez de!\" Bu okuyuşta, önceki ayetteki demdeme ve sevvâ fiillerinin faili olan Allah, yehâfü fiilinin de faili sayılır; Râzî bu anlamı ilk tercih olarak ele almıştır (Mefâtîhu'l-gayb, XXXI, 196; Elmalılı, IX, 248). Okuyan, İslamoğlu ve Esed ise özneyi Semûd kavmi olarak okur: o toplum kendi akıbetinden korkmuyordu. Üçüncü bir görüş cümleyi Hz. Sâlih ile ilişkilendirir (Râzî, XXXI, 196; Yazır, IX, 249). Üç okuyuş da tefsir geleneğinde kayıtlıdır; ayetin Arapçası özneyi açıkça belirtmez."
+    },
+    {
+      "kind": "ihtilaf",
+      "label": "Nüzul yılı hangisi?",
+      "body": "Surenin Mekke dönemine ait olduğunda kaynaklar birleşir; yılında ayrışırlar. TDV İslâm Ansiklopedisi \"nübüvvetin 5. yılında nâzil olduğu tahmin edilmektedir\" der. Okuyan ise risaletin 2 veya 3. yıllarını muhtemel görür. Her iki ifade de tahmin kipindedir; kesin bir tarih kaydı yoktur."
+    },
+    {
+      "kind": "rivayet",
+      "label": "Fazilet rivayeti uydurmadır",
+      "body": "Bazı tefsir kaynaklarında yer alan \"Şems sûresini okuyan kimse, üzerine güneşin ve ayın doğduğu her şeyi sadaka olarak vermiş gibi olur\" meâlindeki hadisin (Zemahşerî, VI, 384; Beyzâvî, IV, 423) mevzû (uydurma) olduğu kabul edilmiştir (Zemahşerî neşrinin notu, I, 684-685; Trablusî, el-Keşfü'l-ilâhî, II, 727). Bu yüzden içerikte aktarılmamıştır."
+    },
+    {
+      "kind": "nuans",
+      "label": "Kaç yemin var?",
+      "body": "Yeminlerin sayımı kaynaklara göre değişir. TDV İslâm Ansiklopedisi \"arka arkaya on bir defa tekrarlanan bu yemin\" ifadesini kullanır ve üzerine yemin edilen şeyleri tek tek sayar. Okuyan ise \"yedi varlığa yemin\" der. Fark, \"onu bina eden\" ve \"onu döşeyen\" gibi ifadelerin ayrı bir yemin mi yoksa aynı yeminin devamı mı sayıldığından doğar; bir olgu ayrılığı değil, sayım tercihidir."
+    },
+    {
+      "kind": "nuans",
+      "label": "Namazdaki yeri sahih kayıtlıdır",
+      "body": "Hz. Peygamber'in bu sureyi yatsı namazlarında okuduğu ve Muâz b. Cebel'e yatsıyı uzatmayarak Şems, Duhâ, Leyl ve A'lâ surelerini okumasını tavsiye ettiği Buhârî (\"Eẕân\", 63), Müslim (\"Ṣalât\", 178-179) ve Tirmizî (\"Ṣalât\", 114) tarafından nakledilmiştir. Fazilet rivayetinin aksine bu kayıt sahih kabul edilir."
+    },
+    {
+      "kind": "nuans",
+      "label": "Esbâb-ı nüzûl olarak bir olay nakledilmemiştir",
+      "body": "TDV İslâm Ansiklopedisi, Diyanet Kur'an Yolu Tefsiri ve Okuyan, surenin belirli bir hadise üzerine indiğine dair herhangi bir rivayet aktarmazlar. Okuyan ayrıca ayet sonlarındaki hâ zamiriyle sağlanan ses uyumunu, surenin bütün ayetlerinin aynı anda indirildiğinin göstergesi olarak değerlendirir. Dolayısıyla bu durakta tarihsel bağlam bir olay değil, dönem olarak verilmiştir."
+    }
+  ],
+  "verses": [
+    {
+      "verseNo": 1,
+      "textArabic": "بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ وَٱلشَّمْسِ وَضُحَىٰهَا"
+    },
+    {
+      "verseNo": 2,
+      "textArabic": "وَٱلْقَمَرِ إِذَا تَلَىٰهَا"
+    },
+    {
+      "verseNo": 3,
+      "textArabic": "وَٱلنَّهَارِ إِذَا جَلَّىٰهَا"
+    },
+    {
+      "verseNo": 4,
+      "textArabic": "وَٱلَّيْلِ إِذَا يَغْشَىٰهَا"
+    },
+    {
+      "verseNo": 5,
+      "textArabic": "وَٱلسَّمَآءِ وَمَا بَنَىٰهَا"
+    },
+    {
+      "verseNo": 6,
+      "textArabic": "وَٱلْأَرْضِ وَمَا طَحَىٰهَا"
+    },
+    {
+      "verseNo": 7,
+      "textArabic": "وَنَفْسٍۢ وَمَا سَوَّىٰهَا"
+    },
+    {
+      "verseNo": 8,
+      "textArabic": "فَأَلْهَمَهَا فُجُورَهَا وَتَقْوَىٰهَا"
+    },
+    {
+      "verseNo": 9,
+      "textArabic": "قَدْ أَفْلَحَ مَن زَكَّىٰهَا"
+    },
+    {
+      "verseNo": 10,
+      "textArabic": "وَقَدْ خَابَ مَن دَسَّىٰهَا"
+    },
+    {
+      "verseNo": 11,
+      "textArabic": "كَذَّبَتْ ثَمُودُ بِطَغْوَىٰهَآ"
+    },
+    {
+      "verseNo": 12,
+      "textArabic": "إِذِ ٱنۢبَعَثَ أَشْقَىٰهَا"
+    },
+    {
+      "verseNo": 13,
+      "textArabic": "فَقَالَ لَهُمْ رَسُولُ ٱللَّهِ نَاقَةَ ٱللَّهِ وَسُقْيَٰهَا"
+    },
+    {
+      "verseNo": 14,
+      "textArabic": "فَكَذَّبُوهُ فَعَقَرُوهَا فَدَمْدَمَ عَلَيْهِمْ رَبُّهُم بِذَنۢبِهِمْ فَسَوَّىٰهَا"
+    },
+    {
+      "verseNo": 15,
+      "textArabic": "وَلَا يَخَافُ عُقْبَٰهَا"
+    }
+  ],
+  "translations": [
+    {
+      "verseNo": 1,
+      "source": "diyanet",
+      "text": "Güneşe ve onun aydınlığına andolsun,"
+    },
+    {
+      "verseNo": 1,
+      "source": "okuyan",
+      "text": "Yemin olsun: Güneşe ve onun aydınlığına,"
+    },
+    {
+      "verseNo": 1,
+      "source": "islamoglu",
+      "text": "GÜNEŞ ve onun gözalıcı ışığı şahit olsun;"
+    },
+    {
+      "verseNo": 1,
+      "source": "esed",
+      "text": "Güneşi ve onun aydınlık veren parlaklığını düşün"
+    },
+    {
+      "verseNo": 2,
+      "source": "diyanet",
+      "text": "Onu izlediğinde Ay'a andolsun,"
+    },
+    {
+      "verseNo": 2,
+      "source": "okuyan",
+      "text": "Onu (güneşi) izlediği zaman aya,"
+    },
+    {
+      "verseNo": 2,
+      "source": "islamoglu",
+      "text": "güneşin ışığını yansıtan ay şahit olsun!"
+    },
+    {
+      "verseNo": 2,
+      "source": "esed",
+      "text": "ve güneşi(n ışığını) yansıtan ayı"
+    },
+    {
+      "verseNo": 3,
+      "source": "diyanet",
+      "text": "Onu ortaya çıkardığında gündüze andolsun,"
+    },
+    {
+      "verseNo": 3,
+      "source": "okuyan",
+      "text": "Onu (güneşi) açığa çıkarttığı zaman gündüze,"
+    },
+    {
+      "verseNo": 3,
+      "source": "islamoglu",
+      "text": "Gün ışığını gösteren gündüz şahit olsun;"
+    },
+    {
+      "verseNo": 3,
+      "source": "esed",
+      "text": "Dünyayı gün ışığına çıkaran gündüzü düşün"
+    },
+    {
+      "verseNo": 4,
+      "source": "diyanet",
+      "text": "Onu bürüdüğünde geceye andolsun,"
+    },
+    {
+      "verseNo": 4,
+      "source": "okuyan",
+      "text": "Onu kapladığı (örttüğü) zaman geceye,"
+    },
+    {
+      "verseNo": 4,
+      "source": "islamoglu",
+      "text": "onu gizleyecek gece şahit olsun!"
+    },
+    {
+      "verseNo": 4,
+      "source": "esed",
+      "text": "ve onu karanlığa boğan geceyi"
+    },
+    {
+      "verseNo": 5,
+      "source": "diyanet",
+      "text": "Göğe ve onu bina edene andolsun,"
+    },
+    {
+      "verseNo": 5,
+      "source": "okuyan",
+      "text": "Göğe ve onu bina edene,"
+    },
+    {
+      "verseNo": 5,
+      "source": "islamoglu",
+      "text": "Gökyüzü ve onu ayakta tutan (nizam) şahit olsun;"
+    },
+    {
+      "verseNo": 5,
+      "source": "esed",
+      "text": "Gökyüzünü ve onun harika yapısını düşün"
+    },
+    {
+      "verseNo": 6,
+      "source": "diyanet",
+      "text": "Yere ve onu yayıp döşeyene andolsun,"
+    },
+    {
+      "verseNo": 6,
+      "source": "okuyan",
+      "text": "Yere ve onu yayana (döşeyene),"
+    },
+    {
+      "verseNo": 6,
+      "source": "islamoglu",
+      "text": "yeryüzü ve onu (yumurta misali) yuvarlak yaratan güç şahit olsun!"
+    },
+    {
+      "verseNo": 6,
+      "source": "esed",
+      "text": "ve yeryüzünü, onun (uçsuz bucaksız) genişliğini"
+    },
+    {
+      "verseNo": 7,
+      "source": "diyanet",
+      "text": "Nefse ve onu düzgün bir biçimde şekillendirip ona kötülük duygusunu ve takvasını (kötülükten sakınma yeteneğini) ilham edene andolsun ki, nefsini arındıran kurtuluşa ermiştir."
+    },
+    {
+      "verseNo": 7,
+      "source": "okuyan",
+      "text": "Nefse (insana) ve onu biçimlendirene,"
+    },
+    {
+      "verseNo": 7,
+      "source": "islamoglu",
+      "text": "İnsan benliği ve onun yaratılış amacına uygun biçimlenişi şahit olsun;"
+    },
+    {
+      "verseNo": 7,
+      "source": "esed",
+      "text": "İnsan benliğini düşün ve onun nasıl (yaratılış) amacına uygun şekillendirildiğini"
+    },
+    {
+      "verseNo": 8,
+      "source": "diyanet",
+      "text": "Nefse ve onu düzgün bir biçimde şekillendirip ona kötülük duygusunu ve takvasını (kötülükten sakınma yeteneğini) ilham edene andolsun ki, nefsini arındıran kurtuluşa ermiştir."
+    },
+    {
+      "verseNo": 8,
+      "source": "okuyan",
+      "text": "Sonra da ona (nefse), kötülük ve takvâ (duyarlılık) kabiliyetini verene ki"
+    },
+    {
+      "verseNo": 8,
+      "source": "islamoglu",
+      "text": "ve nihayet insan benliğine iyiyi ve kötüyü tanıyıp sorumsuz ve sorumlu davranma yeteneğini yerleştiren (şahit olsun) ki:"
+    },
+    {
+      "verseNo": 8,
+      "source": "esed",
+      "text": "ve nasıl ahlaki zaaflarla olduğu kadar Allah´a karşı sorumluluk bilinciyle de donatıldığını"
+    },
+    {
+      "verseNo": 9,
+      "source": "diyanet",
+      "text": "Nefse ve onu düzgün bir biçimde şekillendirip ona kötülük duygusunu ve takvasını (kötülükten sakınma yeteneğini) ilham edene andolsun ki, nefsini arındıran kurtuluşa ermiştir."
+    },
+    {
+      "verseNo": 9,
+      "source": "okuyan",
+      "text": "Onu (nefsini) arındıran kişi elbette kurtulmuştur."
+    },
+    {
+      "verseNo": 9,
+      "source": "islamoglu",
+      "text": "Kim kendini geliştirip arındırırsa, o kesinlikle ebedî mutluluğa ulaşacaktır;"
+    },
+    {
+      "verseNo": 9,
+      "source": "esed",
+      "text": "Her kim (benliğini) arındırırsa, kesinlikle mutluluğa erişecektir"
+    },
+    {
+      "verseNo": 10,
+      "source": "diyanet",
+      "text": "Onu kötülüklere gömüp kirleten kimse de ziyana uğramıştır."
+    },
+    {
+      "verseNo": 10,
+      "source": "okuyan",
+      "text": "Onu (kötülüğe) gömen kişi ise elbette kaybetmiştir."
+    },
+    {
+      "verseNo": 10,
+      "source": "islamoglu",
+      "text": "kim de kendini geliştirmeyip (içindeki iyilik tohumunu) çürütürse, o kesinlikle kaybedecektir."
+    },
+    {
+      "verseNo": 10,
+      "source": "esed",
+      "text": "onu (karanlığa) gömen ise hüsrandadır"
+    },
+    {
+      "verseNo": 11,
+      "source": "diyanet",
+      "text": "Semûd kavmi, azgınlığı sebebiyle yalanladı."
+    },
+    {
+      "verseNo": 11,
+      "source": "okuyan",
+      "text": "Semûd (kavmi) azgınlığı yüzünden (gerçeği) yalanlamıştı."
+    },
+    {
+      "verseNo": 11,
+      "source": "islamoglu",
+      "text": "HADDİNİ AŞTIĞI için Semud (bu) hakikati yalanladı;"
+    },
+    {
+      "verseNo": 11,
+      "source": "esed",
+      "text": "Semud (kavmi,) kaba bir küstahlıkla (bu) hakikati yalan saydı"
+    },
+    {
+      "verseNo": 12,
+      "source": "diyanet",
+      "text": "Hani onların en bedbaht olanı (fesat çıkarmak için) ileri atılmıştı."
+    },
+    {
+      "verseNo": 12,
+      "source": "okuyan",
+      "text": "Onların en azgını (deveyi kesmek için) ileri atılmıştı."
+    },
+    {
+      "verseNo": 12,
+      "source": "islamoglu",
+      "text": "hani kavmin en azgını kışkırtmayla zıvanadan çıktığında,"
+    },
+    {
+      "verseNo": 12,
+      "source": "esed",
+      "text": "içlerinden en onulmaz azgınları, (zulüm yapmak için) ileri atılırken"
+    },
+    {
+      "verseNo": 13,
+      "source": "diyanet",
+      "text": "Allah'ın Resülü de onlara şöyle demişti: \"Allah'ın devesini ve onun su içme hakkını koruyun.\""
+    },
+    {
+      "verseNo": 13,
+      "source": "okuyan",
+      "text": "Allah’ın elçisi (Salih) onlara “Allah’ın devesine ve onun su hakkına (dokunmayın)” demişti."
+    },
+    {
+      "verseNo": 13,
+      "source": "islamoglu",
+      "text": "Allah’ın elçisi (Sâlih) onlara şöyle demişti: “(Bu) Allah’ın devesidir; şu halde bırakın da (Allah’ın) suyunu içsin!”"
+    },
+    {
+      "verseNo": 13,
+      "source": "esed",
+      "text": "Allah´ın Elçisi onlara: \"Şu dişi deve Allah´ındır, öyleyse bırakın suyunu içsin (ve ona bir zarar vermeyin)!\" demişti"
+    },
+    {
+      "verseNo": 14,
+      "source": "diyanet",
+      "text": "Fakat onlar, onu yalanladılar ve deveyi boğazladılar. Bunun üzerine Rableri, suçlarından dolayı onları helak etti ve kendilerini yerle bir etti."
+    },
+    {
+      "verseNo": 14,
+      "source": "okuyan",
+      "text": "(Fakat) onlar onu (elçiyi) yalanlamış ve o (deve)yi de hunharca katletmişlerdi. (Bunun üzerine), Rableri günahları sebebiyle (orayı) başlarına geçirmiş ve orayı yerle bir etmişti."
+    },
+    {
+      "verseNo": 14,
+      "source": "islamoglu",
+      "text": "Derken elçiyi dinlemediler onu işkenceyle boğazladılar. Sonunda Rableri, bu günahları yüzünden burunlarını sürte sürte onları yerle bir etti;"
+    },
+    {
+      "verseNo": 14,
+      "source": "esed",
+      "text": "Ama onlar Elçi´yi (hiçe sayıp) yalanladılar ve deveyi vahşice boğazladılar; bunun üzerine Rableri, bu günahları yüzünden onları yıkıma uğrattı ve tümünü birden yok etti"
+    },
+    {
+      "verseNo": 15,
+      "source": "diyanet",
+      "text": "Allah, bunun sonucundan çekinmez de!"
+    },
+    {
+      "verseNo": 15,
+      "source": "okuyan",
+      "text": "(Bu toplum) kendi sonundan da korkmuyordu."
+    },
+    {
+      "verseNo": 15,
+      "source": "islamoglu",
+      "text": "oysa ki o (kavim) kendi akıbetinden zerrece endişe etmezdi."
+    },
+    {
+      "verseNo": 15,
+      "source": "esed",
+      "text": "çünkü (onlardan) hiçbiri başlarına gelecek şeyin korkusunu taşımıyordu"
+    },
+    {
+      "verseNo": 1,
+      "verseNoEnd": null,
+      "source": "ai",
+      "text": "Güneşe ve onun aydınlığına"
+    },
+    {
+      "verseNo": 2,
+      "verseNoEnd": null,
+      "source": "ai",
+      "text": "Aya ve onu takip ettiğinde"
+    },
+    {
+      "verseNo": 3,
+      "verseNoEnd": null,
+      "source": "ai",
+      "text": "Gündüze ve onu aydınlattığında"
+    },
+    {
+      "verseNo": 4,
+      "verseNoEnd": null,
+      "source": "ai",
+      "text": "Geceye ve onu örttüğünde"
+    },
+    {
+      "verseNo": 5,
+      "verseNoEnd": null,
+      "source": "ai",
+      "text": "Göğe ve onu kurana"
+    },
+    {
+      "verseNo": 6,
+      "verseNoEnd": null,
+      "source": "ai",
+      "text": "Yere ve onu yayana"
+    },
+    {
+      "verseNo": 7,
+      "verseNoEnd": null,
+      "source": "ai",
+      "text": "Nefse ve onu düzene koyana"
+    },
+    {
+      "verseNo": 8,
+      "verseNoEnd": null,
+      "source": "ai",
+      "text": "Sonra ona kötülüğünü ve sakınmasını ilham etti"
+    },
+    {
+      "verseNo": 9,
+      "verseNoEnd": null,
+      "source": "ai",
+      "text": "Şüphesiz onu arındıran kurtuluşa ermiştir"
+    },
+    {
+      "verseNo": 10,
+      "verseNoEnd": null,
+      "source": "ai",
+      "text": "Ve şüphesiz onu kirleten hüsrana uğramıştır"
+    },
+    {
+      "verseNo": 11,
+      "verseNoEnd": null,
+      "source": "ai",
+      "text": "Thamud azgınlıkları yüzünden inkar etti."
+    },
+    {
+      "verseNo": 12,
+      "verseNoEnd": null,
+      "source": "ai",
+      "text": "O zaman onların en kötüsü gönderildi."
+    },
+    {
+      "verseNo": 13,
+      "verseNoEnd": null,
+      "source": "ai",
+      "text": "Allah'ın elçisi onlara dedi: \"Bu Allah'ın devesidir; onun suyu da budur.\""
+    },
+    {
+      "verseNo": 14,
+      "verseNoEnd": null,
+      "source": "ai",
+      "text": "Onu yalanladılar ve onu öldürdüler. Bunun üzerine Rableri, suçları yüzünden üzerlerine azap indirdi ve onları dümdüz etti."
+    },
+    {
+      "verseNo": 15,
+      "verseNoEnd": null,
+      "source": "ai",
+      "text": "Ve onun sonucundan korkmaz."
+    }
+  ],
+  "aiParagraph": "Güneşin ilk ışığı toprağa düştüğünde, ay onu izlediğinde, gece her şeyin üstüne örtü gibi çekildiğinde — bunların hiçbiri rastlantı değil, her biri bir dengenin parçası. Sure tam da buradan, bu görünür düzenden başlayarak asıl soruyu soruyor: Peki ya içindeki denge? İnsan, iyiyi de kötüyü de ayırt edebilecek bir yapıyla gelmiş dünyaya; bu kapasite ona verilmiş, öğretilmiş, içine yerleştirilmiş. Mesele şu: O içsel pusulayı kullanmak ya da gömmek. \"Gömmek\" tam da burada çarpıcı — Arapça metinde nefsi bastırmak, örtmek, içine tıkmak anlamına gelen bir fiil var; kimi zaman insan kendi sesini duymamak için elinden geleni yapar, çünkü duymak sorumluluk getirir. Semûd'un hikâyesi soyut bir uyarı gibi görünse de aslında somut bir psikolojik tablo: bir topluluk, içlerindeki en taşkın sesi öne sürdü, bir uyarıyı reddetti ve ardından geri dönüşü olmayan bir noktaya geçti. Sur'un son sözü ise beklenmedik biçimde sakin — hesabın ardından korku yok. Asıl soru daha önce sorulmuş, daha önce yaşanmış.",
+  "audienceContext": "Bu sure, Mekke'nin ticaret ağlarıyla geçinen, develeri hem gündelik ulaşım hem ticari sermaye olarak kullanan insanlara seslendi. Bu insanlar güneşi, ayı, geceyi ve gündüzü kuşkusuz biliyorlardı; gökyüzüne baktıklarında bu varlıkların kendiliğinden var olmadığını da zaten kabul ediyorlardı. Surenin açılışındaki yemin zinciri bu ortak zeminden hareket eder: itiraz edilemeyecek şeyler üzerine yemin ederek, itiraz edilecek şeye doğru ilerler.\n\nDirencin geldiği yer şuydu: bir insan neden hesap versin? Güneş ve ay sorumlu tutulmuyor, neden nefs tutulsun? Mekke'nin kabile düzeninde bir kişinin değeri, sahip olduğu güce ve o gücü kullanma cesaretine bakılarak ölçülürdü. Yumuşaklık zayıflık, itidal aptallık sayılırdı. Azgınlık erdem sayılan bir toplumda 'nefsini arındıran kurtulmuştur' cümlesi küçük değil büyük bir itiraz taşıyordu; çünkü bu cümle asıl yetkinliğin içe ait olduğunu ileri sürüyordu.\n\nSemûd kıssası bu zemine oturur. Kıssadaki deve, Mekkeli için yabancı bir simge değil gündelik hayatın merkezindeydi. Devenin su hakkı korunması istendi; en azgın kişi onu kesti. Sure bu noktada Mekkeliye doğrudan bir ayna tutar: deveyi kesen 'en azgın kişi' tek başına hareket etmedi. Kavmin geri kalanı onu durdurmadı. Surenin anlatısı bireysel azgınlıktan önce toplumsal suskunluğu resmeder. Kabile dayanışması 'haklı mı haksız mı bakmadan yardıma koşmak' anlamına geliyorsa, o zaman susmak da bir tercihtir.\n\nDirenç anlamayan insanlardan değil, mevcut düzenden kazançlı çıkanlardan geliyordu. Ticaret düzeni, kabile hiyerarşisi ve statü, zaten güçlünün zayıfı ezmesini olağan saydırıyordu. Sure bu düzene soyut bir öğretiyle değil, somut bir çöküş hikâyesiyle cevap verir: Semûd da aynı şeyi yaptı ve sonucu tarih oldu.",
+  "eventMessageMap": [
+    {
+      "situation": "Yemin zinciri en uzak varlıklardan başlayıp güneş, ay, gece, gündüz, gökyüzü, yer derken en sonunda insanın kendi nefsine ulaştı.",
+      "response": "Metin, herkesin zaten kabul ettiği kozmik düzeni, herkesin içinde zaten bulunduğunu reddedemeyeceği bir kapasiteye — fücûr ve takvâ — zemin yaptı.",
+      "shift": "Hesap sorulabilirliğin kaynağı dışarıdan bir dayatma değil, insanın kuruluşuna yerleştirilmiş bir ayrım kapasitesi olarak tanımlandı."
+    },
+    {
+      "situation": "İnsanın nefsine hem bozma hem sakınma yeteneğinin yerleştirildiği söylendi.",
+      "response": "Metin bu iki yeteneğin varlığını bildirdi; hangisinin seçileceğini ise nefsine bıraktı.",
+      "shift": "Seçim, bir emrin ya da baskının değil, kuruluşa yerleştirilmiş özgürlüğün sonucu olarak konumlandı."
+    },
+    {
+      "situation": "Semûd kavminin en azgın kişisi deveyi kesti; kavmin geri kalanı onu durdurmadı.",
+      "response": "Metin sorumluluğu yalnızca kesen kişiye değil, azgınlığını öne sürerek eyleme geçen ve arkasında sessizce duran topluluğa birlikte yükledi.",
+      "shift": "Bir azgının eyleminin tüm topluluğun suskunluğuyla birleştiğinde nasıl bir sonuç doğurduğu, somut bir çöküş örneğiyle gösterildi."
+    },
+    {
+      "situation": "Semûd'a verilen imtihan devenin su hakkıydı; korunması istenen devenin canı değil, paylaşılan bir kaynaktaki hakkıydı.",
+      "response": "Metin bu hakkın çiğnenmesini toplumsal düzenin ihlali olarak tanımladı ve bunu yalanlamanın somut biçimi saydı.",
+      "shift": "Soyut bir 'inkâr' yerine, ortaklaşa kullanılan kaynaktaki hakkın gasp edilmesi, inancın fiilî sınavı olarak çerçevelendi."
+    }
+  ],
+  "apophaticReading": "'Bu sure güneş ve ay gibi doğa unsurlarını yüceltiyor' okuması metnin kendi mantığıyla çelişir. Çünkü aynı sure bu varlıkları anlatmanın ortasında bırakır ve asıl duruşu nefse ait kılar; kozmik dizi bir son değil, bir giriştir. Güneş bu surenin öznesi değildir, kapısıdır.\n\n'Bu sure Semûd'un helâkını cezalandırma teolojisi olarak anlatıyor' okuması da metnin kendi mantığıyla çelişir. Çünkü aynı sure on birinci ayete gelindiğinde azgınlığı yalancı saymadan önce koyar: önce tağvâ, sonra tekzîb. Yani çöküşün açıklaması dışarıdan gelen bir ceza değil, içeride başlayan bir süreçtir. Metin neden-sonuç ilişkisini bu sırayla kurar.\n\n'Son ayet Allah'ın mutlak gücünü ilan ediyor' okuması da metnin kendi mantığıyla gerilim içindedir. Çünkü aynı surenin kendi metni son ayetin öznesi konusunda sessizdir; Arapça cümle özneyi açıkça belirtmez ve tefsir geleneği en az üç farklı özne önerisiyle bu suskunluğu tescil eder. Metnin bıraktığı açıklığı kapatmak, metnin kendisinin yaptığı şeyi tersine çevirmektir.\n\nGeriye kalan yönelim şu alanda toplanıyor: sure, en uzak olandan en yakın olana doğru ilerleyen bir yapı kuruyor. Varılan yer insan değil insanın içi. Ve o iç, ikiye bölünmüş değil, ikisini birden taşıyan bir kapasite olarak tanımlanıyor. Arındırma ya da gömme, bu kapasiteyle ne yapıldığına bakıyor.\n\nBugüne kadar az bakılmış açı: surenin Semûd anlatısı, devenin canını değil su hakkını — sukyâhâ — öne çıkarır. Kaynaklarda bu ayrıntı kaydedilmiş ama genellikle mucize bağlamında geride kalmıştır. Oysa korunan şeyin hayvan değil paylaşılan kaynaktaki hak olması, yasağı bireysel bir koruma kuralından çok toplumsal bir adalet ilkesi olarak konumlandırır. Kestirilen şey bir hayvan; çiğnenen şey ortaklaşa belirlenen bir sınır. Bu farkı görünce Semûd kıssası yalnızca inkâr ve ceza hikâyesi olmaktan çıkar; kimin neye erişebileceğinin zorla yeniden yazıldığı bir hikâyeye dönüşür.\n\nSusma: *Nefsini gömen insanın bu gömmeyi fark edip etmediği buradan görünmez.*",
+  "aiCommentary": "Bu dört bölüm, yapay zekâ tarafından üretilmiştir. İçerik; sağlanan Arapça metin, doğrulanmış editoryal notlar, TDV İslâm Ansiklopedisi'nin 'Câhiliye' ve 'Şems Suresi' maddeleri ile Diyanet İşleri Başkanlığı'nın kamuya açık tefsir verileriyle denetlenmiştir. Metinde dayanağı bulunmayan hiçbir tarihsel veya sosyolojik iddia eklenmemiştir.\n\nMaksat okuması olumsuzlama yöntemiyle kuruldu: önce yaygın okumalar metnin kendi iç mantığıyla sınanarak elendi, ardından geriye kalan alanda yönelim işaret edildi. Bu tercih zorunluluktan doğar. Bir metnin yaratıcısının neyi kastettiğine dair her söz, o yaratıcıya erişimi olmayan birinin tahminidir. Olumsuzlama, tahmini en küçük tutmanın yöntemidir: 'şunu söylüyor' demek yerine 'şunu söylemiyordu' demek, metnin denetleyebildiği bir alanda kalmak demektir.\n\nBu metin bir tefsir değildir; ayet anlamlarını kesinleştiren ve bir geleneğin içinden konuşan sistematik yorum işi burada yapılmamıştır. Bu metin bir meal değildir; Arapça ifadelerin Türkçe karşılığını belirleme yetkisi burada kullanılmamıştır. Bu metin bir fetva değildir; herhangi bir eylemin dinen hükmünü tayın eden bir karar içermemektedir. Yeni bir kaynak, yeni bir dilbilim bulgusu ya da tefsir geleneğine dair yeni bir veri, burada yazılanların herhangi bir bölümünü değiştirebilir."
 }

@@ -1,438 +1,468 @@
 {
- "stationNo": 107,
- "surahNo": 65,
- "name": "Talâk",
- "nameArabic": "",
- "nameMeaning": "",
- "verseCount": 12,
- "nuzulOrderOkuyan": 107,
- "periodDiyanet": "Medine",
- "periodOkuyan": "Medine",
- "revelationTiming": "",
- "stationTitle": "Ayrılığın da Bir Ahlakı Var",
- "introduction": "Talâk suresi, adını ilk ayetinde geçen ve 'boşama/boşanma' anlamına gelen 'talâk' kelimesinden alır. Medine döneminde inen sure, 12 ayetten oluşmaktadır. Abdullah b. Mes'ûd'un bu sureyi 'Sûretü'n-nisâ' el-kusrâ' (iddetten söz eden kısa sure) diye andığı da rivayet edilir.\n\nSurenin ana ekseni, toplumun temelini oluşturan ailenin dağılması durumunda, yani boşanma sürecinde uyulması gereken insani ve hukuki kurallardır. Câhiliye döneminde kadına zarar verecek şekilde uygulanan boşanma âdetlerine karşı, kadın haklarının korunmasını hedefler.\n\nSure iki ana bölümden oluşur. İlk yedi ayette boşanma sürecindeki bekleme süresi (iddet), nafaka, barınma ve emzirme gibi konularda uyulması gereken kurallar belirlenir. Son beş ayette ise Allah'ın sınırlarını aşan geçmiş milletlerin akıbeti hatırlatılarak, inananların Allah'a karşı sorumluluk bilinciyle (takva) hareket etmeleri istenir.",
- "occasionOfRevelation": "Talâk suresi, Medine döneminin ortalarında, müslüman bir toplumun ve hukukun şekillenmeye başladığı bir süreçte inmiştir. Bu dönemde, aile içi anlaşmazlıkların ve boşanmaların nasıl adil bir şekilde çözüleceği önemli bir meseleydi.\n\nSurenin nüzul sebebi olarak kaynaklarda farklı rivayetler yer almaktadır. Bazı rivayetlere göre, Hz. Peygamber'in eşi Hafsa'yı boşaması ve ardından tekrar ona dönmesi üzerine inmiştir. Başka bir rivayette ise, Abdullah b. Ömer'in eşini âdetliyken boşaması ve Hz. Peygamber'in ona eşine dönmesini ve temizlik döneminde boşamasını emretmesi üzerine nazil olduğu belirtilir.\n\nDiyanet Kur'an Yolu Tefsiri'nde ise, 65. ayetin (Nisâ 65'e atıfla) Zübeyr b. Avvâm ile bahçe komşusu arasında su yüzünden çıkan bir anlaşmazlık üzerine indiği aktarılır. Ancak bu, Talâk suresinin değil, Nisâ suresinin 65. ayetinin nüzul sebebidir. Talâk suresinin genel olarak, boşanma sürecinde kadınların mağdur edilmesini önlemek ve adil bir sistem kurmak amacıyla indiği kabul edilir.",
- "occasionSources": "TDV İslâm Ansiklopedisi, \"Talâk Sûresi\" maddesi; Diyanet İşleri Başkanlığı Kur'an Yolu Tefsiri, Talâk 1-7 ayet tefsiri; kuranokuyan.com, Talâk suresi girişi (Prof. Dr. Mehmet Okuyan).",
- "keyTerms": [
-  {
-   "term": "talâk",
-   "arabic": "طَلَاق",
-   "verseRef": "65:1",
-   "meaning": "Boşama, evlilik bağını çözme. Ayette, bu işlemin belirli kurallara ve süreye (iddet) bağlanması gerektiği vurgulanır."
-  },
-  {
-   "term": "iddet",
-   "arabic": "عِدَّة",
-   "verseRef": "65:1",
-   "meaning": "Boşanan kadının beklemesi gereken süre. Bu süre, kadının haklarını korumak ve hamilelik durumunu netleştirmek için konulmuştur."
-  },
-  {
-   "term": "takvâ",
-   "arabic": "تَقْوَى",
-   "verseRef": "65:1",
-   "meaning": "Allah'a karşı sorumluluk bilinci, duyarlılık. Boşanma gibi zorlu bir süreçte bile Allah'ın sınırlarını gözetmek ve haksızlıktan kaçınmak anlamında kullanılır."
-  },
-  {
-   "term": "hudûdullah",
-   "arabic": "حُدُودُ اللَّهِ",
-   "verseRef": "65:1",
-   "meaning": "Allah'ın koyduğu sınırlar, kurallar. Bu sınırları aşmanın kişinin kendisine haksızlık (zulüm) olacağı belirtilir."
-  }
- ],
- "themes": [
-  {
-   "label": "Ayrılıkta Adalet ve Merhamet",
-   "body": "Boşanma, bir ilişkinin bitişi olsa da, insani sorumlulukların bitişi değildir. Sure, ayrılık sürecinde bile tarafların birbirine adil ve merhametli davranmasını, özellikle zayıf durumda olanın (kadının) haklarının korunmasını emreder."
-  },
-  {
-   "label": "Sınırları Gözetmek",
-   "body": "İnsan, öfke ve kırgınlık anlarında sınırları aşmaya, karşısındakine zarar vermeye eğilimlidir. Sure, en zor anlarda bile 'Allah'ın sınırlarını' hatırlatarak, duygusal taşkınlıkların haksızlığa dönüşmesini engeller."
-  },
-  {
-   "label": "Zorluktan Sonra Kolaylık",
-   "body": "Boşanma süreci sancılıdır, ancak sure, Allah'a karşı sorumluluk bilinciyle hareket edenlere bir çıkış yolu yaratılacağını ve beklenmedik yerlerden rızıklandırılacaklarını müjdeler."
-  }
- ],
- "questions": [
-  "Bir ilişkiyi bitirirken veya bir ortaklıktan ayrılırken, karşı tarafın haklarını koruyacak kadar adil ve merhametli davranabiliyor muyum, yoksa öfkeme yenilip sınırları aşıyor muyum?",
-  "Zor ve kriz anlarında, kendi çıkarlarımı mı yoksa 'Allah'ın sınırlarını' (evrensel ahlaki ilkeleri) mı gözetiyorum?"
- ],
- "contemporaryMeaning": "Bu sure, insan karakterinin en çıplak hâliyle ortaya çıktığı o kritik eşiği, yani bir bağın kopuş anını merkeze alır. Başlangıçlar genellikle nezaketle doluyken, bitişler insanın içindeki yıkıcılığı ve gücü kötüye kullanma potansiyelini tetikler. Metin, sevginin veya ortaklığın bittiği yerde ahlakın da bitmek zorunda olmadığını, asıl erdemin tam da bu kriz anında sınırları koruyabilmek olduğunu vurgular. Bir ilişkinin tasfiyesi, tarafların birbirine verebileceği en büyük zararın eşiğidir ve sure bu eşikte durup gücü elinde tutanı frenler.\n\nBugünün diliyle: Bir evlilik bittiğinde mahkeme salonlarında yaşanan yıkıcı velayet savaşları, bir şirket ortaklığı bozulduğunda eski ortağın itibarını zedelemek için kurulan komplolar veya bir işten ayrılırken geride kalan her şeyi yakıp yıkma dürtüsü, bu metnin işaret ettiği temel kriz alanlarıdır. İnsan, hukuki boşlukları veya elindeki maddi gücü kullanarak karşısındakini cezalandırmaya, onu sosyal veya ekonomik olarak yok etmeye çalıştığında, aslında kendi insanlığından taviz verir.\n\nÇatışmanın en yüksek olduğu anlarda bile asgari bir saygı zemininde kalabilmek, sadece karşı tarafı değil, kişinin kendi onurunu da koruyan bir kalkan işlevi görür. Ayrılık anında gösterilen nezaket ve öfkeye rağmen adil kalabilme iradesi, kişinin ahlaki olgunluğunun en kesin göstergesi olarak sunulur.",
- "scholarlyNotes": [
-  {
-   "kind": "rivayet",
-   "body": "TDV İslâm Ansiklopedisi'nde belirtildiğine göre, 'Talâk suresini okuyan kimse Resûlullah'ın sünneti üzerine ölür' meâlindeki hadis mevzûdur (uydurmadır).",
-   "label": "Surenin Fazileti Hakkında Uydurma Rivayet"
-  },
-  {
-   "kind": "nuans",
-   "body": "Abdullah b. Mes'ûd'un bu sureyi 'Sûretü'n-nisâ' el-kusrâ' (iddetten söz eden kısa sure) diye andığı rivayet edilmektedir.",
-   "label": "Surenin Diğer Adı"
-  }
- ],
- "verses": [
-  {
-   "verseNo": 1,
-   "textArabic": "بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ يَٰٓأَيُّهَا ٱلنَّبِىُّ إِذَا طَلَّقْتُمُ ٱلنِّسَآءَ فَطَلِّقُوهُنَّ لِعِدَّتِهِنَّ وَأَحْصُوا۟ ٱلْعِدَّةَ ۖ وَٱتَّقُوا۟ ٱللَّهَ رَبَّكُمْ ۖ لَا تُخْرِجُوهُنَّ مِنۢ بُيُوتِهِنَّ وَلَا يَخْرُجْنَ إِلَّآ أَن يَأْتِينَ بِفَٰحِشَةٍۢ مُّبَيِّنَةٍۢ ۚ وَتِلْكَ حُدُودُ ٱللَّهِ ۚ وَمَن يَتَعَدَّ حُدُودَ ٱللَّهِ فَقَدْ ظَلَمَ نَفْسَهُۥ ۚ لَا تَدْرِى لَعَلَّ ٱللَّهَ يُحْدِثُ بَعْدَ ذَٰلِكَ أَمْرًۭا"
-  },
-  {
-   "verseNo": 2,
-   "textArabic": "فَإِذَا بَلَغْنَ أَجَلَهُنَّ فَأَمْسِكُوهُنَّ بِمَعْرُوفٍ أَوْ فَارِقُوهُنَّ بِمَعْرُوفٍۢ وَأَشْهِدُوا۟ ذَوَىْ عَدْلٍۢ مِّنكُمْ وَأَقِيمُوا۟ ٱلشَّهَٰدَةَ لِلَّهِ ۚ ذَٰلِكُمْ يُوعَظُ بِهِۦ مَن كَانَ يُؤْمِنُ بِٱللَّهِ وَٱلْيَوْمِ ٱلْءَاخِرِ ۚ وَمَن يَتَّقِ ٱللَّهَ يَجْعَل لَّهُۥ مَخْرَجًۭا"
-  },
-  {
-   "verseNo": 3,
-   "textArabic": "وَيَرْزُقْهُ مِنْ حَيْثُ لَا يَحْتَسِبُ ۚ وَمَن يَتَوَكَّلْ عَلَى ٱللَّهِ فَهُوَ حَسْبُهُۥٓ ۚ إِنَّ ٱللَّهَ بَٰلِغُ أَمْرِهِۦ ۚ قَدْ جَعَلَ ٱللَّهُ لِكُلِّ شَىْءٍۢ قَدْرًۭا"
-  },
-  {
-   "verseNo": 4,
-   "textArabic": "وَٱلَّٰٓـِٔى يَئِسْنَ مِنَ ٱلْمَحِيضِ مِن نِّسَآئِكُمْ إِنِ ٱرْتَبْتُمْ فَعِدَّتُهُنَّ ثَلَٰثَةُ أَشْهُرٍۢ وَٱلَّٰٓـِٔى لَمْ يَحِضْنَ ۚ وَأُو۟لَٰتُ ٱلْأَحْمَالِ أَجَلُهُنَّ أَن يَضَعْنَ حَمْلَهُنَّ ۚ وَمَن يَتَّقِ ٱللَّهَ يَجْعَل لَّهُۥ مِنْ أَمْرِهِۦ يُسْرًۭا"
-  },
-  {
-   "verseNo": 5,
-   "textArabic": "ذَٰلِكَ أَمْرُ ٱللَّهِ أَنزَلَهُۥٓ إِلَيْكُمْ ۚ وَمَن يَتَّقِ ٱللَّهَ يُكَفِّرْ عَنْهُ سَيِّـَٔاتِهِۦ وَيُعْظِمْ لَهُۥٓ أَجْرًا"
-  },
-  {
-   "verseNo": 6,
-   "textArabic": "أَسْكِنُوهُنَّ مِنْ حَيْثُ سَكَنتُم مِّن وُجْدِكُمْ وَلَا تُضَآرُّوهُنَّ لِتُضَيِّقُوا۟ عَلَيْهِنَّ ۚ وَإِن كُنَّ أُو۟لَٰتِ حَمْلٍۢ فَأَنفِقُوا۟ عَلَيْهِنَّ حَتَّىٰ يَضَعْنَ حَمْلَهُنَّ ۚ فَإِنْ أَرْضَعْنَ لَكُمْ فَـَٔاتُوهُنَّ أُجُورَهُنَّ ۖ وَأْتَمِرُوا۟ بَيْنَكُم بِمَعْرُوفٍۢ ۖ وَإِن تَعَاسَرْتُمْ فَسَتُرْضِعُ لَهُۥٓ أُخْرَىٰ"
-  },
-  {
-   "verseNo": 7,
-   "textArabic": "لِيُنفِقْ ذُو سَعَةٍۢ مِّن سَعَتِهِۦ ۖ وَمَن قُدِرَ عَلَيْهِ رِزْقُهُۥ فَلْيُنفِقْ مِمَّآ ءَاتَىٰهُ ٱللَّهُ ۚ لَا يُكَلِّفُ ٱللَّهُ نَفْسًا إِلَّا مَآ ءَاتَىٰهَا ۚ سَيَجْعَلُ ٱللَّهُ بَعْدَ عُسْرٍۢ يُسْرًۭا"
-  },
-  {
-   "verseNo": 8,
-   "textArabic": "وَكَأَيِّن مِّن قَرْيَةٍ عَتَتْ عَنْ أَمْرِ رَبِّهَا وَرُسُلِهِۦ فَحَاسَبْنَٰهَا حِسَابًۭا شَدِيدًۭا وَعَذَّبْنَٰهَا عَذَابًۭا نُّكْرًۭا"
-  },
-  {
-   "verseNo": 9,
-   "textArabic": "فَذَاقَتْ وَبَالَ أَمْرِهَا وَكَانَ عَٰقِبَةُ أَمْرِهَا خُسْرًا"
-  },
-  {
-   "verseNo": 10,
-   "textArabic": "أَعَدَّ ٱللَّهُ لَهُمْ عَذَابًۭا شَدِيدًۭا ۖ فَٱتَّقُوا۟ ٱللَّهَ يَٰٓأُو۟لِى ٱلْأَلْبَٰبِ ٱلَّذِينَ ءَامَنُوا۟ ۚ قَدْ أَنزَلَ ٱللَّهُ إِلَيْكُمْ ذِكْرًۭا"
-  },
-  {
-   "verseNo": 11,
-   "textArabic": "رَّسُولًۭا يَتْلُوا۟ عَلَيْكُمْ ءَايَٰتِ ٱللَّهِ مُبَيِّنَٰتٍۢ لِّيُخْرِجَ ٱلَّذِينَ ءَامَنُوا۟ وَعَمِلُوا۟ ٱلصَّٰلِحَٰتِ مِنَ ٱلظُّلُمَٰتِ إِلَى ٱلنُّورِ ۚ وَمَن يُؤْمِنۢ بِٱللَّهِ وَيَعْمَلْ صَٰلِحًۭا يُدْخِلْهُ جَنَّٰتٍۢ تَجْرِى مِن تَحْتِهَا ٱلْأَنْهَٰرُ خَٰلِدِينَ فِيهَآ أَبَدًۭا ۖ قَدْ أَحْسَنَ ٱللَّهُ لَهُۥ رِزْقًا"
-  },
-  {
-   "verseNo": 12,
-   "textArabic": "ٱللَّهُ ٱلَّذِى خَلَقَ سَبْعَ سَمَٰوَٰتٍۢ وَمِنَ ٱلْأَرْضِ مِثْلَهُنَّ يَتَنَزَّلُ ٱلْأَمْرُ بَيْنَهُنَّ لِتَعْلَمُوٓا۟ أَنَّ ٱللَّهَ عَلَىٰ كُلِّ شَىْءٍۢ قَدِيرٌۭ وَأَنَّ ٱللَّهَ قَدْ أَحَاطَ بِكُلِّ شَىْءٍ عِلْمًۢا"
-  }
- ],
- "translations": [
-  {
-   "verseNo": 1,
-   "source": "diyanet",
-   "text": "Ey peygamber! Kadınları boşamak istediğinizde onları iddetlerini dikkate alarak (temizlik halinde) boşayın ve iddeti sayın. Rabbiniz olan Allah'a karşı gelmekten sakının. Apaçık bir hayasızlık yapmaları dışında onları (bekleme süresince) evlerinden çıkarmayın, kendileri de çıkmasınlar. Bunlar Allah'ın sınırlarıdır. Kim Allah'ın sınırlarını aşarsa, şüphesiz kendine zulmetmiş olur. Bilemezsin, olur ki Allah, sonra yeni bir durum ortaya çıkarır."
-  },
-  {
-   "verseNo": 1,
-   "source": "okuyan",
-   "text": "Ey Peygamber! Kadınları boşayacağınız zaman onları (bekleme) sürelerini gözeterek boşayın ve o süreyi sayın! Rabbiniz Allah’a karşı takvâlı (duyarlı) olun! Apaçık bir çirkinlik (fuhuş) yapmaları durumu hariç, onları (bulundukları) evlerinden çıkarmayın, kendileri de çıkmasınlar! Şu (hüküm)ler, Allah’ın (koyduğu) sınırlarıdır. Kim Allah’ın sınırlarını aşarsa, elbette kendine haksızlık etmiş olur. Bilemezsin, belki de Allah bundan sonra bir durum ortaya çıkarır."
-  },
-  {
-   "verseNo": 1,
-   "source": "islamoglu",
-   "text": "SEN ey Nebî! Kadınlarınızı boşamak (istediğinizde), Allah’a karşı sorumlu olduğunuzu bilin de, onları bekleme sürelerini gözeterek boşayın ve iddeti sayın. Onları (içinde yaşadıkları) evlerinden çıkarmayın ve onlar da çıkmasınlar; tabi ki, ayan açık bir ahlâksızlık yapmaları hali müstesna. Bunlar Allah’ın çizdiği sınırlardır: Ve kim Allah’ın çizdiği sınırları aşarsa, artık o kendine zulmetmiş olur; (ve) sen bilemezsin (ey insan), belki de Allah bu (bekleyişin) ardından, birtakım yeni (ve hayırlı) gelişmelere kapı açabilir."
-  },
-  {
-   "verseNo": 1,
-   "source": "esed",
-   "text": "Ey Peygamber! Kadınları boşa(maya niyetlen)diğinizde, onlar için belirlenmiş iddeti gözetecek şekilde boşayın ve süreyi (dikkatlice) hesaplayın ve Allah´a, Rabbinize karşı sorumluluğunuzun bilincinde olun. Onları evlerinizden kovmayın ve açıkça hayasız davranışlarda bulunmadıkça onlar ayrılma(k zorunda bırakılma)sın. Bunlar, Allah´ın koyduğu sınırlardır; ve kim Allah tarafından konulan sınırları aşarsa, aslında kendisine karşı haksızlık etmiş olur, (çünkü, ey insan!) Sen onu bilmezsin, (ama), o (ilk ihlal)den sonra Allah, yeniden bazı şeylerin meydana gelmesini sağlayabilir"
-  },
-  {
-   "verseNo": 2,
-   "source": "diyanet",
-   "text": "Boşanan kadınlar iddetlerinin sonuna varınca onları güzelce tutun, yahut onlardan güzelce ayrılın. İçinizden iki âdil kimseyi şahit tutun. Şahitliği Allah için dosdoğru yapın. İşte bununla Allah'a ve ahiret gününe inanan kimselere öğüt verilmektedir. Kim Allah'a karşı gelmekten sakınırsa Allah ona bir çıkış yolu açar."
-  },
-  {
-   "verseNo": 2,
-   "source": "okuyan",
-   "text": "(Bekleme) sürelerini doldurduklarında onları ya uygun bir şekilde (nikâhınızda) tutun veya onlardan uygun bir şekilde ayrılın! İçinizden adil iki kişiyi de şahit tutun! Şahitliği Allah için yapın! İşte bu, Allah’a ve ahiret gününe inananlara verilen öğüttür. Kim Allah’a karşı takvâlı (duyarlı) olursa (Allah) ona çıkış yolu yaratır."
-  },
-  {
-   "verseNo": 2,
-   "source": "islamoglu",
-   "text": "İmdi, sürelerinin sonuna yaklaştıklarında ya onları meşru bir biçimde tutun, ya da meşru bir biçimde ayırın; ve siz(in toplumunuz)dan adaletli iki kişiyi de şahit olarak bulundurun; ve (hepiniz) şahitliği Allah için dürüstçe yapın! Bakın, bütün bunlar, Allah’a ve Âhiret Günü’ne iman edenlere verilen bir öğüttür. Ve her kim Allah’a karşı sorumlu olduğunu bilirse, O onun için bir kapı aralar"
-  },
-  {
-   "verseNo": 2,
-   "source": "esed",
-   "text": "Böylece, iddetlerinin sonuna yaklaşmak üzere olduklarında, ya onları uygun bir şekilde tutun, yahut uygun bir şekilde bırakın. Ve kendi toplumunuz içinden dürüst(lüğü bilinen) iki kişi (verdiğiniz karara) şahit olarak bulunsun; kendiniz de Allah huzurunda doğru şahitlik yapın! İşte bunlar Allah´a ve Ahiret Günü´ne inananlara verilen öğütlerdir. Ve Allah, Kendisine karşı sorumluluk bilinci taşıyan herkese, (mutsuzluktan) bir çıkış yolu (daima) sağlar"
-  },
-  {
-   "verseNo": 3,
-   "source": "diyanet",
-   "text": "Onu beklemediği yerden rızıklandırır. Kim Allah'a tevekkül ederse, O kendisine yeter. Şüphesiz Allah emrini yerine getirendir. Allah her şeye bir ölçü koymuştur."
-  },
-  {
-   "verseNo": 3,
-   "source": "okuyan",
-   "text": "Onu hesap edemeyeceği bir yerden rızıklandırır. Kim Allah’a güvenirse O, ona yeter. Şüphesiz ki Allah emrini yerine getirendir. Elbette Allah her şey için bir ölçü koymuştur."
-  },
-  {
-   "verseNo": 3,
-   "source": "islamoglu",
-   "text": "ve hiç beklemediği yerden onu rızıklandırır; ve her kim Allah’a güvenirse, artık O ona yeter: Şüphesiz Allah emrini gayesine erdirendir; doğrusu Allah her bir şey için bir ölçü/kader koymuştur."
-  },
-  {
-   "verseNo": 3,
-   "source": "esed",
-   "text": "ve ona bütün beklentilerin ötesinde bir rızık verir. Allah´a güvenen herkese O (tek başına) yeter. Gerçek şu ki, Allah, irade ettiği işi sonucuna ulaştırır (ve) Allah her şey için bir (vade ve) ölçü belirlemiştir"
-  },
-  {
-   "verseNo": 4,
-   "source": "diyanet",
-   "text": "Kadınlarınızdan âdetten kesilmiş olanlarla, henüz âdet görmeyenler hususunda tereddüt ederseniz, onların bekleme süresi üç aydır. Hamile olanların bekleme süresi ise, doğum yapmalarıyla sona erer. Kim Allah'a karşı gelmekten sakınırsa, Allah ona işinde bir kolaylık verir."
-  },
-  {
-   "verseNo": 4,
-   "source": "okuyan",
-   "text": "Kadınlarınızdan âdet halinden ümit kesenlerin (durumundan) şüphe ederseniz, onların bekleme süresi üç aydır. (Bir sebeple) âdet göremeyenler (için de durum böyledir). Hamile olanların (bekleme) süresi ise yüklerini bırakmaları (doğuma kadar)dır. Kim Allah’a karşı takvâlı (duyarlı) olursa, (Allah) ona işinde kolaylık verir."
-  },
-  {
-   "verseNo": 4,
-   "source": "islamoglu",
-   "text": "Ve ay halinden tamamen kesilen kadınlarınız konusunda kuşkuya düşerseniz; bilin ki onların bekleme süresi üç aydır; hiç ay hali görmeyenlerin durumu da öyledir; hamile olanların iddeti ise doğum yapıncaya kadardır. Ve her kim Allah’a karşı sorumluluğunun bilincinde olursa, O ona buyruğunu kolay kılar:"
-  },
-  {
-   "verseNo": 4,
-   "source": "esed",
-   "text": "Ay hali görmekten kesilen ve hiç ay hali görmeyen kadınlarınıza gelince, onların iddeti, -eğer (onun süresiyle ilgili) bir şüpheniz varsa- üç (takvim) ay(ı) olacaktır; hamile olanların iddetleri ise, doğum yaptıklarında sona erecektir. Allah, kendisine karşı sorumluluk bilinci taşıyan herkese, buyruklarına uymayı kolaylaştırır"
-  },
-  {
-   "verseNo": 5,
-   "source": "diyanet",
-   "text": "İşte bu, Allah'ın size indirdiği emridir. Kim Allah'a karşı gelmekten sakınırsa, Allah onun kötülüklerini örter ve onun mükafatını büyütür."
-  },
-  {
-   "verseNo": 5,
-   "source": "okuyan",
-   "text": "İşte bu(nlar), Allah’ın size indirdiği emirleridir. Kim Allah’a karşı takvâlı olursa, (Allah) onun kötülüklerini örter ve onun ödülünü artırır."
-  },
-  {
-   "verseNo": 5,
-   "source": "islamoglu",
-   "text": "İşte bu Allah’ın size indirmiş olduğu buyruğudur; kim Allah’a karşı sorumluluğunun bilincinde olursa, (Allah) onun günahlarını örter ve ona muazzam bir ödül verir."
-  },
-  {
-   "verseNo": 5,
-   "source": "esed",
-   "text": "bu, Allah´ın size indirdiği buyruğudur. Ve O, Allah´a karşı sorumluluğunun bilincinde olan herkesin (bazı) kötü fiillerini örter ve onlara büyük bir ödül bağışlar"
-  },
-  {
-   "verseNo": 6,
-   "source": "diyanet",
-   "text": "Onları (iddetleri süresince) gücünüz nispetinde, oturduğunuz yerin bir bölümünde oturtun. Onları sıkıntıya sokmak için kendilerine zarar vermeye kalkışmayın. Eğer hamile iseler, doğum yapıncaya kadar nafakalarını verin. Sizin için (çocuğu) emzirirlerse (emzirme) ücretlerini de verin ve aranızda uygun bir şekilde anlaşın. Eğer anlaşamazsanız, çocuğu baba hesabına başka bir kadın emzirecektir."
-  },
-  {
-   "verseNo": 6,
-   "source": "okuyan",
-   "text": "Gücünüz ölçüsünde oturduğunuz yerin (evinizin) bir bölümünde onları (da) oturtun! Onları (gitmeleri için) sıkıştırıp kendilerine zarar vermeyin! (Boşandığınız kadınlar) hamile iseler, doğum yapıncaya kadar nafakalarını verin! Sizin için (çocuğunuzu) emzirirlerse onlara ücretlerini verin; aranızda uygun bir şekilde istişare edin! (Emzirtme konusunda) zorluk çekerseniz, onu başka bir (kadın) emzirecektir."
-  },
-  {
-   "verseNo": 6,
-   "source": "islamoglu",
-   "text": "(İddet bekleyen kadınlarınızı), imkânlarınız nisbetinde barındığınız şartlara uygun olarak barındırın; onlar üzerinde baskı kurup hayatlarını çekilmez hale getirmeyin; eğer hamileyseler, doğum yapıncaya kadar nafakalarını üstlenin; eğer (çocuğunuzu) sizin hesabınıza emzirirlerse, onlara hak ettikleri karşılığı verin ve (çocuğun geleceğini) kendi aranızda ortak değerler çerçevesinde istişare edin; eğer (emzirme konusunda) karşılıklı zorlanırsanız, bu takdirde (baba) hesabına bir başkası emzirecektir."
-  },
-  {
-   "verseNo": 6,
-   "source": "esed",
-   "text": "(O halde, iddetlerinin içinde bulunan) kadınların, sizinle aynı yerde, aynı imkanları kullanarak geçinmelerini sağlayın ve onları rahatsız edip hayatlarını çekilmez hale getirmeyin. Eğer hamile kalırlarsa, doğumlarını yapıncaya kadar onlar için her türlü harcamayı yapın; (boşanma kesinleştikten sonra) çocuğunuzu emzirirlerse onlara (hak ettikleri) karşılığı verin ve kendi aranızda (çocuğun geleceğini) uygun bir şekilde konuşun. Eğer ikiniz de (annenin çocuğu emzirmesi ihtimalini) zor görürseniz onu (babasının) adına başka bir kadın emzirsin"
-  },
-  {
-   "verseNo": 7,
-   "source": "diyanet",
-   "text": "Eli geniş olan, elinin genişliğine göre nafaka versin. Rızkı dar olan da, Allah'ın ona verdiğinden (o ölçüde) harcasın. Allah bir kimseyi ancak kendine verdiği ile yükümlü kılar. Allah bir güçlükten sonra bir kolaylık yaratacaktır."
-  },
-  {
-   "verseNo": 7,
-   "source": "okuyan",
-   "text": "İmkânı geniş olan, imkânına göre nafaka versin; rızkı daraltılmış olan da Allah’ın kendisine verdiğinden nafaka ödesin! Allah kimseyi ona verdiği (imkân)dan başkasıyla sorumlu tutmaz. Allah her zorluktan sonra kolaylık yaratacaktır."
-  },
-  {
-   "verseNo": 7,
-   "source": "islamoglu",
-   "text": "(Neticede) imkânı olanlar, imkânları nisbetinde harcama yapsın; maddî imkânı dar olanlar da Allah’ın kendisine verdiği kadar harcama yapsın: Allah hiç kimseye verdiği imkândan fazlasını yüklemez; (belki de) Allah, bir zorluktan sonra bir kolaylık ihsan edecektir."
-  },
-  {
-   "verseNo": 7,
-   "source": "esed",
-   "text": "(Bütün bu durumlarda,) geniş imkanlara sahip olan kişi, genişliği ile uyumlu olarak harcasın; rızık imkanları dar olan kimse ise Allah´ın kendisine verdiğine uygun şekilde harcasın! Allah hiç kimseye kendi verdiğinden daha fazlasını yüklemez; (ve mümkündür ki) Allah sıkıntıdan sonra rahatlık verecektir"
-  },
-  {
-   "verseNo": 8,
-   "source": "diyanet",
-   "text": "Nice kentlerin halkı Rablerinin ve O'nun elçilerinin emrinden uzaklaşıp azdılar. Bu yüzden kendilerini çetin bir hesaba çektik ve görülmedik bir azaba çarptırdık."
-  },
-  {
-   "verseNo": 8,
-   "source": "okuyan",
-   "text": "Rabbinin ve O’nun elçilerinin emrinden uzaklaşıp azmış nice şehirler (halklar) vardı ki biz onları (mahşerde) şiddetli bir hesaba çekmiş ve onlara görülmemiş şekilde azap etmiş (olaca)ğız."
-  },
-  {
-   "verseNo": 8,
-   "source": "islamoglu",
-   "text": "İMDİ, Rablerinin ve O’nun elçilerinin emrini dinlemeyen nice topluluklar gelip geçmiştir; sonunda Biz hepsiyle pek çetin bir biçimde hesaplaşmış, eşi görülmemiş bir azaba çarptırmışızdır:"
-  },
-  {
-   "verseNo": 8,
-   "source": "esed",
-   "text": "Nice topluluk var ki Rablerinin ve Elçilerinin emirlerine küstahça karşı çıkmışlardır! Bunun üzerine Biz tümünü çetin bir hesaba çektik ve görülmemiş bir azaba çarptırdık"
-  },
-  {
-   "verseNo": 9,
-   "source": "diyanet",
-   "text": "Böylece yaptıklarının cezasını tattılar ve işlerinin sonu tam bir hüsran oldu."
-  },
-  {
-   "verseNo": 9,
-   "source": "okuyan",
-   "text": "Böylece onlar da işlerinin cezasını tatmış (olacak)lardır; işlerinin sonu da tam bir kayıptır."
-  },
-  {
-   "verseNo": 9,
-   "source": "islamoglu",
-   "text": "Nihayet yaptıklarının vebalini tatmışlar, işledikleri şeyler sonucunda yıkıma uğramışlardır."
-  },
-  {
-   "verseNo": 9,
-   "source": "esed",
-   "text": "Ve böylece onlar kendi yaptıklarının kötü meyvelerini tattılar; (bu dünyada,) yaptıklarının sonu yıkım oldu"
-  },
-  {
-   "verseNo": 10,
-   "source": "diyanet",
-   "text": "Allah, ahirette onlara şiddetli bir azap hazırlamıştır. O halde, ey iman etmiş olan akıl sahipleri, Allah'a karşı gelmekten sakının! Allah, size bir zikir (Kur'an) indirdi."
-  },
-  {
-   "verseNo": 10,
-   "source": "okuyan",
-   "text": "Allah onlara şiddetli bir azap hazırlamış (olacak)tır. Ey iman etmiş derin akıl sahipleri! Allah’a karşı takvâlı (duyarlı) olun! Allah size elbette hatırlatıcı bir (elçi) indirmiş (göndermiş)tir:"
-  },
-  {
-   "verseNo": 10,
-   "source": "islamoglu",
-   "text": "(Dahası) Allah onlar için (âhirette) çetin bir azap hazırlamıştır. Şu halde ey aktif akıl sahipleri! Allah’a karşı sorumluluğunuzun bilincinde olun! (Ey bu vahye) iman edenler: siz de!.. Zira Allah size uyarıcı bir mesaj indirmiş;"
-  },
-  {
-   "verseNo": 10,
-   "source": "esed",
-   "text": "(Öteki dünyada ise) Allah onlar için (daha da) şiddetli bir azap hazırlamıştır. O halde siz ey basiret sahipleri, (siz) iman edenler, Allah´a karşı sorumluluğunuzun bilincinde olun! Allah size gerçekten bir uyarıcı indirmiştir"
-  },
-  {
-   "verseNo": 11,
-   "source": "diyanet",
-   "text": "İman edip salih amel işleyenleri, karanlıklardan aydınlığa çıkarmak için size Allah'ın apaçık âyetlerini okuyan bir peygamber gönderdi. Kim Allah'a inanır ve salih bir amel işlerse Allah onu, içinden ırmaklar akan, içinde ebedi kalacakları cennetlere sokar. Allah gerçekten ona güzel bir rızık vermiştir."
-  },
-  {
-   "verseNo": 11,
-   "source": "okuyan",
-   "text": "(Yani) iman edip iyi işler yapanları, karanlıklardan aydınlığa çıkarmak için size Allah’ın apaçık ayetlerini tilavet eden (okuyup aktaran) bir elçi (göndermiştir). Kim Allah’a inanır ve iyi iş(ler) yaparsa (Allah da) onu, içinde ebedî kalacakları, altlarından ırmaklar akan cennetlere yerleştirecektir. Elbette Allah o kimse için bir rızık lütfetmiş (olacak)tır."
-  },
-  {
-   "verseNo": 11,
-   "source": "islamoglu",
-   "text": "iman eden ve ıslah edici iyiliklerde bulunanları (küfrün) karanlıklarından (imanın) aydınlığına çıkarmak için, Allah’ın apaçık âyetlerini size okuyan bir elçi göndermiştir. Her kim Allah’a inanır ve ıslah edici iyilikler yaparsa, içinde ebedî kalmak üzere (Allah) onu zemininden ırmaklar akan cennetlere koyar: böylece Allah ona tarifsiz güzellikte bir rızık vermiş olur."
-  },
-  {
-   "verseNo": 11,
-   "source": "esed",
-   "text": "Allah´ın apaçık mesajlarını size aktaran bir elçi (göndermiştir) ki iman edip doğru ve yararlı işler yapanları zifiri karanlıktan aydınlığa çıkarabilsin. Kim Allah´a inanıp doğru ve yararlı işler yaparsa, Allah onu içinden ırmaklar akan sonsuza kadar kalacakları bahçelere koyacaktır. Allah, (böylece) ona en güzel rızkı vermiş olacaktır"
-  },
-  {
-   "verseNo": 12,
-   "source": "diyanet",
-   "text": "Allah, yedi göğü ve yerden bir o kadarını yaratandır. Allah'ın emri bunlar arasından inip durmaktadır ki, Allah'ın her şeye kadir olduğunu ve Allah'ın her şeyi ilmiyle kuşattığını bilesiniz."
-  },
-  {
-   "verseNo": 12,
-   "source": "okuyan",
-   "text": "Allah yedi kat göğü ve yerden de bir o kadarını yaratandır. Allah’ın her şeye gücünün yettiğini ve her şeyi ilmiyle elbette kuşattığını bilin diye (ilahi) emir(ler) bunlar (göklerle yer) arasında inmektedir."
-  },
-  {
-   "verseNo": 12,
-   "source": "islamoglu",
-   "text": "ALLAH, yedi kat gökleri ve yerden de bir o kadarını yaratandır. O’nun (yaratıcı) iradesi, bu ikisi arasında her an yenilenerek sürekli tecelli eder ki, Allah’ın her şeye muktedir olduğunu ve her şeyi akıl sır ermez bir ilimle kuşattığını kavrayasınız."
-  },
-  {
-   "verseNo": 12,
-   "source": "esed",
-   "text": "Allah, yedi göğü ve aynı şekilde yeri(n sayısız parçasını) yaratandır. O´nun (yaratıcı) iradesi, bütün bu (yarattık)ları aracılığıyla kesintisiz tecelli eder ki Allah´ın her şeye kadir olduğunu ve her şeyi bilgisiyle kuşattığını göresiniz"
-  },
-  {
-   "verseNo": 1,
-   "verseNoEnd": null,
-   "source": "ai",
-   "text": "Ey Peygamber! Kadınları boşadığınız zaman onları bekleme süreleri için boşayın ve bekleme süresini sayın. Allah'tan, Rabbiniz O'ndan sakının. Onları evlerinden çıkarmayın; onlar da çıkmasınlar, ancak apaçık bir fuhuşla gelirlerse. İşte bunlar Allah'ın sınırlarıdır; kim Allah'ın sınırlarını aşarsa kendine zulmetmiş olur. Bilmezsin, belki Allah bundan sonra bir iş meydana getirir."
-  },
-  {
-   "verseNo": 2,
-   "verseNoEnd": null,
-   "source": "ai",
-   "text": "Bekleme süreleri dolduğunda onları iyi şekilde tutun ya da iyi şekilde onlardan ayrılın. Aranızdan adil iki şahidi şahit tutun ve Allah için şahitliği yerine getirin. Bu, Allah'a ve ahiret gününe inananlara öğüttür. Allah'tan sakınan için Allah bir çıkış yolu sağlar."
-  },
-  {
-   "verseNo": 3,
-   "verseNoEnd": null,
-   "source": "ai",
-   "text": "Ona hesaba katmadığı bir yerden rızık verir. Kim Allah'a güvenirse, O ona yeter. Şüphesiz Allah işini yerine getirendir. Allah her şey için bir ölçü takdir etmiştir."
-  },
-  {
-   "verseNo": 4,
-   "verseNoEnd": null,
-   "source": "ai",
-   "text": "Adet görmeyi umudunu yitirmiş eşlerinizin, eğer şüphedeyseniz, bekleme süreleri üç aydır; henüz adet görmemiş olanların bekleme süreleri de üç aydır. Hamile olanların süreleri ise doğumlarını yapana kadardır. Allah'tan sakınan için Allah işinde kolaylık sağlar."
-  },
-  {
-   "verseNo": 5,
-   "verseNoEnd": null,
-   "source": "ai",
-   "text": "Bu, Allah'ın size emrettiği bir iştir. Allah'tan sakınan kimse için Allah onun günahlarını örter ve ona büyük bir ödül verir."
-  },
-  {
-   "verseNo": 6,
-   "verseNoEnd": null,
-   "source": "ai",
-   "text": "Onları bulunduğunuz yerlerde oturtun; onları sıkıntıya sokmayın ki üzerlerine dar gelsin. Eğer hamilelerse doğuruncaya kadar onlara geçimini sağlayın. Eğer size emzirirlerse onlara ücretlerini verin. Aranızda iyi şekilde düzenleme yapın; eğer güçlük çıkarsa başka bir kadın onun için emzirir."
-  },
-  {
-   "verseNo": 7,
-   "verseNoEnd": null,
-   "source": "ai",
-   "text": "Gücü olan gücü nispetinde harcasın; rızkı kendisine takdir edilen de Allah'ın verdiğinden harcasın. Allah bir nefse, verdiğinden başkasını yüklemez. Allah zorluktan sonra kolaylık sağlar."
-  },
-  {
-   "verseNo": 8,
-   "verseNoEnd": null,
-   "source": "ai",
-   "text": "Ne çok köy vardır ki Rabbinin ve resullerinin buyruğundan başkaldırdı; onları ağır bir hesaba çekip şiddetli bir azapla cezalandırdık."
-  },
-  {
-   "verseNo": 9,
-   "verseNoEnd": null,
-   "source": "ai",
-   "text": "Böylece kendi işinin sonucunu tattı; sonucu zarar oldu."
-  },
-  {
-   "verseNo": 10,
-   "verseNoEnd": null,
-   "source": "ai",
-   "text": "Allah onlar için şiddetli bir azap hazırlamıştır. Öyleyse ey akıl sahipleri, iman edenler, Allah'tan sakının. Şüphesiz Allah size bir hatırlatma indirmiştir."
-  },
-  {
-   "verseNo": 11,
-   "verseNoEnd": null,
-   "source": "ai",
-   "text": "Size Allah'ın apaçık ayetlerini okuyan bir peygamberdir; iman edenleri ve iyi işler yapanları karanlıklardan aydınlığa çıkarsın diye. Kim Allah'a inanır ve iyi işler yaparsa, onu altlarından ırmaklar akan cennetlere koyar; orada ebediyen kalırlar. Allah ona güzel bir rızık vermiştir."
-  },
-  {
-   "verseNo": 12,
-   "verseNoEnd": null,
-   "source": "ai",
-   "text": "Allah, yedi göğü yaratan ve yerden de onların benzerini yaratan O'dur. Aralarına hüküm iner ki bilesiniz: Allah her şeye gücü yeter ve Allah her şeyi bilgisiyle kuşatmıştır."
-  }
- ],
- "aiParagraph": "Bir ilişki bittiğinde, acı ve öfke içindeki insanın aklına en son gelen şey \"usul\"dur — ama bu sure tam o noktada devreye girer ve der ki: en derin kırılma anında bile bir insan, karşısındakine ne kadar alan açtığıyla ölçülür. Ayrılık kararı verilmiş olsa bile kadın, kendi evinden sürülmez; hamile kalınmışsa nafakası kesilmez; emzirme karşılığında ücret alır; erkeğin gücü yetiyorsa bol verir, yetmiyorsa gücü kadar verir — metin kimseyi taşıyamayacağı yükün altına koymaz, ama \"hiçbir şey vermem\" kapısını da açık bırakmaz. Bütün bunların altında yatan düşünce şudur: sona eren bir bağ, insanı hayvana dönüştürmez; öfke bir hak değildir. Ve metin buna gerekçe olarak küçük bir insan gerçeğini sunar: bilmiyorsun, bu süreçten sonra ne olacağını bilmiyorsun — belki kapanmış gibi görünen şeyden yeni bir yol çıkar. Sonra bakış genişler; geçmişte kendi yolunu inatla çizen, hiçbir uyarıyı dinlemeyen toplulukların izini sürer ve onların sonunu gösterir — bu, tarihin soğuk bir aynasıdır. En sonunda evrenin bütünlüğünü, katmanları, her şeyi kuşatan bir bilinci anımsatarak biter; sanki tüm bu pratik kuralların arkasında tek bir soru yatıyormuş gibi: sen bu kadar büyük bir düzende ne kadar yer kaplıyorsun, ve o yeri nasıl dolduruyorsun?"
+  "stationNo": 107,
+  "surahNo": 65,
+  "name": "Talâk",
+  "nameArabic": "",
+  "nameMeaning": "",
+  "verseCount": 12,
+  "nuzulOrderOkuyan": 107,
+  "periodDiyanet": "Medine",
+  "periodOkuyan": "Medine",
+  "revelationTiming": "",
+  "stationTitle": "Ayrılığın da Bir Ahlakı Var",
+  "introduction": "Talâk suresi, adını ilk ayetinde geçen ve 'boşama/boşanma' anlamına gelen 'talâk' kelimesinden alır. Medine döneminde inen sure, 12 ayetten oluşmaktadır. Abdullah b. Mes'ûd'un bu sureyi 'Sûretü'n-nisâ' el-kusrâ' (iddetten söz eden kısa sure) diye andığı da rivayet edilir.\n\nSurenin ana ekseni, toplumun temelini oluşturan ailenin dağılması durumunda, yani boşanma sürecinde uyulması gereken insani ve hukuki kurallardır. Câhiliye döneminde kadına zarar verecek şekilde uygulanan boşanma âdetlerine karşı, kadın haklarının korunmasını hedefler.\n\nSure iki ana bölümden oluşur. İlk yedi ayette boşanma sürecindeki bekleme süresi (iddet), nafaka, barınma ve emzirme gibi konularda uyulması gereken kurallar belirlenir. Son beş ayette ise Allah'ın sınırlarını aşan geçmiş milletlerin akıbeti hatırlatılarak, inananların Allah'a karşı sorumluluk bilinciyle (takva) hareket etmeleri istenir.",
+  "occasionOfRevelation": "Talâk suresi, Medine döneminin ortalarında, müslüman bir toplumun ve hukukun şekillenmeye başladığı bir süreçte inmiştir. Bu dönemde, aile içi anlaşmazlıkların ve boşanmaların nasıl adil bir şekilde çözüleceği önemli bir meseleydi.\n\nSurenin nüzul sebebi olarak kaynaklarda farklı rivayetler yer almaktadır. Bazı rivayetlere göre, Hz. Peygamber'in eşi Hafsa'yı boşaması ve ardından tekrar ona dönmesi üzerine inmiştir. Başka bir rivayette ise, Abdullah b. Ömer'in eşini âdetliyken boşaması ve Hz. Peygamber'in ona eşine dönmesini ve temizlik döneminde boşamasını emretmesi üzerine nazil olduğu belirtilir.\n\nDiyanet Kur'an Yolu Tefsiri'nde ise, 65. ayetin (Nisâ 65'e atıfla) Zübeyr b. Avvâm ile bahçe komşusu arasında su yüzünden çıkan bir anlaşmazlık üzerine indiği aktarılır. Ancak bu, Talâk suresinin değil, Nisâ suresinin 65. ayetinin nüzul sebebidir. Talâk suresinin genel olarak, boşanma sürecinde kadınların mağdur edilmesini önlemek ve adil bir sistem kurmak amacıyla indiği kabul edilir.",
+  "occasionSources": "TDV İslâm Ansiklopedisi, \"Talâk Sûresi\" maddesi; Diyanet İşleri Başkanlığı Kur'an Yolu Tefsiri, Talâk 1-7 ayet tefsiri; kuranokuyan.com, Talâk suresi girişi (Prof. Dr. Mehmet Okuyan).",
+  "keyTerms": [
+    {
+      "term": "talâk",
+      "arabic": "طَلَاق",
+      "verseRef": "65:1",
+      "meaning": "Boşama, evlilik bağını çözme. Ayette, bu işlemin belirli kurallara ve süreye (iddet) bağlanması gerektiği vurgulanır."
+    },
+    {
+      "term": "iddet",
+      "arabic": "عِدَّة",
+      "verseRef": "65:1",
+      "meaning": "Boşanan kadının beklemesi gereken süre. Bu süre, kadının haklarını korumak ve hamilelik durumunu netleştirmek için konulmuştur."
+    },
+    {
+      "term": "takvâ",
+      "arabic": "تَقْوَى",
+      "verseRef": "65:1",
+      "meaning": "Allah'a karşı sorumluluk bilinci, duyarlılık. Boşanma gibi zorlu bir süreçte bile Allah'ın sınırlarını gözetmek ve haksızlıktan kaçınmak anlamında kullanılır."
+    },
+    {
+      "term": "hudûdullah",
+      "arabic": "حُدُودُ اللَّهِ",
+      "verseRef": "65:1",
+      "meaning": "Allah'ın koyduğu sınırlar, kurallar. Bu sınırları aşmanın kişinin kendisine haksızlık (zulüm) olacağı belirtilir."
+    }
+  ],
+  "themes": [
+    {
+      "label": "Ayrılıkta Adalet ve Merhamet",
+      "body": "Boşanma, bir ilişkinin bitişi olsa da, insani sorumlulukların bitişi değildir. Sure, ayrılık sürecinde bile tarafların birbirine adil ve merhametli davranmasını, özellikle zayıf durumda olanın (kadının) haklarının korunmasını emreder."
+    },
+    {
+      "label": "Sınırları Gözetmek",
+      "body": "İnsan, öfke ve kırgınlık anlarında sınırları aşmaya, karşısındakine zarar vermeye eğilimlidir. Sure, en zor anlarda bile 'Allah'ın sınırlarını' hatırlatarak, duygusal taşkınlıkların haksızlığa dönüşmesini engeller."
+    },
+    {
+      "label": "Zorluktan Sonra Kolaylık",
+      "body": "Boşanma süreci sancılıdır, ancak sure, Allah'a karşı sorumluluk bilinciyle hareket edenlere bir çıkış yolu yaratılacağını ve beklenmedik yerlerden rızıklandırılacaklarını müjdeler."
+    }
+  ],
+  "questions": [
+    "Bir ilişkiyi bitirirken veya bir ortaklıktan ayrılırken, karşı tarafın haklarını koruyacak kadar adil ve merhametli davranabiliyor muyum, yoksa öfkeme yenilip sınırları aşıyor muyum?",
+    "Zor ve kriz anlarında, kendi çıkarlarımı mı yoksa 'Allah'ın sınırlarını' (evrensel ahlaki ilkeleri) mı gözetiyorum?"
+  ],
+  "contemporaryMeaning": "Bu sure, insan karakterinin en çıplak hâliyle ortaya çıktığı o kritik eşiği, yani bir bağın kopuş anını merkeze alır. Başlangıçlar genellikle nezaketle doluyken, bitişler insanın içindeki yıkıcılığı ve gücü kötüye kullanma potansiyelini tetikler. Metin, sevginin veya ortaklığın bittiği yerde ahlakın da bitmek zorunda olmadığını, asıl erdemin tam da bu kriz anında sınırları koruyabilmek olduğunu vurgular. Bir ilişkinin tasfiyesi, tarafların birbirine verebileceği en büyük zararın eşiğidir ve sure bu eşikte durup gücü elinde tutanı frenler.\n\nBugünün diliyle: Bir evlilik bittiğinde mahkeme salonlarında yaşanan yıkıcı velayet savaşları, bir şirket ortaklığı bozulduğunda eski ortağın itibarını zedelemek için kurulan komplolar veya bir işten ayrılırken geride kalan her şeyi yakıp yıkma dürtüsü, bu metnin işaret ettiği temel kriz alanlarıdır. İnsan, hukuki boşlukları veya elindeki maddi gücü kullanarak karşısındakini cezalandırmaya, onu sosyal veya ekonomik olarak yok etmeye çalıştığında, aslında kendi insanlığından taviz verir.\n\nÇatışmanın en yüksek olduğu anlarda bile asgari bir saygı zemininde kalabilmek, sadece karşı tarafı değil, kişinin kendi onurunu da koruyan bir kalkan işlevi görür. Ayrılık anında gösterilen nezaket ve öfkeye rağmen adil kalabilme iradesi, kişinin ahlaki olgunluğunun en kesin göstergesi olarak sunulur.",
+  "scholarlyNotes": [
+    {
+      "kind": "rivayet",
+      "body": "TDV İslâm Ansiklopedisi'nde belirtildiğine göre, 'Talâk suresini okuyan kimse Resûlullah'ın sünneti üzerine ölür' meâlindeki hadis mevzûdur (uydurmadır).",
+      "label": "Surenin Fazileti Hakkında Uydurma Rivayet"
+    },
+    {
+      "kind": "nuans",
+      "body": "Abdullah b. Mes'ûd'un bu sureyi 'Sûretü'n-nisâ' el-kusrâ' (iddetten söz eden kısa sure) diye andığı rivayet edilmektedir.",
+      "label": "Surenin Diğer Adı"
+    }
+  ],
+  "verses": [
+    {
+      "verseNo": 1,
+      "textArabic": "بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ يَٰٓأَيُّهَا ٱلنَّبِىُّ إِذَا طَلَّقْتُمُ ٱلنِّسَآءَ فَطَلِّقُوهُنَّ لِعِدَّتِهِنَّ وَأَحْصُوا۟ ٱلْعِدَّةَ ۖ وَٱتَّقُوا۟ ٱللَّهَ رَبَّكُمْ ۖ لَا تُخْرِجُوهُنَّ مِنۢ بُيُوتِهِنَّ وَلَا يَخْرُجْنَ إِلَّآ أَن يَأْتِينَ بِفَٰحِشَةٍۢ مُّبَيِّنَةٍۢ ۚ وَتِلْكَ حُدُودُ ٱللَّهِ ۚ وَمَن يَتَعَدَّ حُدُودَ ٱللَّهِ فَقَدْ ظَلَمَ نَفْسَهُۥ ۚ لَا تَدْرِى لَعَلَّ ٱللَّهَ يُحْدِثُ بَعْدَ ذَٰلِكَ أَمْرًۭا"
+    },
+    {
+      "verseNo": 2,
+      "textArabic": "فَإِذَا بَلَغْنَ أَجَلَهُنَّ فَأَمْسِكُوهُنَّ بِمَعْرُوفٍ أَوْ فَارِقُوهُنَّ بِمَعْرُوفٍۢ وَأَشْهِدُوا۟ ذَوَىْ عَدْلٍۢ مِّنكُمْ وَأَقِيمُوا۟ ٱلشَّهَٰدَةَ لِلَّهِ ۚ ذَٰلِكُمْ يُوعَظُ بِهِۦ مَن كَانَ يُؤْمِنُ بِٱللَّهِ وَٱلْيَوْمِ ٱلْءَاخِرِ ۚ وَمَن يَتَّقِ ٱللَّهَ يَجْعَل لَّهُۥ مَخْرَجًۭا"
+    },
+    {
+      "verseNo": 3,
+      "textArabic": "وَيَرْزُقْهُ مِنْ حَيْثُ لَا يَحْتَسِبُ ۚ وَمَن يَتَوَكَّلْ عَلَى ٱللَّهِ فَهُوَ حَسْبُهُۥٓ ۚ إِنَّ ٱللَّهَ بَٰلِغُ أَمْرِهِۦ ۚ قَدْ جَعَلَ ٱللَّهُ لِكُلِّ شَىْءٍۢ قَدْرًۭا"
+    },
+    {
+      "verseNo": 4,
+      "textArabic": "وَٱلَّٰٓـِٔى يَئِسْنَ مِنَ ٱلْمَحِيضِ مِن نِّسَآئِكُمْ إِنِ ٱرْتَبْتُمْ فَعِدَّتُهُنَّ ثَلَٰثَةُ أَشْهُرٍۢ وَٱلَّٰٓـِٔى لَمْ يَحِضْنَ ۚ وَأُو۟لَٰتُ ٱلْأَحْمَالِ أَجَلُهُنَّ أَن يَضَعْنَ حَمْلَهُنَّ ۚ وَمَن يَتَّقِ ٱللَّهَ يَجْعَل لَّهُۥ مِنْ أَمْرِهِۦ يُسْرًۭا"
+    },
+    {
+      "verseNo": 5,
+      "textArabic": "ذَٰلِكَ أَمْرُ ٱللَّهِ أَنزَلَهُۥٓ إِلَيْكُمْ ۚ وَمَن يَتَّقِ ٱللَّهَ يُكَفِّرْ عَنْهُ سَيِّـَٔاتِهِۦ وَيُعْظِمْ لَهُۥٓ أَجْرًا"
+    },
+    {
+      "verseNo": 6,
+      "textArabic": "أَسْكِنُوهُنَّ مِنْ حَيْثُ سَكَنتُم مِّن وُجْدِكُمْ وَلَا تُضَآرُّوهُنَّ لِتُضَيِّقُوا۟ عَلَيْهِنَّ ۚ وَإِن كُنَّ أُو۟لَٰتِ حَمْلٍۢ فَأَنفِقُوا۟ عَلَيْهِنَّ حَتَّىٰ يَضَعْنَ حَمْلَهُنَّ ۚ فَإِنْ أَرْضَعْنَ لَكُمْ فَـَٔاتُوهُنَّ أُجُورَهُنَّ ۖ وَأْتَمِرُوا۟ بَيْنَكُم بِمَعْرُوفٍۢ ۖ وَإِن تَعَاسَرْتُمْ فَسَتُرْضِعُ لَهُۥٓ أُخْرَىٰ"
+    },
+    {
+      "verseNo": 7,
+      "textArabic": "لِيُنفِقْ ذُو سَعَةٍۢ مِّن سَعَتِهِۦ ۖ وَمَن قُدِرَ عَلَيْهِ رِزْقُهُۥ فَلْيُنفِقْ مِمَّآ ءَاتَىٰهُ ٱللَّهُ ۚ لَا يُكَلِّفُ ٱللَّهُ نَفْسًا إِلَّا مَآ ءَاتَىٰهَا ۚ سَيَجْعَلُ ٱللَّهُ بَعْدَ عُسْرٍۢ يُسْرًۭا"
+    },
+    {
+      "verseNo": 8,
+      "textArabic": "وَكَأَيِّن مِّن قَرْيَةٍ عَتَتْ عَنْ أَمْرِ رَبِّهَا وَرُسُلِهِۦ فَحَاسَبْنَٰهَا حِسَابًۭا شَدِيدًۭا وَعَذَّبْنَٰهَا عَذَابًۭا نُّكْرًۭا"
+    },
+    {
+      "verseNo": 9,
+      "textArabic": "فَذَاقَتْ وَبَالَ أَمْرِهَا وَكَانَ عَٰقِبَةُ أَمْرِهَا خُسْرًا"
+    },
+    {
+      "verseNo": 10,
+      "textArabic": "أَعَدَّ ٱللَّهُ لَهُمْ عَذَابًۭا شَدِيدًۭا ۖ فَٱتَّقُوا۟ ٱللَّهَ يَٰٓأُو۟لِى ٱلْأَلْبَٰبِ ٱلَّذِينَ ءَامَنُوا۟ ۚ قَدْ أَنزَلَ ٱللَّهُ إِلَيْكُمْ ذِكْرًۭا"
+    },
+    {
+      "verseNo": 11,
+      "textArabic": "رَّسُولًۭا يَتْلُوا۟ عَلَيْكُمْ ءَايَٰتِ ٱللَّهِ مُبَيِّنَٰتٍۢ لِّيُخْرِجَ ٱلَّذِينَ ءَامَنُوا۟ وَعَمِلُوا۟ ٱلصَّٰلِحَٰتِ مِنَ ٱلظُّلُمَٰتِ إِلَى ٱلنُّورِ ۚ وَمَن يُؤْمِنۢ بِٱللَّهِ وَيَعْمَلْ صَٰلِحًۭا يُدْخِلْهُ جَنَّٰتٍۢ تَجْرِى مِن تَحْتِهَا ٱلْأَنْهَٰرُ خَٰلِدِينَ فِيهَآ أَبَدًۭا ۖ قَدْ أَحْسَنَ ٱللَّهُ لَهُۥ رِزْقًا"
+    },
+    {
+      "verseNo": 12,
+      "textArabic": "ٱللَّهُ ٱلَّذِى خَلَقَ سَبْعَ سَمَٰوَٰتٍۢ وَمِنَ ٱلْأَرْضِ مِثْلَهُنَّ يَتَنَزَّلُ ٱلْأَمْرُ بَيْنَهُنَّ لِتَعْلَمُوٓا۟ أَنَّ ٱللَّهَ عَلَىٰ كُلِّ شَىْءٍۢ قَدِيرٌۭ وَأَنَّ ٱللَّهَ قَدْ أَحَاطَ بِكُلِّ شَىْءٍ عِلْمًۢا"
+    }
+  ],
+  "translations": [
+    {
+      "verseNo": 1,
+      "source": "diyanet",
+      "text": "Ey peygamber! Kadınları boşamak istediğinizde onları iddetlerini dikkate alarak (temizlik halinde) boşayın ve iddeti sayın. Rabbiniz olan Allah'a karşı gelmekten sakının. Apaçık bir hayasızlık yapmaları dışında onları (bekleme süresince) evlerinden çıkarmayın, kendileri de çıkmasınlar. Bunlar Allah'ın sınırlarıdır. Kim Allah'ın sınırlarını aşarsa, şüphesiz kendine zulmetmiş olur. Bilemezsin, olur ki Allah, sonra yeni bir durum ortaya çıkarır."
+    },
+    {
+      "verseNo": 1,
+      "source": "okuyan",
+      "text": "Ey Peygamber! Kadınları boşayacağınız zaman onları (bekleme) sürelerini gözeterek boşayın ve o süreyi sayın! Rabbiniz Allah’a karşı takvâlı (duyarlı) olun! Apaçık bir çirkinlik (fuhuş) yapmaları durumu hariç, onları (bulundukları) evlerinden çıkarmayın, kendileri de çıkmasınlar! Şu (hüküm)ler, Allah’ın (koyduğu) sınırlarıdır. Kim Allah’ın sınırlarını aşarsa, elbette kendine haksızlık etmiş olur. Bilemezsin, belki de Allah bundan sonra bir durum ortaya çıkarır."
+    },
+    {
+      "verseNo": 1,
+      "source": "islamoglu",
+      "text": "SEN ey Nebî! Kadınlarınızı boşamak (istediğinizde), Allah’a karşı sorumlu olduğunuzu bilin de, onları bekleme sürelerini gözeterek boşayın ve iddeti sayın. Onları (içinde yaşadıkları) evlerinden çıkarmayın ve onlar da çıkmasınlar; tabi ki, ayan açık bir ahlâksızlık yapmaları hali müstesna. Bunlar Allah’ın çizdiği sınırlardır: Ve kim Allah’ın çizdiği sınırları aşarsa, artık o kendine zulmetmiş olur; (ve) sen bilemezsin (ey insan), belki de Allah bu (bekleyişin) ardından, birtakım yeni (ve hayırlı) gelişmelere kapı açabilir."
+    },
+    {
+      "verseNo": 1,
+      "source": "esed",
+      "text": "Ey Peygamber! Kadınları boşa(maya niyetlen)diğinizde, onlar için belirlenmiş iddeti gözetecek şekilde boşayın ve süreyi (dikkatlice) hesaplayın ve Allah´a, Rabbinize karşı sorumluluğunuzun bilincinde olun. Onları evlerinizden kovmayın ve açıkça hayasız davranışlarda bulunmadıkça onlar ayrılma(k zorunda bırakılma)sın. Bunlar, Allah´ın koyduğu sınırlardır; ve kim Allah tarafından konulan sınırları aşarsa, aslında kendisine karşı haksızlık etmiş olur, (çünkü, ey insan!) Sen onu bilmezsin, (ama), o (ilk ihlal)den sonra Allah, yeniden bazı şeylerin meydana gelmesini sağlayabilir"
+    },
+    {
+      "verseNo": 2,
+      "source": "diyanet",
+      "text": "Boşanan kadınlar iddetlerinin sonuna varınca onları güzelce tutun, yahut onlardan güzelce ayrılın. İçinizden iki âdil kimseyi şahit tutun. Şahitliği Allah için dosdoğru yapın. İşte bununla Allah'a ve ahiret gününe inanan kimselere öğüt verilmektedir. Kim Allah'a karşı gelmekten sakınırsa Allah ona bir çıkış yolu açar."
+    },
+    {
+      "verseNo": 2,
+      "source": "okuyan",
+      "text": "(Bekleme) sürelerini doldurduklarında onları ya uygun bir şekilde (nikâhınızda) tutun veya onlardan uygun bir şekilde ayrılın! İçinizden adil iki kişiyi de şahit tutun! Şahitliği Allah için yapın! İşte bu, Allah’a ve ahiret gününe inananlara verilen öğüttür. Kim Allah’a karşı takvâlı (duyarlı) olursa (Allah) ona çıkış yolu yaratır."
+    },
+    {
+      "verseNo": 2,
+      "source": "islamoglu",
+      "text": "İmdi, sürelerinin sonuna yaklaştıklarında ya onları meşru bir biçimde tutun, ya da meşru bir biçimde ayırın; ve siz(in toplumunuz)dan adaletli iki kişiyi de şahit olarak bulundurun; ve (hepiniz) şahitliği Allah için dürüstçe yapın! Bakın, bütün bunlar, Allah’a ve Âhiret Günü’ne iman edenlere verilen bir öğüttür. Ve her kim Allah’a karşı sorumlu olduğunu bilirse, O onun için bir kapı aralar"
+    },
+    {
+      "verseNo": 2,
+      "source": "esed",
+      "text": "Böylece, iddetlerinin sonuna yaklaşmak üzere olduklarında, ya onları uygun bir şekilde tutun, yahut uygun bir şekilde bırakın. Ve kendi toplumunuz içinden dürüst(lüğü bilinen) iki kişi (verdiğiniz karara) şahit olarak bulunsun; kendiniz de Allah huzurunda doğru şahitlik yapın! İşte bunlar Allah´a ve Ahiret Günü´ne inananlara verilen öğütlerdir. Ve Allah, Kendisine karşı sorumluluk bilinci taşıyan herkese, (mutsuzluktan) bir çıkış yolu (daima) sağlar"
+    },
+    {
+      "verseNo": 3,
+      "source": "diyanet",
+      "text": "Onu beklemediği yerden rızıklandırır. Kim Allah'a tevekkül ederse, O kendisine yeter. Şüphesiz Allah emrini yerine getirendir. Allah her şeye bir ölçü koymuştur."
+    },
+    {
+      "verseNo": 3,
+      "source": "okuyan",
+      "text": "Onu hesap edemeyeceği bir yerden rızıklandırır. Kim Allah’a güvenirse O, ona yeter. Şüphesiz ki Allah emrini yerine getirendir. Elbette Allah her şey için bir ölçü koymuştur."
+    },
+    {
+      "verseNo": 3,
+      "source": "islamoglu",
+      "text": "ve hiç beklemediği yerden onu rızıklandırır; ve her kim Allah’a güvenirse, artık O ona yeter: Şüphesiz Allah emrini gayesine erdirendir; doğrusu Allah her bir şey için bir ölçü/kader koymuştur."
+    },
+    {
+      "verseNo": 3,
+      "source": "esed",
+      "text": "ve ona bütün beklentilerin ötesinde bir rızık verir. Allah´a güvenen herkese O (tek başına) yeter. Gerçek şu ki, Allah, irade ettiği işi sonucuna ulaştırır (ve) Allah her şey için bir (vade ve) ölçü belirlemiştir"
+    },
+    {
+      "verseNo": 4,
+      "source": "diyanet",
+      "text": "Kadınlarınızdan âdetten kesilmiş olanlarla, henüz âdet görmeyenler hususunda tereddüt ederseniz, onların bekleme süresi üç aydır. Hamile olanların bekleme süresi ise, doğum yapmalarıyla sona erer. Kim Allah'a karşı gelmekten sakınırsa, Allah ona işinde bir kolaylık verir."
+    },
+    {
+      "verseNo": 4,
+      "source": "okuyan",
+      "text": "Kadınlarınızdan âdet halinden ümit kesenlerin (durumundan) şüphe ederseniz, onların bekleme süresi üç aydır. (Bir sebeple) âdet göremeyenler (için de durum böyledir). Hamile olanların (bekleme) süresi ise yüklerini bırakmaları (doğuma kadar)dır. Kim Allah’a karşı takvâlı (duyarlı) olursa, (Allah) ona işinde kolaylık verir."
+    },
+    {
+      "verseNo": 4,
+      "source": "islamoglu",
+      "text": "Ve ay halinden tamamen kesilen kadınlarınız konusunda kuşkuya düşerseniz; bilin ki onların bekleme süresi üç aydır; hiç ay hali görmeyenlerin durumu da öyledir; hamile olanların iddeti ise doğum yapıncaya kadardır. Ve her kim Allah’a karşı sorumluluğunun bilincinde olursa, O ona buyruğunu kolay kılar:"
+    },
+    {
+      "verseNo": 4,
+      "source": "esed",
+      "text": "Ay hali görmekten kesilen ve hiç ay hali görmeyen kadınlarınıza gelince, onların iddeti, -eğer (onun süresiyle ilgili) bir şüpheniz varsa- üç (takvim) ay(ı) olacaktır; hamile olanların iddetleri ise, doğum yaptıklarında sona erecektir. Allah, kendisine karşı sorumluluk bilinci taşıyan herkese, buyruklarına uymayı kolaylaştırır"
+    },
+    {
+      "verseNo": 5,
+      "source": "diyanet",
+      "text": "İşte bu, Allah'ın size indirdiği emridir. Kim Allah'a karşı gelmekten sakınırsa, Allah onun kötülüklerini örter ve onun mükafatını büyütür."
+    },
+    {
+      "verseNo": 5,
+      "source": "okuyan",
+      "text": "İşte bu(nlar), Allah’ın size indirdiği emirleridir. Kim Allah’a karşı takvâlı olursa, (Allah) onun kötülüklerini örter ve onun ödülünü artırır."
+    },
+    {
+      "verseNo": 5,
+      "source": "islamoglu",
+      "text": "İşte bu Allah’ın size indirmiş olduğu buyruğudur; kim Allah’a karşı sorumluluğunun bilincinde olursa, (Allah) onun günahlarını örter ve ona muazzam bir ödül verir."
+    },
+    {
+      "verseNo": 5,
+      "source": "esed",
+      "text": "bu, Allah´ın size indirdiği buyruğudur. Ve O, Allah´a karşı sorumluluğunun bilincinde olan herkesin (bazı) kötü fiillerini örter ve onlara büyük bir ödül bağışlar"
+    },
+    {
+      "verseNo": 6,
+      "source": "diyanet",
+      "text": "Onları (iddetleri süresince) gücünüz nispetinde, oturduğunuz yerin bir bölümünde oturtun. Onları sıkıntıya sokmak için kendilerine zarar vermeye kalkışmayın. Eğer hamile iseler, doğum yapıncaya kadar nafakalarını verin. Sizin için (çocuğu) emzirirlerse (emzirme) ücretlerini de verin ve aranızda uygun bir şekilde anlaşın. Eğer anlaşamazsanız, çocuğu baba hesabına başka bir kadın emzirecektir."
+    },
+    {
+      "verseNo": 6,
+      "source": "okuyan",
+      "text": "Gücünüz ölçüsünde oturduğunuz yerin (evinizin) bir bölümünde onları (da) oturtun! Onları (gitmeleri için) sıkıştırıp kendilerine zarar vermeyin! (Boşandığınız kadınlar) hamile iseler, doğum yapıncaya kadar nafakalarını verin! Sizin için (çocuğunuzu) emzirirlerse onlara ücretlerini verin; aranızda uygun bir şekilde istişare edin! (Emzirtme konusunda) zorluk çekerseniz, onu başka bir (kadın) emzirecektir."
+    },
+    {
+      "verseNo": 6,
+      "source": "islamoglu",
+      "text": "(İddet bekleyen kadınlarınızı), imkânlarınız nisbetinde barındığınız şartlara uygun olarak barındırın; onlar üzerinde baskı kurup hayatlarını çekilmez hale getirmeyin; eğer hamileyseler, doğum yapıncaya kadar nafakalarını üstlenin; eğer (çocuğunuzu) sizin hesabınıza emzirirlerse, onlara hak ettikleri karşılığı verin ve (çocuğun geleceğini) kendi aranızda ortak değerler çerçevesinde istişare edin; eğer (emzirme konusunda) karşılıklı zorlanırsanız, bu takdirde (baba) hesabına bir başkası emzirecektir."
+    },
+    {
+      "verseNo": 6,
+      "source": "esed",
+      "text": "(O halde, iddetlerinin içinde bulunan) kadınların, sizinle aynı yerde, aynı imkanları kullanarak geçinmelerini sağlayın ve onları rahatsız edip hayatlarını çekilmez hale getirmeyin. Eğer hamile kalırlarsa, doğumlarını yapıncaya kadar onlar için her türlü harcamayı yapın; (boşanma kesinleştikten sonra) çocuğunuzu emzirirlerse onlara (hak ettikleri) karşılığı verin ve kendi aranızda (çocuğun geleceğini) uygun bir şekilde konuşun. Eğer ikiniz de (annenin çocuğu emzirmesi ihtimalini) zor görürseniz onu (babasının) adına başka bir kadın emzirsin"
+    },
+    {
+      "verseNo": 7,
+      "source": "diyanet",
+      "text": "Eli geniş olan, elinin genişliğine göre nafaka versin. Rızkı dar olan da, Allah'ın ona verdiğinden (o ölçüde) harcasın. Allah bir kimseyi ancak kendine verdiği ile yükümlü kılar. Allah bir güçlükten sonra bir kolaylık yaratacaktır."
+    },
+    {
+      "verseNo": 7,
+      "source": "okuyan",
+      "text": "İmkânı geniş olan, imkânına göre nafaka versin; rızkı daraltılmış olan da Allah’ın kendisine verdiğinden nafaka ödesin! Allah kimseyi ona verdiği (imkân)dan başkasıyla sorumlu tutmaz. Allah her zorluktan sonra kolaylık yaratacaktır."
+    },
+    {
+      "verseNo": 7,
+      "source": "islamoglu",
+      "text": "(Neticede) imkânı olanlar, imkânları nisbetinde harcama yapsın; maddî imkânı dar olanlar da Allah’ın kendisine verdiği kadar harcama yapsın: Allah hiç kimseye verdiği imkândan fazlasını yüklemez; (belki de) Allah, bir zorluktan sonra bir kolaylık ihsan edecektir."
+    },
+    {
+      "verseNo": 7,
+      "source": "esed",
+      "text": "(Bütün bu durumlarda,) geniş imkanlara sahip olan kişi, genişliği ile uyumlu olarak harcasın; rızık imkanları dar olan kimse ise Allah´ın kendisine verdiğine uygun şekilde harcasın! Allah hiç kimseye kendi verdiğinden daha fazlasını yüklemez; (ve mümkündür ki) Allah sıkıntıdan sonra rahatlık verecektir"
+    },
+    {
+      "verseNo": 8,
+      "source": "diyanet",
+      "text": "Nice kentlerin halkı Rablerinin ve O'nun elçilerinin emrinden uzaklaşıp azdılar. Bu yüzden kendilerini çetin bir hesaba çektik ve görülmedik bir azaba çarptırdık."
+    },
+    {
+      "verseNo": 8,
+      "source": "okuyan",
+      "text": "Rabbinin ve O’nun elçilerinin emrinden uzaklaşıp azmış nice şehirler (halklar) vardı ki biz onları (mahşerde) şiddetli bir hesaba çekmiş ve onlara görülmemiş şekilde azap etmiş (olaca)ğız."
+    },
+    {
+      "verseNo": 8,
+      "source": "islamoglu",
+      "text": "İMDİ, Rablerinin ve O’nun elçilerinin emrini dinlemeyen nice topluluklar gelip geçmiştir; sonunda Biz hepsiyle pek çetin bir biçimde hesaplaşmış, eşi görülmemiş bir azaba çarptırmışızdır:"
+    },
+    {
+      "verseNo": 8,
+      "source": "esed",
+      "text": "Nice topluluk var ki Rablerinin ve Elçilerinin emirlerine küstahça karşı çıkmışlardır! Bunun üzerine Biz tümünü çetin bir hesaba çektik ve görülmemiş bir azaba çarptırdık"
+    },
+    {
+      "verseNo": 9,
+      "source": "diyanet",
+      "text": "Böylece yaptıklarının cezasını tattılar ve işlerinin sonu tam bir hüsran oldu."
+    },
+    {
+      "verseNo": 9,
+      "source": "okuyan",
+      "text": "Böylece onlar da işlerinin cezasını tatmış (olacak)lardır; işlerinin sonu da tam bir kayıptır."
+    },
+    {
+      "verseNo": 9,
+      "source": "islamoglu",
+      "text": "Nihayet yaptıklarının vebalini tatmışlar, işledikleri şeyler sonucunda yıkıma uğramışlardır."
+    },
+    {
+      "verseNo": 9,
+      "source": "esed",
+      "text": "Ve böylece onlar kendi yaptıklarının kötü meyvelerini tattılar; (bu dünyada,) yaptıklarının sonu yıkım oldu"
+    },
+    {
+      "verseNo": 10,
+      "source": "diyanet",
+      "text": "Allah, ahirette onlara şiddetli bir azap hazırlamıştır. O halde, ey iman etmiş olan akıl sahipleri, Allah'a karşı gelmekten sakının! Allah, size bir zikir (Kur'an) indirdi."
+    },
+    {
+      "verseNo": 10,
+      "source": "okuyan",
+      "text": "Allah onlara şiddetli bir azap hazırlamış (olacak)tır. Ey iman etmiş derin akıl sahipleri! Allah’a karşı takvâlı (duyarlı) olun! Allah size elbette hatırlatıcı bir (elçi) indirmiş (göndermiş)tir:"
+    },
+    {
+      "verseNo": 10,
+      "source": "islamoglu",
+      "text": "(Dahası) Allah onlar için (âhirette) çetin bir azap hazırlamıştır. Şu halde ey aktif akıl sahipleri! Allah’a karşı sorumluluğunuzun bilincinde olun! (Ey bu vahye) iman edenler: siz de!.. Zira Allah size uyarıcı bir mesaj indirmiş;"
+    },
+    {
+      "verseNo": 10,
+      "source": "esed",
+      "text": "(Öteki dünyada ise) Allah onlar için (daha da) şiddetli bir azap hazırlamıştır. O halde siz ey basiret sahipleri, (siz) iman edenler, Allah´a karşı sorumluluğunuzun bilincinde olun! Allah size gerçekten bir uyarıcı indirmiştir"
+    },
+    {
+      "verseNo": 11,
+      "source": "diyanet",
+      "text": "İman edip salih amel işleyenleri, karanlıklardan aydınlığa çıkarmak için size Allah'ın apaçık âyetlerini okuyan bir peygamber gönderdi. Kim Allah'a inanır ve salih bir amel işlerse Allah onu, içinden ırmaklar akan, içinde ebedi kalacakları cennetlere sokar. Allah gerçekten ona güzel bir rızık vermiştir."
+    },
+    {
+      "verseNo": 11,
+      "source": "okuyan",
+      "text": "(Yani) iman edip iyi işler yapanları, karanlıklardan aydınlığa çıkarmak için size Allah’ın apaçık ayetlerini tilavet eden (okuyup aktaran) bir elçi (göndermiştir). Kim Allah’a inanır ve iyi iş(ler) yaparsa (Allah da) onu, içinde ebedî kalacakları, altlarından ırmaklar akan cennetlere yerleştirecektir. Elbette Allah o kimse için bir rızık lütfetmiş (olacak)tır."
+    },
+    {
+      "verseNo": 11,
+      "source": "islamoglu",
+      "text": "iman eden ve ıslah edici iyiliklerde bulunanları (küfrün) karanlıklarından (imanın) aydınlığına çıkarmak için, Allah’ın apaçık âyetlerini size okuyan bir elçi göndermiştir. Her kim Allah’a inanır ve ıslah edici iyilikler yaparsa, içinde ebedî kalmak üzere (Allah) onu zemininden ırmaklar akan cennetlere koyar: böylece Allah ona tarifsiz güzellikte bir rızık vermiş olur."
+    },
+    {
+      "verseNo": 11,
+      "source": "esed",
+      "text": "Allah´ın apaçık mesajlarını size aktaran bir elçi (göndermiştir) ki iman edip doğru ve yararlı işler yapanları zifiri karanlıktan aydınlığa çıkarabilsin. Kim Allah´a inanıp doğru ve yararlı işler yaparsa, Allah onu içinden ırmaklar akan sonsuza kadar kalacakları bahçelere koyacaktır. Allah, (böylece) ona en güzel rızkı vermiş olacaktır"
+    },
+    {
+      "verseNo": 12,
+      "source": "diyanet",
+      "text": "Allah, yedi göğü ve yerden bir o kadarını yaratandır. Allah'ın emri bunlar arasından inip durmaktadır ki, Allah'ın her şeye kadir olduğunu ve Allah'ın her şeyi ilmiyle kuşattığını bilesiniz."
+    },
+    {
+      "verseNo": 12,
+      "source": "okuyan",
+      "text": "Allah yedi kat göğü ve yerden de bir o kadarını yaratandır. Allah’ın her şeye gücünün yettiğini ve her şeyi ilmiyle elbette kuşattığını bilin diye (ilahi) emir(ler) bunlar (göklerle yer) arasında inmektedir."
+    },
+    {
+      "verseNo": 12,
+      "source": "islamoglu",
+      "text": "ALLAH, yedi kat gökleri ve yerden de bir o kadarını yaratandır. O’nun (yaratıcı) iradesi, bu ikisi arasında her an yenilenerek sürekli tecelli eder ki, Allah’ın her şeye muktedir olduğunu ve her şeyi akıl sır ermez bir ilimle kuşattığını kavrayasınız."
+    },
+    {
+      "verseNo": 12,
+      "source": "esed",
+      "text": "Allah, yedi göğü ve aynı şekilde yeri(n sayısız parçasını) yaratandır. O´nun (yaratıcı) iradesi, bütün bu (yarattık)ları aracılığıyla kesintisiz tecelli eder ki Allah´ın her şeye kadir olduğunu ve her şeyi bilgisiyle kuşattığını göresiniz"
+    },
+    {
+      "verseNo": 1,
+      "verseNoEnd": null,
+      "source": "ai",
+      "text": "Ey Peygamber! Kadınları boşadığınız zaman onları bekleme süreleri için boşayın ve bekleme süresini sayın. Allah'tan, Rabbiniz O'ndan sakının. Onları evlerinden çıkarmayın; onlar da çıkmasınlar, ancak apaçık bir fuhuşla gelirlerse. İşte bunlar Allah'ın sınırlarıdır; kim Allah'ın sınırlarını aşarsa kendine zulmetmiş olur. Bilmezsin, belki Allah bundan sonra bir iş meydana getirir."
+    },
+    {
+      "verseNo": 2,
+      "verseNoEnd": null,
+      "source": "ai",
+      "text": "Bekleme süreleri dolduğunda onları iyi şekilde tutun ya da iyi şekilde onlardan ayrılın. Aranızdan adil iki şahidi şahit tutun ve Allah için şahitliği yerine getirin. Bu, Allah'a ve ahiret gününe inananlara öğüttür. Allah'tan sakınan için Allah bir çıkış yolu sağlar."
+    },
+    {
+      "verseNo": 3,
+      "verseNoEnd": null,
+      "source": "ai",
+      "text": "Ona hesaba katmadığı bir yerden rızık verir. Kim Allah'a güvenirse, O ona yeter. Şüphesiz Allah işini yerine getirendir. Allah her şey için bir ölçü takdir etmiştir."
+    },
+    {
+      "verseNo": 4,
+      "verseNoEnd": null,
+      "source": "ai",
+      "text": "Adet görmeyi umudunu yitirmiş eşlerinizin, eğer şüphedeyseniz, bekleme süreleri üç aydır; henüz adet görmemiş olanların bekleme süreleri de üç aydır. Hamile olanların süreleri ise doğumlarını yapana kadardır. Allah'tan sakınan için Allah işinde kolaylık sağlar."
+    },
+    {
+      "verseNo": 5,
+      "verseNoEnd": null,
+      "source": "ai",
+      "text": "Bu, Allah'ın size emrettiği bir iştir. Allah'tan sakınan kimse için Allah onun günahlarını örter ve ona büyük bir ödül verir."
+    },
+    {
+      "verseNo": 6,
+      "verseNoEnd": null,
+      "source": "ai",
+      "text": "Onları bulunduğunuz yerlerde oturtun; onları sıkıntıya sokmayın ki üzerlerine dar gelsin. Eğer hamilelerse doğuruncaya kadar onlara geçimini sağlayın. Eğer size emzirirlerse onlara ücretlerini verin. Aranızda iyi şekilde düzenleme yapın; eğer güçlük çıkarsa başka bir kadın onun için emzirir."
+    },
+    {
+      "verseNo": 7,
+      "verseNoEnd": null,
+      "source": "ai",
+      "text": "Gücü olan gücü nispetinde harcasın; rızkı kendisine takdir edilen de Allah'ın verdiğinden harcasın. Allah bir nefse, verdiğinden başkasını yüklemez. Allah zorluktan sonra kolaylık sağlar."
+    },
+    {
+      "verseNo": 8,
+      "verseNoEnd": null,
+      "source": "ai",
+      "text": "Ne çok köy vardır ki Rabbinin ve resullerinin buyruğundan başkaldırdı; onları ağır bir hesaba çekip şiddetli bir azapla cezalandırdık."
+    },
+    {
+      "verseNo": 9,
+      "verseNoEnd": null,
+      "source": "ai",
+      "text": "Böylece kendi işinin sonucunu tattı; sonucu zarar oldu."
+    },
+    {
+      "verseNo": 10,
+      "verseNoEnd": null,
+      "source": "ai",
+      "text": "Allah onlar için şiddetli bir azap hazırlamıştır. Öyleyse ey akıl sahipleri, iman edenler, Allah'tan sakının. Şüphesiz Allah size bir hatırlatma indirmiştir."
+    },
+    {
+      "verseNo": 11,
+      "verseNoEnd": null,
+      "source": "ai",
+      "text": "Size Allah'ın apaçık ayetlerini okuyan bir peygamberdir; iman edenleri ve iyi işler yapanları karanlıklardan aydınlığa çıkarsın diye. Kim Allah'a inanır ve iyi işler yaparsa, onu altlarından ırmaklar akan cennetlere koyar; orada ebediyen kalırlar. Allah ona güzel bir rızık vermiştir."
+    },
+    {
+      "verseNo": 12,
+      "verseNoEnd": null,
+      "source": "ai",
+      "text": "Allah, yedi göğü yaratan ve yerden de onların benzerini yaratan O'dur. Aralarına hüküm iner ki bilesiniz: Allah her şeye gücü yeter ve Allah her şeyi bilgisiyle kuşatmıştır."
+    }
+  ],
+  "aiParagraph": "Bir ilişki bittiğinde, acı ve öfke içindeki insanın aklına en son gelen şey \"usul\"dur — ama bu sure tam o noktada devreye girer ve der ki: en derin kırılma anında bile bir insan, karşısındakine ne kadar alan açtığıyla ölçülür. Ayrılık kararı verilmiş olsa bile kadın, kendi evinden sürülmez; hamile kalınmışsa nafakası kesilmez; emzirme karşılığında ücret alır; erkeğin gücü yetiyorsa bol verir, yetmiyorsa gücü kadar verir — metin kimseyi taşıyamayacağı yükün altına koymaz, ama \"hiçbir şey vermem\" kapısını da açık bırakmaz. Bütün bunların altında yatan düşünce şudur: sona eren bir bağ, insanı hayvana dönüştürmez; öfke bir hak değildir. Ve metin buna gerekçe olarak küçük bir insan gerçeğini sunar: bilmiyorsun, bu süreçten sonra ne olacağını bilmiyorsun — belki kapanmış gibi görünen şeyden yeni bir yol çıkar. Sonra bakış genişler; geçmişte kendi yolunu inatla çizen, hiçbir uyarıyı dinlemeyen toplulukların izini sürer ve onların sonunu gösterir — bu, tarihin soğuk bir aynasıdır. En sonunda evrenin bütünlüğünü, katmanları, her şeyi kuşatan bir bilinci anımsatarak biter; sanki tüm bu pratik kuralların arkasında tek bir soru yatıyormuş gibi: sen bu kadar büyük bir düzende ne kadar yer kaplıyorsun, ve o yeri nasıl dolduruyorsun?",
+  "audienceContext": "Sure ilk kez Medine'de, artık bir topluluk kurmaya çalışan insanlara seslendi. Bu insanlar birkaç yıl önce Mekke'den göç etmişti; bir kısmı Medine'ye yerleşik ensardı. Hepsinin ortak meselesi şuydu: aile içi anlaşmazlıklar artık kabile hukuku değil, yeni bir çerçeveyle çözülmek zorundaydı.\n\nO günün muhatabı, boşanmayı bir güç gösterisi olarak kullanan ya da bunu öyle öğrenmiş erkeklerdi. Cahiliye geleneğinde güçlü olan zayıfı ezerdi — Ca'fer b. Ebû Tâlib'in Necâşî'ye bunu kelimesi kelimesine söylediği aktarılır. Boşanma da bu ezmenin araçlarından biriydi: kadını evde tutmak ama birlikte yaşamamak, iddet süresini (boşandıktan sonra kadının beklemek zorunda olduğu süre) manipüle etmek, ya da onu evsiz bırakmak bunların hepsi bilinen uygulamalardı. Direnç, bu düzenden kazançlı çıkan taraftan geliyordu; bu, cahil olanlardan değil, tam tersine mevcut kurallara hâkim olanlardan gelen bir dirençti.\n\nSure'nin muhatapları Allah'ın varlığını zaten tartışmıyordu. Mekke döneminin aksine burada kozmolojik bir tartışma yoktu. Ortak zemin şuydu: herkes hesap gününe, Allah'ın her şeyi bildiğine dair bir söylemi kabul ediyor, ama bu kabulü aile içi davranışa taşımıyordu. Sure, tam da bu kırılma noktasına, yani 'inanıyorum ama bu işlerde kuralı ben bilirim' tavrına girdi. İlk ayette doğrudan 'sınır çiğneyen kendine zulmeder' denirken hedef bu tutuma gösterildi: kurbanı değil, faili adres alan bir dil.",
+  "eventMessageMap": [
+    {
+      "situation": "Erkekler kadınları zarar vermek amacıyla boşuyor, ardından eve hapledip hayatlarını çekilmez hale getiriyordu.",
+      "response": "Sure, kadınları boşanma süresince kendi evlerinden çıkarmayı ya da çıkışa zorlamayı yasakladı ve evi 'onların evi' olarak tanımladı.",
+      "shift": "Ev, kocanın mülkü olmaktan çıkıp o süreçte kadının hakkı olarak yeniden tanımlandı."
+    },
+    {
+      "situation": "Boşanma kararı iki kişi arasında geçen ve dışarıdan denetlenemeyen bir işlemdi.",
+      "response": "Sure, ayrılık ya da geri dönüş kararını iki güvenilir tanık huzurunda açıkça yapılması gereken bir işleme bağladı.",
+      "shift": "Özel bir güç ilişkisi, tanıklık gerektiren toplumsal bir prosedüre dönüştü."
+    },
+    {
+      "situation": "Hamile ya da emziren kadınların nafakası ve barınması belirsiz bırakılıyordu.",
+      "response": "Sure, hamile kadına doğuma kadar, emziren kadına emzirme süresi boyunca nafaka ve barınma güvencesi getirdi; emzirme ücreti ayrıca sayıldı.",
+      "shift": "Çocuk bakımının ekonomik yükü, ayrılık sonrasında da erkeğe ait bir yükümlülük olarak sabitlendi."
+    },
+    {
+      "situation": "İddet süresinin belirsizliği bazı kadınları yıllarca askıda bırakıyordu.",
+      "response": "Sure, adet görmeyenler ve yaşlı kadınlar için iddet süresini üç ay olarak netleştirdi, hamile kadın için sınırı doğum olarak belirledi.",
+      "shift": "Belirsizliğin araç olarak kullanılmasının önüne geçecek somut bir takvim koyuldu."
+    },
+    {
+      "situation": "Dar gelirli erkekler, nafaka yükümlülüğünü yerine getirememekten kaygılanıyordu.",
+      "response": "Sure, herkesin imkânı oranında harcayacağını, Allah'ın kimseye taşıyamayacağı yükü vermeyeceğini açıkça ifade etti.",
+      "shift": "Nafaka yükümlülüğü sabit bir rakamdan çıkıp kişinin gerçek kapasitesine orantılı bir ölçeğe oturtuldu."
+    }
+  ],
+  "apophaticReading": "'Boşanmayı kolaylaştırma' okuması metnin kendi mantığıyla çelişir. Çünkü aynı sure, erkeğe kadını evden çıkarmayı yasaklar, tanık zorunluluğu getirir, iddet hesabını denetim altına alır ve her adımda 'sınırı aşanın kendine zulmettiğini' tekrarlar. Prosedürü bu denli ağırlaştıran bir metnin amacı kolaylaştırmak değildir.\n\n'Erkeği koruyan bir hukuk' okuması metnin kendi mantığıyla çelişir. Çünkü aynı sure, konut hakkını 'onların evi' diyerek kadına yazar, hamile ve emziren kadın için ayrı ayrı güvence tanır, nafakayı erkeğin takdirine değil belirlenen kurala bağlar ve tanıklık şartıyla erkek tarafının tek taraflı söz hâkimiyetini kırar.\n\n'Bu kurallar yalnızca inananlar içindir, başkası ilgilenmez' okuması metnin kendi mantığıyla çelişir. Çünkü aynı sure, yedinci ayette 'Allah kimseye taşıyamayacağı yükü vermez' derken evrensel bir ölçek kullanır ve sekizinci ayette, bu sınırları aşan toplulukların akıbetini inanç ayrımı yapmaksızın tarihsel bir örnek olarak sunar.\n\nGeriye kalan yönelim şu tarafa işaret eder: metnin asıl gerilimi bireysel ahlak ile bir süreci denetleyen yapı arasındadır. Sure, niyete güvenmez; tanık, süre, yazılı çerçeve ister. Bu, 'iyi niyetli ol, gerisini sen bil' anlayışından farklıdır. Sorumluluk bilincinin (takvanın) dışa çıkan biçimi, denetlenebilir bir prosedür olarak tarif edilmiştir.\n\nBugüne kadar az bakılmış açı: Sure, birinci ayette doğrudan peygambere seslenir — 'ey peygamber, boşadığınızda...' — ama hemen ardından 'siz' çoğul kipiyle tüm topluluğa geçer. Bu geçiş, sureyi ne peygambere özel bir talimata ne de soyut bir kurala indirgemek için zemin bırakmaz. Arapça metindeki bu ani çoğullaşma, söylenenin yalnızca istisnai bir kişi için değil, o anın toplumsal pratiği için söylendiğini gösterir. Verilen editoryal içerikte Abdullah b. Mes'ûd'un bu sureyi 'iddetten söz eden kısa sure' diye adlandırması da dikkat çekicidir: ilk neslin zihninde sure, teolojik bir bildiri değil, uygulamaya ait somut bir metin olarak kalmıştır.\n\nSusma: *Boşanma kararının hangi gerekçeyle alındığı — hangi acının, hangi haksızlığın bu noktaya taşıdığı — buradan görünmez.*",
+  "aiCommentary": "Bu dört bölüm, yapay zekâ tarafından üretilmiştir. Kullanılan kaynaklar şunlardır: surenin Arapça metni, TDV İslâm Ansiklopedisi'nin 'Câhiliye' maddesi ve 'Talâk' maddesinden alınan doğrulanmış editoryal içerik, Abdullah b. Mes'ûd'dan aktarılan rivayet ve Ca'fer b. Ebû Tâlib'in Necâşî'ye konuşması. Bu kaynakların dışına çıkan hiçbir tarihsel ya da sosyolojik iddia eklenmemiştir.\n\nApofatik okuma (olumsuzlama yöntemi), önce yaygın yorumları eleyen, sonra geri kalanı işaret eden bir yöntemdir. Bu yöntem bilerek seçilmiştir: yaratanın maksadına dair her olumlu ifade, insan tahminidir. Eleme yoluyla daraltılmış bir alan işaret etmek, doğrudan 'maksat şudur' demekten daha az yanıltıcıdır. Yorumların hiçbiri kesin değildir; metinden okunabilecek yönelimler olarak sunulmuştur.\n\nBu metin bir tefsir, meal ya da fetva değildir. Herhangi bir amel hükmü çıkarmak için kullanılamaz. 'Şu helaldir, şu haramdır' biçiminde bir yargı içermez. Yeni araştırmalar, farklı kaynaklara erişim ya da bu metindeki bir hata, buradaki yorumların değişmesini gerektirebilir."
 }

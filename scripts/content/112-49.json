@@ -1,625 +1,655 @@
 {
- "stationNo": 112,
- "surahNo": 49,
- "name": "Hucurât",
- "nameArabic": "",
- "nameMeaning": "",
- "verseCount": 18,
- "nuzulOrderOkuyan": 112,
- "periodDiyanet": "Medine",
- "periodOkuyan": "Medine",
- "revelationTiming": "Sûrenin tamamının Medine'de indiği genel kabul görmekle birlikte, 13. âyetin Mekkî olduğu yönünde Abdullah b. Abbas'tan nakledilen zayıf bir rivayet de bulunmaktadır.",
- "stationTitle": "Ahlâkın ve Kardeşliğin İnşası: Sınırları Bilmek",
- "introduction": "Hucurât sûresi, adını 4. âyette geçen ve 'odalar' anlamına gelen 'hucurât' kelimesinden alır. Bu kelime, Mescid-i Nebevî'nin yanındaki Hz. Peygamber ve ailesine ait mütevazı odaları ifade eder. Toplam 18 âyetten oluşan sûre, Medine döneminin son yıllarında inmiştir.\n\nSûre, temel olarak iki ana eksen etrafında şekillenir. İlk bölümde (1-10. âyetler) Allah'a ve Resulüne saygı, haberlerin doğruluğunu araştırma ve müminler arası barışı sağlama gibi erdemli davranışlar emredilir. İkinci bölümde ise (11-18. âyetler) alay etme, lakap takma, suizan, tecessüs ve gıybet gibi toplumsal barışı zedeleyen kötü huylar yasaklanır.\n\nHucurât sûresi, İslâm toplumunun ahlâkî ve hukukî temellerini atan bir manifestodur. Kan bağına ve ırk üstünlüğüne dayalı cahiliye anlayışını yıkarak, yerine iman kardeşliğini ve takvâ (sorumluluk bilinci) esasını getirir. Bütün insanların bir erkek ve bir dişiden yaratıldığını vurgulayarak evrensel eşitlik ilkesini ilan eder.",
- "occasionOfRevelation": "Hucurât sûresinin nüzulü, Medine döneminin son yıllarına, muhtemelen Feth sûresinin ardına (Hicrî 8 veya 9. yıl) rastlar. Sûrenin ilk âyetlerinin iniş sebebi olarak kaynaklarda genellikle Temîmoğulları kabilesinden bir heyetin Medine'ye gelişi gösterilir.\n\nRivayetlere göre, bu bedevîler Hz. Peygamber mescide bitişik odalarından birinde istirahat ederken dışarıdan kaba bir şekilde, 'Hey Muhammed, yanımıza çık!' diye bağırmışlardır. Bu saygısız ve kaba tavır üzerine, insanların birbirlerinin mahremiyetine ve haklarına saygı göstermelerini emreden âyetler inmiştir.\n\nAyrıca, aynı heyetin ziyareti sırasında Hz. Ebû Bekir ile Hz. Ömer'in, kabileye kimin başkan yapılacağı konusunda ihtilafa düşüp Hz. Peygamber'in yanında seslerini yükseltmeleri de ilk âyetlerin nüzul sebebi olarak zikredilir. 13. âyetin Mekkî olduğu yönünde Abdullah b. Abbas'tan nakledilen bir rivayet bulunsa da, müfessirlerin çoğunluğu sûrenin bütünlüğünü bozacağı gerekçesiyle bu görüşe itibar etmemiştir.",
- "occasionSources": "TDV İslâm Ansiklopedisi, \"Hucurât Sûresi\" maddesi; Diyanet İşleri Başkanlığı Kur'an Yolu Tefsiri, Hucurât 1-5 ayet tefsiri; kuranokuyan.com, Hucurât suresi girişi (Prof. Dr. Mehmet Okuyan).",
- "keyTerms": [
-  {
-   "term": "hucurât",
-   "arabic": "حُجُرَات",
-   "verseRef": "49:4",
-   "meaning": "Başkalarının girmesine engel olacak şekilde çevrilmiş yer, oda. Âyette Hz. Peygamber'in mahremiyet alanını ve ona gösterilmesi gereken saygıyı simgeler."
-  },
-  {
-   "term": "takvâ",
-   "arabic": "تَقْوَى",
-   "verseRef": "49:13",
-   "meaning": "Allah'a karşı sorumluluk bilinci, duyarlılık. Sûrede, insanlar arasındaki tek gerçek üstünlük ölçüsü olarak vurgulanır."
-  },
-  {
-   "term": "gıybet",
-   "arabic": "غِيبَة",
-   "verseRef": "49:12",
-   "meaning": "Bir kimsenin arkasından hoşlanmayacağı şekilde konuşmak. Âyette 'ölmüş kardeşinin etini yemek' gibi iğrenç bir eylem olarak tasvir edilir."
-  },
-  {
-   "term": "zann",
-   "arabic": "ظَنّ",
-   "verseRef": "49:12",
-   "meaning": "Kesin bilgiye dayanmayan tahmin, şüphe. Sûrede, insanların gizli hallerini araştırmaya (tecessüs) yol açan kötü zandan kaçınılması emredilir."
-  },
-  {
-   "term": "fâsık",
-   "arabic": "فَاسِق",
-   "verseRef": "49:6",
-   "meaning": "Yoldan çıkmış, güvenilmez kimse. Âyette, böyle birinin getirdiği haberin doğruluğunun mutlaka araştırılması gerektiği belirtilir."
-  }
- ],
- "themes": [
-  {
-   "label": "Mahremiyete ve Sınırlara Saygı",
-   "body": "Sûre, başkalarının özel alanına, zamanına ve sınırlarına saygı göstermenin temel bir insanî erdem olduğunu hatırlatır. Kaba ve düşüncesiz davranışların ilişkileri nasıl zedelediğini gösterir."
-  },
-  {
-   "label": "Bilgi Ahlâkı ve Sorumluluk",
-   "body": "Her duyulana inanmamak, haberlerin kaynağını ve doğruluğunu araştırmak, günümüzün bilgi kirliliği çağında hayati bir öneme sahiptir. Sûre, bizi manipülasyonlara karşı uyarır."
-  },
-  {
-   "label": "Ötekileştirmenin Reddi",
-   "body": "Alay etmek, lakap takmak ve insanları hor görmek, toplumsal barışın düşmanıdır. Sûre, farklılıkların bir çatışma değil, tanışma ve zenginlik vesilesi olduğunu vurgular."
-  }
- ],
- "questions": [
-  "Başkalarının zamanını, emeğini veya özel alanını kendi hakkımmış gibi pervasızca ihlal ettiğim durumlar oluyor mu?",
-  "Sosyal medyada veya günlük hayatta duyduğum bir haberi, doğruluğunu araştırmadan paylaşıp birilerinin hakkına giriyor muyum?",
-  "Kendi grubumu, statümü veya inancımı başkalarından üstün görerek, farkında olmadan insanları küçümsediğim anlar var mı?"
- ],
- "contemporaryMeaning": "Bu sure, insanın kendi sınırlarını unutarak başkalarının varlık alanını ihlal etme eğilimini merkeze alır. Temel mesele, kişinin kendini merkeze koyduğu bir dünyada, ötekinin mahremiyetini, itibarını ve varoluş hakkını hiçe sayan o pervasız özgüvendir. İnsan, kendi doğrularını mutlaklaştırdığında, başkalarının hayatına müdahale etmeyi ve onları yargılamayı kendine hak görmeye başlar.\n\nBugünün diliyle: Algoritmaların yankı odalarında sürekli kendi benzerleriyle onaylanan birey, farklı olana karşı tahammülünü yitirir. Sosyal medya platformlarında bir linç kampanyasına katılırken, bir başkasının itibarını saniyeler içinde yok eden o acımasız hız, tam da bu sınır ihlalinin dijital tezahürüdür. Açık ofislerdeki rekabet ortamında çalışma arkadaşının açığını aramak veya mesajlaşma gruplarında teyit edilmemiş bir haberi anında dolaşıma sokmak, metnin işaret ettiği o kaba cüretin ta kendisidir.\n\nKişinin kendi statüsünü, eğitimini veya tüketim alışkanlıklarını bir üstünlük vesilesi olarak kurgulaması, derin bir güvensizliğin üzerini örtme çabasıdır. Sure, insanın değerinin sahip olduğu etiketlerde değil, kendi sınırlarını bilme ve ötekinin hakkına duyduğu saygıda yattığını gösterir. Bir başkasının kusurunu aramak yerine kendi eksikliğiyle yüzleşebilen bir duruş, bu pervasızlık çağında en keskin itirazdır.",
- "scholarlyNotes": [
-  {
-   "kind": "ihtilaf",
-   "body": "Müfessirlerin çoğunluğu sûrenin tamamının Medine'de indiğini kabul ederken, Abdullah b. Abbas'tan nakledilen bir rivayette 13. âyetin Mekkî olduğu öne sürülmüştür. Ancak Âlûsî gibi âlimler, bu durumun sûrenin bütünlüğünü bozacağını belirterek bu görüşe itibar etmemişlerdir.",
-   "label": "13. Âyetin Nüzul Yeri"
-  },
-  {
-   "kind": "nuans",
-   "body": "Hz. Peygamber'in mütevazı yaşantısının bir simgesi olan bu odalar, Emevî halifesi Velîd b. Abdülmelik zamanında Mescid-i Nebevî'nin genişletilmesi sırasında yıkılarak mescide katılmıştır. Saîd b. Müseyyeb gibi bazı tâbiîn âlimleri, bu odaların ibret için korunmasını arzu etmişlerdir.",
-   "label": "Hücrelerin Akıbeti"
-  }
- ],
- "verses": [
-  {
-   "verseNo": 1,
-   "textArabic": "بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ لَا تُقَدِّمُوا۟ بَيْنَ يَدَىِ ٱللَّهِ وَرَسُولِهِۦ ۖ وَٱتَّقُوا۟ ٱللَّهَ ۚ إِنَّ ٱللَّهَ سَمِيعٌ عَلِيمٌۭ"
-  },
-  {
-   "verseNo": 2,
-   "textArabic": "يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ لَا تَرْفَعُوٓا۟ أَصْوَٰتَكُمْ فَوْقَ صَوْتِ ٱلنَّبِىِّ وَلَا تَجْهَرُوا۟ لَهُۥ بِٱلْقَوْلِ كَجَهْرِ بَعْضِكُمْ لِبَعْضٍ أَن تَحْبَطَ أَعْمَٰلُكُمْ وَأَنتُمْ لَا تَشْعُرُونَ"
-  },
-  {
-   "verseNo": 3,
-   "textArabic": "إِنَّ ٱلَّذِينَ يَغُضُّونَ أَصْوَٰتَهُمْ عِندَ رَسُولِ ٱللَّهِ أُو۟لَٰٓئِكَ ٱلَّذِينَ ٱمْتَحَنَ ٱللَّهُ قُلُوبَهُمْ لِلتَّقْوَىٰ ۚ لَهُم مَّغْفِرَةٌۭ وَأَجْرٌ عَظِيمٌ"
-  },
-  {
-   "verseNo": 4,
-   "textArabic": "إِنَّ ٱلَّذِينَ يُنَادُونَكَ مِن وَرَآءِ ٱلْحُجُرَٰتِ أَكْثَرُهُمْ لَا يَعْقِلُونَ"
-  },
-  {
-   "verseNo": 5,
-   "textArabic": "وَلَوْ أَنَّهُمْ صَبَرُوا۟ حَتَّىٰ تَخْرُجَ إِلَيْهِمْ لَكَانَ خَيْرًۭا لَّهُمْ ۚ وَٱللَّهُ غَفُورٌۭ رَّحِيمٌۭ"
-  },
-  {
-   "verseNo": 6,
-   "textArabic": "يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوٓا۟ إِن جَآءَكُمْ فَاسِقٌۢ بِنَبَإٍۢ فَتَبَيَّنُوٓا۟ أَن تُصِيبُوا۟ قَوْمًۢا بِجَهَٰلَةٍۢ فَتُصْبِحُوا۟ عَلَىٰ مَا فَعَلْتُمْ نَٰدِمِينَ"
-  },
-  {
-   "verseNo": 7,
-   "textArabic": "وَٱعْلَمُوٓا۟ أَنَّ فِيكُمْ رَسُولَ ٱللَّهِ ۚ لَوْ يُطِيعُكُمْ فِى كَثِيرٍۢ مِّنَ ٱلْأَمْرِ لَعَنِتُّمْ وَلَٰكِنَّ ٱللَّهَ حَبَّبَ إِلَيْكُمُ ٱلْإِيمَٰنَ وَزَيَّنَهُۥ فِى قُلُوبِكُمْ وَكَرَّهَ إِلَيْكُمُ ٱلْكُفْرَ وَٱلْفُسُوقَ وَٱلْعِصْيَانَ ۚ أُو۟لَٰٓئِكَ هُمُ ٱلرَّٰشِدُونَ"
-  },
-  {
-   "verseNo": 8,
-   "textArabic": "فَضْلًۭا مِّنَ ٱللَّهِ وَنِعْمَةًۭ ۚ وَٱللَّهُ عَلِيمٌ حَكِيمٌۭ"
-  },
-  {
-   "verseNo": 9,
-   "textArabic": "وَإِن طَآئِفَتَانِ مِنَ ٱلْمُؤْمِنِينَ ٱقْتَتَلُوا۟ فَأَصْلِحُوا۟ بَيْنَهُمَا ۖ فَإِنۢ بَغَتْ إِحْدَىٰهُمَا عَلَى ٱلْأُخْرَىٰ فَقَٰتِلُوا۟ ٱلَّتِى تَبْغِى حَتَّىٰ تَفِىٓءَ إِلَىٰٓ أَمْرِ ٱللَّهِ ۚ فَإِن فَآءَتْ فَأَصْلِحُوا۟ بَيْنَهُمَا بِٱلْعَدْلِ وَأَقْسِطُوٓا۟ ۖ إِنَّ ٱللَّهَ يُحِبُّ ٱلْمُقْسِطِينَ"
-  },
-  {
-   "verseNo": 10,
-   "textArabic": "إِنَّمَا ٱلْمُؤْمِنُونَ إِخْوَةٌۭ فَأَصْلِحُوا۟ بَيْنَ أَخَوَيْكُمْ ۚ وَٱتَّقُوا۟ ٱللَّهَ لَعَلَّكُمْ تُرْحَمُونَ"
-  },
-  {
-   "verseNo": 11,
-   "textArabic": "يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ لَا يَسْخَرْ قَوْمٌۭ مِّن قَوْمٍ عَسَىٰٓ أَن يَكُونُوا۟ خَيْرًۭا مِّنْهُمْ وَلَا نِسَآءٌۭ مِّن نِّسَآءٍ عَسَىٰٓ أَن يَكُنَّ خَيْرًۭا مِّنْهُنَّ ۖ وَلَا تَلْمِزُوٓا۟ أَنفُسَكُمْ وَلَا تَنَابَزُوا۟ بِٱلْأَلْقَٰبِ ۖ بِئْسَ ٱلِٱسْمُ ٱلْفُسُوقُ بَعْدَ ٱلْإِيمَٰنِ ۚ وَمَن لَّمْ يَتُبْ فَأُو۟لَٰٓئِكَ هُمُ ٱلظَّٰلِمُونَ"
-  },
-  {
-   "verseNo": 12,
-   "textArabic": "يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ ٱجْتَنِبُوا۟ كَثِيرًۭا مِّنَ ٱلظَّنِّ إِنَّ بَعْضَ ٱلظَّنِّ إِثْمٌۭ ۖ وَلَا تَجَسَّسُوا۟ وَلَا يَغْتَب بَّعْضُكُم بَعْضًا ۚ أَيُحِبُّ أَحَدُكُمْ أَن يَأْكُلَ لَحْمَ أَخِيهِ مَيْتًۭا فَكَرِهْتُمُوهُ ۚ وَٱتَّقُوا۟ ٱللَّهَ ۚ إِنَّ ٱللَّهَ تَوَّابٌۭ رَّحِيمٌۭ"
-  },
-  {
-   "verseNo": 13,
-   "textArabic": "يَٰٓأَيُّهَا ٱلنَّاسُ إِنَّا خَلَقْنَٰكُم مِّن ذَكَرٍۢ وَأُنثَىٰ وَجَعَلْنَٰكُمْ شُعُوبًۭا وَقَبَآئِلَ لِتَعَارَفُوٓا۟ ۚ إِنَّ أَكْرَمَكُمْ عِندَ ٱللَّهِ أَتْقَىٰكُمْ ۚ إِنَّ ٱللَّهَ عَلِيمٌ خَبِيرٌۭ"
-  },
-  {
-   "verseNo": 14,
-   "textArabic": "۞ قَالَتِ ٱلْأَعْرَابُ ءَامَنَّا ۖ قُل لَّمْ تُؤْمِنُوا۟ وَلَٰكِن قُولُوٓا۟ أَسْلَمْنَا وَلَمَّا يَدْخُلِ ٱلْإِيمَٰنُ فِى قُلُوبِكُمْ ۖ وَإِن تُطِيعُوا۟ ٱللَّهَ وَرَسُولَهُۥ لَا يَلِتْكُم مِّنْ أَعْمَٰلِكُمْ شَيْـًٔا ۚ إِنَّ ٱللَّهَ غَفُورٌۭ رَّحِيمٌ"
-  },
-  {
-   "verseNo": 15,
-   "textArabic": "إِنَّمَا ٱلْمُؤْمِنُونَ ٱلَّذِينَ ءَامَنُوا۟ بِٱللَّهِ وَرَسُولِهِۦ ثُمَّ لَمْ يَرْتَابُوا۟ وَجَٰهَدُوا۟ بِأَمْوَٰلِهِمْ وَأَنفُسِهِمْ فِى سَبِيلِ ٱللَّهِ ۚ أُو۟لَٰٓئِكَ هُمُ ٱلصَّٰدِقُونَ"
-  },
-  {
-   "verseNo": 16,
-   "textArabic": "قُلْ أَتُعَلِّمُونَ ٱللَّهَ بِدِينِكُمْ وَٱللَّهُ يَعْلَمُ مَا فِى ٱلسَّمَٰوَٰتِ وَمَا فِى ٱلْأَرْضِ ۚ وَٱللَّهُ بِكُلِّ شَىْءٍ عَلِيمٌۭ"
-  },
-  {
-   "verseNo": 17,
-   "textArabic": "يَمُنُّونَ عَلَيْكَ أَنْ أَسْلَمُوا۟ ۖ قُل لَّا تَمُنُّوا۟ عَلَىَّ إِسْلَٰمَكُم ۖ بَلِ ٱللَّهُ يَمُنُّ عَلَيْكُمْ أَنْ هَدَىٰكُمْ لِلْإِيمَٰنِ إِن كُنتُمْ صَٰدِقِينَ"
-  },
-  {
-   "verseNo": 18,
-   "textArabic": "إِنَّ ٱللَّهَ يَعْلَمُ غَيْبَ ٱلسَّمَٰوَٰتِ وَٱلْأَرْضِ ۚ وَٱللَّهُ بَصِيرٌۢ بِمَا تَعْمَلُونَ"
-  }
- ],
- "translations": [
-  {
-   "verseNo": 1,
-   "source": "diyanet",
-   "text": "Ey iman edenler! Allah'ın ve Peygamberinin önüne geçmeyin. Allah'a karşı gelmekten sakının. Şüphesiz, Allah hakkıyla işitendir, hakkıyla bilendir."
-  },
-  {
-   "verseNo": 1,
-   "source": "okuyan",
-   "text": "Ey iman edenler! Allah’ın ve Elçisinin önüne geçmeyin! Allah’a karşı takvâlı (duyarlı) olun! Şüphesiz ki Allah duyandır, bilendir."
-  },
-  {
-   "verseNo": 1,
-   "source": "islamoglu",
-   "text": "SİZ ey iman edenler! Asla Allah’ın ve Rasûlü’nün önüne geçmeyin ve sorumlu davranın: çünkü Allah her şeyi işitir, her şeyi bilir!"
-  },
-  {
-   "verseNo": 1,
-   "source": "esed",
-   "text": "Siz ey imana ermiş olanlar! Allah´ın ve Elçisi´nin (emrettiği şeyin) önüne kendinizi koymayın, Allah´a karşı sorumluluğunuzun bilincinde olun. Çünkü Allah, kuşkusuz her şeyi işiten, her şeyi bilendir"
-  },
-  {
-   "verseNo": 2,
-   "source": "diyanet",
-   "text": "Ey iman edenler! Seslerinizi, Peygamber'in sesinin üstüne yükseltmeyin. Birbirinize bağırdığınız gibi, Peygamber'e yüksek sesle bağırmayın, yoksa siz farkına varmadan işledikleriniz boşa gider."
-  },
-  {
-   "verseNo": 2,
-   "source": "okuyan",
-   "text": "Ey iman edenler! Seslerinizi Peygamber’in sesinin üzerine yükseltmeyin! Birbirinize yüksek sesle konuştuğunuz gibi, ona yüksek sesle konuşmayın; (yoksa) farkına varmadan yaptıklarınız boşa gider."
-  },
-  {
-   "verseNo": 2,
-   "source": "islamoglu",
-   "text": "Siz ey iman edenler! Sesleriniz, Nebi’nin sesinden daha yüksek çıkmasın! Birbirinizle bağıra çağıra konuştuğunuz gibi, onunla da (kavga eder gibi) bağıra çağıra konuşmayın ki, siz farkında olmadan iyilikleriniz boşa gitmesin!"
-  },
-  {
-   "verseNo": 2,
-   "source": "esed",
-   "text": "Siz ey imana ermiş olanlar! Sesinizi Peygamberin sesinden daha fazla yükseltmeyin, birbirinizle yüksek sesle konuştuğunuz gibi o´nunla konuşmayın, yoksa bütün (güzel ve iyi) işleriniz, siz farkında olmadan boşa gitmiş olur"
-  },
-  {
-   "verseNo": 3,
-   "source": "diyanet",
-   "text": "Allah'ın elçisinin huzurunda seslerini kısanlar, Allah'ın, gönüllerini takvâ (Allah'a karşı gelmekten sakınma) konusunda sınadığı kimselerdir. Onlar için bir bağışlanma ve büyük bir mükâfat vardır."
-  },
-  {
-   "verseNo": 3,
-   "source": "okuyan",
-   "text": "Şüphesiz ki Allah’ın Elçisinin yanında seslerini kısanlar, kalplerini Allah’ın takvâ (duyarlılık) ile imtihan ettiği (arındırdığı) kişilerdir. Onlar için bağışlanma ve büyük bir ödül vardır."
-  },
-  {
-   "verseNo": 3,
-   "source": "islamoglu",
-   "text": "Hani şu Allah Rasûlü’nün yanında seslerini kısanlar var ya; işte onlar, Allah’ın gönüllerini sorumluluk sınavından geçirdiği kimselerdir: onlar için sınırsız bir bağış ve büyük bir ödül vardır."
-  },
-  {
-   "verseNo": 3,
-   "source": "esed",
-   "text": "Bakın, Allah´ın Elçisi´nin huzurunda seslerini kısanlar var ya, işte onlar kalpleri, kendisine karşı sorumluluk bilinci ile (doldurularak) Allah tarafından sınananlardır; onlar için bağışlanma ve büyük bir mükafat vardır"
-  },
-  {
-   "verseNo": 4,
-   "source": "diyanet",
-   "text": "(Ey Muhammed!) Odaların arkasından sana bağıranların çoğu aklı ermeyen kimselerdir."
-  },
-  {
-   "verseNo": 4,
-   "source": "okuyan",
-   "text": "Sana odaların arkasından (bağırarak) seslenenlerin çoğu akıl etmezler."
-  },
-  {
-   "verseNo": 4,
-   "source": "islamoglu",
-   "text": "Ne var ki sana hanelerin berisinden seslenenler de var; onların çoğu, akıllarını kullanmıyorlar."
-  },
-  {
-   "verseNo": 4,
-   "source": "esed",
-   "text": "Gerçek şu ki (ey Peygamber,) seni evinin dışından çağıranlar var ya, işte onların çoğu akıllarını kullanmazlar"
-  },
-  {
-   "verseNo": 5,
-   "source": "diyanet",
-   "text": "Onlar, sen yanlarına çıkıncaya kadar sabretselerdi, elbette kendileri için daha iyi olurdu. Allah, çok bağışlayandır, çok merhamet edendir."
-  },
-  {
-   "verseNo": 5,
-   "source": "okuyan",
-   "text": "Onlar sen (yanlarına) çıkıncaya kadar sabretselerdi, elbette kendileri için daha hayırlı olurdu. Allah çok bağışlayandır, çok merhametlidir."
-  },
-  {
-   "verseNo": 5,
-   "source": "islamoglu",
-   "text": "Ama eğer sen kendilerine çıkıp gelinceye kadar sabretselerdi, elbet bu kendileri için daha hayırlı olurdu: ne ki Allah tarifsiz bağışlayandır, eşsiz merhamet kaynağıdır."
-  },
-  {
-   "verseNo": 5,
-   "source": "esed",
-   "text": "Çünkü, sen (kendi isteğinle) onların yanına gelinceye kadar sabred(ip bekle)selerdi, kendi lehlerine olurdu. Ama Allah yine de çok bağışlayıcıdır, bir rahmet kaynağıdır"
-  },
-  {
-   "verseNo": 6,
-   "source": "diyanet",
-   "text": "Ey iman edenler! Size bir fasık bir haber getirirse, bilmeyerek bir topluluğa zarar verip yaptığınıza pişman olmamak için o haberin doğruluğunu araştırın."
-  },
-  {
-   "verseNo": 6,
-   "source": "okuyan",
-   "text": "Ey iman edenler! Yoldan çıkmış biri size bir haber getirirse (onun doğruluğunu) araştırın! (Yoksa) bilmeden bir topluluğa kötülük edersiniz de sonra yaptığınıza pişman olursunuz."
-  },
-  {
-   "verseNo": 6,
-   "source": "islamoglu",
-   "text": "SİZ ey iman edenler! Fâsığın teki size (önemli) bir haberle geldiğinde, durup gerçeği araştırın! Yoksa cehalet sebebiyle bir toplumun başına iş açar, ardından da yaptığınızdan pişmanlık duyarsınız."
-  },
-  {
-   "verseNo": 6,
-   "source": "esed",
-   "text": "Siz ey imana ermiş olanlar! Yoldan çıkmışın biri size (yalan) bir haber getirirse, muhakemenizi kullanın; yoksa istemeden insanları incitir ve sonra yaptığınızdan pişmanlık duyarsınız"
-  },
-  {
-   "verseNo": 7,
-   "source": "diyanet",
-   "text": "Bilin ki, aranızda Allah'ın elçisi bulunmaktadır. Eğer o, birçok işlerde size uysaydı, sıkıntıya düşerdiniz. Fakat Allah, size imanı sevdirmiş ve onu gönüllerinize güzel göstermiş; inkârı, fasıklığı ve (İslam'ın emirlerine) karşı çıkmayı da çirkin göstermiştir. İşte bunlar doğru yolda olanların ta kendileridir."
-  },
-  {
-   "verseNo": 7,
-   "source": "okuyan",
-   "text": "Bilin ki içinizde Allah’ın Elçisi vardır. O, birçok işte size uysaydı elbette sıkıntıya düşerdiniz. Fakat Allah size imanı sevdirmiş ve onu kalplerinize süslemiş; inkârı, yoldan çıkmayı ve isyanı da size çirkin göstermiştir. Asıl doğru yoldakiler işte bunlardır."
-  },
-  {
-   "verseNo": 7,
-   "source": "islamoglu",
-   "text": "Ve aklınızdan çıkarmayın ki aranızda Allah Rasûlü var; eğer o birçok işte size uysaydı, kesinlikle haliniz harap olurdu. Lakin Allah size imanı sevdirdi ve onu yüreklerinizde güzelleştirdi; yine O size hakikati inkârı, fâsıkça davranmayı ve (iyi olana) karşı çıkmayı çirkin gösterdi. İşte onlar doğru tarafa yönelenlerdir"
-  },
-  {
-   "verseNo": 7,
-   "source": "esed",
-   "text": "Ve bilin ki, Allah´ın Elçisi aranızdadır. O, her işinizde ve her zaman sizin temayülünüze uysaydı, (toplum olarak) bundan zarar görürdünüz. Ama, görüldüğü gibi, Allah imanı(nızı) size sevdirdi, onu kalplerinizde güzelleştirdi ve hakikati inkar etmeyi, günah işlemeyi ve (güzel olan şeylere) karşı çıkmayı size çirkin gösterdi. İşte bunlar, doğru yönü izleyenlerdir"
-  },
-  {
-   "verseNo": 8,
-   "source": "diyanet",
-   "text": "Allah, kendi katından bir lütuf ve nimet olarak böyle yaptı. Allah hakkıyla bilendir, hüküm ve hikmet sahibidir"
-  },
-  {
-   "verseNo": 8,
-   "source": "okuyan",
-   "text": "(Bu), Allah’tan bir lütuf ve nimet olarak (böyledir). Allah bilendir, doğru hüküm verendir."
-  },
-  {
-   "verseNo": 8,
-   "source": "islamoglu",
-   "text": "Allah’ın lutfu ve nimeti sayesinde: zaten Allah her şeyi bilir, her hükmünde tam isabet kaydeder."
-  },
-  {
-   "verseNo": 8,
-   "source": "esed",
-   "text": "Allah´ın nimeti ve lütfu sayesinde; ve Allah her şeyi bilendir, hikmet Sahibidir"
-  },
-  {
-   "verseNo": 9,
-   "source": "diyanet",
-   "text": "Eğer inananlardan iki grup birbirleriyle savaşırlarsa aralarını düzeltin. Eğer biri ötekine karşı haddi aşarsa, Allah'ın buyruğuna dönünceye kadar haddi aşan tarafa karşı savaşın. Eğer (Allah'ın emrine) dönerse, artık aralarını adaletle düzeltin ve (onlara) adaletli davranın. Çünkü Allah, âdaletli davrananları sever."
-  },
-  {
-   "verseNo": 9,
-   "source": "okuyan",
-   "text": "Müminlerden iki grup birbirleriyle savaşırlarsa aralarını düzeltin! Biri ötekine saldırırsa, Allah’ın buyruğuna dönünceye kadar saldıran tarafla savaşın! (Savaştan vazgeçip) dönerse artık aralarını adaletle düzeltin ve adil davranın! Şüphesiz ki Allah adil davrananları sever."
-  },
-  {
-   "verseNo": 9,
-   "source": "islamoglu",
-   "text": "Şu halde mü’minlerden iki gurup çarpışırsa, aralarını bulun; fakat bir taraf diğerinin hakkına saldırırsa, siz de o haksız taraf ile Allah’ın emrine dönünceye kadar çarpışın; ama eğer (saldırganlıktan) vazgeçerse, tarafların arasını adâletle ayırın ve (bunun için gerekirse) kendi hakkınızdan feragat edin: çünkü Allah (barış için) hakkından feragat edecek kadar fedakârlık edenleri sever."
-  },
-  {
-   "verseNo": 9,
-   "source": "esed",
-   "text": "O halde, müminler içinden iki grup çatışırsa onlar arasında barışı sağlayın; ama sonra, iki (grup)tan biri diğerine haksız şekilde davranırsa, (davranışı)nı Allah´ın buyruğuna uygun hale getirinceye kadar, haksızlık yapan taraf ile mücadele edin; (yaptıklarından) vazgeçerlerse adil bir şekilde aralarını bulun ve (onlara) eşit davranın çünkü Allah, eşit davrananları sever"
-  },
-  {
-   "verseNo": 10,
-   "source": "diyanet",
-   "text": "Mü'minler ancak kardeştirler. Öyleyse kardeşlerinizin arasını düzeltin. Allah'a karşı gelmekten sakının ki size merhamet edilsin."
-  },
-  {
-   "verseNo": 10,
-   "source": "okuyan",
-   "text": "Müminler sadece kardeştirler. Kardeşlerinizin arasını düzeltin ve Allah’a karşı takvâlı (duyarlı) olun ki size merhamet edilsin."
-  },
-  {
-   "verseNo": 10,
-   "source": "islamoglu",
-   "text": "Mü’minler sadece kardeştirler; öyleyse kardeşlerinizin arasını düzeltin ve Allah’a karşı sorumlu davranın ki, O’nun merhametine mazhar olasınız!"
-  },
-  {
-   "verseNo": 10,
-   "source": "esed",
-   "text": "Bütün müminler kardeştir. O halde, (her ne zaman araları açılırsa) iki kardeşinizin arasını düzeltin ve Allah´a karşı sorumluluğunuzun bilincinde olun ki O´nun rahmetine nail olasınız"
-  },
-  {
-   "verseNo": 11,
-   "source": "diyanet",
-   "text": "Ey iman edenler! Bir topluluk bir diğerini alaya almasın. Belki onlar kendilerinden daha iyidirler. Kadınlar da diğer kadınları alaya almasın. Belki onlar kendilerinden daha iyidirler. Birbirinizi karalamayın, birbirinizi (kötü) lakaplarla çağırmayın. İmandan sonra fasıklık ne kötü bir namdır! Kim de tövbe etmezse, işte onlar zâlimlerin ta kendileridir."
-  },
-  {
-   "verseNo": 11,
-   "source": "okuyan",
-   "text": "Ey iman edenler! Bir topluluk diğer bir toplulukla alay etmesin! Belki onlar (alay edilenler), kendilerinden (alay edenlerden) daha hayırlıdır. Kadınlar da kadınlarla alay etmesin! Belki onlar (alay edilen kadınlar), kendilerinden (alay eden kadınlardan) daha hayırlıdır. Kendi kendinizi ayıplamayın (aşağılamayın); birbirinizi kötü lakaplarla çağırmayın! İmandan sonra yoldan çıkmak (anlamındaki kelime) ne kötü bir isimdir! Kim tevbe etmezse işte onlar, zalimlerin ta kendileridir."
-  },
-  {
-   "verseNo": 11,
-   "source": "islamoglu",
-   "text": "SİZ ey iman edenler! Hiçbir kişi ve zümre bir diğer kişi ve zümreyi hor görerek alaya almasın: belki diğerleri berikilerden daha değerli olabilirler. Yine bir kısım kadınlar da diğerlerini (böyle) görmesinler: ötekiler onlardan daha değerli olabilir. Asla birbirinizi itibardan düşürmek için karalamayın ve (kötü) lakaplar takarak yaralamayın: iman ettikten sonra fâsıklıkla anmak-anılmak ne berbat bir şey! Ve kim (bu tür davranışlardan) pişmanlık duyup vazgeçmezse, işte zalim olanlar onlardır."
-  },
-  {
-   "verseNo": 11,
-   "source": "esed",
-   "text": "Siz ey imana ermiş olanlar! Hiçbir insan (başka) insanları alaya alıp küçümsemesin! Belki o (alay edip küçümsedik)leri kendilerinden daha hayırlı olabilirler ve hiçbir kadın (başka) kadınları (küçümseyip alaya almasın)! Onlar kendilerinden daha hayırlı olabilirler. Ve hiçbiriniz başka birini karalamasın, birbirinizi (yaralayıcı, incitici) lakaplar ile aşağılamayın! (Kişi) iman ettikten sonra ona hiçbir şekilde günah isnad etmeyin ve (bu suçu işleyen, ama sonra) pişmanlık duymayanlar işte gerçek zalimler onlardır"
-  },
-  {
-   "verseNo": 12,
-   "source": "diyanet",
-   "text": "Ey iman edenler! Zannın bir çoğundan sakının. Çünkü zannın bir kısmı günahtır. Birbirinizin kusurlarını ve mahremiyetlerini araştırmayın. Birbirinizin gıybetini yapmayın. Herhangi biriniz ölü kardeşinin etini yemekten hoşlanır mı? İşte bundan tiksindiniz! Allah'a karşı gelmekten sakının. Şüphesiz Allah tövbeyi çok kabul edendir, çok merhamet edendir."
-  },
-  {
-   "verseNo": 12,
-   "source": "okuyan",
-   "text": "Ey iman edenler! Zandan çok kaçının! Şüphesiz ki zannın bir kısmı günahtır. (Birbirinizin) kusurunu araştırmayın! Biriniz diğerini arkasından çekiştirmesin! Biriniz, ölmüş kardeşinin etini yemekten hoşlanır mı? Bundan tiksindiniz (değil mi?). Allah’a karşı takvâlı (duyarlı) olun! Şüphesiz ki Allah tevbeyi çok kabul edendir, çok merhametlidir."
-  },
-  {
-   "verseNo": 12,
-   "source": "islamoglu",
-   "text": "Siz ey iman edenler! (Birbiriniz hakkında kötü) zandan şiddetle kaçının! Unutmayın ki zannın bir kısmı ağır bir vebaldir! Birbirinizin gizli saklısını da asla araştırmayın ve birbirinizin gıybetini etmeyin! İçinizde ölü kardeşinin etini yemekten hoşlanan biri var mı? Bakın, tiksindiniz işte! Sözün özü: Allah’a karşı sorumluluğunuzun bilincine varın! Kuşkusuz Allah tevbeleri kabul edendir, kullarına merhametlidir."
-  },
-  {
-   "verseNo": 12,
-   "source": "esed",
-   "text": "Siz ey imana ermiş olanlar! (Birbiriniz hakkında) yersiz zanda bulunmaktan kaçının; çünkü (bu şekildeki) zannın bir kısmı (da) günahtır; birbirinizin gizli yönlerini araştırmayın ve arkanızdan birbirinizi çekiştirmeye kalkışmayın. Aranızdan, hiç ölmüş kardeşinin etini yemek isteyen kimse çıkar mı? Hayır, siz ondan iğrenirsiniz. Ve Allah´a karşı sorumluluğunuzun bilincinde olun. Şüphesiz Allah, tevbeleri kabul edendir, rahmet kaynağıdır"
-  },
-  {
-   "verseNo": 13,
-   "source": "diyanet",
-   "text": "Ey insanlar! Şüphe yok ki, biz sizi bir erkek ve bir dişiden yarattık ve birbirinizi tanımanız için sizi boylara ve kabilelere ayırdık. Allah katında en değerli olanınız, O'na karşı gelmekten en çok sakınanınızdır. Şüphesiz Allah hakkıyla bilendir, hakkıyla haberdâr olandır."
-  },
-  {
-   "verseNo": 13,
-   "source": "okuyan",
-   "text": "Ey insanlar! Şüphesiz ki biz sizi bir erkekle bir dişi (hücre türün)den yarattık. Birbirinizle tanışmanız için sizi toplumlara ve kabilelere ayırdık. Şüphesiz ki Allah katında en değerli olanınız, en çok takvâlı (duyarlı) olanınızdır. Şüphesiz ki Allah bilendir, haberdardır."
-  },
-  {
-   "verseNo": 13,
-   "source": "islamoglu",
-   "text": "Ey insanlık! Elbet sizi bir erkekle bir dişiden yaratan Biziz; derken sizi kavimler ve kabileler haline getirdik ki tanışabilesiniz. Elbet Allah katında en üstününüz, O’na karşı sorumluluk bilinci en güçlü olanınızdır; şüphe yok ki Allah her şeyi bilir, her şeyden haberdardır."
-  },
-  {
-   "verseNo": 13,
-   "source": "esed",
-   "text": "Ey insanlar! Bakın, Biz sizi bir erkek ve bir kadından yarattık ve sizi kavimler ve kabileler haline getirdik ki birbirinizi tanıyabilesiniz. Şüphesiz, Allah katında en üstün olanınız, O´na karşı derin bir sorumluluk bilincine sahip olanınızdır. Allah her şeyi bilendir, her şeyden haberdar olandır"
-  },
-  {
-   "verseNo": 14,
-   "source": "diyanet",
-   "text": "Bedevîler \"İman ettik\" dediler. De ki: \"İman etmediniz. (Öyle ise, \"iman ettik\" demeyin.) \"Fakat boyun eğdik\" deyin. Henüz iman kalplerinize girmedi. Eğer Allah'a ve Peygamberine itaat ederseniz, yaptıklarınızdan hiçbir şeyi eksiltmez. Allah çok bağışlayandır, çok merhamet edendir.\""
-  },
-  {
-   "verseNo": 14,
-   "source": "okuyan",
-   "text": "Göçebe Araplar “İman ettik!” dediler. De ki: “Siz (henüz) iman etmediniz ama ‘Teslim olduk!’ deyin! (Çünkü) iman henüz kalplerinize yerleşmedi. Allah’a ve Elçisine itaat ederseniz (Allah) işlerinizden hiçbir şeyi eksiltmez.” Şüphesiz ki Allah çok bağışlayandır, çok merhametlidir."
-  },
-  {
-   "verseNo": 14,
-   "source": "islamoglu",
-   "text": "BEDEVİLER “İman ettik” dediler. De ki “iman etmiş değilsiniz, lakin ‘teslim olduk’ diyebilirsiniz, zira iman henüz kalplerinize girmiş değil. Ama eğer Allah ve Rasulü’ne uyarsanız, Allah amellerinizin zerresini eksiltmez: çünkü Allah tarifsiz bir bağış, eşsiz bir merhamet sahibidir.”"
-  },
-  {
-   "verseNo": 14,
-   "source": "esed",
-   "text": "Bedeviler, \"Biz imana erdik\" derler. De ki (onlara, ey Muhammed!): \"Siz (daha) imana ermediniz. ´Biz (zahiren) teslim olduk´ demeniz daha doğrudur; çünkü (gerçek) inanç henüz kalplerinize girmiş değil\". Ama Allah´a ve Elçisi´ne (gerçekten) kulak verirseniz O, hiçbir işinizin boşa gitmesine izin vermez çünkü şüphesiz Allah çok bağışlayıcıdır, bir rahmet kaynağıdır"
-  },
-  {
-   "verseNo": 15,
-   "source": "diyanet",
-   "text": "İman edenler ancak, Allah'a ve Peygamberine inanan, sonra şüpheye düşmeyen, Allah yolunda mallarıyla ve canlarıyla cihad edenlerdir. İşte onlar doğru kimselerin ta kendileridir."
-  },
-  {
-   "verseNo": 15,
-   "source": "okuyan",
-   "text": "Gerçek müminler ancak Allah’a ve Elçisine iman eden, sonrasında şüphe duymayan, Allah yolunda mallarıyla ve canlarıyla cihad edenlerdir (fedakârlık yapanlardır). İşte (inancında) doğru olanlar sadece bunlardır."
-  },
-  {
-   "verseNo": 15,
-   "source": "islamoglu",
-   "text": "Gerçek mü’minler sadece Allah’a ve Rasulü’ne iman edenler, ondan sonra da kuşkunun semtine uğramayanlar ve Allah yolunda mallarıyla, canlarıyla cihad edenlerdir: İşte bunlar sadık olanların ta kendileridir."
-  },
-  {
-   "verseNo": 15,
-   "source": "esed",
-   "text": "(Şunu bil ki, gerçek) müminler, yalnızca, Allah´a ve Elçisi´ne iman edenler ve (bu konuda) bütün şüphelerden uzak duranlardır; ve Allah yolunda bütün malları ve canları ile cihad edenlerdir; işte onlardır sözlerinde duranlar"
-  },
-  {
-   "verseNo": 16,
-   "source": "diyanet",
-   "text": "(Ey Muhammed!) De ki: \"Siz Allah'a dininizi mi öğretiyorsunuz? Oysa Allah, göklerdeki ve yerdeki her şeyi bilir. Allah, her şeyi hakkıyla bilendir.\""
-  },
-  {
-   "verseNo": 16,
-   "source": "okuyan",
-   "text": "De ki: “Allah göklerde ve yerde olanları bilmekteyken siz dininizi Allah’a mı öğretiyorsunuz!” Allah her şeyi bilendir."
-  },
-  {
-   "verseNo": 16,
-   "source": "islamoglu",
-   "text": "De ki: “Allah’a dininizi siz mi öğreteceksiniz? Ama Allah göklerde ve yerde ne varsa hepsini bilir: zira Allah her şeyi ayrıntısıyla bilendir.”"
-  },
-  {
-   "verseNo": 16,
-   "source": "esed",
-   "text": "De ki: \"Siz, Allah´a dininizi(n mahiyetini) mi öğret(mek ist)iyorsunuz? Allah göklerde ve yerde olan her şeyi bilir. Allah her şeyin eksiksiz bilgisine sahiptir"
-  },
-  {
-   "verseNo": 17,
-   "source": "diyanet",
-   "text": "Müslüman olmalarını bir lütufta bulunmuş gibi sana hatırlatıyorlar. De ki: \"Müslüman olmanızı bir lütuf gibi bana hatırlatıp durmayın. Tam tersine eğer doğru kimselerseniz sizi imana erdirmesinden dolayı Allah size lütufta bulunmuş oluyor.\""
-  },
-  {
-   "verseNo": 17,
-   "source": "okuyan",
-   "text": "Onlar, müslüman olmalarını senin başına kakıyorlar. De ki: “Müslümanlığınızı benim başıma kakmayın! Doğruysanız bilin ki size imanı gösterdiği için aslında Allah size iyilikte bulunmaktadır.”"
-  },
-  {
-   "verseNo": 17,
-   "source": "islamoglu",
-   "text": "Onlar teslim oldular diye seni minnet altına almaya kalkıyorlar. De ki: “İslâmınızdan dolayı beni minnet altına alıp bana lutfettiğinizi sanmayın; eğer (hakikate) sadıksanız, sizi doğru yola yönelttiği için asıl Allah size lutufta bulunmuştur."
-  },
-  {
-   "verseNo": 17,
-   "source": "esed",
-   "text": "Birçok insan, (sana) teslim olmak suretiyle (ey Muhammed), sana bir lütufta bulunduklarını zannederler. De ki: \"Teslimiyetinizi bana bir lütuf olarak görmeyin! Hayır, tersine size iman yolunu göstermek suretiyle Allah size lütufta bulunmuştur; eğer sözünüzde samimi iseniz"
-  },
-  {
-   "verseNo": 18,
-   "source": "diyanet",
-   "text": "Şüphesiz Allah, göklerin ve yerin gaybını bilir. Allah yaptıklarınızı hakkıyla görendir."
-  },
-  {
-   "verseNo": 18,
-   "source": "okuyan",
-   "text": "Şüphesiz ki Allah göklerin ve yerin gaybını (bilinemeyenini) bilir. Allah yaptıklarınızı görendir."
-  },
-  {
-   "verseNo": 18,
-   "source": "islamoglu",
-   "text": "Şu kesin ki Allah, göklerin ve yerin sırlarını bilir; dahası Allah yaptığınız her şeyi görür."
-  },
-  {
-   "verseNo": 18,
-   "source": "esed",
-   "text": "Şüphesiz Allah, göklerin ve yerin bütün sırlarını bilir ve bütün yaptıklarınızı görür"
-  },
-  {
-   "verseNo": 1,
-   "verseNoEnd": null,
-   "source": "ai",
-   "text": "Ey iman edenler! Allah ve Resulünün önüne geçmeyin; Allah’tan sakının. Şüphesiz Allah işitendir, bilendir."
-  },
-  {
-   "verseNo": 2,
-   "verseNoEnd": null,
-   "source": "ai",
-   "text": "Ey iman edenler! Sesinizi peygamberin sesinin üzerine çıkarmayın ve ona bazılarınızın birbirine yüksek sesle konuştuğu gibi yüksek sesle hitap etmeyin; yoksa amelleriniz boşa gider de siz farkında olmazsınız."
-  },
-  {
-   "verseNo": 3,
-   "verseNoEnd": null,
-   "source": "ai",
-   "text": "Resûlün yanında seslerini alçaltanlar işte onlar Allah’ın kalplerini takvâ için sınadığı kimselerdir; onlar için bağışlanma ve büyük bir mükâfat vardır."
-  },
-  {
-   "verseNo": 4,
-   "verseNoEnd": null,
-   "source": "ai",
-   "text": "Seni odaların arkasından çağıranların çoğu akıl sahibi değildir."
-  },
-  {
-   "verseNo": 5,
-   "verseNoEnd": null,
-   "source": "ai",
-   "text": "Keşke sabretselerdi de sen onlara çıksaydın; bu onlar için daha hayırlı olurdu. Allah çok bağışlayandır, merhametlidir."
-  },
-  {
-   "verseNo": 6,
-   "verseNoEnd": null,
-   "source": "ai",
-   "text": "Ey iman edenler! Size bir günahkâr bir haber getirirse haberin doğruluğunu araştırın ki cahillik ederek bir kavme isabet/müsibete uğratmayasınız ve sonra yaptığınızdan dolayı pişman olmayasınız."
-  },
-  {
-   "verseNo": 7,
-   "verseNoEnd": null,
-   "source": "ai",
-   "text": "Ve bilin ki içinizde Allah’ın Resûlü vardır. Eğer pek çok hususta ona itaat etseydiniz zorluk çekerdiniz; ancak Allah size imanı sevdirip onu kalplerinizde süsledi ve inkârı, günahı ve isyanı size sevimsiz kıldı. İşte onlar doğruluğa erenlerdir."
-  },
-  {
-   "verseNo": 8,
-   "verseNoEnd": null,
-   "source": "ai",
-   "text": "Bu, Allah’ın bir lütfu ve nimettir. Allah bilendir, hikmet sahibidir."
-  },
-  {
-   "verseNo": 9,
-   "verseNoEnd": null,
-   "source": "ai",
-   "text": "Eğer müminlerden iki grup çatışırsa aralarını düzeltin. Eğer bunlardan biri diğerine zulmederse zulmeden tarafla savaşın ta ki o, Allah’ın hükmüne dönsün. Eğer dönerse aralarını adaletle düzeltin ve adil olun; şüphesiz Allah adalet yapanları sever."
-  },
-  {
-   "verseNo": 10,
-   "verseNoEnd": null,
-   "source": "ai",
-   "text": "Müminler ancak kardeştir; öyleyse kardeşlerinizin arasını düzeltin ve Allah’tan sakının ki merhamet göresiniz."
-  },
-  {
-   "verseNo": 11,
-   "verseNoEnd": null,
-   "source": "ai",
-   "text": "Ey iman edenler! Bir kavim başka bir kavmi alaya etmesin; belki onlar onlardan daha hayırlı olabilirler. Kadınlar da diğer kadınları alaya etmesin; belki onlar onlardan daha hayırlı olabilirler. Kendinizi aşağılamayın ve birbirinizi lakaplarla çağırmayın. İman geldikten sonra günahkârlığın adı ne kötüdür. Kim tevbe etmezse işte onlar zalimlerdir."
-  },
-  {
-   "verseNo": 12,
-   "verseNoEnd": null,
-   "source": "ai",
-   "text": "Ey iman edenler! Çokça zan etmekten sakının; çünkü bazı zanlar günahtır. Casusluk etmeyin ve birbirinizin gıybetini yapmayın. Acaba biriniz kardeşinin etini ölü olarak yemesinden hoşlanır mı? Siz ondan tiksinirsiniz. Allah'tan sakının; şüphesiz Allah tövbeleri kabul edendir, merhametlidir."
-  },
-  {
-   "verseNo": 13,
-   "verseNoEnd": null,
-   "source": "ai",
-   "text": "Ey insanlar! Şüphesiz sizi bir erkek ve bir dişiden yarattık ve sizi kavimler ve kabileler kıldık ki birbirinizi tanıyasınız. Şüphesiz Allah katında en şerefli olanınız en çok sakınanınızdır. Şüphesiz Allah bilendir, her şeyden haberdardır."
-  },
-  {
-   "verseNo": 14,
-   "verseNoEnd": null,
-   "source": "ai",
-   "text": "Çölde yaşayanlar \"iman ettik\" dediler. De ki: \"İman etmediniz; fakat 'teslim olduk' deyin; henüz iman kalplerinize girmemiştir. Eğer Allah'a ve Resulüne itaat ederseniz, yaptıklarınızdan size hiçbir şey eksiltmez. Şüphesiz Allah çok bağışlayandır, merhametlidir.\""
-  },
-  {
-   "verseNo": 15,
-   "verseNoEnd": null,
-   "source": "ai",
-   "text": "İman edenler ancak, Allah'a ve Resulüne inanıp sonra şüpheye düşmeyen ve mallarıyla ve canlarıyla Allah yolunda mücadele edenlerdir. İşte onlar doğru olanlardır."
-  },
-  {
-   "verseNo": 16,
-   "verseNoEnd": null,
-   "source": "ai",
-   "text": "De ki: \"Dinizi Allah'a mı öğretiyorsunuz? Oysa Allah göklerde ve yerde olanları bilir.\" Allah her şeyi bilendir."
-  },
-  {
-   "verseNo": 17,
-   "verseNoEnd": null,
-   "source": "ai",
-   "text": "Onlar sana teslim olduklarıyla övünüyorlar. De ki: \"İslamınızı bana lütuf saymayın; bilakis Allah size imanı gösterdi, eğer doğru söylüyorsanız.\""
-  },
-  {
-   "verseNo": 18,
-   "verseNoEnd": null,
-   "source": "ai",
-   "text": "Şüphesiz Allah göklerin ve yerin gaybını bilir. Allah yaptıklarınızı görendir."
-  }
- ],
- "aiParagraph": "Bir haberi duyar duymaz inanmak, birine kızgınken hemen saldırmak, karşındakini küçük görerek rahatlamak — bunların hepsi tanıdık, hepsi insani; ama bu sure tam da o anlarda durup bakmayı anlatıyor. Metnin özünde bir uyarı var: acele etmek, sesi yükseltmek, kapının önünde bağırarak içeridekini çağırmak — bunlar güçlü görünmenin yolları değil, olgunlaşmamışlığın işaretleri. Güvenilirliği sorgulanır biri sana bir haber getirdiğinde, onu olduğu gibi kabul edip harekete geçersen ve yanılırsan, pişmanlık sana kalır. Sure ayrıca insanın kendi içinde kurduğu hiyerarşilere de bakıyor: kabilenden, dilinden, teninin renginden gelen bir üstünlük duygusu temelsizdir, çünkü farklılıklar birbirini tanımak için var, sıralamak için değil. İnsanı en çok küçülten şeylerden biri de onu olmadığı yerde yargılamak, arkasından konuşmak — metin bunu ölmüş kardeşinin etini yemek kadar ağır bir imgeyle tarif ediyor. En çarpıcı kırılma ise şu: diliyle \"inandım\" diyenlerle gerçekten inananlar arasındaki mesafe. İkrar söze kolaydır; içten geçmesi başka bir şeydir. Sure hiç kimseye dışarıdan bakamaz — ne kendi inancını başkasına minnet olarak sunan, ne de başkasını kendi ölçüsüyle tartan."
+  "stationNo": 112,
+  "surahNo": 49,
+  "name": "Hucurât",
+  "nameArabic": "",
+  "nameMeaning": "",
+  "verseCount": 18,
+  "nuzulOrderOkuyan": 112,
+  "periodDiyanet": "Medine",
+  "periodOkuyan": "Medine",
+  "revelationTiming": "Sûrenin tamamının Medine'de indiği genel kabul görmekle birlikte, 13. âyetin Mekkî olduğu yönünde Abdullah b. Abbas'tan nakledilen zayıf bir rivayet de bulunmaktadır.",
+  "stationTitle": "Ahlâkın ve Kardeşliğin İnşası: Sınırları Bilmek",
+  "introduction": "Hucurât sûresi, adını 4. âyette geçen ve 'odalar' anlamına gelen 'hucurât' kelimesinden alır. Bu kelime, Mescid-i Nebevî'nin yanındaki Hz. Peygamber ve ailesine ait mütevazı odaları ifade eder. Toplam 18 âyetten oluşan sûre, Medine döneminin son yıllarında inmiştir.\n\nSûre, temel olarak iki ana eksen etrafında şekillenir. İlk bölümde (1-10. âyetler) Allah'a ve Resulüne saygı, haberlerin doğruluğunu araştırma ve müminler arası barışı sağlama gibi erdemli davranışlar emredilir. İkinci bölümde ise (11-18. âyetler) alay etme, lakap takma, suizan, tecessüs ve gıybet gibi toplumsal barışı zedeleyen kötü huylar yasaklanır.\n\nHucurât sûresi, İslâm toplumunun ahlâkî ve hukukî temellerini atan bir manifestodur. Kan bağına ve ırk üstünlüğüne dayalı cahiliye anlayışını yıkarak, yerine iman kardeşliğini ve takvâ (sorumluluk bilinci) esasını getirir. Bütün insanların bir erkek ve bir dişiden yaratıldığını vurgulayarak evrensel eşitlik ilkesini ilan eder.",
+  "occasionOfRevelation": "Hucurât sûresinin nüzulü, Medine döneminin son yıllarına, muhtemelen Feth sûresinin ardına (Hicrî 8 veya 9. yıl) rastlar. Sûrenin ilk âyetlerinin iniş sebebi olarak kaynaklarda genellikle Temîmoğulları kabilesinden bir heyetin Medine'ye gelişi gösterilir.\n\nRivayetlere göre, bu bedevîler Hz. Peygamber mescide bitişik odalarından birinde istirahat ederken dışarıdan kaba bir şekilde, 'Hey Muhammed, yanımıza çık!' diye bağırmışlardır. Bu saygısız ve kaba tavır üzerine, insanların birbirlerinin mahremiyetine ve haklarına saygı göstermelerini emreden âyetler inmiştir.\n\nAyrıca, aynı heyetin ziyareti sırasında Hz. Ebû Bekir ile Hz. Ömer'in, kabileye kimin başkan yapılacağı konusunda ihtilafa düşüp Hz. Peygamber'in yanında seslerini yükseltmeleri de ilk âyetlerin nüzul sebebi olarak zikredilir. 13. âyetin Mekkî olduğu yönünde Abdullah b. Abbas'tan nakledilen bir rivayet bulunsa da, müfessirlerin çoğunluğu sûrenin bütünlüğünü bozacağı gerekçesiyle bu görüşe itibar etmemiştir.",
+  "occasionSources": "TDV İslâm Ansiklopedisi, \"Hucurât Sûresi\" maddesi; Diyanet İşleri Başkanlığı Kur'an Yolu Tefsiri, Hucurât 1-5 ayet tefsiri; kuranokuyan.com, Hucurât suresi girişi (Prof. Dr. Mehmet Okuyan).",
+  "keyTerms": [
+    {
+      "term": "hucurât",
+      "arabic": "حُجُرَات",
+      "verseRef": "49:4",
+      "meaning": "Başkalarının girmesine engel olacak şekilde çevrilmiş yer, oda. Âyette Hz. Peygamber'in mahremiyet alanını ve ona gösterilmesi gereken saygıyı simgeler."
+    },
+    {
+      "term": "takvâ",
+      "arabic": "تَقْوَى",
+      "verseRef": "49:13",
+      "meaning": "Allah'a karşı sorumluluk bilinci, duyarlılık. Sûrede, insanlar arasındaki tek gerçek üstünlük ölçüsü olarak vurgulanır."
+    },
+    {
+      "term": "gıybet",
+      "arabic": "غِيبَة",
+      "verseRef": "49:12",
+      "meaning": "Bir kimsenin arkasından hoşlanmayacağı şekilde konuşmak. Âyette 'ölmüş kardeşinin etini yemek' gibi iğrenç bir eylem olarak tasvir edilir."
+    },
+    {
+      "term": "zann",
+      "arabic": "ظَنّ",
+      "verseRef": "49:12",
+      "meaning": "Kesin bilgiye dayanmayan tahmin, şüphe. Sûrede, insanların gizli hallerini araştırmaya (tecessüs) yol açan kötü zandan kaçınılması emredilir."
+    },
+    {
+      "term": "fâsık",
+      "arabic": "فَاسِق",
+      "verseRef": "49:6",
+      "meaning": "Yoldan çıkmış, güvenilmez kimse. Âyette, böyle birinin getirdiği haberin doğruluğunun mutlaka araştırılması gerektiği belirtilir."
+    }
+  ],
+  "themes": [
+    {
+      "label": "Mahremiyete ve Sınırlara Saygı",
+      "body": "Sûre, başkalarının özel alanına, zamanına ve sınırlarına saygı göstermenin temel bir insanî erdem olduğunu hatırlatır. Kaba ve düşüncesiz davranışların ilişkileri nasıl zedelediğini gösterir."
+    },
+    {
+      "label": "Bilgi Ahlâkı ve Sorumluluk",
+      "body": "Her duyulana inanmamak, haberlerin kaynağını ve doğruluğunu araştırmak, günümüzün bilgi kirliliği çağında hayati bir öneme sahiptir. Sûre, bizi manipülasyonlara karşı uyarır."
+    },
+    {
+      "label": "Ötekileştirmenin Reddi",
+      "body": "Alay etmek, lakap takmak ve insanları hor görmek, toplumsal barışın düşmanıdır. Sûre, farklılıkların bir çatışma değil, tanışma ve zenginlik vesilesi olduğunu vurgular."
+    }
+  ],
+  "questions": [
+    "Başkalarının zamanını, emeğini veya özel alanını kendi hakkımmış gibi pervasızca ihlal ettiğim durumlar oluyor mu?",
+    "Sosyal medyada veya günlük hayatta duyduğum bir haberi, doğruluğunu araştırmadan paylaşıp birilerinin hakkına giriyor muyum?",
+    "Kendi grubumu, statümü veya inancımı başkalarından üstün görerek, farkında olmadan insanları küçümsediğim anlar var mı?"
+  ],
+  "contemporaryMeaning": "Bu sure, insanın kendi sınırlarını unutarak başkalarının varlık alanını ihlal etme eğilimini merkeze alır. Temel mesele, kişinin kendini merkeze koyduğu bir dünyada, ötekinin mahremiyetini, itibarını ve varoluş hakkını hiçe sayan o pervasız özgüvendir. İnsan, kendi doğrularını mutlaklaştırdığında, başkalarının hayatına müdahale etmeyi ve onları yargılamayı kendine hak görmeye başlar.\n\nBugünün diliyle: Algoritmaların yankı odalarında sürekli kendi benzerleriyle onaylanan birey, farklı olana karşı tahammülünü yitirir. Sosyal medya platformlarında bir linç kampanyasına katılırken, bir başkasının itibarını saniyeler içinde yok eden o acımasız hız, tam da bu sınır ihlalinin dijital tezahürüdür. Açık ofislerdeki rekabet ortamında çalışma arkadaşının açığını aramak veya mesajlaşma gruplarında teyit edilmemiş bir haberi anında dolaşıma sokmak, metnin işaret ettiği o kaba cüretin ta kendisidir.\n\nKişinin kendi statüsünü, eğitimini veya tüketim alışkanlıklarını bir üstünlük vesilesi olarak kurgulaması, derin bir güvensizliğin üzerini örtme çabasıdır. Sure, insanın değerinin sahip olduğu etiketlerde değil, kendi sınırlarını bilme ve ötekinin hakkına duyduğu saygıda yattığını gösterir. Bir başkasının kusurunu aramak yerine kendi eksikliğiyle yüzleşebilen bir duruş, bu pervasızlık çağında en keskin itirazdır.",
+  "scholarlyNotes": [
+    {
+      "kind": "ihtilaf",
+      "body": "Müfessirlerin çoğunluğu sûrenin tamamının Medine'de indiğini kabul ederken, Abdullah b. Abbas'tan nakledilen bir rivayette 13. âyetin Mekkî olduğu öne sürülmüştür. Ancak Âlûsî gibi âlimler, bu durumun sûrenin bütünlüğünü bozacağını belirterek bu görüşe itibar etmemişlerdir.",
+      "label": "13. Âyetin Nüzul Yeri"
+    },
+    {
+      "kind": "nuans",
+      "body": "Hz. Peygamber'in mütevazı yaşantısının bir simgesi olan bu odalar, Emevî halifesi Velîd b. Abdülmelik zamanında Mescid-i Nebevî'nin genişletilmesi sırasında yıkılarak mescide katılmıştır. Saîd b. Müseyyeb gibi bazı tâbiîn âlimleri, bu odaların ibret için korunmasını arzu etmişlerdir.",
+      "label": "Hücrelerin Akıbeti"
+    }
+  ],
+  "verses": [
+    {
+      "verseNo": 1,
+      "textArabic": "بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ لَا تُقَدِّمُوا۟ بَيْنَ يَدَىِ ٱللَّهِ وَرَسُولِهِۦ ۖ وَٱتَّقُوا۟ ٱللَّهَ ۚ إِنَّ ٱللَّهَ سَمِيعٌ عَلِيمٌۭ"
+    },
+    {
+      "verseNo": 2,
+      "textArabic": "يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ لَا تَرْفَعُوٓا۟ أَصْوَٰتَكُمْ فَوْقَ صَوْتِ ٱلنَّبِىِّ وَلَا تَجْهَرُوا۟ لَهُۥ بِٱلْقَوْلِ كَجَهْرِ بَعْضِكُمْ لِبَعْضٍ أَن تَحْبَطَ أَعْمَٰلُكُمْ وَأَنتُمْ لَا تَشْعُرُونَ"
+    },
+    {
+      "verseNo": 3,
+      "textArabic": "إِنَّ ٱلَّذِينَ يَغُضُّونَ أَصْوَٰتَهُمْ عِندَ رَسُولِ ٱللَّهِ أُو۟لَٰٓئِكَ ٱلَّذِينَ ٱمْتَحَنَ ٱللَّهُ قُلُوبَهُمْ لِلتَّقْوَىٰ ۚ لَهُم مَّغْفِرَةٌۭ وَأَجْرٌ عَظِيمٌ"
+    },
+    {
+      "verseNo": 4,
+      "textArabic": "إِنَّ ٱلَّذِينَ يُنَادُونَكَ مِن وَرَآءِ ٱلْحُجُرَٰتِ أَكْثَرُهُمْ لَا يَعْقِلُونَ"
+    },
+    {
+      "verseNo": 5,
+      "textArabic": "وَلَوْ أَنَّهُمْ صَبَرُوا۟ حَتَّىٰ تَخْرُجَ إِلَيْهِمْ لَكَانَ خَيْرًۭا لَّهُمْ ۚ وَٱللَّهُ غَفُورٌۭ رَّحِيمٌۭ"
+    },
+    {
+      "verseNo": 6,
+      "textArabic": "يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوٓا۟ إِن جَآءَكُمْ فَاسِقٌۢ بِنَبَإٍۢ فَتَبَيَّنُوٓا۟ أَن تُصِيبُوا۟ قَوْمًۢا بِجَهَٰلَةٍۢ فَتُصْبِحُوا۟ عَلَىٰ مَا فَعَلْتُمْ نَٰدِمِينَ"
+    },
+    {
+      "verseNo": 7,
+      "textArabic": "وَٱعْلَمُوٓا۟ أَنَّ فِيكُمْ رَسُولَ ٱللَّهِ ۚ لَوْ يُطِيعُكُمْ فِى كَثِيرٍۢ مِّنَ ٱلْأَمْرِ لَعَنِتُّمْ وَلَٰكِنَّ ٱللَّهَ حَبَّبَ إِلَيْكُمُ ٱلْإِيمَٰنَ وَزَيَّنَهُۥ فِى قُلُوبِكُمْ وَكَرَّهَ إِلَيْكُمُ ٱلْكُفْرَ وَٱلْفُسُوقَ وَٱلْعِصْيَانَ ۚ أُو۟لَٰٓئِكَ هُمُ ٱلرَّٰشِدُونَ"
+    },
+    {
+      "verseNo": 8,
+      "textArabic": "فَضْلًۭا مِّنَ ٱللَّهِ وَنِعْمَةًۭ ۚ وَٱللَّهُ عَلِيمٌ حَكِيمٌۭ"
+    },
+    {
+      "verseNo": 9,
+      "textArabic": "وَإِن طَآئِفَتَانِ مِنَ ٱلْمُؤْمِنِينَ ٱقْتَتَلُوا۟ فَأَصْلِحُوا۟ بَيْنَهُمَا ۖ فَإِنۢ بَغَتْ إِحْدَىٰهُمَا عَلَى ٱلْأُخْرَىٰ فَقَٰتِلُوا۟ ٱلَّتِى تَبْغِى حَتَّىٰ تَفِىٓءَ إِلَىٰٓ أَمْرِ ٱللَّهِ ۚ فَإِن فَآءَتْ فَأَصْلِحُوا۟ بَيْنَهُمَا بِٱلْعَدْلِ وَأَقْسِطُوٓا۟ ۖ إِنَّ ٱللَّهَ يُحِبُّ ٱلْمُقْسِطِينَ"
+    },
+    {
+      "verseNo": 10,
+      "textArabic": "إِنَّمَا ٱلْمُؤْمِنُونَ إِخْوَةٌۭ فَأَصْلِحُوا۟ بَيْنَ أَخَوَيْكُمْ ۚ وَٱتَّقُوا۟ ٱللَّهَ لَعَلَّكُمْ تُرْحَمُونَ"
+    },
+    {
+      "verseNo": 11,
+      "textArabic": "يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ لَا يَسْخَرْ قَوْمٌۭ مِّن قَوْمٍ عَسَىٰٓ أَن يَكُونُوا۟ خَيْرًۭا مِّنْهُمْ وَلَا نِسَآءٌۭ مِّن نِّسَآءٍ عَسَىٰٓ أَن يَكُنَّ خَيْرًۭا مِّنْهُنَّ ۖ وَلَا تَلْمِزُوٓا۟ أَنفُسَكُمْ وَلَا تَنَابَزُوا۟ بِٱلْأَلْقَٰبِ ۖ بِئْسَ ٱلِٱسْمُ ٱلْفُسُوقُ بَعْدَ ٱلْإِيمَٰنِ ۚ وَمَن لَّمْ يَتُبْ فَأُو۟لَٰٓئِكَ هُمُ ٱلظَّٰلِمُونَ"
+    },
+    {
+      "verseNo": 12,
+      "textArabic": "يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ ٱجْتَنِبُوا۟ كَثِيرًۭا مِّنَ ٱلظَّنِّ إِنَّ بَعْضَ ٱلظَّنِّ إِثْمٌۭ ۖ وَلَا تَجَسَّسُوا۟ وَلَا يَغْتَب بَّعْضُكُم بَعْضًا ۚ أَيُحِبُّ أَحَدُكُمْ أَن يَأْكُلَ لَحْمَ أَخِيهِ مَيْتًۭا فَكَرِهْتُمُوهُ ۚ وَٱتَّقُوا۟ ٱللَّهَ ۚ إِنَّ ٱللَّهَ تَوَّابٌۭ رَّحِيمٌۭ"
+    },
+    {
+      "verseNo": 13,
+      "textArabic": "يَٰٓأَيُّهَا ٱلنَّاسُ إِنَّا خَلَقْنَٰكُم مِّن ذَكَرٍۢ وَأُنثَىٰ وَجَعَلْنَٰكُمْ شُعُوبًۭا وَقَبَآئِلَ لِتَعَارَفُوٓا۟ ۚ إِنَّ أَكْرَمَكُمْ عِندَ ٱللَّهِ أَتْقَىٰكُمْ ۚ إِنَّ ٱللَّهَ عَلِيمٌ خَبِيرٌۭ"
+    },
+    {
+      "verseNo": 14,
+      "textArabic": "۞ قَالَتِ ٱلْأَعْرَابُ ءَامَنَّا ۖ قُل لَّمْ تُؤْمِنُوا۟ وَلَٰكِن قُولُوٓا۟ أَسْلَمْنَا وَلَمَّا يَدْخُلِ ٱلْإِيمَٰنُ فِى قُلُوبِكُمْ ۖ وَإِن تُطِيعُوا۟ ٱللَّهَ وَرَسُولَهُۥ لَا يَلِتْكُم مِّنْ أَعْمَٰلِكُمْ شَيْـًٔا ۚ إِنَّ ٱللَّهَ غَفُورٌۭ رَّحِيمٌ"
+    },
+    {
+      "verseNo": 15,
+      "textArabic": "إِنَّمَا ٱلْمُؤْمِنُونَ ٱلَّذِينَ ءَامَنُوا۟ بِٱللَّهِ وَرَسُولِهِۦ ثُمَّ لَمْ يَرْتَابُوا۟ وَجَٰهَدُوا۟ بِأَمْوَٰلِهِمْ وَأَنفُسِهِمْ فِى سَبِيلِ ٱللَّهِ ۚ أُو۟لَٰٓئِكَ هُمُ ٱلصَّٰدِقُونَ"
+    },
+    {
+      "verseNo": 16,
+      "textArabic": "قُلْ أَتُعَلِّمُونَ ٱللَّهَ بِدِينِكُمْ وَٱللَّهُ يَعْلَمُ مَا فِى ٱلسَّمَٰوَٰتِ وَمَا فِى ٱلْأَرْضِ ۚ وَٱللَّهُ بِكُلِّ شَىْءٍ عَلِيمٌۭ"
+    },
+    {
+      "verseNo": 17,
+      "textArabic": "يَمُنُّونَ عَلَيْكَ أَنْ أَسْلَمُوا۟ ۖ قُل لَّا تَمُنُّوا۟ عَلَىَّ إِسْلَٰمَكُم ۖ بَلِ ٱللَّهُ يَمُنُّ عَلَيْكُمْ أَنْ هَدَىٰكُمْ لِلْإِيمَٰنِ إِن كُنتُمْ صَٰدِقِينَ"
+    },
+    {
+      "verseNo": 18,
+      "textArabic": "إِنَّ ٱللَّهَ يَعْلَمُ غَيْبَ ٱلسَّمَٰوَٰتِ وَٱلْأَرْضِ ۚ وَٱللَّهُ بَصِيرٌۢ بِمَا تَعْمَلُونَ"
+    }
+  ],
+  "translations": [
+    {
+      "verseNo": 1,
+      "source": "diyanet",
+      "text": "Ey iman edenler! Allah'ın ve Peygamberinin önüne geçmeyin. Allah'a karşı gelmekten sakının. Şüphesiz, Allah hakkıyla işitendir, hakkıyla bilendir."
+    },
+    {
+      "verseNo": 1,
+      "source": "okuyan",
+      "text": "Ey iman edenler! Allah’ın ve Elçisinin önüne geçmeyin! Allah’a karşı takvâlı (duyarlı) olun! Şüphesiz ki Allah duyandır, bilendir."
+    },
+    {
+      "verseNo": 1,
+      "source": "islamoglu",
+      "text": "SİZ ey iman edenler! Asla Allah’ın ve Rasûlü’nün önüne geçmeyin ve sorumlu davranın: çünkü Allah her şeyi işitir, her şeyi bilir!"
+    },
+    {
+      "verseNo": 1,
+      "source": "esed",
+      "text": "Siz ey imana ermiş olanlar! Allah´ın ve Elçisi´nin (emrettiği şeyin) önüne kendinizi koymayın, Allah´a karşı sorumluluğunuzun bilincinde olun. Çünkü Allah, kuşkusuz her şeyi işiten, her şeyi bilendir"
+    },
+    {
+      "verseNo": 2,
+      "source": "diyanet",
+      "text": "Ey iman edenler! Seslerinizi, Peygamber'in sesinin üstüne yükseltmeyin. Birbirinize bağırdığınız gibi, Peygamber'e yüksek sesle bağırmayın, yoksa siz farkına varmadan işledikleriniz boşa gider."
+    },
+    {
+      "verseNo": 2,
+      "source": "okuyan",
+      "text": "Ey iman edenler! Seslerinizi Peygamber’in sesinin üzerine yükseltmeyin! Birbirinize yüksek sesle konuştuğunuz gibi, ona yüksek sesle konuşmayın; (yoksa) farkına varmadan yaptıklarınız boşa gider."
+    },
+    {
+      "verseNo": 2,
+      "source": "islamoglu",
+      "text": "Siz ey iman edenler! Sesleriniz, Nebi’nin sesinden daha yüksek çıkmasın! Birbirinizle bağıra çağıra konuştuğunuz gibi, onunla da (kavga eder gibi) bağıra çağıra konuşmayın ki, siz farkında olmadan iyilikleriniz boşa gitmesin!"
+    },
+    {
+      "verseNo": 2,
+      "source": "esed",
+      "text": "Siz ey imana ermiş olanlar! Sesinizi Peygamberin sesinden daha fazla yükseltmeyin, birbirinizle yüksek sesle konuştuğunuz gibi o´nunla konuşmayın, yoksa bütün (güzel ve iyi) işleriniz, siz farkında olmadan boşa gitmiş olur"
+    },
+    {
+      "verseNo": 3,
+      "source": "diyanet",
+      "text": "Allah'ın elçisinin huzurunda seslerini kısanlar, Allah'ın, gönüllerini takvâ (Allah'a karşı gelmekten sakınma) konusunda sınadığı kimselerdir. Onlar için bir bağışlanma ve büyük bir mükâfat vardır."
+    },
+    {
+      "verseNo": 3,
+      "source": "okuyan",
+      "text": "Şüphesiz ki Allah’ın Elçisinin yanında seslerini kısanlar, kalplerini Allah’ın takvâ (duyarlılık) ile imtihan ettiği (arındırdığı) kişilerdir. Onlar için bağışlanma ve büyük bir ödül vardır."
+    },
+    {
+      "verseNo": 3,
+      "source": "islamoglu",
+      "text": "Hani şu Allah Rasûlü’nün yanında seslerini kısanlar var ya; işte onlar, Allah’ın gönüllerini sorumluluk sınavından geçirdiği kimselerdir: onlar için sınırsız bir bağış ve büyük bir ödül vardır."
+    },
+    {
+      "verseNo": 3,
+      "source": "esed",
+      "text": "Bakın, Allah´ın Elçisi´nin huzurunda seslerini kısanlar var ya, işte onlar kalpleri, kendisine karşı sorumluluk bilinci ile (doldurularak) Allah tarafından sınananlardır; onlar için bağışlanma ve büyük bir mükafat vardır"
+    },
+    {
+      "verseNo": 4,
+      "source": "diyanet",
+      "text": "(Ey Muhammed!) Odaların arkasından sana bağıranların çoğu aklı ermeyen kimselerdir."
+    },
+    {
+      "verseNo": 4,
+      "source": "okuyan",
+      "text": "Sana odaların arkasından (bağırarak) seslenenlerin çoğu akıl etmezler."
+    },
+    {
+      "verseNo": 4,
+      "source": "islamoglu",
+      "text": "Ne var ki sana hanelerin berisinden seslenenler de var; onların çoğu, akıllarını kullanmıyorlar."
+    },
+    {
+      "verseNo": 4,
+      "source": "esed",
+      "text": "Gerçek şu ki (ey Peygamber,) seni evinin dışından çağıranlar var ya, işte onların çoğu akıllarını kullanmazlar"
+    },
+    {
+      "verseNo": 5,
+      "source": "diyanet",
+      "text": "Onlar, sen yanlarına çıkıncaya kadar sabretselerdi, elbette kendileri için daha iyi olurdu. Allah, çok bağışlayandır, çok merhamet edendir."
+    },
+    {
+      "verseNo": 5,
+      "source": "okuyan",
+      "text": "Onlar sen (yanlarına) çıkıncaya kadar sabretselerdi, elbette kendileri için daha hayırlı olurdu. Allah çok bağışlayandır, çok merhametlidir."
+    },
+    {
+      "verseNo": 5,
+      "source": "islamoglu",
+      "text": "Ama eğer sen kendilerine çıkıp gelinceye kadar sabretselerdi, elbet bu kendileri için daha hayırlı olurdu: ne ki Allah tarifsiz bağışlayandır, eşsiz merhamet kaynağıdır."
+    },
+    {
+      "verseNo": 5,
+      "source": "esed",
+      "text": "Çünkü, sen (kendi isteğinle) onların yanına gelinceye kadar sabred(ip bekle)selerdi, kendi lehlerine olurdu. Ama Allah yine de çok bağışlayıcıdır, bir rahmet kaynağıdır"
+    },
+    {
+      "verseNo": 6,
+      "source": "diyanet",
+      "text": "Ey iman edenler! Size bir fasık bir haber getirirse, bilmeyerek bir topluluğa zarar verip yaptığınıza pişman olmamak için o haberin doğruluğunu araştırın."
+    },
+    {
+      "verseNo": 6,
+      "source": "okuyan",
+      "text": "Ey iman edenler! Yoldan çıkmış biri size bir haber getirirse (onun doğruluğunu) araştırın! (Yoksa) bilmeden bir topluluğa kötülük edersiniz de sonra yaptığınıza pişman olursunuz."
+    },
+    {
+      "verseNo": 6,
+      "source": "islamoglu",
+      "text": "SİZ ey iman edenler! Fâsığın teki size (önemli) bir haberle geldiğinde, durup gerçeği araştırın! Yoksa cehalet sebebiyle bir toplumun başına iş açar, ardından da yaptığınızdan pişmanlık duyarsınız."
+    },
+    {
+      "verseNo": 6,
+      "source": "esed",
+      "text": "Siz ey imana ermiş olanlar! Yoldan çıkmışın biri size (yalan) bir haber getirirse, muhakemenizi kullanın; yoksa istemeden insanları incitir ve sonra yaptığınızdan pişmanlık duyarsınız"
+    },
+    {
+      "verseNo": 7,
+      "source": "diyanet",
+      "text": "Bilin ki, aranızda Allah'ın elçisi bulunmaktadır. Eğer o, birçok işlerde size uysaydı, sıkıntıya düşerdiniz. Fakat Allah, size imanı sevdirmiş ve onu gönüllerinize güzel göstermiş; inkârı, fasıklığı ve (İslam'ın emirlerine) karşı çıkmayı da çirkin göstermiştir. İşte bunlar doğru yolda olanların ta kendileridir."
+    },
+    {
+      "verseNo": 7,
+      "source": "okuyan",
+      "text": "Bilin ki içinizde Allah’ın Elçisi vardır. O, birçok işte size uysaydı elbette sıkıntıya düşerdiniz. Fakat Allah size imanı sevdirmiş ve onu kalplerinize süslemiş; inkârı, yoldan çıkmayı ve isyanı da size çirkin göstermiştir. Asıl doğru yoldakiler işte bunlardır."
+    },
+    {
+      "verseNo": 7,
+      "source": "islamoglu",
+      "text": "Ve aklınızdan çıkarmayın ki aranızda Allah Rasûlü var; eğer o birçok işte size uysaydı, kesinlikle haliniz harap olurdu. Lakin Allah size imanı sevdirdi ve onu yüreklerinizde güzelleştirdi; yine O size hakikati inkârı, fâsıkça davranmayı ve (iyi olana) karşı çıkmayı çirkin gösterdi. İşte onlar doğru tarafa yönelenlerdir"
+    },
+    {
+      "verseNo": 7,
+      "source": "esed",
+      "text": "Ve bilin ki, Allah´ın Elçisi aranızdadır. O, her işinizde ve her zaman sizin temayülünüze uysaydı, (toplum olarak) bundan zarar görürdünüz. Ama, görüldüğü gibi, Allah imanı(nızı) size sevdirdi, onu kalplerinizde güzelleştirdi ve hakikati inkar etmeyi, günah işlemeyi ve (güzel olan şeylere) karşı çıkmayı size çirkin gösterdi. İşte bunlar, doğru yönü izleyenlerdir"
+    },
+    {
+      "verseNo": 8,
+      "source": "diyanet",
+      "text": "Allah, kendi katından bir lütuf ve nimet olarak böyle yaptı. Allah hakkıyla bilendir, hüküm ve hikmet sahibidir"
+    },
+    {
+      "verseNo": 8,
+      "source": "okuyan",
+      "text": "(Bu), Allah’tan bir lütuf ve nimet olarak (böyledir). Allah bilendir, doğru hüküm verendir."
+    },
+    {
+      "verseNo": 8,
+      "source": "islamoglu",
+      "text": "Allah’ın lutfu ve nimeti sayesinde: zaten Allah her şeyi bilir, her hükmünde tam isabet kaydeder."
+    },
+    {
+      "verseNo": 8,
+      "source": "esed",
+      "text": "Allah´ın nimeti ve lütfu sayesinde; ve Allah her şeyi bilendir, hikmet Sahibidir"
+    },
+    {
+      "verseNo": 9,
+      "source": "diyanet",
+      "text": "Eğer inananlardan iki grup birbirleriyle savaşırlarsa aralarını düzeltin. Eğer biri ötekine karşı haddi aşarsa, Allah'ın buyruğuna dönünceye kadar haddi aşan tarafa karşı savaşın. Eğer (Allah'ın emrine) dönerse, artık aralarını adaletle düzeltin ve (onlara) adaletli davranın. Çünkü Allah, âdaletli davrananları sever."
+    },
+    {
+      "verseNo": 9,
+      "source": "okuyan",
+      "text": "Müminlerden iki grup birbirleriyle savaşırlarsa aralarını düzeltin! Biri ötekine saldırırsa, Allah’ın buyruğuna dönünceye kadar saldıran tarafla savaşın! (Savaştan vazgeçip) dönerse artık aralarını adaletle düzeltin ve adil davranın! Şüphesiz ki Allah adil davrananları sever."
+    },
+    {
+      "verseNo": 9,
+      "source": "islamoglu",
+      "text": "Şu halde mü’minlerden iki gurup çarpışırsa, aralarını bulun; fakat bir taraf diğerinin hakkına saldırırsa, siz de o haksız taraf ile Allah’ın emrine dönünceye kadar çarpışın; ama eğer (saldırganlıktan) vazgeçerse, tarafların arasını adâletle ayırın ve (bunun için gerekirse) kendi hakkınızdan feragat edin: çünkü Allah (barış için) hakkından feragat edecek kadar fedakârlık edenleri sever."
+    },
+    {
+      "verseNo": 9,
+      "source": "esed",
+      "text": "O halde, müminler içinden iki grup çatışırsa onlar arasında barışı sağlayın; ama sonra, iki (grup)tan biri diğerine haksız şekilde davranırsa, (davranışı)nı Allah´ın buyruğuna uygun hale getirinceye kadar, haksızlık yapan taraf ile mücadele edin; (yaptıklarından) vazgeçerlerse adil bir şekilde aralarını bulun ve (onlara) eşit davranın çünkü Allah, eşit davrananları sever"
+    },
+    {
+      "verseNo": 10,
+      "source": "diyanet",
+      "text": "Mü'minler ancak kardeştirler. Öyleyse kardeşlerinizin arasını düzeltin. Allah'a karşı gelmekten sakının ki size merhamet edilsin."
+    },
+    {
+      "verseNo": 10,
+      "source": "okuyan",
+      "text": "Müminler sadece kardeştirler. Kardeşlerinizin arasını düzeltin ve Allah’a karşı takvâlı (duyarlı) olun ki size merhamet edilsin."
+    },
+    {
+      "verseNo": 10,
+      "source": "islamoglu",
+      "text": "Mü’minler sadece kardeştirler; öyleyse kardeşlerinizin arasını düzeltin ve Allah’a karşı sorumlu davranın ki, O’nun merhametine mazhar olasınız!"
+    },
+    {
+      "verseNo": 10,
+      "source": "esed",
+      "text": "Bütün müminler kardeştir. O halde, (her ne zaman araları açılırsa) iki kardeşinizin arasını düzeltin ve Allah´a karşı sorumluluğunuzun bilincinde olun ki O´nun rahmetine nail olasınız"
+    },
+    {
+      "verseNo": 11,
+      "source": "diyanet",
+      "text": "Ey iman edenler! Bir topluluk bir diğerini alaya almasın. Belki onlar kendilerinden daha iyidirler. Kadınlar da diğer kadınları alaya almasın. Belki onlar kendilerinden daha iyidirler. Birbirinizi karalamayın, birbirinizi (kötü) lakaplarla çağırmayın. İmandan sonra fasıklık ne kötü bir namdır! Kim de tövbe etmezse, işte onlar zâlimlerin ta kendileridir."
+    },
+    {
+      "verseNo": 11,
+      "source": "okuyan",
+      "text": "Ey iman edenler! Bir topluluk diğer bir toplulukla alay etmesin! Belki onlar (alay edilenler), kendilerinden (alay edenlerden) daha hayırlıdır. Kadınlar da kadınlarla alay etmesin! Belki onlar (alay edilen kadınlar), kendilerinden (alay eden kadınlardan) daha hayırlıdır. Kendi kendinizi ayıplamayın (aşağılamayın); birbirinizi kötü lakaplarla çağırmayın! İmandan sonra yoldan çıkmak (anlamındaki kelime) ne kötü bir isimdir! Kim tevbe etmezse işte onlar, zalimlerin ta kendileridir."
+    },
+    {
+      "verseNo": 11,
+      "source": "islamoglu",
+      "text": "SİZ ey iman edenler! Hiçbir kişi ve zümre bir diğer kişi ve zümreyi hor görerek alaya almasın: belki diğerleri berikilerden daha değerli olabilirler. Yine bir kısım kadınlar da diğerlerini (böyle) görmesinler: ötekiler onlardan daha değerli olabilir. Asla birbirinizi itibardan düşürmek için karalamayın ve (kötü) lakaplar takarak yaralamayın: iman ettikten sonra fâsıklıkla anmak-anılmak ne berbat bir şey! Ve kim (bu tür davranışlardan) pişmanlık duyup vazgeçmezse, işte zalim olanlar onlardır."
+    },
+    {
+      "verseNo": 11,
+      "source": "esed",
+      "text": "Siz ey imana ermiş olanlar! Hiçbir insan (başka) insanları alaya alıp küçümsemesin! Belki o (alay edip küçümsedik)leri kendilerinden daha hayırlı olabilirler ve hiçbir kadın (başka) kadınları (küçümseyip alaya almasın)! Onlar kendilerinden daha hayırlı olabilirler. Ve hiçbiriniz başka birini karalamasın, birbirinizi (yaralayıcı, incitici) lakaplar ile aşağılamayın! (Kişi) iman ettikten sonra ona hiçbir şekilde günah isnad etmeyin ve (bu suçu işleyen, ama sonra) pişmanlık duymayanlar işte gerçek zalimler onlardır"
+    },
+    {
+      "verseNo": 12,
+      "source": "diyanet",
+      "text": "Ey iman edenler! Zannın bir çoğundan sakının. Çünkü zannın bir kısmı günahtır. Birbirinizin kusurlarını ve mahremiyetlerini araştırmayın. Birbirinizin gıybetini yapmayın. Herhangi biriniz ölü kardeşinin etini yemekten hoşlanır mı? İşte bundan tiksindiniz! Allah'a karşı gelmekten sakının. Şüphesiz Allah tövbeyi çok kabul edendir, çok merhamet edendir."
+    },
+    {
+      "verseNo": 12,
+      "source": "okuyan",
+      "text": "Ey iman edenler! Zandan çok kaçının! Şüphesiz ki zannın bir kısmı günahtır. (Birbirinizin) kusurunu araştırmayın! Biriniz diğerini arkasından çekiştirmesin! Biriniz, ölmüş kardeşinin etini yemekten hoşlanır mı? Bundan tiksindiniz (değil mi?). Allah’a karşı takvâlı (duyarlı) olun! Şüphesiz ki Allah tevbeyi çok kabul edendir, çok merhametlidir."
+    },
+    {
+      "verseNo": 12,
+      "source": "islamoglu",
+      "text": "Siz ey iman edenler! (Birbiriniz hakkında kötü) zandan şiddetle kaçının! Unutmayın ki zannın bir kısmı ağır bir vebaldir! Birbirinizin gizli saklısını da asla araştırmayın ve birbirinizin gıybetini etmeyin! İçinizde ölü kardeşinin etini yemekten hoşlanan biri var mı? Bakın, tiksindiniz işte! Sözün özü: Allah’a karşı sorumluluğunuzun bilincine varın! Kuşkusuz Allah tevbeleri kabul edendir, kullarına merhametlidir."
+    },
+    {
+      "verseNo": 12,
+      "source": "esed",
+      "text": "Siz ey imana ermiş olanlar! (Birbiriniz hakkında) yersiz zanda bulunmaktan kaçının; çünkü (bu şekildeki) zannın bir kısmı (da) günahtır; birbirinizin gizli yönlerini araştırmayın ve arkanızdan birbirinizi çekiştirmeye kalkışmayın. Aranızdan, hiç ölmüş kardeşinin etini yemek isteyen kimse çıkar mı? Hayır, siz ondan iğrenirsiniz. Ve Allah´a karşı sorumluluğunuzun bilincinde olun. Şüphesiz Allah, tevbeleri kabul edendir, rahmet kaynağıdır"
+    },
+    {
+      "verseNo": 13,
+      "source": "diyanet",
+      "text": "Ey insanlar! Şüphe yok ki, biz sizi bir erkek ve bir dişiden yarattık ve birbirinizi tanımanız için sizi boylara ve kabilelere ayırdık. Allah katında en değerli olanınız, O'na karşı gelmekten en çok sakınanınızdır. Şüphesiz Allah hakkıyla bilendir, hakkıyla haberdâr olandır."
+    },
+    {
+      "verseNo": 13,
+      "source": "okuyan",
+      "text": "Ey insanlar! Şüphesiz ki biz sizi bir erkekle bir dişi (hücre türün)den yarattık. Birbirinizle tanışmanız için sizi toplumlara ve kabilelere ayırdık. Şüphesiz ki Allah katında en değerli olanınız, en çok takvâlı (duyarlı) olanınızdır. Şüphesiz ki Allah bilendir, haberdardır."
+    },
+    {
+      "verseNo": 13,
+      "source": "islamoglu",
+      "text": "Ey insanlık! Elbet sizi bir erkekle bir dişiden yaratan Biziz; derken sizi kavimler ve kabileler haline getirdik ki tanışabilesiniz. Elbet Allah katında en üstününüz, O’na karşı sorumluluk bilinci en güçlü olanınızdır; şüphe yok ki Allah her şeyi bilir, her şeyden haberdardır."
+    },
+    {
+      "verseNo": 13,
+      "source": "esed",
+      "text": "Ey insanlar! Bakın, Biz sizi bir erkek ve bir kadından yarattık ve sizi kavimler ve kabileler haline getirdik ki birbirinizi tanıyabilesiniz. Şüphesiz, Allah katında en üstün olanınız, O´na karşı derin bir sorumluluk bilincine sahip olanınızdır. Allah her şeyi bilendir, her şeyden haberdar olandır"
+    },
+    {
+      "verseNo": 14,
+      "source": "diyanet",
+      "text": "Bedevîler \"İman ettik\" dediler. De ki: \"İman etmediniz. (Öyle ise, \"iman ettik\" demeyin.) \"Fakat boyun eğdik\" deyin. Henüz iman kalplerinize girmedi. Eğer Allah'a ve Peygamberine itaat ederseniz, yaptıklarınızdan hiçbir şeyi eksiltmez. Allah çok bağışlayandır, çok merhamet edendir.\""
+    },
+    {
+      "verseNo": 14,
+      "source": "okuyan",
+      "text": "Göçebe Araplar “İman ettik!” dediler. De ki: “Siz (henüz) iman etmediniz ama ‘Teslim olduk!’ deyin! (Çünkü) iman henüz kalplerinize yerleşmedi. Allah’a ve Elçisine itaat ederseniz (Allah) işlerinizden hiçbir şeyi eksiltmez.” Şüphesiz ki Allah çok bağışlayandır, çok merhametlidir."
+    },
+    {
+      "verseNo": 14,
+      "source": "islamoglu",
+      "text": "BEDEVİLER “İman ettik” dediler. De ki “iman etmiş değilsiniz, lakin ‘teslim olduk’ diyebilirsiniz, zira iman henüz kalplerinize girmiş değil. Ama eğer Allah ve Rasulü’ne uyarsanız, Allah amellerinizin zerresini eksiltmez: çünkü Allah tarifsiz bir bağış, eşsiz bir merhamet sahibidir.”"
+    },
+    {
+      "verseNo": 14,
+      "source": "esed",
+      "text": "Bedeviler, \"Biz imana erdik\" derler. De ki (onlara, ey Muhammed!): \"Siz (daha) imana ermediniz. ´Biz (zahiren) teslim olduk´ demeniz daha doğrudur; çünkü (gerçek) inanç henüz kalplerinize girmiş değil\". Ama Allah´a ve Elçisi´ne (gerçekten) kulak verirseniz O, hiçbir işinizin boşa gitmesine izin vermez çünkü şüphesiz Allah çok bağışlayıcıdır, bir rahmet kaynağıdır"
+    },
+    {
+      "verseNo": 15,
+      "source": "diyanet",
+      "text": "İman edenler ancak, Allah'a ve Peygamberine inanan, sonra şüpheye düşmeyen, Allah yolunda mallarıyla ve canlarıyla cihad edenlerdir. İşte onlar doğru kimselerin ta kendileridir."
+    },
+    {
+      "verseNo": 15,
+      "source": "okuyan",
+      "text": "Gerçek müminler ancak Allah’a ve Elçisine iman eden, sonrasında şüphe duymayan, Allah yolunda mallarıyla ve canlarıyla cihad edenlerdir (fedakârlık yapanlardır). İşte (inancında) doğru olanlar sadece bunlardır."
+    },
+    {
+      "verseNo": 15,
+      "source": "islamoglu",
+      "text": "Gerçek mü’minler sadece Allah’a ve Rasulü’ne iman edenler, ondan sonra da kuşkunun semtine uğramayanlar ve Allah yolunda mallarıyla, canlarıyla cihad edenlerdir: İşte bunlar sadık olanların ta kendileridir."
+    },
+    {
+      "verseNo": 15,
+      "source": "esed",
+      "text": "(Şunu bil ki, gerçek) müminler, yalnızca, Allah´a ve Elçisi´ne iman edenler ve (bu konuda) bütün şüphelerden uzak duranlardır; ve Allah yolunda bütün malları ve canları ile cihad edenlerdir; işte onlardır sözlerinde duranlar"
+    },
+    {
+      "verseNo": 16,
+      "source": "diyanet",
+      "text": "(Ey Muhammed!) De ki: \"Siz Allah'a dininizi mi öğretiyorsunuz? Oysa Allah, göklerdeki ve yerdeki her şeyi bilir. Allah, her şeyi hakkıyla bilendir.\""
+    },
+    {
+      "verseNo": 16,
+      "source": "okuyan",
+      "text": "De ki: “Allah göklerde ve yerde olanları bilmekteyken siz dininizi Allah’a mı öğretiyorsunuz!” Allah her şeyi bilendir."
+    },
+    {
+      "verseNo": 16,
+      "source": "islamoglu",
+      "text": "De ki: “Allah’a dininizi siz mi öğreteceksiniz? Ama Allah göklerde ve yerde ne varsa hepsini bilir: zira Allah her şeyi ayrıntısıyla bilendir.”"
+    },
+    {
+      "verseNo": 16,
+      "source": "esed",
+      "text": "De ki: \"Siz, Allah´a dininizi(n mahiyetini) mi öğret(mek ist)iyorsunuz? Allah göklerde ve yerde olan her şeyi bilir. Allah her şeyin eksiksiz bilgisine sahiptir"
+    },
+    {
+      "verseNo": 17,
+      "source": "diyanet",
+      "text": "Müslüman olmalarını bir lütufta bulunmuş gibi sana hatırlatıyorlar. De ki: \"Müslüman olmanızı bir lütuf gibi bana hatırlatıp durmayın. Tam tersine eğer doğru kimselerseniz sizi imana erdirmesinden dolayı Allah size lütufta bulunmuş oluyor.\""
+    },
+    {
+      "verseNo": 17,
+      "source": "okuyan",
+      "text": "Onlar, müslüman olmalarını senin başına kakıyorlar. De ki: “Müslümanlığınızı benim başıma kakmayın! Doğruysanız bilin ki size imanı gösterdiği için aslında Allah size iyilikte bulunmaktadır.”"
+    },
+    {
+      "verseNo": 17,
+      "source": "islamoglu",
+      "text": "Onlar teslim oldular diye seni minnet altına almaya kalkıyorlar. De ki: “İslâmınızdan dolayı beni minnet altına alıp bana lutfettiğinizi sanmayın; eğer (hakikate) sadıksanız, sizi doğru yola yönelttiği için asıl Allah size lutufta bulunmuştur."
+    },
+    {
+      "verseNo": 17,
+      "source": "esed",
+      "text": "Birçok insan, (sana) teslim olmak suretiyle (ey Muhammed), sana bir lütufta bulunduklarını zannederler. De ki: \"Teslimiyetinizi bana bir lütuf olarak görmeyin! Hayır, tersine size iman yolunu göstermek suretiyle Allah size lütufta bulunmuştur; eğer sözünüzde samimi iseniz"
+    },
+    {
+      "verseNo": 18,
+      "source": "diyanet",
+      "text": "Şüphesiz Allah, göklerin ve yerin gaybını bilir. Allah yaptıklarınızı hakkıyla görendir."
+    },
+    {
+      "verseNo": 18,
+      "source": "okuyan",
+      "text": "Şüphesiz ki Allah göklerin ve yerin gaybını (bilinemeyenini) bilir. Allah yaptıklarınızı görendir."
+    },
+    {
+      "verseNo": 18,
+      "source": "islamoglu",
+      "text": "Şu kesin ki Allah, göklerin ve yerin sırlarını bilir; dahası Allah yaptığınız her şeyi görür."
+    },
+    {
+      "verseNo": 18,
+      "source": "esed",
+      "text": "Şüphesiz Allah, göklerin ve yerin bütün sırlarını bilir ve bütün yaptıklarınızı görür"
+    },
+    {
+      "verseNo": 1,
+      "verseNoEnd": null,
+      "source": "ai",
+      "text": "Ey iman edenler! Allah ve Resulünün önüne geçmeyin; Allah’tan sakının. Şüphesiz Allah işitendir, bilendir."
+    },
+    {
+      "verseNo": 2,
+      "verseNoEnd": null,
+      "source": "ai",
+      "text": "Ey iman edenler! Sesinizi peygamberin sesinin üzerine çıkarmayın ve ona bazılarınızın birbirine yüksek sesle konuştuğu gibi yüksek sesle hitap etmeyin; yoksa amelleriniz boşa gider de siz farkında olmazsınız."
+    },
+    {
+      "verseNo": 3,
+      "verseNoEnd": null,
+      "source": "ai",
+      "text": "Resûlün yanında seslerini alçaltanlar işte onlar Allah’ın kalplerini takvâ için sınadığı kimselerdir; onlar için bağışlanma ve büyük bir mükâfat vardır."
+    },
+    {
+      "verseNo": 4,
+      "verseNoEnd": null,
+      "source": "ai",
+      "text": "Seni odaların arkasından çağıranların çoğu akıl sahibi değildir."
+    },
+    {
+      "verseNo": 5,
+      "verseNoEnd": null,
+      "source": "ai",
+      "text": "Keşke sabretselerdi de sen onlara çıksaydın; bu onlar için daha hayırlı olurdu. Allah çok bağışlayandır, merhametlidir."
+    },
+    {
+      "verseNo": 6,
+      "verseNoEnd": null,
+      "source": "ai",
+      "text": "Ey iman edenler! Size bir günahkâr bir haber getirirse haberin doğruluğunu araştırın ki cahillik ederek bir kavme isabet/müsibete uğratmayasınız ve sonra yaptığınızdan dolayı pişman olmayasınız."
+    },
+    {
+      "verseNo": 7,
+      "verseNoEnd": null,
+      "source": "ai",
+      "text": "Ve bilin ki içinizde Allah’ın Resûlü vardır. Eğer pek çok hususta ona itaat etseydiniz zorluk çekerdiniz; ancak Allah size imanı sevdirip onu kalplerinizde süsledi ve inkârı, günahı ve isyanı size sevimsiz kıldı. İşte onlar doğruluğa erenlerdir."
+    },
+    {
+      "verseNo": 8,
+      "verseNoEnd": null,
+      "source": "ai",
+      "text": "Bu, Allah’ın bir lütfu ve nimettir. Allah bilendir, hikmet sahibidir."
+    },
+    {
+      "verseNo": 9,
+      "verseNoEnd": null,
+      "source": "ai",
+      "text": "Eğer müminlerden iki grup çatışırsa aralarını düzeltin. Eğer bunlardan biri diğerine zulmederse zulmeden tarafla savaşın ta ki o, Allah’ın hükmüne dönsün. Eğer dönerse aralarını adaletle düzeltin ve adil olun; şüphesiz Allah adalet yapanları sever."
+    },
+    {
+      "verseNo": 10,
+      "verseNoEnd": null,
+      "source": "ai",
+      "text": "Müminler ancak kardeştir; öyleyse kardeşlerinizin arasını düzeltin ve Allah’tan sakının ki merhamet göresiniz."
+    },
+    {
+      "verseNo": 11,
+      "verseNoEnd": null,
+      "source": "ai",
+      "text": "Ey iman edenler! Bir kavim başka bir kavmi alaya etmesin; belki onlar onlardan daha hayırlı olabilirler. Kadınlar da diğer kadınları alaya etmesin; belki onlar onlardan daha hayırlı olabilirler. Kendinizi aşağılamayın ve birbirinizi lakaplarla çağırmayın. İman geldikten sonra günahkârlığın adı ne kötüdür. Kim tevbe etmezse işte onlar zalimlerdir."
+    },
+    {
+      "verseNo": 12,
+      "verseNoEnd": null,
+      "source": "ai",
+      "text": "Ey iman edenler! Çokça zan etmekten sakının; çünkü bazı zanlar günahtır. Casusluk etmeyin ve birbirinizin gıybetini yapmayın. Acaba biriniz kardeşinin etini ölü olarak yemesinden hoşlanır mı? Siz ondan tiksinirsiniz. Allah'tan sakının; şüphesiz Allah tövbeleri kabul edendir, merhametlidir."
+    },
+    {
+      "verseNo": 13,
+      "verseNoEnd": null,
+      "source": "ai",
+      "text": "Ey insanlar! Şüphesiz sizi bir erkek ve bir dişiden yarattık ve sizi kavimler ve kabileler kıldık ki birbirinizi tanıyasınız. Şüphesiz Allah katında en şerefli olanınız en çok sakınanınızdır. Şüphesiz Allah bilendir, her şeyden haberdardır."
+    },
+    {
+      "verseNo": 14,
+      "verseNoEnd": null,
+      "source": "ai",
+      "text": "Çölde yaşayanlar \"iman ettik\" dediler. De ki: \"İman etmediniz; fakat 'teslim olduk' deyin; henüz iman kalplerinize girmemiştir. Eğer Allah'a ve Resulüne itaat ederseniz, yaptıklarınızdan size hiçbir şey eksiltmez. Şüphesiz Allah çok bağışlayandır, merhametlidir.\""
+    },
+    {
+      "verseNo": 15,
+      "verseNoEnd": null,
+      "source": "ai",
+      "text": "İman edenler ancak, Allah'a ve Resulüne inanıp sonra şüpheye düşmeyen ve mallarıyla ve canlarıyla Allah yolunda mücadele edenlerdir. İşte onlar doğru olanlardır."
+    },
+    {
+      "verseNo": 16,
+      "verseNoEnd": null,
+      "source": "ai",
+      "text": "De ki: \"Dinizi Allah'a mı öğretiyorsunuz? Oysa Allah göklerde ve yerde olanları bilir.\" Allah her şeyi bilendir."
+    },
+    {
+      "verseNo": 17,
+      "verseNoEnd": null,
+      "source": "ai",
+      "text": "Onlar sana teslim olduklarıyla övünüyorlar. De ki: \"İslamınızı bana lütuf saymayın; bilakis Allah size imanı gösterdi, eğer doğru söylüyorsanız.\""
+    },
+    {
+      "verseNo": 18,
+      "verseNoEnd": null,
+      "source": "ai",
+      "text": "Şüphesiz Allah göklerin ve yerin gaybını bilir. Allah yaptıklarınızı görendir."
+    }
+  ],
+  "aiParagraph": "Bir haberi duyar duymaz inanmak, birine kızgınken hemen saldırmak, karşındakini küçük görerek rahatlamak — bunların hepsi tanıdık, hepsi insani; ama bu sure tam da o anlarda durup bakmayı anlatıyor. Metnin özünde bir uyarı var: acele etmek, sesi yükseltmek, kapının önünde bağırarak içeridekini çağırmak — bunlar güçlü görünmenin yolları değil, olgunlaşmamışlığın işaretleri. Güvenilirliği sorgulanır biri sana bir haber getirdiğinde, onu olduğu gibi kabul edip harekete geçersen ve yanılırsan, pişmanlık sana kalır. Sure ayrıca insanın kendi içinde kurduğu hiyerarşilere de bakıyor: kabilenden, dilinden, teninin renginden gelen bir üstünlük duygusu temelsizdir, çünkü farklılıklar birbirini tanımak için var, sıralamak için değil. İnsanı en çok küçülten şeylerden biri de onu olmadığı yerde yargılamak, arkasından konuşmak — metin bunu ölmüş kardeşinin etini yemek kadar ağır bir imgeyle tarif ediyor. En çarpıcı kırılma ise şu: diliyle \"inandım\" diyenlerle gerçekten inananlar arasındaki mesafe. İkrar söze kolaydır; içten geçmesi başka bir şeydir. Sure hiç kimseye dışarıdan bakamaz — ne kendi inancını başkasına minnet olarak sunan, ne de başkasını kendi ölçüsüyle tartan.",
+  "audienceContext": "Bu sure, Hicrî 9. yılda, İslam'ın Arabistan yarımadasında fiilen güç kazandığı bir dönemde indi. Muhataplar artık küçük bir takipçi grubu değil; eski kabile düzeninden gelen, yeni bir çerçeveye dahil olmaya çalışan, henüz dönüşümünü tamamlamamış bir topluluktu. Bunların arasında yıllardır birlikte olan Medineli topluluk da vardı, Mekke fethinin ardından İslam'a dahil olmuş yeni gelenler de. Aralarına bedevî kabileler de katılıyordu; kimi inançla, kimi çevre baskısıyla, kimi hesapla.\n\nBu insanların derinden içselleştirdiği bir değer hiyerarşisi vardı: ses yüksekliği güç göstergesiydi, kabilesi adına öne çıkmak onurdu, soyunu saymak kimlik kanıtıydı. Cahiliye kültüründe yüksek sesle bağırmak zaafiyet değil, iddia sahipliğiydi. Kabile şairi düşmanı küçük düşürmek için, kabile reisi rakibini sindirmek için, sıradan bir adam kendi varlığını hissettirmek için sesini yükseltirdi. Temîmoğulları heyetinin öğle uykusundaki birinin kapısı önünde 'Muhammed, dışarı çık!' diye bağırması, bizim gözümüzde kabalık; onların kendi kültürleri içinde normal bir talep tarzıydı. Beklemek, sabretmek, başkasının vaktine riayet etmek o dünyada güçsüzlük işareti sayılabilirdi. Suredeki 'Onların çoğu aklını kullanmaz' ifadesi bu yüzden o denli sert okunur: sorun anlamamak değil, bildikleri değer ölçüsünün kendisiydi.\n\nSurenin muhatabı yalnızca bu bedevîler değildi. 'İnananlar' diye hitap edilen, uzun süredir bu toplulukta olan kişiler de sureye dahildir. Onlar arasında da statü kavgaları vardı: kim daha önce iman etti, kimin kabilesi daha güçlü, kimin sesi toplantıda daha çok duyuldu. Surenin ilk bölümü, bir kararı öne geçmek için tartışan deneyimli topluluk üyelerine de, kapı önünde bağıran bedevîye de aynı anda sesleniyor. Direnç de tam bu noktadan geliyordu: yeni düzene katılmak kabul edilebilirdi ama eski statü dilinin terk edilmesi, kabilevî kimliğin üstünlük iddiasından vazgeçilmesi çok daha ağır bir bedel anlamına geliyordu.\n\n13. ayette muhatap değişir. 'İnananlar' yerine 'insanlar' denir. Bu tek kelimelik genişleme rastlantı değildir. Sure, iç ahlak kurallarından evrensel bir ilkeye geçer: soy üstünlüğü iddiası yalnızca o topluma özgü bir sorun değil, her insan grubunun yeniden üretebileceği bir eğilimdir. Medine'de yaşanmakta olan şey — kimin daha asil olduğu, kimin iman kardeşliğinde daha üst sırada durduğu tartışması — burada adı konmadan tanımlanır ve zemin kayar.",
+  "eventMessageMap": [
+    {
+      "situation": "Temîmoğulları heyeti, dinlenme vakti olduğu söylenmesine rağmen kapı önünde yüksek sesle bağırarak çıkılmasını istedi.",
+      "response": "Metin, bekleyip sabretmenin onlar için daha iyi olacağını ve bu tür davranışın aklı kullanmamak olduğunu bildirdi.",
+      "shift": "Sesi yükseltmeyi güç göstergesi sayan alışkanlık, başkasının vaktine saygı duymak olarak yeniden tanımlandı."
+    },
+    {
+      "situation": "Bir haberci, Benî Mustalik kabilesinin zekat vermediğini ve silahlı çıktığını bildirdi; bu haberin doğruluğu araştırılmadan harekete geçilmek üzere idi.",
+      "response": "Metin, yoldan çıkmış biri haber getirdiğinde araştırılması gerektiğini; aksi hâlde farkında olmadan bir topluluğa zarar verilebileceğini söyledi.",
+      "shift": "Kabile dayanışmasının refleksle harekete geçirdiği 'bizden biri söyledi, yetişin' mekanizması yerini bireysel sorumluluk ve doğrulamaya bıraktı."
+    },
+    {
+      "situation": "İnananlar arasında iki grup silahlı çatışmaya girdi; kabile refleksiyle taraf tutmak ve kazananı desteklemek beklentisi oluştu.",
+      "response": "Metin, taraflardan biri haksız saldırıyorsa ona karşı durulması gerektiğini, barış sağlandığında ise adaletle hareket edilmesini söyledi.",
+      "shift": "Kabilevî bağlılıkla kayıtsız şartsız bir tarafa geçme alışkanlığı kırıldı; ölçüt kimin kabilesi güçlüyse o değil, kimin haksız saldırdığı oldu."
+    },
+    {
+      "situation": "Bazı bedevîler 'iman ettik' diyerek bu beyanı bir prestij ve minnet aracına dönüştürdü, kendilerini özel bir konuma yerleştirmeye çalıştı.",
+      "response": "Metin, henüz iman kalpte yerleşmemişken 'İslam'a girdik' demenin daha doğru olduğunu; minnet iddiasının da yanlış yönde kurulduğunu belirtti.",
+      "shift": "Din bağlılığını bir sosyal statü iddiasına dönüştürme girişimi, iç tutarlılık sorusu olarak yeniden çerçevelendi."
+    },
+    {
+      "situation": "Topluluk içinde soya, kabileve ve asalete dayalı üstünlük iddiaları sürmekteydi; kim kimin torunuydu, hangi kabile daha onurluydu sorusu aktif bir gerilim kaynağıydı.",
+      "response": "Metin, bütün insanların tek bir erkek ve dişiden yaratıldığını, kabilelerin birbirini tanıması için var olduğunu ve üstünlüğün ancak sorumluluk bilincinde (takvâ) aranabileceğini söyledi.",
+      "shift": "Soy ağacı tartışması anlamsızlaştı; hiyerarşinin temeli doğuma değil, görünür olmayan iç tutuma taşındı."
+    }
+  ],
+  "apophaticReading": "'Hucurât bir adab-ı muaşeret suresidir' okuması metnin kendi mantığıyla çelişir. Çünkü aynı sure, görgü kurallarını değil kabile dayanışmasının doğrulamasız tetiklediği şiddeti, soy üstünlüğü iddiasını ve prestij aracına dönüştürülmüş bir din beyanını ele alır. Bir topluluğun birbirine nasıl davranacağını düzenleyen bir görgü rehberi bu kadar sert bir dil kurmaz: 'ölmüş kardeşinin etini yemek' imgesi sosyal incelik öğretisinin dili değildir; güçlü bir iğrenç bulma tepkisidir. Surenin hedefi kibarlık değil, bir erdem saydığı şey içinde saklı zulmü adlandırmaktır.\n\n'Sure yalnızca Müslüman topluluğunun iç disiplinine dairdir' okuması da metnin kendi mantığıyla çelişir. Çünkü 13. ayette hitap 'inananlar'dan 'insanlar'a genişler ve evrensel bir yaratılış olgusuna — tek bir çiftten türeme — dayandırılır. Soyun üstünlük ölçüsü olamayacağını savunan bu ayet, belirli bir topluluğun iç düzenlemesini değil, her insan grubunun yeniden üretebileceği bir iddiayı çürütür. Sure kendi içindeki bu kaymayı bilinçli yapar; önce dar çemberi, sonra bütün çemberi çizer.\n\nGeriye kalan yönelim şu tarafa işaret eder: sure boyunca asıl sorun, yanlış bilgi değil yanlış güven biçimidir. Haberi doğrulamadan hareket etmek, kardeşini arkasından çekiştirmek, başkasına lakap takmak, soyuyla övünmek — bunların hiçbiri cahiliye kültüründe suç sayılmıyordu; aksine sahiplik, sadakat ve kimlik işaretleriydi. Sure bu davranışları yanlış ilan etmekle kalmaz, altında yatan güven mantığını da sorgular: haberciye güven, kabile adına konuşana güven, soy iddiasına güven. Elde kalan alan, güvenin nereden meşrulaştırılacağı sorusudur.\n\nBugüne kadar az bakılmış açı şudur: sure, 'fâsık' (yoldan çıkmış, güvenilmez) kimsenin haberini doğrulamayı emrederken bir aktör tipini tanımlar. Ama aynı metinde kendisi de 'iman ettim' diyip henüz kalbine yerleşmemiş birinin varlığından söz edilir. Bu iki figür — güvenilmez haberci ve henüz yerleşmemiş inanç — aynı surenin içinde yan yana durur. Verilen editoryal içerikte yer alan 'cahiliye bir hâldir, her çağda yeniden ortaya çıkabilir' çerçevesiyle okunduğunda, bu yan yanalık bir şeyi işaret eder: güvenilirliğin sınanması sadece dışarıdan gelen habere değil, içeriden yükselen iddialara da uygulanır. Bu açı, surenin sıklıkla 'başkalarını kontrol etme' üzerine okunan bölümlerini kısmen tersine çevirir.\n\nSusma: *Surenin tanımladığı bütün bu hâller — haberi doğrulamadan hareket etmek, arkadan konuşmak, lakap takmak, sesini yükseltmek — kimin bu hâllerde olduğunu fark ettiği an buradan görünmez.*",
+  "aiCommentary": "Bu dört bölüm, bir yapay zekâ tarafından üretilmiştir. Kullanılan kaynaklar şunlardır: suredeki Arapça metin (doğrudan anlam katmanı için), doğrulanmış editoryal içerik (TDV İslâm Ansiklopedisi 'Câhiliye' maddesi, Buhârî ve Müsned rivayetleri), nüzul bağlamına ilişkin siyer kaynakları (Temîmoğulları heyeti, Velîd b. Ukbe olayı) ve cahiliye kültürüne dair akademik literatür (Izutsu'nun kavram çözümlemesi, Amr b. Külsûm muallakası). Denetim bu kaynaklarla sınırlı tutulmuş; doğrulanmayan sosyolojik iddialar metne dahil edilmemiştir.\n\nApofatik okuma yöntemi tercih edilmiştir: önce yaygın okumaları alıp metnin kendi iç mantığıyla çelişip çelişmediğine bakılmış, çelişenler elenmiştir. Bu yöntemin nedeni şudur: yaratanın maksadına dair her söz, insanın tahminidir. Olumlu bir maksad iddiası — 'sure şunu söylüyor, şunu amaçlıyor' — çok hızla kesinlik diline kayar. Olumsuzlama yöntemi ise yalnızca metnin kendi tutarsız kıldığı yorumları dışarıda bırakır ve geriye daha dar ama daha dürüst bir alan bırakır. 'Bugüne kadar az bakılmış açı' ve 'Susma' alt bölümleri de aynı çerçevede kalır: iddia değil, fark edilmemiş bir gerilimi işaret etmek.\n\nBu metin bir tefsir, meal ya da fetva değildir. Amel hükmü içermez; 'şu davranış helaldir/haramdır' türünden bir çıkarım yapılmamıştır. Tarihî bağlama, dil çözümlemesine veya rivayetlere ilişkin yeni bilgi geldiğinde bu okuma değişebilir. Okuyucunun bu metni bir başlangıç noktası olarak kullanması, asıl kaynaklara doğrudan başvurması önerilir."
 }

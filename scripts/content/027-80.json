@@ -1,1348 +1,1373 @@
 {
- "stationNo": 27,
- "surahNo": 80,
- "nuzulOrderOkuyan": 27,
- "name": "Abese",
- "nameArabic": "عبس",
- "nameMeaning": "Yüzünü ekşitti",
- "verseCount": 42,
- "periodDiyanet": "Mekke",
- "periodOkuyan": "Mekke",
- "revelationTiming": "Mekke dönemi",
- "stationTitle": "Kur'an, kendi peygamberini bir âmâya ilgisiz kaldığı için eleştirir.",
- "introduction": "Abese suresi, adını birinci ayetteki \"abese\" (yüzünü ekşitti) fiilinden alır. Kırk iki ayetlik sure Mekke döneminde inmiştir.\n\nSurenin ilk on ayeti, bir eleştiri metnidir ve muhatabı Hz. Muhammed'dir. Devamı ise vahyin değeri, insanın yaratılışı, doğadaki nimetler ve hesap günü tasvirleriyle sürer. Kapanışta, o gün herkesin kendi derdine düşeceği anlatılır.",
- "occasionOfRevelation": "Nüzul kaynaklarının naklettiğine göre Hz. Muhammed, Mekke'nin ileri gelenlerinden bir grupla konuşurken görme engelli bir sahâbî — rivayetlerde Abdullah b. Ümmü Mektûm olarak adlandırılır — gelip soru sormak istedi. Anlatıldığına göre Hz. Muhammed, önemli gördüğü görüşmenin kesilmesinden hoşlanmayarak ilgisiz kaldı.\n\nSure bu davranışı eleştirir. Eleştirinin dikkat çekici yanı, üçüncü şahıs kipiyle başlamasıdır: \"Yüzünü ekşitti ve döndü.\" Bu, eleştirinin sertliğini yumuşatan bir üslup olarak yorumlanır.\n\nMetnin mantığı nettir: bir insanın öğrenmeye gelişi, ileri gelenlerle kurulacak stratejik bir ilişkiden önemlidir. Kendini yeterli görene koşulup arınmak isteyene sırt çevirmek yanlıştır (80:5-10). Bu, İslam kaynaklarının kendi kutsal metninde peygamberi eleştiren bir bölüm barındırması açısından da ayrıca dikkat çekicidir.",
- "occasionSources": "Diyanet İşleri Başkanlığı Kur'an Yolu Tefsiri, Abese suresi girişi; Vâhidî, Esbâbü'n-Nüzûl; TDV İslâm Ansiklopedisi, \"Abese Sûresi\" ve \"Abdullah b. Ümmü Mektûm\" maddeleri. Kişinin kimliğine dair isimlendirme rivayete dayanır.",
- "contemporaryMeaning": "Bu sure, sosyal hesap yapmanın ahlaki bedelini gösterir. Kimin dinlenmeye değer olduğuna karar verirken kullanılan ölçüt — statü, fayda, ağırlık — burada açıkça reddedilir.\n\nSure iki tipi karşı karşıya koyar: \"kendini yeterli gören\" ve \"arınmak isteyen\". Zaman ve ilgi, ikinciye ayrılmalıdır. Bugünün diliyle: toplantıyı kimin için kurduğun, kime cevap verdiğin, kimin mesajını yanıtsız bıraktığın bir ahlaki tercih.\n\nKapanıştaki tasvir bu dersi tamamlar: o gün herkes kendi derdiyle meşgul olacaktır (80:34-37). Bugün hesaba kattığın statü ilişkileri o gün geçerli olmayacaktır.",
- "keyTerms": [
-  {
-   "term": "abese",
-   "arabic": "عَبَسَ",
-   "verseRef": "80:1",
-   "meaning": "Yüzünü ekşitti, asıldı. Sureye adını veren fiil; hoşnutsuzluğun yüze yansıması."
-  },
-  {
-   "term": "yezzekkâ",
-   "arabic": "يَتَزَكَّىٰ",
-   "verseRef": "80:3",
-   "meaning": "Arınmak, temizlenmek. Gelen kişinin niyeti; ilgiyi hak eden şey."
-  },
-  {
-   "term": "istağnâ",
-   "arabic": "اسْتَغْنَىٰ",
-   "verseRef": "80:5",
-   "meaning": "Kendini yeterli gördü. İlgi gösterilen tarafın hâli; Alak ve Leyl surelerinde de aynı kavram geçer."
-  },
-  {
-   "term": "tesaddâ",
-   "arabic": "تَصَدَّىٰ",
-   "verseRef": "80:6",
-   "meaning": "Yöneldi, ilgilendi, karşısına geçti. Yanlış yöne ayrılan ilgi."
-  }
- ],
- "themes": [
-  {
-   "label": "Kimin dinlenmeye değer olduğu",
-   "body": "Sure, ilgiyi statüye göre dağıtmayı reddeder. Öğrenmeye gelen kişi, stratejik değeri olan kişiden önce gelir."
-  },
-  {
-   "label": "Metnin kendi peygamberini eleştirmesi",
-   "body": "Eleştirinin muhatabı Hz. Muhammed'dir. Bu, metnin ahlaki ölçüsünü kimseye muafiyet tanımayacak biçimde kurduğunu gösterir."
-  },
-  {
-   "label": "İki tip: yeterli gören ve arınmak isteyen",
-   "body": "Zaman ve ilgi ikinciye ayrılmalıdır. Ölçüt, karşı tarafın konumu değil niyetidir."
-  },
-  {
-   "label": "Statü ilişkilerinin geçiciliği",
-   "body": "Kapanışta o gün herkesin kendi derdine düşeceği anlatılır. Bugün hesaplanan ilişki ağları orada işlemez."
-  }
- ],
- "questions": [
-  "Kime zaman ayıracağıma karar verirken ne kadar fayda hesabı yapıyorum?",
-  "Son zamanlarda benden bir şey öğrenmek isteyen birini, meşgul olduğum için savdım mı?",
-  "Konumu yüksek biriyle konuşurken tavrım, konumu düşük biriyle konuşurken değişiyor mu?"
- ],
- "scholarlyNotes": [
-  {
-   "kind": "ihtilaf",
-   "label": "\"Yüzünü ekşitti ve döndü\" — kim?",
-   "body": "Bu fiillerin faili konusunda tefsir geleneğinde iki görüş vardır. Müfessirlerin çoğunluğu (Taberî, İbn Kesîr, Kurtubî) ve temel kaynaklar, fiillerin Hz. Muhammed'e ait olduğunu ve surenin onu uyarmak üzere indiğini kabul eder. Bazı âlimler ve çağdaş araştırmacılar ise bu davranışın Peygamber'in ahlâkıyla bağdaşmadığını ve Kur'an'da \"abese\" kelimesinin inkârcılar için kullanıldığını belirterek yüzünü ekşitenin meclisteki bir müşrik (örneğin Velîd b. Muğîre) olduğunu savunur. İkinci görüş daha çok dirâyet (akıl yürütme) temelli olup rivayetle desteklenmez."
-  },
-  {
-   "kind": "nuans",
-   "label": "Nüzul sebebi rivayetinin kaynak durumu",
-   "body": "Olayın İbn Ümmü Mektûm ile ilgili olduğu ve Hz. Peygamber'in uyarıldığı yönündeki rivayetler Mâlik b. Enes ve Tirmizî gibi muhaddisler tarafından nakledilmiş, tefsir geleneğinde genel kabul görmüştür. Ancak Buhârî bu surenin nüzul sebebi hakkında herhangi bir rivayet aktarmamıştır."
-  },
-  {
-   "kind": "nuans",
-   "label": "İbn Ümmü Mektûm kimdir?",
-   "body": "Tam adı Abdullāh (bazı kaynaklarda Amr) b. Kays b. Zâide el-Kureşî el-Âmirî'dir; Hz. Hatice'nin dayısının oğludur. Bilâl-i Habeşî ile birlikte Hz. Peygamber'in müezzinliğini yapmış, Peygamber sefere çıktığında Medine'de kalanlara namaz kıldırmak üzere defalarca vekil bırakılmıştır. Kaynaklar, Hz. Peygamber'in bu olaydan sonra onu her gördüğünde \"Kendisinden dolayı Rabbimin beni azarladığı şahsa merhaba!\" diyerek iltifat ettiğini nakleder."
-  }
- ],
- "verses": [
-  {
-   "verseNo": 1,
-   "textArabic": "بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ عَبَسَ وَتَوَلَّىٰٓ"
-  },
-  {
-   "verseNo": 2,
-   "textArabic": "أَن جَآءَهُ ٱلْأَعْمَىٰ"
-  },
-  {
-   "verseNo": 3,
-   "textArabic": "وَمَا يُدْرِيكَ لَعَلَّهُۥ يَزَّكَّىٰٓ"
-  },
-  {
-   "verseNo": 4,
-   "textArabic": "أَوْ يَذَّكَّرُ فَتَنفَعَهُ ٱلذِّكْرَىٰٓ"
-  },
-  {
-   "verseNo": 5,
-   "textArabic": "أَمَّا مَنِ ٱسْتَغْنَىٰ"
-  },
-  {
-   "verseNo": 6,
-   "textArabic": "فَأَنتَ لَهُۥ تَصَدَّىٰ"
-  },
-  {
-   "verseNo": 7,
-   "textArabic": "وَمَا عَلَيْكَ أَلَّا يَزَّكَّىٰ"
-  },
-  {
-   "verseNo": 8,
-   "textArabic": "وَأَمَّا مَن جَآءَكَ يَسْعَىٰ"
-  },
-  {
-   "verseNo": 9,
-   "textArabic": "وَهُوَ يَخْشَىٰ"
-  },
-  {
-   "verseNo": 10,
-   "textArabic": "فَأَنتَ عَنْهُ تَلَهَّىٰ"
-  },
-  {
-   "verseNo": 11,
-   "textArabic": "كَلَّآ إِنَّهَا تَذْكِرَةٌۭ"
-  },
-  {
-   "verseNo": 12,
-   "textArabic": "فَمَن شَآءَ ذَكَرَهُۥ"
-  },
-  {
-   "verseNo": 13,
-   "textArabic": "فِى صُحُفٍۢ مُّكَرَّمَةٍۢ"
-  },
-  {
-   "verseNo": 14,
-   "textArabic": "مَّرْفُوعَةٍۢ مُّطَهَّرَةٍۭ"
-  },
-  {
-   "verseNo": 15,
-   "textArabic": "بِأَيْدِى سَفَرَةٍۢ"
-  },
-  {
-   "verseNo": 16,
-   "textArabic": "كِرَامٍۭ بَرَرَةٍۢ"
-  },
-  {
-   "verseNo": 17,
-   "textArabic": "قُتِلَ ٱلْإِنسَٰنُ مَآ أَكْفَرَهُۥ"
-  },
-  {
-   "verseNo": 18,
-   "textArabic": "مِنْ أَىِّ شَىْءٍ خَلَقَهُۥ"
-  },
-  {
-   "verseNo": 19,
-   "textArabic": "مِن نُّطْفَةٍ خَلَقَهُۥ فَقَدَّرَهُۥ"
-  },
-  {
-   "verseNo": 20,
-   "textArabic": "ثُمَّ ٱلسَّبِيلَ يَسَّرَهُۥ"
-  },
-  {
-   "verseNo": 21,
-   "textArabic": "ثُمَّ أَمَاتَهُۥ فَأَقْبَرَهُۥ"
-  },
-  {
-   "verseNo": 22,
-   "textArabic": "ثُمَّ إِذَا شَآءَ أَنشَرَهُۥ"
-  },
-  {
-   "verseNo": 23,
-   "textArabic": "كَلَّا لَمَّا يَقْضِ مَآ أَمَرَهُۥ"
-  },
-  {
-   "verseNo": 24,
-   "textArabic": "فَلْيَنظُرِ ٱلْإِنسَٰنُ إِلَىٰ طَعَامِهِۦٓ"
-  },
-  {
-   "verseNo": 25,
-   "textArabic": "أَنَّا صَبَبْنَا ٱلْمَآءَ صَبًّۭا"
-  },
-  {
-   "verseNo": 26,
-   "textArabic": "ثُمَّ شَقَقْنَا ٱلْأَرْضَ شَقًّۭا"
-  },
-  {
-   "verseNo": 27,
-   "textArabic": "فَأَنۢبَتْنَا فِيهَا حَبًّۭا"
-  },
-  {
-   "verseNo": 28,
-   "textArabic": "وَعِنَبًۭا وَقَضْبًۭا"
-  },
-  {
-   "verseNo": 29,
-   "textArabic": "وَزَيْتُونًۭا وَنَخْلًۭا"
-  },
-  {
-   "verseNo": 30,
-   "textArabic": "وَحَدَآئِقَ غُلْبًۭا"
-  },
-  {
-   "verseNo": 31,
-   "textArabic": "وَفَٰكِهَةًۭ وَأَبًّۭا"
-  },
-  {
-   "verseNo": 32,
-   "textArabic": "مَّتَٰعًۭا لَّكُمْ وَلِأَنْعَٰمِكُمْ"
-  },
-  {
-   "verseNo": 33,
-   "textArabic": "فَإِذَا جَآءَتِ ٱلصَّآخَّةُ"
-  },
-  {
-   "verseNo": 34,
-   "textArabic": "يَوْمَ يَفِرُّ ٱلْمَرْءُ مِنْ أَخِيهِ"
-  },
-  {
-   "verseNo": 35,
-   "textArabic": "وَأُمِّهِۦ وَأَبِيهِ"
-  },
-  {
-   "verseNo": 36,
-   "textArabic": "وَصَٰحِبَتِهِۦ وَبَنِيهِ"
-  },
-  {
-   "verseNo": 37,
-   "textArabic": "لِكُلِّ ٱمْرِئٍۢ مِّنْهُمْ يَوْمَئِذٍۢ شَأْنٌۭ يُغْنِيهِ"
-  },
-  {
-   "verseNo": 38,
-   "textArabic": "وُجُوهٌۭ يَوْمَئِذٍۢ مُّسْفِرَةٌۭ"
-  },
-  {
-   "verseNo": 39,
-   "textArabic": "ضَاحِكَةٌۭ مُّسْتَبْشِرَةٌۭ"
-  },
-  {
-   "verseNo": 40,
-   "textArabic": "وَوُجُوهٌۭ يَوْمَئِذٍ عَلَيْهَا غَبَرَةٌۭ"
-  },
-  {
-   "verseNo": 41,
-   "textArabic": "تَرْهَقُهَا قَتَرَةٌ"
-  },
-  {
-   "verseNo": 42,
-   "textArabic": "أُو۟لَٰٓئِكَ هُمُ ٱلْكَفَرَةُ ٱلْفَجَرَةُ"
-  }
- ],
- "translations": [
-  {
-   "verseNo": 1,
-   "source": "diyanet",
-   "text": "Kendisine o âmâ geldi diye Peygamber yüzünü ekşitti ve öteye döndü."
-  },
-  {
-   "verseNo": 1,
-   "source": "islamoglu",
-   "text": "O (KİBİRLİ KİŞİ) surat astı ve sırtını dönüp uzaklaştı,"
-  },
-  {
-   "verseNo": 1,
-   "source": "esed",
-   "text": "O, suratını astı ve uzaklaştı"
-  },
-  {
-   "verseNo": 1,
-   "source": "okuyan",
-   "text": "1,2. Görme engelli biri ona geldi diye yüzünü ekşitti ve arkasını döndü."
-  },
-  {
-   "verseNo": 2,
-   "source": "diyanet",
-   "text": "Kendisine o âmâ geldi diye Peygamber yüzünü ekşitti ve öteye döndü."
-  },
-  {
-   "verseNo": 2,
-   "source": "islamoglu",
-   "text": "Elçi’ye âmâ geldi diye…"
-  },
-  {
-   "verseNo": 2,
-   "source": "esed",
-   "text": "çünkü kör bir adam o´na yaklaşmıştı"
-  },
-  {
-   "verseNo": 2,
-   "source": "okuyan",
-   "text": "1,2. Görme engelli biri ona geldi diye yüzünü ekşitti ve arkasını döndü."
-  },
-  {
-   "verseNo": 3,
-   "source": "diyanet",
-   "text": "(Ey Muhammed!) Ne bilirsin, belki de o arınacak,"
-  },
-  {
-   "verseNo": 3,
-   "source": "islamoglu",
-   "text": "“Ve (sana gelince Ey Nebi!) Sen nereden bileceksin o (müşrikin) arınacağına dair bir ihtimal bulunduğunu;"
-  },
-  {
-   "verseNo": 3,
-   "source": "esed",
-   "text": "Nereden bilebilirsin (ey Muhammed,) belki de o arınacaktı"
-  },
-  {
-   "verseNo": 3,
-   "source": "okuyan",
-   "text": "3,4. O (azgın Mekkeli)nin arınacağını veya (gerçeği) hatırlayıp bunun ona yarar sağlayacağını sana bildirecek olan ne olabilir ki!"
-  },
-  {
-   "verseNo": 4,
-   "source": "diyanet",
-   "text": "Yahut öğüt alacak da bu öğüt kendisine fayda verecek."
-  },
-  {
-   "verseNo": 4,
-   "source": "islamoglu",
-   "text": "veya alacağı dersin kendisine yarar sağlayacağını?"
-  },
-  {
-   "verseNo": 4,
-   "source": "esed",
-   "text": "yahut (hakikat) hatırlatılacak ve bu hatırlatma kendisine fayda verecekti"
-  },
-  {
-   "verseNo": 4,
-   "source": "okuyan",
-   "text": "3,4. O (azgın Mekkeli)nin arınacağını veya (gerçeği) hatırlayıp bunun ona yarar sağlayacağını sana bildirecek olan ne olabilir ki!"
-  },
-  {
-   "verseNo": 5,
-   "source": "diyanet",
-   "text": "Kendini muhtaç hissetmeyene gelince;"
-  },
-  {
-   "verseNo": 5,
-   "source": "islamoglu",
-   "text": "Fakat, kendi kendine yettiğini sanan kimseye gelince:"
-  },
-  {
-   "verseNo": 5,
-   "source": "esed",
-   "text": "Ama kendini her şeye yeterli görene gelince"
-  },
-  {
-   "verseNo": 5,
-   "source": "okuyan",
-   "text": "5,6. Kendini zengin (ihtiyaçsız) gören bu kişiye gelince, sen ona yöneliyorsun."
-  },
-  {
-   "verseNo": 6,
-   "source": "diyanet",
-   "text": "Sen, ona yöneliyorsun."
-  },
-  {
-   "verseNo": 6,
-   "source": "islamoglu",
-   "text": "Sen bütün ilgini ona yönelttin;"
-  },
-  {
-   "verseNo": 6,
-   "source": "esed",
-   "text": "sen bütün ilgiyi ona gösterdin"
-  },
-  {
-   "verseNo": 6,
-   "source": "okuyan",
-   "text": "5,6. Kendini zengin (ihtiyaçsız) gören bu kişiye gelince, sen ona yöneliyorsun."
-  },
-  {
-   "verseNo": 7,
-   "source": "diyanet",
-   "text": "(İstemiyorsa) onun arınmamasından sana ne!"
-  },
-  {
-   "verseNo": 7,
-   "source": "islamoglu",
-   "text": "oysa onun arınmamasının sorumlusu sen değilsin;"
-  },
-  {
-   "verseNo": 7,
-   "source": "esed",
-   "text": "halbuki onun arınmaktan geri kalmasının sorumlusu sen değilsin"
-  },
-  {
-   "verseNo": 7,
-   "source": "okuyan",
-   "text": "Oysa onun temizlenip arınmamasından sen sorumlu değilsin."
-  },
-  {
-   "verseNo": 8,
-   "source": "diyanet",
-   "text": "Allah'a karşı derin bir saygıyla korku içinde koşarak sana geleni ise bırakıp, ona aldırmıyorsun."
-  },
-  {
-   "verseNo": 8,
-   "source": "islamoglu",
-   "text": "fakat sana büyük bir iştiyakla gelen var ya:"
-  },
-  {
-   "verseNo": 8,
-   "source": "esed",
-   "text": "ama sana büyük bir istekle geleni"
-  },
-  {
-   "verseNo": 8,
-   "source": "okuyan",
-   "text": "8,9,10. Fakat (Allah’a) saygı ile koşarak sana gelenle ilgilenmiyorsun."
-  },
-  {
-   "verseNo": 9,
-   "source": "diyanet",
-   "text": "Allah'a karşı derin bir saygıyla korku içinde koşarak sana geleni ise bırakıp, ona aldırmıyorsun."
-  },
-  {
-   "verseNo": 9,
-   "source": "islamoglu",
-   "text": "-ki o Allah’a saygıda kusur etmez-"
-  },
-  {
-   "verseNo": 9,
-   "source": "esed",
-   "text": "ve (Allah) korkusu ile (yaklaşanı)"
-  },
-  {
-   "verseNo": 9,
-   "source": "okuyan",
-   "text": "8,9,10. Fakat (Allah’a) saygı ile koşarak sana gelenle ilgilenmiyorsun."
-  },
-  {
-   "verseNo": 10,
-   "source": "diyanet",
-   "text": "Allah'a karşı derin bir saygıyla korku içinde koşarak sana geleni ise bırakıp, ona aldırmıyorsun."
-  },
-  {
-   "verseNo": 10,
-   "source": "islamoglu",
-   "text": "işte sen onu ihmal ediyorsun."
-  },
-  {
-   "verseNo": 10,
-   "source": "esed",
-   "text": "sen görmezden geldin"
-  },
-  {
-   "verseNo": 10,
-   "source": "okuyan",
-   "text": "8,9,10. Fakat (Allah’a) saygı ile koşarak sana gelenle ilgilenmiyorsun."
-  },
-  {
-   "verseNo": 11,
-   "source": "diyanet",
-   "text": "Hayır, böyle yapma! Çünkü bu (Kur'an) bir öğüttür."
-  },
-  {
-   "verseNo": 11,
-   "source": "islamoglu",
-   "text": "ELBET bu hitap bir öğüt ve uyarıdan ibarettir:"
-  },
-  {
-   "verseNo": 11,
-   "source": "esed",
-   "text": "Elbette, bu (mesaj)lar yalnızca birer hatırlatma ve öğütten ibarettir"
-  },
-  {
-   "verseNo": 11,
-   "source": "okuyan",
-   "text": "Hayır! Şüphesiz ki bunlar, (gerçeğin) hatırlatılmasıdır."
-  },
-  {
-   "verseNo": 12,
-   "source": "diyanet",
-   "text": "Dileyen ondan öğüt alır."
-  },
-  {
-   "verseNo": 12,
-   "source": "islamoglu",
-   "text": "isteyen herkes ondan öğüt alabilir,"
-  },
-  {
-   "verseNo": 12,
-   "source": "esed",
-   "text": "kim istekliyse O´nu hatırlayıp öğüt alabilir"
-  },
-  {
-   "verseNo": 12,
-   "source": "okuyan",
-   "text": "Dileyen onu (Kur’an’ı) hatırlar."
-  },
-  {
-   "verseNo": 13,
-   "source": "diyanet",
-   "text": "O, şerefli ve sâdık yazıcı meleklerin elindeki yüksek, tertemiz ve çok değerli sahifelerdedir."
-  },
-  {
-   "verseNo": 13,
-   "source": "islamoglu",
-   "text": "kutsal ve seçkin kayıtlar altında korunmuştur;"
-  },
-  {
-   "verseNo": 13,
-   "source": "esed",
-   "text": "(O´nun) kutsal ve soylu vahiyleri (ışığında)"
-  },
-  {
-   "verseNo": 13,
-   "source": "okuyan",
-   "text": "13,14,15,16. (Kur’an) kıymetli ve güvenilir elçilerin ellerinde, yüceltilmiş, arındırılmış, kutsal, değerli sahifelerdedir."
-  },
-  {
-   "verseNo": 14,
-   "source": "diyanet",
-   "text": "O, şerefli ve sâdık yazıcı meleklerin elindeki yüksek, tertemiz ve çok değerli sahifelerdedir."
-  },
-  {
-   "verseNo": 14,
-   "source": "islamoglu",
-   "text": "yüce ve şaibesiz"
-  },
-  {
-   "verseNo": 14,
-   "source": "esed",
-   "text": "yüce ve arı duru"
-  },
-  {
-   "verseNo": 14,
-   "source": "okuyan",
-   "text": "13,14,15,16. (Kur’an) kıymetli ve güvenilir elçilerin ellerinde, yüceltilmiş, arındırılmış, kutsal, değerli sahifelerdedir."
-  },
-  {
-   "verseNo": 15,
-   "source": "diyanet",
-   "text": "O, şerefli ve sâdık yazıcı meleklerin elindeki yüksek, tertemiz ve çok değerli sahifelerdedir."
-  },
-  {
-   "verseNo": 15,
-   "source": "islamoglu",
-   "text": "elçilerin elleriyle (taşınan);"
-  },
-  {
-   "verseNo": 15,
-   "source": "esed",
-   "text": "elçilerin elleriyle (yayılıp duyurulan)"
-  },
-  {
-   "verseNo": 15,
-   "source": "okuyan",
-   "text": "13,14,15,16. (Kur’an) kıymetli ve güvenilir elçilerin ellerinde, yüceltilmiş, arındırılmış, kutsal, değerli sahifelerdedir."
-  },
-  {
-   "verseNo": 16,
-   "source": "diyanet",
-   "text": "O, şerefli ve sâdık yazıcı meleklerin elindeki yüksek, tertemiz ve çok değerli sahifelerdedir."
-  },
-  {
-   "verseNo": 16,
-   "source": "islamoglu",
-   "text": "türünün en iyisi ve hata yapmayan (elçilerin)."
-  },
-  {
-   "verseNo": 16,
-   "source": "esed",
-   "text": "seçkin ve erdem sahibi (elçilerin)"
-  },
-  {
-   "verseNo": 16,
-   "source": "okuyan",
-   "text": "13,14,15,16. (Kur’an) kıymetli ve güvenilir elçilerin ellerinde, yüceltilmiş, arındırılmış, kutsal, değerli sahifelerdedir."
-  },
-  {
-   "verseNo": 17,
-   "source": "diyanet",
-   "text": "Kahrolası (inkarcı) insan! Ne nankördür o!"
-  },
-  {
-   "verseNo": 17,
-   "source": "islamoglu",
-   "text": "Şu kahrolası (kâfir) insan, nankörlükte ne kadar da sınır tanımazdır?"
-  },
-  {
-   "verseNo": 17,
-   "source": "esed",
-   "text": "(Ama çoğu zaman) insan kendini mahveder; hakikati ne kadar inatla inkar eder o"
-  },
-  {
-   "verseNo": 17,
-   "source": "okuyan",
-   "text": "Kahrolası o insan ne kadar da nankördür!"
-  },
-  {
-   "verseNo": 18,
-   "source": "diyanet",
-   "text": "Allah onu hangi şeyden yarattı?"
-  },
-  {
-   "verseNo": 18,
-   "source": "islamoglu",
-   "text": "O, insanı neden yarattı?"
-  },
-  {
-   "verseNo": 18,
-   "source": "esed",
-   "text": "(İnsan hiç düşünür mü) hangi özden yaratır (Allah) onu"
-  },
-  {
-   "verseNo": 18,
-   "source": "okuyan",
-   "text": "(Allah) onu hangi şeyden yarattı (bir düşünse ya)?"
-  },
-  {
-   "verseNo": 19,
-   "source": "diyanet",
-   "text": "Az bir sudan (meniden). Onu yarattı ve ona ölçülü bir şekil verdi."
-  },
-  {
-   "verseNo": 19,
-   "source": "islamoglu",
-   "text": "(Elbette) basit bir hayat tohumundan. Önce yarattı, ardından ona takdir yeteneği bahşetti;"
-  },
-  {
-   "verseNo": 19,
-   "source": "esed",
-   "text": "Bir sperm damlasından yaratır ve sonra onun tabiatını oluşturur"
-  },
-  {
-   "verseNo": 19,
-   "source": "okuyan",
-   "text": "Bir [nutfe]den (zigottan) yaratıp ona şekil verir."
-  },
-  {
-   "verseNo": 20,
-   "source": "diyanet",
-   "text": "Sonra ona yolu kolaylaştırdı."
-  },
-  {
-   "verseNo": 20,
-   "source": "islamoglu",
-   "text": "sonra ona yolu kolaylaştırdı;"
-  },
-  {
-   "verseNo": 20,
-   "source": "esed",
-   "text": "sonra hayatı onun için kolaylaştırır"
-  },
-  {
-   "verseNo": 20,
-   "source": "okuyan",
-   "text": "Sonra ona yolu kolaylaştırır."
-  },
-  {
-   "verseNo": 21,
-   "source": "diyanet",
-   "text": "Sonra onu öldürdü ve kabre koydu."
-  },
-  {
-   "verseNo": 21,
-   "source": "islamoglu",
-   "text": "en sonunda onun için ölümü takdir etti ve kabre koydurdu;"
-  },
-  {
-   "verseNo": 21,
-   "source": "esed",
-   "text": "ve sonunda onu öldürür ve kabre koyar"
-  },
-  {
-   "verseNo": 21,
-   "source": "okuyan",
-   "text": "Daha sonra onu öldürüp kabre koydurur."
-  },
-  {
-   "verseNo": 22,
-   "source": "diyanet",
-   "text": "Sonra, dilediği vakit onu diriltir."
-  },
-  {
-   "verseNo": 22,
-   "source": "islamoglu",
-   "text": "nihayet istediğinde onu tekrar diriltecektir."
-  },
-  {
-   "verseNo": 22,
-   "source": "esed",
-   "text": "ve sonra, dilediğinde onu tekrar diriltir"
-  },
-  {
-   "verseNo": 22,
-   "source": "okuyan",
-   "text": "En sonunda dilediği zaman onu yeniden diriltir."
-  },
-  {
-   "verseNo": 23,
-   "source": "diyanet",
-   "text": "Hayır hayır o, Allah'ın kendisine emrettiğini yerine getirmedi. (İman etmedi.)"
-  },
-  {
-   "verseNo": 23,
-   "source": "islamoglu",
-   "text": "Evet, (hiçbir insan) O’nun emirlerini asla kusursuz olarak yerine getirememiştir."
-  },
-  {
-   "verseNo": 23,
-   "source": "esed",
-   "text": "Hayır, (insan) Allah´ın kendisine buyurduklarını henüz yerine getirmiş değildir"
-  },
-  {
-   "verseNo": 23,
-   "source": "okuyan",
-   "text": "Gerçek şu ki (insan, Allah’ın) ona emrettiğini yerine getirmedi."
-  },
-  {
-   "verseNo": 24,
-   "source": "diyanet",
-   "text": "Herşeyden önce insan, yediği yemeğine bir baksın!"
-  },
-  {
-   "verseNo": 24,
-   "source": "islamoglu",
-   "text": "İnsanoğlu yediklerine bir baksın:"
-  },
-  {
-   "verseNo": 24,
-   "source": "esed",
-   "text": "Öyleyse insan, yiyeceklerin(in kaynağın)a bir baksın"
-  },
-  {
-   "verseNo": 24,
-   "source": "okuyan",
-   "text": "Bu insan, yiyeceğine bir baksın!"
-  },
-  {
-   "verseNo": 25,
-   "source": "diyanet",
-   "text": "Gerçekten biz, yağmuru bol bol yağdırdık."
-  },
-  {
-   "verseNo": 25,
-   "source": "islamoglu",
-   "text": "Elbet suyu tarifsiz bir cömertlikle Biz indirmekteyiz;"
-  },
-  {
-   "verseNo": 25,
-   "source": "esed",
-   "text": "(nasıl) suyu bolca indirmekteyiz"
-  },
-  {
-   "verseNo": 25,
-   "source": "okuyan",
-   "text": "Suyu bolca indirdik."
-  },
-  {
-   "verseNo": 26,
-   "source": "diyanet",
-   "text": "Sonra toprağı, iyiden iyiye yardık!"
-  },
-  {
-   "verseNo": 26,
-   "source": "islamoglu",
-   "text": "sonra toprağı tarifsiz bir incelikle yarmaktayız;"
-  },
-  {
-   "verseNo": 26,
-   "source": "esed",
-   "text": "ve sonra toprağı (daha da büyüterek) parça parça yarmaktayız"
-  },
-  {
-   "verseNo": 26,
-   "source": "okuyan",
-   "text": "Toprağı yardıkça yardık."
-  },
-  {
-   "verseNo": 27,
-   "source": "diyanet",
-   "text": "Böylece sizin ve hayvanlarınızın yararlanması için orada taneler, üzümler, yoncalar, zeytinler, hurmalıklar, sık ağaçlı bahçeler, meyveler ve otlaklar ortaya çıkardık."
-  },
-  {
-   "verseNo": 27,
-   "source": "islamoglu",
-   "text": "derken orada tohumu yetiştirmekteyiz…"
-  },
-  {
-   "verseNo": 27,
-   "source": "esed",
-   "text": "bu sayede ondan tahıllar yetiştirmekteyiz"
-  },
-  {
-   "verseNo": 27,
-   "source": "okuyan",
-   "text": "Orada (toprakta) taneler yetiştirdik."
-  },
-  {
-   "verseNo": 28,
-   "source": "diyanet",
-   "text": "Böylece sizin ve hayvanlarınızın yararlanması için orada taneler, üzümler, yoncalar, zeytinler, hurmalıklar, sık ağaçlı bahçeler, meyveler ve otlaklar ortaya çıkardık."
-  },
-  {
-   "verseNo": 28,
-   "source": "islamoglu",
-   "text": "Mesela üzüm bağları, sebze bahçeleri,"
-  },
-  {
-   "verseNo": 28,
-   "source": "esed",
-   "text": "ve üzüm bağları ve yenebilir otlar"
-  },
-  {
-   "verseNo": 28,
-   "source": "okuyan",
-   "text": "Üzüm ve sebze,"
-  },
-  {
-   "verseNo": 29,
-   "source": "diyanet",
-   "text": "Böylece sizin ve hayvanlarınızın yararlanması için orada taneler, üzümler, yoncalar, zeytinler, hurmalıklar, sık ağaçlı bahçeler, meyveler ve otlaklar ortaya çıkardık."
-  },
-  {
-   "verseNo": 29,
-   "source": "islamoglu",
-   "text": "zeytinlik ve hurmalıklar,"
-  },
-  {
-   "verseNo": 29,
-   "source": "esed",
-   "text": "zeytin ağaçları ve hurmalıklar"
-  },
-  {
-   "verseNo": 29,
-   "source": "okuyan",
-   "text": "Zeytin ve hurma,"
-  },
-  {
-   "verseNo": 30,
-   "source": "diyanet",
-   "text": "Böylece sizin ve hayvanlarınızın yararlanması için orada taneler, üzümler, yoncalar, zeytinler, hurmalıklar, sık ağaçlı bahçeler, meyveler ve otlaklar ortaya çıkardık."
-  },
-  {
-   "verseNo": 30,
-   "source": "islamoglu",
-   "text": "balta girmemiş sulak ormanlar,"
-  },
-  {
-   "verseNo": 30,
-   "source": "esed",
-   "text": "ve ağaçlarla dolu bahçeler"
-  },
-  {
-   "verseNo": 30,
-   "source": "okuyan",
-   "text": "Gür (ağaçlı) bahçe,"
-  },
-  {
-   "verseNo": 31,
-   "source": "diyanet",
-   "text": "Böylece sizin ve hayvanlarınızın yararlanması için orada taneler, üzümler, yoncalar, zeytinler, hurmalıklar, sık ağaçlı bahçeler, meyveler ve otlaklar ortaya çıkardık."
-  },
-  {
-   "verseNo": 31,
-   "source": "islamoglu",
-   "text": "meyveli ve meyvesiz bitkiler;"
-  },
-  {
-   "verseNo": 31,
-   "source": "esed",
-   "text": "meyveler ve otlar"
-  },
-  {
-   "verseNo": 31,
-   "source": "okuyan",
-   "text": "Meyve ve çayır,"
-  },
-  {
-   "verseNo": 32,
-   "source": "diyanet",
-   "text": "Böylece sizin ve hayvanlarınızın yararlanması için orada taneler, üzümler, yoncalar, zeytinler, hurmalıklar, sık ağaçlı bahçeler, meyveler ve otlaklar ortaya çıkardık."
-  },
-  {
-   "verseNo": 32,
-   "source": "islamoglu",
-   "text": "sizin ve hayvanlarınızın (beslenmesi) için…"
-  },
-  {
-   "verseNo": 32,
-   "source": "esed",
-   "text": "sizin için ve hayvanlarınızın beslenmesi için"
-  },
-  {
-   "verseNo": 32,
-   "source": "okuyan",
-   "text": "Sizin ve hayvanlarınızın yararlanması için (böyle yaptık)."
-  },
-  {
-   "verseNo": 33,
-   "source": "diyanet",
-   "text": "Kişinin kardeşinden, annesinden, babasından, eşinden ve çocuklarından kaçacağı gün kulakları sağır edercesine şiddetli ses geldiği vakit, işte o gün onlardan herkesin kendini meşgul edecek bir işi vardır."
-  },
-  {
-   "verseNo": 33,
-   "source": "islamoglu",
-   "text": "VE NİHAYET kulakları sağır eden o (mahşer) çığlığı koptuğunda;"
-  },
-  {
-   "verseNo": 33,
-   "source": "esed",
-   "text": "Ve böylece, (yeniden dirilmenin) o kulakları sağır eden çağrısı duyulduğunda"
-  },
-  {
-   "verseNo": 33,
-   "source": "okuyan",
-   "text": "Kulakları sağır eden o ses geldiği zaman,"
-  },
-  {
-   "verseNo": 34,
-   "source": "diyanet",
-   "text": "Kişinin kardeşinden, annesinden, babasından, eşinden ve çocuklarından kaçacağı gün kulakları sağır edercesine şiddetli ses geldiği vakit, işte o gün onlardan herkesin kendini meşgul edecek bir işi vardır."
-  },
-  {
-   "verseNo": 34,
-   "source": "islamoglu",
-   "text": "o gün kişi kardeşinden kaçacak;"
-  },
-  {
-   "verseNo": 34,
-   "source": "esed",
-   "text": "herkesin kardeşinden kaç(mak iste)diği Gün"
-  },
-  {
-   "verseNo": 34,
-   "source": "okuyan",
-   "text": "34,35,36. O gün kişi kardeşinden, annesinden, babasından, hanımından (eşinden) ve çocuğundan kaçar."
-  },
-  {
-   "verseNo": 35,
-   "source": "diyanet",
-   "text": "Kişinin kardeşinden, annesinden, babasından, eşinden ve çocuklarından kaçacağı gün kulakları sağır edercesine şiddetli ses geldiği vakit, işte o gün onlardan herkesin kendini meşgul edecek bir işi vardır."
-  },
-  {
-   "verseNo": 35,
-   "source": "islamoglu",
-   "text": "annesinden ve babasından;"
-  },
-  {
-   "verseNo": 35,
-   "source": "esed",
-   "text": "annesinden ve babasından"
-  },
-  {
-   "verseNo": 35,
-   "source": "okuyan",
-   "text": "34,35,36. O gün kişi kardeşinden, annesinden, babasından, hanımından (eşinden) ve çocuğundan kaçar."
-  },
-  {
-   "verseNo": 36,
-   "source": "diyanet",
-   "text": "Kişinin kardeşinden, annesinden, babasından, eşinden ve çocuklarından kaçacağı gün kulakları sağır edercesine şiddetli ses geldiği vakit, işte o gün onlardan herkesin kendini meşgul edecek bir işi vardır."
-  },
-  {
-   "verseNo": 36,
-   "source": "islamoglu",
-   "text": "hanımından ve çocuklarından…"
-  },
-  {
-   "verseNo": 36,
-   "source": "esed",
-   "text": "eşinden ve çocuklarından"
-  },
-  {
-   "verseNo": 36,
-   "source": "okuyan",
-   "text": "34,35,36. O gün kişi kardeşinden, annesinden, babasından, hanımından (eşinden) ve çocuğundan kaçar."
-  },
-  {
-   "verseNo": 37,
-   "source": "diyanet",
-   "text": "Kişinin kardeşinden, annesinden, babasından, eşinden ve çocuklarından kaçacağı gün kulakları sağır edercesine şiddetli ses geldiği vakit, işte o gün onlardan herkesin kendini meşgul edecek bir işi vardır."
-  },
-  {
-   "verseNo": 37,
-   "source": "islamoglu",
-   "text": "O gün herkesin birbirinden kaçmak için yeterli meşguliyyeti olacak."
-  },
-  {
-   "verseNo": 37,
-   "source": "esed",
-   "text": "o Gün her birinin durumu kendisi için yeterli bir endişe kaynağı olacak"
-  },
-  {
-   "verseNo": 37,
-   "source": "okuyan",
-   "text": "(Çünkü) o gün, her kişinin kendisine yetecek bir işi olacaktır."
-  },
-  {
-   "verseNo": 38,
-   "source": "diyanet",
-   "text": "O gün birtakım yüzler vardır ki pırıl pırıl parlarlar,"
-  },
-  {
-   "verseNo": 38,
-   "source": "islamoglu",
-   "text": "Bazı yüzler vardır: o gün ışıl ışıl, ağardıkça ağaracak;"
-  },
-  {
-   "verseNo": 38,
-   "source": "esed",
-   "text": "Bazı yüzler o Gün mutlulukla parıldayacak"
-  },
-  {
-   "verseNo": 38,
-   "source": "okuyan",
-   "text": "O gün bazı yüzler aydınlıktır."
-  },
-  {
-   "verseNo": 39,
-   "source": "diyanet",
-   "text": "Gülerler, sevinirler."
-  },
-  {
-   "verseNo": 39,
-   "source": "islamoglu",
-   "text": "şen-şakrak…"
-  },
-  {
-   "verseNo": 39,
-   "source": "esed",
-   "text": "güleç ve müjdelere sevinen"
-  },
-  {
-   "verseNo": 39,
-   "source": "okuyan",
-   "text": "(Onlar) güler, müjdeyle sevinir."
-  },
-  {
-   "verseNo": 40,
-   "source": "diyanet",
-   "text": "O gün nice yüzler de vardır ki, toz toprak içindedirler."
-  },
-  {
-   "verseNo": 40,
-   "source": "islamoglu",
-   "text": "Bazı yüzler de vardır: o gün bütünüyle toz-toprak;"
-  },
-  {
-   "verseNo": 40,
-   "source": "esed",
-   "text": "Bazı yüzler de o Gün toz toprakla kapanacak"
-  },
-  {
-   "verseNo": 40,
-   "source": "okuyan",
-   "text": "O gün bazı yüzlerde de toz (hüzün) vardır."
-  },
-  {
-   "verseNo": 41,
-   "source": "diyanet",
-   "text": "Onları bir siyahlık bürür."
-  },
-  {
-   "verseNo": 41,
-   "source": "islamoglu",
-   "text": "karardıkça kararacak…"
-  },
-  {
-   "verseNo": 41,
-   "source": "esed",
-   "text": "her yanı kuşatan bir karanlıkla"
-  },
-  {
-   "verseNo": 41,
-   "source": "okuyan",
-   "text": "(Onları âdeta) karanlık kaplamıştır."
-  },
-  {
-   "verseNo": 42,
-   "source": "diyanet",
-   "text": "İşte onlar, kâfirlerdir, günaha dalanlardır."
-  },
-  {
-   "verseNo": 42,
-   "source": "islamoglu",
-   "text": "İşte bunlar, inkârın dibini boylayan ve yoldan sapan sorumsuz kimseler olacak."
-  },
-  {
-   "verseNo": 42,
-   "source": "esed",
-   "text": "işte bunlar, hakikati inkar eden ve yoldan sapan kimselerdir"
-  },
-  {
-   "verseNo": 42,
-   "source": "okuyan",
-   "text": "İşte onlar -evet onlar- kâfirlerdir, (doğru yoldan) sapanlardır."
-  },
-  {
-   "verseNo": 1,
-   "verseNoEnd": null,
-   "source": "ai",
-   "text": "Kaşlarını çattı ve yüzünü çevirdi."
-  },
-  {
-   "verseNo": 2,
-   "verseNoEnd": null,
-   "source": "ai",
-   "text": "Kendisine kör biri geldi."
-  },
-  {
-   "verseNo": 3,
-   "verseNoEnd": null,
-   "source": "ai",
-   "text": "Sen ne bilirsin, belki o arınır."
-  },
-  {
-   "verseNo": 4,
-   "verseNoEnd": null,
-   "source": "ai",
-   "text": "Ya da hatırlayıp öğüt alır; öğüt ona fayda verir."
-  },
-  {
-   "verseNo": 5,
-   "verseNoEnd": null,
-   "source": "ai",
-   "text": "Kendini zengin gören kimseye gelince."
-  },
-  {
-   "verseNo": 6,
-   "verseNoEnd": null,
-   "source": "ai",
-   "text": "Sen ona ilgi gösteriyorsun."
-  },
-  {
-   "verseNo": 7,
-   "verseNoEnd": null,
-   "source": "ai",
-   "text": "Onun arınmaması senin sorumluluğun değildir."
-  },
-  {
-   "verseNo": 8,
-   "verseNoEnd": null,
-   "source": "ai",
-   "text": "Ama sana koşarak gelen kimseye gelince."
-  },
-  {
-   "verseNo": 9,
-   "verseNoEnd": null,
-   "source": "ai",
-   "text": "O da korkar."
-  },
-  {
-   "verseNo": 10,
-   "verseNoEnd": null,
-   "source": "ai",
-   "text": "Sen ise ondan uzaklaşıyorsun."
-  },
-  {
-   "verseNo": 11,
-   "verseNoEnd": null,
-   "source": "ai",
-   "text": "Hayır; o bir hatırlatmadır."
-  },
-  {
-   "verseNo": 12,
-   "verseNoEnd": null,
-   "source": "ai",
-   "text": "Kim isterse onu hatırlar."
-  },
-  {
-   "verseNo": 13,
-   "verseNoEnd": null,
-   "source": "ai",
-   "text": "Şerefli sayfalarda."
-  },
-  {
-   "verseNo": 14,
-   "verseNoEnd": null,
-   "source": "ai",
-   "text": "Yükseltilmiş, temizlenmiş."
-  },
-  {
-   "verseNo": 15,
-   "verseNoEnd": null,
-   "source": "ai",
-   "text": "Yazıcıların elleriyle."
-  },
-  {
-   "verseNo": 16,
-   "verseNoEnd": null,
-   "source": "ai",
-   "text": "Şerefli, iyi kimseler."
-  },
-  {
-   "verseNo": 17,
-   "verseNoEnd": null,
-   "source": "ai",
-   "text": "Vay insana! Ne kadar nankördü."
-  },
-  {
-   "verseNo": 18,
-   "verseNoEnd": null,
-   "source": "ai",
-   "text": "Onu hangi şeyden yarattı?"
-  },
-  {
-   "verseNo": 19,
-   "verseNoEnd": null,
-   "source": "ai",
-   "text": "Onu bir damladan yarattı, sonra onu ölçtü."
-  },
-  {
-   "verseNo": 20,
-   "verseNoEnd": null,
-   "source": "ai",
-   "text": "Sonra yolunu ona kolaylaştırdı."
-  },
-  {
-   "verseNo": 21,
-   "verseNoEnd": null,
-   "source": "ai",
-   "text": "Sonra onu öldürdü ve gömdü."
-  },
-  {
-   "verseNo": 22,
-   "verseNoEnd": null,
-   "source": "ai",
-   "text": "Sonra dilediğinde onu diriltecektir."
-  },
-  {
-   "verseNo": 23,
-   "verseNoEnd": null,
-   "source": "ai",
-   "text": "Hayır, kendisine emredilen şeyi henüz yerine getirmedi."
-  },
-  {
-   "verseNo": 24,
-   "verseNoEnd": null,
-   "source": "ai",
-   "text": "İnsan yiyeceğine baksın."
-  },
-  {
-   "verseNo": 25,
-   "verseNoEnd": null,
-   "source": "ai",
-   "text": "Biz suyu bol bol döktük."
-  },
-  {
-   "verseNo": 26,
-   "verseNoEnd": null,
-   "source": "ai",
-   "text": "Sonra yeri yarıp açtık."
-  },
-  {
-   "verseNo": 27,
-   "verseNoEnd": null,
-   "source": "ai",
-   "text": "Sonra orada tahıl yetiştirdik."
-  },
-  {
-   "verseNo": 28,
-   "verseNoEnd": null,
-   "source": "ai",
-   "text": "Ve üzüm ve ot."
-  },
-  {
-   "verseNo": 29,
-   "verseNoEnd": null,
-   "source": "ai",
-   "text": "Ve zeytin ve hurma ağaçları."
-  },
-  {
-   "verseNo": 30,
-   "verseNoEnd": null,
-   "source": "ai",
-   "text": "Ve sık dikilmiş bahçeler."
-  },
-  {
-   "verseNo": 31,
-   "verseNoEnd": null,
-   "source": "ai",
-   "text": "Meyve ve hurma."
-  },
-  {
-   "verseNo": 32,
-   "verseNoEnd": null,
-   "source": "ai",
-   "text": "Sizin ve hayvanlarınızın geçimi."
-  },
-  {
-   "verseNo": 33,
-   "verseNoEnd": null,
-   "source": "ai",
-   "text": "Sonra o gürültü geldiğinde."
-  },
-  {
-   "verseNo": 34,
-   "verseNoEnd": null,
-   "source": "ai",
-   "text": "İnsan kardeşinden kaçar olduğu gün."
-  },
-  {
-   "verseNo": 35,
-   "verseNoEnd": null,
-   "source": "ai",
-   "text": "Ve annesinden ve babasından."
-  },
-  {
-   "verseNo": 36,
-   "verseNoEnd": null,
-   "source": "ai",
-   "text": "Ve eşi ve çocuklarından."
-  },
-  {
-   "verseNo": 37,
-   "verseNoEnd": null,
-   "source": "ai",
-   "text": "O gün onlardan her kişinin kendisine yetecek bir meşgalesi vardır."
-  },
-  {
-   "verseNo": 38,
-   "verseNoEnd": null,
-   "source": "ai",
-   "text": "O gün yüzler parlak olacaktır."
-  },
-  {
-   "verseNo": 39,
-   "verseNoEnd": null,
-   "source": "ai",
-   "text": "Gülen, sevinçli."
-  },
-  {
-   "verseNo": 40,
-   "verseNoEnd": null,
-   "source": "ai",
-   "text": "Ve o gün yüzlerde toz olacaktır."
-  },
-  {
-   "verseNo": 41,
-   "verseNoEnd": null,
-   "source": "ai",
-   "text": "Onu kara bir duman kaplayacak."
-  },
-  {
-   "verseNo": 42,
-   "verseNoEnd": null,
-   "source": "ai",
-   "text": "İşte onlar inkârcılar, günahkârlardır."
-  }
- ],
- "aiParagraph": "Birinin sana ihtiyacı olduğunu fark etmemek, çünkü gözün daha parlak, daha güçlü, daha işe yarar birini arıyor — bu, insanın en eski ve en tanıdık körlüklerinden biri. Sure tam buradan açılıyor: kapıya gelen görmez adamı değil, uzaktaki nüfuzlu adamı görme refleksini, yani bir insanın değerini taşıdığı ağırlıkla biçme alışkanlığını sorguluyor. Ama asıl darbesi bundan sonra geliyor — insan nereden geldiğini unuttuğunda ne kadar hızlı büyükleniyor, ne kadar rahat nankörlük ediyor. Metin bunu neredeyse hayretle soruyor: küçücük bir damladan yaratılan, yolu açılmış, ömrü verilmiş, toprağa konulmuş biri nasıl bu kadar ölçüsüzleşiyor? Sonra bakışı tabağındaki ekmeğe çekiyor — yağmurun toprağı yarması, tahılın, zeytinin, hurmanın çıkması; bunların hiçbiri senin becerinle değil. Ve sure en sert yerinde şunu soruyor: kendisine verilen her şeye rağmen insan üstüne düşeni yaptı mı? Kapanışta ise iki yüz kalıyor karşında — biri aydınlık, diğeri tozlu ve karanlık. Sure hangisinin seninkine benzediğini söylemiyor; sadece aynayı tutuyor."
+  "stationNo": 27,
+  "surahNo": 80,
+  "nuzulOrderOkuyan": 27,
+  "name": "Abese",
+  "nameArabic": "عبس",
+  "nameMeaning": "Yüzünü ekşitti",
+  "verseCount": 42,
+  "periodDiyanet": "Mekke",
+  "periodOkuyan": "Mekke",
+  "revelationTiming": "Mekke dönemi",
+  "stationTitle": "Kur'an, kendi peygamberini bir âmâya ilgisiz kaldığı için eleştirir.",
+  "introduction": "Abese suresi, adını birinci ayetteki \"abese\" (yüzünü ekşitti) fiilinden alır. Kırk iki ayetlik sure Mekke döneminde inmiştir.\n\nSurenin ilk on ayeti, bir eleştiri metnidir ve muhatabı Hz. Muhammed'dir. Devamı ise vahyin değeri, insanın yaratılışı, doğadaki nimetler ve hesap günü tasvirleriyle sürer. Kapanışta, o gün herkesin kendi derdine düşeceği anlatılır.",
+  "occasionOfRevelation": "Nüzul kaynaklarının naklettiğine göre Hz. Muhammed, Mekke'nin ileri gelenlerinden bir grupla konuşurken görme engelli bir sahâbî — rivayetlerde Abdullah b. Ümmü Mektûm olarak adlandırılır — gelip soru sormak istedi. Anlatıldığına göre Hz. Muhammed, önemli gördüğü görüşmenin kesilmesinden hoşlanmayarak ilgisiz kaldı.\n\nSure bu davranışı eleştirir. Eleştirinin dikkat çekici yanı, üçüncü şahıs kipiyle başlamasıdır: \"Yüzünü ekşitti ve döndü.\" Bu, eleştirinin sertliğini yumuşatan bir üslup olarak yorumlanır.\n\nMetnin mantığı nettir: bir insanın öğrenmeye gelişi, ileri gelenlerle kurulacak stratejik bir ilişkiden önemlidir. Kendini yeterli görene koşulup arınmak isteyene sırt çevirmek yanlıştır (80:5-10). Bu, İslam kaynaklarının kendi kutsal metninde peygamberi eleştiren bir bölüm barındırması açısından da ayrıca dikkat çekicidir.",
+  "occasionSources": "Diyanet İşleri Başkanlığı Kur'an Yolu Tefsiri, Abese suresi girişi; Vâhidî, Esbâbü'n-Nüzûl; TDV İslâm Ansiklopedisi, \"Abese Sûresi\" ve \"Abdullah b. Ümmü Mektûm\" maddeleri. Kişinin kimliğine dair isimlendirme rivayete dayanır.",
+  "contemporaryMeaning": "Bu sure, sosyal hesap yapmanın ahlaki bedelini gösterir. Kimin dinlenmeye değer olduğuna karar verirken kullanılan ölçüt — statü, fayda, ağırlık — burada açıkça reddedilir.\n\nSure iki tipi karşı karşıya koyar: \"kendini yeterli gören\" ve \"arınmak isteyen\". Zaman ve ilgi, ikinciye ayrılmalıdır. Bugünün diliyle: toplantıyı kimin için kurduğun, kime cevap verdiğin, kimin mesajını yanıtsız bıraktığın bir ahlaki tercih.\n\nKapanıştaki tasvir bu dersi tamamlar: o gün herkes kendi derdiyle meşgul olacaktır (80:34-37). Bugün hesaba kattığın statü ilişkileri o gün geçerli olmayacaktır.",
+  "keyTerms": [
+    {
+      "term": "abese",
+      "arabic": "عَبَسَ",
+      "verseRef": "80:1",
+      "meaning": "Yüzünü ekşitti, asıldı. Sureye adını veren fiil; hoşnutsuzluğun yüze yansıması."
+    },
+    {
+      "term": "yezzekkâ",
+      "arabic": "يَتَزَكَّىٰ",
+      "verseRef": "80:3",
+      "meaning": "Arınmak, temizlenmek. Gelen kişinin niyeti; ilgiyi hak eden şey."
+    },
+    {
+      "term": "istağnâ",
+      "arabic": "اسْتَغْنَىٰ",
+      "verseRef": "80:5",
+      "meaning": "Kendini yeterli gördü. İlgi gösterilen tarafın hâli; Alak ve Leyl surelerinde de aynı kavram geçer."
+    },
+    {
+      "term": "tesaddâ",
+      "arabic": "تَصَدَّىٰ",
+      "verseRef": "80:6",
+      "meaning": "Yöneldi, ilgilendi, karşısına geçti. Yanlış yöne ayrılan ilgi."
+    }
+  ],
+  "themes": [
+    {
+      "label": "Kimin dinlenmeye değer olduğu",
+      "body": "Sure, ilgiyi statüye göre dağıtmayı reddeder. Öğrenmeye gelen kişi, stratejik değeri olan kişiden önce gelir."
+    },
+    {
+      "label": "Metnin kendi peygamberini eleştirmesi",
+      "body": "Eleştirinin muhatabı Hz. Muhammed'dir. Bu, metnin ahlaki ölçüsünü kimseye muafiyet tanımayacak biçimde kurduğunu gösterir."
+    },
+    {
+      "label": "İki tip: yeterli gören ve arınmak isteyen",
+      "body": "Zaman ve ilgi ikinciye ayrılmalıdır. Ölçüt, karşı tarafın konumu değil niyetidir."
+    },
+    {
+      "label": "Statü ilişkilerinin geçiciliği",
+      "body": "Kapanışta o gün herkesin kendi derdine düşeceği anlatılır. Bugün hesaplanan ilişki ağları orada işlemez."
+    }
+  ],
+  "questions": [
+    "Kime zaman ayıracağıma karar verirken ne kadar fayda hesabı yapıyorum?",
+    "Son zamanlarda benden bir şey öğrenmek isteyen birini, meşgul olduğum için savdım mı?",
+    "Konumu yüksek biriyle konuşurken tavrım, konumu düşük biriyle konuşurken değişiyor mu?"
+  ],
+  "scholarlyNotes": [
+    {
+      "kind": "ihtilaf",
+      "label": "\"Yüzünü ekşitti ve döndü\" — kim?",
+      "body": "Bu fiillerin faili konusunda tefsir geleneğinde iki görüş vardır. Müfessirlerin çoğunluğu (Taberî, İbn Kesîr, Kurtubî) ve temel kaynaklar, fiillerin Hz. Muhammed'e ait olduğunu ve surenin onu uyarmak üzere indiğini kabul eder. Bazı âlimler ve çağdaş araştırmacılar ise bu davranışın Peygamber'in ahlâkıyla bağdaşmadığını ve Kur'an'da \"abese\" kelimesinin inkârcılar için kullanıldığını belirterek yüzünü ekşitenin meclisteki bir müşrik (örneğin Velîd b. Muğîre) olduğunu savunur. İkinci görüş daha çok dirâyet (akıl yürütme) temelli olup rivayetle desteklenmez."
+    },
+    {
+      "kind": "nuans",
+      "label": "Nüzul sebebi rivayetinin kaynak durumu",
+      "body": "Olayın İbn Ümmü Mektûm ile ilgili olduğu ve Hz. Peygamber'in uyarıldığı yönündeki rivayetler Mâlik b. Enes ve Tirmizî gibi muhaddisler tarafından nakledilmiş, tefsir geleneğinde genel kabul görmüştür. Ancak Buhârî bu surenin nüzul sebebi hakkında herhangi bir rivayet aktarmamıştır."
+    },
+    {
+      "kind": "nuans",
+      "label": "İbn Ümmü Mektûm kimdir?",
+      "body": "Tam adı Abdullāh (bazı kaynaklarda Amr) b. Kays b. Zâide el-Kureşî el-Âmirî'dir; Hz. Hatice'nin dayısının oğludur. Bilâl-i Habeşî ile birlikte Hz. Peygamber'in müezzinliğini yapmış, Peygamber sefere çıktığında Medine'de kalanlara namaz kıldırmak üzere defalarca vekil bırakılmıştır. Kaynaklar, Hz. Peygamber'in bu olaydan sonra onu her gördüğünde \"Kendisinden dolayı Rabbimin beni azarladığı şahsa merhaba!\" diyerek iltifat ettiğini nakleder."
+    }
+  ],
+  "verses": [
+    {
+      "verseNo": 1,
+      "textArabic": "بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ عَبَسَ وَتَوَلَّىٰٓ"
+    },
+    {
+      "verseNo": 2,
+      "textArabic": "أَن جَآءَهُ ٱلْأَعْمَىٰ"
+    },
+    {
+      "verseNo": 3,
+      "textArabic": "وَمَا يُدْرِيكَ لَعَلَّهُۥ يَزَّكَّىٰٓ"
+    },
+    {
+      "verseNo": 4,
+      "textArabic": "أَوْ يَذَّكَّرُ فَتَنفَعَهُ ٱلذِّكْرَىٰٓ"
+    },
+    {
+      "verseNo": 5,
+      "textArabic": "أَمَّا مَنِ ٱسْتَغْنَىٰ"
+    },
+    {
+      "verseNo": 6,
+      "textArabic": "فَأَنتَ لَهُۥ تَصَدَّىٰ"
+    },
+    {
+      "verseNo": 7,
+      "textArabic": "وَمَا عَلَيْكَ أَلَّا يَزَّكَّىٰ"
+    },
+    {
+      "verseNo": 8,
+      "textArabic": "وَأَمَّا مَن جَآءَكَ يَسْعَىٰ"
+    },
+    {
+      "verseNo": 9,
+      "textArabic": "وَهُوَ يَخْشَىٰ"
+    },
+    {
+      "verseNo": 10,
+      "textArabic": "فَأَنتَ عَنْهُ تَلَهَّىٰ"
+    },
+    {
+      "verseNo": 11,
+      "textArabic": "كَلَّآ إِنَّهَا تَذْكِرَةٌۭ"
+    },
+    {
+      "verseNo": 12,
+      "textArabic": "فَمَن شَآءَ ذَكَرَهُۥ"
+    },
+    {
+      "verseNo": 13,
+      "textArabic": "فِى صُحُفٍۢ مُّكَرَّمَةٍۢ"
+    },
+    {
+      "verseNo": 14,
+      "textArabic": "مَّرْفُوعَةٍۢ مُّطَهَّرَةٍۭ"
+    },
+    {
+      "verseNo": 15,
+      "textArabic": "بِأَيْدِى سَفَرَةٍۢ"
+    },
+    {
+      "verseNo": 16,
+      "textArabic": "كِرَامٍۭ بَرَرَةٍۢ"
+    },
+    {
+      "verseNo": 17,
+      "textArabic": "قُتِلَ ٱلْإِنسَٰنُ مَآ أَكْفَرَهُۥ"
+    },
+    {
+      "verseNo": 18,
+      "textArabic": "مِنْ أَىِّ شَىْءٍ خَلَقَهُۥ"
+    },
+    {
+      "verseNo": 19,
+      "textArabic": "مِن نُّطْفَةٍ خَلَقَهُۥ فَقَدَّرَهُۥ"
+    },
+    {
+      "verseNo": 20,
+      "textArabic": "ثُمَّ ٱلسَّبِيلَ يَسَّرَهُۥ"
+    },
+    {
+      "verseNo": 21,
+      "textArabic": "ثُمَّ أَمَاتَهُۥ فَأَقْبَرَهُۥ"
+    },
+    {
+      "verseNo": 22,
+      "textArabic": "ثُمَّ إِذَا شَآءَ أَنشَرَهُۥ"
+    },
+    {
+      "verseNo": 23,
+      "textArabic": "كَلَّا لَمَّا يَقْضِ مَآ أَمَرَهُۥ"
+    },
+    {
+      "verseNo": 24,
+      "textArabic": "فَلْيَنظُرِ ٱلْإِنسَٰنُ إِلَىٰ طَعَامِهِۦٓ"
+    },
+    {
+      "verseNo": 25,
+      "textArabic": "أَنَّا صَبَبْنَا ٱلْمَآءَ صَبًّۭا"
+    },
+    {
+      "verseNo": 26,
+      "textArabic": "ثُمَّ شَقَقْنَا ٱلْأَرْضَ شَقًّۭا"
+    },
+    {
+      "verseNo": 27,
+      "textArabic": "فَأَنۢبَتْنَا فِيهَا حَبًّۭا"
+    },
+    {
+      "verseNo": 28,
+      "textArabic": "وَعِنَبًۭا وَقَضْبًۭا"
+    },
+    {
+      "verseNo": 29,
+      "textArabic": "وَزَيْتُونًۭا وَنَخْلًۭا"
+    },
+    {
+      "verseNo": 30,
+      "textArabic": "وَحَدَآئِقَ غُلْبًۭا"
+    },
+    {
+      "verseNo": 31,
+      "textArabic": "وَفَٰكِهَةًۭ وَأَبًّۭا"
+    },
+    {
+      "verseNo": 32,
+      "textArabic": "مَّتَٰعًۭا لَّكُمْ وَلِأَنْعَٰمِكُمْ"
+    },
+    {
+      "verseNo": 33,
+      "textArabic": "فَإِذَا جَآءَتِ ٱلصَّآخَّةُ"
+    },
+    {
+      "verseNo": 34,
+      "textArabic": "يَوْمَ يَفِرُّ ٱلْمَرْءُ مِنْ أَخِيهِ"
+    },
+    {
+      "verseNo": 35,
+      "textArabic": "وَأُمِّهِۦ وَأَبِيهِ"
+    },
+    {
+      "verseNo": 36,
+      "textArabic": "وَصَٰحِبَتِهِۦ وَبَنِيهِ"
+    },
+    {
+      "verseNo": 37,
+      "textArabic": "لِكُلِّ ٱمْرِئٍۢ مِّنْهُمْ يَوْمَئِذٍۢ شَأْنٌۭ يُغْنِيهِ"
+    },
+    {
+      "verseNo": 38,
+      "textArabic": "وُجُوهٌۭ يَوْمَئِذٍۢ مُّسْفِرَةٌۭ"
+    },
+    {
+      "verseNo": 39,
+      "textArabic": "ضَاحِكَةٌۭ مُّسْتَبْشِرَةٌۭ"
+    },
+    {
+      "verseNo": 40,
+      "textArabic": "وَوُجُوهٌۭ يَوْمَئِذٍ عَلَيْهَا غَبَرَةٌۭ"
+    },
+    {
+      "verseNo": 41,
+      "textArabic": "تَرْهَقُهَا قَتَرَةٌ"
+    },
+    {
+      "verseNo": 42,
+      "textArabic": "أُو۟لَٰٓئِكَ هُمُ ٱلْكَفَرَةُ ٱلْفَجَرَةُ"
+    }
+  ],
+  "translations": [
+    {
+      "verseNo": 1,
+      "source": "diyanet",
+      "text": "Kendisine o âmâ geldi diye Peygamber yüzünü ekşitti ve öteye döndü."
+    },
+    {
+      "verseNo": 1,
+      "source": "islamoglu",
+      "text": "O (KİBİRLİ KİŞİ) surat astı ve sırtını dönüp uzaklaştı,"
+    },
+    {
+      "verseNo": 1,
+      "source": "esed",
+      "text": "O, suratını astı ve uzaklaştı"
+    },
+    {
+      "verseNo": 1,
+      "source": "okuyan",
+      "text": "1,2. Görme engelli biri ona geldi diye yüzünü ekşitti ve arkasını döndü."
+    },
+    {
+      "verseNo": 2,
+      "source": "diyanet",
+      "text": "Kendisine o âmâ geldi diye Peygamber yüzünü ekşitti ve öteye döndü."
+    },
+    {
+      "verseNo": 2,
+      "source": "islamoglu",
+      "text": "Elçi’ye âmâ geldi diye…"
+    },
+    {
+      "verseNo": 2,
+      "source": "esed",
+      "text": "çünkü kör bir adam o´na yaklaşmıştı"
+    },
+    {
+      "verseNo": 2,
+      "source": "okuyan",
+      "text": "1,2. Görme engelli biri ona geldi diye yüzünü ekşitti ve arkasını döndü."
+    },
+    {
+      "verseNo": 3,
+      "source": "diyanet",
+      "text": "(Ey Muhammed!) Ne bilirsin, belki de o arınacak,"
+    },
+    {
+      "verseNo": 3,
+      "source": "islamoglu",
+      "text": "“Ve (sana gelince Ey Nebi!) Sen nereden bileceksin o (müşrikin) arınacağına dair bir ihtimal bulunduğunu;"
+    },
+    {
+      "verseNo": 3,
+      "source": "esed",
+      "text": "Nereden bilebilirsin (ey Muhammed,) belki de o arınacaktı"
+    },
+    {
+      "verseNo": 3,
+      "source": "okuyan",
+      "text": "3,4. O (azgın Mekkeli)nin arınacağını veya (gerçeği) hatırlayıp bunun ona yarar sağlayacağını sana bildirecek olan ne olabilir ki!"
+    },
+    {
+      "verseNo": 4,
+      "source": "diyanet",
+      "text": "Yahut öğüt alacak da bu öğüt kendisine fayda verecek."
+    },
+    {
+      "verseNo": 4,
+      "source": "islamoglu",
+      "text": "veya alacağı dersin kendisine yarar sağlayacağını?"
+    },
+    {
+      "verseNo": 4,
+      "source": "esed",
+      "text": "yahut (hakikat) hatırlatılacak ve bu hatırlatma kendisine fayda verecekti"
+    },
+    {
+      "verseNo": 4,
+      "source": "okuyan",
+      "text": "3,4. O (azgın Mekkeli)nin arınacağını veya (gerçeği) hatırlayıp bunun ona yarar sağlayacağını sana bildirecek olan ne olabilir ki!"
+    },
+    {
+      "verseNo": 5,
+      "source": "diyanet",
+      "text": "Kendini muhtaç hissetmeyene gelince;"
+    },
+    {
+      "verseNo": 5,
+      "source": "islamoglu",
+      "text": "Fakat, kendi kendine yettiğini sanan kimseye gelince:"
+    },
+    {
+      "verseNo": 5,
+      "source": "esed",
+      "text": "Ama kendini her şeye yeterli görene gelince"
+    },
+    {
+      "verseNo": 5,
+      "source": "okuyan",
+      "text": "5,6. Kendini zengin (ihtiyaçsız) gören bu kişiye gelince, sen ona yöneliyorsun."
+    },
+    {
+      "verseNo": 6,
+      "source": "diyanet",
+      "text": "Sen, ona yöneliyorsun."
+    },
+    {
+      "verseNo": 6,
+      "source": "islamoglu",
+      "text": "Sen bütün ilgini ona yönelttin;"
+    },
+    {
+      "verseNo": 6,
+      "source": "esed",
+      "text": "sen bütün ilgiyi ona gösterdin"
+    },
+    {
+      "verseNo": 6,
+      "source": "okuyan",
+      "text": "5,6. Kendini zengin (ihtiyaçsız) gören bu kişiye gelince, sen ona yöneliyorsun."
+    },
+    {
+      "verseNo": 7,
+      "source": "diyanet",
+      "text": "(İstemiyorsa) onun arınmamasından sana ne!"
+    },
+    {
+      "verseNo": 7,
+      "source": "islamoglu",
+      "text": "oysa onun arınmamasının sorumlusu sen değilsin;"
+    },
+    {
+      "verseNo": 7,
+      "source": "esed",
+      "text": "halbuki onun arınmaktan geri kalmasının sorumlusu sen değilsin"
+    },
+    {
+      "verseNo": 7,
+      "source": "okuyan",
+      "text": "Oysa onun temizlenip arınmamasından sen sorumlu değilsin."
+    },
+    {
+      "verseNo": 8,
+      "source": "diyanet",
+      "text": "Allah'a karşı derin bir saygıyla korku içinde koşarak sana geleni ise bırakıp, ona aldırmıyorsun."
+    },
+    {
+      "verseNo": 8,
+      "source": "islamoglu",
+      "text": "fakat sana büyük bir iştiyakla gelen var ya:"
+    },
+    {
+      "verseNo": 8,
+      "source": "esed",
+      "text": "ama sana büyük bir istekle geleni"
+    },
+    {
+      "verseNo": 8,
+      "source": "okuyan",
+      "text": "8,9,10. Fakat (Allah’a) saygı ile koşarak sana gelenle ilgilenmiyorsun."
+    },
+    {
+      "verseNo": 9,
+      "source": "diyanet",
+      "text": "Allah'a karşı derin bir saygıyla korku içinde koşarak sana geleni ise bırakıp, ona aldırmıyorsun."
+    },
+    {
+      "verseNo": 9,
+      "source": "islamoglu",
+      "text": "-ki o Allah’a saygıda kusur etmez-"
+    },
+    {
+      "verseNo": 9,
+      "source": "esed",
+      "text": "ve (Allah) korkusu ile (yaklaşanı)"
+    },
+    {
+      "verseNo": 9,
+      "source": "okuyan",
+      "text": "8,9,10. Fakat (Allah’a) saygı ile koşarak sana gelenle ilgilenmiyorsun."
+    },
+    {
+      "verseNo": 10,
+      "source": "diyanet",
+      "text": "Allah'a karşı derin bir saygıyla korku içinde koşarak sana geleni ise bırakıp, ona aldırmıyorsun."
+    },
+    {
+      "verseNo": 10,
+      "source": "islamoglu",
+      "text": "işte sen onu ihmal ediyorsun."
+    },
+    {
+      "verseNo": 10,
+      "source": "esed",
+      "text": "sen görmezden geldin"
+    },
+    {
+      "verseNo": 10,
+      "source": "okuyan",
+      "text": "8,9,10. Fakat (Allah’a) saygı ile koşarak sana gelenle ilgilenmiyorsun."
+    },
+    {
+      "verseNo": 11,
+      "source": "diyanet",
+      "text": "Hayır, böyle yapma! Çünkü bu (Kur'an) bir öğüttür."
+    },
+    {
+      "verseNo": 11,
+      "source": "islamoglu",
+      "text": "ELBET bu hitap bir öğüt ve uyarıdan ibarettir:"
+    },
+    {
+      "verseNo": 11,
+      "source": "esed",
+      "text": "Elbette, bu (mesaj)lar yalnızca birer hatırlatma ve öğütten ibarettir"
+    },
+    {
+      "verseNo": 11,
+      "source": "okuyan",
+      "text": "Hayır! Şüphesiz ki bunlar, (gerçeğin) hatırlatılmasıdır."
+    },
+    {
+      "verseNo": 12,
+      "source": "diyanet",
+      "text": "Dileyen ondan öğüt alır."
+    },
+    {
+      "verseNo": 12,
+      "source": "islamoglu",
+      "text": "isteyen herkes ondan öğüt alabilir,"
+    },
+    {
+      "verseNo": 12,
+      "source": "esed",
+      "text": "kim istekliyse O´nu hatırlayıp öğüt alabilir"
+    },
+    {
+      "verseNo": 12,
+      "source": "okuyan",
+      "text": "Dileyen onu (Kur’an’ı) hatırlar."
+    },
+    {
+      "verseNo": 13,
+      "source": "diyanet",
+      "text": "O, şerefli ve sâdık yazıcı meleklerin elindeki yüksek, tertemiz ve çok değerli sahifelerdedir."
+    },
+    {
+      "verseNo": 13,
+      "source": "islamoglu",
+      "text": "kutsal ve seçkin kayıtlar altında korunmuştur;"
+    },
+    {
+      "verseNo": 13,
+      "source": "esed",
+      "text": "(O´nun) kutsal ve soylu vahiyleri (ışığında)"
+    },
+    {
+      "verseNo": 13,
+      "source": "okuyan",
+      "text": "13,14,15,16. (Kur’an) kıymetli ve güvenilir elçilerin ellerinde, yüceltilmiş, arındırılmış, kutsal, değerli sahifelerdedir."
+    },
+    {
+      "verseNo": 14,
+      "source": "diyanet",
+      "text": "O, şerefli ve sâdık yazıcı meleklerin elindeki yüksek, tertemiz ve çok değerli sahifelerdedir."
+    },
+    {
+      "verseNo": 14,
+      "source": "islamoglu",
+      "text": "yüce ve şaibesiz"
+    },
+    {
+      "verseNo": 14,
+      "source": "esed",
+      "text": "yüce ve arı duru"
+    },
+    {
+      "verseNo": 14,
+      "source": "okuyan",
+      "text": "13,14,15,16. (Kur’an) kıymetli ve güvenilir elçilerin ellerinde, yüceltilmiş, arındırılmış, kutsal, değerli sahifelerdedir."
+    },
+    {
+      "verseNo": 15,
+      "source": "diyanet",
+      "text": "O, şerefli ve sâdık yazıcı meleklerin elindeki yüksek, tertemiz ve çok değerli sahifelerdedir."
+    },
+    {
+      "verseNo": 15,
+      "source": "islamoglu",
+      "text": "elçilerin elleriyle (taşınan);"
+    },
+    {
+      "verseNo": 15,
+      "source": "esed",
+      "text": "elçilerin elleriyle (yayılıp duyurulan)"
+    },
+    {
+      "verseNo": 15,
+      "source": "okuyan",
+      "text": "13,14,15,16. (Kur’an) kıymetli ve güvenilir elçilerin ellerinde, yüceltilmiş, arındırılmış, kutsal, değerli sahifelerdedir."
+    },
+    {
+      "verseNo": 16,
+      "source": "diyanet",
+      "text": "O, şerefli ve sâdık yazıcı meleklerin elindeki yüksek, tertemiz ve çok değerli sahifelerdedir."
+    },
+    {
+      "verseNo": 16,
+      "source": "islamoglu",
+      "text": "türünün en iyisi ve hata yapmayan (elçilerin)."
+    },
+    {
+      "verseNo": 16,
+      "source": "esed",
+      "text": "seçkin ve erdem sahibi (elçilerin)"
+    },
+    {
+      "verseNo": 16,
+      "source": "okuyan",
+      "text": "13,14,15,16. (Kur’an) kıymetli ve güvenilir elçilerin ellerinde, yüceltilmiş, arındırılmış, kutsal, değerli sahifelerdedir."
+    },
+    {
+      "verseNo": 17,
+      "source": "diyanet",
+      "text": "Kahrolası (inkarcı) insan! Ne nankördür o!"
+    },
+    {
+      "verseNo": 17,
+      "source": "islamoglu",
+      "text": "Şu kahrolası (kâfir) insan, nankörlükte ne kadar da sınır tanımazdır?"
+    },
+    {
+      "verseNo": 17,
+      "source": "esed",
+      "text": "(Ama çoğu zaman) insan kendini mahveder; hakikati ne kadar inatla inkar eder o"
+    },
+    {
+      "verseNo": 17,
+      "source": "okuyan",
+      "text": "Kahrolası o insan ne kadar da nankördür!"
+    },
+    {
+      "verseNo": 18,
+      "source": "diyanet",
+      "text": "Allah onu hangi şeyden yarattı?"
+    },
+    {
+      "verseNo": 18,
+      "source": "islamoglu",
+      "text": "O, insanı neden yarattı?"
+    },
+    {
+      "verseNo": 18,
+      "source": "esed",
+      "text": "(İnsan hiç düşünür mü) hangi özden yaratır (Allah) onu"
+    },
+    {
+      "verseNo": 18,
+      "source": "okuyan",
+      "text": "(Allah) onu hangi şeyden yarattı (bir düşünse ya)?"
+    },
+    {
+      "verseNo": 19,
+      "source": "diyanet",
+      "text": "Az bir sudan (meniden). Onu yarattı ve ona ölçülü bir şekil verdi."
+    },
+    {
+      "verseNo": 19,
+      "source": "islamoglu",
+      "text": "(Elbette) basit bir hayat tohumundan. Önce yarattı, ardından ona takdir yeteneği bahşetti;"
+    },
+    {
+      "verseNo": 19,
+      "source": "esed",
+      "text": "Bir sperm damlasından yaratır ve sonra onun tabiatını oluşturur"
+    },
+    {
+      "verseNo": 19,
+      "source": "okuyan",
+      "text": "Bir [nutfe]den (zigottan) yaratıp ona şekil verir."
+    },
+    {
+      "verseNo": 20,
+      "source": "diyanet",
+      "text": "Sonra ona yolu kolaylaştırdı."
+    },
+    {
+      "verseNo": 20,
+      "source": "islamoglu",
+      "text": "sonra ona yolu kolaylaştırdı;"
+    },
+    {
+      "verseNo": 20,
+      "source": "esed",
+      "text": "sonra hayatı onun için kolaylaştırır"
+    },
+    {
+      "verseNo": 20,
+      "source": "okuyan",
+      "text": "Sonra ona yolu kolaylaştırır."
+    },
+    {
+      "verseNo": 21,
+      "source": "diyanet",
+      "text": "Sonra onu öldürdü ve kabre koydu."
+    },
+    {
+      "verseNo": 21,
+      "source": "islamoglu",
+      "text": "en sonunda onun için ölümü takdir etti ve kabre koydurdu;"
+    },
+    {
+      "verseNo": 21,
+      "source": "esed",
+      "text": "ve sonunda onu öldürür ve kabre koyar"
+    },
+    {
+      "verseNo": 21,
+      "source": "okuyan",
+      "text": "Daha sonra onu öldürüp kabre koydurur."
+    },
+    {
+      "verseNo": 22,
+      "source": "diyanet",
+      "text": "Sonra, dilediği vakit onu diriltir."
+    },
+    {
+      "verseNo": 22,
+      "source": "islamoglu",
+      "text": "nihayet istediğinde onu tekrar diriltecektir."
+    },
+    {
+      "verseNo": 22,
+      "source": "esed",
+      "text": "ve sonra, dilediğinde onu tekrar diriltir"
+    },
+    {
+      "verseNo": 22,
+      "source": "okuyan",
+      "text": "En sonunda dilediği zaman onu yeniden diriltir."
+    },
+    {
+      "verseNo": 23,
+      "source": "diyanet",
+      "text": "Hayır hayır o, Allah'ın kendisine emrettiğini yerine getirmedi. (İman etmedi.)"
+    },
+    {
+      "verseNo": 23,
+      "source": "islamoglu",
+      "text": "Evet, (hiçbir insan) O’nun emirlerini asla kusursuz olarak yerine getirememiştir."
+    },
+    {
+      "verseNo": 23,
+      "source": "esed",
+      "text": "Hayır, (insan) Allah´ın kendisine buyurduklarını henüz yerine getirmiş değildir"
+    },
+    {
+      "verseNo": 23,
+      "source": "okuyan",
+      "text": "Gerçek şu ki (insan, Allah’ın) ona emrettiğini yerine getirmedi."
+    },
+    {
+      "verseNo": 24,
+      "source": "diyanet",
+      "text": "Herşeyden önce insan, yediği yemeğine bir baksın!"
+    },
+    {
+      "verseNo": 24,
+      "source": "islamoglu",
+      "text": "İnsanoğlu yediklerine bir baksın:"
+    },
+    {
+      "verseNo": 24,
+      "source": "esed",
+      "text": "Öyleyse insan, yiyeceklerin(in kaynağın)a bir baksın"
+    },
+    {
+      "verseNo": 24,
+      "source": "okuyan",
+      "text": "Bu insan, yiyeceğine bir baksın!"
+    },
+    {
+      "verseNo": 25,
+      "source": "diyanet",
+      "text": "Gerçekten biz, yağmuru bol bol yağdırdık."
+    },
+    {
+      "verseNo": 25,
+      "source": "islamoglu",
+      "text": "Elbet suyu tarifsiz bir cömertlikle Biz indirmekteyiz;"
+    },
+    {
+      "verseNo": 25,
+      "source": "esed",
+      "text": "(nasıl) suyu bolca indirmekteyiz"
+    },
+    {
+      "verseNo": 25,
+      "source": "okuyan",
+      "text": "Suyu bolca indirdik."
+    },
+    {
+      "verseNo": 26,
+      "source": "diyanet",
+      "text": "Sonra toprağı, iyiden iyiye yardık!"
+    },
+    {
+      "verseNo": 26,
+      "source": "islamoglu",
+      "text": "sonra toprağı tarifsiz bir incelikle yarmaktayız;"
+    },
+    {
+      "verseNo": 26,
+      "source": "esed",
+      "text": "ve sonra toprağı (daha da büyüterek) parça parça yarmaktayız"
+    },
+    {
+      "verseNo": 26,
+      "source": "okuyan",
+      "text": "Toprağı yardıkça yardık."
+    },
+    {
+      "verseNo": 27,
+      "source": "diyanet",
+      "text": "Böylece sizin ve hayvanlarınızın yararlanması için orada taneler, üzümler, yoncalar, zeytinler, hurmalıklar, sık ağaçlı bahçeler, meyveler ve otlaklar ortaya çıkardık."
+    },
+    {
+      "verseNo": 27,
+      "source": "islamoglu",
+      "text": "derken orada tohumu yetiştirmekteyiz…"
+    },
+    {
+      "verseNo": 27,
+      "source": "esed",
+      "text": "bu sayede ondan tahıllar yetiştirmekteyiz"
+    },
+    {
+      "verseNo": 27,
+      "source": "okuyan",
+      "text": "Orada (toprakta) taneler yetiştirdik."
+    },
+    {
+      "verseNo": 28,
+      "source": "diyanet",
+      "text": "Böylece sizin ve hayvanlarınızın yararlanması için orada taneler, üzümler, yoncalar, zeytinler, hurmalıklar, sık ağaçlı bahçeler, meyveler ve otlaklar ortaya çıkardık."
+    },
+    {
+      "verseNo": 28,
+      "source": "islamoglu",
+      "text": "Mesela üzüm bağları, sebze bahçeleri,"
+    },
+    {
+      "verseNo": 28,
+      "source": "esed",
+      "text": "ve üzüm bağları ve yenebilir otlar"
+    },
+    {
+      "verseNo": 28,
+      "source": "okuyan",
+      "text": "Üzüm ve sebze,"
+    },
+    {
+      "verseNo": 29,
+      "source": "diyanet",
+      "text": "Böylece sizin ve hayvanlarınızın yararlanması için orada taneler, üzümler, yoncalar, zeytinler, hurmalıklar, sık ağaçlı bahçeler, meyveler ve otlaklar ortaya çıkardık."
+    },
+    {
+      "verseNo": 29,
+      "source": "islamoglu",
+      "text": "zeytinlik ve hurmalıklar,"
+    },
+    {
+      "verseNo": 29,
+      "source": "esed",
+      "text": "zeytin ağaçları ve hurmalıklar"
+    },
+    {
+      "verseNo": 29,
+      "source": "okuyan",
+      "text": "Zeytin ve hurma,"
+    },
+    {
+      "verseNo": 30,
+      "source": "diyanet",
+      "text": "Böylece sizin ve hayvanlarınızın yararlanması için orada taneler, üzümler, yoncalar, zeytinler, hurmalıklar, sık ağaçlı bahçeler, meyveler ve otlaklar ortaya çıkardık."
+    },
+    {
+      "verseNo": 30,
+      "source": "islamoglu",
+      "text": "balta girmemiş sulak ormanlar,"
+    },
+    {
+      "verseNo": 30,
+      "source": "esed",
+      "text": "ve ağaçlarla dolu bahçeler"
+    },
+    {
+      "verseNo": 30,
+      "source": "okuyan",
+      "text": "Gür (ağaçlı) bahçe,"
+    },
+    {
+      "verseNo": 31,
+      "source": "diyanet",
+      "text": "Böylece sizin ve hayvanlarınızın yararlanması için orada taneler, üzümler, yoncalar, zeytinler, hurmalıklar, sık ağaçlı bahçeler, meyveler ve otlaklar ortaya çıkardık."
+    },
+    {
+      "verseNo": 31,
+      "source": "islamoglu",
+      "text": "meyveli ve meyvesiz bitkiler;"
+    },
+    {
+      "verseNo": 31,
+      "source": "esed",
+      "text": "meyveler ve otlar"
+    },
+    {
+      "verseNo": 31,
+      "source": "okuyan",
+      "text": "Meyve ve çayır,"
+    },
+    {
+      "verseNo": 32,
+      "source": "diyanet",
+      "text": "Böylece sizin ve hayvanlarınızın yararlanması için orada taneler, üzümler, yoncalar, zeytinler, hurmalıklar, sık ağaçlı bahçeler, meyveler ve otlaklar ortaya çıkardık."
+    },
+    {
+      "verseNo": 32,
+      "source": "islamoglu",
+      "text": "sizin ve hayvanlarınızın (beslenmesi) için…"
+    },
+    {
+      "verseNo": 32,
+      "source": "esed",
+      "text": "sizin için ve hayvanlarınızın beslenmesi için"
+    },
+    {
+      "verseNo": 32,
+      "source": "okuyan",
+      "text": "Sizin ve hayvanlarınızın yararlanması için (böyle yaptık)."
+    },
+    {
+      "verseNo": 33,
+      "source": "diyanet",
+      "text": "Kişinin kardeşinden, annesinden, babasından, eşinden ve çocuklarından kaçacağı gün kulakları sağır edercesine şiddetli ses geldiği vakit, işte o gün onlardan herkesin kendini meşgul edecek bir işi vardır."
+    },
+    {
+      "verseNo": 33,
+      "source": "islamoglu",
+      "text": "VE NİHAYET kulakları sağır eden o (mahşer) çığlığı koptuğunda;"
+    },
+    {
+      "verseNo": 33,
+      "source": "esed",
+      "text": "Ve böylece, (yeniden dirilmenin) o kulakları sağır eden çağrısı duyulduğunda"
+    },
+    {
+      "verseNo": 33,
+      "source": "okuyan",
+      "text": "Kulakları sağır eden o ses geldiği zaman,"
+    },
+    {
+      "verseNo": 34,
+      "source": "diyanet",
+      "text": "Kişinin kardeşinden, annesinden, babasından, eşinden ve çocuklarından kaçacağı gün kulakları sağır edercesine şiddetli ses geldiği vakit, işte o gün onlardan herkesin kendini meşgul edecek bir işi vardır."
+    },
+    {
+      "verseNo": 34,
+      "source": "islamoglu",
+      "text": "o gün kişi kardeşinden kaçacak;"
+    },
+    {
+      "verseNo": 34,
+      "source": "esed",
+      "text": "herkesin kardeşinden kaç(mak iste)diği Gün"
+    },
+    {
+      "verseNo": 34,
+      "source": "okuyan",
+      "text": "34,35,36. O gün kişi kardeşinden, annesinden, babasından, hanımından (eşinden) ve çocuğundan kaçar."
+    },
+    {
+      "verseNo": 35,
+      "source": "diyanet",
+      "text": "Kişinin kardeşinden, annesinden, babasından, eşinden ve çocuklarından kaçacağı gün kulakları sağır edercesine şiddetli ses geldiği vakit, işte o gün onlardan herkesin kendini meşgul edecek bir işi vardır."
+    },
+    {
+      "verseNo": 35,
+      "source": "islamoglu",
+      "text": "annesinden ve babasından;"
+    },
+    {
+      "verseNo": 35,
+      "source": "esed",
+      "text": "annesinden ve babasından"
+    },
+    {
+      "verseNo": 35,
+      "source": "okuyan",
+      "text": "34,35,36. O gün kişi kardeşinden, annesinden, babasından, hanımından (eşinden) ve çocuğundan kaçar."
+    },
+    {
+      "verseNo": 36,
+      "source": "diyanet",
+      "text": "Kişinin kardeşinden, annesinden, babasından, eşinden ve çocuklarından kaçacağı gün kulakları sağır edercesine şiddetli ses geldiği vakit, işte o gün onlardan herkesin kendini meşgul edecek bir işi vardır."
+    },
+    {
+      "verseNo": 36,
+      "source": "islamoglu",
+      "text": "hanımından ve çocuklarından…"
+    },
+    {
+      "verseNo": 36,
+      "source": "esed",
+      "text": "eşinden ve çocuklarından"
+    },
+    {
+      "verseNo": 36,
+      "source": "okuyan",
+      "text": "34,35,36. O gün kişi kardeşinden, annesinden, babasından, hanımından (eşinden) ve çocuğundan kaçar."
+    },
+    {
+      "verseNo": 37,
+      "source": "diyanet",
+      "text": "Kişinin kardeşinden, annesinden, babasından, eşinden ve çocuklarından kaçacağı gün kulakları sağır edercesine şiddetli ses geldiği vakit, işte o gün onlardan herkesin kendini meşgul edecek bir işi vardır."
+    },
+    {
+      "verseNo": 37,
+      "source": "islamoglu",
+      "text": "O gün herkesin birbirinden kaçmak için yeterli meşguliyyeti olacak."
+    },
+    {
+      "verseNo": 37,
+      "source": "esed",
+      "text": "o Gün her birinin durumu kendisi için yeterli bir endişe kaynağı olacak"
+    },
+    {
+      "verseNo": 37,
+      "source": "okuyan",
+      "text": "(Çünkü) o gün, her kişinin kendisine yetecek bir işi olacaktır."
+    },
+    {
+      "verseNo": 38,
+      "source": "diyanet",
+      "text": "O gün birtakım yüzler vardır ki pırıl pırıl parlarlar,"
+    },
+    {
+      "verseNo": 38,
+      "source": "islamoglu",
+      "text": "Bazı yüzler vardır: o gün ışıl ışıl, ağardıkça ağaracak;"
+    },
+    {
+      "verseNo": 38,
+      "source": "esed",
+      "text": "Bazı yüzler o Gün mutlulukla parıldayacak"
+    },
+    {
+      "verseNo": 38,
+      "source": "okuyan",
+      "text": "O gün bazı yüzler aydınlıktır."
+    },
+    {
+      "verseNo": 39,
+      "source": "diyanet",
+      "text": "Gülerler, sevinirler."
+    },
+    {
+      "verseNo": 39,
+      "source": "islamoglu",
+      "text": "şen-şakrak…"
+    },
+    {
+      "verseNo": 39,
+      "source": "esed",
+      "text": "güleç ve müjdelere sevinen"
+    },
+    {
+      "verseNo": 39,
+      "source": "okuyan",
+      "text": "(Onlar) güler, müjdeyle sevinir."
+    },
+    {
+      "verseNo": 40,
+      "source": "diyanet",
+      "text": "O gün nice yüzler de vardır ki, toz toprak içindedirler."
+    },
+    {
+      "verseNo": 40,
+      "source": "islamoglu",
+      "text": "Bazı yüzler de vardır: o gün bütünüyle toz-toprak;"
+    },
+    {
+      "verseNo": 40,
+      "source": "esed",
+      "text": "Bazı yüzler de o Gün toz toprakla kapanacak"
+    },
+    {
+      "verseNo": 40,
+      "source": "okuyan",
+      "text": "O gün bazı yüzlerde de toz (hüzün) vardır."
+    },
+    {
+      "verseNo": 41,
+      "source": "diyanet",
+      "text": "Onları bir siyahlık bürür."
+    },
+    {
+      "verseNo": 41,
+      "source": "islamoglu",
+      "text": "karardıkça kararacak…"
+    },
+    {
+      "verseNo": 41,
+      "source": "esed",
+      "text": "her yanı kuşatan bir karanlıkla"
+    },
+    {
+      "verseNo": 41,
+      "source": "okuyan",
+      "text": "(Onları âdeta) karanlık kaplamıştır."
+    },
+    {
+      "verseNo": 42,
+      "source": "diyanet",
+      "text": "İşte onlar, kâfirlerdir, günaha dalanlardır."
+    },
+    {
+      "verseNo": 42,
+      "source": "islamoglu",
+      "text": "İşte bunlar, inkârın dibini boylayan ve yoldan sapan sorumsuz kimseler olacak."
+    },
+    {
+      "verseNo": 42,
+      "source": "esed",
+      "text": "işte bunlar, hakikati inkar eden ve yoldan sapan kimselerdir"
+    },
+    {
+      "verseNo": 42,
+      "source": "okuyan",
+      "text": "İşte onlar -evet onlar- kâfirlerdir, (doğru yoldan) sapanlardır."
+    },
+    {
+      "verseNo": 1,
+      "verseNoEnd": null,
+      "source": "ai",
+      "text": "Kaşlarını çattı ve yüzünü çevirdi."
+    },
+    {
+      "verseNo": 2,
+      "verseNoEnd": null,
+      "source": "ai",
+      "text": "Kendisine kör biri geldi."
+    },
+    {
+      "verseNo": 3,
+      "verseNoEnd": null,
+      "source": "ai",
+      "text": "Sen ne bilirsin, belki o arınır."
+    },
+    {
+      "verseNo": 4,
+      "verseNoEnd": null,
+      "source": "ai",
+      "text": "Ya da hatırlayıp öğüt alır; öğüt ona fayda verir."
+    },
+    {
+      "verseNo": 5,
+      "verseNoEnd": null,
+      "source": "ai",
+      "text": "Kendini zengin gören kimseye gelince."
+    },
+    {
+      "verseNo": 6,
+      "verseNoEnd": null,
+      "source": "ai",
+      "text": "Sen ona ilgi gösteriyorsun."
+    },
+    {
+      "verseNo": 7,
+      "verseNoEnd": null,
+      "source": "ai",
+      "text": "Onun arınmaması senin sorumluluğun değildir."
+    },
+    {
+      "verseNo": 8,
+      "verseNoEnd": null,
+      "source": "ai",
+      "text": "Ama sana koşarak gelen kimseye gelince."
+    },
+    {
+      "verseNo": 9,
+      "verseNoEnd": null,
+      "source": "ai",
+      "text": "O da korkar."
+    },
+    {
+      "verseNo": 10,
+      "verseNoEnd": null,
+      "source": "ai",
+      "text": "Sen ise ondan uzaklaşıyorsun."
+    },
+    {
+      "verseNo": 11,
+      "verseNoEnd": null,
+      "source": "ai",
+      "text": "Hayır; o bir hatırlatmadır."
+    },
+    {
+      "verseNo": 12,
+      "verseNoEnd": null,
+      "source": "ai",
+      "text": "Kim isterse onu hatırlar."
+    },
+    {
+      "verseNo": 13,
+      "verseNoEnd": null,
+      "source": "ai",
+      "text": "Şerefli sayfalarda."
+    },
+    {
+      "verseNo": 14,
+      "verseNoEnd": null,
+      "source": "ai",
+      "text": "Yükseltilmiş, temizlenmiş."
+    },
+    {
+      "verseNo": 15,
+      "verseNoEnd": null,
+      "source": "ai",
+      "text": "Yazıcıların elleriyle."
+    },
+    {
+      "verseNo": 16,
+      "verseNoEnd": null,
+      "source": "ai",
+      "text": "Şerefli, iyi kimseler."
+    },
+    {
+      "verseNo": 17,
+      "verseNoEnd": null,
+      "source": "ai",
+      "text": "Vay insana! Ne kadar nankördü."
+    },
+    {
+      "verseNo": 18,
+      "verseNoEnd": null,
+      "source": "ai",
+      "text": "Onu hangi şeyden yarattı?"
+    },
+    {
+      "verseNo": 19,
+      "verseNoEnd": null,
+      "source": "ai",
+      "text": "Onu bir damladan yarattı, sonra onu ölçtü."
+    },
+    {
+      "verseNo": 20,
+      "verseNoEnd": null,
+      "source": "ai",
+      "text": "Sonra yolunu ona kolaylaştırdı."
+    },
+    {
+      "verseNo": 21,
+      "verseNoEnd": null,
+      "source": "ai",
+      "text": "Sonra onu öldürdü ve gömdü."
+    },
+    {
+      "verseNo": 22,
+      "verseNoEnd": null,
+      "source": "ai",
+      "text": "Sonra dilediğinde onu diriltecektir."
+    },
+    {
+      "verseNo": 23,
+      "verseNoEnd": null,
+      "source": "ai",
+      "text": "Hayır, kendisine emredilen şeyi henüz yerine getirmedi."
+    },
+    {
+      "verseNo": 24,
+      "verseNoEnd": null,
+      "source": "ai",
+      "text": "İnsan yiyeceğine baksın."
+    },
+    {
+      "verseNo": 25,
+      "verseNoEnd": null,
+      "source": "ai",
+      "text": "Biz suyu bol bol döktük."
+    },
+    {
+      "verseNo": 26,
+      "verseNoEnd": null,
+      "source": "ai",
+      "text": "Sonra yeri yarıp açtık."
+    },
+    {
+      "verseNo": 27,
+      "verseNoEnd": null,
+      "source": "ai",
+      "text": "Sonra orada tahıl yetiştirdik."
+    },
+    {
+      "verseNo": 28,
+      "verseNoEnd": null,
+      "source": "ai",
+      "text": "Ve üzüm ve ot."
+    },
+    {
+      "verseNo": 29,
+      "verseNoEnd": null,
+      "source": "ai",
+      "text": "Ve zeytin ve hurma ağaçları."
+    },
+    {
+      "verseNo": 30,
+      "verseNoEnd": null,
+      "source": "ai",
+      "text": "Ve sık dikilmiş bahçeler."
+    },
+    {
+      "verseNo": 31,
+      "verseNoEnd": null,
+      "source": "ai",
+      "text": "Meyve ve hurma."
+    },
+    {
+      "verseNo": 32,
+      "verseNoEnd": null,
+      "source": "ai",
+      "text": "Sizin ve hayvanlarınızın geçimi."
+    },
+    {
+      "verseNo": 33,
+      "verseNoEnd": null,
+      "source": "ai",
+      "text": "Sonra o gürültü geldiğinde."
+    },
+    {
+      "verseNo": 34,
+      "verseNoEnd": null,
+      "source": "ai",
+      "text": "İnsan kardeşinden kaçar olduğu gün."
+    },
+    {
+      "verseNo": 35,
+      "verseNoEnd": null,
+      "source": "ai",
+      "text": "Ve annesinden ve babasından."
+    },
+    {
+      "verseNo": 36,
+      "verseNoEnd": null,
+      "source": "ai",
+      "text": "Ve eşi ve çocuklarından."
+    },
+    {
+      "verseNo": 37,
+      "verseNoEnd": null,
+      "source": "ai",
+      "text": "O gün onlardan her kişinin kendisine yetecek bir meşgalesi vardır."
+    },
+    {
+      "verseNo": 38,
+      "verseNoEnd": null,
+      "source": "ai",
+      "text": "O gün yüzler parlak olacaktır."
+    },
+    {
+      "verseNo": 39,
+      "verseNoEnd": null,
+      "source": "ai",
+      "text": "Gülen, sevinçli."
+    },
+    {
+      "verseNo": 40,
+      "verseNoEnd": null,
+      "source": "ai",
+      "text": "Ve o gün yüzlerde toz olacaktır."
+    },
+    {
+      "verseNo": 41,
+      "verseNoEnd": null,
+      "source": "ai",
+      "text": "Onu kara bir duman kaplayacak."
+    },
+    {
+      "verseNo": 42,
+      "verseNoEnd": null,
+      "source": "ai",
+      "text": "İşte onlar inkârcılar, günahkârlardır."
+    }
+  ],
+  "aiParagraph": "Birinin sana ihtiyacı olduğunu fark etmemek, çünkü gözün daha parlak, daha güçlü, daha işe yarar birini arıyor — bu, insanın en eski ve en tanıdık körlüklerinden biri. Sure tam buradan açılıyor: kapıya gelen görmez adamı değil, uzaktaki nüfuzlu adamı görme refleksini, yani bir insanın değerini taşıdığı ağırlıkla biçme alışkanlığını sorguluyor. Ama asıl darbesi bundan sonra geliyor — insan nereden geldiğini unuttuğunda ne kadar hızlı büyükleniyor, ne kadar rahat nankörlük ediyor. Metin bunu neredeyse hayretle soruyor: küçücük bir damladan yaratılan, yolu açılmış, ömrü verilmiş, toprağa konulmuş biri nasıl bu kadar ölçüsüzleşiyor? Sonra bakışı tabağındaki ekmeğe çekiyor — yağmurun toprağı yarması, tahılın, zeytinin, hurmanın çıkması; bunların hiçbiri senin becerinle değil. Ve sure en sert yerinde şunu soruyor: kendisine verilen her şeye rağmen insan üstüne düşeni yaptı mı? Kapanışta ise iki yüz kalıyor karşında — biri aydınlık, diğeri tozlu ve karanlık. Sure hangisinin seninkine benzediğini söylemiyor; sadece aynayı tutuyor.",
+  "audienceContext": "Sure, Mekke'nin erken döneminde, Kureyş kabilesinin ekonomik ve sosyal hiyerarşisinin sağlam durduğu bir anda söyleniyor. O meclisteki ilk muhatap, bu hiyerarşiyi nefesinde hisseden insanlardı. Bir yanda Utbe, Şeybe, Ümeyye b. Halef gibi isimler oturuyor; bunlar yalnızca güçlü değil, güçlü olduğu için değerli sayılan insanlardı. Öte yanda görme engelli biri, soru sormak için kapıya gelmiş.\n\nO günün Mekke'sinde bir insanın ağırlığı kabilesinin ağırlığıyla, servetiyle, bedeniyle ölçülüyordu. \"İstağnâ\" — kendini yeterli görmek — bir kusur değil, o toplumda statünün doğal sonucuydu. Zenginin kapısına koşmak, onu etkilemeye çalışmak, ona yönelmek (tesaddâ) için bir sebep vardı: o, bir şey ifade eden insandı. Soru sormak için gelen görme engellinin gelmesi ise meclis akışını kesen bir rahatsızlıktı, toplumsal bir anlam taşımıyordu.\n\nDirencin nereden geldiğine bakıldığında, surenin ilk on ayeti bu soruyu çok net yanıtlar: mevcut meclisin kazanımı ortada. Kureyş ileri gelenleri bir mesaj alırsa, Mekke'nin geri kalanına o mesaj hızla yayılır — en azından bu böyle hesaplanıyordu. Görme engellinin arınmak için gelmesi (yezzekkâ) ise bu hesaba girmiyordu, çünkü o mecliste \"kimden ne kazanılır?\" sorusu her şeyin önünde duruyordu. Direnç, anlamayandan değil, mevcut düzenin dengesini korumaktan çıkar sağlayanlardan geliyordu.\n\nSure tam bu noktada devreye girer ve o anda herkesin zaten kabul ettiği bir şeyden söze açar: evrenin bir yaratanı var. Bunu kimse reddetmiyordu. Reddedilen şey başkaydı — bir insanın peygamber olabileceği, hesabın gerçek olduğu ve kimin kıymetli sayılacağının servetle değil başka bir ölçütle belirleneceğiydi. Sure bu reddin içinde doğuyor; ama önce ortak zemini selamlıyor, oradan yürüyor.",
+  "eventMessageMap": [
+    {
+      "situation": "Görme engelli biri soru sormak için meclise geldi; ileri gelenlerle sürdürülen konuşma kesilmesin diye ona ilgi gösterilmedi.",
+      "response": "Metin, ilgi gösterilecek kişiyi belirleyen ölçütün \"kim güçlü?\" değil, \"kim arınmak istiyor?\" sorusu olduğunu söyledi.",
+      "shift": "Muhatabın değeri, kabilesi veya serveti değil; öğrenmek için gelip gelmediği hâline bağlandı."
+    },
+    {
+      "situation": "Kendisine yönelinen kişi, kendini yeterli gören (istağnâ) biriydi; gelen ise bir şey arayandı.",
+      "response": "Metin, yanlış yönde harcanan ilgiyi (tesaddâ) ve yanlış yerde bırakılan sırtı yan yana koyarak o anı görünür kıldı.",
+      "shift": "Enerjinin kime akacağı sorusu, stratejik hesaptan çıkarılıp arınma isteğine (yezzekkâ) bağlandı."
+    },
+    {
+      "situation": "İnsanın bir damla sudan yaratıldığını, rızkının topraktan çıkarıldığını ve ölümünün kaçınılmaz olduğunu herkes biliyordu.",
+      "response": "Metin bu bilgiyi üst üste koydu — yaratılış, ölüm, diriliş — ve \"bu hâlde nankörlük nereden geliyor?\" diye sordu.",
+      "shift": "Statü, yalnızca taşınan güç olarak değil, aynı zamanda taşınan borç olarak da okunabilir hâle geldi."
+    },
+    {
+      "situation": "O gün meclisteki insanlar, kıyamet gününü soyut bir tehdit olarak duyuyordu; ağırlığı yoktu.",
+      "response": "Metin o günü somut bir sahneye indirdi: kardeşten kaçış, anneden kaçış, çocuklardan kaçış — kabile bağının da korunma sağlamadığı an.",
+      "shift": "O güne kadar güvence sağlayan her bağın o anda işlevsiz kaldığı görüntüsü, kabile dayanışmasına duyulan güveni sorgulatır hâle geldi."
+    }
+  ],
+  "apophaticReading": "'Bu sure yalnızca tebliğin kimlere yapılacağını düzenleyen bir hukuk metnidir' okuması metnin kendi mantığıyla çelişir. Çünkü aynı sure — yüzünü ekşitmek, bir damla sudan yaratılmak, ölüm, topraktan çıkan üzüm ve hurma, anneden kaçış — bunları art arda sıralarken bir fıkıh çerçevesi değil, bir varoluş sorusu kurar. Metnin omurgası 'kim tebliğ edilmeli?' değil; 'bir insan neyi gerçekten önemli sayar ve bu sayma ediminin bedeli nedir?'\n\n'Peygamberi eleştiren ayetler, onun yanılmazlığını zedeler; bu yüzden fail başka biri olmalıdır' okuması da metnin kendi mantığıyla çelişir. Çünkü aynı sure, üçüncü şahıs kipiyle başlayıp ikinci şahsa geçmesiyle zaten o mesafeyi kendisi kuruyor — eleştiri sertleşmesin diye değil, hem eleştiri hem hitap aynı anda işlesin diye. Metnin kendi kurgusu eleştiriyi taşıyor; eleştiriyi başka bir omuzda taşıtmaya gerek bırakmıyor.\n\n'Sure kıyametin dehşetini anlatmak için indi' okuması da eksik kalır. Çünkü aynı sure, hesap sahnesinden önce tahıl, üzüm, zeytin, hurma, meyve ve otlak sıralar — bunlar yıkım değil, elde olan nimettir. Hesap sahnesi bu nimetlerin ardından gelir; yani met bu dünyanın kendisini de gözden geçirir, yalnızca ötekini değil.\n\nGeriye kalan yönelim şu: Sure birbirinden ayrı gibi görünen üç katmanı — bir anlık yüz ifadesi, evrenin yaratılışı, hesap günü — tek bir soruyla bağlıyor gibidir: Bir insan neyi gerçek saydığını, o anın yüz kaslarında, o günün ilgisinde ve o son günün kaçışında gösteriyor.\n\nBugüne kadar az bakılmış açı şudur: Sure, görme engelli olan kişiyi görme sahibi olanların karşısına koyuyor — ama görme yetisi değil, görme yönü bakımından. Metindeki ayrım, beden kapasitesi üzerinden değil, \"kim gerçekten bir şey arıyor?\" üzerinden işliyor. Görme engelli olan, yezzekkâ — arınmak — için geliyor; görenler ise ne aradıklarından emin değil. Bu, cahiliye kavramıyla doğrudan temas ediyor: sorun bilgi eksikliği değil, arınma isteğinin yokluğu. Körün gelmesi ve görenin sırt çevirmesi, surenin tam ortasındaki ironidir.\n\nSusma: *O mecliste neler konuşulduğu, ikna girişiminin tam olarak nasıl ilerlediği buradan görünmez.*",
+  "aiCommentary": "Bu dört bölüm, yapay zekâ tarafından yazılmıştır. Kullanılan kaynaklar şunlardır: surenin Arapça metni; TDV İslâm Ansiklopedisi'nin 'Abese' ve 'Câhiliye' maddeleri; nüzul rivayetleri için Tirmizî ve Taberî referanslı ikincil tefsir kaynakları; doğrulanmış editoryal içerik olarak sunulan, Izutsu, Ca'fer b. Ebû Tâlib rivayeti ve Buhârî'deki Ebû Zer hadisini içeren zemin metni. Metnin hangi olayı anlattığına dair ihtilaf noktalı olarak aktarılmış, rivayetle desteklenmeyen görüşler ayrıca işaretlenmiştir.\n\nApofatik okuma bölümü (\"neyi dışarıda bırakıyor?\") bilinçli olarak olumsuzlama yöntemiyle kurulmuştur. Bu yöntemin nedeni şudur: bir metnin ne söylediğini iddia etmek, konuşanın maksadına dair bir yorumdur; her yorum, yorumcunun kendi zemininden yapılır. Yaygın okumaları metnin kendi iç mantığıyla sınamak, yeni bir kesinlik kurmak değil, hangi okumaların metinle tutarsız olduğunu göstermektir. \"Geriye kalan yönelim\" ifadesi de bu yüzden kesinlik değil, ihtimal diliyle yazılmıştır.\n\nBu metin bir tefsir, bir meal veya bir fetva değildir. Hiçbir amel hükmü içermez; \"şu doğrudur, şu yanlıştır\" biçiminde bir sonuç çıkarılamaz. Kullanılan kaynaklara erişim sınırlıdır; yeni filolojik, tarihsel veya tefsir verileri ortaya çıktığında buradaki okumalar değişebilir. Okuyucunun kendi yargısını bu metnin dışında ve üzerinde tutması beklenir."
 }

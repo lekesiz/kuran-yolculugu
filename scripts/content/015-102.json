@@ -1,307 +1,332 @@
 {
- "stationNo": 15,
- "surahNo": 102,
- "nuzulOrderOkuyan": 16,
- "name": "Tekâsür",
- "nameArabic": "التكاثر",
- "nameMeaning": "Çoklukla yarışmak",
- "verseCount": 8,
- "periodDiyanet": "Mekke",
- "periodOkuyan": "Mekke",
- "revelationTiming": "Mekke dönemi",
- "stationTitle": "Çoklukla yarışmak insanı oyalar; sonra hesap sorulan şey, sahip olduklarıdır.",
- "introduction": "Tekâsür suresi, adını birinci ayetteki \"tekâsür\" kelimesinden alır; çoklukla yarışmak, birbirine karşı çoklukla övünmek demektir. Sekiz ayetlik sure Mekke döneminde inmiştir.\n\nSure kısa ve sert bir yapıdadır. Önce çoklukla yarışmanın insanı oyaladığı bildirilir. Ardından bu oyalanmanın bilgisizlik olduğu iki kez vurgulanır. Kapanışta ise \"nimetlerden sorguya çekileceksiniz\" denerek sahip olunan şeylerin hesabı gündeme getirilir.",
- "occasionOfRevelation": "Sure, Mekke'nin ticaret zenginliğiyle övündüğü ve kabilelerin nüfus, mal ve evlat sayısıyla birbirine üstünlük iddia ettiği bir ortamda inmiştir. Cahiliye Arap toplumunda \"kimin kabilesi daha kalabalık, kimin sürüsü daha büyük\" tartışmaları itibar mücadelesinin merkezindeydi.\n\nSurenin kullandığı fiil bu yarışmayı tam olarak tarif eder: \"tekâsür\", karşılıklılık kalıbındadır — yani tek taraflı bir birikim değil, birbirine karşı yapılan bir çoğaltma yarışıdır. Sorun malın kendisi değil, malın bir üstünlük gösterisine dönüşmesidir.\n\nSekizinci ayet ise ölçüyü değiştirir: \"Sonra o gün nimetlerden mutlaka sorguya çekileceksiniz.\" Sahip olmak, hesabı olmayan bir kazanç değildir. Klasik tefsirler bu ayeti çok geniş yorumlar; sağlık, zaman ve imkânların tamamı bu sorgunun kapsamındadır.",
- "occasionSources": "Diyanet İşleri Başkanlığı Kur'an Yolu Tefsiri, Tekâsür suresi girişi; TDV İslâm Ansiklopedisi, \"Tekâsür Sûresi\" maddesi.",
- "contemporaryMeaning": "Bu surenin bugüne bakışı doğrudandır. Çoklukla yarışmak artık sürü ve kabile üzerinden değil, takipçi, gelir, unvan, seyahat ve tüketim üzerinden yürüyor. Karşılaştırma mekanizması aynı: kendi hayatımı kendi ölçütlerimle değil, başkasının sayılarıyla değerlendirmek.\n\nSurenin kullandığı kelime \"elhâ\" — oyaladı, meşgul etti, asıl işten alıkoydu. Yani çoklukla yarışmanın zararı sadece haksızlık değil, dikkat kaybıdır. İnsan bu yarışın içinde asıl sorusunu unutur.\n\nKapanış ise sahip olmayı bir yük hâline getirir: elindeki her imkân hesabı olan bir emanettir. Bu, mülkiyeti reddetmek değil, mülkiyeti sorumluluğa bağlamaktır.",
- "keyTerms": [
-  {
-   "term": "tekâsür",
-   "arabic": "التَّكَاثُر",
-   "verseRef": "102:1",
-   "meaning": "Çoklukla yarışmak, birbirine karşı çoğaltma iddiasında bulunmak. Karşılıklılık kalıbındadır: yarış iki taraflıdır."
-  },
-  {
-   "term": "elhâ",
-   "arabic": "أَلْهَاكُم",
-   "verseRef": "102:1",
-   "meaning": "Oyaladı, meşgul etti, asıl işten alıkoydu. Zararın dikkat kaybı olarak tanımlanması."
-  },
-  {
-   "term": "ilme'l-yakîn",
-   "arabic": "عِلْمَ الْيَقِينِ",
-   "verseRef": "102:5",
-   "meaning": "Kesin bilgi. Oyalanmanın karşısına konan hâl: tahmin değil kesinlik."
-  },
-  {
-   "term": "en-na'îm",
-   "arabic": "النَّعِيم",
-   "verseRef": "102:8",
-   "meaning": "Nimet, verilen imkân. Hesabı sorulacak şey; tefsirlerde sağlık, zaman ve bütün imkânları kapsayacak genişlikte anlaşılır."
-  }
- ],
- "themes": [
-  {
-   "label": "Yarış iki taraflıdır",
-   "body": "\"Tekâsür\" karşılıklılık kalıbındadır. Sorun biriktirmek değil, biriktirmeyi birine karşı bir üstünlük iddiasına çevirmektir."
-  },
-  {
-   "label": "Asıl zarar: dikkat kaybı",
-   "body": "Metnin kullandığı fiil \"oyaladı\"dır. Çoklukla yarışmak insanı haksızlığa sürüklemekten önce asıl sorusundan uzaklaştırır."
-  },
-  {
-   "label": "Sahip olmak, hesabı olan bir hâldir",
-   "body": "\"Nimetlerden sorguya çekileceksiniz.\" Mülkiyet reddedilmez, sorumluluğa bağlanır."
-  }
- ],
- "questions": [
-  "Kendi hayatımı değerlendirirken hangi sayılara bakıyorum? Bu sayılar benim mi, başkalarıyla kıyasın mı ürünü?",
-  "Çoklukla yarışmak beni hangi asıl sorumdan uzaklaştırıyor?",
-  "Elimdeki imkânlardan biri için \"bunun hesabını verebilir miyim?\" diye düşündüm mü?"
- ],
- "verses": [
-  {
-   "verseNo": 1,
-   "textArabic": "بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ أَلْهَىٰكُمُ ٱلتَّكَاثُرُ"
-  },
-  {
-   "verseNo": 2,
-   "textArabic": "حَتَّىٰ زُرْتُمُ ٱلْمَقَابِرَ"
-  },
-  {
-   "verseNo": 3,
-   "textArabic": "كَلَّا سَوْفَ تَعْلَمُونَ"
-  },
-  {
-   "verseNo": 4,
-   "textArabic": "ثُمَّ كَلَّا سَوْفَ تَعْلَمُونَ"
-  },
-  {
-   "verseNo": 5,
-   "textArabic": "كَلَّا لَوْ تَعْلَمُونَ عِلْمَ ٱلْيَقِينِ"
-  },
-  {
-   "verseNo": 6,
-   "textArabic": "لَتَرَوُنَّ ٱلْجَحِيمَ"
-  },
-  {
-   "verseNo": 7,
-   "textArabic": "ثُمَّ لَتَرَوُنَّهَا عَيْنَ ٱلْيَقِينِ"
-  },
-  {
-   "verseNo": 8,
-   "textArabic": "ثُمَّ لَتُسْـَٔلُنَّ يَوْمَئِذٍ عَنِ ٱلنَّعِيمِ"
-  }
- ],
- "translations": [
-  {
-   "verseNo": 1,
-   "source": "diyanet",
-   "text": "Yürekleri hoplatan büyük felaket!"
-  },
-  {
-   "verseNo": 1,
-   "source": "islamoglu",
-   "text": "ÇOĞALTMA tutkusu sizi oyalayıp durdu,"
-  },
-  {
-   "verseNo": 1,
-   "source": "esed",
-   "text": "Bir açgözlülük saplantısı içindesiniz"
-  },
-  {
-   "verseNo": 1,
-   "source": "okuyan",
-   "text": "Çoğaltma yarışı sizi oyaladı!"
-  },
-  {
-   "verseNo": 2,
-   "source": "diyanet",
-   "text": "Nedir o yürekleri hoplatan büyük felaket?"
-  },
-  {
-   "verseNo": 2,
-   "source": "islamoglu",
-   "text": "ta ki siz mezarlara varıncaya dek."
-  },
-  {
-   "verseNo": 2,
-   "source": "esed",
-   "text": "mezarlarınıza girinceye dek (süren)"
-  },
-  {
-   "verseNo": 2,
-   "source": "okuyan",
-   "text": "Sonunda mezarlıkları (bile) ziyaret ettiniz."
-  },
-  {
-   "verseNo": 3,
-   "source": "diyanet",
-   "text": "Yürekleri hoplatan büyük felaketin ne olduğunu sen ne bileceksin?"
-  },
-  {
-   "verseNo": 3,
-   "source": "islamoglu",
-   "text": "Ama hayır! Vakti gelince, gerçeği (burada) öğreneceksiniz;"
-  },
-  {
-   "verseNo": 3,
-   "source": "esed",
-   "text": "Ama, zamanı geldiğinde anlayacaksınız"
-  },
-  {
-   "verseNo": 3,
-   "source": "okuyan",
-   "text": "Hayır! İleride bileceksiniz!"
-  },
-  {
-   "verseNo": 4,
-   "source": "diyanet",
-   "text": "O gün insanlar, her biri bir tarafa uçuşan küçük kelebekler gibi olacaktır."
-  },
-  {
-   "verseNo": 4,
-   "source": "islamoglu",
-   "text": "daha da olmadı, o zaman vakti gelince gerçeği (orada) öğreneceksiniz."
-  },
-  {
-   "verseNo": 4,
-   "source": "esed",
-   "text": "Evet, evet! Zamanı geldiğinde anlayacaksınız"
-  },
-  {
-   "verseNo": 4,
-   "source": "okuyan",
-   "text": "Sonra, ileride elbette bileceksiniz!"
-  },
-  {
-   "verseNo": 5,
-   "source": "diyanet",
-   "text": "Dağlar da atılmış renkli yünler gibi olacaktır."
-  },
-  {
-   "verseNo": 5,
-   "source": "islamoglu",
-   "text": "Hayır, hayır! eğer bu (tutkunun neye mal olduğunu) tam kavramış olsaydınız,"
-  },
-  {
-   "verseNo": 5,
-   "source": "esed",
-   "text": "Hayır, (onu) tartışılmaz bir kesinlikle anlasaydınız"
-  },
-  {
-   "verseNo": 5,
-   "source": "okuyan",
-   "text": "5,6. Hayır! Şüphesiz ki kesin bir bilgiyle bilseydiniz, ateşi (önceden) elbette görürdünüz."
-  },
-  {
-   "verseNo": 6,
-   "source": "diyanet",
-   "text": "İşte o vakit, kimin tartıları ağır gelmişse,"
-  },
-  {
-   "verseNo": 6,
-   "source": "islamoglu",
-   "text": "elbet (dünyayı) cehenneme (çevirdiğinizi) de görürdünüz;"
-  },
-  {
-   "verseNo": 6,
-   "source": "esed",
-   "text": "(cehennemin) yakıcı ateşini mutlaka görürdünüz"
-  },
-  {
-   "verseNo": 6,
-   "source": "okuyan",
-   "text": "5,6. Hayır! Şüphesiz ki kesin bir bilgiyle bilseydiniz, ateşi (önceden) elbette görürdünüz."
-  },
-  {
-   "verseNo": 7,
-   "source": "diyanet",
-   "text": "Artık o, hoşnut olacağı bir hayat içinde olacaktır."
-  },
-  {
-   "verseNo": 7,
-   "source": "islamoglu",
-   "text": "(Tutun ki burada göremediniz), ama daha sonra (âhirette) onu zaten gözlerinizle göreceksiniz;"
-  },
-  {
-   "verseNo": 7,
-   "source": "esed",
-   "text": "Sonunda onu keskin bir gözle mutlaka göreceksiniz"
-  },
-  {
-   "verseNo": 7,
-   "source": "okuyan",
-   "text": "Sonra onu (ahirette) bizzat göreceksiniz."
-  },
-  {
-   "verseNo": 8,
-   "source": "diyanet",
-   "text": "Ama kimin de tartıları hafif gelirse,"
-  },
-  {
-   "verseNo": 8,
-   "source": "islamoglu",
-   "text": "nihayet o gün, ebedî nimetlerden vaz geçip (geçici nimetlere yönelmenizden) dolayı hesaba çekileceksiniz."
-  },
-  {
-   "verseNo": 8,
-   "source": "esed",
-   "text": "ve o Gün hayatın nimetleri(ne karşı yaptıklarınız) için mutlaka sorguya çekileceksiniz"
-  },
-  {
-   "verseNo": 8,
-   "source": "okuyan",
-   "text": "Sonra o gün, (dünyada size verilen) nimetlerden elbette sorulacaksınız."
-  },
-  {
-   "verseNo": 1,
-   "verseNoEnd": null,
-   "source": "ai",
-   "text": "Çoklukta yarışmak sizi oyaladı."
-  },
-  {
-   "verseNo": 2,
-   "verseNoEnd": null,
-   "source": "ai",
-   "text": "Mezarlıkları ziyaret edinceye kadar."
-  },
-  {
-   "verseNo": 3,
-   "verseNoEnd": null,
-   "source": "ai",
-   "text": "Hayır, yakında bileceksiniz."
-  },
-  {
-   "verseNo": 4,
-   "verseNoEnd": null,
-   "source": "ai",
-   "text": "Sonra hayır, yakında bileceksiniz."
-  },
-  {
-   "verseNo": 5,
-   "verseNoEnd": null,
-   "source": "ai",
-   "text": "Hayır! Keşke kesin bilgiye sahip olsaydınız."
-  },
-  {
-   "verseNo": 6,
-   "verseNoEnd": null,
-   "source": "ai",
-   "text": "Cehennemi mutlaka göreceksiniz."
-  },
-  {
-   "verseNo": 7,
-   "verseNoEnd": null,
-   "source": "ai",
-   "text": "Sonra onu kesin olarak göreceksiniz."
-  },
-  {
-   "verseNo": 8,
-   "verseNoEnd": null,
-   "source": "ai",
-   "text": "Sonra o gün size nimet hakkında sorulacak."
-  }
- ],
- "aiParagraph": "Bir insan düşünün: elindekini saydı, komşusunkiyle kıyasladı, biraz daha kazandı, biraz daha büyüdü, bir sonraki hedefe baktı — ve bu döngü, mezar boyunu geçene kadar devam etti. Arapça metin tam da bunu söylüyor: \"çoğaltma yarışı\" insanı öyle bir sardı ki, ancak kabirleri ziyaret etmek — yani ölmek — bu sarhoşluğu kesti. Metin burada durup bir uyarı çakıyor, hem de iki kez çakıyor; sanki birincisi yetmeyecekmiş gibi. Ama asıl ağırlık son ayette: o gün insana, sahip olduğu nimetlerden hesap sorulacak. Sadece kötülüklerden değil — nimetlerden. Elinden geçen sağlıktan, güvenden, vakitten, doygunluktan. Bu, hesabı yalnızca \"ne yaptın?\" sorusuna bağlayanlar için beklenmedik bir açıdır; metin \"ne verildi sana, ne yaptın onunla?\" diye soruyor. Biriktirmenin kendisi değil, biriktirmenin insanı nereye kör ettiği — işte metnin asıl meselesi bu."
+  "stationNo": 15,
+  "surahNo": 102,
+  "nuzulOrderOkuyan": 16,
+  "name": "Tekâsür",
+  "nameArabic": "التكاثر",
+  "nameMeaning": "Çoklukla yarışmak",
+  "verseCount": 8,
+  "periodDiyanet": "Mekke",
+  "periodOkuyan": "Mekke",
+  "revelationTiming": "Mekke dönemi",
+  "stationTitle": "Çoklukla yarışmak insanı oyalar; sonra hesap sorulan şey, sahip olduklarıdır.",
+  "introduction": "Tekâsür suresi, adını birinci ayetteki \"tekâsür\" kelimesinden alır; çoklukla yarışmak, birbirine karşı çoklukla övünmek demektir. Sekiz ayetlik sure Mekke döneminde inmiştir.\n\nSure kısa ve sert bir yapıdadır. Önce çoklukla yarışmanın insanı oyaladığı bildirilir. Ardından bu oyalanmanın bilgisizlik olduğu iki kez vurgulanır. Kapanışta ise \"nimetlerden sorguya çekileceksiniz\" denerek sahip olunan şeylerin hesabı gündeme getirilir.",
+  "occasionOfRevelation": "Sure, Mekke'nin ticaret zenginliğiyle övündüğü ve kabilelerin nüfus, mal ve evlat sayısıyla birbirine üstünlük iddia ettiği bir ortamda inmiştir. Cahiliye Arap toplumunda \"kimin kabilesi daha kalabalık, kimin sürüsü daha büyük\" tartışmaları itibar mücadelesinin merkezindeydi.\n\nSurenin kullandığı fiil bu yarışmayı tam olarak tarif eder: \"tekâsür\", karşılıklılık kalıbındadır — yani tek taraflı bir birikim değil, birbirine karşı yapılan bir çoğaltma yarışıdır. Sorun malın kendisi değil, malın bir üstünlük gösterisine dönüşmesidir.\n\nSekizinci ayet ise ölçüyü değiştirir: \"Sonra o gün nimetlerden mutlaka sorguya çekileceksiniz.\" Sahip olmak, hesabı olmayan bir kazanç değildir. Klasik tefsirler bu ayeti çok geniş yorumlar; sağlık, zaman ve imkânların tamamı bu sorgunun kapsamındadır.",
+  "occasionSources": "Diyanet İşleri Başkanlığı Kur'an Yolu Tefsiri, Tekâsür suresi girişi; TDV İslâm Ansiklopedisi, \"Tekâsür Sûresi\" maddesi.",
+  "contemporaryMeaning": "Bu surenin bugüne bakışı doğrudandır. Çoklukla yarışmak artık sürü ve kabile üzerinden değil, takipçi, gelir, unvan, seyahat ve tüketim üzerinden yürüyor. Karşılaştırma mekanizması aynı: kendi hayatımı kendi ölçütlerimle değil, başkasının sayılarıyla değerlendirmek.\n\nSurenin kullandığı kelime \"elhâ\" — oyaladı, meşgul etti, asıl işten alıkoydu. Yani çoklukla yarışmanın zararı sadece haksızlık değil, dikkat kaybıdır. İnsan bu yarışın içinde asıl sorusunu unutur.\n\nKapanış ise sahip olmayı bir yük hâline getirir: elindeki her imkân hesabı olan bir emanettir. Bu, mülkiyeti reddetmek değil, mülkiyeti sorumluluğa bağlamaktır.",
+  "keyTerms": [
+    {
+      "term": "tekâsür",
+      "arabic": "التَّكَاثُر",
+      "verseRef": "102:1",
+      "meaning": "Çoklukla yarışmak, birbirine karşı çoğaltma iddiasında bulunmak. Karşılıklılık kalıbındadır: yarış iki taraflıdır."
+    },
+    {
+      "term": "elhâ",
+      "arabic": "أَلْهَاكُم",
+      "verseRef": "102:1",
+      "meaning": "Oyaladı, meşgul etti, asıl işten alıkoydu. Zararın dikkat kaybı olarak tanımlanması."
+    },
+    {
+      "term": "ilme'l-yakîn",
+      "arabic": "عِلْمَ الْيَقِينِ",
+      "verseRef": "102:5",
+      "meaning": "Kesin bilgi. Oyalanmanın karşısına konan hâl: tahmin değil kesinlik."
+    },
+    {
+      "term": "en-na'îm",
+      "arabic": "النَّعِيم",
+      "verseRef": "102:8",
+      "meaning": "Nimet, verilen imkân. Hesabı sorulacak şey; tefsirlerde sağlık, zaman ve bütün imkânları kapsayacak genişlikte anlaşılır."
+    }
+  ],
+  "themes": [
+    {
+      "label": "Yarış iki taraflıdır",
+      "body": "\"Tekâsür\" karşılıklılık kalıbındadır. Sorun biriktirmek değil, biriktirmeyi birine karşı bir üstünlük iddiasına çevirmektir."
+    },
+    {
+      "label": "Asıl zarar: dikkat kaybı",
+      "body": "Metnin kullandığı fiil \"oyaladı\"dır. Çoklukla yarışmak insanı haksızlığa sürüklemekten önce asıl sorusundan uzaklaştırır."
+    },
+    {
+      "label": "Sahip olmak, hesabı olan bir hâldir",
+      "body": "\"Nimetlerden sorguya çekileceksiniz.\" Mülkiyet reddedilmez, sorumluluğa bağlanır."
+    }
+  ],
+  "questions": [
+    "Kendi hayatımı değerlendirirken hangi sayılara bakıyorum? Bu sayılar benim mi, başkalarıyla kıyasın mı ürünü?",
+    "Çoklukla yarışmak beni hangi asıl sorumdan uzaklaştırıyor?",
+    "Elimdeki imkânlardan biri için \"bunun hesabını verebilir miyim?\" diye düşündüm mü?"
+  ],
+  "verses": [
+    {
+      "verseNo": 1,
+      "textArabic": "بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ أَلْهَىٰكُمُ ٱلتَّكَاثُرُ"
+    },
+    {
+      "verseNo": 2,
+      "textArabic": "حَتَّىٰ زُرْتُمُ ٱلْمَقَابِرَ"
+    },
+    {
+      "verseNo": 3,
+      "textArabic": "كَلَّا سَوْفَ تَعْلَمُونَ"
+    },
+    {
+      "verseNo": 4,
+      "textArabic": "ثُمَّ كَلَّا سَوْفَ تَعْلَمُونَ"
+    },
+    {
+      "verseNo": 5,
+      "textArabic": "كَلَّا لَوْ تَعْلَمُونَ عِلْمَ ٱلْيَقِينِ"
+    },
+    {
+      "verseNo": 6,
+      "textArabic": "لَتَرَوُنَّ ٱلْجَحِيمَ"
+    },
+    {
+      "verseNo": 7,
+      "textArabic": "ثُمَّ لَتَرَوُنَّهَا عَيْنَ ٱلْيَقِينِ"
+    },
+    {
+      "verseNo": 8,
+      "textArabic": "ثُمَّ لَتُسْـَٔلُنَّ يَوْمَئِذٍ عَنِ ٱلنَّعِيمِ"
+    }
+  ],
+  "translations": [
+    {
+      "verseNo": 1,
+      "source": "diyanet",
+      "text": "Yürekleri hoplatan büyük felaket!"
+    },
+    {
+      "verseNo": 1,
+      "source": "islamoglu",
+      "text": "ÇOĞALTMA tutkusu sizi oyalayıp durdu,"
+    },
+    {
+      "verseNo": 1,
+      "source": "esed",
+      "text": "Bir açgözlülük saplantısı içindesiniz"
+    },
+    {
+      "verseNo": 1,
+      "source": "okuyan",
+      "text": "Çoğaltma yarışı sizi oyaladı!"
+    },
+    {
+      "verseNo": 2,
+      "source": "diyanet",
+      "text": "Nedir o yürekleri hoplatan büyük felaket?"
+    },
+    {
+      "verseNo": 2,
+      "source": "islamoglu",
+      "text": "ta ki siz mezarlara varıncaya dek."
+    },
+    {
+      "verseNo": 2,
+      "source": "esed",
+      "text": "mezarlarınıza girinceye dek (süren)"
+    },
+    {
+      "verseNo": 2,
+      "source": "okuyan",
+      "text": "Sonunda mezarlıkları (bile) ziyaret ettiniz."
+    },
+    {
+      "verseNo": 3,
+      "source": "diyanet",
+      "text": "Yürekleri hoplatan büyük felaketin ne olduğunu sen ne bileceksin?"
+    },
+    {
+      "verseNo": 3,
+      "source": "islamoglu",
+      "text": "Ama hayır! Vakti gelince, gerçeği (burada) öğreneceksiniz;"
+    },
+    {
+      "verseNo": 3,
+      "source": "esed",
+      "text": "Ama, zamanı geldiğinde anlayacaksınız"
+    },
+    {
+      "verseNo": 3,
+      "source": "okuyan",
+      "text": "Hayır! İleride bileceksiniz!"
+    },
+    {
+      "verseNo": 4,
+      "source": "diyanet",
+      "text": "O gün insanlar, her biri bir tarafa uçuşan küçük kelebekler gibi olacaktır."
+    },
+    {
+      "verseNo": 4,
+      "source": "islamoglu",
+      "text": "daha da olmadı, o zaman vakti gelince gerçeği (orada) öğreneceksiniz."
+    },
+    {
+      "verseNo": 4,
+      "source": "esed",
+      "text": "Evet, evet! Zamanı geldiğinde anlayacaksınız"
+    },
+    {
+      "verseNo": 4,
+      "source": "okuyan",
+      "text": "Sonra, ileride elbette bileceksiniz!"
+    },
+    {
+      "verseNo": 5,
+      "source": "diyanet",
+      "text": "Dağlar da atılmış renkli yünler gibi olacaktır."
+    },
+    {
+      "verseNo": 5,
+      "source": "islamoglu",
+      "text": "Hayır, hayır! eğer bu (tutkunun neye mal olduğunu) tam kavramış olsaydınız,"
+    },
+    {
+      "verseNo": 5,
+      "source": "esed",
+      "text": "Hayır, (onu) tartışılmaz bir kesinlikle anlasaydınız"
+    },
+    {
+      "verseNo": 5,
+      "source": "okuyan",
+      "text": "5,6. Hayır! Şüphesiz ki kesin bir bilgiyle bilseydiniz, ateşi (önceden) elbette görürdünüz."
+    },
+    {
+      "verseNo": 6,
+      "source": "diyanet",
+      "text": "İşte o vakit, kimin tartıları ağır gelmişse,"
+    },
+    {
+      "verseNo": 6,
+      "source": "islamoglu",
+      "text": "elbet (dünyayı) cehenneme (çevirdiğinizi) de görürdünüz;"
+    },
+    {
+      "verseNo": 6,
+      "source": "esed",
+      "text": "(cehennemin) yakıcı ateşini mutlaka görürdünüz"
+    },
+    {
+      "verseNo": 6,
+      "source": "okuyan",
+      "text": "5,6. Hayır! Şüphesiz ki kesin bir bilgiyle bilseydiniz, ateşi (önceden) elbette görürdünüz."
+    },
+    {
+      "verseNo": 7,
+      "source": "diyanet",
+      "text": "Artık o, hoşnut olacağı bir hayat içinde olacaktır."
+    },
+    {
+      "verseNo": 7,
+      "source": "islamoglu",
+      "text": "(Tutun ki burada göremediniz), ama daha sonra (âhirette) onu zaten gözlerinizle göreceksiniz;"
+    },
+    {
+      "verseNo": 7,
+      "source": "esed",
+      "text": "Sonunda onu keskin bir gözle mutlaka göreceksiniz"
+    },
+    {
+      "verseNo": 7,
+      "source": "okuyan",
+      "text": "Sonra onu (ahirette) bizzat göreceksiniz."
+    },
+    {
+      "verseNo": 8,
+      "source": "diyanet",
+      "text": "Ama kimin de tartıları hafif gelirse,"
+    },
+    {
+      "verseNo": 8,
+      "source": "islamoglu",
+      "text": "nihayet o gün, ebedî nimetlerden vaz geçip (geçici nimetlere yönelmenizden) dolayı hesaba çekileceksiniz."
+    },
+    {
+      "verseNo": 8,
+      "source": "esed",
+      "text": "ve o Gün hayatın nimetleri(ne karşı yaptıklarınız) için mutlaka sorguya çekileceksiniz"
+    },
+    {
+      "verseNo": 8,
+      "source": "okuyan",
+      "text": "Sonra o gün, (dünyada size verilen) nimetlerden elbette sorulacaksınız."
+    },
+    {
+      "verseNo": 1,
+      "verseNoEnd": null,
+      "source": "ai",
+      "text": "Çoklukta yarışmak sizi oyaladı."
+    },
+    {
+      "verseNo": 2,
+      "verseNoEnd": null,
+      "source": "ai",
+      "text": "Mezarlıkları ziyaret edinceye kadar."
+    },
+    {
+      "verseNo": 3,
+      "verseNoEnd": null,
+      "source": "ai",
+      "text": "Hayır, yakında bileceksiniz."
+    },
+    {
+      "verseNo": 4,
+      "verseNoEnd": null,
+      "source": "ai",
+      "text": "Sonra hayır, yakında bileceksiniz."
+    },
+    {
+      "verseNo": 5,
+      "verseNoEnd": null,
+      "source": "ai",
+      "text": "Hayır! Keşke kesin bilgiye sahip olsaydınız."
+    },
+    {
+      "verseNo": 6,
+      "verseNoEnd": null,
+      "source": "ai",
+      "text": "Cehennemi mutlaka göreceksiniz."
+    },
+    {
+      "verseNo": 7,
+      "verseNoEnd": null,
+      "source": "ai",
+      "text": "Sonra onu kesin olarak göreceksiniz."
+    },
+    {
+      "verseNo": 8,
+      "verseNoEnd": null,
+      "source": "ai",
+      "text": "Sonra o gün size nimet hakkında sorulacak."
+    }
+  ],
+  "aiParagraph": "Bir insan düşünün: elindekini saydı, komşusunkiyle kıyasladı, biraz daha kazandı, biraz daha büyüdü, bir sonraki hedefe baktı — ve bu döngü, mezar boyunu geçene kadar devam etti. Arapça metin tam da bunu söylüyor: \"çoğaltma yarışı\" insanı öyle bir sardı ki, ancak kabirleri ziyaret etmek — yani ölmek — bu sarhoşluğu kesti. Metin burada durup bir uyarı çakıyor, hem de iki kez çakıyor; sanki birincisi yetmeyecekmiş gibi. Ama asıl ağırlık son ayette: o gün insana, sahip olduğu nimetlerden hesap sorulacak. Sadece kötülüklerden değil — nimetlerden. Elinden geçen sağlıktan, güvenden, vakitten, doygunluktan. Bu, hesabı yalnızca \"ne yaptın?\" sorusuna bağlayanlar için beklenmedik bir açıdır; metin \"ne verildi sana, ne yaptın onunla?\" diye soruyor. Biriktirmenin kendisi değil, biriktirmenin insanı nereye kör ettiği — işte metnin asıl meselesi bu.",
+  "audienceContext": "Tekâsür'ün ilk muhatabı Mekke'nin ticaret eşrafıydı. Bunlar okuma yazma bilmeyen insanlar değildi; aksine kervan hesabı tutan, mal varlığını bilen, kimin kaç devesi, kaç kölesi, kaç özgür akrabası olduğunu ezbere sayan insanlardı. Bu toplumda itibar sayıyla ölçülüyordu: kaç kişisin, kaç kişinin var, geçmişte kaç büyüğün vardı. Yetinmek ahmaklık sayılıyor, daha çok istemek ise erdem olarak övülüyordu. Cahiliye'nin asıl sorunu bilgisizlik değil, zorbalık ve azgınlığın erdem sayılmasıydı — \"cahil\" kelimesi öfkeye esir, arzularına köle anlamına geliyordu. Tekâsür bu tabloya tam oturuyordu: çoğaltma yarışı, kabilenin gücünün dışa vurumu ve başkasını ezmek için kullanılan bir araçtı.\n\nSurenin kullandığı fiil bu dinamiği açık eder: *elhâ* — oyaladı, asıl işten alıkoydu. Metnin sormadan cevapladığı şey şu: \"asıl iş\" neydi de bu yarış onu gölgeledi? Ortak zemine bakınca cevap görünür. Müşrikler Allah'ın var olduğunu ve evreni yarattığını zaten kabul ediyordu. Reddettikleri şey hesap fikriydi: sahip olunanın bir gün sorgulanacağı, birikimin bir yükümlülük doğurduğu. Sure tam bu redde yaslanıyor; Allah'ın varlığını kanıtlamaya çalışmıyor, zaten bilinen bir zemine oturuyor ve oradan muhasebe kapısını açıyor.\n\nDirenç nereden geliyordu? Çoklukla övünme yarışı soyut bir huy değil, somut bir statü düzeniydi. Kimin mal varlığı büyükse kabilesi daha güçlüydü; kimin kabilesi daha güçlüyse, zayıf olanı ezip geçme hakkı da ona aitti. Ca'fer b. Ebî Tâlib bu düzeni Necâşî'ye şöyle özetlemişti: \"güçlü olanlarımız zayıfları ezerdi.\" Tekâsür'e direnenler anlamayanlar değildi; mevcut düzenin belkemiğini oluşturanlardı. Eğer sahip olunan nimetlerin hesabı sorulacaksa, o nimetlerle elde edilen statünün meşruiyeti de sarsılırdı. Bu yüzden sure sekiz ayetten fazla söze gerek duymadı: teşhis kesindi, karşı argümana alan bırakmıyordu.\n\nRivayetler surenin iniş bağlamını iki kabilenin sayım yarışıyla ilişkilendirir. Kureyş'in iki kolunun — Abdümenâf ve Sehm oğullarının — birbirlerine karşı yaşayanlarını saydıkları, yetmeyince mezarlıklara gidip ölülerini de saydıkları aktarılır. Sure bu sahneyi yüzlerine tutuyor: \"elhâkümu't-tekâsür / hattâ zürtümü'l-mekâbir\" — çoklukla yarışma sizi oyaladı, ta ki kabirleri ziyaret ettiniz. Sayılan ölülerin artık kaybına bakılmıyor; onlar bile bir üstünlük göstergesine dönüştürülmüş. Sure bu somut sahneyi evrensel bir teşhisin kapısı olarak kullanıyor.",
+  "eventMessageMap": [
+    {
+      "situation": "İki kabile birbirinin üstünlüğünü çürütmek için ölülerini mezarlıklarda sayıp boy ölçüşüyordu.",
+      "response": "Metin bu davranışı \"oyalanma\" (elhâ) olarak adlandırdı: asıl işten kopuş, bir dikkat kaybı.",
+      "shift": "Yarışın kendisi sorun olmaktan çıktı; yarışın insanı neyin önünden çekip aldığı sorun haline geldi."
+    },
+    {
+      "situation": "Kabilenin büyüklüğü ve mal varlığı, kimlik ve itibarın ölçüsüydü.",
+      "response": "Sure \"kellâ\" (hayır, böyle değil) diyerek bu ölçüyü iki kez reddetti, üçüncüsünde ise kesin bilgi yokluğunu gerekçe gösterdi.",
+      "shift": "İtibarın hangi ölçütle belirleneceği sorusu açık kaldı; ama mevcut ölçüt meşruiyetini yitirdi."
+    },
+    {
+      "situation": "Sahip olunan şeyler — mal, evlat, sağlık, zaman — hesapsız bir kazanç sayılıyordu.",
+      "response": "Kapanış ayeti \"o gün nimetlerden sorguya çekileceksiniz\" dedi; sahip olmayı bir yükümlülükle eşitledi.",
+      "shift": "Birikim artık yalnızca prestij değil, aynı zamanda sorumluluk anlamına gelmeye başladı."
+    },
+    {
+      "situation": "Ölüm, yarışın sona erdiği bir bitiş noktası olarak görülüyordu.",
+      "response": "Sure mezarlığı yarışın bitişi değil, oyalanmanın son durağı olarak gösterdi; asıl hesabı ölümden sonrasına taşıdı.",
+      "shift": "Ölüm, oyunun kapandığı yer olmaktan çıktı; hesabın açıldığı eşiğe dönüştü."
+    }
+  ],
+  "apophaticReading": "**\"Zühd/dünyadan el çekme\" okuması metnin kendi mantığıyla çelişir.** Çünkü aynı sure sahip olunanı yasaklamıyor; sahip olunanın *ne için* kullanıldığını soruyor. Son ayet \"nimetlerden sorguya çekileceksiniz\" diyor — bu cümlenin öznesi nimettir, yokluğu değil. Metnin sorduğu şey \"neden bu kadar çok var?\" değil, \"bu kadar varken ne yaptın?\" Yokluğu erdem olarak sunmak, metnin kurmadığı bir sonuca varmak olur.\n\n**\"Ahiret korkusuyla caydırma\" okuması metnin kendi mantığıyla çelişir.** Çünkü aynı sure cehennem görüntüsünü bir tehdit olarak sunmadan önce, farkındasızlığı — \"kesin bilgiyle bilseydiniz\" — sorunun asıl kökü olarak gösteriyor. Sure beşinci ayette korkudan değil bilgiden söz ediyor: *ilme'l-yakîn*, yani tahmin ve zanla değil, kesinliğe dayalı kavrayışla. Metnin itirazı duygusal bir korkutma değil, bilişsel bir teşhistir.\n\nGeriye kalan yönelim şu alanda: Sure bir davranışı değil, bir dikkat yapısını ele alıyor. \"Elhâ\" fiili — oyaladı, meşgul etti, asıl işten kopardı — zararı kasıt ya da açgözlülük olarak değil, dikkat kaybı olarak tanımlıyor. Sorun birinin fazla sahip olması değil; sahip olduğunun farkındasızlık içinde tüketilmesi. Bu ayrım metinde tutarlı biçimde işliyor: yarış eleştiriliyor, sahip olmak değil.\n\nBugüne kadar az bakılmış açı: Surenin birinci ayetindeki *tekâsür* fiili karşılıklılık kipindedir — tek taraflı bir birikim değil, iki taraflı bir yarış. Bu dilbilgisel yapı önemlidir: sure bireyi değil, ilişkiyi teşhis ediyor. Sorun bir kişinin çok sahip olması değil, iki tarafın birbirini bastırma yarışına girmesi. Cahiliye'nin asıl hastalığı bu ilişki biçimiydi: güçlünün zayıfı ezmesini meşrulaştıran hiyerarşi, sayımla sürdürülüyor ve mezarlıklara taşınıyordu. Sure bu dinamiğe \"oyalanma\" diyor — sanki yarış kendi başına bir anlam taşıyormuş gibi devam ediyor ama gerçekte insanı başka bir şeyin önünden sürüklüyor.\n\nSusma: *Neyin sürüklediğini sure isimlendirmiyor — geriye kalan alanı tarif ediyor, ama o alanı doldurmayı okuyucuya bırakıyor.*",
+  "aiCommentary": "Bu dört bölüm yapay zekâ tarafından üretilmiştir. Kullanılan kaynaklar: surenin Arapça metni; doğrulanmış editoryal içerik olarak sunulan TDV İslâm Ansiklopedisi \"Câhiliye\" ve \"Tekâsür Sûresi\" maddeleri; Diyanet tefsir veritabanındaki nüzul rivayetleri; ve Izutsu'nun cahiliye semantiği üzerine aktarılan tespitleri. Tarihsel bağlam iddiaları bu kaynaklara dayandırılmış, dayanağı bulunmayan sosyolojik iddialardan kaçınılmıştır.\n\nApofatik (olumsuzlama yoluyla) okuma yöntemi bilinçli olarak seçildi. Bunun nedeni şudur: bir metnin ne söylediğini doğrudan ifade etmek, yorumcunun kendi çerçevesini metin üzerine yansıtma riskini taşır. Olumsuzlama ise önce yaygın okumaları metnin kendi iç mantığıyla sınar, ardından bu eleme sonucunda ortada kalan alanı işaret eder. Yaratanın maksadına dair her söz nihayetinde insanın tahminidir; yöntem bu tahmini mümkün olduğunca metnin kendi sözdizimi ve sözcük seçimiyle sınırlandırmaya çalışır.\n\nBu metin tefsir değildir, meal değildir, fetva değildir. Amel hükmü çıkarılamaz. Burada yazılanlar, mevcut kaynaklara ve yönteme dayanılarak üretilmiş bir okuma denemesidir. Yeni kaynak veya farklı bir dilbilimsel çerçeve bu okumanın bazı yanlarını değiştirebilir."
 }

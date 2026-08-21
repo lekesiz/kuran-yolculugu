@@ -10,10 +10,12 @@
   "periodOkuyan": "Mekke",
   "revelationTiming": "İlk vahyin hemen ardından",
   "stationTitle": "Sorumluluk almanın ilk şartı, geceyi kendine ayırmaktır.",
-  "introduction": "Müzzemmil suresi, adını ilk ayetteki \"örtüsüne bürünen\" hitabından alır. Yirmi ayetlik sure, ilk vahyin sarsıntısının hemen ardından gelmiştir ve kendisine yüklenen ağır sorumluluğu taşıyacak kişiye bir hazırlık programı sunar.\n\nSurenin ilk bölümü gece ibadetini, ölçülü bir disiplini ve metnin ağır ağır okunmasını (tertîl) emreder. Yirminci ayet, Medine döneminde bu programın hafifletildiğini bildirir; bu yüzden sure hem bir başlangıç metni hem de sonradan tamamlanmış bir metindir.",
-  "occasionOfRevelation": "Nüzul kaynakları, ilk vahyin ardından Hz. Muhammed'in eve dönüp örtüsüne büründüğünü ve bu hâldeyken \"Ey örtüsüne bürünen!\" hitabının geldiğini nakleder. Hitabın kendisi durumu tasvir eder: sarsılmış, örtünmüş, geri çekilmiş bir insan.\n\nSurenin cevabı ilgi çekicidir. Sarsıntıya \"korkma\" denmez; \"kalk\" denir. Ardından somut bir program gelir: gecenin bir bölümünde kalkmak, metni acele etmeden okumak, söylenene karşı sabır göstermek. Klasik tefsirler bu bölümün, henüz açık davet başlamamışken bir iç hazırlık dönemine denk geldiğini belirtir.\n\nSurenin son ayeti Medine'de inmiştir ve gece ibadetinin farz oluşunu hafifletir. Bu, metnin kendi içinde bir tedricîlik — aşama aşama ilerleme — ilkesi taşıdığını gösterir.",
-  "occasionSources": "Diyanet İşleri Başkanlığı Kur'an Yolu Tefsiri, Müzzemmil suresi girişi; TDV İslâm Ansiklopedisi, \"Müzzemmil Sûresi\" maddesi.",
-  "contemporaryMeaning": "Sure, büyük bir işe girişmenin önce kendisiyle yalnız kalmayı gerektirdiğini söyler. Gece, kimsenin görmediği, performans göstermenin anlamsız olduğu zamandır; bu yüzden karakterin gerçekten kurulduğu yerdir.\n\nTertîl kavramı bugün özellikle önemlidir: metni ağır ağır, tane tane okumak. Hız çağında bir metnin üzerinde yavaşlamak başlı başına bir disiplindir. Surenin son ayetinin yükü hafifletmesi ise ayrı bir ders taşır — sürdürülemeyen bir yoğunluk, erdem değil tükenmedir.",
+  "revisionPass": 2,
+  "revisionNote": "Eksik ikinci bölüm (11-19: yalanlayan servet sahipleri ve Firavun) eklendi; Medine'de inen ayetler 10, 11 ve 20 olarak düzeltildi; ikinci nüzul rivayeti, meclisi güzellikle terk etme emri ve tertîl'in 'açığa çıkarma' anlamı işlendi; mevzû hadis uyarısı dahil altı kaynak notu ilk kez eklendi.",
+  "introduction": "Müzzemmil suresi, adını ilk ayetteki \"örtüsüne bürünen\" hitabından alır. Yirmi ayetlik sure, ilk vahyin sarsıntısının hemen ardından gelmiştir ve kendisine yüklenen ağır sorumluluğu taşıyacak kişiye bir hazırlık programı sunar.\n\nSure üç bölüme ayrılır. İlk bölüm (1-10) hazırlık programıdır: gecenin bir kısmında kalkmak, metni ağır ağır okumak, sabretmek ve incitici söz söyleyenlerin meclisinden kavga çıkarmadan uzaklaşmak. İkinci bölüm (11-19), mesajı yalanlayan servet ve nüfuz sahiplerine döner; onlara Firavun'un akıbetini hatırlatır. Üçüncü bölüm tek bir ayettir (20) ve gece ibadetinin ağırlığını hafifletir.\n\nBu son ayet, öncekilerden yaklaşık on yıl sonra inmiştir. Yani sure bir defada değil, bir ömrün iki ucunda tamamlanmıştır: biri davetin en başında, diğeri artık bir toplumun kurulduğu dönemde.",
+  "occasionOfRevelation": "Kaynaklar iki farklı sebep nakleder. Yaygın kabul gören rivayete göre, ilk vahyin ardından Hz. Muhammed eve dönüp \"beni örtün\" diyerek örtüsüne bürünmüş, bu hâldeyken \"Ey örtüsüne bürünen!\" hitabı gelmiştir. İkinci rivayete göre ise sebep daha sonradır: Kureyş'in ileri gelenlerinden incitici sözler işitmiş, eve gidip örtüsüne bürünmüştür.\n\nİki rivayet de aynı hâli tarif eder: geri çekilme. Farkları, geri çekilmenin sebebinde — biri vahyin ağırlığı, diğeri insanların sözü.\n\nSurenin cevabı her iki durumda da aynıdır ve dikkat çekicidir. Sarsıntıya \"korkma\" denmez; \"kalk\" denir. Ardından somut bir program gelir: gecenin bir bölümünde kalkmak, metni acele etmeden okumak, söylenene sabretmek ve incitici söz söyleyenlerden kavga çıkarmadan uzaklaşmak.\n\nSurenin 10, 11 ve 20. ayetleri Medine döneminde inmiştir. Son ayet gece ibadetinin yükünü hafifletir ve gerekçeyi kendisi sayar: hastalık, geçim için yolculuk, savaş. Metin böylece kendi içinde bir tedricîlik — aşama aşama ilerleme — taşır.",
+  "occasionSources": "Diyanet İşleri Başkanlığı Kur'an Yolu Tefsiri, Müzzemmil suresi 1-4 ve 20. ayet tefsirleri (c. 5, s. 485-486, 489-490); TDV İslâm Ansiklopedisi, \"Müzzemmil Sûresi\" maddesi (M. Kâmil Yaşaroğlu, 2006, c. 32, s. 252); Buhârî, \"Bed'ü'l-vahy\" 3, 7; Müslim, \"Îmân\" 252, 255.",
+  "contemporaryMeaning": "Sure, büyük bir işe girişmenin önce kendisiyle yalnız kalmayı gerektirdiğini söyler. Gece, kimsenin görmediği, performans göstermenin karşılıksız kaldığı zamandır; bu yüzden karakterin gerçekten kurulduğu yerdir. Görünmeyen saatte yapılan şey gösteri olamaz.\n\nTertîl'in sözlük anlamı bunu daha da açar. Kelime yalnızca \"yavaş okumak\" demek değil; Diyanet'in verdiği karşılık \"bir şeyi güzelce sıralamak, dizmek, açığa çıkarmak ve açıklamak\". Ölçüt hız değil, dizilenin görünür olması. Bir metnin üzerinden on dakikada geçip hiçbir şeyin açığa çıkmaması ile üç cümlede durup bir şeyin yerine oturması arasındaki fark budur.\n\nİkinci bölümün muhatapları da tanıdıktır: yalanlayanlar sıradan insanlar değil, \"nimet içindeki\" kişilerdir. Rahatın kendisi bir argümana dönüşür — işler yolundayken sorunun kendisi gereksiz görünür. Metin buna cevap olarak ahlak dersi değil, bir tarih hatırlatır: Firavun da elçiyi dinlememişti.\n\nMeclisi \"güzellikle terk etme\" emri ise bugün en çok atlanan yerdir. Sure incitici söz söyleyene karşılık vermeyi değil, ortamdan kavga çıkarmadan çekilmeyi söyler. Tartışmanın her yerde ve her an mümkün olduğu bir ortamda, cevap yazmamak bir yetenek hâline gelir.\n\nSon ayetin yükü hafifletmesi ayrı bir ders taşır: sürdürülemeyen bir yoğunluk erdem değil, tükenmenin başlangıcıdır. Ayet gerekçeleri kendisi sayar; bunlardan biri de geçimini kazanmak için yola çıkmaktır.",
   "keyTerms": [
     {
       "term": "müzzemmil",
@@ -25,13 +27,25 @@
       "term": "tertîl",
       "arabic": "تَرْتِيلًا",
       "verseRef": "73:4",
-      "meaning": "Ağır ağır, tane tane, düzenli okumak. Aceleyle geçmemek, her kelimenin üzerinde durmak."
+      "meaning": "Sözlükte: bir şeyi güzelce sıralamak, dizmek, açığa çıkarmak ve açıklamak. Okuma bağlamında: acele etmeden, anlamı üzerinde düşünerek okumak. Ölçüt sürenin uzunluğu değil, dizilenin görünür olmasıdır."
     },
     {
       "term": "kavlen sekîlâ",
       "arabic": "قَوْلًا ثَقِيلًا",
       "verseRef": "73:5",
       "meaning": "Ağır söz. Yüklenen sorumluluğun hafif olmadığının baştan bildirilmesi."
+    },
+    {
+      "term": "hecran cemîlâ",
+      "arabic": "هَجْرًا جَمِيلًا",
+      "verseRef": "73:10",
+      "meaning": "Güzellikle ayrılmak. İncitici söz söyleyenlere karşılık vermeden, kavga çıkarmadan ortamdan uzaklaşmak."
+    },
+    {
+      "term": "ûlî'n-na'meti",
+      "arabic": "أُولِي النَّعْمَةِ",
+      "verseRef": "73:11",
+      "meaning": "Nimet sahipleri; refah ve nüfuz içinde olanlar. Surede mesajı yalanlayan kesim olarak anılırlar."
     }
   ],
   "themes": [
@@ -44,18 +58,65 @@
       "body": "Kimsenin görmediği vakitte yapılan şey, gösteri olamaz. Sure sorumluluğa hazırlığı tam olarak buraya, görünmeyen zamana yerleştirir."
     },
     {
-      "label": "Ağır ağır okumak (tertîl)",
-      "body": "Metin, kendisinin acele okunmasını istemez. Yavaşlık burada bir yöntem, hatta bir ahlaktır."
+      "label": "Okumanın ölçüsü: açığa çıkarmak",
+      "body": "Tertîl, kelimenin kökünde 'dizmek ve açığa çıkarmak' demektir. Metin kendisinin acele okunmasını istemez; ölçüt geçen süre değil, okunanın anlaşılır hâle gelmesidir."
+    },
+    {
+      "label": "Tartışmadan çekilebilmek",
+      "body": "Sure, incitici söze karşılık vermeyi değil, ortamdan kavga çıkarmadan uzaklaşmayı söyler. Bu bir kaçış değil, seçilmiş bir sınırdır."
+    },
+    {
+      "label": "Rahatın kendisi bir itiraza dönüşünce",
+      "body": "İkinci bölümde yalanlayanlar yoksullar değil, nimet içinde olanlardır. İşler yolundayken soru sormak gereksiz görünür; metin buna tarihten bir örnekle cevap verir."
     },
     {
       "label": "Sürdürülebilir yük",
-      "body": "Surenin son ayeti gece ibadetinin ağırlığını hafifletir. Taşınamayan bir yoğunluk ısrarla sürdürülmez; metin insanın sınırını tanır."
+      "body": "Surenin son ayeti gece ibadetinin ağırlığını hafifletir. Taşınamayan bir yoğunluk ısrarla sürdürülmez; metin insanın sınırını tanır ve gerekçeleri kendisi sayar: hastalık, geçim yolculuğu, savaş."
     }
   ],
   "questions": [
     "Günümde hiç kimsenin görmediği, hesap vermediğim, tamamen kendime ait bir zaman dilimi var mı? Yoksa bütün vaktim başkalarına görünen işlerle mi dolu?",
-    "Okuduğum şeyleri gerçekten okuyor muyum, yoksa bitirmek için mi geçiyorum? Son ne zaman bir metnin tek bir cümlesinde durup düşündüm?",
+    "Bugün okuduklarımdan geriye ne kaldı? Bir şeyin üzerinden geçmekle onu açığa çıkarmak arasındaki farkı son ne zaman yaşadım?",
+    "Beni inciten bir söze karşılık vermemeyi seçebiliyor muyum? Yoksa cevap yazmamak bana yenilmek gibi mi geliyor?",
+    "İşlerim yolundayken sorduğum sorular azalıyor mu? Rahatlığım, sormaya değer şeyleri gereksiz göstermeye başladı mı?",
     "Kaldıramadığım bir yükü, bırakmayı başarısızlık sayacağım için taşımaya devam ediyor muyum?"
+  ],
+  "scholarlyNotes": [
+    {
+      "kind": "ihtilaf",
+      "label": "Nüzul sebebi için iki rivayet vardır",
+      "body": "TDV İslâm Ansiklopedisi iki rivayet nakleder. Yaygın kabul görene göre sure, Hira'daki ilk vahyin verdiği korku ve heyecanın ardından inmiştir. Diğerine göre ise Hz. Peygamber, Kureyş'in ileri gelenlerinden incitici sözler işitip eve gitmiş ve örtüsüne bürünmüştür. İki rivayet farklı zamanlara işaret eder; kaynaklar birini kesin olarak tercih etmez."
+    },
+    {
+      "kind": "nuans",
+      "label": "Medine'de inen ayetler 10, 11 ve 20'dir",
+      "body": "Sure Mekke dönemine ait sayılır, ancak TDV İslâm Ansiklopedisi 10, 11 ve 20. ayetlerin Medine'de indiğini kaydeder. İbn Kesîr'e göre 20. ayet öncekilerden yaklaşık on yıl sonra inmiştir (VII, 146). Yani sure tek bir oturumun değil, uzun bir sürecin metnidir."
+    },
+    {
+      "kind": "ihtilaf",
+      "label": "20. ayetteki namaz ve zekât ifadesi",
+      "body": "Ayetteki \"namazı kılın, zekâtı verin\" ifadesi çoğu müfessir tarafından beş vakit namaz ve farz zekât olarak yorumlanmıştır. Diyanet Kur'an Yolu Tefsiri bu yoruma açıkça katılmaz: surenin Mekke döneminin ilk surelerinden olduğu dikkate alındığında, beş vakit namazın ve belirli kurallara bağlanmış zekâtın yıllar sonra farz kılındığını hatırlatır. Burada çoğunluk ile Diyanet ayrışır; iki görüş de kaydedilmiştir."
+    },
+    {
+      "kind": "ihtilaf",
+      "label": "\"Kolayınıza geleni okuyun\" ne demektir",
+      "body": "20. ayetteki bu ifade iki türlü yorumlanmıştır: kolayınıza gelen miktarda gece namazı kılın, ya da namazda kolayınıza gelen miktarda Kur'an okuyun. Diyanet Kur'an Yolu Tefsiri iki yorumu da aktarır ve birini kesin olarak tercih etmez."
+    },
+    {
+      "kind": "nuans",
+      "label": "\"Örtüsüne bürünen\" hitabının mecazi okumaları",
+      "body": "Hitap birincil olarak fiziksel bir hâli tasvir eder. Bununla birlikte Şevkânî (V, 364) ve Muhammed Esed (III, 1200) gibi kaynaklar mecazi okumaları da kaydeder: peygamberlik kisvesine bürünen, Kur'an'a bürünen, uykuya dalmış olan, kendi kendine dalıp düşünen. Bunlar birincil anlamın yerine geçmez, yanında anılır."
+    },
+    {
+      "kind": "rivayet",
+      "label": "Fazilet rivayeti uydurmadır",
+      "body": "\"Müzzemmil sûresini okuyan kimseden dünya ve âhiret zorlukları giderilir\" meâlindeki rivayetin mevzû, yani uydurma olduğu tespit edilmiştir. TDV İslâm Ansiklopedisi bunu Muhammed et-Trablusî'ye atıfla kaydeder (II, 724). Bu sebeple rivayet içerik olarak aktarılmamış, yalnızca hükmüyle kaydedilmiştir."
+    },
+    {
+      "kind": "nuans",
+      "label": "Gece namazının kimi bağladığı",
+      "body": "İbn Âşûr'a göre (XXIX, 258) surenin ilk bölümünde emredilen gece namazı Hz. Peygamber'e mahsus bir farzdır; ümmet için sünnet hükmündedir. Diyanet Kur'an Yolu Tefsiri bu kaydı aktarır."
+    }
   ],
   "verses": [
     {
@@ -662,29 +723,34 @@
     }
   ],
   "aiParagraph": "Örtünüp köşeye çekilmek, dünyanın gürültüsünden uzaklaşıp yorganın altında kaybolmak — sure tam da bu hâldeki birine sesleniyor. Ama çağrı kaçmak için değil, tam tersine: bir şey taşımak üzeresin ve o şeyin ağırlığına katlanabilmek için önce geceleri kendi içine dönmen gerekiyor. Gündüz zaten ortalıkta koşturacaksın, hasta olacaksın, yolculuğa çıkacaksın, geçimini düşüneceksin — bunların hepsi biliniyor, hepsi görülüyor; kimse senden gücünün üstünde bir şey beklemiyor. Ama gecenin bir saatinde, herkes uyurken, yalnız oturduğunda sesin daha berrak çıkıyor, zihnin daha derin yerleşiyor; o sessizlikte kurulan bağ, gün içindeki onlarca konuşmanın yerine geçmiyor. Seni yalanlayanlara gelince — onları bırak, hesaplarını sen tutmak zorunda değilsin; Firavun da böyle düşünmüştü, kendisinden güçlü bir şey yokmuş gibi. Surenin sonunda ise beklenmedik bir şey var: katılık değil, kolaylık. Hasta olanın, yolda olanın, yorgunun hâli ayrı ayrı sayılıp \"gücünüzün yettiği kadarını yapın\" deniyor — sanki hesabı tutan biri her koşulu önceden biliyor ve buna göre kapıyı aralık bırakıyor.",
-  "audienceContext": "Bu söz ilk olarak nüzul sırasında üçüncü sırada, yani henüz bir topluluk, bir cemaat, bir hareket oluşmamışken, tek bir insana söylendi. Muhatap belli: örtüsüne bürünmüş, geri çekilmiş, sarsılmış bir adam. Çevresindeki Mekkeliler ise ağır bir rekabet kültürünün içinde yaşıyordu. Onlara göre değerli insan güçlü olandı; güçlü olmak da sessiz kalmak, yumuşamak, geri adım atmak değil — baskı kurmak, hızlı hareket etmek, rakibini ezmekti. Böyle bir ortamda geceyi sessizlik içinde geçirmek, söylenen her kelime üzerinde yavaşça durmak, karşı tarafa sabırla yaklaşmak; bunların hiçbiri erdem sayılmazdı. Tersine, ahmaklık belirtisi sayılırdı.\n\nDirenç nereden geliyordu? Sure bunu dolaylı ama net biçimde söyler: 'refah içindeki yalancıları bana bırak' der. Yani söze karşı çıkanlar yoksul ve ezilen değil, mevcut düzenden pay alanlar. Mekke'nin ticaret ağı, kabile hiyerarşisi ve prestij sistemi; bunların hepsi var olan dengeye dayanıyordu. Gelen söz bu dengeyi tehdit ediyordu — servetin bir sorumluluğu olduğunu, hesabın gerçek olduğunu, güçlünün zayıfı ezmesinin önünde sonunda bir karşılığı bulunduğunu söylüyordu. Bu yüzden ilk muhalefet 'anlayamıyorum' biçiminde değil, 'tanımıyorum, kabul etmiyorum' biçiminde geldi.\n\nAncak sureyi karmaşık yapan bir başka katman daha var. Mekkeliler Allah'ın varlığını zaten inkâr etmiyordu. Evrenin bir yaratıcısının olduğunu genel olarak kabul ediyorlardı. Reddettikleri şey başkaydı: bir insanın sözcü olabileceği, ölümden sonra hesabın gerçek olduğu, bu hesabın önünde hiç kimsenin aracı ya da kurtarıcı olamayacağı fikri. Bu zemin üzerinde sure, ortak kabulden — doğunun ve batının rabbi, tek ilah — söze girer. Ortak zeminden hareket ederek tanımaya razı olmadıkları noktaya doğru ilerler.\n\nİlk muhatabın durumu da göz ardı edilemez. Sure ona bir program sunar; ama programın mantığı 'güçlen, sonra konuş' değildir. Mantık şudur: taşıyacağın söz ağırdır, o ağırlığı gecenin sessizliğinde, acele etmeden, yavaş yavaş içselleştir. Hazırlık dışarıya dönük bir taktik değil, içe dönük bir duruş meselesidir. Sarsılmış bir insana 'korkma' değil, 'kalk' denmiş olması da bununla tutarlıdır: sarsıntıyı inkâr etmek yoktur burada, sarsıntıyla birlikte ayağa kalkmak vardır.",
+  "audienceContext": "Bu söz ilk olarak Mekke'de, davetin en başında, henüz kamuya açık bir tebliğin bile olmadığı bir anda söylendi. Muhatap tek bir insandı: örtüsüne bürünmüş, geri çekilmiş, sarsılmış biri. Sarsıntının tam olarak nereden geldiği kaynaklar arasında tartışmalıdır. Bir rivayete göre Hira'daki ilk vahyin verdiği korku ve heyecandı; diğerine göre Kureyş'in ileri gelenlerinden duyduğu incitici sözlerdi. Her iki rivayet de aynı hâli tarif eder: geri çekilme.\n\nO günkü Mekke'nin toplumsal dokusu iyi anlaşılmadan bu sözün neden bu kadar özgün olduğu görülemez. Güç o toplumda erdemdi. Zorbalık, hız, karşılık verme kapasitesi — bunlar övünç kaynaklarıydı. Bir adam bir haksızlık karşısında sessiz kalırsa, bir hakareti yutarsa, geri çekilirse, bu davranış ahmak sayılırdı. Yumuşaklık o kültürde zayıflıktı. Nitekim sure, buna doğrudan bir yanıt verir: incitici söze karşı «güzellikle ayrıl» der — ne tartış, ne kavga çıkar, ne de yere gir. Bu, o dönemin beklentisiyle açıkça çelişen bir yönelimdi.\n\nMuhatapların büyük çoğunluğu Allah'ın varlığını, gökyüzünü ve yeri yarattığını zaten kabul ediyordu. Onların reddettiği bambaşka şeylerdi: bir insanın peygamber olabileceği fikri ve bu davetin kendi düzenlerini bozacağı kaygısı. Sure bunu görünür kılar: mesajı yalanlayanlar olarak «nimet sahiplerini», yani refah ve nüfuz içinde yaşayanları gösterir. Direnç anlamayanlardan değil, mevcut düzenden kazançlı çıkanlardan geliyordu. Sure bu kesime doğrudan hitap ederek Firavun'un akıbetini hatırlatır — «onlarla beni başbaşa bırak» der. Hesabı üstleniyor, muhatabı savaşmakla değil, sabretle ve hazırlanmakla yükümlü tutuyor.\n\nSure ayrıca yaklaşık on yıl boyunca açık kalan bir metin. İlk on dokuz ayet Mekke'nin en sert döneminde indi; son ayet çok sonra, bir topluluk oluştuğunda, insanlar hastalanmaya, geçim için yola çıkmaya, savaşa gitmeye başladığında geldi. Bu uzun aralık, metnin kendi içinde bir tanıklık taşıdığını gösterir: başta konulan ağır yük, hayat genişledikçe hafifletildi. Metin bunu gerekçesiyle birlikte söyledi: hastalık, yolculuk, savaş. Bunlar muhatapların somut gerçeklikleriydi.",
   "eventMessageMap": [
     {
-      "situation": "İlk vahyin ardından adam örtüsüne bürünmüş, geri çekilmiş hâldeydi.",
-      "response": "Metin bu geri çekilmeyi adlandırdı ve ardından somut bir hareket talep etti: 'kalk'.",
-      "shift": "Sarsıntı bir son nokta olmaktan çıktı; bir başlangıç noktasına dönüştü."
+      "situation": "Muhatap bir sarsıntının ardından örtüsüne bürünmüş, geri çekilmiş haldeydi.",
+      "response": "Metin ona «korkma» demedi; «kalk» dedi ve ardından somut bir program sıraladı: geceyi böl, metni acele etmeden oku, söylenene sabret, incitici söz söyleyenlerden kavga çıkarmadan uzaklaş.",
+      "shift": "Geri çekilme hâli, birikim ve hazırlık sürecine dönüştürüldü."
     },
     {
-      "situation": "Yüklenilecek sözün ne denli ağır olduğu henüz bilinmiyordu.",
-      "response": "Metin bunu baştan açıkça bildirdi: 'üzerine ağır bir söz bırakacağız'.",
-      "shift": "Hazırlık yanılsama üzerine değil, ağırlığın peşinen kabul edilmesi üzerine kuruldu."
+      "situation": "Okuma pratiği olarak hız ve çokluk ölçü sayılıyordu.",
+      "response": "Metin tertîli — her şeyi yerli yerine dizerek, anlamı açığa çıkararak okumayı — ölçüt olarak koydu; sürenin uzunluğunu değil, dizilenin görünür olmasını istedi.",
+      "shift": "Okuma bir performanstan çıkıp anlamı izleme eylemine döndü."
     },
     {
-      "situation": "Refah içindeki yalancılar söze itiraz ediyordu ve bu itiraz bir baskı oluşturuyordu.",
-      "response": "Metin bu hesabı doğrudan üstlendi: 'onları bana bırak, az bir süre tanı onlara'.",
-      "shift": "Sözcünün omuzlarındaki yük hafiflemedi ama yalnız taşımadığı da netleşti."
+      "situation": "Mesajı yalanlayanlar refah ve nüfuz içindeki kesimlerdi; onları susturmaya ya da ikna etmeye girişmek beklentiydi.",
+      "response": "Metin «onlarla beni başbaşa bırak, mühlet ver» dedi — mücadeleyi devrettin, muhatabı hesap vermekten muaf tuttu.",
+      "shift": "Doğrulama sorumluluğu insanın sırtından alındı; muhatap için geriye yalnızca kendi tutumunu korumak kaldı."
     },
     {
-      "situation": "Gece ibadetinin sınırı belirsizdi; topluluk farklı sürelerde kalkmaya çalışıyordu.",
-      "response": "Son ayet hastalığı, yolculuğu ve savaşı sayarak 'gücünüzün yettiği kadarını okuyun' dedi.",
-      "shift": "Sabit bir ritüel kalıbı yerine, koşulları tanıyan esnek bir çerçeve yerleşti."
+      "situation": "Gece ibadetinin yükü topluluk genişledikçe sürdürülemez hâle geldi; hasta olanlar, geçim için yola çıkanlar, savaşa gidenler vardı.",
+      "response": "Son ayet bu yükü hafifletti ve gerekçeyi kendisi saydı: hastalık, yolculuk, savaş — bunların hepsini bilen biri konuşuyordu.",
+      "shift": "Kuralın kendisi değişti; değişimin nedeni de metnin içinde bırakıldı, böylece kural bir emirden anlayan bir düzenlemeye dönüştü."
+    },
+    {
+      "situation": "Sure iki ayrı zaman diliminde tamamlandı: biri davetin en başında, diğeri yaklaşık on yıl sonra.",
+      "response": "Metin bu aralığı kapatmadı, tersine son ayette ilk bölümü açıkça andı ve ona atıfla yumuşattı.",
+      "shift": "Sure, tek bir oturumun değil uzun bir sürecin metni oldu; kendi içinde bir tedricîlik — aşama aşama ilerleme — taşıdı."
     }
   ],
-  "apophaticReading": "'Gece ibadeti bir tür ruhani egzersiz, iç disiplin tekniği' okuması metnin kendi mantığıyla çelişir. Çünkü aynı sure gecenin hemen ardından 'üzerine ağır bir söz bırakacağız' der ve bu söz dışarıya taşınacak bir şeydir; içeride tutulup rafine edilecek bir deneyim değil. Gece durma ile gündüz taşıma arasında doğrudan bir bağ kurulur — biri diğerinin sebebidir, ama amaç içsel yetkinlik değildir.\n\n'Refah içindeki yalancılara yönelik tehdit bir yıldırma aracıdır' okuması da metnin kendi mantığıyla çelişir. Çünkü aynı sure hemen ardından, son ayette, hastalığı, geçimini kazanmak için yola çıkmayı, savaşı ayrı ayrı tanır ve hepsine 'gücünüz yettiği kadar' der. Tehditle başlayıp kolaylaştırmayla biten bir metin, salt yıldırma amacı taşıyamaz; aynı anda hem sınırı hem de esnekliği konuşturmaktadır.\n\nGeriye kalan yönelim şu tarafa işaret eder: sure iki farklı insana aynı anda sesleniyor gibi görünür. Bir yanda örtüsüne bürünmüş, içinde bulunduğu hâlin adı yeni konulmuş biri; öte yanda bir topluluk — hasta olan, yolculukta olan, geçimini kazanmaya çalışan. Bu iki muhatap arasındaki köprü 'gücün yettiği kadar' ilkesidir. Elde kalan şey şudur: metin yük ile esnekliği birbirinin karşısına koymaz, birbirinin içine yerleştirir.\n\nBugüne kadar az bakılmış açı şuradadır: surenin son ayeti, gece ibadetini yerine getiremeyen üç ayrı grubu sayarken bunlar arasında 'yeryüzünde dolaşarak Allah'ın lütfunu arayanlar' ifadesi geçer. Bu, geçimini kazanmak için evden, şehirden, ailesinden uzaklaşmak zorunda kalanları tanımlıyor. Ticaret kültürünün tam ortasında inen bir surenin, ibadet esnekliğini iş yolculuğuna bağlaması tesadüf değildir. Metnin ilk muhatabının çevresi zaten bir ticaret şehriydi ve sure o çevrenin gerçekliğini —yolda olmayı, pazarda olmayı— dışarıda bırakmak yerine içine aldı. Bu ayrıntı genellikle 'yalnızca savaşçılara tanınan bir ruhsat' okumalarının gölgesinde kalır.\n\nSusma: *Söze direnen 'refah içindeki yalancılar'ın içindeki çatışma — ya da çatışmanın olup olmadığı — buradan görünmez.*",
-  "aiCommentary": "Bu dört bölüm yapay zekâ tarafından yazılmıştır. Kullanılan kaynaklar şunlardır: kullanıcı tarafından sağlanan Arapça metin (Müzzemmil suresi, 73. sure), yine kullanıcı tarafından iletilen doğrulanmış editoryal içerik ve dönem zemini (TDV İslâm Ansiklopedisi 'Câhiliye' maddesi ile klasik tefsir notları). Bu kaynakların dışına çıkılmamıştır; kaynaklarda bulunmayan sosyolojik ya da tarihsel iddia eklenmemiştir.\n\nApofatik okuma (olumsuzlama yöntemiyle maksat okuma) bölümünde önce yaygın okumaların metnin iç mantığıyla çeliştiği gösterilmiş, ardından bu eleme sonrası geriye kalan yönelim işaret edilmiştir. Bu yöntem bilinçli olarak seçilmiştir: yaratanın maksadına dair her olumlu önerme, insanın kendi çerçevesinden yapılmış bir tahmindir. Olumsuzlama ise metnin kendi dili içinde kalarak o tahmini en aza indirmeye çalışır.\n\nBu metin bir tefsir, bir meal ya da bir fetva değildir. Herhangi bir amel hükmü içermez; 'şu yapılmalıdır, şu haramdır, şu helaldir' türünden bir sonuç çıkarılamaz. Kaynaklar, araştırma yöntemleri ya da metnin kendisine dair yeni bir bilgi geldiğinde bu okumanın değişmesi gerekebilir."
+  "apophaticReading": "'Gece ibadeti ritüel disiplini öğretiyor' okuması metnin kendi mantığıyla çelişir. Çünkü aynı sure, gece saatlerini yarıya, üçte birine ya da üçte ikisine kadar geniş bir aralıkta serbest bırakır; daha sonra bu yükü tamamen hafifletir ve gerekçe olarak gündelik hayatın koşullarını — hastalık, geçim yolculuğu, savaş — sayar. Sabit bir ritüel takvimi dayatsaydı kendi içinde bu esnekliği taşımazdı.\n\n'Bu sure yalnızca peygambere hitap ediyor, herkesi bağlamıyor' okuması da metnin kendi mantığıyla çelişir. Çünkü son ayet çoğul hitaba geçer, yanındaki topluluğu da açıkça anar; üstelik hastalık, yolculuk ve savaş gerekçeleri tek bir bireyin değil bir cemaatin gerçekliğini tarif eder. Peygambere özgü olan yük ağırlığıydı; o yükün hafifletildiği bildirildiğinde muhatap artık «siz» diye çoğul söylenmektedir.\n\n'Firavun örneği tehdit içindir, korkutmak amacıyla verilmiştir' okuması da metnin kendi mantığıyla çelişir. Çünkü aynı sure az önce muhatabına «onlarla beni başbaşa bırak» demiş, yani hesabı devralmıştır. Firavun örneği bir tehdit aracı olsaydı onu kullanan tarafın muhatabı üstlenmesi anlamsız olurdu; burada örnek, gücün ve inkârın son sözü söylemediğini göstermek için tarihten alınmış bir tanıklıktır.\n\nGeriye kalan yönelim şu: sure bir yanda ağır bir sorumluluk bildirir («sana ağır bir söz bırakacağız»), öte yanda bu ağırlıkla başa çıkılabilmesi için iç kapasite oluşturmaya yönelik somut bir program önerir. Tehdit değil, hazırlık; emir değil, zemin kurma. Metnin çekirdeğindeki yönelim bu ikisi arasındaki denge üzerinde durmaktadır.\n\nBugüne kadar az bakılmış açı: tertîl kelimesi genellikle «yavaş okuma» olarak dar bir anlamda ele alınır. Ancak kelimenin sözlük kökü «bir şeyi güzelce sıralamak, dizmek, açığa çıkarmak» demektir. Bu açıdan tertîl, sadece tempoya değil, dizilenin görünür kılınmasına işaret eder — yani ne kadar sürdüğünden çok ne kadarının anlaşılır hâle geldiğini ölçer. Surenin son ayeti da bunu doğrular niteliktedir: orada «kolayınıza geleni okuyun» derken süre veya miktar değil, erişilebilirlik ölçüt olarak konur. İki ayet birlikte okunduğunda tertîlin hız değil kavrama meselesi olduğu yönünde bir bağlam oluşur.\n\nSusma: *Örtünme eyleminin içinde taşınan korkunun — yani ham, adı konulmamış dehşetin — ne olduğu buradan görünmez.*",
+  "aiCommentary": "Bu dört bölüm yapay zekâ tarafından yazılmıştır. İçerik; TDV İslâm Ansiklopedisi'nin «Müzzemmil» ve «Câhiliye» maddeleri, İbn Âşûr (XXIX, 258), Diyanet Kur'an Yolu Tefsiri, Şevkânî (V, 364) ve Muhammed Esed (III, 1200) gibi kaynaklara atıfla hazırlanmış doğrulanmış editoryal içerikle denetlenmiştir. Arapça metnin kendisi birincil kaynak olarak esas alınmış; yalnızca bu metin içinde dayanağı bulunan iddialar kaleme alınmıştır.\n\nApofatik okuma bölümü olumsuzlama yöntemiyle kurulmuştur. Bu yöntem bilinçli bir tercihtir: bir metnin yaratıcısının maksadına dair her söz, o maksadı bilen bir konumdan değil, metnin kendi iç mantığını izleyen bir okuma çabasından doğar. Bu nedenle «metin şunu söylüyor» yerine «bu okuma metnin kendi mantığıyla çelişir» yapısı kullanılmış; olumlu iddialar yerine eleme yoluyla geriye kalan alan işaret edilmiştir. Yaratanın maksadına dair kesin bir hüküm vermek insanın kapasitesinin dışındadır; geriye yalnızca metnin içinden izlenebilecek yönelimler kalır.\n\nBu metin bir tefsir değildir, bir meal değildir, bir fetva değildir. Tefsir, geleneksel İslam ilminin yerleşik usul ve donanımıyla yazılır; meal, Kur'an'ın dil aktarımıdır; fetva ise bir müftünün belirli bir konuda verdiği dinî hükümdür. Buradaki çalışma bunların hiçbirinin yerini tutmaz. Amel hükmü çıkarılamaz; dini yükümlülük iddia edilemez. Kullanılan kaynaklarda yeni bilgi geldikçe veya yorum alanı genişledikçe bu okumanın ilgili bölümleri değişecektir."
 }

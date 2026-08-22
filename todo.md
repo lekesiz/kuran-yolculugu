@@ -87,7 +87,8 @@ yalnızca %2,5 örtüştüğü için reddedildi; Diyanet Yeni doğrudan resmî p
 - [x] `REHBER.md` 114 sure, okuma gezgini, kaynak notları ve 2. tur yordamına göre güncellendi
 - [x] 3. durak — Müzzemmil (73): eksik 11-19 bölümü, iki nüzul rivayeti, mevzû hadis uyarısı ve 7 kaynak notu eklendi; Metodoloji V3 katmanlarıyla iki yayında doğrulandı
 - [x] Günlük görev altyapısı: zamanlanmış görev Metodoloji V3 + yayın zinciriyle güncel, `yayinla.mjs` iki veritabanı + GitHub + canlı teyit yapıyor
-- [ ] 114 durağın 2. turdan geçirilmesi (3/114 — Alak, Kalem, Müzzemmil tamam; her gün bir durak ilerliyor)
+- [ ] 114 durağın 2. turdan geçirilmesi (4/114 — Alak, Kalem, Müzzemmil, Müddessir tamam; her gün bir durak ilerliyor)
+- [x] 4. durak — Müddessir (74): ayet aralığı 11-26 → 11-30 düzeltildi, dayanaksız "fetret sonrası" çerçevesi kaldırıldı, iki nüzul rivayetinin de TDV'ce zayıf bulunduğu kaydedildi, eksik 39-47 (dört vasıf) ve 48-56 (aracı beklentisi) bölümleri eklendi, Râzî'nin "on dokuz güç" okuması ve Diyanet'in "sağcılar" çevirisine itirazı işlendi, kaynak notları 3 → 9
 
 ## Faz 7: Çapraz Kaynak Doğrulama Katmanı (18 Ağustos 2026)
 - [x] 13 olgusal iddianın TDV İslâm Ansiklopedisi, Diyanet Kur'an Yolu ve kuranokuyan.com üzerinden çapraz doğrulaması

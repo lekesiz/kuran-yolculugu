@@ -9,59 +9,89 @@
   "periodDiyanet": "Mekke",
   "periodOkuyan": "Mekke",
   "revelationTiming": "Açık davetin başlangıcı",
-  "stationTitle": "Açık davetin başlangıcı: kalk, uyar ve elbisen temiz olsun.",
-  "introduction": "Müddessir suresi, adını ilk ayetteki \"örtüye sarınan\" hitabından alır. Elli altı ayetlik sure, gizli davetin bitip açık tebliğin başladığı eşiği işaretler.\n\nSurenin ilk yedi ayeti bir görev tanımı gibidir: kalk ve uyar, Rabbini yücelt, elbisen temiz olsun, kirden uzaklaş, verdiğini karşılık bekleyerek verme, sabret. Devamı ise gücüne ve servetine güvenerek çağrıyı reddeden bir tipi ayrıntılı biçimde anlatır.",
-  "occasionOfRevelation": "Nüzul kaynaklarının naklettiğine göre bu sure, ilk vahyin ardından bir süre kesintinin (fetret) yaşandığı dönemin sonunda gelmiştir ve açık daveti başlatan bölümdür. Artık muhatap yalnızca kişinin kendisi değil, toplumun tamamıdır.\n\nSurenin ortasındaki bölüm — TDV İslâm Ansiklopedisi bu kapsamı 11-26. ayetler olarak verir — servetine ve evlatlarına güvenen bir Mekkeli ileri gelenin çağrı karşısındaki tutumunu anlatır. Klasik tefsirler bu kişiyi genellikle Velîd b. Mugîre olarak tanımlar; anlatıldığına göre kendisi metni dinledikten sonra etkisini kabul etmiş, ancak itibarını korumak için onu \"öğretilmiş bir büyü\" diye nitelemeyi seçmiştir. Bu isimlendirme rivayete dayanır; ayet isim vermez.\n\nSurenin dikkat çekici bir ayrıntısı, cehennemin bekçilerinin sayısına dair verilen rakamın (74:30) hemen ardından bu rakamın bir imtihan unsuru olduğunun belirtilmesidir (74:31). Metin, sayının kendisiyle uğraşmanın asıl meseleyi kaçırmak olduğunu ima eder.",
-  "occasionSources": "Diyanet İşleri Başkanlığı Kur'an Yolu Tefsiri, Müddessir suresi girişi; Vâhidî, Esbâbü'n-Nüzûl; TDV İslâm Ansiklopedisi, \"Müddessir Sûresi\" maddesi. Velîd b. Mugîre'ye dair isimlendirme rivayete dayanır.",
-  "contemporaryMeaning": "Surenin ilk ayetlerindeki emirler sırası dikkat çekicidir: uyarmak, yüceltmek, sonra temizlik. \"Elbisen temiz olsun\" ifadesi klasik tefsirlerde hem fiziksel temizlik hem ahlaki arınma olarak açıklanır. Bir çağrıda bulunan kişinin önce kendi tutarlılığını sağlaması gerektiği söylenir.\n\n\"Verdiğini karşılık bekleyerek verme\" (74:6) ilkesi bugün özellikle keskindir. Yardımın görünürlük, itibar ya da minnet karşılığında yapıldığı bir kültürde bu ayet, iyiliğin muhasebesini bozar.\n\nVelîd anlatısı ise entelektüel dürüstlüğün sınavıdır: bir şeyin doğru olduğunu içinden kabul edip, konumunu kaybetmemek için onu alenen küçümsemek.",
+  "stationTitle": "Kalk ve uyar: yedi emirle çizilen bir görev tanımı.",
+  "revisionPass": 2,
+  "revisionNote": "Ayet aralığı 11-26'dan 11-30'a düzeltildi; dayanaksız 'fetret sonrası' çerçevesi kaldırılıp üç kaynağın nüzul sebebi ihtilafı açıkça yazıldı; cehennem bekçilerinin sayısı (on dokuz) ve Râzî'nin 'insanın on dokuz gücü' okuması eklendi; eksik olan 39-47 (dört vasıf) ve 48-56 (şefaat beklentisi, herkesin kendine özel mesaj istemesi) bölümleri işlendi; Velîd'in iftirasının danışılarak kurulmuş bir strateji olduğu kaydedildi; kaynak notları 3'ten 8'e çıkarıldı.",
+  "introduction": "Müddessir suresi, adını ilk ayetteki \"örtüsüne bürünen\" hitabından alır. Elli altı ayetlik sure, Mekke döneminin ilk yıllarına aittir. TDV İslâm Ansiklopedisi surenin temel konusunu tek bir cümleyle özetler: muhataba sorumluluk duygusu vermek.\n\nİlk yedi ayet bir görev tanımı gibidir: kalk ve uyar, Rabbini yücelt, elbisen temiz olsun, kirden uzaklaş, verdiğini başa kakma, sabret. Diyanet bu emirlerin ilk inen ayetler arasında yer almasını özellikle anlamlı bulur; çünkü daha hiçbir ayrıntı gelmemişken önce çağrıyı yapacak kişinin kendisi düzenlenir. TDV ise bu yedi emrin \"Hz. Peygamber'in şahsında davet ve irşad görevi yapacak herkese\" yöneldiğini belirtir.\n\nSurenin geri kalanı üç bölüme ayrılır. Ortada, kendisine geniş servet ve gözü önünde duran oğullar verilmiş, buna rağmen daha fazlasını bekleyen ve gerçeğe inatla direnen bir kişi anlatılır (11-30). Ardından cehennemin tasviri gelir ve inanmayanın orada ne bulacağı söylenir (31-38). Son bölümde ise kurtulanların hangi dört alışkanlıkla ayrıldığı sıralanır ve umut bağlanan aracıların kimseyi kurtaramayacağı bildirilir (39-56).",
+  "occasionOfRevelation": "İlk ayetlerin hangi olay üzerine indiği, kaynakların anlaştığı bir konu değil; bu yüzden burada tek bir anlatı doğruymuş gibi sunulmayacak.\n\nDiyanet Kur'an Yolu Tefsiri, Buhârî'de yer alan rivayeti aktarır: Hz. Peygamber Hira'da vahiy meleğinin sesini işitip kendisini de görünce korkudan titremeye başlar, ailesine gelip \"beni örtün\" der, üzerine bir örtü örtülür ve serin su serpilir; ardından ilk beş ayet iner. TDV İslâm Ansiklopedisi ise bu anlatıyı ihtiyatla karşılar. Mâtürîdî'nin rivayetin sağlamlığı konusunda duyduğu tereddüde katılır ve gelen vahyin içeriği anlaşılmayan bir sesten ibaret olmasının yadırgatıcı olduğunu söyler. TDV'nin tercihi, \"örtüsüne bürünen\" ifadesinin mecaz olmasıdır: kastedilen bir yorgan değil, üstlenilen görevdir.\n\nİkinci bir rivayet, müşriklerin \"sihirbaz\" demesinden üzülüp örtüsüne büründüğünü söyler. TDV bunu da zayıf bulur ve sebebini açıkça yazar: böyle bir itham için ortada tartışılacak kadar metin birikmiş olması gerekir, oysa Müzzemmil ve Müddessir ilk inen ayetler arasındadır. Yani itham henüz gündeme gelmemiştir.\n\nOrtadaki bölüm (11-30) servetine ve oğullarına güvenen, kendisine verilenle yetinmeyip daha fazlasını bekleyen bir kişiyi anlatır. Müfessirler bu kişiyi genellikle Kureyş'in ileri gelenlerinden Velîd b. Mugīre olarak tanımlar; ayet isim vermez, bu isimlendirme rivayete dayanır. Rivayetin bir ayrıntısı, olayı sıradan bir öfke patlamasından çıkarır: müşrikler yeni çağrıya karşı nasıl bir tutum alacaklarını Velîd'e sormuşlar, o da düşünüp taşındıktan sonra ortak bir cümlede birleşmelerini önermiştir — \"sihirbazdır, sözü de eskilerden aktarılmış bir büyüdür.\" Yani karşı çıkış, danışılarak kurulmuş bir söz birliğidir.\n\nDiyanet burada önemli bir uyarı düşer: ayet Velîd hakkında inmiş olsa da amacı geneldir. Sıradan bir iyiliğe teşekkür eden insanın, kendisine hayatını verene karşı aynı borcu duymaması, tefsirin ifadesiyle \"en yalın ahlaki ödevi\" atlamaktır.\n\nOtuzuncu ayette cehennemi görevlendirilenlerin sayısı verilir: on dokuz. Hemen ardından bu sayının bir sınama olduğu söylenir. Müfessirler sayıyı melek, melek grubu ya da saf olarak yorumlamıştır; Fahreddin er-Râzî ise dikkat çekici biçimde farklı bir yol tutar ve sayıyı insanın kendi içine bağlar: ona göre insanı günaha sürükleyen beden ve zihin güçleri on dokuzdur, sayıyla bunlar arasında bir ilgi vardır. Metnin kendisi de sayıyla uğraşmanın asıl meseleyi kaçırmak olduğunu ima eder.",
+  "occasionSources": "Diyanet İşleri Başkanlığı Kur'an Yolu Tefsiri, c. 5, s. 494-496 (1-5, 11-17, 26-30 ve 38-48. ayetler); TDV İslâm Ansiklopedisi, \"Müddessir Sûresi\" maddesi (M. Kâmil Yaşaroğlu, c. 31, s. 462-463); Prof. Dr. Mehmet Okuyan, Müddessir suresi tefsiri. Klasik atıflar: Buhârî, \"Tefsîr\" 74/1-5; Taberî, Câmiu'l-beyân XXIX, 96 ve 99; Mâtürîdî, Te'vîlâtü'l-Kur'ân vr. 842a; Fahreddin er-Râzî, Mefâtîhu'l-gayb XXX, 190 ve 203; Zemahşerî, el-Keşşâf IV, 180-184; Şevkânî V, 373-378. Velîd b. Mugīre'ye dair isimlendirme rivayete dayanır; ayet isim vermez.",
+  "contemporaryMeaning": "Yedi emrin sırası kendi başına bir şey söylüyor. Önce \"kalk ve uyar\" geliyor, sonra \"elbisen temiz olsun\" ve \"kirden uzak dur.\" Yani söz söyleme izni, söyleyenin kendi hâline bakmasıyla birlikte veriliyor. Diyanet, buradaki temizliği yalnızca giysiyle sınırlamaz; giysi bir örnektir, kapsama beden, ev, ortak alanlar ve ardından iç arınma girer. Şevkânî'nin naklettiği yorumlar arasında \"aile\" de vardır. Bir insanın dışarıda savunduğu şeyle evinde kurduğu düzen arasındaki açık, bu ayetin sorduğu sorunun tam ortasına düşer.\n\nAltıncı ayetteki yasak — verdiğini büyütüp karşılık bekleme — bugün iyiliğin görünürlükle ölçüldüğü yerlerde başka türlü okunuyor. Yardımın kaydı tutulduğunda, kime ne yapıldığı hatırlatıldığında ya da bir destek sessizce değil ilan edilerek verildiğinde, verilen şey artık verilmiş olmuyor; bir alacak kaydına dönüşüyor. Ayet iyiliği yasaklamıyor, iyiliğin muhasebesini bozuyor.\n\nOrtadaki portre, yoksul bir inkârcıyı değil elinde imkân olan birini tarif ediyor: serveti var, çevresi var, önü açılmış, buna rağmen \"daha fazla\" bekliyor. Diyanet'in genellemesi burada işe yarıyor — mesele Velîd'in kim olduğu değil, verilenin yeterli sayılmadığı bir bakış. Bir maaş zammının haftasında sıradanlaşması, bir eve taşındıktan bir ay sonra o evin küçülmesi, aynı bakışın küçük halleri.\n\nVelîd rivayetinin en çarpıcı yeri, iftiranın nasıl kurulduğu. Kimse öfkeyle bağırıp gitmiyor; oturup danışıyorlar ve ortak bir cümlede anlaşıyorlar. Bir görüşü çürütmek yerine onu itibarsız kılacak bir etiket bulmak, bugün de bir tartışmayı kapatmanın en hızlı yolu. Etiket yapıştığında içeriğe bakmaya gerek kalmıyor.\n\nSurenin sonunda kurtulanlar bir inanç listesiyle değil, dört alışkanlıkla tanımlanıyor: namazını sürdürmek, yoksulu doyurmak, boş ve yıkıcı olana dalanlardan uzak durmak, hesap gününü ciddiye almak. Diyanet üçüncüsünü \"hakkın ve haklının yanında olmak, haksızın karşısında durmak\" diye açıyor. Dördü de görüş beyan etmekle değil, günün nasıl geçtiğiyle ilgili.\n\nSon bölümdeki iki tespit de yerini koruyor. Birincisi, umut bağlanan aracıların kimseyi kurtaramayacağı: kişinin kendi yaptığı, en yakınının itibarına devredilemiyor. İkincisi, öğütten kaçanların âdeta herkese ayrı bir mesaj gelmesini beklemesi — kendisine özel olarak, kendi diliyle, kendi zamanında ikna edilmeyi bekleyip o gelene kadar hiçbir şeye bakmamak.",
   "keyTerms": [
     {
       "term": "müddessir",
       "arabic": "الْمُدَّثِّر",
       "verseRef": "74:1",
-      "meaning": "Örtüye sarınan, bürünen. Müzzemmil'deki hitaba benzer; geri çekilme hâlini tasvir eder."
+      "meaning": "Örtüsüne bürünen. Bir önceki surenin \"müzzemmil\" hitabına benzer ama aynı değil: müzzemmil'in kökü bir şeyi üstüne almak, müddessir'in kökü altına almak anlamındadır. Bu yüzden pek çok müfessir kelimeyi mecaz sayar; bürünülen şey bir örtü değil, üstlenilen görevdir."
     },
     {
       "term": "fe-enzir",
       "arabic": "فَأَنذِرْ",
       "verseRef": "74:2",
-      "meaning": "\"Uyar\" emri. Açık davetin başlangıç komutu; artık muhatap toplumun tamamıdır."
+      "meaning": "\"Uyar\" emri. Diyanet bu emri görevlendirmenin ilânı sayar. Uyarmak korkutmak değil, olacak olanı önceden haber vermektir."
     },
     {
       "term": "er-rucz",
       "arabic": "الرُّجْز",
       "verseRef": "74:5",
-      "meaning": "Kir, pislik, azap sebebi olan şey. Tefsirlerde hem putperestlik hem her türlü ahlaki kir olarak açıklanır."
+      "meaning": "Kir, pislik, sonu azaba çıkan şey. Dördüncü ayetteki dış temizliğin ardından gelir ve iç arınmayı, inanç ve ahlak temizliğini anlatır."
     },
     {
       "term": "lâ temnün testeksir",
       "arabic": "لَا تَمْنُن تَسْتَكْثِرُ",
       "verseRef": "74:6",
-      "meaning": "Verdiğini çok görüp karşılık bekleme. İyiliğin minnet ve itibar hesabına dönüşmesinin yasaklanması."
+      "meaning": "Verdiğini gözünde büyütüp başa kakma. TDV bu emri, yapılan iyilikleri büyütmemek ve minnet altında bırakmamak olarak açıklar."
+    },
+    {
+      "term": "sekar",
+      "arabic": "سَقَر",
+      "verseRef": "74:26",
+      "meaning": "Cehennemin adlarından biri; tefsirlerde ağır cezalık bölümlerinden biri olarak geçer. Yirmi dokuzuncu ayet için \"insanları kavurur\" kadar \"insanlara görünür\" çevirisi de yapılmıştır; Diyanet bunu \"orayı hak edene kendini gösteren bir ayna\" okumasına açık bulur."
+    },
+    {
+      "term": "ashâbü'l-yemîn",
+      "arabic": "أَصْحَابُ الْيَمِين",
+      "verseRef": "74:39",
+      "meaning": "Sağ tarafta olanlar. Diyanet bu tamlamayı \"sağcılar\" diye çevirmeyi açıkça reddeder, çünkü kelime bugün siyasi bir anlam taşır ve ayetin kastını saptırır; tercih ettiği karşılık \"hakkın ve erdemin tarafında olanlar\"dır."
     }
   ],
   "themes": [
     {
       "label": "Görev tanımı: kalk ve uyar",
-      "body": "Sure, geri çekilmiş bir insana yedi ayetlik somut bir program verir. Sorumluluk, hazır olma duygusu geldiğinde değil, çağrı geldiğinde başlar."
+      "body": "Sure, geri çekilmiş bir insana yedi ayetlik somut bir program verir. Sorumluluk, hazır olma duygusu geldiğinde değil, çağrı geldiğinde başlar. TDV bu yedi emrin yalnız bir kişiye değil, aynı işi üstlenen herkese yöneldiğini belirtir."
     },
     {
       "label": "Önce kendi tutarlılığın",
-      "body": "\"Elbisen temiz olsun\" ve \"kirden uzaklaş\" emirleri, uyarıcı olmanın önkoşulunu koyar: söylediğiyle yaşadığı arasında açık bulunmamak."
+      "body": "\"Elbisen temiz olsun\" ve \"kirden uzaklaş\" emirleri, uyarıcı olmanın önkoşulunu koyar: söylediğiyle yaşadığı arasında açık bulunmamak. Diyanet temizliği giysiyle sınırlamaz; beden, ev, ortak alanlar ve iç arınma da kapsama girer."
     },
     {
       "label": "Karşılıksız vermek",
       "body": "Verdiğini büyüterek, minnet bekleyerek vermek yasaklanır. İyilik, alacak kaydına dönüştüğü anda iyilik olmaktan çıkar."
     },
     {
-      "label": "Bildiğini inkâr etmenin psikolojisi",
-      "body": "Anlatıldığına göre Velîd, metnin etkisini kabul ettikten sonra itibarını korumak için onu küçümsemeyi seçti. Bu, doğruyu bilip menfaati için reddetmenin klasik örneğidir."
+      "label": "Verilenle yetinmeyen bakış",
+      "body": "Ortadaki portre yoksul bir inkârcı değil: serveti, çevresi ve açılmış bir yolu olan biri. Buna rağmen daha fazlasını bekliyor. Diyanet ayetin amacının genel olduğunu, mesajın verilene karşı duyulmayan borç olduğunu söyler."
+    },
+    {
+      "label": "İtibarsızlaştırma bir strateji olarak",
+      "body": "Rivayete göre karşı çıkış öfkeyle değil danışmayla kuruldu: ne diyeceklerini kararlaştırıp ortak bir etikette birleştiler. Bir görüşü çürütmek yerine onu itibarsız kılacak bir sıfat bulmak, tartışmayı kapatmanın kestirme yolu."
+    },
+    {
+      "label": "Kurtaranlar liste değil alışkanlık",
+      "body": "Sure sonunda kurtulanlar dört şeyle tanımlanır: namazı sürdürmek, yoksulu doyurmak, boş ve yıkıcı olandan uzak durmak, hesap gününü ciddiye almak. Dördü de beyan değil, günün nasıl geçtiğiyle ilgili."
+    },
+    {
+      "label": "Kimse kimsenin yerine geçemez",
+      "body": "Her kişi kendi yaptığına karşılık rehin tutulur. Diyanet bunu en yakınların bile devralamayacağı bir sorumluluk olarak açıklar ve Nûh'un oğlunu, İbrâhim'in babasını kurtaramadığını hatırlatır."
     }
   ],
   "questions": [
     "Yaptığım iyilikleri anlatma ihtiyacı duyuyor muyum? Anlatmadığımda o iyilik bana daha az değerli mi geliyor?",
     "Doğru olduğunu içimden kabul ettiğim ama çevremde savunmaya cesaret edemediğim bir görüş var mı? Beni durduran şey ne?",
-    "Başkalarına söylediğim ilkelerle kendi hayatım arasında en büyük açık nerede?"
+    "Başkalarına söylediğim ilkelerle kendi hayatım arasında en büyük açık nerede?",
+    "Son aldığım şey ne kadar sürede sıradanlaştı? O süre kısalıyor mu?",
+    "Katılmadığım bir görüşü en son ne zaman içeriğiyle tartıştım; ne zaman bir etiketle kapattım?",
+    "Surenin saydığı dört şeyden hangisi benim günümde en zayıf: ibadetin sürekliliği, paylaşmak, yıkıcı olandan uzak durmak, hesabı ciddiye almak?",
+    "Bir konuda ikna olmayı, bana özel bir açıklama gelmesi şartına bağlamış olabilir miyim?"
   ],
   "scholarlyNotes": [
     {
@@ -71,13 +101,43 @@
     },
     {
       "kind": "ihtilaf",
-      "label": "İlk ayetlerin nüzul sebebi",
-      "body": "İlk yedi ayetin iniş sebebi konusunda farklı rivayetler vardır: vahiy meleğini görmenin verdiği sarsıntı ya da müşriklerin \"sihirbaz\" ithamı. Mâtürîdî bu rivayetlerin bir kısmının sıhhati konusunda tereddüt göstermiştir."
+      "label": "İlk ayetlerin nüzul sebebi: kaynaklar ayrışıyor",
+      "body": "Diyanet Kur'an Yolu Tefsiri, Buhârî'ye dayanarak (\"Tefsîr\" 74/1-5) Hz. Peygamber'in Hira'da vahiy meleğini görüp korkuyla eve geldiğini, \"beni örtün\" dediğini ve ilk beş ayetin bunun ardından indiğini aktarır. TDV İslâm Ansiklopedisi ise Mâtürîdî'nin bu rivayetin sıhhati konusundaki tereddüdüne katılır ve gelen vahyin içeriği anlaşılmayan bir sesten ibaret olmasını \"yadırganan bir husus\" sayar; TDV'nin tercihi, \"örtüsüne bürünen\" ifadesinin mecaz olduğu, kastedilenin tebliğe başlama emri olduğudur. İki görüş de burada anıldı; taraf tutulmadı."
+    },
+    {
+      "kind": "ihtilaf",
+      "label": "\"Sihirbaz\" ithamı rivayeti kronolojiye uymuyor",
+      "body": "İkinci bir rivayet, ilk ayetlerin müşriklerin \"sihirbaz\" ithamı üzerine indiğini söyler (Mâtürîdî vr. 842a; Fahreddin er-Râzî XXX, 190). TDV İslâm Ansiklopedisi bunu \"muhtemel görünmemektedir\" diye değerlendirir ve gerekçesini yazar: böyle bir itham için Kur'an metninden epeyce bir kısmın vahyedilmiş olması gerekir, oysa Müzzemmil ve Müddessir ilk nâzil olan ayetler arasındadır."
+    },
+    {
+      "kind": "ihtilaf",
+      "label": "Vahiy kesintisinin süresi",
+      "body": "İlk vahiyden sonra bir kesinti (fetret) yaşandığı kabul edilir, ancak süresi tartışmalıdır; bazı nakillerde üç yıla kadar çıkarılır. Prof. Dr. Mehmet Okuyan bunu reddeder: risaletin hemen başında bu kadar uzun bir kesintiyi anlaşılabilir bulmaz ve sürenin bir veya birkaç ayla sınırlı olması gerektiğini söyler. Bu sebeple burada bir süre rakamı verilmedi."
+    },
+    {
+      "kind": "ihtilaf",
+      "label": "Cehennem bekçilerinin sayısı nasıl okunuyor",
+      "body": "Otuzuncu ayetteki \"on dokuz\" sayısını müfessirler on dokuz melek, meleklerden on dokuz grup, on dokuz saf ya da her birinin emrinde bir grup bulunan on dokuz yönetici melek olarak yorumlamıştır (Zemahşerî IV, 184; Şevkânî V, 378). Fahreddin er-Râzî ise sayıyı insanın dışındaki bir kadroya değil kendi içine bağlar: insanı günaha sürükleyen beden ve zihin güçlerini on dokuz olarak tespit eder ve iki sayı arasında ilgi bulunduğunu söyler (XXX, 203). Ayetin kendisi bu sayının bir sınama olduğunu belirtir (74:31)."
+    },
+    {
+      "kind": "nuans",
+      "label": "Diyanet \"sağcılar\" çevirisini reddediyor",
+      "body": "Otuz dokuzuncu ayetteki \"ashâbü'l-yemîn\" tamlaması bazı meallerde \"sağcılar\" diye çevrilir. Diyanet Kur'an Yolu Tefsiri bu çeviriyi açıkça uygun bulmaz; gerekçesi, kelimenin bugün siyasal ve ideolojik anlamlar taşıyan bir terim olarak kullanılması ve bunun ayetin kastını saptırmasıdır. Tefsirin tercih ettiği karşılık \"hakkın ve erdemin tarafında olanlar\"dır."
+    },
+    {
+      "kind": "nuans",
+      "label": "Şefaat cümlesinin iki okunuşu",
+      "body": "\"Şefaatçilerin şefaati onlara fayda vermez\" (74:48) cümlesini Diyanet Kur'an Yolu Tefsiri, kıyamette şefaatin mümkün olduğunu ima eden bir ifade olarak okur. Prof. Dr. Mehmet Okuyan ise vurguyu, aracı bekleyenlerin bu beklentisinin kendilerine hiçbir yarar sağlamayacağına verir. Ağırlık noktası farklıdır; iki okuma da kaydedildi."
+    },
+    {
+      "kind": "rivayet",
+      "label": "Velîd b. Mugīre isimlendirmesi",
+      "body": "Ortadaki bölümün (11-30) Velîd b. Mugīre hakkında indiği bilgisi rivayete dayanır (Taberî XXIX, 96 ve 99; Şevkânî V, 376); ayetlerde isim geçmez. Rivayet klasik tefsirlerde yaygın biçimde nakledilir ve zayıf sayılmaz. Buna karşılık Diyanet Kur'an Yolu Tefsiri özellikle uyarır: ayet bu kişi hakkında inmiş olsa da amacı geneldir, yani bir şahsın teşhiri değil bir tutumun tasviri amaçlanmıştır."
     },
     {
       "kind": "rivayet",
       "label": "Fazilet rivayeti uydurmadır",
-      "body": "\"Allah Müddessir sûresini okuyan kimseye Mekke'de Muhammed'i tasdik eden ve yalanlayan kimselerin her biri sayısınca on sevap verir\" meâlindeki hadisin sahih olmadığı, TDV İslâm Ansiklopedisi'nde Muhammed et-Trablusî'ye atıfla belirtilmiştir."
+      "body": "\"Allah Müddessir sûresini okuyan kimseye Mekke'de Muhammed'i tasdik eden ve yalanlayan kimselerin her biri sayısınca on sevap verir\" meâlindeki hadis mevzûdur, yani uydurmadır. Hüküm, TDV İslâm Ansiklopedisi'nde Muhammed et-Trablusî'nin uydurma ve zayıf rivayetlere dair eserine atıfla verilir (el-Keşfü'l-ilâhî II, 725). Rivayet bazı klasik tefsirlerde geçtiği için burada yalnızca hükmüyle kaydedildi; içerik olarak aktarılmadı."
     }
   ],
   "verses": [
@@ -1765,34 +1825,34 @@
     }
   ],
   "aiParagraph": "Örtüsüne sarınmış, belki yorgunluktan, belki korkudan köşesine çekilmiş birine sesleniş bu — kalk, der, ve sadece kalk. Metnin ortasında duran o adam figürü çarpıcıdır: Her şey verilmiş ona, geniş bir servet, yanında duran çocuklar, düzlenmiş bir yol; ama bu adam daha fazlasını istiyor, bir yandan da kendisine uzatılan şeyi küçümseyerek geri çeviriyor. Düşünüyor, ölçüp biçiyor, sonra yüzünü ekşitiyor, sırtını dönüyor ve \"bu sadece bir büyü, bu sadece insan sözü\" diyor — sanki reddetmenin kendisi zaten bir cevap sayılırmış gibi. Metin bu tavrı tanır ve ona bir isim koymaz, yalnızca sonucunu gösterir. Ardından o ağır soru gelir, ölülerin dilinden: Bizi buraya sürükleyen neydi? Yanıt, büyük bir günah listesi değil; ihtiyacı olana uzanmamak, herkesin aktığı yöne akmak, hesap gününü sürekli ertelemek. Ay üzerine yemin edilir, geceye, sabahın ilk ağarmasına — bunlar tanık tutulur, çünkü dönüşüm de, kaçış da hep o eşiklerde yaşanır. Sure sona ererken herkesin kendi kazandığıyla baş başa bırakıldığını söyler; ne büyük bir aracı yardım edebilir ne de zamanında söylenmiş bir söz geri alınabilir — ve bu hatırlatmanın kapısı, isteyene hâlâ açık durur.",
-  "audienceContext": "Müddessir'in ilk sözleri, 'Ey örtüye sarınan' diye seslenir. Bu hitap, kamuya çıkmış bir figüre değil, içine çekilmiş birine aittir. Metin o ana kadar bir iç deneyim olan şeyi dışa doğru iter: artık söz söylenecek, uyarı yapılacaktır. Muhatap toplum olarak belirlenmiştir; bu, surenin kendi sözüyle 'insanlara bir uyarıcı' olma görevini tanımlamasından anlaşılır.\n\nİlk söz söylenen kalabalık, Tanrı'nın var olmadığına inanan insanlar değildi. Evreni yaratan büyük güç, onlar için de mevcuttu. Kur'an'ın başka yerlerindeki bir ifadeyi anımsarsak: 'Gökleri ve yeri yaratan kimdir?' diye sorulduğunda 'Allah' diyorlardı. Dirençleri başka bir yerdeydi. Bir insanın onlara haber getirip hesap sorabileceği fikri kabul edilemezdi; bir de kabilenin koruması altındaki aracı varlıkları devre dışı bırakmak, onlar için dünyayı baştan kurmak anlamına geliyordu.\n\nSurenin 11-25. ayetleri bu direncin somut bir portresini çizer. Anlatılan tip, serveti ve çocukları olan, rahatı yerinde, üstelik zekalı biridir. Mesaj onun üzerinde etki bırakmıştır; ayet bu etkiyi adım adım gösterir: 'düşündü, hesap etti; baktı; yüzünü ekşitti, surat astı.' Ama sonra geriye döndü ve büyüklüğüne yedirip şöyle dedi: 'Bu, başkasından öğrenilmiş bir sihirden başka şey değildir.' Klasik kaynaklar bu figürü Velid b. Mugire olarak tanımlar; ayet doğrudan isim vermez. Önemli olan şu: metin, bu kişinin anlamadığı için değil, anlamasına rağmen itibarını koruma hesabı yaptığı için geri çekildiğini gösterir. Direnç, cahillikten değil kazanılmış konumu kaybetme korkusundan beslenir.\n\nCahiliye kültürünün temel erdemi güç ve zorbuluktu; yumuşamak küçüklük sayılıyordu. Mesajın ilk yedi ayetinde sıralanan görevler o kültürün tam tersini oluşturuyor: iyiliği minnet hesabına çevirmemek, sabredin (ama şan için değil, yalnızca bu iş için). Bu tablo, varlıklı Mekkelilerin direncini anlamak için bir çerçeve sunar. Mesaj onların servetini değil, servetle gelen statünün kendisini sorguluyor; ve statü sorgulanınca direnç kaçınılmaz hale gelir.",
+  "audienceContext": "Müddessir'in ilk muhatabı, Hicaz'ın ticaret kentinin ortasında yaşayan, söz ve statü düzenini içselleştirmiş bir topluluktu. Bu topluluk için şiir bir silah, hitabet bir iktidar aracı, servet ise meşruiyetin görünür kanıtıydı. Ortak zemin şuydu: Allah'ın var olduğunu, evreni yarattığını kimse tartışmıyordu. Direniş başka bir yerden geliyordu — bir insanın peygamber olabileceği fikrinden, ölümden sonra hesap verileceği iddiasından ve hepsinden önemlisi, mevcut güç dengesini yerinden eden bir eşitlik anlayışından.\n\nSurenin ortasında servetine ve yanında duran oğullarına sahip bir adam anlatılır. Bunları ona verenin daha fazlasını da vereceğini bekler. Bu beklenti, 'iyi şeyler zaten bende olduğuna göre ben doğru yoldayım' mantığıyla kurulmuştur — servet bir lütuf değil, bir hak kanıtıdır. Müfessirler bu adamı rivayete dayanarak Kureyş ileri gelenlerinden biri olarak tanımlar; ama surenin kendisi isim vermez, çünkü anlattığı tutum bir kişiye değil, bir konuma aittir. Direniş de tesadüfi değildi: Aynı bölüm, bu kişinin düşünüp taşındığını, kaşlarını çattığını, sırtını döndüğünü ve ardından topluca benimsenmesini önerdiği bir cümle kurduğunu anlatır — 'bu, eskilerden aktarılmış bir büyüdür.' Karşı çıkış, o an içinden gelmiş bir tepki değil, danışılarak inşa edilmiş bir strateji söylemiydi.\n\nBu dinleyicinin zaten kabul ettiği şey şuydu: güçlü olmanın erdem sayıldığı, yumuşaklığın zayıflık olarak okunduğu bir düzende, mevcut konumunu koruyan adam haklıdır. Sure bu zeminden söz açar ama ortak zemini onaylamaz — aksine o zeminin içindeki bir çatlağı gösterir. Verilen her şeyi bir hak olarak beklemek, aynı zamanda verilmeyeni hak etmemek anlamına gelir; hesap sorulamaz sanılan bir dünyada, hesabın nasıl kaçınılmaz olduğunu anlatır.\n\nDirenç anlamamaktan değil, kaybedecek şeyi olanlardan geliyordu. Velîd benzeri bir figürün meseleyi 'büyü' diye etiketlemesi, içeriğe cevap vermemek için seçilmiş bir yoldur. İçeriği gerçekten tartışmak, kendi konumunu sorgulamayı gerektirirdi.",
   "eventMessageMap": [
     {
-      "situation": "Peygamber örtüsüne bürünmüş, kamuya çıkmadan önce iç bir hâldeydi.",
-      "response": "Metin ona doğrudan seslendi: kalk ve uyar; muhatap artık kişinin kendi içi değil, toplumun tamamıdır.",
-      "shift": "Sessiz bir deneyimden açık bir tebliğe geçiş, bu ayetle tanımlanmış oldu."
+      "situation": "Görevlendirilen kişi, üstüne örtü çekmiş, dışarıda bir şey bekliyordu.",
+      "response": "Metin ona kalk ve uyar dedi; önce kendini düzenle, kibirden ve kirden uzaklaş, verdiğini başa kakma, sabret.",
+      "shift": "Dışarıya yönelik bir çağrı, önce içeriye döndürüldü — göreve hazırlanmak, kendini hazırlamakla başlıyordu."
     },
     {
-      "situation": "Verilen iyilik ve destek, karşılık beklentisiyle minnete dönüşüyordu; bu, toplumsal statü pekiştirmenin bir aracıydı.",
-      "response": "Metin 'verdiğini çok görüp karşılık bekleme' dedi; iyilik ile itibar hesabını birbirinden ayırdı.",
-      "shift": "İyiliğin bir güç aracı olmaktan çıkması, kabilenin minnet ağından kopuşu zorunlu kılıyordu."
+      "situation": "Servet ve çocuk sahibi güçlü bir adam, sahip olduklarını hak olarak görüyor ve daha fazlasını bekliyordu.",
+      "response": "Metin bu beklentiye 'hayır' dedi ve adamın inatla direnen, düşünüp kurguladıktan sonra geri çekilen bir tutum içinde olduğunu adım adım sahneledi.",
+      "shift": "Servetin meşruiyet kanıtı sayıldığı mantık tersine çevrildi: sahip olmak doğruluğun değil, sorumluluktan kaçışın işareti olabilir."
     },
     {
-      "situation": "Mekke'nin varlıklı bir ileri geleni mesajı duydu, etkisini içten hissetti ama itibarını korumak için onu 'öğrenilmiş bir sihir' diye niteledi.",
-      "response": "Metin bu tavrı, düşünüp hesapladıktan sonra geri dönmek olarak sahne sahne kaydetti ve sert bir dille reddetti.",
-      "shift": "Anlayarak reddeden bir tipin portresi çizildi; böylece direnç 'bilgisizlik' değil bilinçli bir tercih meselesi olarak konuldu."
+      "situation": "Kureyş ileri gelenleri yeni çağrıya karşı ortak bir tutum geliştirmek için aralarında istişare yaptı.",
+      "response": "Metin bu kurgulanmış söz birliğini — 'bu büyüdür, eskilerden aktarılmış bir sözdür' — kişinin kendi ağzından aktardı ve ardından sonucunu bildirdi.",
+      "shift": "Topluca benimsenen bir etiketin gerçeği değiştirmediği; direnişin içtenliği değil, hesaplı olması onu daha kırılgan kıldığı ima edildi."
     },
     {
-      "situation": "Cehennemin bekçi sayısı verildi; dinleyiciler sayı üzerinden hesap tartışması açtı.",
-      "response": "Metin hemen ardından bu sayının bir imtihan unsuru olduğunu söyledi: kimisi bu yüzden şüpheye düşer, kimisi için kesinleşir.",
-      "shift": "Sayının kendisi asıl mesele olmaktan çıktı; onu nasıl karşıladığın meselenin merkezine geçti."
+      "situation": "Cehennemin bekçi sayısı verildi ve bu sayı o dönemde tartışma konusu oldu.",
+      "response": "Metin bu sayının bir sınama olduğunu söyledi: inkârcılar için kaygı, kitap ehli için doğrulama, inananlar için pekiştirme vesilesi.",
+      "shift": "Sayıyı çözmeye çalışmak asıl sorudan kaçmak olarak okunabilir hale geldi; mesele rakam değil, sayının yarattığı tutumdu."
     },
     {
-      "situation": "Hesap günü sorgulanan kişiler neden cehenneme girdiklerini üç şeyle açıkladı: yoksulu doyurmamak, dalmışlarla dalmak, hesap gününü yalanlamak.",
-      "response": "Metin bu üç gerekçeyi o kişilerin kendi ağzından aktardı; dışarıdan bir suçlama değil, bir öz tanıklık kurdu.",
-      "shift": "Ahlaki hesap, teolojik bir tartışma olmaktan çıkıp somut davranışların listesine indirgendi."
+      "situation": "Hesap günü sorulan 'sizi cehenneme götüren neydi' sorusuna, orada olanlar dört şeyle cevap verdi.",
+      "response": "Metin bu dört cevabı sıraladı: dua etmedik, yoksulu doyurmadık, boş gevezeliğe katıldık, hesap gününü yalanladık.",
+      "shift": "Kurtuluşu umduğu aracıların kimseyi kurtaramayacağı bildirildi; hesap, dışarıdan gelecek bir müdahaleye değil, kişinin kendi alışkanlıklarına bağlandı."
     }
   ],
-  "apophaticReading": "'Bu sure bir peygamberin göreve başlama belgesidir' okuması metnin kendi mantığıyla çelişir. Çünkü aynı sure, göreve başlayandan çok o görevin niteliğini ayrıntılandırır: iyiliği minnet hesabına çevirme, sabrın nesnesini yanlış belirleme, kirden kaçınma. Bunlar bir görevlendirme protokolü değil, içten dışa doğru bir sıralamadır. Üstelik surenin son ayetleri göreve dönmez; kimin hatırlayabileceği sorusunu bırakır ortada.\n\n'Velid b. Mugire anlatımı, bir cezalandırma hikayesidir' okuması metnin kendi mantığıyla çelişir. Çünkü aynı sure, bu figürün düşünüp hesapladığını, baktığını, etkilendiğini adım adım gösterir. Metin ona aptallık değil, geri adım atma seçimi atfeder. Ceza anlatısı olsaydı bu kadar ayrıntılı bir iç süreç gösterilmezdi; sürecin gösterilmesi, sorunun kasıtlı bir tercihe dayandığını ima eder.\n\n'On dokuz sayısı bir şifre ya da gizli bilgi içerir' okuması metnin kendi mantığıyla çelişir. Çünkü aynı sure, bu sayının tam da neden verildiğini açıklar: inananlar için kesinleştirme, inkarcılar için soru, kalpleri hasta olanlar için şüphe. Metin sayının arkasındaki matematiksel ya da mistik anlama dair tek bir işaret bile vermez; tersine sayının ne işe yaradığını, yani toplumsal ve epistemik işlevini anlatır.\n\nGeriye kalan yönelim: Elenenlerin ardından elde kalan şu: sure, bir öğretinin dışarıdan reddedilmesinden çok içeriden fark edilmesine rağmen geri adım atılmasını inceler. Direnç, anlamayanlardan değil, anlayıp kaybedeceklerini hesaplayanlardan gelir. Bu yönelim, surenin bütününde sürer: sondan önceki ayetler, mesajdan kaçışı aslan kaçkını yaban eşeğine benzeterek saklamayı değil, geri çekilişin kendisini betimler.\n\nBugüne kadar az bakılmış açı: Surenin son ayetlerinde 'isteyen hatırlar' denir, ama hemen ardından 'Allah dilemedikçe hatırlamazlar' eklenir. Bu iki cümle birlikte bir gerilim kurar: iradeyi devreye sokar, sonra iradeyi bir başka şeye bağlar. Editoryal içerikte geçen 'ilgisizlik' anlatısı genellikle birinci cümle üzerinde durur, ikinciyi atlar. Oysa metnin kendisi bu iki cümleyi aynı anda söyler; bunlardan yalnızca biri seçilip okunduğunda sure farklı bir şey söyler hale gelir.\n\nSusma: *Surenin sabredilmesini istediği şeyin insan üzerinde ne bıraktığı buradan görünmez.*",
-  "aiCommentary": "Bu dört bölüm bir yapay zeka tarafından yazılmıştır. Kullanılan kaynaklar şunlardır: kullanıcının sağladığı Arapça metin, TDV İslâm Ansiklopedisi'nden alınan ve doğrulanmış editoryal içerik, Cahiliye dönemi hakkındaki editoryal zemin (TDV 'Câhiliye' maddesi) ve nüzul sırası için Prof. Dr. Mehmet Okuyan'ın tertibi. Hiçbir bölüm bu kaynaklarda dayanağı bulunmayan bir iddia içermez; dayanağı belirsiz olan yerlerde yorum değil, gözlem dili kullanılmıştır.\n\nApophatik okuma (olumsuzlama yöntemi) kasıtlı olarak seçilmiştir. 'Metin şunu söylüyor' biçiminde kurulan bir okuma, yazarın maksadını bilinmişçesine sunar. Oysa bir metnin ne söylediğini söylemek her zaman bir yorumdur; yaratanın ya da ilk söyleyenin maksadına dair her cümle nihayetinde insanın tahminidir. Bu nedenle yöntem, 'şunu söylüyor' yerine 'şu okuma metnin kendi mantığıyla çelişir' biçiminde kurulmuştur. Geriye kalan, bir kesinlik değil, bir yönelim alanıdır.\n\nBu metin bir tefsir değildir; ayetlerin dini yorumunu sistemli biçimde sunan bir eser iddiası taşımaz. Bir meal değildir; ayetlerin Türkçe çevirisi yapılmamıştır. Bir fetva değildir; herhangi bir davranışın dini hükmü hakkında karar içermez. Burada yazılanlar, yeni kaynaklara, yeni okumalara ve yeni sorulara göre değişebilir; herhangi bir görüşün son ya da yetkili biçimi olarak sunulmamaktadır."
+  "apophaticReading": "'Müddessir bir azap suresidir' okuması metnin kendi mantığıyla çelişir. Çünkü aynı sure, ilk yedi ayette muhatabına ne yapacağını söylerken 'sen doğrusun, ötekiler yanlış' değil, 'elbiseni temizle, kibirden uzaklaş, verdiğini başa kakma' der. Azap tasviri ancak on birinci ayette başlar ve muhatabı suçlamak için değil, bir tutumun nereye vardığını göstermek için kurulur. Azap merkeze alındığında ilk yedi ayetin iç düzenlemesi görünmez olur.\n\n'Bu sure şefaati reddeder' okuması da metnin kendi mantığıyla gerilim içindedir. Çünkü aynı sure, kırk sekizinci ayette 'şefaatçilerin şefaati onlara fayda vermez' derken 'onlara' der — dört alışkanlığı anlatan kişilere. Metnin kendisi şefaatin varlığını ya da yokluğunu genel bir ilke olarak tartışmaz; aracı bekleyerek o dört alışkanlığı terk etmenin bir sonucu olarak çalışmayan bir beklentiyi anlatır. Genel bir reddi koyduğumuzda metnin 'onlara' diye daraltması anlamsızlaşır.\n\nGeriye kalan yönelim şu alana işaret eder: sure, bir kişiyi kurtaracak dışsal aracın değil, kişinin kendi alışkanlıklarının merkeze alındığı bir sorumluluk çerçevesi kurar. Dört alışkanlık — yönelmek, yoksulu doyurmak, boş gevezelikten uzak durmak, hesabı ciddiye almak — ne bir ritüel listesidir ne de bir kurtuluş formülü; bunlar, metnin içindeki hesap sahnesinde bizzat o sahnede bulunan kişilerin ağzından dökülen kendi eksiklikleridir.\n\nBugüne kadar az bakılmış açı şurasıdır: surenin ortasında inatla direnen adamın tutumu adım adım sahnelenir — düşündü, kurguladı, baktı, kaşlarını çattı, sırtını döndü, söyledi. Bu sahne bir öfke patlaması değil, bilinçli bir süreçtir. Editoryal içerikte geçen cahiliye zeminini burada hatırlatmak gerekir: o toplumda 'cahil' olan, bilgisiz olan değil, öfkesine ve çıkarına yenik düşen, şiddeti erdem sayan kişiydi. Adamın yaptığı tam da budur — düşünüp doğruyu anlamasına karşın, konumunu korumak için kurgulanmış bir söz birliği önerir. Bu, bilgisizlikten değil, bilgiye rağmen seçmekten gelen bir direnişin sahnesidir. Müddessir bu ayrımı adım adım gösterir ama müfessirler çoğunlukla adamın kim olduğuyla ilgilenmiş, ne yaptığının bu ayrıntısına daha az bakmıştır.\n\nSusma: *Görevin altında ezilen, uyarmak zorunda olduğunu bilen ama buna nasıl katlanacağını bilmeyen kişinin iç dünyası buradan görünmez.*",
+  "aiCommentary": "Bu dört bölüm yapay zekâ tarafından yazıldı. Denetimde kullanılan kaynaklar şunlardır: TDV İslâm Ansiklopedisi'nin 'Müddessir' ve 'Câhiliye' maddeleri, Diyanet İşleri Başkanlığı Kur'an Yolu Tefsiri, Prof. Dr. Mehmet Okuyan'ın nüzul tertibine ilişkin çalışması ve surenin Arapça metni. Kaynaklar arasındaki ihtilaflar — nüzul sebebi, vahiy kesintisinin süresi, şefaat cümlesinin ağırlık noktası, on dokuz sayısının yorumu — metne yansıtıldı; taraf tutulmadı.\n\nMaksat okuması olumsuzlama yöntemiyle kuruldu. Bu yöntemin nedeni şudur: bir metnin 'şunu söylediğini' iddia etmek, söyleyenin maksadını bilmek demektir; bu ise her zaman insanın tahminidir. Yaygın okumaların metnin kendi iç mantığıyla nerede gerilime girdiğini göstermek, o gerilimi çözmekten daha dürüst bir yoldur. Geriye kalan alan kesinlik diliyle değil, 'yönelim şu yönde' diyerek işaretlendi.\n\nBurada yazılanlar tefsir değildir, meal değildir, fetva da değildir. Tefsir geleneği yüzyıllık birikim ve yöntem gerektirir; meal, kaynak dilin anlamını hedef dile taşıma sorumluluğunu üstlenir; fetva ise belirli bir durumda ne yapılması gerektiğine hüküm verir. Bu metin bunların hiçbirini yapmıyor. Yeni bir kaynak, yeni bir filolojik bulgu ya da farklı bir bağlam bilgisi geldiğinde buradaki yorumlar değişebilir ve değişmelidir."
 }

@@ -23,10 +23,7 @@ import { promisify } from "node:util";
 const run = promisify(execFile);
 const PROJECT = new URL("..", import.meta.url).pathname.replace(/\/$/, "");
 
-const SUPABASE_URL =
-  process.env.SUPABASE_DATABASE_URL ??
-  "postgresql://postgres.vsxasvdmhkxloptnwrru:z9pdWm7C9MTL5o8d" +
-    "@aws-0-eu-central-1.pooler.supabase.com:6543/postgres?sslmode=require";
+const SUPABASE_URL = process.env.SUPABASE_DATABASE_URL;
 
 const args = process.argv.slice(2);
 const skipGit = args.includes("--no-git");
@@ -34,6 +31,13 @@ const surahs = args.filter(a => !a.startsWith("--"));
 
 if (!surahs.length) {
   console.error("Kullanım: node scripts/yayinla.mjs <sureNo> [...] [--no-git]");
+  process.exit(1);
+}
+
+if (!SUPABASE_URL) {
+  console.error(
+    "SUPABASE_DATABASE_URL tanımlı değil. Parolalı bağlantı dizesini güvenli bir ortam değişkeni olarak verin.",
+  );
   process.exit(1);
 }
 

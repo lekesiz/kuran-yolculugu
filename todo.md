@@ -199,6 +199,20 @@ menfaati gütmeyen tarafsız aktarım, ve yeni neslin sıkılmadan anlayacağı 
 - [x] Üretim aracı (`cekim/maksat_uret.py`) — sözleşme denetimi üretim sırasında çalışıyor
 - [x] 114 durağa üretildi, kalite denetimi (`cekim/maksat_denetim.py`) 0 sorun
 - [x] İki veritabanına yüklendi (MySQL 114 · Supabase 114)
+
+## Faz 17 — Manus bağımsızlığı ve tam yedekleme (22 Ağustos 2026)
+
+- [x] Kod, içerik, veritabanı, yapılandırma ve zamanlanmış görev bağımlılık envanterini çıkar
+- [x] GitHub deposunda tüm proje ve içerik üretim kaynaklarının bulunduğunu doğrula; eksikleri güvenli biçimde yedekle
+- [x] Supabase Postgres veritabanını taşınabilir SQL yedeğine al ve satır/kapsam sayılarıyla doğrula
+- [x] Vercel proje/alan adı/ortam değişkenleri ile Supabase Auth yapılandırmasını gizli değerleri ifşa etmeden kaydet
+- [ ] Kalıcı bulut bilgisayarda günlük gözden geçirme turunu gerçekten çalıştıran bağımsız zamanlanmış ajan görevi kur ve kuru koşuyla doğrula
+- [x] Manus servislerine erişmeden t1o.net, Supabase Auth, sure verileri, meal katmanları ve kullanıcı işlemlerini uçtan uca doğrula
+- [x] Geri yükleme belgesi, bütünlük manifestosu ve kullanıcıya indirilebilir yedek paketini hazırla
+- [x] `scripts/yayinla.mjs` içindeki gömülü Supabase veritabanı parolasını kaldır; yalnız ortam değişkenini kabul et
+- [x] Git geçmişinde açığa çıkmış Supabase veritabanı parolasını değiştir ve Vercel ortam değişkenini güncelle
+- [ ] Parola değişiminden sonra Vercel üretim dağıtımını tetikle; t1o.net veri, Auth, not ve ilerleme akışlarını yeni bağlantıyla doğrula
+- [x] Müddessir "sihirbaz ithamı" ihtilaf notunda rivayet görüşü ile TDV itirazını açık karşıtlık diliyle birlikte an
 - [x] Sözleşme testleri: taraf tutma, vaaz dili, klişe, Arapça kalıntı, şerh zorunluluğu (70 test geçiyor)
 - [x] Yayınlandı ve t1o.net üzerinde canlı doğrulandı (3 durak örneklendi, dört katman tam)
 - [x] Günlük tur yordamı güncellendi (`GUNLUK_TUR2.md` 5c) ve zamanlanmış görev talimatına işlendi

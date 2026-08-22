@@ -11,14 +11,18 @@ import { connect } from "./seed-lib.mjs";
 
 const limit = Number(process.argv[2]) || 5;
 const conn = await connect();
+const col = name => (conn.dialect === "postgres" ? `"${name}"` : name);
 
 const [rows] = await conn.execute(
-  `SELECT stationNo, surahNo, name, verseCount, revisionPass
-     FROM surahs WHERE revisionPass < 2
-     ORDER BY stationNo LIMIT ${Math.max(1, Math.min(50, limit))}`,
+  `SELECT ${col("stationNo")}, ${col("surahNo")}, ${col("name")},
+          ${col("verseCount")}, ${col("revisionPass")}
+     FROM surahs WHERE ${col("revisionPass")} < 2
+     ORDER BY ${col("stationNo")} LIMIT ${Math.max(1, Math.min(50, limit))}`,
 );
 const [[totals]] = await conn.execute(
-  "SELECT COUNT(*) AS total, SUM(revisionPass >= 2) AS done FROM surahs",
+  `SELECT COUNT(*) AS total,
+          SUM(CASE WHEN ${col("revisionPass")} >= 2 THEN 1 ELSE 0 END) AS done
+     FROM surahs`,
 );
 await conn.end();
 
@@ -36,4 +40,3 @@ rows.forEach((r, i) => {
 const first = rows[0];
 console.log(`\nBugünün durağı: ${first.name} (sure ${first.surahNo}, durak ${first.stationNo})`);
 process.exit(0);
-

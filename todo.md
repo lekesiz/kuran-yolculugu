@@ -206,12 +206,15 @@ menfaati gütmeyen tarafsız aktarım, ve yeni neslin sıkılmadan anlayacağı 
 - [x] GitHub deposunda tüm proje ve içerik üretim kaynaklarının bulunduğunu doğrula; eksikleri güvenli biçimde yedekle
 - [x] Supabase Postgres veritabanını taşınabilir SQL yedeğine al ve satır/kapsam sayılarıyla doğrula
 - [x] Vercel proje/alan adı/ortam değişkenleri ile Supabase Auth yapılandırmasını gizli değerleri ifşa etmeden kaydet
-- [ ] Kalıcı bulut bilgisayarda günlük gözden geçirme turunu gerçekten çalıştıran bağımsız zamanlanmış ajan görevi kur ve kuru koşuyla doğrula
+- [x] Kalıcı bulut bilgisayarda günlük gözden geçirme turunu gerçekten çalıştıran bağımsız zamanlanmış ajan görevi kur ve kuru koşuyla doğrula
+- [x] `scripts/yayinla.mjs` için Manus veritabanını atlayıp Supabase + GitHub + t1o.net doğrulaması yapan `--skip-manus` seçeneğini ekle
+- [x] Bulut bilgisayarda uygulama/editoryal dizinlerini kur, bağımlılıkları yükle ve üretim sırlarını 600 izinli dosyada sağla
+- [x] OpenClaw günlük editoryal görevi ile bir saat sonraki bağımsız doğrulama görevini Europe/Paris saat diliminde etkinleştir
 - [x] Manus servislerine erişmeden t1o.net, Supabase Auth, sure verileri, meal katmanları ve kullanıcı işlemlerini uçtan uca doğrula
 - [x] Geri yükleme belgesi, bütünlük manifestosu ve kullanıcıya indirilebilir yedek paketini hazırla
 - [x] `scripts/yayinla.mjs` içindeki gömülü Supabase veritabanı parolasını kaldır; yalnız ortam değişkenini kabul et
 - [x] Git geçmişinde açığa çıkmış Supabase veritabanı parolasını değiştir ve Vercel ortam değişkenini güncelle
-- [ ] Parola değişiminden sonra Vercel üretim dağıtımını tetikle; t1o.net veri, Auth, not ve ilerleme akışlarını yeni bağlantıyla doğrula
+- [x] Parola değişiminden sonra Vercel üretim dağıtımını tetikle; t1o.net veri, Auth, not ve ilerleme akışlarını yeni bağlantıyla doğrula
 - [x] Müddessir "sihirbaz ithamı" ihtilaf notunda rivayet görüşü ile TDV itirazını açık karşıtlık diliyle birlikte an
 - [x] Sözleşme testleri: taraf tutma, vaaz dili, klişe, Arapça kalıntı, şerh zorunluluğu (70 test geçiyor)
 - [x] Yayınlandı ve t1o.net üzerinde canlı doğrulandı (3 durak örneklendi, dört katman tam)

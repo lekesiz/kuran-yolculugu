@@ -15,6 +15,7 @@
  * Usage:
  *   node scripts/yayinla.mjs 96          # seed surah 96 to both DBs, push, verify
  *   node scripts/yayinla.mjs 96 --no-git # databases only (no code change to ship)
+ *   node scripts/yayinla.mjs 96 --skip-manus # Supabase + GitHub + t1o.net only
  */
 import "dotenv/config";
 import { execFile } from "node:child_process";
@@ -27,6 +28,7 @@ const SUPABASE_URL = process.env.SUPABASE_DATABASE_URL;
 
 const args = process.argv.slice(2);
 const skipGit = args.includes("--no-git");
+const skipManus = args.includes("--skip-manus");
 const surahs = args.filter(a => !a.startsWith("--"));
 
 if (!surahs.length) {
@@ -57,11 +59,15 @@ async function sh(cmd, cmdArgs, opts = {}) {
 }
 
 // ── 1. Manus (MySQL) ────────────────────────────────────────────────────────
-step("Manus veritabanına yükleniyor (MySQL)");
-try {
-  console.log(await sh("node", ["scripts/seed.mjs", ...surahs]));
-} catch (err) {
-  fail(`Manus yüklemesi başarısız: ${err.message}`);
+if (skipManus) {
+  step("Manus veritabanı atlandı (bağımsız yayın modu)");
+} else {
+  step("Manus veritabanına yükleniyor (MySQL)");
+  try {
+    console.log(await sh("node", ["scripts/seed.mjs", ...surahs]));
+  } catch (err) {
+    fail(`Manus yüklemesi başarısız: ${err.message}`);
+  }
 }
 
 // ── 2. Supabase (Postgres) ──────────────────────────────────────────────────
@@ -123,7 +129,11 @@ for (const f of await readdir(contentDir)) {
 }
 
 let allOk = true;
-for (const base of ["https://t1o.net", "https://kuranokuma-gucsoe7t.manus.space"]) {
+const liveBases = skipManus
+  ? ["https://t1o.net"]
+  : ["https://t1o.net", "https://kuranokuma-gucsoe7t.manus.space"];
+
+for (const base of liveBases) {
   for (const stationNo of stationNos) {
     try {
       const s = await liveStation(base, stationNo);
